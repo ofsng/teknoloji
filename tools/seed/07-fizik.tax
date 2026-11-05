@@ -1,0 +1,163 @@
+Physics and Applied Physics | Fizik ve Uygulamalı Fizik | id=physics; slug=Fizik-ve-Uygulamali-Fizik; src=OECD-FORD:1.3,arXiv:physics,arXiv:cond-mat,arXiv:hep,arXiv:astro-ph,PACS; def=Madde, enerji, uzay-zaman ve bunların etkileşimlerini inceleyen temel bilim ile bu bilginin teknolojik uygulamaları. Astronomi ve astrofizik (arXiv astro-ph, OECD 1.3 uyarınca) bu disiplin altındadır.
+  Classical Mechanics | Klasik Mekanik | src=arXiv:physics.class-ph
+    Lagrangian and Hamiltonian Mechanics | Lagrange ve Hamilton Mekaniği | slug=Lagrange-ve-Hamilton-Mekanigi
+    Continuum Mechanics | Sürekli Ortamlar Mekaniği
+    Nonlinear Dynamics and Chaos in Physics | Fizikte Doğrusal Olmayan Dinamik | slug=Fizikte-Dogrusal-Olmayan-Dinamik; rel=chaos-theory
+  Classical Electrodynamics | Klasik Elektrodinamik
+  Thermodynamics and Statistical Physics | Termodinamik ve İstatistiksel Fizik | slug=Termodinamik-ve-Istatistiksel-Fizik; src=arXiv:cond-mat.stat-mech
+    Classical Thermodynamics | Klasik Termodinamik
+    Statistical Mechanics | İstatistiksel Mekanik
+      Phase Transitions and Critical Phenomena | Faz Geçişleri ve Kritik Olaylar | slug=Faz-Gecisleri
+      Non-Equilibrium Statistical Mechanics | Denge Dışı İstatistiksel Mekanik
+    Stochastic Thermodynamics | Stokastik Termodinamik
+    Quantum Thermodynamics | Kuantum Termodinamiği | status=emerging
+  Fluid Dynamics | Akışkanlar Dinamiği | src=arXiv:physics.flu-dyn
+    Turbulence | Türbülans
+    Multiphase Flow | Çok Fazlı Akış
+    Microfluidics | Mikroakışkanlar | rel=lab-on-a-chip
+    Rheology | Reoloji
+    Magnetohydrodynamics | Manyetohidrodinamik | alias=MHD
+  Acoustics | Akustik
+    Ultrasonics | Ultrasonik
+    Architectural Acoustics | Mimari Akustik
+    Underwater Acoustics | Sualtı Akustiği | alias=Sonar
+    Acoustic Metamaterials | Akustik Metamalzemeler
+    Phononics | Fononik
+    Noise and Vibration Control | Gürültü ve Titreşim Kontrolü | slug=Gurultu-ve-Titresim-Kontrolu
+  Quantum Mechanics | Kuantum Mekaniği | src=arXiv:quant-ph
+    Foundations of Quantum Mechanics | Kuantum Mekaniğinin Temelleri | alias=Interpretations,Bell inequalities
+    Open Quantum Systems | Açık Kuantum Sistemleri | alias=Decoherence
+    Quantum Field Theory | Kuantum Alan Teorisi
+      Quantum Electrodynamics | Kuantum Elektrodinamiği | alias=QED
+      Quantum Chromodynamics | Kuantum Renk Dinamiği | alias=QCD
+      Lattice Field Theory | Kafes Alan Teorisi | src=arXiv:hep-lat
+  Atomic, Molecular and Optical Physics | Atom, Molekül ve Optik Fizik | alias=AMO; slug=Atom-Molekul-ve-Optik-Fizik; src=arXiv:physics.atom-ph
+    Atomic Physics | Atom Fiziği
+    Molecular Physics | Molekül Fiziği
+    Laser Cooling and Trapping | Lazer Soğutma ve Tuzaklama | alias=MOT,Optical tweezers; slug=Lazer-Sogutma-ve-Tuzaklama
+    Ultracold Atoms | Ultrasoğuk Atomlar | alias=BEC,Degenerate Fermi gases; src=arXiv:cond-mat.quant-gas
+    Precision Spectroscopy | Hassas Spektroskopi
+    Attosecond Physics | Attosaniye Fiziği
+  Condensed Matter Physics | Yoğun Madde Fiziği | src=arXiv:cond-mat
+    Solid State Physics | Katı Hal Fiziği
+      Crystallography | Kristalografi | alias=X-ray diffraction
+      Electronic Band Theory | Elektronik Bant Teorisi
+      Lattice Dynamics and Phonons | Kafes Dinamiği ve Fononlar | slug=Kafes-Dinamigi-ve-Fononlar
+    Semiconductor Physics | Yarı İletken Fiziği
+      Carrier Transport | Taşıyıcı İletimi
+      Heterostructures and Quantum Wells | Heteroyapılar ve Kuantum Kuyuları | slug=Heteroyapilar
+    Magnetism | Manyetizma
+      Ferromagnetism and Antiferromagnetism | Ferromanyetizma ve Antiferromanyetizma | slug=Ferro-ve-Antiferromanyetizma
+      Spintronics | Spintronik
+        Magnetic Tunnel Junctions | Manyetik Tünel Eklemleri | alias=MTJ; app=magnetoresistive-ram
+        Spin-Orbit Torque | Spin-Yörünge Torku
+        Magnonics | Magnonik
+        Skyrmionics | Skyrmionik | status=emerging
+      Altermagnetism | Altermanyetizma | status=emerging; conf=medium
+    Superconductivity | Süperiletkenlik | src=arXiv:cond-mat.supr-con
+      Conventional Superconductors | Geleneksel Süperiletkenler | alias=BCS theory
+      High-Temperature Superconductors | Yüksek Sıcaklık Süperiletkenleri | alias=Cuprates,REBCO
+      Iron-Based Superconductors | Demir Tabanlı Süperiletkenler
+      Josephson Junctions | Josephson Eklemleri
+    Strongly Correlated Electron Systems | Güçlü Korelasyonlu Elektron Sistemleri | src=arXiv:cond-mat.str-el
+    Topological Phases of Matter | Maddenin Topolojik Fazları
+      Topological Insulators | Topolojik Yalıtkanlar
+      Topological Semimetals | Topolojik Yarı Metaller | alias=Weyl,Dirac
+      Quantum Hall Effects | Kuantum Hall Etkileri
+    Mesoscopic Physics | Mezoskopik Fizik | src=arXiv:cond-mat.mes-hall
+    Soft Condensed Matter | Yumuşak Yoğun Madde | src=arXiv:cond-mat.soft
+      Liquid Crystals | Sıvı Kristaller
+      Colloids | Koloidler
+      Active Matter | Aktif Madde
+    Disordered Systems and Glasses | Düzensiz Sistemler ve Camlar | slug=Duzensiz-Sistemler; alias=Spin glasses
+    Moire and Twistronics | Moiré ve Twistronik | alias=Twisted bilayer graphene; status=emerging; slug=Moire-ve-Twistronik
+  Nuclear Physics | Nükleer Fizik | src=arXiv:nucl-th,arXiv:nucl-ex
+    Nuclear Structure | Çekirdek Yapısı
+    Nuclear Reactions | Nükleer Tepkimeler
+    Nuclear Astrophysics | Nükleer Astrofizik
+    Neutron Physics | Nötron Fiziği
+  Particle Physics | Parçacık Fiziği | alias=High energy physics; src=arXiv:hep-ex,arXiv:hep-ph,arXiv:hep-th
+    Standard Model Physics | Standart Model Fiziği
+      Electroweak Theory | Elektrozayıf Teori
+      Higgs Physics | Higgs Fiziği
+      Flavor Physics | Çeşni Fiziği
+    Neutrino Physics | Nötrino Fiziği
+    Beyond the Standard Model | Standart Modelin Ötesi | alias=BSM,Supersymmetry
+    String Theory | Sicim Teorisi | status=theoretical
+    Particle Detectors | Parçacık Dedektörleri | src=arXiv:physics.ins-det
+      Calorimeters | Kalorimetreler
+      Tracking Detectors | İz Dedektörleri | alias=Silicon pixel detectors
+      Cherenkov Detectors | Çerenkov Dedektörleri
+      Scintillation Detectors | Sintilasyon Dedektörleri
+      Time Projection Chambers | Zaman İzdüşüm Odaları | alias=TPC
+    Trigger and Data Acquisition Systems | Tetikleme ve Veri Toplama Sistemleri | slug=Tetikleme-ve-Veri-Toplama
+  Accelerator Physics | Hızlandırıcı Fiziği | src=arXiv:physics.acc-ph
+    Linear Accelerators | Doğrusal Hızlandırıcılar | alias=LINAC
+    Circular Accelerators | Dairesel Hızlandırıcılar | alias=Synchrotron,Cyclotron
+    Superconducting RF Cavities | Süperiletken RF Kaviteleri | alias=SRF
+    Plasma Wakefield Acceleration | Plazma Uyanık Alanı Hızlandırma | status=emerging
+    Synchrotron Light Sources | Senkrotron Işık Kaynakları
+    Free-Electron Lasers | Serbest Elektron Lazerleri | alias=XFEL
+    Spallation Neutron Sources | Parçalanma Nötron Kaynakları
+  Plasma Physics | Plazma Fiziği | src=arXiv:physics.plasm-ph
+    Magnetically Confined Plasmas | Manyetik Hapsedilmiş Plazmalar | rel=magnetic-confinement-fusion
+    Low-Temperature Plasmas | Düşük Sıcaklık Plazmaları | rel=plasma-processing-of-materials
+    Laser-Plasma Interactions | Lazer-Plazma Etkileşimleri
+    Space Plasma Physics | Uzay Plazma Fiziği | src=arXiv:physics.space-ph
+    Plasma Diagnostics | Plazma Teşhis Yöntemleri
+  General Relativity and Gravitation | Genel Görelilik ve Kütleçekim | src=arXiv:gr-qc; slug=Genel-Gorelilik-ve-Kutlecekim
+    Gravitational Waves | Kütleçekim Dalgaları
+      Laser Interferometric Gravitational-Wave Detectors | Lazer Girişimölçer Kütleçekim Dalgası Dedektörleri | alias=LIGO,Virgo; slug=Lazer-Girisimolcer-KD-Dedektorleri
+      Pulsar Timing Arrays | Pulsar Zamanlama Dizileri
+    Black Hole Physics | Kara Delik Fiziği
+    Quantum Gravity | Kuantum Kütleçekimi | status=theoretical
+    Numerical Relativity | Sayısal Görelilik
+  Astronomy and Astrophysics | Astronomi ve Astrofizik | src=arXiv:astro-ph,OECD-FORD:1.3
+    Cosmology | Kozmoloji | src=arXiv:astro-ph.CO
+      Cosmic Microwave Background | Kozmik Mikrodalga Arka Plan | alias=CMB
+      Dark Matter | Karanlık Madde
+      Dark Energy | Karanlık Enerji
+    Galactic and Extragalactic Astronomy | Galaktik ve Galaksi Ötesi Astronomi | src=arXiv:astro-ph.GA; slug=Galaktik-ve-Galaksi-Otesi
+    Stellar Astrophysics | Yıldız Astrofiziği | src=arXiv:astro-ph.SR
+    Solar Physics | Güneş Fiziği
+    High-Energy Astrophysics | Yüksek Enerji Astrofiziği | src=arXiv:astro-ph.HE
+    Planetary Science | Gezegen Bilimi | src=arXiv:astro-ph.EP
+      Exoplanet Science | Ötegezegen Bilimi
+        Transit Photometry | Geçiş Fotometrisi
+        Radial Velocity Method | Dikine Hız Yöntemi
+        Direct Imaging of Exoplanets | Ötegezegenlerin Doğrudan Görüntülenmesi | slug=Otegezegen-Dogrudan-Goruntuleme
+    Astrobiology | Astrobiyoloji
+    Multi-Messenger Astronomy | Çok Habercili Astronomi
+    Astronomical Instrumentation | Astronomik Enstrümantasyon | src=arXiv:astro-ph.IM
+      Optical and Infrared Telescopes | Optik ve Kızılötesi Teleskoplar | slug=Optik-ve-Kizilotesi-Teleskoplar
+      Radio Telescopes and Interferometry | Radyo Teleskopları ve İnterferometri | alias=VLBI; slug=Radyo-Teleskoplari
+      X-ray and Gamma-ray Telescopes | X-ışını ve Gama Işını Teleskopları | slug=X-isini-ve-Gama-Teleskoplari
+      Adaptive Optics | Uyarlanabilir Optik
+      Astronomical Spectrographs | Astronomik Spektrograflar
+      Neutrino Telescopes | Nötrino Teleskopları
+    Astroinformatics | Astroenformatik
+  Biophysics | Biyofizik | src=arXiv:physics.bio-ph
+    Molecular Biophysics | Moleküler Biyofizik
+    Single-Molecule Biophysics | Tek Molekül Biyofiziği | alias=Optical tweezers,AFM force spectroscopy
+    Membrane Biophysics | Zar Biyofiziği
+  Chemical Physics | Kimyasal Fizik | src=arXiv:physics.chem-ph; rel=physical-chemistry
+  Computational Physics | Hesaplamalı Fizik | src=arXiv:physics.comp-ph
+    Density Functional Theory | Yoğunluk Fonksiyoneli Teorisi | alias=DFT
+    Quantum Monte Carlo | Kuantum Monte Carlo
+    Particle-in-Cell Simulation | Hücre İçi Parçacık Benzetimi | alias=PIC
+  Medical Physics | Tıbbi Fizik | src=arXiv:physics.med-ph; rel=medical-imaging,radiation-therapy
+  Applied Physics | Uygulamalı Fizik | src=arXiv:physics.app-ph
+    Cryogenics | Kriyojenik
+      Dilution Refrigeration | Seyreltme Soğutması
+      Cryocoolers | Kriyosoğutucular | alias=Pulse tube,Stirling
+    Vacuum Technology | Vakum Teknolojisi
+      Vacuum Pumps | Vakum Pompaları
+      Ultra-High Vacuum | Ultra Yüksek Vakum | alias=UHV
+    Thin Film Technology | İnce Film Teknolojisi | rel=thin-film-deposition
+    Surface Physics | Yüzey Fiziği
+    Terahertz Technology | Terahertz Teknolojisi
+    Magnet Technology | Mıknatıs Teknolojisi
+      Superconducting Magnets | Süperiletken Mıknatıslar
+      Permanent Magnet Materials | Kalıcı Mıknatıs Malzemeleri | alias=NdFeB
+      Pulsed High-Field Magnets | Darbeli Yüksek Alan Mıknatısları
+    Radiation Physics | Radyasyon Fiziği | rel=radiation-detection-and-measurement

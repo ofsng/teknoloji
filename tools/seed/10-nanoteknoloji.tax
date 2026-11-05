@@ -1,0 +1,68 @@
+Nanotechnology | Nanoteknoloji | src=OECD-FORD:2.10,ISO/TC-229,ISO/TS-80004; def=Yaklaşık 1–100 nm ölçeğindeki maddenin anlaşılması, kontrolü ve bu ölçeğe özgü özelliklerden yararlanan malzeme, cihaz ve sistemlerin geliştirilmesi (ISO/TS 80004 terminolojisi).
+  Nanomaterials | Nanomalzemeler | src=ISO/TS-80004
+    Carbon Nanomaterials | Karbon Nanomalzemeler
+      Fullerenes | Fullerenler
+      Carbon Nanotubes | Karbon Nanotüpler | alias=CNT
+        Single-Walled Carbon Nanotubes | Tek Duvarlı Karbon Nanotüpler | alias=SWCNT
+        Multi-Walled Carbon Nanotubes | Çok Duvarlı Karbon Nanotüpler | alias=MWCNT
+      Graphene | Grafen
+        Graphene Synthesis | Grafen Sentezi | alias=CVD graphene,Exfoliation
+        Graphene Oxide | Grafen Oksit
+        Graphene Nanoribbons | Grafen Nanoşeritler
+      Carbon Dots | Karbon Noktalar
+      Nanodiamonds | Nanoelmaslar
+    Two-Dimensional Materials | İki Boyutlu Malzemeler | alias=2D materials; rel=graphene
+      Transition Metal Dichalcogenides | Geçiş Metali Dikalkojenitleri | alias=TMD,MoS2
+      Hexagonal Boron Nitride | Altıgen Bor Nitrür | alias=hBN
+      MXenes | MXene'ler
+      Phosphorene | Fosforen
+      Van der Waals Heterostructures | Van der Waals Heteroyapıları
+    Nanoparticles | Nanoparçacıklar
+      Metal Nanoparticles | Metal Nanoparçacıklar | alias=Au,Ag
+      Metal Oxide Nanoparticles | Metal Oksit Nanoparçacıklar
+      Magnetic Nanoparticles | Manyetik Nanoparçacıklar
+      Quantum Dots | Kuantum Noktalar | app=quantum-dot-displays
+      Core-Shell Nanoparticles | Çekirdek-Kabuk Nanoparçacıklar
+      Upconversion Nanoparticles | Yukarı Dönüşüm Nanoparçacıkları
+    One-Dimensional Nanostructures | Tek Boyutlu Nanoyapılar | slug=1B-Nanoyapilar
+      Nanowires | Nanoteller
+      Nanorods | Nanoçubuklar
+      Nanofibers | Nanolifler | alias=Electrospinning
+    Nanoporous Materials | Nanogözenekli Malzemeler | rel=porous-materials
+    Nanocomposites | Nanokompozitler
+    Nanocellulose | Nanoselüloz
+    Polymeric Nanomaterials | Polimerik Nanomalzemeler | alias=Dendrimers,Micelles
+  Nanofabrication | Nanoüretim
+    Top-Down Nanofabrication | Yukarıdan Aşağı Nanoüretim | rel=lithography
+      Focused Ion Beam Machining | Odaklanmış İyon Demeti İşleme | alias=FIB
+      Scanning Probe Lithography | Taramalı Uç Litografisi | alias=Dip-pen
+    Bottom-Up Nanofabrication | Aşağıdan Yukarı Nanoüretim
+      Molecular Self-Assembly | Moleküler Öz-Birleşim
+      Colloidal Synthesis | Koloidal Sentez
+      Vapor-Liquid-Solid Growth | Buhar-Sıvı-Katı Büyütme | alias=VLS
+    DNA Nanotechnology | DNA Nanoteknolojisi
+      DNA Origami | DNA Origami
+      DNA Computing | DNA Hesaplama | rel=models-of-computation
+    Atomically Precise Manufacturing | Atomik Hassasiyette Üretim | status=emerging; conf=medium
+  Nanoelectronics | Nanoelektronik
+    Single-Electron Devices | Tek Elektron Cihazları
+    Carbon Nanotube Electronics | Karbon Nanotüp Elektroniği
+    2D Material Electronics | 2B Malzeme Elektroniği | slug=2B-Malzeme-Elektronigi
+    Memristive Nanodevices | Memristif Nanocihazlar | rel=resistive-ram
+  Nanophotonics | Nanofotonik | rel=photonics
+    Plasmonics | Plazmonik
+      Surface Plasmon Resonance | Yüzey Plazmon Rezonansı | alias=SPR,LSPR
+      Surface-Enhanced Raman Spectroscopy | Yüzey Güçlendirmeli Raman Spektroskopisi | alias=SERS
+    Nanoantennas | Nanoantenler
+  Nanomechanics and NEMS | Nanomekanik ve NEMS | slug=Nanomekanik-ve-NEMS; rel=mems
+  Nanomedicine | Nanotıp
+    Nanoparticle Drug Delivery | Nanoparçacık İlaç Taşıma
+      Lipid Nanoparticles | Lipit Nanoparçacıklar | alias=LNP; app=mrna-vaccines
+      Liposomes | Lipozomlar
+      Polymeric Nanocarriers | Polimerik Nanotaşıyıcılar
+    Nanotheranostics | Nanoteranostik
+    Nanoparticle Imaging Agents | Nanoparçacık Görüntüleme Ajanları
+  Nanosensors | Nanosensörler | rel=biosensors
+  Nanotoxicology and Nanosafety | Nanotoksikoloji ve Nanogüvenlik | slug=Nanotoksikoloji-ve-Nanoguvenlik
+  Nanometrology | Nanometroloji | rel=materials-characterization
+  Molecular Nanotechnology | Moleküler Nanoteknoloji | status=theoretical; conf=medium; rel=molecular-machines

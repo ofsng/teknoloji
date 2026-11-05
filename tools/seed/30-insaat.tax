@@ -1,0 +1,52 @@
+Civil Engineering and Infrastructure | İnşaat ve Altyapı Teknolojileri | id=civil-engineering; slug=Insaat-ve-Altyapi-Teknolojileri; src=OECD-FORD:2.1,ASCE; def=Yapıların ve altyapı sistemlerinin (ulaşım altyapısı, su, enerji ve kentsel sistemler) tasarımı, inşası ve işletilmesine ilişkin mühendislik ve teknolojiler.
+  Structural Engineering | Yapı Mühendisliği
+    Reinforced Concrete Structures | Betonarme Yapılar
+    Prestressed Concrete | Öngerilmeli Beton
+    Steel Structures | Çelik Yapılar
+    Timber Structures | Ahşap Yapılar | rel=engineered-timber
+    Composite Structures | Kompozit Yapılar
+    Earthquake Engineering | Deprem Mühendisliği
+      Seismic Isolation | Sismik İzolasyon
+      Structural Control and Damping | Yapısal Kontrol ve Sönümleme | alias=Tuned mass damper; slug=Yapisal-Kontrol
+      Performance-Based Seismic Design | Performansa Dayalı Sismik Tasarım
+    Wind Engineering | Rüzgar Mühendisliği
+    Bridge Engineering | Köprü Mühendisliği
+      Cable-Supported Bridges | Kablo Destekli Köprüler | alias=Suspension,Cable-stayed
+    Tall Buildings | Yüksek Binalar
+    Structural Analysis Methods | Yapısal Analiz Yöntemleri | dep=finite-element-method
+  Geotechnical Engineering | Geoteknik Mühendisliği
+    Soil Mechanics | Zemin Mekaniği
+    Foundation Engineering | Temel Mühendisliği
+    Slope Stability | Şev Stabilitesi
+    Ground Improvement | Zemin İyileştirme | alias=Grouting,Jet grouting
+    Tunneling | Tünelcilik
+      Tunnel Boring Machines | Tünel Açma Makineleri | alias=TBM
+      New Austrian Tunneling Method | Yeni Avusturya Tünel Açma Yöntemi | alias=NATM
+    Rock Mechanics | Kaya Mekaniği
+  Transportation Infrastructure | Ulaşım Altyapısı | rel=transportation
+    Highway Engineering | Karayolu Mühendisliği
+    Pavement Engineering | Üstyapı Mühendisliği | rel=asphalt-and-bituminous-materials
+    Airport Engineering | Havalimanı Mühendisliği
+    Port and Harbor Engineering | Liman Mühendisliği | slug=Liman-Muhendisligi
+  Water Resources Engineering | Su Kaynakları Mühendisliği
+    Hydraulic Engineering | Hidrolik Mühendisliği
+      Dam Engineering | Baraj Mühendisliği
+      Open-Channel Hydraulics | Açık Kanal Hidroliği
+    Coastal Engineering | Kıyı Mühendisliği
+    Water Distribution Systems | Su Dağıtım Sistemleri
+    Urban Drainage and Stormwater Management | Kentsel Drenaj ve Yağmur Suyu Yönetimi | slug=Kentsel-Drenaj
+  Construction Technologies | İnşaat Teknolojileri
+    Building Information Modeling | Yapı Bilgi Modellemesi | alias=BIM; src=ISO-19650
+    Prefabrication and Modular Construction | Prefabrikasyon ve Modüler İnşaat | slug=Moduler-Insaat
+    Construction Robotics | İnşaat Robotiği | status=emerging
+    Construction Management | İnşaat Yönetimi
+  Building Science | Yapı Fiziği
+    Building Envelope Technology | Bina Kabuğu Teknolojisi
+    Building Acoustics | Bina Akustiği | rel=architectural-acoustics
+    Fire Safety Engineering | Yangın Güvenliği Mühendisliği
+    Green Building | Yeşil Bina | alias=Passive house,Net-zero buildings
+    Building Automation Systems | Bina Otomasyon Sistemleri | alias=BACnet,KNX
+  Smart Cities and Urban Systems | Akıllı Şehirler ve Kentsel Sistemler | slug=Akilli-Sehirler; conf=medium
+    Urban Digital Twins | Kentsel Dijital İkizler | status=emerging; rel=digital-twins
+  Infrastructure Asset Management | Altyapı Varlık Yönetimi | rel=structural-health-monitoring
+  Surveying and Geomatics | Ölçme ve Geomatik | slug=Olcme-ve-Geomatik

@@ -1,0 +1,66 @@
+---
+id: event-based-vision
+title: "Event-Based Vision"
+title_tr: "Olay Tabanlı Görü"
+type: technology
+parent: computer-vision
+status: emerging
+classification_confidence: high
+aliases: []
+related: ["event-cameras"]
+depends_on: []
+applied_in: []
+classification_refs: []
+content_verified: false
+created: 2026-11-05
+---
+
+# Olay Tabanlı Görü (Event-Based Vision)
+
+## 1. Tanım
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+
+## 2. Temel çalışma prensibi
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+
+<!-- AUTO:BEGIN (kb.py reindex üretir; bu bloğu elle düzenlemeyin) -->
+
+**Konum:** [Kök](../../../../TECHNOLOGIES.md) › [Bilgisayar Bilimleri](../../../_index.md) › [Yapay Zeka](../../_index.md) › [Bilgisayarlı Görü](../_index.md) › **Olay Tabanlı Görü**
+
+## 3. Üst teknoloji
+
+- [Bilgisayarlı Görü](../_index.md)
+
+## 4. Alt teknolojiler
+
+- _Yaprak düğüm (alt sınıflandırma yok)._
+
+## 5. İlişkili teknolojiler
+
+- **İlişkili (Related):** [Olay Kameraları](../../../../Goruntuleme-ve-Gorsellestirme-Teknolojileri/Goruntu-Sensorleri/Olay-Kameralari/_index.md)
+
+**Araştırma kayıtları:** 0 (`Arastirmalar/` klasörüne eklenir)
+
+<!-- AUTO:END -->
+
+## 6. Temel teknik kavramlar
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+
+## 7. Önemli tarihsel gelişmeler
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+
+## 8. Başlıca araştırma konuları
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+
+## 9. Açık teknik problemler
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+
+## 10. Kaynaklar
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._

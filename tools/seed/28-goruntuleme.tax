@@ -1,0 +1,50 @@
+Imaging and Visualization Technologies | Görüntüleme ve Görselleştirme Teknolojileri | id=imaging-and-visualization; slug=Goruntuleme-ve-Gorsellestirme-Teknolojileri; src=IEEE-SPS,SPIE,IS&T,SID; def=Görüntü edinme (kamera ve görüntü sensörleri, hesaplamalı görüntüleme), görüntü gösterme (ekran teknolojileri) ve bilimsel veri görselleştirme teknolojileri. Tıbbi görüntüleme Tıp altında, bilgisayar grafikleri Bilgisayar Bilimleri altında, bilgi görselleştirme İBE altındadır.
+  Image Sensors | Görüntü Sensörleri
+    CMOS Image Sensors | CMOS Görüntü Sensörleri
+      Backside-Illuminated Sensors | Arkadan Aydınlatmalı Sensörler | alias=BSI
+      Stacked Image Sensors | Yığın Görüntü Sensörleri
+      Global Shutter Sensors | Global Deklanşörlü Sensörler
+    CCD Image Sensors | CCD Görüntü Sensörleri
+    Event Cameras | Olay Kameraları | alias=DVS,Neuromorphic vision sensors; status=emerging
+    Single-Photon Imaging Sensors | Tek Foton Görüntüleme Sensörleri | alias=SPAD arrays,QIS
+    Time-of-Flight Cameras | Uçuş Süresi Kameraları
+    Thermal Imaging Cameras | Termal Görüntüleme Kameraları | dep=infrared-detectors
+  Spectral Imaging | Spektral Görüntüleme
+    Multispectral Imaging | Multispektral Görüntüleme
+    Hyperspectral Imaging | Hiperspektral Görüntüleme
+  Computational Imaging | Hesaplamalı Görüntüleme | rel=computational-photography
+    Lensless Imaging | Lenssiz Görüntüleme
+    Light-Field Imaging | Işık Alanı Görüntüleme | alias=Plenoptic
+    Coded Aperture Imaging | Kodlu Açıklık Görüntüleme
+    Compressive Imaging | Sıkıştırmalı Görüntüleme | alias=Single-pixel camera; dep=compressed-sensing
+    Non-Line-of-Sight Imaging | Görüş Hattı Dışı Görüntüleme | status=emerging
+    Phase Retrieval | Faz Geri Kazanımı | alias=Ptychography
+  3D Imaging and Scanning | 3B Görüntüleme ve Tarama | slug=3B-Goruntuleme-ve-Tarama
+    Structured-Light Scanning | Yapılandırılmış Işık Tarama
+    Photogrammetry | Fotogrametri | rel=structure-from-motion
+  High-Speed Imaging | Yüksek Hızlı Görüntüleme
+  X-ray and Industrial Imaging | X-ışını ve Endüstriyel Görüntüleme | slug=Endustriyel-Goruntuleme; rel=industrial-computed-tomography
+    Security Imaging | Güvenlik Görüntüleme | alias=Millimeter-wave body scanners
+  Display Technologies | Ekran Teknolojileri | src=SID
+    Liquid Crystal Displays | Sıvı Kristal Ekranlar | alias=LCD; dep=liquid-crystals
+      Mini-LED Backlighting | Mini-LED Arka Aydınlatma
+    OLED Displays | OLED Ekranlar | dep=organic-light-emitting-diodes
+    MicroLED Displays | MikroLED Ekranlar | dep=microleds; status=emerging
+    Quantum Dot Displays | Kuantum Noktalı Ekranlar | alias=QD-LCD,QD-OLED,QLED
+    Electronic Paper | Elektronik Kağıt | alias=E-ink,Electrophoretic
+    Flexible and Foldable Displays | Esnek ve Katlanabilir Ekranlar | slug=Esnek-Ekranlar
+    Projection Displays | Projeksiyon Ekranları | alias=DLP,LCoS,Laser projection
+    Near-Eye Displays | Göze Yakın Ekranlar | alias=Waveguide combiners,Microdisplays
+    3D and Holographic Displays | 3B ve Holografik Ekranlar | alias=Autostereoscopic,Volumetric; slug=3B-ve-Holografik-Ekranlar
+    Display Backplanes | Ekran Arka Panelleri | alias=LTPS,Oxide TFT; rel=thin-film-transistors
+  Scientific Visualization | Bilimsel Görselleştirme
+    Volume Visualization | Hacim Görselleştirme | rel=volume-rendering
+    Flow Visualization | Akış Görselleştirme
+    Tensor Field Visualization | Tensör Alanı Görselleştirme
+    In-Situ Visualization | Yerinde Görselleştirme | rel=high-performance-computing
+  Color Science | Renk Bilimi | src=CIE
+    Colorimetry | Kolorimetri
+    Color Management | Renk Yönetimi | alias=ICC profiles
+    High Dynamic Range Imaging | Yüksek Dinamik Aralıklı Görüntüleme | alias=HDR
+  Image Quality Assessment | Görüntü Kalitesi Değerlendirmesi
+  Printing and Imaging Reproduction | Baskı ve Görüntü Çoğaltma | slug=Baski-Teknolojileri; alias=Inkjet,Electrophotography

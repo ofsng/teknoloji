@@ -1,0 +1,80 @@
+Manufacturing and Industrial Technologies | Üretim ve Endüstri Teknolojileri | id=manufacturing; slug=Uretim-ve-Endustri-Teknolojileri; src=OECD-FORD:2.3,CIRP,ISO/TC-261; def=Ham madde ve bileşenlerin ürünlere dönüştürülmesini sağlayan üretim süreçleri ile üretim sistemlerinin tasarımı, yönetimi ve optimizasyonu (endüstri mühendisliği).
+  Machining Processes | Talaşlı İmalat
+    Turning and Milling | Tornalama ve Frezeleme | slug=Tornalama-ve-Frezeleme
+    Drilling | Delme
+    Grinding and Abrasive Machining | Taşlama ve Aşındırıcı İşleme | slug=Taslama
+    CNC Machining | CNC İşleme
+    Ultraprecision Machining | Ultra Hassas İşleme | alias=Diamond turning
+  Nontraditional Machining | Geleneksel Olmayan İşleme
+    Electrical Discharge Machining | Elektro Erozyon İşleme | alias=EDM
+    Electrochemical Machining | Elektrokimyasal İşleme | alias=ECM
+    Laser Machining | Lazer İşleme | rel=industrial-lasers
+    Waterjet Machining | Su Jeti ile İşleme
+    Ultrasonic Machining | Ultrasonik İşleme
+  Forming Processes | Şekillendirme Süreçleri
+    Forging | Dövme
+    Rolling | Haddeleme
+    Extrusion | Ekstrüzyon
+    Sheet Metal Forming | Sac Metal Şekillendirme
+      Hydroforming | Hidroform
+      Incremental Sheet Forming | Artımlı Sac Şekillendirme
+  Casting | Döküm
+    Sand Casting | Kum Döküm
+    Investment Casting | Hassas Döküm
+    Die Casting | Basınçlı Döküm
+  Joining Processes | Birleştirme Süreçleri
+    Welding | Kaynak
+      Arc Welding | Ark Kaynağı | alias=MIG,TIG
+      Laser Welding | Lazer Kaynağı
+      Friction Stir Welding | Sürtünme Karıştırma Kaynağı | alias=FSW
+      Electron Beam Welding | Elektron Işın Kaynağı
+    Brazing and Soldering | Sert ve Yumuşak Lehimleme | slug=Lehimleme
+    Adhesive Bonding | Yapıştırma
+  Additive Manufacturing | Eklemeli İmalat | alias=3D printing; src=ISO/ASTM-52900
+    Material Extrusion | Malzeme Ekstrüzyonu | alias=FDM,FFF
+    Vat Photopolymerization | Hazne Fotopolimerizasyonu | alias=SLA,DLP
+      Two-Photon Polymerization | İki Foton Polimerizasyonu
+      Volumetric Additive Manufacturing | Hacimsel Eklemeli İmalat | status=emerging
+    Powder Bed Fusion | Toz Yatağı Füzyonu
+      Laser Powder Bed Fusion | Lazer Toz Yatağı Füzyonu | alias=SLM,DMLS
+      Electron Beam Melting | Elektron Işınla Ergitme | alias=EBM
+      Selective Laser Sintering | Seçici Lazer Sinterleme | alias=SLS
+    Directed Energy Deposition | Yönlendirilmiş Enerji Biriktirme | alias=DED,WAAM
+    Binder Jetting | Bağlayıcı Püskürtme
+    Material Jetting | Malzeme Püskürtme | alias=PolyJet
+    Sheet Lamination | Tabaka Laminasyonu
+    Bioprinting | Biyobaskı | rel=tissue-engineering
+    4D Printing | 4B Baskı | slug=4B-Baski; status=emerging
+    Construction 3D Printing | İnşaat 3B Baskı | rel=construction-technologies
+    Design for Additive Manufacturing | Eklemeli İmalat için Tasarım | alias=DfAM
+  Micro and Nano Manufacturing | Mikro ve Nano İmalat | slug=Mikro-ve-Nano-Imalat; rel=nanofabrication
+  Surface Finishing | Yüzey İşlemleri
+  Manufacturing Systems | Üretim Sistemleri
+    Flexible Manufacturing Systems | Esnek Üretim Sistemleri | alias=FMS
+    Lean Manufacturing | Yalın Üretim
+    Computer-Integrated Manufacturing | Bilgisayarla Bütünleşik Üretim | alias=CIM,CAM
+    Reconfigurable Manufacturing Systems | Yeniden Yapılandırılabilir Üretim Sistemleri
+    Manufacturing Execution Systems | Üretim Yürütme Sistemleri | alias=MES
+  Industry 4.0 | Endüstri 4.0 | alias=Smart manufacturing; rel=industrial-internet-of-things,digital-twins
+    Predictive Maintenance | Kestirimci Bakım | dep=machine-learning
+    Cloud Manufacturing | Bulut Üretim
+  Industrial Engineering | Endüstri Mühendisliği | rel=operations-research
+    Production Planning and Control | Üretim Planlama ve Kontrol | slug=Uretim-Planlama-ve-Kontrol
+    Facility Layout and Location | Tesis Yerleşimi ve Yer Seçimi | slug=Tesis-Yerlesimi
+    Supply Chain Engineering | Tedarik Zinciri Mühendisliği
+      Logistics Optimization | Lojistik Optimizasyonu | alias=Vehicle routing
+    Ergonomics and Human Factors | Ergonomi ve İnsan Faktörleri | slug=Ergonomi
+    Work Study | İş Etüdü
+  Quality Engineering | Kalite Mühendisliği | src=ISO-9001
+    Statistical Process Control | İstatistiksel Süreç Kontrolü | alias=SPC
+    Six Sigma | Altı Sigma
+    Reliability Engineering | Güvenilirlik Mühendisliği | alias=FMEA,FTA
+    Non-Destructive Testing | Tahribatsız Muayene | alias=NDT
+      Ultrasonic Testing | Ultrasonik Muayene
+      Radiographic Testing | Radyografik Muayene
+      Eddy Current Testing | Girdap Akımı Muayenesi
+      Thermographic Inspection | Termografik Muayene
+  Machine Tools | Takım Tezgahları
+  Packaging Technology | Ambalaj Teknolojisi
+  Textile Manufacturing | Tekstil Üretimi | rel=textile-materials
+  Pulp and Paper Technology | Kağıt ve Selüloz Teknolojisi | slug=Kagit-ve-Seluloz

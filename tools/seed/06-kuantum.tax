@@ -1,0 +1,102 @@
+Quantum Science and Technology | Kuantum Bilimleri ve Teknolojileri | id=quantum-science-and-technology; slug=Kuantum-Bilimleri-ve-Teknolojileri; src=arXiv:quant-ph,NIST-Quantum,ISO/IEC-JTC3; def=Kuantum mekaniksel olayların (süperpozisyon, dolanıklık, girişim) bilgi işleme, iletişim, algılama ve ölçümde kullanılmasını inceleyen alan. Kuantum mekaniğinin temel kuramı Fizik altındadır.
+  Quantum Information Theory | Kuantum Bilgi Teorisi | dep=quantum-mechanics
+    Quantum Entanglement Theory | Kuantum Dolanıklık Teorisi
+    Quantum Channels | Kuantum Kanalları
+    Quantum Shannon Theory | Kuantum Shannon Teorisi
+    Quantum Resource Theories | Kuantum Kaynak Teorileri
+    Quantum Measurement Theory | Kuantum Ölçüm Teorisi
+  Quantum Computing | Kuantum Hesaplama
+    Quantum Computing Models | Kuantum Hesaplama Modelleri
+      Gate-Based Quantum Computing | Kapı Tabanlı Kuantum Hesaplama | alias=Circuit model
+      Measurement-Based Quantum Computing | Ölçüm Tabanlı Kuantum Hesaplama | alias=One-way,Cluster state
+      Adiabatic Quantum Computing | Adyabatik Kuantum Hesaplama
+        Quantum Annealing | Kuantum Tavlama
+      Topological Quantum Computing | Topolojik Kuantum Hesaplama | alias=Anyons,Majorana; status=emerging
+      Continuous-Variable Quantum Computing | Sürekli Değişkenli Kuantum Hesaplama
+      Quantum Walks | Kuantum Yürüyüşleri
+    Quantum Algorithms | Kuantum Algoritmaları | rel=quantum-complexity-theory
+      Quantum Fourier Transform Algorithms | Kuantum Fourier Dönüşümü Algoritmaları | slug=QFT-Algoritmalari
+        Shor's Algorithm | Shor Algoritması | id=shors-algorithm
+        Quantum Phase Estimation | Kuantum Faz Kestirimi
+        Hidden Subgroup Problem Algorithms | Gizli Altgrup Problemi Algoritmaları | slug=Gizli-Altgrup-Algoritmalari
+      Amplitude Amplification | Genlik Yükseltme
+        Grover's Algorithm | Grover Algoritması | id=grovers-algorithm
+        Quantum Amplitude Estimation | Kuantum Genlik Kestirimi
+      Quantum Simulation Algorithms | Kuantum Benzetim Algoritmaları
+        Hamiltonian Simulation | Hamiltonyen Benzetimi | alias=Trotterization,Qubitization
+        Quantum Chemistry Algorithms | Kuantum Kimyası Algoritmaları | rel=quantum-chemistry
+      Quantum Linear Algebra Algorithms | Kuantum Lineer Cebir Algoritmaları | alias=HHL,QSVT
+      Variational Quantum Algorithms | Varyasyonel Kuantum Algoritmaları
+        Variational Quantum Eigensolver | Varyasyonel Kuantum Özdeğer Çözücü | alias=VQE
+        Quantum Approximate Optimization Algorithm | Kuantum Yaklaşık Optimizasyon Algoritması | alias=QAOA
+      Quantum Machine Learning | Kuantum Makine Öğrenmesi | status=emerging; rel=machine-learning
+        Quantum Neural Networks | Kuantum Sinir Ağları | alias=Parameterized quantum circuits
+        Quantum Kernel Methods | Kuantum Çekirdek Yöntemleri
+      Quantum Error Mitigation | Kuantum Hata Azaltma | alias=ZNE,PEC
+    Quantum Error Correction | Kuantum Hata Düzeltme | alias=QEC; dep=coding-theory
+      Stabilizer Codes | Stabilizatör Kodları
+        Surface Codes | Yüzey Kodları
+        Color Codes | Renk Kodları
+        Quantum LDPC Codes | Kuantum LDPC Kodları | status=emerging
+      Bosonic Codes | Bozonik Kodlar | alias=Cat codes,GKP
+      Fault-Tolerant Quantum Computation | Hata Toleranslı Kuantum Hesaplama
+        Magic State Distillation | Sihirli Durum Damıtma
+        Lattice Surgery | Kafes Cerrahisi
+      Quantum Error Correction Decoders | Kuantum Hata Düzeltme Kod Çözücüleri | alias=MWPM,Union-find; slug=QEC-Kod-Cozuculeri
+    Qubit Technologies | Kübit Teknolojileri | alias=Quantum hardware
+      Superconducting Qubits | Süperiletken Kübitler | dep=josephson-junctions
+        Transmon Qubits | Transmon Kübitler
+        Fluxonium Qubits | Fluxonium Kübitler
+        Superconducting Cavity Qubits | Süperiletken Kavite Kübitleri | alias=Circuit QED
+      Trapped-Ion Qubits | İyon Tuzağı Kübitleri
+        QCCD Architectures | QCCD Mimarileri
+      Neutral-Atom Qubits | Nötr Atom Kübitleri | alias=Rydberg atoms,Optical tweezers
+      Photonic Qubits | Fotonik Kübitler
+        Linear Optical Quantum Computing | Doğrusal Optik Kuantum Hesaplama | alias=KLM
+        Boson Sampling | Bozon Örnekleme
+      Semiconductor Spin Qubits | Yarı İletken Spin Kübitleri | alias=Gate-defined quantum dots,Si/SiGe
+      Color-Center Qubits | Renk Merkezi Kübitleri | alias=NV centers
+      Topological Qubits | Topolojik Kübitler | status=emerging; conf=medium
+      Molecular Qubits | Moleküler Kübitler | status=emerging
+    Quantum Computer Architecture | Kuantum Bilgisayar Mimarisi
+      Quantum Control Electronics | Kuantum Kontrol Elektroniği | alias=Cryo-CMOS
+      Cryogenic Systems for Quantum Computing | Kuantum Hesaplama için Kriyojenik Sistemler | alias=Dilution refrigerator; slug=Kuantum-Kriyojenik-Sistemler; rel=cryogenics
+      Modular and Distributed Quantum Computing | Modüler ve Dağıtık Kuantum Hesaplama | slug=Dagitik-Kuantum-Hesaplama
+    Quantum Software | Kuantum Yazılımı
+      Quantum Programming Languages | Kuantum Programlama Dilleri
+      Quantum Compilation | Kuantum Derleme | alias=Transpilation,Qubit routing
+      Quantum Circuit Simulation | Kuantum Devre Benzetimi
+        Tensor Networks | Tensör Ağları | alias=MPS,PEPS
+        Stabilizer Simulation | Stabilizatör Benzetimi
+      Quantum Benchmarking and Characterization | Kuantum Kıyaslama ve Karakterizasyon | alias=Randomized benchmarking,Tomography; slug=Kuantum-Kiyaslama
+    Quantum Advantage Demonstrations | Kuantum Üstünlüğü Gösterimleri | alias=Random circuit sampling; conf=medium
+  Quantum Communication | Kuantum İletişimi
+    Quantum Key Distribution | Kuantum Anahtar Dağıtımı | alias=QKD
+      Prepare-and-Measure QKD | Hazırla-ve-Ölç QKD | alias=BB84
+      Entanglement-Based QKD | Dolanıklık Tabanlı QKD | alias=E91
+      Continuous-Variable QKD | Sürekli Değişkenli QKD
+      Measurement-Device-Independent QKD | Ölçüm Cihazından Bağımsız QKD | alias=MDI-QKD,TF-QKD
+      Device-Independent QKD | Cihazdan Bağımsız QKD
+    Quantum Teleportation | Kuantum Işınlama
+    Quantum Repeaters | Kuantum Tekrarlayıcılar
+      Quantum Memories | Kuantum Bellekler
+      Entanglement Distillation | Dolanıklık Damıtma
+    Quantum Networks | Kuantum Ağları | alias=Quantum internet; status=emerging
+    Satellite Quantum Communication | Uydu Kuantum İletişimi
+    Quantum Random Number Generation | Kuantum Rastgele Sayı Üretimi | alias=QRNG
+  Quantum Sensing and Metrology | Kuantum Algılama ve Metroloji | slug=Kuantum-Algilama-ve-Metroloji
+    Atomic Clocks | Atom Saatleri
+      Optical Lattice Clocks | Optik Kafes Saatleri
+      Trapped-Ion Clocks | İyon Tuzağı Saatleri
+      Chip-Scale Atomic Clocks | Yonga Ölçekli Atom Saatleri
+    Quantum Magnetometry | Kuantum Manyetometri
+      Optically Pumped Magnetometers | Optik Pompalı Manyetometreler | alias=OPM,SERF
+      NV-Center Magnetometry | NV Merkezi Manyetometrisi
+      SQUID Magnetometry | SQUID Manyetometrisi | dep=josephson-junctions
+    Atom Interferometry | Atom Girişimölçerliği | alias=Quantum gravimeter,Cold-atom inertial sensors
+    Squeezed-Light Metrology | Sıkıştırılmış Işık Metrolojisi | alias=LIGO squeezing
+    Quantum Imaging | Kuantum Görüntüleme | alias=Ghost imaging
+    Quantum Illumination and Radar | Kuantum Aydınlatma ve Radar | status=emerging; conf=medium; slug=Kuantum-Radar
+  Quantum Simulation | Kuantum Benzetim | alias=Analog quantum simulation
+    Ultracold Atom Quantum Simulators | Ultrasoğuk Atom Kuantum Benzetiçileri | rel=ultracold-atoms
+    Trapped-Ion Quantum Simulators | İyon Tuzağı Kuantum Benzetiçileri

@@ -1,0 +1,77 @@
+Optics and Photonics | Optik ve Fotonik | id=photonics; slug=Optik-ve-Fotonik; src=arXiv:physics.optics,Optica-OCIS,SPIE,OECD-FORD:1.3; def=Işığın üretimi, yayılımı, kontrolü ve algılanması ile ışık-madde etkileşimine dayanan teknolojiler.
+  Geometrical and Wave Optics | Geometrik ve Dalga Optiği | slug=Geometrik-ve-Dalga-Optigi
+    Optical Design | Optik Tasarım | alias=Lens design,Aberration theory
+    Diffractive Optics | Kırınımlı Optik
+    Freeform Optics | Serbest Biçimli Optik
+    Fourier Optics | Fourier Optiği
+    Polarization Optics | Polarizasyon Optiği
+    Optical Coatings | Optik Kaplamalar | alias=Anti-reflection,Dielectric mirrors
+  Lasers | Lazerler
+    Gas Lasers | Gaz Lazerleri | alias=CO2,HeNe,Excimer
+    Solid-State Lasers | Katı Hal Lazerleri | alias=Nd:YAG,Ti:sapphire
+    Fiber Lasers | Fiber Lazerler
+    Semiconductor Lasers | Yarı İletken Lazerler | alias=Laser diodes
+      Vertical-Cavity Surface-Emitting Lasers | Dikey Kavite Yüzey Yayınımlı Lazerler | alias=VCSEL
+      Quantum Cascade Lasers | Kuantum Kaskad Lazerler
+      Distributed Feedback Lasers | Dağıtık Geri Beslemeli Lazerler | alias=DFB
+    Ultrafast Lasers | Ultrahızlı Lazerler | alias=Femtosecond,Mode-locking
+    High-Power Lasers | Yüksek Güçlü Lazerler | alias=Petawatt,CPA
+    Industrial Lasers | Endüstriyel Lazerler
+    Optical Frequency Combs | Optik Frekans Tarakları
+    Laser Stabilization | Lazer Kararlılaştırma | alias=PDH
+  Nonlinear Optics | Doğrusal Olmayan Optik
+    Harmonic Generation | Harmonik Üretimi | alias=SHG
+    Optical Parametric Processes | Optik Parametrik Süreçler | alias=OPO,OPA
+    High-Harmonic Generation | Yüksek Harmonik Üretimi
+    Supercontinuum Generation | Süperkontinuum Üretimi
+  Quantum Optics | Kuantum Optiği
+    Single-Photon Sources | Tek Foton Kaynakları
+    Entangled Photon Sources | Dolanık Foton Kaynakları | alias=SPDC
+    Squeezed Light | Sıkıştırılmış Işık
+    Cavity Quantum Electrodynamics | Kavite Kuantum Elektrodinamiği | alias=Cavity QED
+  Integrated Photonics | Tümleşik Fotonik | alias=Photonic integrated circuits,PIC
+    Silicon Photonics | Silisyum Fotonik
+    Indium Phosphide Photonics | İndiyum Fosfür Fotoniği
+    Silicon Nitride Photonics | Silisyum Nitrür Fotoniği
+    Thin-Film Lithium Niobate Photonics | İnce Film Lityum Niyobat Fotoniği | status=emerging
+    Co-Packaged Optics | Ortak Paketli Optik | status=emerging; rel=advanced-packaging
+    Electro-Optic Modulators | Elektro-Optik Modülatörler
+  Optical Fibers | Optik Fiberler
+    Photonic Crystal Fibers | Fotonik Kristal Fiberler
+    Hollow-Core Fibers | Oyuk Çekirdekli Fiberler | status=emerging
+  Photonic Crystals | Fotonik Kristaller
+  Optical Metamaterials | Optik Metamalzemeler | rel=metamaterials
+    Metalenses | Metalensler | status=emerging
+  Photodetectors | Fotodedektörler
+    Photodiodes | Fotodiyotlar | alias=PIN,APD
+    Single-Photon Avalanche Diodes | Tek Foton Çığ Diyotları | alias=SPAD
+    Superconducting Nanowire Single-Photon Detectors | Süperiletken Nanotel Tek Foton Dedektörleri | alias=SNSPD
+    Infrared Detectors | Kızılötesi Dedektörler | alias=HgCdTe,Microbolometers,Type-II superlattice
+  Light Sources | Işık Kaynakları
+    Light-Emitting Diodes | Işık Yayan Diyotlar | alias=LED
+      MicroLEDs | MikroLED'ler | status=emerging
+    Organic Light-Emitting Diodes | Organik Işık Yayan Diyotlar | alias=OLED
+    Extreme Ultraviolet Light Sources | Aşırı Morötesi Işık Kaynakları | alias=LPP; rel=extreme-ultraviolet-lithography
+  Photonic Computing | Fotonik Hesaplama | status=emerging
+    Optical Neural Networks | Optik Sinir Ağları | status=emerging; rel=deep-learning
+    Optical Interconnects | Optik Ara Bağlantılar
+  Optical Microscopy | Optik Mikroskopi
+    Fluorescence Microscopy | Floresan Mikroskopisi
+      Confocal Microscopy | Konfokal Mikroskopi
+      Multiphoton Microscopy | Çok Fotonlu Mikroskopi
+      Light-Sheet Microscopy | Işık Tabakası Mikroskopisi
+    Super-Resolution Microscopy | Süper Çözünürlüklü Mikroskopi
+      STED Microscopy | STED Mikroskopisi
+      Single-Molecule Localization Microscopy | Tek Molekül Lokalizasyon Mikroskopisi | alias=PALM,STORM,MINFLUX
+      Structured Illumination Microscopy | Yapılandırılmış Aydınlatma Mikroskopisi | alias=SIM
+    Expansion Microscopy | Genişletme Mikroskopisi
+    Quantitative Phase Imaging | Nicel Faz Görüntüleme
+  Biophotonics | Biyofotonik | rel=optical-medical-imaging
+  Optical Spectroscopy Instrumentation | Optik Spektroskopi Enstrümantasyonu | slug=Optik-Spektroskopi-Enstrumantasyonu; rel=spectroscopy
+  Holography | Holografi
+  Optical Manipulation | Optik Manipülasyon | alias=Optical tweezers
+  X-ray Optics | X-ışını Optiği
+  Ultrafast Optics | Ultrahızlı Optik
+  Microwave Photonics | Mikrodalga Fotoniği
+  Optomechanics | Optomekanik
+  Topological Photonics | Topolojik Fotonik | status=emerging

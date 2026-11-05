@@ -1,0 +1,272 @@
+# Yapay Zeka, ACM CCS (Computing methodologies > Artificial intelligence / Machine learning)
+# ve arXiv (cs.AI, cs.LG, cs.CL, cs.CV, cs.NE, cs.MA, stat.ML) uyarınca Bilgisayar Bilimleri altındadır.
+@under computer-science
+Artificial Intelligence | Yapay Zeka | alias=AI; src=arXiv:cs.AI,ACM-CCS:Computing-methodologies>Artificial-intelligence
+  Knowledge Representation and Reasoning | Bilgi Temsili ve Akıl Yürütme | slug=Bilgi-Temsili-ve-Akil-Yurutme
+    Ontologies | Ontolojiler | rel=ontology-languages
+    Semantic Networks and Frames | Anlamsal Ağlar ve Çerçeveler | slug=Anlamsal-Aglar-ve-Cerceveler
+    Non-Monotonic Reasoning | Monoton Olmayan Akıl Yürütme
+    Commonsense Reasoning | Sağduyu Akıl Yürütmesi
+    Probabilistic Reasoning | Olasılıksal Akıl Yürütme
+      Bayesian Networks | Bayes Ağları
+      Markov Random Fields | Markov Rastgele Alanları
+      Probabilistic Logic | Olasılıksal Mantık | alias=Markov logic networks
+    Answer Set Programming | Cevap Kümesi Programlama
+    Argumentation Frameworks | Argümantasyon Çerçeveleri
+    Causal Reasoning in AI | Yapay Zekada Nedensel Akıl Yürütme | dep=structural-causal-models
+  Automated Planning and Scheduling | Otomatik Planlama ve Çizelgeleme | slug=Otomatik-Planlama
+    Classical Planning | Klasik Planlama | alias=STRIPS,PDDL
+    Hierarchical Task Network Planning | Hiyerarşik Görev Ağı Planlama | alias=HTN
+    Probabilistic Planning | Olasılıksal Planlama | alias=MDP,POMDP
+    Temporal Planning | Zamansal Planlama
+    Motion Planning | Hareket Planlama | rel=robot-motion-planning
+  Search and Constraint Satisfaction | Arama ve Kısıt Sağlama
+    Heuristic Search | Sezgisel Arama | alias=A*
+    Adversarial Search | Rakip Arama | alias=Minimax,Alpha-beta
+    Monte Carlo Tree Search | Monte Carlo Ağaç Araması | alias=MCTS
+    Constraint Programming | Kısıt Programlama
+  Machine Learning | Makine Öğrenmesi | src=arXiv:cs.LG,arXiv:stat.ML
+    Supervised Learning | Gözetimli Öğrenme
+      Linear Classifiers | Doğrusal Sınıflandırıcılar | alias=Logistic regression,Perceptron
+      Support Vector Machines | Destek Vektör Makineleri | alias=SVM
+      Decision Trees | Karar Ağaçları
+      Ensemble Methods | Topluluk Yöntemleri
+        Bagging and Random Forests | Bagging ve Rastgele Ormanlar | slug=Rastgele-Ormanlar
+        Gradient Boosting | Gradyan Artırma | alias=XGBoost,LightGBM
+      k-Nearest Neighbors | k-En Yakın Komşu | slug=k-En-Yakin-Komsu
+      Naive Bayes Classifiers | Naive Bayes Sınıflandırıcılar
+    Unsupervised Learning | Gözetimsiz Öğrenme
+      Clustering | Kümeleme
+        Centroid-Based Clustering | Merkez Tabanlı Kümeleme | alias=k-means
+        Density-Based Clustering | Yoğunluk Tabanlı Kümeleme | alias=DBSCAN
+        Hierarchical Clustering | Hiyerarşik Kümeleme
+        Spectral Clustering | Spektral Kümeleme
+        Mixture Models | Karışım Modelleri | alias=GMM,EM
+      Dimensionality Reduction | Boyut İndirgeme
+        Manifold Learning | Manifold Öğrenme | alias=t-SNE,UMAP,Isomap
+      Density Estimation | Yoğunluk Kestirimi
+      Outlier Detection | Aykırı Değer Tespiti | rel=anomaly-detection
+    Semi-Supervised Learning | Yarı Gözetimli Öğrenme
+    Self-Supervised Learning | Öz-Gözetimli Öğrenme
+      Contrastive Learning | Karşıtlıklı Öğrenme | alias=SimCLR,CLIP
+      Masked Modeling | Maskeli Modelleme | alias=BERT-style,MAE
+    Reinforcement Learning | Pekiştirmeli Öğrenme | dep=dynamic-programming
+      Value-Based Methods | Değer Tabanlı Yöntemler
+        Temporal Difference Learning | Zamansal Fark Öğrenmesi | alias=Q-learning,SARSA
+        Deep Q-Networks | Derin Q-Ağları | alias=DQN
+      Policy Gradient Methods | Politika Gradyanı Yöntemleri
+        Actor-Critic Methods | Aktör-Eleştirmen Yöntemleri | alias=A2C,SAC
+        Trust Region Policy Methods | Güven Bölgesi Politika Yöntemleri | alias=TRPO,PPO
+      Model-Based Reinforcement Learning | Model Tabanlı Pekiştirmeli Öğrenme | alias=World models
+      Offline Reinforcement Learning | Çevrimdışı Pekiştirmeli Öğrenme
+      Multi-Agent Reinforcement Learning | Çok Etmenli Pekiştirmeli Öğrenme
+      Inverse Reinforcement Learning | Ters Pekiştirmeli Öğrenme
+      Imitation Learning | Taklit Öğrenme | alias=Behavior cloning
+      Multi-Armed Bandits | Çok Kollu Haydutlar
+      Hierarchical Reinforcement Learning | Hiyerarşik Pekiştirmeli Öğrenme
+    Deep Learning | Derin Öğrenme | dep=stochastic-gradient-methods,automatic-differentiation
+      Neural Network Fundamentals | Sinir Ağı Temelleri
+        Backpropagation | Geri Yayılım
+        Activation Functions | Aktivasyon Fonksiyonları
+        Normalization Techniques | Normalizasyon Teknikleri | alias=BatchNorm,LayerNorm
+        Regularization in Deep Learning | Derin Öğrenmede Düzenlileştirme | alias=Dropout,Weight decay
+        Neural Network Initialization | Sinir Ağı İlklendirme
+        Optimizers for Deep Learning | Derin Öğrenme Optimizasyon Algoritmaları | alias=Adam,AdamW; slug=Derin-Ogrenme-Optimizasyon-Algoritmalari
+      Feedforward Neural Networks | İleri Beslemeli Sinir Ağları | alias=MLP
+      Convolutional Neural Networks | Evrişimli Sinir Ağları | alias=CNN
+        Residual Networks | Artık Ağlar | alias=ResNet
+        Depthwise Separable Convolutions | Derinlik Ayrılabilir Evrişimler | alias=MobileNet
+        Dilated and Deformable Convolutions | Genişletilmiş ve Deforme Edilebilir Evrişimler | slug=Genisletilmis-Evrisimler
+      Recurrent Neural Networks | Yinelemeli Sinir Ağları | alias=RNN
+        Long Short-Term Memory | Uzun Kısa Süreli Bellek | alias=LSTM
+        Gated Recurrent Units | Kapılı Yinelemeli Birimler | alias=GRU
+        Echo State Networks and Reservoir Computing | Yankı Durumu Ağları ve Rezervuar Hesaplama | slug=Rezervuar-Hesaplama
+      Attention Mechanisms | Dikkat Mekanizmaları
+        Self-Attention | Öz-Dikkat
+        Efficient Attention | Verimli Dikkat | alias=Linear attention,FlashAttention,Sparse attention
+      Transformer Architectures | Transformer Mimarileri | slug=Transformer-Mimarileri; dep=self-attention
+        Encoder-Only Transformers | Yalnız Kodlayıcılı Transformer'lar | alias=BERT; slug=Encoder-Only
+        Decoder-Only Transformers | Yalnız Kod Çözücülü Transformer'lar | alias=GPT; slug=Decoder-Only
+        Encoder-Decoder Transformers | Kodlayıcı-Kod Çözücü Transformer'lar | alias=T5; slug=Encoder-Decoder
+        Vision Transformers | Görü Transformer'ları | alias=ViT
+        Positional Encodings | Konum Kodlamaları | alias=RoPE,ALiBi
+      Mixture of Experts | Uzmanlar Karışımı | alias=MoE; slug=Mixture-of-Experts
+      State Space Sequence Models | Durum Uzayı Dizi Modelleri | alias=S4,Mamba; status=emerging; rel=state-space-models
+      Graph Neural Networks | Çizge Sinir Ağları | alias=GNN
+        Message Passing Neural Networks | Mesaj Geçirmeli Sinir Ağları
+        Graph Convolutional Networks | Çizge Evrişimli Ağlar | alias=GCN
+        Graph Attention Networks | Çizge Dikkat Ağları | alias=GAT
+        Equivariant Neural Networks | Eşdeğişimli Sinir Ağları | alias=E(3)-equivariant
+      Generative Models | Üretken Modeller | alias=Generative AI
+        Autoregressive Models | Otoregresif Modeller
+        Variational Autoencoders | Varyasyonel Otokodlayıcılar | alias=VAE; dep=variational-inference
+        Generative Adversarial Networks | Çekişmeli Üretici Ağlar | alias=GAN
+        Normalizing Flows | Normalleştirici Akışlar
+        Diffusion Models | Difüzyon Modelleri
+          Denoising Diffusion Probabilistic Models | Gürültü Giderici Difüzyon Olasılıksal Modelleri | alias=DDPM; slug=DDPM
+          Score-Based Generative Models | Skor Tabanlı Üretken Modeller
+          Latent Diffusion Models | Gizil Difüzyon Modelleri
+          Flow Matching | Akış Eşleme | status=emerging
+        Energy-Based Models | Enerji Tabanlı Modeller
+      Autoencoders | Otokodlayıcılar
+      Spiking Neural Networks | Ateşlemeli Sinir Ağları | alias=SNN; rel=neuromorphic-computing
+      Neural Architecture Search | Sinir Mimarisi Arama | alias=NAS
+      Implicit Neural Representations | Örtük Sinirsel Temsiller | alias=SIREN
+      Neural Network Compression | Sinir Ağı Sıkıştırma
+        Quantization | Nicemleme
+        Pruning | Budama
+        Knowledge Distillation | Bilgi Damıtma
+        Low-Rank Factorization | Düşük Ranklı Ayrıştırma
+    Foundation Models | Temel Modeller | status=emerging
+      Large Language Models | Büyük Dil Modelleri | alias=LLM; dep=transformer-architectures; rel=natural-language-processing
+        LLM Pretraining | LLM Ön Eğitimi
+          Scaling Laws | Ölçekleme Yasaları
+        LLM Alignment | LLM Hizalama | rel=ai-safety
+          Instruction Tuning | Talimat İnce Ayarı
+          Reinforcement Learning from Human Feedback | İnsan Geri Bildiriminden Pekiştirmeli Öğrenme | alias=RLHF
+          Direct Preference Optimization | Doğrudan Tercih Optimizasyonu | alias=DPO; status=emerging
+          Constitutional AI and AI Feedback | Anayasal YZ ve YZ Geri Bildirimi | alias=RLAIF; status=emerging; slug=Anayasal-YZ
+        Parameter-Efficient Fine-Tuning | Parametre Verimli İnce Ayar | alias=LoRA,Adapters
+        In-Context Learning | Bağlam İçi Öğrenme
+        Retrieval-Augmented Generation | Erişimle Zenginleştirilmiş Üretim | alias=RAG; dep=dense-retrieval
+        LLM Reasoning Methods | LLM Akıl Yürütme Yöntemleri | alias=Chain-of-thought; status=emerging
+        LLM Inference Optimization | LLM Çıkarım Optimizasyonu | alias=KV cache,Speculative decoding
+        Long-Context Modeling | Uzun Bağlam Modelleme | status=emerging
+      Multimodal Foundation Models | Çok Kipli Temel Modeller | alias=VLM; status=emerging
+        Vision-Language Models | Görü-Dil Modelleri
+        Text-to-Image Generation | Metinden Görüntü Üretimi | dep=diffusion-models
+        Text-to-Video Generation | Metinden Video Üretimi | status=emerging
+        Speech-Language Models | Konuşma-Dil Modelleri | status=emerging
+      Vision-Language-Action Models | Görü-Dil-Eylem Modelleri | alias=VLA; status=emerging; app=robot-learning
+    Transfer Learning | Aktarım Öğrenmesi
+      Domain Adaptation | Alan Uyarlama
+      Few-Shot Learning | Az Örnekle Öğrenme
+      Zero-Shot Learning | Sıfır Örnekle Öğrenme
+    Meta-Learning | Meta-Öğrenme | alias=MAML
+    Continual Learning | Sürekli Öğrenme | alias=Catastrophic forgetting
+    Active Learning | Aktif Öğrenme
+    Federated Learning | Federe Öğrenme | rel=differential-privacy
+    Online and Streaming Learning | Çevrimiçi ve Akış Öğrenme | slug=Cevrimici-Ogrenme
+    Kernel Methods | Çekirdek Yöntemleri
+    Probabilistic Graphical Models | Olasılıksal Grafik Modeller | rel=bayesian-networks
+      Hidden Markov Models | Gizli Markov Modelleri | alias=HMM
+      Conditional Random Fields | Koşullu Rastgele Alanlar | alias=CRF
+    Bayesian Machine Learning | Bayesçi Makine Öğrenmesi | dep=bayesian-statistics
+      Bayesian Neural Networks | Bayesçi Sinir Ağları
+    Representation Learning | Temsil Öğrenmesi
+      Metric Learning | Metrik Öğrenme
+      Embedding Methods | Gömme Yöntemleri | alias=Word2Vec
+    Learning on Structured Data | Yapılandırılmış Veride Öğrenme
+      Time Series Forecasting with ML | Makine Öğrenmesiyle Zaman Serisi Tahmini | slug=ML-Zaman-Serisi-Tahmini
+      Tabular Deep Learning | Tablo Verisinde Derin Öğrenme
+    Automated Machine Learning | Otomatik Makine Öğrenmesi | alias=AutoML
+      Hyperparameter Optimization | Hiperparametre Optimizasyonu | dep=bayesian-optimization
+    Machine Learning Systems | Makine Öğrenmesi Sistemleri | alias=MLOps
+      Distributed Training | Dağıtık Eğitim | alias=Data/Tensor/Pipeline parallelism
+      Model Serving | Model Sunumu
+      On-Device Machine Learning | Cihaz Üstü Makine Öğrenmesi | alias=TinyML
+    Learning Theory Topics in ML | Makine Öğrenmesi Kuramsal Konuları | slug=ML-Kuramsal-Konular; rel=computational-learning-theory
+      Generalization Theory | Genelleme Teorisi
+      Neural Tangent Kernel Theory | Sinirsel Teğet Çekirdek Teorisi | alias=NTK
+  Natural Language Processing | Doğal Dil İşleme | alias=NLP; src=arXiv:cs.CL
+    Computational Linguistics Foundations | Hesaplamalı Dilbilim Temelleri
+      Tokenization | Tokenleştirme | alias=BPE,SentencePiece
+      Morphological Analysis | Biçimbilimsel Analiz
+      Part-of-Speech Tagging | Sözcük Türü Etiketleme
+      Syntactic Parsing | Sözdizimsel Ayrıştırma
+        Dependency Parsing | Bağlılık Ayrıştırma
+        Constituency Parsing | Öbek Yapısı Ayrıştırma
+      Semantic Parsing | Anlamsal Ayrıştırma
+      Coreference Resolution | Eşgönderim Çözümleme
+    Language Modeling | Dil Modelleme
+      N-gram Language Models | N-gram Dil Modelleri
+      Neural Language Models | Sinirsel Dil Modelleri | rel=large-language-models
+    Machine Translation | Makine Çevirisi
+      Statistical Machine Translation | İstatistiksel Makine Çevirisi | status=historical
+      Neural Machine Translation | Sinirsel Makine Çevirisi
+    Information Extraction | Bilgi Çıkarımı
+      Named Entity Recognition | Adlandırılmış Varlık Tanıma
+      Relation Extraction | İlişki Çıkarımı
+      Event Extraction | Olay Çıkarımı
+    Question Answering | Soru Cevaplama
+    Text Summarization | Metin Özetleme
+    Sentiment Analysis | Duygu Analizi
+    Natural Language Generation | Doğal Dil Üretimi
+    Dialogue Systems | Diyalog Sistemleri
+    Natural Language Inference | Doğal Dil Çıkarımı
+    Multilingual and Low-Resource NLP | Çok Dilli ve Düşük Kaynaklı DDİ | slug=Cok-Dilli-ve-Dusuk-Kaynakli-NLP
+  Speech and Audio Processing | Konuşma ve Ses İşleme | src=arXiv:eess.AS,arXiv:cs.SD
+    Automatic Speech Recognition | Otomatik Konuşma Tanıma | alias=ASR
+      Acoustic Modeling | Akustik Modelleme
+      End-to-End Speech Recognition | Uçtan Uca Konuşma Tanıma | alias=CTC,RNN-T
+    Speech Synthesis | Konuşma Sentezi | alias=TTS
+      Neural Vocoders | Sinirsel Ses Kodlayıcılar
+    Speaker Recognition | Konuşmacı Tanıma
+    Speech Enhancement | Konuşma İyileştirme
+    Audio Source Separation | Ses Kaynağı Ayrıştırma
+    Music Information Retrieval | Müzik Bilgi Erişimi
+  Computer Vision | Bilgisayarlı Görü | src=arXiv:cs.CV
+    Image Classification | Görüntü Sınıflandırma
+    Object Detection | Nesne Tespiti
+      Two-Stage Detectors | İki Aşamalı Dedektörler | alias=R-CNN
+      Single-Stage Detectors | Tek Aşamalı Dedektörler | alias=YOLO,SSD
+      Transformer-Based Detectors | Transformer Tabanlı Dedektörler | alias=DETR
+    Image Segmentation | Görüntü Bölütleme
+      Semantic Segmentation | Anlamsal Bölütleme
+      Instance Segmentation | Örnek Bölütleme
+      Panoptic Segmentation | Panoptik Bölütleme
+    Object Tracking | Nesne Takibi
+    Pose Estimation | Poz Kestirimi
+    3D Computer Vision | 3B Bilgisayarlı Görü | slug=3B-Bilgisayarli-Goru
+      Stereo Vision | Stereo Görü
+      Structure from Motion | Hareketten Yapı Çıkarımı | alias=SfM
+      Multi-View Stereo | Çok Görüşlü Stereo
+      Depth Estimation | Derinlik Kestirimi
+      3D Reconstruction | 3B Yeniden Yapılandırma | slug=3B-Yeniden-Yapilandirma
+    Visual SLAM | Görsel SLAM | rel=simultaneous-localization-and-mapping
+    Optical Flow | Optik Akış
+    Feature Detection and Description | Öznitelik Tespiti ve Tanımlama | alias=SIFT,ORB; slug=Oznitelik-Tespiti
+    Image Restoration | Görüntü Onarımı
+      Image Denoising | Görüntü Gürültü Giderme
+      Super-Resolution | Süper Çözünürlük
+    Video Understanding | Video Anlama
+      Action Recognition | Eylem Tanıma
+    Face Recognition | Yüz Tanıma
+    Optical Character Recognition | Optik Karakter Tanıma | alias=OCR
+    Scene Understanding | Sahne Anlama
+    Event-Based Vision | Olay Tabanlı Görü | rel=event-cameras; status=emerging
+  Multi-Agent Systems | Çok Etmenli Sistemler | src=arXiv:cs.MA
+    Agent Architectures | Etmen Mimarileri | alias=BDI
+    Agent Communication and Negotiation | Etmen İletişimi ve Müzakere | slug=Etmen-Iletisimi-ve-Muzakere
+    Computational Social Choice | Hesaplamalı Sosyal Seçim
+    LLM-Based Agents | LLM Tabanlı Etmenler | alias=Tool use,Agentic AI; status=emerging; dep=large-language-models
+  Evolutionary Computation | Evrimsel Hesaplama | src=arXiv:cs.NE
+    Genetic Algorithms | Genetik Algoritmalar
+    Genetic Programming | Genetik Programlama
+    Evolution Strategies | Evrim Stratejileri | alias=CMA-ES
+    Differential Evolution | Diferansiyel Evrim
+    Neuroevolution | Nöroevrim
+    Estimation of Distribution Algorithms | Dağılım Kestirimi Algoritmaları
+  Fuzzy Systems | Bulanık Sistemler | dep=fuzzy-set-theory
+    Fuzzy Logic Control | Bulanık Mantık Denetimi
+    Neuro-Fuzzy Systems | Nöro-Bulanık Sistemler | alias=ANFIS
+  Expert Systems | Uzman Sistemler | status=historical
+  Neuro-Symbolic AI | Nöro-Sembolik Yapay Zeka | status=emerging
+  Explainable AI | Açıklanabilir Yapay Zeka | alias=XAI
+    Feature Attribution Methods | Öznitelik Atfetme Yöntemleri | alias=SHAP,LIME,Integrated gradients
+    Mechanistic Interpretability | Mekanistik Yorumlanabilirlik | status=emerging
+    Counterfactual Explanations | Karşı-Olgusal Açıklamalar
+  Trustworthy AI | Güvenilir Yapay Zeka
+    AI Safety | Yapay Zeka Güvenliği | status=emerging
+      AI Alignment Research | Yapay Zeka Hizalama Araştırması | status=emerging
+      AI Evaluation and Red Teaming | YZ Değerlendirme ve Kırmızı Takım | slug=YZ-Degerlendirme-ve-Kirmizi-Takim; status=emerging
+    Adversarial Machine Learning | Çekişmeli Makine Öğrenmesi
+      Adversarial Examples | Çekişmeli Örnekler
+      Data Poisoning | Veri Zehirleme
+      Model Extraction and Inversion Attacks | Model Çıkarma ve Tersine Çevirme Saldırıları | slug=Model-Cikarma-Saldirilari
+      Certified Robustness | Sertifikalı Gürbüzlük
+    Fairness in Machine Learning | Makine Öğrenmesinde Adalet | slug=Makine-Ogrenmesinde-Adalet
+    Privacy-Preserving Machine Learning | Gizlilik Korumalı Makine Öğrenmesi | rel=differential-privacy,homomorphic-encryption,secure-multi-party-computation
+    Uncertainty Estimation in Deep Learning | Derin Öğrenmede Belirsizlik Kestirimi | alias=Conformal prediction; slug=Derin-Ogrenmede-Belirsizlik
+  Artificial General Intelligence Research | Yapay Genel Zeka Araştırmaları | alias=AGI; status=theoretical; conf=medium
+  Cognitive Architectures | Bilişsel Mimariler | alias=SOAR,ACT-R; rel=computational-neuroscience

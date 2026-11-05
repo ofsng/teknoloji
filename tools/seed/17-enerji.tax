@@ -1,0 +1,121 @@
+Energy Technologies | Enerji Teknolojileri | src=OECD-FORD:2.7,IEA-ETP,IPCC-AR6-WGIII; def=Enerjinin üretimi, dönüşümü, depolanması, iletimi ve verimli kullanımına ilişkin teknolojiler. Nükleer fisyon/füzyon Nükleer Teknolojiler altında, elektrik şebekeleri Elektrik ve Elektronik Mühendisliği altındadır.
+  Renewable Energy | Yenilenebilir Enerji
+    Solar Energy | Güneş Enerjisi
+      Photovoltaics | Fotovoltaik
+        Crystalline Silicon Solar Cells | Kristal Silisyum Güneş Hücreleri
+          PERC Solar Cells | PERC Güneş Hücreleri
+          TOPCon Solar Cells | TOPCon Güneş Hücreleri
+          Heterojunction Solar Cells | Heteroeklem Güneş Hücreleri | alias=HJT
+          Back-Contact Solar Cells | Arka Kontaklı Güneş Hücreleri | alias=IBC
+        Thin-Film Solar Cells | İnce Film Güneş Hücreleri
+          CdTe Solar Cells | CdTe Güneş Hücreleri
+          CIGS Solar Cells | CIGS Güneş Hücreleri
+          Amorphous Silicon Solar Cells | Amorf Silisyum Güneş Hücreleri
+        Perovskite Solar Cells | Perovskit Güneş Hücreleri | status=emerging; dep=halide-perovskites
+        Tandem Solar Cells | Tandem Güneş Hücreleri | alias=Perovskite-silicon; status=emerging
+        Organic Solar Cells | Organik Güneş Hücreleri
+        Dye-Sensitized Solar Cells | Boya Duyarlı Güneş Hücreleri
+        Multi-Junction III-V Solar Cells | Çok Eklemli III-V Güneş Hücreleri | slug=Cok-Eklemli-III-V-Gunes-Hucreleri; app=spacecraft-power-systems
+        Bifacial Photovoltaics | Çift Yüzlü Fotovoltaik
+        Agrivoltaics | Agrivoltaik | rel=precision-agriculture
+        Floating Photovoltaics | Yüzer Fotovoltaik
+        PV System Engineering | FV Sistem Mühendisliği | alias=MPPT,PV inverters
+      Concentrated Solar Power | Yoğunlaştırılmış Güneş Enerjisi | alias=CSP
+        Parabolic Trough Systems | Parabolik Oluk Sistemleri
+        Solar Power Towers | Güneş Kuleleri
+      Solar Thermal Collectors | Güneş Termal Kolektörleri
+      Solar Fuels | Güneş Yakıtları | alias=Artificial photosynthesis; status=emerging
+    Wind Energy | Rüzgar Enerjisi
+      Horizontal-Axis Wind Turbines | Yatay Eksenli Rüzgar Türbinleri
+      Vertical-Axis Wind Turbines | Dikey Eksenli Rüzgar Türbinleri
+      Offshore Wind | Deniz Üstü Rüzgar
+        Floating Offshore Wind | Yüzer Deniz Üstü Rüzgar | status=emerging
+      Wind Resource Assessment | Rüzgar Kaynak Değerlendirmesi
+      Airborne Wind Energy | Havadan Rüzgar Enerjisi | status=emerging
+    Hydropower | Hidroelektrik
+      Conventional Hydropower | Geleneksel Hidroelektrik
+      Pumped-Storage Hydropower | Pompaj Depolamalı Hidroelektrik | rel=energy-storage
+      Small and Run-of-River Hydropower | Küçük ve Nehir Tipi Hidroelektrik | slug=Nehir-Tipi-Hidroelektrik
+    Ocean Energy | Okyanus Enerjisi
+      Wave Energy | Dalga Enerjisi
+      Tidal Energy | Gelgit Enerjisi
+      Ocean Thermal Energy Conversion | Okyanus Termal Enerji Dönüşümü | alias=OTEC
+      Salinity Gradient Energy | Tuzluluk Gradyanı Enerjisi
+    Geothermal Energy | Jeotermal Enerji
+      Hydrothermal Systems | Hidrotermal Sistemler
+      Enhanced Geothermal Systems | Geliştirilmiş Jeotermal Sistemler | alias=EGS
+      Ground-Source Heat Pumps | Toprak Kaynaklı Isı Pompaları | rel=heat-pumps
+    Bioenergy | Biyoenerji
+      Biofuels | Biyoyakıtlar
+        Bioethanol | Biyoetanol
+        Biodiesel | Biyodizel
+        Sustainable Aviation Fuels | Sürdürülebilir Havacılık Yakıtları | alias=SAF
+        Algal Biofuels | Alg Biyoyakıtları
+      Biogas and Anaerobic Digestion | Biyogaz ve Anaerobik Çürütme | slug=Biyogaz
+      Biomass Gasification and Pyrolysis | Biyokütle Gazlaştırma ve Piroliz | slug=Biyokutle-Gazlastirma
+  Fossil Energy Technologies | Fosil Enerji Teknolojileri | rel=petroleum-engineering
+    Coal Power Technologies | Kömür Güç Teknolojileri | alias=Supercritical,IGCC
+    Natural Gas Combined Cycle | Doğalgaz Kombine Çevrim | rel=gas-turbines
+  Hydrogen Technologies | Hidrojen Teknolojileri
+    Hydrogen Production | Hidrojen Üretimi
+      Water Electrolysis | Su Elektrolizi
+        Alkaline Electrolysis | Alkali Elektroliz
+        PEM Electrolysis | PEM Elektroliz
+        Solid Oxide Electrolysis | Katı Oksit Elektroliz | alias=SOEC
+        Anion Exchange Membrane Electrolysis | Anyon Değişim Membranlı Elektroliz | alias=AEM; status=emerging
+      Steam Methane Reforming | Buhar Metan Reformlama
+      Photoelectrochemical Water Splitting | Fotoelektrokimyasal Su Ayrıştırma
+      Methane Pyrolysis | Metan Pirolizi | status=emerging
+    Hydrogen Storage | Hidrojen Depolama
+      Compressed and Liquid Hydrogen | Basınçlı ve Sıvı Hidrojen | slug=Basincli-ve-Sivi-Hidrojen
+      Liquid Organic Hydrogen Carriers | Sıvı Organik Hidrojen Taşıyıcıları | alias=LOHC
+      Metal Hydrides | Metal Hidrürler
+    Ammonia as Energy Carrier | Enerji Taşıyıcı Olarak Amonyak | slug=Enerji-Tasiyici-Amonyak; dep=ammonia-synthesis
+    Fuel Cells | Yakıt Hücreleri
+      Proton Exchange Membrane Fuel Cells | Proton Değişim Membranlı Yakıt Hücreleri | alias=PEMFC
+      Solid Oxide Fuel Cells | Katı Oksit Yakıt Hücreleri | alias=SOFC
+      Alkaline Fuel Cells | Alkali Yakıt Hücreleri
+      Molten Carbonate Fuel Cells | Ergimiş Karbonat Yakıt Hücreleri
+      Direct Methanol Fuel Cells | Doğrudan Metanol Yakıt Hücreleri
+  Energy Storage | Enerji Depolama
+    Electrochemical Energy Storage | Elektrokimyasal Enerji Depolama
+      Lithium-Ion Batteries | Lityum-İyon Bataryalar
+        Cathode Chemistries | Katot Kimyaları | alias=NMC,LFP,NCA
+        Anode Materials | Anot Malzemeleri | alias=Graphite,Silicon anode
+        Battery Cell Manufacturing | Batarya Hücresi Üretimi
+      Solid-State Batteries | Katı Hal Bataryaları | status=emerging
+      Lithium-Sulfur Batteries | Lityum-Kükürt Bataryalar | status=emerging
+      Lithium-Metal Batteries | Lityum-Metal Bataryalar | status=emerging
+      Sodium-Ion Batteries | Sodyum-İyon Bataryalar
+      Metal-Air Batteries | Metal-Hava Bataryaları
+      Lead-Acid Batteries | Kurşun-Asit Bataryalar
+      Nickel-Based Batteries | Nikel Tabanlı Bataryalar | alias=NiMH
+      Flow Batteries | Akış Bataryaları
+        Vanadium Redox Flow Batteries | Vanadyum Redoks Akış Bataryaları
+      Supercapacitors | Süperkapasitörler
+      Battery Management Systems | Batarya Yönetim Sistemleri | alias=BMS,SoC estimation
+      Battery Recycling | Batarya Geri Dönüşümü
+    Mechanical Energy Storage | Mekanik Enerji Depolama
+      Flywheel Energy Storage | Volan Enerji Depolama
+      Compressed Air Energy Storage | Basınçlı Hava Enerji Depolama | alias=CAES
+      Gravity Energy Storage | Yerçekimi Enerji Depolama
+    Thermal Energy Storage | Isıl Enerji Depolama
+      Sensible Heat Storage | Duyulur Isı Depolama | alias=Molten salt
+      Latent Heat Storage | Gizli Isı Depolama
+      Thermochemical Energy Storage | Termokimyasal Enerji Depolama
+    Superconducting Magnetic Energy Storage | Süperiletken Manyetik Enerji Depolama | alias=SMES
+  Energy Conversion Technologies | Enerji Dönüşüm Teknolojileri
+    Thermoelectric Generators | Termoelektrik Jeneratörler
+    Thermophotovoltaics | Termofotovoltaik
+    Energy Harvesting | Enerji Hasadı
+      Piezoelectric Energy Harvesting | Piezoelektrik Enerji Hasadı
+      Triboelectric Nanogenerators | Triboelektrik Nanojeneratörler | alias=TENG
+      RF Energy Harvesting | RF Enerji Hasadı
+    Combined Heat and Power | Birleşik Isı ve Güç | alias=CHP,Cogeneration
+    Waste Heat Recovery | Atık Isı Geri Kazanımı | alias=ORC
+  Energy Efficiency | Enerji Verimliliği
+    Building Energy Efficiency | Bina Enerji Verimliliği | rel=green-building
+    Industrial Energy Efficiency | Endüstriyel Enerji Verimliliği
+    District Heating and Cooling | Bölgesel Isıtma ve Soğutma | slug=Bolgesel-Isitma
+  Energy Systems Modeling | Enerji Sistemleri Modelleme | alias=TIMES,Energy system optimization
+  Sector Coupling and Power-to-X | Sektör Bağlaşımı ve Power-to-X | slug=Power-to-X; status=emerging

@@ -1,0 +1,112 @@
+Chemistry and Chemical Technologies | Kimya ve Kimya Teknolojileri | id=chemistry; slug=Kimya-ve-Kimya-Teknolojileri; src=OECD-FORD:1.4,OECD-FORD:2.4,IUPAC; def=Maddenin bileşimi, yapısı, özellikleri ve dönüşümlerini inceleyen bilim ile kimyasal süreçlerin endüstriyel ölçekte tasarımını kapsayan kimya mühendisliği.
+  Organic Chemistry | Organik Kimya
+    Organic Synthesis | Organik Sentez
+      Total Synthesis | Toplam Sentez
+      Retrosynthetic Analysis | Retrosentetik Analiz
+      Asymmetric Synthesis | Asimetrik Sentez
+      Flow Chemistry | Akış Kimyası
+    Physical Organic Chemistry | Fiziksel Organik Kimya
+    Organometallic Chemistry | Organometalik Kimya
+    Heterocyclic Chemistry | Heterosiklik Kimya
+    Click Chemistry | Klik Kimyası | rel=bioorthogonal-chemistry
+  Inorganic Chemistry | Anorganik Kimya
+    Coordination Chemistry | Koordinasyon Kimyası
+    Bioinorganic Chemistry | Biyoanorganik Kimya
+    Solid-State Chemistry | Katı Hal Kimyası
+    Main Group Chemistry | Ana Grup Kimyası
+    Metal-Organic Frameworks | Metal-Organik Kafesler | alias=MOF
+    Covalent Organic Frameworks | Kovalent Organik Kafesler | alias=COF
+  Physical Chemistry | Fizikokimya
+    Chemical Thermodynamics | Kimyasal Termodinamik
+    Chemical Kinetics | Kimyasal Kinetik
+    Spectroscopy | Spektroskopi
+      Nuclear Magnetic Resonance Spectroscopy | Nükleer Manyetik Rezonans Spektroskopisi | alias=NMR
+      Infrared and Raman Spectroscopy | Kızılötesi ve Raman Spektroskopisi | slug=IR-ve-Raman-Spektroskopisi
+      UV-Visible Spectroscopy | UV-Görünür Bölge Spektroskopisi
+      Ultrafast Spectroscopy | Ultrahızlı Spektroskopi
+      Electron Paramagnetic Resonance | Elektron Paramanyetik Rezonans | alias=EPR,ESR
+    Photochemistry | Fotokimya
+    Surface Chemistry | Yüzey Kimyası
+    Colloid and Interface Chemistry | Koloid ve Arayüz Kimyası | slug=Koloid-ve-Arayuz-Kimyasi
+  Theoretical and Computational Chemistry | Kuramsal ve Hesaplamalı Kimya | id=computational-chemistry; slug=Hesaplamali-Kimya
+    Quantum Chemistry | Kuantum Kimyası
+      Hartree-Fock and Post-Hartree-Fock Methods | Hartree-Fock ve Sonrası Yöntemler | alias=MP2,Coupled cluster; slug=Hartree-Fock-Yontemleri
+      Density Functional Methods in Chemistry | Kimyada Yoğunluk Fonksiyoneli Yöntemleri | slug=Kimyada-DFT; rel=density-functional-theory
+    Molecular Mechanics and Force Fields | Moleküler Mekanik ve Kuvvet Alanları | slug=Kuvvet-Alanlari
+      Machine-Learned Interatomic Potentials | Makine Öğrenmeli Atomlar Arası Potansiyeller | status=emerging
+    Cheminformatics | Kemoinformatik
+      Molecular Descriptors and Fingerprints | Moleküler Tanımlayıcılar ve Parmak İzleri | slug=Molekuler-Parmak-Izleri
+      QSAR Modeling | QSAR Modelleme
+    Machine Learning for Chemistry | Kimya için Makine Öğrenmesi | status=emerging; slug=Kimya-icin-Makine-Ogrenmesi
+  Analytical Chemistry | Analitik Kimya
+    Chromatography | Kromatografi
+      Gas Chromatography | Gaz Kromatografisi | alias=GC
+      Liquid Chromatography | Sıvı Kromatografisi | alias=HPLC,UHPLC
+      Ion Chromatography | İyon Kromatografisi
+    Mass Spectrometry | Kütle Spektrometrisi
+      Ionization Techniques | İyonlaşma Teknikleri | alias=ESI,MALDI
+      Mass Analyzers | Kütle Analizörleri | alias=TOF,Orbitrap,Quadrupole
+      Tandem Mass Spectrometry | Tandem Kütle Spektrometrisi | alias=MS/MS
+      Ambient Ionization Mass Spectrometry | Ortam İyonlaşmalı Kütle Spektrometrisi
+    Electroanalytical Methods | Elektroanalitik Yöntemler | alias=Voltammetry
+    Atomic Spectrometry | Atomik Spektrometri | alias=ICP-MS,AAS
+    Capillary Electrophoresis | Kılcal Elektroforez
+    Chemical Sensors | Kimyasal Sensörler | rel=gas-sensors
+  Electrochemistry | Elektrokimya
+    Electrocatalysis | Elektrokataliz
+      Oxygen Reduction and Evolution Reactions | Oksijen İndirgenme ve Çıkış Tepkimeleri | alias=ORR,OER; slug=ORR-ve-OER
+      CO2 Electroreduction | CO2 Elektroindirgenmesi
+    Corrosion Science | Korozyon Bilimi
+    Electrosynthesis | Elektrosentez
+    Bioelectrochemistry | Biyoelektrokimya
+  Catalysis | Kataliz
+    Homogeneous Catalysis | Homojen Kataliz
+    Heterogeneous Catalysis | Heterojen Kataliz
+      Zeolite Catalysis | Zeolit Katalizi
+      Single-Atom Catalysis | Tek Atom Katalizi | status=emerging
+    Photocatalysis | Fotokataliz
+    Biocatalysis | Biyokataliz | rel=enzyme-engineering
+    Organocatalysis | Organokataliz
+  Polymer Chemistry | Polimer Kimyası | rel=polymer-science
+    Polymerization Methods | Polimerizasyon Yöntemleri
+      Controlled Radical Polymerization | Kontrollü Radikal Polimerizasyon | alias=ATRP,RAFT polymerization
+      Ring-Opening Polymerization | Halka Açılma Polimerizasyonu
+      Step-Growth Polymerization | Basamaklı Büyüme Polimerizasyonu
+    Supramolecular Chemistry | Supramoleküler Kimya
+      Molecular Machines | Moleküler Makineler
+      Host-Guest Chemistry | Konuk-Konak Kimyası
+  Nuclear Chemistry and Radiochemistry | Nükleer Kimya ve Radyokimya | slug=Nukleer-Kimya-ve-Radyokimya
+  Green Chemistry | Yeşil Kimya
+    Sustainable Solvents | Sürdürülebilir Çözücüler | alias=Ionic liquids,Deep eutectic solvents
+    Atom Economy and Process Intensification | Atom Ekonomisi ve Süreç Yoğunlaştırma | slug=Atom-Ekonomisi
+  Medicinal Chemistry | Tıbbi Kimya | rel=drug-discovery
+  Chemical Engineering | Kimya Mühendisliği | src=OECD-FORD:2.4
+    Transport Phenomena | Taşınım Olayları
+    Chemical Reaction Engineering | Kimyasal Tepkime Mühendisliği
+      Reactor Design | Reaktör Tasarımı
+      Microreactors | Mikroreaktörler
+    Separation Processes | Ayırma Süreçleri
+      Distillation | Damıtma
+      Absorption and Adsorption | Absorpsiyon ve Adsorpsiyon | slug=Absorpsiyon-ve-Adsorpsiyon
+      Membrane Separation | Membran Ayırma
+      Crystallization | Kristalizasyon
+      Extraction Processes | Ekstraksiyon Süreçleri
+    Process Systems Engineering | Süreç Sistemleri Mühendisliği
+      Process Control | Süreç Kontrolü | rel=control-theory
+      Process Simulation and Optimization | Süreç Benzetimi ve Optimizasyonu | slug=Surec-Benzetimi
+    Petrochemical Processes | Petrokimya Süreçleri
+      Fluid Catalytic Cracking | Akışkan Yataklı Katalitik Kraking | alias=FCC
+      Steam Cracking | Buhar Kraking
+      Hydrotreating and Reforming | Hidrojenle Arıtma ve Reformlama | slug=Hidrojenle-Aritma
+    Particle Technology | Parçacık Teknolojisi | alias=Fluidization
+    Electrochemical Engineering | Elektrokimya Mühendisliği
+    Industrial Chemical Processes | Endüstriyel Kimyasal Süreçler
+      Ammonia Synthesis | Amonyak Sentezi | alias=Haber-Bosch
+      Chlor-Alkali Process | Klor-Alkali Süreci
+      Fischer-Tropsch Synthesis | Fischer-Tropsch Sentezi
+      Methanol Synthesis | Metanol Sentezi
+  Chemical Biology | Kimyasal Biyoloji
+    Bioorthogonal Chemistry | Biyoortogonal Kimya
+    Chemical Probes | Kimyasal Problar
+  Atmospheric Chemistry | Atmosfer Kimyası | rel=atmospheric-sciences
+  Geochemistry | Jeokimya | rel=geology

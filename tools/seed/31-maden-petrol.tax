@@ -1,0 +1,27 @@
+Mining, Minerals and Petroleum Engineering | Maden, Mineral ve Petrol Mühendisliği | id=mining-and-petroleum; slug=Maden-ve-Petrol-Muhendisligi; src=OECD-FORD:2.7,SME,SPE; def=Yer kabuğundaki mineral ve enerji kaynaklarının aranması, çıkarılması ve işlenmesine ilişkin mühendislik teknolojileri. (Kapsam ekleme: görev listesinde yoktu; OECD FORD 2.7 alt alanı olarak eklendi.)
+  Mineral Exploration | Maden Arama | rel=exploration-geophysics
+    Geochemical Exploration | Jeokimyasal Arama
+    Ore Deposit Geology | Maden Yatakları Jeolojisi
+    Resource Estimation | Kaynak Kestirimi | dep=kriging
+  Mining Engineering | Maden Mühendisliği
+    Surface Mining | Açık Ocak Madenciliği
+    Underground Mining | Yeraltı Madenciliği | alias=Block caving,Room and pillar
+    Mine Ventilation | Maden Havalandırma
+    Mine Automation | Maden Otomasyonu | alias=Autonomous haulage
+    Drilling and Blasting | Delme ve Patlatma | slug=Delme-ve-Patlatma
+    Deep-Sea Mining | Derin Deniz Madenciliği | status=emerging; conf=medium
+  Mineral Processing | Cevher Hazırlama
+    Comminution | Boyut Küçültme | alias=Crushing,Grinding
+    Froth Flotation | Köpük Flotasyonu
+    Gravity and Magnetic Separation | Gravite ve Manyetik Ayırma | slug=Gravite-ve-Manyetik-Ayirma
+    Critical Minerals Processing | Kritik Mineral İşleme | alias=Rare earths,Lithium extraction; rel=extractive-metallurgy
+  Petroleum Engineering | Petrol Mühendisliği
+    Reservoir Engineering | Rezervuar Mühendisliği
+      Reservoir Simulation | Rezervuar Benzetimi
+      Enhanced Oil Recovery | Geliştirilmiş Petrol Kurtarımı | alias=EOR
+    Drilling Engineering | Sondaj Mühendisliği
+      Directional and Horizontal Drilling | Yönlü ve Yatay Sondaj | slug=Yonlu-Sondaj
+    Hydraulic Fracturing | Hidrolik Çatlatma
+    Production Engineering | Üretim Mühendisliği
+    Well Logging | Kuyu Logu | alias=Petrophysics
+  Mine Reclamation and Tailings Management | Maden Rehabilitasyonu ve Atık Yönetimi | slug=Maden-Rehabilitasyonu

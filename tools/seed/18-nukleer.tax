@@ -1,0 +1,66 @@
+Nuclear Technologies | Nükleer Teknolojiler | src=OECD-FORD:2.7,IAEA,arXiv:nucl-ex; def=Nükleer tepkimelerin (fisyon, füzyon, radyoaktif bozunma) enerji üretimi, tıp, endüstri ve araştırmada kullanılması ile radyasyon güvenliği teknolojileri. Temel nükleer fizik Fizik altındadır.
+  Nuclear Fission Reactors | Nükleer Fisyon Reaktörleri | dep=nuclear-reactions
+    Light-Water Reactors | Hafif Su Reaktörleri
+      Pressurized Water Reactors | Basınçlı Su Reaktörleri | alias=PWR
+      Boiling Water Reactors | Kaynar Su Reaktörleri | alias=BWR
+    Heavy-Water Reactors | Ağır Su Reaktörleri | alias=CANDU,PHWR
+    Gas-Cooled Reactors | Gaz Soğutmalı Reaktörler
+      High-Temperature Gas-Cooled Reactors | Yüksek Sıcaklık Gaz Soğutmalı Reaktörler | alias=HTGR,Pebble bed
+    Generation IV Reactors | IV. Nesil Reaktörler | src=GIF; slug=IV-Nesil-Reaktorler
+      Sodium-Cooled Fast Reactors | Sodyum Soğutmalı Hızlı Reaktörler | alias=SFR
+      Lead-Cooled Fast Reactors | Kurşun Soğutmalı Hızlı Reaktörler | alias=LFR
+      Molten Salt Reactors | Ergimiş Tuz Reaktörleri | alias=MSR
+      Very-High-Temperature Reactors | Çok Yüksek Sıcaklık Reaktörleri | alias=VHTR
+      Supercritical-Water-Cooled Reactors | Süperkritik Su Soğutmalı Reaktörler | alias=SCWR
+      Gas-Cooled Fast Reactors | Gaz Soğutmalı Hızlı Reaktörler | alias=GFR
+    Small Modular Reactors | Küçük Modüler Reaktörler | alias=SMR; status=emerging
+    Nuclear Microreactors | Nükleer Mikroreaktörler | status=emerging
+    Research Reactors | Araştırma Reaktörleri
+    Accelerator-Driven Systems | Hızlandırıcı Güdümlü Sistemler | alias=ADS
+  Nuclear Reactor Engineering | Nükleer Reaktör Mühendisliği
+    Reactor Physics | Reaktör Fiziği | alias=Neutron transport
+    Nuclear Thermal Hydraulics | Nükleer Termal Hidrolik
+    Reactor Safety | Reaktör Güvenliği
+      Probabilistic Safety Assessment | Olasılıksal Güvenlik Değerlendirmesi | alias=PSA
+      Passive Safety Systems | Pasif Güvenlik Sistemleri
+    Reactor Instrumentation and Control | Reaktör Enstrümantasyonu ve Kontrolü | slug=Reaktor-Enstrumantasyonu
+  Nuclear Fuel Cycle | Nükleer Yakıt Çevrimi
+    Uranium Enrichment | Uranyum Zenginleştirme | alias=Gas centrifuge
+    Nuclear Fuel Fabrication | Nükleer Yakıt Üretimi
+      Accident-Tolerant Fuels | Kazaya Dayanıklı Yakıtlar | alias=ATF; status=emerging
+      TRISO Fuel | TRISO Yakıt
+    Spent Fuel Reprocessing | Kullanılmış Yakıt Yeniden İşleme | alias=PUREX
+    Thorium Fuel Cycle | Toryum Yakıt Çevrimi
+    Radioactive Waste Management | Radyoaktif Atık Yönetimi
+      Deep Geological Repositories | Derin Jeolojik Depolar
+      Partitioning and Transmutation | Ayrıştırma ve Dönüştürme | slug=Ayristirma-ve-Donusturme
+    Nuclear Decommissioning | Nükleer Söküm
+  Nuclear Fusion | Nükleer Füzyon | dep=plasma-physics
+    Magnetic Confinement Fusion | Manyetik Hapsetme Füzyonu
+      Tokamaks | Tokamaklar
+        Spherical Tokamaks | Küresel Tokamaklar
+        High-Field Tokamaks | Yüksek Alanlı Tokamaklar | dep=high-temperature-superconductors; status=emerging
+      Stellarators | Stellaratorlar
+      Magnetic Mirrors | Manyetik Aynalar
+      Field-Reversed Configurations | Alan Ters Çevrilmiş Konfigürasyonlar | alias=FRC
+    Inertial Confinement Fusion | Eylemsizlik Hapsetme Füzyonu | alias=ICF
+      Laser-Driven Fusion | Lazer Güdümlü Füzyon | alias=Indirect drive,Direct drive
+      Z-Pinch Fusion | Z-Kıstırma Füzyonu
+    Magnetized Target Fusion | Mıknatıslanmış Hedef Füzyonu | status=emerging; conf=medium
+    Fusion Reactor Engineering | Füzyon Reaktörü Mühendisliği
+      Breeding Blankets | Üretken Örtüler | alias=Tritium breeding
+      Plasma-Facing Materials | Plazmaya Bakan Malzemeler | alias=Tungsten divertor
+      Plasma Heating Systems | Plazma Isıtma Sistemleri | alias=NBI,ECRH
+      Tritium Fuel Cycle | Trityum Yakıt Çevrimi
+  Radiation Detection and Measurement | Radyasyon Tespiti ve Ölçümü | slug=Radyasyon-Tespiti
+    Gas-Filled Detectors | Gaz Dolu Dedektörler | alias=Geiger-Muller,Ionization chamber
+    Semiconductor Radiation Detectors | Yarı İletken Radyasyon Dedektörleri | alias=HPGe,CdZnTe
+    Neutron Detection | Nötron Tespiti
+    Dosimetry | Dozimetri
+  Radiation Protection | Radyasyon Korunması | src=ICRP
+    Radiation Shielding | Radyasyon Zırhlama
+  Radioisotope Technologies | Radyoizotop Teknolojileri
+    Radioisotope Production | Radyoizotop Üretimi
+    Radioisotope Power Systems | Radyoizotop Güç Sistemleri | alias=RTG; app=spacecraft-power-systems
+    Industrial Radiation Applications | Endüstriyel Radyasyon Uygulamaları | alias=Sterilization,Food irradiation
+  Nuclear Safeguards and Nonproliferation | Nükleer Güvence ve Silahsızlanma Denetimi | slug=Nukleer-Guvence

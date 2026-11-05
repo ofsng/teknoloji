@@ -1,0 +1,76 @@
+Robotics and Autonomous Systems | Robotik ve Otonom Sistemler | id=robotics; slug=Robotik-ve-Otonom-Sistemler; src=arXiv:cs.RO,IEEE-RAS,ISO-8373; def=Algılama, karar verme ve eylem yeteneğine sahip programlanabilir mekanik sistemlerin tasarımı, kontrolü ve özerkliğini inceleyen disiplinlerarası alan.
+  Robot Kinematics and Dynamics | Robot Kinematiği ve Dinamiği | slug=Robot-Kinematigi-ve-Dinamigi
+    Forward and Inverse Kinematics | İleri ve Ters Kinematik | slug=Ileri-ve-Ters-Kinematik
+    Rigid Body Dynamics Algorithms | Rijit Cisim Dinamiği Algoritmaları | alias=RNEA,ABA
+    Contact Dynamics | Temas Dinamiği
+  Robot Perception | Robot Algılama | rel=computer-vision
+    Simultaneous Localization and Mapping | Eşzamanlı Konum Belirleme ve Haritalama | alias=SLAM
+      Filter-Based SLAM | Filtre Tabanlı SLAM | alias=EKF-SLAM,FastSLAM
+      Graph-Based SLAM | Çizge Tabanlı SLAM | alias=Pose graph,Factor graphs
+      LiDAR SLAM | LiDAR SLAM
+      Visual-Inertial Odometry | Görsel-Ataletsel Odometri | alias=VIO
+    Robot Localization | Robot Konum Belirleme | alias=Monte Carlo localization
+    Sensor Fusion | Sensör Füzyonu | dep=kalman-filtering
+    Semantic Mapping | Anlamsal Haritalama
+    Tactile Sensing | Dokunsal Algılama | rel=tactile-sensors
+  Robot Motion Planning | Robot Hareket Planlama
+    Sampling-Based Planning | Örnekleme Tabanlı Planlama | alias=RRT,PRM
+    Optimization-Based Trajectory Planning | Optimizasyon Tabanlı Yörünge Planlama | alias=CHOMP,TrajOpt
+    Search-Based Planning | Arama Tabanlı Planlama | alias=A*,Lattice planners
+    Task and Motion Planning | Görev ve Hareket Planlama | alias=TAMP
+    Multi-Robot Path Planning | Çok Robotlu Yol Planlama | alias=MAPF
+  Robot Control | Robot Kontrolü | dep=control-theory
+    Joint-Space and Operational-Space Control | Eklem Uzayı ve Operasyonel Uzay Kontrolü | slug=Eklem-ve-Operasyonel-Uzay-Kontrolu
+    Force and Impedance Control | Kuvvet ve Empedans Kontrolü | slug=Kuvvet-ve-Empedans-Kontrolu
+    Whole-Body Control | Tüm Gövde Kontrolü
+    Visual Servoing | Görsel Servo Kontrol
+  Robot Learning | Robot Öğrenmesi | dep=machine-learning
+    Learning from Demonstration | Gösterimden Öğrenme | rel=imitation-learning
+    Reinforcement Learning for Robotics | Robotik için Pekiştirmeli Öğrenme | slug=Robotik-icin-Pekistirmeli-Ogrenme; dep=reinforcement-learning
+    Sim-to-Real Transfer | Benzetimden Gerçeğe Aktarım | alias=Domain randomization
+    Robot Foundation Models | Robot Temel Modelleri | status=emerging; rel=vision-language-action-models
+  Robot Manipulation | Robot Manipülasyonu
+    Grasping | Kavrama
+    Dexterous Manipulation | Becerikli Manipülasyon
+    Deformable Object Manipulation | Şekil Değiştiren Nesne Manipülasyonu
+  Robot Locomotion | Robot Hareketi
+    Wheeled Locomotion | Tekerlekli Hareket
+    Legged Locomotion | Bacaklı Hareket
+      Bipedal Locomotion | İki Ayaklı Hareket | alias=ZMP
+      Quadrupedal Locomotion | Dört Ayaklı Hareket
+    Aerial Locomotion | Hava Hareketi | rel=unmanned-aerial-vehicles
+    Aquatic Locomotion | Su İçi Hareket
+  Robot Types | Robot Türleri | conf=medium
+    Industrial Robots | Endüstriyel Robotlar | src=ISO-10218
+      Articulated Robot Arms | Mafsallı Robot Kolları
+      SCARA Robots | SCARA Robotlar
+      Parallel and Delta Robots | Paralel ve Delta Robotlar | slug=Paralel-ve-Delta-Robotlar
+    Collaborative Robots | İşbirlikçi Robotlar | alias=Cobots; src=ISO/TS-15066
+    Mobile Robots | Mobil Robotlar
+      Autonomous Mobile Robots | Otonom Mobil Robotlar | alias=AMR
+    Humanoid Robots | İnsansı Robotlar
+    Soft Robotics | Yumuşak Robotik
+      Soft Actuators | Yumuşak Eyleyiciler | alias=Pneumatic,Dielectric elastomer
+      Continuum Robots | Süreklilik Robotları
+    Micro and Nano Robotics | Mikro ve Nano Robotik | slug=Mikro-ve-Nano-Robotik
+    Modular and Reconfigurable Robots | Modüler ve Yeniden Yapılandırılabilir Robotlar | slug=Moduler-Robotlar
+    Medical Robots | Tıbbi Robotlar | rel=surgical-robotics
+    Field Robots | Saha Robotları | alias=Agricultural,Mining,Underwater
+      Underwater Robots | Sualtı Robotları | alias=AUV,ROV
+      Space Robotics | Uzay Robotiği
+      Agricultural Robots | Tarım Robotları | rel=precision-agriculture
+    Exoskeletons | Dış İskeletler
+  Swarm Robotics | Sürü Robotiği | dep=swarm-intelligence
+  Multi-Robot Systems | Çok Robotlu Sistemler
+  Human-Robot Interaction | İnsan-Robot Etkileşimi | rel=human-computer-interaction
+    Physical Human-Robot Interaction | Fiziksel İnsan-Robot Etkileşimi
+    Social Robotics | Sosyal Robotik
+    Teleoperation | Teleoperasyon
+      Haptic Teleoperation | Haptik Teleoperasyon | rel=haptic-interfaces
+  Autonomous Systems | Otonom Sistemler
+    Autonomy Architectures | Özerklik Mimarileri
+    Autonomous Navigation | Otonom Seyrüsefer
+    Verification of Autonomous Systems | Otonom Sistemlerin Doğrulanması | rel=formal-methods
+  Robot Software and Middleware | Robot Yazılımı ve Ara Katmanı | alias=ROS; slug=Robot-Yazilimi-ve-Ara-Katmani
+  Robot Simulation | Robot Benzetimi | alias=Physics engines
+  Grippers and End Effectors | Tutucular ve Uç İşlevciler | slug=Tutucular-ve-Uc-Islevciler

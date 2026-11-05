@@ -1,0 +1,111 @@
+Communications and Telecommunications | Haberleşme ve Telekomünikasyon | id=telecommunications; slug=Haberlesme-ve-Telekomunikasyon; src=OECD-FORD:2.2,IEEE-ComSoc,ITU-T,3GPP; def=Bilginin uzak noktalar arasında elektromanyetik, optik veya akustik ortamlar üzerinden iletimini sağlayan kuram, sistem ve standartlar. Ağ protokol yığınının üst katmanları Bilgisayar Bilimleri > Bilgisayar Ağları altındadır.
+  Communication Theory | Haberleşme Kuramı | dep=information-theory
+    Modulation | Modülasyon
+      Analog Modulation | Analog Modülasyon | alias=AM,FM
+      Digital Modulation | Sayısal Modülasyon
+        Phase-Shift Keying | Faz Kaydırmalı Anahtarlama | alias=BPSK,QPSK
+        Quadrature Amplitude Modulation | Dördün Genlik Modülasyonu | alias=QAM
+        Frequency-Shift Keying | Frekans Kaydırmalı Anahtarlama | alias=FSK,GFSK
+        Continuous-Phase Modulation | Sürekli Faz Modülasyonu
+      Multicarrier Modulation | Çok Taşıyıcılı Modülasyon
+        OFDM | OFDM | alias=Orthogonal Frequency-Division Multiplexing
+        Filter Bank Multicarrier | Filtre Bankası Çok Taşıyıcı | alias=FBMC
+        Orthogonal Time Frequency Space | Dik Zaman Frekans Uzayı | alias=OTFS; status=emerging
+      Spread Spectrum | Yayılı Spektrum | alias=DSSS,FHSS
+    Channel Coding | Kanal Kodlama | dep=coding-theory
+      Error-Correcting Codes | Hata Düzeltme Kodları
+        Block Codes | Blok Kodlar | alias=Hamming,BCH,Reed-Solomon
+        Convolutional Codes | Evrişimsel Kodlar | alias=Viterbi
+        Turbo Codes | Turbo Kodlar
+        LDPC Codes | LDPC Kodları
+        Polar Codes | Polar Kodlar
+        Spatially Coupled Codes | Uzamsal Bağlaşımlı Kodlar
+      Erasure Codes | Silme Kodları | alias=Fountain codes,Raptor
+      Hybrid ARQ | Hibrit ARQ | alias=HARQ
+    Detection and Estimation in Communications | Haberleşmede Sezim ve Kestirim | slug=Haberlesmede-Sezim-ve-Kestirim
+      Channel Estimation | Kanal Kestirimi
+      Equalization | Denkleştirme
+      Synchronization in Communications | Haberleşmede Senkronizasyon | slug=Haberlesmede-Senkronizasyon
+    Multiple Access Techniques | Çoklu Erişim Teknikleri
+      Frequency and Time Division Multiple Access | Frekans ve Zaman Bölmeli Çoklu Erişim | alias=FDMA,TDMA; slug=FDMA-ve-TDMA
+      Code Division Multiple Access | Kod Bölmeli Çoklu Erişim | alias=CDMA
+      Orthogonal Frequency-Division Multiple Access | Dik Frekans Bölmeli Çoklu Erişim | alias=OFDMA
+      Non-Orthogonal Multiple Access | Dik Olmayan Çoklu Erişim | alias=NOMA; status=emerging
+      Random Access Protocols | Rastgele Erişim Protokolleri | alias=ALOHA
+    Channel Modeling | Kanal Modelleme
+      Fading Channels | Sönümlemeli Kanallar | alias=Rayleigh,Rician
+      Propagation Path Loss Models | Yayılım Yol Kaybı Modelleri
+  Wireless Communications | Kablosuz Haberleşme
+    MIMO Systems | MIMO Sistemleri
+      Spatial Multiplexing | Uzamsal Çoğullama
+      Space-Time Coding | Uzay-Zaman Kodlama | alias=Alamouti
+      Massive MIMO | Masif MIMO
+      Cell-Free Massive MIMO | Hücresiz Masif MIMO | status=emerging
+      Hybrid Beamforming | Hibrit Hüzme Oluşturma
+    Cognitive Radio | Bilişsel Radyo
+      Spectrum Sensing | Spektrum Algılama
+      Dynamic Spectrum Access | Dinamik Spektrum Erişimi
+    Software-Defined Radio | Yazılım Tanımlı Radyo | alias=SDR
+    Cooperative and Relay Communications | İşbirlikli ve Röle Haberleşmesi | slug=Iserbirlikli-ve-Role-Haberlesmesi
+    Integrated Sensing and Communication | Bütünleşik Algılama ve Haberleşme | alias=ISAC,JCAS; status=emerging
+    Ultra-Wideband Communications | Ultra Geniş Bant Haberleşme | alias=UWB
+    Millimeter-Wave Communications | Milimetre Dalga Haberleşmesi | alias=mmWave
+    Terahertz Communications | Terahertz Haberleşmesi | status=emerging; rel=terahertz-technology
+    Visible Light Communication | Görünür Işık Haberleşmesi | alias=VLC,Li-Fi
+    Backscatter Communication | Geri Saçılım Haberleşmesi | alias=RFID
+      RFID | RFID | alias=Radio-Frequency Identification
+    Energy Harvesting Communications | Enerji Hasatlı Haberleşme | rel=energy-harvesting
+    Physical Layer Security | Fiziksel Katman Güvenliği
+    Semantic Communications | Anlamsal Haberleşme | status=emerging; conf=medium
+  Cellular Networks | Hücresel Ağlar | src=3GPP,ITU-R-IMT
+    2G and 3G Cellular Systems | 2G ve 3G Hücresel Sistemler | alias=GSM,UMTS; status=historical; slug=2G-ve-3G
+    4G LTE | 4G LTE | alias=LTE-Advanced
+    5G New Radio | 5G Yeni Radyo | alias=5G NR
+      Enhanced Mobile Broadband | Geliştirilmiş Mobil Genişbant | alias=eMBB
+      Ultra-Reliable Low-Latency Communication | Ultra Güvenilir Düşük Gecikmeli Haberleşme | alias=URLLC
+      Massive Machine-Type Communication | Masif Makine Tipi Haberleşme | alias=mMTC,NB-IoT
+      Network Slicing | Ağ Dilimleme
+      5G Core Network | 5G Çekirdek Ağı | alias=SBA
+    6G Research | 6G Araştırmaları | status=emerging; conf=medium
+    Radio Access Network Architectures | Radyo Erişim Ağı Mimarileri | alias=C-RAN; slug=RAN-Mimarileri
+      Open RAN | Açık RAN | alias=O-RAN
+    Small Cells and Heterogeneous Networks | Küçük Hücreler ve Heterojen Ağlar | alias=HetNet; slug=Kucuk-Hucreler
+    Mobility Management | Mobilite Yönetimi | alias=Handover
+    Non-Terrestrial Networks | Karasal Olmayan Ağlar | alias=NTN; rel=satellite-communications
+  Wireless Local and Personal Area Networks | Kablosuz Yerel ve Kişisel Alan Ağları | slug=Kablosuz-LAN-ve-PAN
+    Wi-Fi | Wi-Fi | src=IEEE-802.11
+    Bluetooth | Bluetooth | alias=BLE
+    Zigbee and IEEE 802.15.4 | Zigbee ve IEEE 802.15.4 | slug=Zigbee-ve-802-15-4
+    Low-Power Wide-Area Networks | Düşük Güçlü Geniş Alan Ağları | alias=LoRaWAN,Sigfox; slug=LPWAN
+    Near-Field Communication | Yakın Alan İletişimi | alias=NFC
+  Optical Communications | Optik Haberleşme | rel=photonics
+    Fiber-Optic Communication | Fiber Optik Haberleşme
+      Wavelength-Division Multiplexing | Dalga Boyu Bölmeli Çoğullama | alias=WDM,DWDM
+      Coherent Optical Communication | Eşevreli Optik Haberleşme
+      Space-Division Multiplexing | Uzay Bölmeli Çoğullama | alias=Multicore fiber; status=emerging
+      Optical Amplifiers | Optik Kuvvetlendiriciler | alias=EDFA,Raman
+      Passive Optical Networks | Pasif Optik Ağlar | alias=PON,GPON
+      Optical Transport Networks | Optik Taşıma Ağları | alias=OTN,ROADM
+    Free-Space Optical Communication | Serbest Uzay Optik Haberleşme | alias=FSO
+      Laser Satellite Links | Lazer Uydu Bağlantıları
+    Silicon Photonic Transceivers | Silisyum Fotonik Alıcı-Vericiler | rel=silicon-photonics
+  Satellite Communications | Uydu Haberleşmesi | rel=satellite-technology
+    Geostationary Satellite Systems | Yer Eşzamanlı Uydu Sistemleri | alias=GEO
+    LEO Satellite Constellations | Alçak Yörünge Uydu Takımyıldızları | alias=LEO
+    Satellite Ground Segment | Uydu Yer Segmenti
+    Inter-Satellite Links | Uydular Arası Bağlantılar
+  Wired Access Networks | Kablolu Erişim Ağları
+    Digital Subscriber Line | Sayısal Abone Hattı | alias=DSL,VDSL,G.fast
+    Cable Broadband | Kablo Genişbant | alias=DOCSIS
+    Power Line Communication | Güç Hattı Haberleşmesi | alias=PLC
+  Underwater Communication | Sualtı Haberleşmesi
+    Underwater Acoustic Communication | Sualtı Akustik Haberleşmesi
+  Broadcasting Technologies | Yayıncılık Teknolojileri
+    Digital Television Broadcasting | Sayısal Televizyon Yayını | alias=DVB,ATSC
+    Digital Audio Broadcasting | Sayısal Radyo Yayını | alias=DAB
+  Telecommunication Network Engineering | Telekomünikasyon Şebeke Mühendisliği | slug=Sebeke-Muhendisligi
+    Circuit and Packet Switching | Devre ve Paket Anahtarlama | slug=Devre-ve-Paket-Anahtarlama
+    Teletraffic Engineering | Teletrafik Mühendisliği | dep=queueing-theory
+    Network Synchronization | Şebeke Senkronizasyonu | alias=SyncE
+    Voice over IP | IP Üzerinden Ses | alias=VoIP
+  Spectrum Management | Spektrum Yönetimi | src=ITU-R

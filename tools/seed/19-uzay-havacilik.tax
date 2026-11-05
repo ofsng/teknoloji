@@ -1,0 +1,92 @@
+Aerospace Technologies | Uzay ve Havacılık Teknolojileri | id=aerospace; slug=Uzay-ve-Havacilik-Teknolojileri; src=OECD-FORD:2.3,AIAA,NASA-Technology-Taxonomy-2020; def=Atmosfer içinde ve uzayda çalışan araçların ve sistemlerin tasarımı, itkisi, yapısı, kontrolü ve işletimine ilişkin teknolojiler.
+  Aerodynamics | Aerodinamik
+    Subsonic Aerodynamics | Sesaltı Aerodinamik
+    Transonic and Supersonic Aerodynamics | Transonik ve Süpersonik Aerodinamik | slug=Transonik-ve-Supersonik-Aerodinamik
+    Hypersonic Aerodynamics | Hipersonik Aerodinamik
+    Aeroelasticity | Aeroelastisite | alias=Flutter
+    Aeroacoustics | Aeroakustik
+    Flow Control | Akış Kontrolü | alias=Plasma actuators,Boundary layer control
+  Flight Mechanics | Uçuş Mekaniği
+    Flight Dynamics and Stability | Uçuş Dinamiği ve Kararlılık | slug=Ucus-Dinamigi
+    Flight Control Systems | Uçuş Kontrol Sistemleri | alias=Fly-by-wire
+  Aircraft Design | Uçak Tasarımı
+    Fixed-Wing Aircraft | Sabit Kanatlı Hava Araçları
+      Blended Wing Body | Harmanlanmış Kanat Gövde | alias=BWB; status=emerging
+    Rotorcraft | Döner Kanatlı Hava Araçları
+    Lighter-than-Air Vehicles | Havadan Hafif Araçlar | alias=Airships
+    Electric and Hybrid-Electric Aircraft | Elektrikli ve Hibrit Elektrikli Uçaklar | slug=Elektrikli-Ucaklar; status=emerging
+      eVTOL Aircraft | eVTOL Hava Araçları | status=emerging; rel=urban-air-mobility
+    Hydrogen Aircraft | Hidrojen Uçakları | status=emerging; dep=hydrogen-storage
+    Aircraft Structures | Uçak Yapıları | rel=composite-materials
+  Unmanned Aerial Vehicles | İnsansız Hava Araçları | alias=UAV,Drone
+    Multirotor UAVs | Çok Rotorlu İHA'lar
+    Fixed-Wing UAVs | Sabit Kanatlı İHA'lar
+    UAV Swarms | İHA Sürüleri | rel=swarm-robotics
+    UAV Traffic Management | İHA Trafik Yönetimi | alias=UTM
+  Aircraft Propulsion | Hava Aracı İtkisi
+    Turbofan Engines | Turbofan Motorlar
+    Turboprop and Turboshaft Engines | Turboprop ve Turboşaft Motorlar | slug=Turboprop-ve-Turbosaft
+    Open Rotor Engines | Açık Rotorlu Motorlar | status=emerging
+    Ramjets and Scramjets | Ramjet ve Scramjet Motorlar | slug=Ramjet-ve-Scramjet
+    Rotating Detonation Engines | Döner Detonasyon Motorları | status=emerging
+    Electric Aircraft Propulsion | Elektrikli Hava Aracı İtkisi | alias=Distributed electric propulsion
+  Avionics | Aviyonik
+    Integrated Modular Avionics | Bütünleşik Modüler Aviyonik | alias=IMA,ARINC 653
+    Aircraft Navigation Systems | Hava Aracı Seyrüsefer Sistemleri | rel=inertial-navigation-systems
+    Avionics Data Buses | Aviyonik Veri Yolları | alias=ARINC 429,MIL-STD-1553,AFDX
+  Air Traffic Management | Hava Trafik Yönetimi | alias=ATM,ADS-B
+  Space Propulsion | Uzay İtkisi
+    Chemical Rocket Propulsion | Kimyasal Roket İtkisi
+      Liquid-Propellant Rocket Engines | Sıvı Yakıtlı Roket Motorları
+        Staged Combustion Cycle | Kademeli Yanma Çevrimi
+        Gas-Generator Cycle | Gaz Jeneratörlü Çevrim
+        Expander Cycle | Genleşme Çevrimi
+        Electric Pump-Fed Cycle | Elektrik Pompalı Çevrim
+      Solid-Propellant Rocket Motors | Katı Yakıtlı Roket Motorları
+      Hybrid Rocket Motors | Hibrit Roket Motorları
+      Green Propellants | Yeşil İtki Yakıtları | alias=AF-M315E,LMP-103S
+    Electric Propulsion | Elektrikli İtki
+      Gridded Ion Thrusters | Izgaralı İyon İticileri
+      Hall-Effect Thrusters | Hall Etkili İticiler
+      Electrospray Thrusters | Elektrosprey İticiler
+      Magnetoplasmadynamic Thrusters | Manyetoplazmadinamik İticiler | alias=MPD,VASIMR
+    Nuclear Space Propulsion | Nükleer Uzay İtkisi | alias=NTP,NEP; status=emerging; dep=nuclear-fission-reactors
+    Solar Sails | Güneş Yelkenleri
+    Reusable Launch Vehicles | Yeniden Kullanılabilir Fırlatma Araçları | alias=Propulsive landing
+  Spacecraft Engineering | Uzay Aracı Mühendisliği
+    Spacecraft Attitude Determination and Control | Uzay Aracı Yönelim Belirleme ve Kontrolü | alias=ADCS; slug=Yonelim-Kontrolu
+      Reaction Wheels and Control Moment Gyroscopes | Reaksiyon Tekerlekleri ve CMG | slug=Reaksiyon-Tekerlekleri
+      Star Trackers | Yıldız İzleyiciler
+    Spacecraft Power Systems | Uzay Aracı Güç Sistemleri
+    Spacecraft Thermal Control | Uzay Aracı Termal Kontrolü
+    Spacecraft Avionics | Uzay Aracı Aviyoniği | alias=OBC,Flight software
+    Spacecraft Structures and Mechanisms | Uzay Aracı Yapıları ve Mekanizmaları | slug=Uzay-Araci-Yapilari
+      Deployable Structures | Açılır Yapılar
+    Small Satellites | Küçük Uydular
+      CubeSats | CubeSat'lar
+    Atmospheric Entry Systems | Atmosfere Giriş Sistemleri | alias=Heat shields,TPS
+    Spacecraft Docking and Rendezvous | Uzay Aracı Kenetlenme ve Buluşma | slug=Kenetlenme-ve-Bulusma
+  Astrodynamics | Astrodinamik
+    Orbital Mechanics | Yörünge Mekaniği
+    Trajectory Optimization | Yörünge Optimizasyonu
+    Space Situational Awareness | Uzay Durumsal Farkındalık | alias=SSA,Space debris tracking
+    Space Debris Mitigation and Removal | Uzay Enkazı Azaltma ve Temizleme | slug=Uzay-Enkazi
+  Satellite Technology | Uydu Teknolojisi
+    Earth Observation Satellites | Yer Gözlem Uyduları | rel=remote-sensing
+    Global Navigation Satellite Systems | Küresel Uydu Seyrüsefer Sistemleri | alias=GNSS,GPS,Galileo
+      Precise Point Positioning | Hassas Nokta Konumlama | alias=PPP,RTK
+      GNSS Augmentation Systems | GNSS Destek Sistemleri | alias=SBAS
+    Communication Satellites | Haberleşme Uyduları | rel=satellite-communications
+  Human Spaceflight | İnsanlı Uzay Uçuşu
+    Life Support Systems | Yaşam Destek Sistemleri | alias=ECLSS
+    Space Medicine | Uzay Tıbbı
+    Space Habitats | Uzay Habitatları
+  Space Exploration Technologies | Uzay Keşif Teknolojileri
+    Planetary Rovers | Gezegen Gezginleri
+    Entry, Descent and Landing | Giriş, İniş ve Konma | alias=EDL; slug=Giris-Inis-ve-Konma
+    In-Situ Resource Utilization | Yerinde Kaynak Kullanımı | alias=ISRU; status=emerging
+    Sample Return Technologies | Numune Getirme Teknolojileri
+    Deep Space Communication | Derin Uzay Haberleşmesi | alias=DSN
+  In-Space Servicing and Manufacturing | Uzayda Servis ve Üretim | alias=ISAM; status=emerging; slug=Uzayda-Servis-ve-Uretim
+  Launch Systems and Ground Infrastructure | Fırlatma Sistemleri ve Yer Altyapısı | slug=Firlatma-Sistemleri
+  Space Weather | Uzay Havası | rel=space-plasma-physics

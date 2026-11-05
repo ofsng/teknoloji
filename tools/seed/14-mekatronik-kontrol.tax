@@ -1,0 +1,51 @@
+Mechatronics and Control Systems | Mekatronik ve Kontrol Sistemleri | id=mechatronics-and-control; slug=Mekatronik-ve-Kontrol-Sistemleri; src=OECD-FORD:2.2,arXiv:eess.SY,IFAC,IEEE-CSS; def=Mekanik, elektronik, kontrol ve yazılımın bütünleşik tasarımı ile dinamik sistemlerin istenen davranışı göstermesini sağlayan kontrol teorisi ve otomasyon teknolojileri.
+  Control Theory | Kontrol Teorisi | src=arXiv:eess.SY,arXiv:math.OC
+    Classical Control | Klasik Kontrol
+      PID Control | PID Kontrol
+      Frequency-Domain Methods | Frekans Domeni Yöntemleri | alias=Bode,Nyquist,Root locus
+    State-Space Control | Durum Uzayı Kontrolü
+      Pole Placement | Kutup Yerleştirme
+      State Observers | Durum Gözlemcileri | alias=Luenberger
+    Optimal Control | Optimal Kontrol | src=arXiv:math.OC; dep=dynamic-programming
+      Linear-Quadratic Regulator | Doğrusal Karesel Düzenleyici | alias=LQR,LQG
+      Model Predictive Control | Model Öngörülü Kontrol | alias=MPC
+        Nonlinear Model Predictive Control | Doğrusal Olmayan MPC | alias=NMPC
+        Explicit MPC | Açık MPC
+    Robust Control | Gürbüz Kontrol | alias=H-infinity,mu-synthesis
+    Nonlinear Control | Doğrusal Olmayan Kontrol
+      Lyapunov-Based Control | Lyapunov Tabanlı Kontrol
+      Sliding Mode Control | Kayan Kipli Kontrol
+      Feedback Linearization | Geri Besleme Doğrusallaştırma
+      Backstepping Control | Geri Adımlamalı Kontrol
+    Adaptive Control | Uyarlamalı Kontrol | alias=MRAC
+    Stochastic Control | Stokastik Kontrol
+    Distributed and Networked Control | Dağıtık ve Ağ Tabanlı Kontrol | slug=Dagitik-ve-Ag-Tabanli-Kontrol
+      Multi-Agent Consensus Control | Çok Etmenli Konsensüs Kontrolü
+      Event-Triggered Control | Olay Tetiklemeli Kontrol
+    Hybrid Systems Control | Hibrit Sistem Kontrolü
+    Learning-Based Control | Öğrenme Tabanlı Kontrol | status=emerging
+      Safe Learning Control | Güvenli Öğrenme Kontrolü | alias=Control barrier functions
+    Fractional-Order Control | Kesirli Mertebe Kontrol
+  System Identification | Sistem Tanılama
+  Fault Detection and Diagnosis | Arıza Tespiti ve Teşhisi | alias=FDI; slug=Ariza-Tespiti-ve-Teshisi
+  Mechatronic System Design | Mekatronik Sistem Tasarımı
+    Actuators | Eyleyiciler
+      Electric Actuators | Elektrik Eyleyiciler | alias=Servo,Stepper
+      Hydraulic Actuators | Hidrolik Eyleyiciler | rel=fluid-power
+      Pneumatic Actuators | Pnömatik Eyleyiciler
+      Piezoelectric Actuators | Piezoelektrik Eyleyiciler
+      Series Elastic Actuators | Seri Elastik Eyleyiciler
+    Motion Control Systems | Hareket Kontrol Sistemleri
+    Precision Mechatronics | Hassas Mekatronik
+    Micro-Electro-Mechanical Systems | Mikro-Elektro-Mekanik Sistemler | alias=MEMS; id=mems
+      MEMS Fabrication | MEMS Üretimi | alias=Bulk micromachining,Surface micromachining
+      MEMS Actuators | MEMS Eyleyiciler
+      Optical MEMS | Optik MEMS | alias=MOEMS,Micromirrors
+    Hardware-in-the-Loop Simulation | Döngüde Donanım Benzetimi | alias=HIL
+  Industrial Automation | Endüstriyel Otomasyon | src=IEC-61131,IEC-61499,ISA-95
+    Programmable Logic Controllers | Programlanabilir Mantık Denetleyicileri | alias=PLC
+    Distributed Control Systems | Dağıtık Kontrol Sistemleri | alias=DCS
+    SCADA Systems | SCADA Sistemleri
+    Industrial Communication Networks | Endüstriyel Haberleşme Ağları | alias=Fieldbus,PROFINET,EtherCAT,OPC UA
+    Industrial Control System Security | Endüstriyel Kontrol Sistemi Güvenliği | src=IEC-62443; rel=network-security
+  Digital Twins | Dijital İkizler | status=emerging; rel=cyber-physical-systems

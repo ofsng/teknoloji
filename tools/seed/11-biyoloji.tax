@@ -1,0 +1,147 @@
+Biology and Biotechnology | Biyoloji ve Biyoteknoloji | id=biology-and-biotechnology; slug=Biyoloji-ve-Biyoteknoloji; src=OECD-FORD:1.6,OECD-FORD:2.9,arXiv:q-bio,MeSH; def=Canlıların yapısını, işlevini, evrimini ve etkileşimlerini inceleyen bilim ile canlı sistemlerin veya bileşenlerinin ürün ve süreç geliştirmede kullanılması (biyoteknoloji). Genetik ve genomik, OECD FORD 1.6 uyarınca bu disiplin altındadır.
+  Molecular Biology | Moleküler Biyoloji
+    Gene Expression and Regulation | Gen İfadesi ve Düzenlenmesi | slug=Gen-Ifadesi-ve-Duzenlenmesi
+      Transcription | Transkripsiyon
+      Translation | Translasyon
+      RNA Biology | RNA Biyolojisi
+        RNA Interference | RNA Girişimi | alias=RNAi,siRNA
+        Non-coding RNA | Kodlamayan RNA | alias=miRNA,lncRNA
+    DNA Replication and Repair | DNA Replikasyonu ve Onarımı | slug=DNA-Replikasyonu-ve-Onarimi
+    Molecular Cloning | Moleküler Klonlama
+      Restriction Enzyme Cloning | Restriksiyon Enzimiyle Klonlama
+      Assembly Cloning Methods | Birleştirmeli Klonlama Yöntemleri | alias=Gibson,Golden Gate
+    Polymerase Chain Reaction | Polimeraz Zincir Reaksiyonu | alias=PCR
+      Quantitative PCR | Kantitatif PCR | alias=qPCR
+      Digital PCR | Dijital PCR | alias=dPCR
+      Isothermal Amplification | İzotermal Çoğaltma | alias=LAMP,RPA
+    Electrophoresis and Blotting | Elektroforez ve Blotlama | alias=Western blot,Southern blot; slug=Elektroforez-ve-Blotlama
+  Biochemistry | Biyokimya
+    Enzymology | Enzimoloji
+    Metabolism | Metabolizma
+    Protein Biochemistry | Protein Biyokimyası
+    Lipid Biochemistry | Lipit Biyokimyası
+    Glycobiology | Glikobiyoloji
+  Structural Biology | Yapısal Biyoloji | src=arXiv:q-bio.BM
+    Protein X-ray Crystallography | Protein X-ışını Kristalografisi
+    Biomolecular NMR | Biyomoleküler NMR
+    Protein Structure Prediction | Protein Yapı Tahmini | alias=AlphaFold; rel=deep-learning
+    Protein Design | Protein Tasarımı | alias=De novo design
+    Molecular Docking | Moleküler Kenetlenme
+  Cell Biology | Hücre Biyolojisi | src=arXiv:q-bio.CB
+    Cell Signaling | Hücre Sinyalleşmesi
+    Cell Cycle | Hücre Döngüsü
+    Cytoskeleton and Motility | Hücre İskeleti ve Hareket | slug=Hucre-Iskeleti
+    Cell Culture Technology | Hücre Kültürü Teknolojisi
+      Primary Cell Culture | Primer Hücre Kültürü
+      3D Cell Culture | 3B Hücre Kültürü | slug=3B-Hucre-Kulturu
+      Organoids | Organoidler
+      Organ-on-a-Chip | Çip Üstünde Organ | rel=microfluidics
+    Flow Cytometry | Akış Sitometrisi | alias=FACS
+    Single-Cell Analysis | Tek Hücre Analizi | rel=single-cell-sequencing
+  Microbiology | Mikrobiyoloji
+    Bacteriology | Bakteriyoloji
+    Virology | Viroloji
+    Mycology | Mikoloji
+    Microbial Ecology | Mikrobiyal Ekoloji
+    Microbiome Science | Mikrobiyom Bilimi
+  Developmental Biology | Gelişim Biyolojisi
+  Stem Cell Biology | Kök Hücre Biyolojisi
+    Embryonic Stem Cells | Embriyonik Kök Hücreler
+    Induced Pluripotent Stem Cells | İndüklenmiş Pluripotent Kök Hücreler | alias=iPSC
+    Adult Stem Cells | Erişkin Kök Hücreler
+  Immunology | İmmünoloji
+    Innate Immunity | Doğal Bağışıklık
+    Adaptive Immunity | Edinsel Bağışıklık
+    Antibody Engineering | Antikor Mühendisliği
+      Monoclonal Antibody Technology | Monoklonal Antikor Teknolojisi | alias=Hybridoma
+      Phage Display | Faj Gösterimi
+      Bispecific Antibodies | Bispesifik Antikorlar
+      Antibody-Drug Conjugates | Antikor-İlaç Konjugatları | alias=ADC
+    Immunoassays | İmmünolojik Testler | alias=ELISA
+  Genetics and Genomics | Genetik ve Genomik | src=MeSH:Genetics,arXiv:q-bio.GN
+    Classical and Mendelian Genetics | Klasik ve Mendel Genetiği | slug=Klasik-Genetik
+    Population Genetics | Popülasyon Genetiği | src=arXiv:q-bio.PE
+    Quantitative Genetics | Kantitatif Genetik
+    Epigenetics | Epigenetik
+      DNA Methylation | DNA Metilasyonu
+      Histone Modification | Histon Modifikasyonu
+      Chromatin Structure | Kromatin Yapısı | alias=Hi-C
+    DNA Sequencing | DNA Dizileme
+      Sanger Sequencing | Sanger Dizileme | status=established
+      Next-Generation Sequencing | Yeni Nesil Dizileme | alias=NGS
+        Sequencing by Synthesis | Sentezle Dizileme | alias=Illumina
+        Ion Semiconductor Sequencing | İyon Yarı İletken Dizileme
+      Long-Read Sequencing | Uzun Okuma Dizileme
+        Single-Molecule Real-Time Sequencing | Tek Molekül Gerçek Zamanlı Dizileme | alias=SMRT,PacBio
+        Nanopore Sequencing | Nanopor Dizileme
+      Single-Cell Sequencing | Tek Hücre Dizileme | alias=scRNA-seq
+      Spatial Transcriptomics | Uzamsal Transkriptomik | status=emerging
+    Functional Genomics | Fonksiyonel Genomik
+      Transcriptomics | Transkriptomik | alias=RNA-seq
+      Genetic Screening | Genetik Tarama | alias=CRISPR screens
+    Comparative Genomics | Karşılaştırmalı Genomik
+    Metagenomics | Metagenomik
+    Human Genetics | İnsan Genetiği
+      Genome-Wide Association Studies | Genom Boyu İlişkilendirme Çalışmaları | alias=GWAS
+      Medical Genetics | Tıbbi Genetik | rel=precision-medicine
+      Pharmacogenomics | Farmakogenomik
+    Genome Engineering | Genom Mühendisliği
+      Gene Editing | Gen Düzenleme
+        Zinc-Finger Nucleases | Çinko Parmak Nükleazları | alias=ZFN
+        TALEN | TALEN
+        CRISPR-Cas Systems | CRISPR-Cas Sistemleri
+          CRISPR-Cas9 | CRISPR-Cas9
+          CRISPR-Cas12 and Cas13 | CRISPR-Cas12 ve Cas13 | slug=CRISPR-Cas12-ve-Cas13; alias=Diagnostics
+          Base Editing | Baz Düzenleme
+          Prime Editing | Prime Düzenleme | status=emerging
+          CRISPR Interference and Activation | CRISPR Girişimi ve Aktivasyonu | alias=CRISPRi,CRISPRa; slug=CRISPRi-ve-CRISPRa
+        Epigenome Editing | Epigenom Düzenleme | status=emerging
+      Transgenesis | Transgenez
+      Gene Drives | Gen Sürücüleri | status=emerging
+    Multi-Omics | Çoklu Omik
+      Proteomics | Proteomik | dep=mass-spectrometry
+      Metabolomics | Metabolomik
+      Lipidomics | Lipidomik
+  Synthetic Biology | Sentetik Biyoloji
+    Genetic Circuits | Genetik Devreler
+    DNA Synthesis | DNA Sentezi
+    Minimal and Synthetic Genomes | Minimal ve Sentetik Genomlar | slug=Sentetik-Genomlar
+    Xenobiology | Ksenobiyoloji | alias=Expanded genetic code
+    Cell-Free Systems | Hücresiz Sistemler
+    DNA Data Storage | DNA Veri Depolama | rel=long-term-digital-preservation; status=emerging
+  Bioinformatics and Computational Biology | Biyoenformatik ve Hesaplamalı Biyoloji | id=computational-biology; slug=Biyoenformatik-ve-Hesaplamali-Biyoloji; src=arXiv:q-bio.QM
+    Sequence Analysis | Dizi Analizi
+      Sequence Alignment | Dizi Hizalama | alias=BLAST,Smith-Waterman
+      Genome Assembly | Genom Birleştirme | alias=de Bruijn graph
+      Variant Calling | Varyant Belirleme
+    Phylogenetics | Filogenetik
+    Systems Biology | Sistem Biyolojisi | src=arXiv:q-bio.MN
+      Gene Regulatory Networks | Gen Düzenleyici Ağlar
+      Metabolic Network Modeling | Metabolik Ağ Modelleme | alias=FBA
+    Biological Databases | Biyolojik Veritabanları
+    Protein Language Models | Protein Dil Modelleri | status=emerging; dep=large-language-models
+    Molecular Evolution Modeling | Moleküler Evrim Modelleme
+  Industrial Biotechnology | Endüstriyel Biyoteknoloji | src=OECD-FORD:2.9
+    Fermentation Technology | Fermantasyon Teknolojisi
+    Bioprocess Engineering | Biyoproses Mühendisliği
+      Bioreactor Design | Biyoreaktör Tasarımı
+      Downstream Processing | Alt Akış İşlemleri | alias=Purification
+    Metabolic Engineering | Metabolik Mühendislik
+    Enzyme Engineering | Enzim Mühendisliği
+      Directed Evolution | Yönlendirilmiş Evrim
+      Rational Enzyme Design | Rasyonel Enzim Tasarımı
+    Biorefining | Biyorafineri | rel=bioenergy
+    Biomanufacturing | Biyoüretim
+  Environmental Biotechnology | Çevre Biyoteknolojisi | rel=bioremediation
+  Ecology | Ekoloji | src=arXiv:q-bio.PE
+    Population Ecology | Popülasyon Ekolojisi
+    Ecosystem Ecology | Ekosistem Ekolojisi
+    Biodiversity Science | Biyoçeşitlilik Bilimi
+    Conservation Biology | Koruma Biyolojisi
+    Environmental DNA | Çevresel DNA | alias=eDNA; status=emerging
+  Evolutionary Biology | Evrimsel Biyoloji
+  Physiology | Fizyoloji | src=arXiv:q-bio.TO
+  Plant Biology | Bitki Biyolojisi | rel=plant-breeding
+  Zoology | Zooloji
+  Marine Biology | Deniz Biyolojisi
+  Biomimetics | Biyomimetik | rel=biomimetic-materials

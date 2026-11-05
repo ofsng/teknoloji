@@ -1,0 +1,125 @@
+Materials Science and Engineering | Malzeme Bilimi ve Mühendisliği | id=materials-science; slug=Malzeme-Bilimi; src=OECD-FORD:2.5,arXiv:cond-mat.mtrl-sci; def=Malzemelerin yapı-işleme-özellik-performans ilişkilerini inceleyen ve yeni malzemeler geliştiren disiplin. Nano ölçekli malzemelerin kanonik konumu Nanoteknoloji altındadır.
+  Materials Characterization | Malzeme Karakterizasyonu
+    Electron Microscopy | Elektron Mikroskobisi
+      Scanning Electron Microscopy | Taramalı Elektron Mikroskobisi | alias=SEM
+      Transmission Electron Microscopy | Geçirimli Elektron Mikroskobisi | alias=TEM,STEM
+      Cryo-Electron Microscopy | Kriyo-Elektron Mikroskobisi | alias=Cryo-EM; app=structural-biology
+      Electron Backscatter Diffraction | Elektron Geri Saçılım Kırınımı | alias=EBSD
+    Scanning Probe Microscopy | Taramalı Uç Mikroskobisi
+      Atomic Force Microscopy | Atomik Kuvvet Mikroskobisi | alias=AFM
+      Scanning Tunneling Microscopy | Taramalı Tünelleme Mikroskobisi | alias=STM
+    X-ray Diffraction and Scattering | X-ışını Kırınımı ve Saçılımı | alias=XRD,SAXS; slug=X-isini-Kirinimi
+    Neutron Scattering | Nötron Saçılımı
+    Surface Analysis Techniques | Yüzey Analiz Teknikleri | alias=XPS,AES,SIMS
+    Thermal Analysis | Termal Analiz | alias=DSC,TGA
+    Atom Probe Tomography | Atom Probu Tomografisi
+    Mechanical Testing | Mekanik Test | alias=Tensile,Hardness,Fatigue
+  Computational Materials Science | Hesaplamalı Malzeme Bilimi
+    Materials Informatics | Malzeme Enformatiği | status=emerging
+      High-Throughput Materials Screening | Yüksek Verimli Malzeme Taraması
+      Self-Driving Laboratories | Otonom Laboratuvarlar | status=emerging
+    CALPHAD | CALPHAD | alias=Computational thermodynamics
+    Phase-Field Modeling | Faz Alanı Modelleme
+    Crystal Plasticity Modeling | Kristal Plastisite Modelleme
+  Metallic Materials | Metalik Malzemeler | alias=Metallurgy
+    Physical Metallurgy | Fiziksel Metalurji
+      Phase Transformations in Metals | Metallerde Faz Dönüşümleri | slug=Metallerde-Faz-Donusumleri
+      Heat Treatment | Isıl İşlem
+    Extractive Metallurgy | Ekstraktif Metalurji
+      Pyrometallurgy | Pirometalurji
+      Hydrometallurgy | Hidrometalurji
+      Electrometallurgy | Elektrometalurji
+    Steels | Çelikler
+      Advanced High-Strength Steels | İleri Yüksek Mukavemetli Çelikler | alias=AHSS
+      Stainless Steels | Paslanmaz Çelikler
+    Light Alloys | Hafif Alaşımlar
+      Aluminum Alloys | Alüminyum Alaşımları
+      Titanium Alloys | Titanyum Alaşımları
+      Magnesium Alloys | Magnezyum Alaşımları
+    Superalloys | Süperalaşımlar | alias=Nickel-based
+    High-Entropy Alloys | Yüksek Entropili Alaşımlar | status=emerging
+    Shape Memory Alloys | Şekil Hafızalı Alaşımlar | alias=NiTi
+    Metallic Glasses | Metalik Camlar | alias=Amorphous metals
+    Intermetallics | İntermetalikler
+    Powder Metallurgy | Toz Metalurjisi
+  Ceramic Materials | Seramik Malzemeler
+    Structural Ceramics | Yapısal Seramikler | alias=SiC,Si3N4,Alumina
+    Ultra-High Temperature Ceramics | Ultra Yüksek Sıcaklık Seramikleri | alias=UHTC
+    Electroceramics | Elektroseramikler
+      Piezoelectric Materials | Piezoelektrik Malzemeler | alias=PZT
+      Ferroelectric Materials | Ferroelektrik Malzemeler
+      Dielectric Materials | Dielektrik Malzemeler
+    Bioceramics | Biyoseramikler | rel=biomaterials
+    Glass Science | Cam Bilimi
+    Cements and Geopolymers | Çimentolar ve Jeopolimerler | rel=construction-materials; slug=Cimentolar-ve-Jeopolimerler
+    Refractories | Refrakterler
+  Polymer Science | Polimer Bilimi | rel=polymer-chemistry
+    Thermoplastics | Termoplastikler
+    Thermosets | Termosetler
+    Elastomers | Elastomerler
+    Conducting Polymers | İletken Polimerler
+    Biodegradable Polymers | Biyobozunur Polimerler | alias=PLA,PHA
+    Polymer Processing | Polimer İşleme | alias=Polymer extrusion,Injection molding
+    Hydrogels | Hidrojeller
+    Polymer Recycling | Polimer Geri Dönüşümü | rel=recycling-technologies
+  Composite Materials | Kompozit Malzemeler
+    Polymer Matrix Composites | Polimer Matrisli Kompozitler
+      Carbon Fiber Reinforced Polymers | Karbon Fiber Takviyeli Polimerler | alias=CFRP
+      Glass Fiber Reinforced Polymers | Cam Fiber Takviyeli Polimerler | alias=GFRP
+    Metal Matrix Composites | Metal Matrisli Kompozitler
+    Ceramic Matrix Composites | Seramik Matrisli Kompozitler | alias=CMC
+    Natural Fiber Composites | Doğal Lif Kompozitleri
+    Composite Manufacturing | Kompozit Üretimi | alias=Autoclave,RTM,AFP
+  Electronic and Optical Materials | Elektronik ve Optik Malzemeler | slug=Elektronik-ve-Optik-Malzemeler
+    Semiconductor Materials | Yarı İletken Malzemeler
+      Silicon | Silisyum
+      III-V Compound Semiconductors | III-V Bileşik Yarı İletkenler | alias=GaAs,InP,GaN; slug=III-V-Yari-Iletkenler
+      Oxide Semiconductors | Oksit Yarı İletkenler | alias=IGZO
+      Organic Semiconductors | Organik Yarı İletkenler
+    Halide Perovskites | Halojenür Perovskitler | rel=perovskite-solar-cells
+    Transparent Conducting Materials | Saydam İletken Malzemeler | alias=ITO
+    Thermoelectric Materials | Termoelektrik Malzemeler | rel=thermoelectric-generators
+    Magnetic Materials | Manyetik Malzemeler | rel=permanent-magnet-materials
+      Soft Magnetic Materials | Yumuşak Manyetik Malzemeler
+      Magnetocaloric Materials | Manyetokalorik Malzemeler
+    Phase-Change Materials for Memory | Bellek için Faz Değiştiren Malzemeler | slug=Bellek-Faz-Degistiren-Malzemeler; app=phase-change-memory
+    Superconducting Materials | Süperiletken Malzemeler | rel=superconductivity
+    Quantum Materials | Kuantum Malzemeler | rel=topological-phases-of-matter,strongly-correlated-electron-systems; status=emerging
+  Energy Materials | Enerji Malzemeleri
+    Battery Electrode Materials | Batarya Elektrot Malzemeleri | rel=lithium-ion-batteries
+    Solid Electrolytes | Katı Elektrolitler | rel=solid-state-batteries
+    Hydrogen Storage Materials | Hidrojen Depolama Malzemeleri | rel=hydrogen-storage
+    Nuclear Materials | Nükleer Malzemeler | rel=nuclear-fuel-cycle
+    Thermal Energy Storage Materials | Isıl Enerji Depolama Malzemeleri | alias=PCM
+  Biomaterials | Biyomalzemeler | rel=tissue-engineering
+    Biocompatible Metals | Biyouyumlu Metaller
+    Bioresorbable Materials | Biyoemilebilir Malzemeler
+    Biomimetic Materials | Biyomimetik Malzemeler
+  Functional and Smart Materials | Fonksiyonel ve Akıllı Malzemeler | slug=Akilli-Malzemeler
+    Self-Healing Materials | Kendini Onaran Malzemeler
+    Stimuli-Responsive Materials | Uyarana Duyarlı Malzemeler
+    Electroactive Polymers | Elektroaktif Polimerler | app=soft-robotics
+    Magnetostrictive Materials | Manyetostriktif Malzemeler
+    Programmable Matter and Metamaterial Mechanics | Mekanik Metamalzemeler | slug=Mekanik-Metamalzemeler; alias=Auxetics
+  Porous Materials | Gözenekli Malzemeler | alias=Zeolites,Aerogels; rel=metal-organic-frameworks
+  Surface Engineering and Coatings | Yüzey Mühendisliği ve Kaplamalar | slug=Yuzey-Muhendisligi-ve-Kaplamalar
+    Thermal Barrier Coatings | Termal Bariyer Kaplamalar
+    Thermal Spray Coatings | Termal Sprey Kaplamalar
+    Hard Coatings | Sert Kaplamalar | alias=DLC,TiN
+    Anti-Corrosion Coatings | Korozyon Önleyici Kaplamalar
+  Tribology | Triboloji | alias=Friction,Wear,Lubrication
+  Materials Degradation and Failure | Malzeme Bozunması ve Hasarı | slug=Malzeme-Bozunmasi-ve-Hasari
+    Fracture Mechanics | Kırılma Mekaniği
+    Fatigue of Materials | Malzeme Yorulması
+    Creep | Sürünme
+    Hydrogen Embrittlement | Hidrojen Gevrekleşmesi
+  Plasma Processing of Materials | Malzemelerin Plazma ile İşlenmesi | slug=Plazma-ile-Malzeme-Isleme
+  Construction Materials | Yapı Malzemeleri | rel=civil-engineering
+    Concrete Technology | Beton Teknolojisi
+      High-Performance Concrete | Yüksek Performanslı Beton | alias=UHPC
+      Self-Healing Concrete | Kendini Onaran Beton
+    Asphalt and Bituminous Materials | Asfalt ve Bitümlü Malzemeler | slug=Asfalt
+    Engineered Timber | Mühendislik Ahşabı | alias=CLT,Glulam
+  Textile Materials | Tekstil Malzemeleri
+    Technical Textiles | Teknik Tekstiller
+    Smart Textiles | Akıllı Tekstiller | rel=wearable-sensors

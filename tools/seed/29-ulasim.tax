@@ -1,0 +1,55 @@
+Transportation and Mobility Technologies | Ulaşım ve Mobilite Teknolojileri | id=transportation; slug=Ulasim-ve-Mobilite-Teknolojileri; src=OECD-FORD:2.1,OECD-FORD:2.3,TRB-TRT,SAE; def=Kara, demiryolu, deniz ve kentsel hava ulaşımında kullanılan araç, altyapı ve işletim teknolojileri. Havacılık ve uzay Uzay ve Havacılık Teknolojileri altındadır.
+  Automotive Engineering | Otomotiv Mühendisliği
+    Vehicle Dynamics | Araç Dinamiği
+    Powertrain Engineering | Güç Aktarma Organları Mühendisliği
+    Vehicle Body and Safety Engineering | Araç Gövdesi ve Güvenlik Mühendisliği | alias=Crashworthiness; slug=Arac-Guvenligi
+    Automotive Electronics | Otomotiv Elektroniği
+      Automotive E/E Architecture | Otomotiv E/E Mimarisi | alias=Zonal architecture,Software-defined vehicle; slug=Otomotiv-EE-Mimarisi
+      In-Vehicle Networks | Araç İçi Ağlar | alias=CAN,LIN,FlexRay,Automotive Ethernet
+      Functional Safety | Fonksiyonel Güvenlik | src=ISO-26262
+      Automotive Cybersecurity | Otomotiv Siber Güvenliği | src=ISO/SAE-21434
+  Electric Vehicles | Elektrikli Araçlar
+    Battery Electric Vehicles | Bataryalı Elektrikli Araçlar | alias=BEV; dep=lithium-ion-batteries
+    Hybrid Electric Vehicles | Hibrit Elektrikli Araçlar | alias=HEV,PHEV
+    Fuel Cell Electric Vehicles | Yakıt Hücreli Elektrikli Araçlar | alias=FCEV; dep=proton-exchange-membrane-fuel-cells
+    Electric Drivetrains | Elektrikli Aktarma Organları | rel=motor-drives
+    EV Charging Technologies | EA Şarj Teknolojileri | slug=EA-Sarj-Teknolojileri
+      Conductive Fast Charging | İletken Hızlı Şarj | alias=CCS,MCS
+      Wireless EV Charging | Kablosuz EA Şarjı | dep=wireless-power-transfer
+      Battery Swapping | Batarya Değişimi
+  Automated Driving | Otonom Sürüş | alias=Self-driving; src=SAE-J3016
+    Driving Perception | Sürüş Algılama | dep=computer-vision,lidar,radar-systems
+    Behavior Prediction and Planning | Davranış Tahmini ve Planlama | slug=Davranis-Tahmini-ve-Planlama
+    End-to-End Driving | Uçtan Uca Sürüş | status=emerging; dep=deep-learning
+    Advanced Driver Assistance Systems | İleri Sürücü Destek Sistemleri | alias=ADAS
+    HD Mapping and Localization | HD Haritalama ve Konumlama | slug=HD-Haritalama
+    Autonomous Vehicle Safety Validation | Otonom Araç Güvenlik Doğrulaması | src=ISO-21448-SOTIF
+  Connected Vehicles | Bağlantılı Araçlar
+    V2X Communication | V2X Haberleşmesi | alias=DSRC,C-V2X
+    Cooperative Driving | İşbirlikli Sürüş | alias=Platooning
+  Railway Engineering | Demiryolu Mühendisliği
+    High-Speed Rail | Yüksek Hızlı Demiryolu
+    Maglev | Maglev | rel=superconducting-magnets
+    Railway Signaling and Train Control | Demiryolu Sinyalizasyonu ve Tren Kontrolü | alias=ETCS,CBTC; slug=Demiryolu-Sinyalizasyonu
+    Railway Electrification | Demiryolu Elektrifikasyonu
+    Track Engineering | Hat Mühendisliği
+    Hyperloop | Hyperloop | status=emerging; conf=low
+  Marine and Naval Engineering | Gemi ve Deniz Mühendisliği | slug=Gemi-ve-Deniz-Muhendisligi; src=OECD-FORD:2.7
+    Naval Architecture | Gemi İnşaatı
+      Ship Hydrodynamics | Gemi Hidrodinamiği
+      Ship Structures | Gemi Yapıları
+    Marine Propulsion | Deniz İtki Sistemleri | alias=LNG,Ammonia,Wind-assisted
+    Autonomous Ships | Otonom Gemiler | status=emerging
+    Offshore Engineering | Açık Deniz Mühendisliği | alias=Platforms,Subsea
+    Underwater Vehicles | Sualtı Araçları | rel=underwater-robots
+  Urban Air Mobility | Kentsel Hava Mobilitesi | status=emerging; rel=evtol-aircraft
+  Micromobility | Mikromobilite | alias=E-scooters,E-bikes
+  Intelligent Transportation Systems | Akıllı Ulaşım Sistemleri | alias=ITS
+    Traffic Flow Theory | Trafik Akım Teorisi
+    Traffic Signal Control | Trafik Sinyal Kontrolü | alias=Adaptive signal control
+    Traffic Simulation | Trafik Benzetimi | alias=Microscopic,Macroscopic
+    Mobility as a Service | Hizmet Olarak Mobilite | alias=MaaS
+    Demand-Responsive Transit | Talebe Duyarlı Toplu Taşıma
+  Transportation Planning | Ulaşım Planlaması
+    Travel Demand Modeling | Seyahat Talebi Modelleme | alias=Four-step model,Activity-based
+  Pipeline Transport | Boru Hattı Taşımacılığı

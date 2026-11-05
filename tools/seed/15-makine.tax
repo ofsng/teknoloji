@@ -1,0 +1,64 @@
+Mechanical Engineering | Makine Mühendisliği | src=OECD-FORD:2.3,ASME; def=Mekanik sistemlerin, makinelerin ve ısıl/akışkan sistemlerin tasarımı, analizi ve üretimiyle ilgilenen mühendislik disiplini.
+  Engineering Mechanics | Mühendislik Mekaniği
+    Statics and Dynamics | Statik ve Dinamik | slug=Statik-ve-Dinamik
+    Solid Mechanics | Katı Mekaniği
+      Elasticity Theory | Elastisite Teorisi
+      Plasticity Theory | Plastisite Teorisi
+      Viscoelasticity | Viskoelastisite
+      Contact Mechanics | Temas Mekaniği
+    Structural Mechanics | Yapı Mekaniği | rel=structural-engineering
+    Vibration Engineering | Titreşim Mühendisliği
+      Modal Analysis | Modal Analiz
+      Vibration Isolation and Damping | Titreşim Yalıtımı ve Sönümleme | slug=Titresim-Yalitimi
+      Rotordynamics | Rotor Dinamiği
+    Multibody Dynamics | Çok Gövdeli Dinamik
+  Thermal Engineering | Isıl Mühendislik
+    Engineering Thermodynamics | Mühendislik Termodinamiği
+      Power Cycles | Güç Çevrimleri | alias=Rankine,Brayton,Stirling
+      Refrigeration Cycles | Soğutma Çevrimleri
+    Heat Transfer | Isı Transferi
+      Conduction | İletim
+      Convection | Taşınım
+      Thermal Radiation | Isıl Işınım
+      Boiling and Condensation | Kaynama ve Yoğuşma | slug=Kaynama-ve-Yogusma
+      Microscale Heat Transfer | Mikro Ölçekli Isı Transferi
+    Heat Exchangers | Isı Değiştiriciler
+    Heat Pipes and Thermal Management | Isı Boruları ve Termal Yönetim | slug=Termal-Yonetim; alias=Electronics cooling
+    Combustion | Yanma
+      Combustion Chemistry and Kinetics | Yanma Kimyası ve Kinetiği | slug=Yanma-Kimyasi
+      Turbulent Combustion | Türbülanslı Yanma
+      Low-NOx Combustion | Düşük NOx Yanma
+    HVAC Engineering | İklimlendirme Mühendisliği | alias=HVAC
+      Heat Pumps | Isı Pompaları
+  Fluid Mechanics Engineering | Mühendislik Akışkanlar Mekaniği | slug=Muhendislik-Akiskanlar-Mekanigi; rel=fluid-dynamics
+    Turbomachinery | Turbomakineler
+      Gas Turbines | Gaz Türbinleri
+      Steam Turbines | Buhar Türbinleri
+      Compressors | Kompresörler
+      Pumps | Pompalar
+    Fluid Power | Akışkan Gücü | alias=Hydraulics,Pneumatics
+    Lubrication Engineering | Yağlama Mühendisliği | rel=tribology
+  Machine Design | Makine Tasarımı
+    Machine Elements | Makine Elemanları
+      Gears and Transmissions | Dişliler ve Aktarma Organları | slug=Disliler-ve-Aktarma
+      Bearings | Rulmanlar ve Yataklar
+      Fasteners and Joints | Bağlantı Elemanları
+      Springs | Yaylar
+    Mechanisms and Kinematics | Mekanizmalar ve Kinematik | slug=Mekanizmalar-ve-Kinematik
+      Compliant Mechanisms | Esnek Mekanizmalar
+    Computer-Aided Design | Bilgisayar Destekli Tasarım | alias=CAD
+    Computer-Aided Engineering | Bilgisayar Destekli Mühendislik | alias=CAE; dep=finite-element-method
+    Topology Optimization | Topoloji Optimizasyonu
+    Design for Reliability | Güvenilirlik için Tasarım
+    Geometric Dimensioning and Tolerancing | Geometrik Boyutlandırma ve Toleranslandırma | alias=GD&T; src=ISO-1101
+  Internal Combustion Engines | İçten Yanmalı Motorlar
+    Spark-Ignition Engines | Buji Ateşlemeli Motorlar
+    Compression-Ignition Engines | Sıkıştırma Ateşlemeli Motorlar | alias=Diesel
+    Advanced Combustion Modes | İleri Yanma Modları | alias=HCCI
+  Biomechanics | Biyomekanik | rel=biomedical-engineering
+    Musculoskeletal Biomechanics | Kas-İskelet Biyomekaniği
+    Cardiovascular Biomechanics | Kardiyovasküler Biyomekanik
+    Sports Biomechanics | Spor Biyomekaniği
+  Micro and Precision Engineering | Mikro ve Hassas Mühendislik | slug=Hassas-Muhendislik
+  Pressure Vessels and Piping | Basınçlı Kaplar ve Borulama | slug=Basincli-Kaplar
+  Acoustical Engineering | Akustik Mühendisliği | rel=acoustics

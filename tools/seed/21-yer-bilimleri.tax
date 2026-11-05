@@ -1,0 +1,65 @@
+Earth and Planetary Sciences | Yer ve Gezegen Bilimleri | id=earth-sciences; slug=Yer-ve-Gezegen-Bilimleri; src=OECD-FORD:1.5,arXiv:physics.geo-ph,arXiv:physics.ao-ph; def=Yerkürenin katı, sıvı ve gaz kürelerini; iklim sistemini ve doğal tehlikeleri inceleyen bilimler ile bunların gözlem teknolojileri. (Kapsam ekleme: görev listesinde yoktu; iklim bilimi ve uzaktan algılama için kanonik konum gerektiğinden eklendi.)
+  Geology | Jeoloji
+    Mineralogy | Mineraloji
+    Petrology | Petroloji
+    Sedimentology and Stratigraphy | Sedimantoloji ve Stratigrafi | slug=Sedimantoloji
+    Structural Geology and Tectonics | Yapısal Jeoloji ve Tektonik | slug=Yapisal-Jeoloji-ve-Tektonik
+    Paleontology | Paleontoloji
+    Geochronology | Jeokronoloji | alias=Radiometric dating
+  Geophysics | Jeofizik | src=arXiv:physics.geo-ph
+    Seismology | Sismoloji
+      Earthquake Early Warning | Deprem Erken Uyarı
+      Seismic Imaging and Tomography | Sismik Görüntüleme ve Tomografi | slug=Sismik-Tomografi
+      Distributed Acoustic Sensing | Dağıtık Akustik Algılama | alias=DAS; rel=fiber-optic-sensors; status=emerging
+    Exploration Geophysics | Arama Jeofiziği
+      Seismic Reflection Surveying | Sismik Yansıma Etüdü
+      Gravity and Magnetic Surveying | Gravite ve Manyetik Etüt | slug=Gravite-ve-Manyetik-Etut
+      Electromagnetic and Resistivity Methods | Elektromanyetik ve Özdirenç Yöntemleri | slug=Ozdirenc-Yontemleri
+      Ground-Penetrating Radar | Yere Nüfuz Eden Radar | alias=GPR
+    Geodesy | Jeodezi
+      Satellite Geodesy | Uydu Jeodezisi | alias=GRACE,InSAR
+    Geomagnetism | Jeomanyetizma
+  Atmospheric Sciences | Atmosfer Bilimleri | src=arXiv:physics.ao-ph
+    Meteorology | Meteoroloji
+      Numerical Weather Prediction | Sayısal Hava Tahmini | alias=NWP
+      Machine Learning Weather Prediction | Makine Öğrenmeli Hava Tahmini | status=emerging; dep=deep-learning
+      Nowcasting | Anlık Tahmin
+    Atmospheric Physics | Atmosfer Fiziği
+      Cloud Physics | Bulut Fiziği
+      Atmospheric Radiation | Atmosferik Işınım
+    Aerosol Science | Aerosol Bilimi
+  Climate Science | İklim Bilimi
+    Climate Modeling | İklim Modelleme
+      General Circulation Models | Genel Dolaşım Modelleri | alias=GCM
+      Earth System Models | Yer Sistemi Modelleri | alias=ESM
+      Regional Climate Downscaling | Bölgesel İklim Ölçek Küçültme
+    Paleoclimatology | Paleoklimatoloji | alias=Ice cores
+    Climate Change Detection and Attribution | İklim Değişikliği Tespiti ve Atıf | slug=Iklim-Degisikligi-Atif
+    Carbon Cycle Science | Karbon Döngüsü Bilimi
+  Hydrology | Hidroloji
+    Surface Hydrology | Yüzey Hidrolojisi
+    Hydrogeology | Hidrojeoloji
+    Hydrological Modeling | Hidrolojik Modelleme
+  Oceanography | Oşinografi
+    Physical Oceanography | Fiziksel Oşinografi
+    Chemical Oceanography | Kimyasal Oşinografi
+    Ocean Observing Systems | Okyanus Gözlem Sistemleri | alias=Argo floats,Gliders
+    Ocean Acidification Research | Okyanus Asitlenmesi Araştırmaları
+  Cryosphere Science | Kriyosfer Bilimi | alias=Glaciology
+  Soil Science | Toprak Bilimi | src=OECD-FORD:4.1
+  Natural Hazards Science | Doğal Afet Bilimi | slug=Dogal-Afet-Bilimi
+    Volcanology | Volkanoloji
+    Landslide Science | Heyelan Bilimi
+    Tsunami Science | Tsunami Bilimi
+    Wildfire Science | Orman Yangını Bilimi
+  Remote Sensing | Uzaktan Algılama | src=OECD-FORD:2.7
+    Optical and Multispectral Remote Sensing | Optik ve Multispektral Uzaktan Algılama | slug=Multispektral-Uzaktan-Algilama
+    Hyperspectral Remote Sensing | Hiperspektral Uzaktan Algılama | rel=hyperspectral-imaging
+    Synthetic Aperture Radar | Yapay Açıklıklı Radar | alias=SAR
+      Interferometric SAR | İnterferometrik SAR | alias=InSAR
+      Polarimetric SAR | Polarimetrik SAR
+    LiDAR Remote Sensing | LiDAR ile Uzaktan Algılama | rel=lidar
+    Thermal Infrared Remote Sensing | Termal Kızılötesi Uzaktan Algılama
+    Satellite Altimetry | Uydu Altimetrisi
+    Remote Sensing Image Analysis | Uzaktan Algılama Görüntü Analizi | rel=computer-vision
+  Geoinformatics | Jeoenformatik | rel=geographic-information-systems

@@ -1,0 +1,45 @@
+Human-Computer Interaction | İnsan-Bilgisayar Etkileşimi | alias=HCI; slug=Insan-Bilgisayar-Etkilesimi; src=ACM-CCS:Human-centered-computing,arXiv:cs.HC,ISO-9241; def=İnsanların bilgisayar sistemleriyle etkileşiminin tasarımı, değerlendirilmesi ve uygulanmasını inceleyen disiplin (ACM CCS'de ayrı üst dal: Human-centered computing).
+  Interaction Design | Etkileşim Tasarımı
+    User-Centered Design | Kullanıcı Merkezli Tasarım | src=ISO-9241-210
+    Prototyping Methods | Prototipleme Yöntemleri
+    Information Architecture | Bilgi Mimarisi
+  Usability Engineering and Evaluation | Kullanılabilirlik Mühendisliği ve Değerlendirme | slug=Kullanilabilirlik-Muhendisligi
+    Usability Testing | Kullanılabilirlik Testi
+    Heuristic Evaluation | Sezgisel Değerlendirme
+    User Experience Research | Kullanıcı Deneyimi Araştırması | alias=UX research
+  Interaction Techniques | Etkileşim Teknikleri
+    Graphical User Interfaces | Grafiksel Kullanıcı Arayüzleri | alias=GUI,WIMP
+    Touch and Gesture Interaction | Dokunma ve Jest Etkileşimi | slug=Dokunma-ve-Jest-Etkilesimi
+    Voice User Interfaces | Sesli Kullanıcı Arayüzleri | rel=automatic-speech-recognition
+    Conversational User Interfaces | Konuşmaya Dayalı Kullanıcı Arayüzleri | rel=dialogue-systems
+    Eye Tracking | Göz İzleme | alias=Gaze interaction
+    Haptic Interfaces | Haptik Arayüzler
+      Force Feedback | Kuvvet Geri Beslemesi
+      Vibrotactile Feedback | Titreşimsel Dokunsal Geri Bildirim
+      Mid-Air Haptics | Havada Haptik | alias=Ultrasonic haptics; status=emerging
+    Tangible User Interfaces | Somut Kullanıcı Arayüzleri
+    Multimodal Interaction | Çok Kipli Etkileşim
+    Text Entry Methods | Metin Girişi Yöntemleri
+  Extended Reality | Genişletilmiş Gerçeklik | alias=XR
+    Virtual Reality | Sanal Gerçeklik | alias=VR
+      Locomotion in VR | Sanal Gerçeklikte Hareket | slug=VR-Hareket
+      Presence and Immersion | Bulunuşluk ve Sürükleyicilik | slug=Bulunusluk-ve-Surukleyicilik
+    Augmented Reality | Artırılmış Gerçeklik | alias=AR
+      AR Tracking and Registration | AR İzleme ve Çakıştırma | slug=AR-Izleme; rel=visual-slam
+    Mixed Reality | Karma Gerçeklik | alias=MR
+    Head-Mounted Displays | Başa Takılan Ekranlar | alias=HMD; rel=near-eye-displays
+  Ubiquitous and Wearable Computing | Yaygın ve Giyilebilir Bilişim | slug=Yaygin-ve-Giyilebilir-Bilisim
+    Context-Aware Computing | Bağlam Duyarlı Bilişim
+    Smart Environments | Akıllı Ortamlar | alias=Smart home
+  Accessibility | Erişilebilirlik | src=W3C-WCAG
+    Assistive Technologies | Yardımcı Teknolojiler | alias=Screen readers
+    Accessible Interface Design | Erişilebilir Arayüz Tasarımı
+  Computer-Supported Cooperative Work | Bilgisayar Destekli İşbirlikli Çalışma | alias=CSCW
+  Social Computing | Sosyal Bilişim
+  Affective Computing | Duygusal Bilişim | alias=Emotion recognition
+  Information Visualization | Bilgi Görselleştirme | rel=scientific-visualization
+    Visual Analytics | Görsel Analitik
+    Graph and Network Visualization | Çizge ve Ağ Görselleştirme | slug=Cizge-Gorsellestirme
+    Visualization Grammars | Görselleştirme Gramerleri | alias=Grammar of graphics
+  Human-AI Interaction | İnsan-Yapay Zeka Etkileşimi | status=emerging; rel=explainable-ai
+  Cognitive Ergonomics | Bilişsel Ergonomi | rel=ergonomics-and-human-factors

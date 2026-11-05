@@ -1,0 +1,62 @@
+Neuroscience and Neurotechnology | Nörobilim ve Nöroteknoloji | id=neuroscience; slug=Norobilim-ve-Noroteknoloji; src=MeSH:Neurosciences,arXiv:q-bio.NC,OECD-FORD:3.1; def=Sinir sisteminin yapısı, işlevi ve gelişimini inceleyen disiplinlerarası bilim ile sinir sistemini ölçen, uyaran veya onunla arayüz kuran teknolojiler.
+  Cellular and Molecular Neuroscience | Hücresel ve Moleküler Nörobilim | slug=Hucresel-ve-Molekuler-Norobilim
+    Synaptic Transmission | Sinaptik İletim
+    Neural Plasticity | Nöral Plastisite | alias=LTP
+    Ion Channels | İyon Kanalları
+    Glial Biology | Glia Biyolojisi
+  Systems Neuroscience | Sistem Nörobilimi
+    Sensory Systems | Duyu Sistemleri
+    Motor Systems | Motor Sistemler
+    Neural Circuits | Sinir Devreleri
+    Connectomics | Konektomik
+  Cognitive Neuroscience | Bilişsel Nörobilim
+    Memory Neuroscience | Bellek Nörobilimi
+    Decision-Making Neuroscience | Karar Verme Nörobilimi
+    Language Neuroscience | Dil Nörobilimi
+  Developmental Neuroscience | Gelişimsel Nörobilim
+  Computational Neuroscience | Hesaplamalı Nörobilim
+    Neuron Models | Nöron Modelleri | alias=Hodgkin-Huxley,Integrate-and-fire
+    Neural Coding | Sinirsel Kodlama
+    Neural Population Dynamics | Sinirsel Popülasyon Dinamikleri
+    Whole-Brain Simulation | Tüm Beyin Benzetimi | status=emerging; conf=medium
+  Neuroimaging | Nörogörüntüleme | rel=medical-imaging
+    Functional MRI | Fonksiyonel MRG | alias=fMRI,BOLD
+    Diffusion MRI and Tractography | Difüzyon MRG ve Traktografi | alias=DTI; slug=Difuzyon-MRG-ve-Traktografi
+    Electroencephalography | Elektroensefalografi | alias=EEG
+    Magnetoencephalography | Manyetoensefalografi | alias=MEG; dep=quantum-magnetometry
+    Functional Near-Infrared Spectroscopy | Fonksiyonel Yakın Kızılötesi Spektroskopi | alias=fNIRS
+    PET Neuroimaging | PET Nörogörüntüleme
+  Neural Recording Technologies | Sinirsel Kayıt Teknolojileri
+    Microelectrode Arrays | Mikroelektrot Dizileri | alias=Utah array,Neuropixels
+    Patch Clamp | Patch Clamp
+    Calcium Imaging | Kalsiyum Görüntüleme
+    Voltage Imaging | Gerilim Görüntüleme | status=emerging
+  Neuromodulation | Nöromodülasyon
+    Deep Brain Stimulation | Derin Beyin Stimülasyonu | alias=DBS
+    Transcranial Magnetic Stimulation | Transkraniyal Manyetik Stimülasyon | alias=TMS
+    Transcranial Electrical Stimulation | Transkraniyal Elektrik Stimülasyonu | alias=tDCS,tACS
+    Vagus Nerve Stimulation | Vagus Siniri Stimülasyonu
+    Spinal Cord Stimulation | Omurilik Stimülasyonu
+    Focused Ultrasound Neuromodulation | Odaklanmış Ultrason Nöromodülasyonu | status=emerging
+    Closed-Loop Neuromodulation | Kapalı Döngü Nöromodülasyon | status=emerging
+  Optogenetics | Optogenetik
+  Chemogenetics | Kemogenetik | alias=DREADD
+  Brain-Computer Interfaces | Beyin-Bilgisayar Arayüzleri | alias=BCI
+    Invasive BCIs | İnvaziv BCI'lar | alias=Intracortical
+    Non-Invasive BCIs | Non-İnvaziv BCI'lar | alias=EEG-based,SSVEP,P300
+    Neural Decoding Algorithms | Sinirsel Kod Çözme Algoritmaları
+    Speech Neuroprostheses | Konuşma Nöroprotezleri | status=emerging
+  Neuroprosthetics | Nöroprotezler | rel=prosthetics-and-orthotics
+    Cochlear Implants | Koklear İmplantlar
+    Retinal Prostheses | Retina Protezleri
+    Motor Neuroprostheses | Motor Nöroprotezler | alias=FES
+  Neuromorphic Engineering | Nöromorfik Mühendislik
+    Neuromorphic Computing | Nöromorfik Hesaplama | rel=spiking-neural-networks
+      Digital Neuromorphic Processors | Sayısal Nöromorfik İşlemciler
+      Analog and Mixed-Signal Neuromorphic Circuits | Analog ve Karma Sinyal Nöromorfik Devreler | slug=Analog-Noromorfik-Devreler
+      Memristive Neuromorphic Systems | Memristif Nöromorfik Sistemler | rel=memristive-nanodevices
+    Neuromorphic Sensors | Nöromorfik Sensörler | rel=event-cameras
+  Clinical Neuroscience | Klinik Nörobilim | rel=neurology
+    Neurodegeneration Research | Nörodejenerasyon Araştırmaları
+    Neuropharmacology | Nörofarmakoloji
+  Neuroinformatics | Nöroenformatik

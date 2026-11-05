@@ -1,0 +1,47 @@
+Data Storage and Memory Technologies | Veri Depolama ve Bellek Teknolojileri | id=data-storage-and-memory; slug=Veri-Depolama-ve-Bellek-Teknolojileri; src=IRDS-Mass-Data-Storage,IEEE-Magnetics,SNIA; def=Sayısal verinin fiziksel olarak saklanmasını sağlayan bellek cihazları ve depolama ortamları ile depolama sistemi mimarileri. Dosya sistemleri İşletim Sistemleri altında, dağıtık depolama Dağıtık Hesaplama altındadır.
+  Semiconductor Memory | Yarı İletken Bellek | rel=memory-circuit-design
+    Volatile Memory | Uçucu Bellek
+      SRAM | SRAM
+      DRAM | DRAM
+        High-Bandwidth Memory | Yüksek Bant Genişlikli Bellek | alias=HBM; rel=3d-integration
+        DDR and LPDDR Interfaces | DDR ve LPDDR Arayüzleri | slug=DDR-ve-LPDDR
+        3D DRAM | 3B DRAM | slug=3B-DRAM; status=emerging
+    Non-Volatile Memory | Uçucu Olmayan Bellek
+      Flash Memory | Flash Bellek
+        NAND Flash | NAND Flash
+          3D NAND | 3B NAND | slug=3B-NAND
+          Multi-Level Cell Technologies | Çok Seviyeli Hücre Teknolojileri | alias=MLC,TLC,QLC
+          Charge-Trap Flash | Yük Tuzaklı Flash
+        NOR Flash | NOR Flash
+      Emerging Non-Volatile Memory | Gelişmekte Olan Uçucu Olmayan Bellekler | status=emerging; slug=Yeni-Nesil-NVM
+        Phase-Change Memory | Faz Değiştiren Bellek | alias=PCM,PRAM
+        Resistive RAM | Dirençli RAM | alias=ReRAM,RRAM,Memristor
+        Magnetoresistive RAM | Manyetorezistif RAM | alias=MRAM,STT-MRAM,SOT-MRAM; dep=magnetic-tunnel-junctions
+        Ferroelectric Memory | Ferroelektrik Bellek | alias=FeRAM,FeFET
+      Storage-Class Memory | Depolama Sınıfı Bellek | alias=SCM
+    Memory Interconnects | Bellek Ara Bağlantıları | alias=CXL
+  Magnetic Storage | Manyetik Depolama
+    Hard Disk Drives | Sabit Disk Sürücüleri | alias=HDD
+      Perpendicular Magnetic Recording | Dikey Manyetik Kayıt | alias=PMR
+      Shingled Magnetic Recording | Kiremitli Manyetik Kayıt | alias=SMR
+      Heat-Assisted Magnetic Recording | Isı Destekli Manyetik Kayıt | alias=HAMR
+      Microwave-Assisted Magnetic Recording | Mikrodalga Destekli Manyetik Kayıt | alias=MAMR
+    Magnetic Tape Storage | Manyetik Bant Depolama | alias=LTO
+    Racetrack Memory | Yarış Pisti Belleği | status=emerging; conf=medium
+  Optical Storage | Optik Depolama | alias=CD,DVD,Blu-ray
+    Holographic Data Storage | Holografik Veri Depolama | status=emerging
+    Glass-Based Optical Storage | Cam Tabanlı Optik Depolama | alias=5D storage; status=emerging; conf=medium
+  Storage Devices and Interfaces | Depolama Cihazları ve Arayüzleri | slug=Depolama-Cihazlari-ve-Arayuzleri
+    Solid-State Drives | Katı Hal Sürücüleri | alias=SSD
+      Flash Translation Layer | Flash Çeviri Katmanı | alias=FTL
+      Zoned Namespaces | Bölgelendirilmiş Ad Alanları | alias=ZNS
+    Storage Interfaces | Depolama Arayüzleri | alias=NVMe,SATA,SAS
+    Computational Storage | Hesaplamalı Depolama | status=emerging
+  Storage Systems | Depolama Sistemleri
+    RAID | RAID
+    Storage Area Networks | Depolama Alanı Ağları | alias=SAN,NAS
+    Storage Tiering and Caching | Depolama Katmanlama ve Önbellekleme | slug=Depolama-Katmanlama
+    Data Deduplication | Veri Tekilleştirme
+    Backup and Archival Systems | Yedekleme ve Arşivleme Sistemleri | slug=Yedekleme-ve-Arsivleme
+    Long-Term Digital Preservation | Uzun Süreli Dijital Koruma | src=ISO-14721-OAIS
+  Memory Reliability | Bellek Güvenilirliği | alias=ECC,Rowhammer

@@ -1,0 +1,63 @@
+Environmental and Climate Technologies | Çevre ve İklim Teknolojileri | id=environmental-and-climate-technologies; slug=Cevre-ve-Iklim-Teknolojileri; src=OECD-FORD:2.7,OECD-FORD:1.5,IPCC-AR6-WGIII,OECD-ENV-TECH; def=Kirliliği önleyen, gideren ve izleyen; iklim değişikliğini azaltan (mitigasyon) ve ona uyum sağlayan teknolojiler. İklim biliminin kendisi Yer ve Gezegen Bilimleri altındadır.
+  Carbon Management | Karbon Yönetimi
+    Carbon Capture | Karbon Yakalama
+      Post-Combustion Capture | Yanma Sonrası Yakalama | alias=Amine scrubbing
+      Pre-Combustion Capture | Yanma Öncesi Yakalama
+      Oxy-Fuel Combustion | Oksi-Yakıt Yanma
+      Direct Air Capture | Doğrudan Hava Yakalama | alias=DAC; status=emerging
+    Carbon Utilization | Karbon Kullanımı | alias=CCU; rel=co2-electroreduction
+    Geological Carbon Storage | Jeolojik Karbon Depolama | alias=CCS
+    Carbon Dioxide Removal | Karbondioksit Giderimi | alias=CDR
+      Bioenergy with Carbon Capture and Storage | Karbon Yakalamalı Biyoenerji | alias=BECCS; slug=BECCS
+      Enhanced Rock Weathering | Hızlandırılmış Kaya Ayrışması | status=emerging
+      Biochar | Biyokömür
+      Ocean Alkalinity Enhancement | Okyanus Alkalinite Artırımı | status=emerging; conf=medium
+    Carbon Accounting and MRV | Karbon Muhasebesi ve MRV | slug=Karbon-Muhasebesi
+  Climate Intervention Research | İklim Müdahalesi Araştırmaları | alias=Geoengineering; status=theoretical; conf=medium
+    Solar Radiation Modification | Güneş Işınımı Modifikasyonu | alias=SAI,Marine cloud brightening
+  Climate Adaptation Technologies | İklim Uyum Teknolojileri
+    Early Warning Systems | Erken Uyarı Sistemleri
+    Flood Protection | Taşkın Koruma | rel=hydraulic-engineering
+  Water Treatment | Su Arıtma
+    Drinking Water Treatment | İçme Suyu Arıtma
+      Coagulation and Flocculation | Koagülasyon ve Flokülasyon | slug=Koagulasyon-ve-Flokulasyon
+      Disinfection Technologies | Dezenfeksiyon Teknolojileri | alias=Chlorination,UV,Ozonation
+    Wastewater Treatment | Atık Su Arıtma
+      Activated Sludge Process | Aktif Çamur Süreci
+      Membrane Bioreactors | Membran Biyoreaktörler | alias=MBR
+      Anaerobic Wastewater Treatment | Anaerobik Atık Su Arıtma
+      Nutrient Removal | Besin Elementi Giderimi | alias=Anammox
+    Advanced Oxidation Processes | İleri Oksidasyon Süreçleri | alias=AOP
+    Desalination | Tuzdan Arındırma
+      Reverse Osmosis | Ters Ozmoz
+      Thermal Desalination | Termal Tuzdan Arındırma | alias=MSF,MED
+      Electrodialysis | Elektrodiyaliz
+      Capacitive Deionization | Kapasitif Deiyonizasyon
+    PFAS Removal Technologies | PFAS Giderim Teknolojileri | status=emerging
+  Air Pollution Control | Hava Kirliliği Kontrolü
+    Particulate Control | Partikül Kontrolü | alias=Electrostatic precipitator,Baghouse
+    Flue Gas Desulfurization | Baca Gazı Kükürt Giderimi | alias=FGD
+    NOx Control Technologies | NOx Kontrol Teknolojileri | alias=SCR,SNCR
+    Catalytic Converters | Katalitik Konvertörler
+    Indoor Air Purification | İç Ortam Hava Temizleme
+  Solid Waste Management | Katı Atık Yönetimi
+    Recycling Technologies | Geri Dönüşüm Teknolojileri
+      Mechanical Recycling | Mekanik Geri Dönüşüm
+      Chemical Recycling | Kimyasal Geri Dönüşüm | alias=Pyrolysis,Depolymerization
+      E-Waste Recycling | Elektronik Atık Geri Dönüşümü
+    Composting | Kompostlama
+    Waste-to-Energy | Atıktan Enerji | alias=Incineration
+    Landfill Engineering | Düzenli Depolama Mühendisliği
+    Hazardous Waste Treatment | Tehlikeli Atık Arıtımı
+  Environmental Remediation | Çevresel İyileştirme
+    Bioremediation | Biyoremediasyon
+    Phytoremediation | Fitoremediasyon
+    Soil Remediation | Toprak İyileştirme | alias=Soil washing,ISCO
+    Groundwater Remediation | Yeraltı Suyu İyileştirme | alias=Permeable reactive barriers
+  Environmental Monitoring | Çevresel İzleme
+    Air Quality Monitoring | Hava Kalitesi İzleme | rel=gas-sensors
+    Water Quality Monitoring | Su Kalitesi İzleme
+    Biodiversity Monitoring Technologies | Biyoçeşitlilik İzleme Teknolojileri | alias=Camera traps,Bioacoustics; rel=environmental-dna
+  Life Cycle Assessment | Yaşam Döngüsü Değerlendirmesi | alias=LCA; src=ISO-14040
+  Industrial Ecology and Circular Economy | Endüstriyel Ekoloji ve Döngüsel Ekonomi | slug=Dongusel-Ekonomi
+  Environmental Noise Control | Çevresel Gürültü Kontrolü | rel=noise-and-vibration-control

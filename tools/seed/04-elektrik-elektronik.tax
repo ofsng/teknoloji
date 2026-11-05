@@ -1,0 +1,210 @@
+Electrical and Electronic Engineering | Elektrik ve Elektronik Mühendisliği | id=electrical-and-electronic-engineering; slug=Elektrik-ve-Elektronik-Muhendisligi; src=OECD-FORD:2.2,arXiv:eess,IEEE-Taxonomy; def=Elektrik, elektronik ve elektromanyetizmanın; devreler, cihazlar, güç sistemleri ve sinyal işleme yoluyla mühendislik uygulamalarını inceleyen disiplin.
+  Circuit Theory | Devre Teorisi
+    Linear Circuit Analysis | Doğrusal Devre Analizi
+    Nonlinear Circuits | Doğrusal Olmayan Devreler
+    Network Synthesis | Devre Sentezi
+    Filter Design | Filtre Tasarımı
+      Analog Filters | Analog Filtreler
+      Active Filters | Aktif Filtreler
+  Electronic Devices | Elektronik Cihazlar | rel=semiconductor-physics
+    Diodes | Diyotlar
+    Bipolar Junction Transistors | Bipolar Jonksiyon Transistörler | alias=BJT
+    Field-Effect Transistors | Alan Etkili Transistörler | alias=FET
+      MOSFET | MOSFET
+        Planar MOSFET | Düzlemsel MOSFET
+        FinFET | FinFET
+        Gate-All-Around FET | Kapı Çevrelemeli FET | alias=GAAFET,Nanosheet
+        Complementary FET | Tamamlayıcı FET | alias=CFET; status=emerging
+      Silicon-on-Insulator Devices | Yalıtkan Üstü Silisyum Cihazlar | alias=SOI
+      Thin-Film Transistors | İnce Film Transistörler | alias=TFT
+      High-Electron-Mobility Transistors | Yüksek Elektron Hareketlilikli Transistörler | alias=HEMT
+      Tunnel FET | Tünel FET | status=emerging
+      Negative-Capacitance FET | Negatif Kapasitanslı FET | status=emerging
+    Wide-Bandgap Devices | Geniş Bant Aralıklı Cihazlar
+      Silicon Carbide Devices | Silisyum Karbür Cihazlar | alias=SiC
+      Gallium Nitride Devices | Galyum Nitrür Cihazlar | alias=GaN
+      Ultra-Wide-Bandgap Devices | Ultra Geniş Bant Aralıklı Cihazlar | alias=Ga2O3,Diamond; status=emerging
+    Power Semiconductor Devices | Güç Yarı İletken Cihazları | alias=IGBT,Thyristor
+    Optoelectronic Devices | Optoelektronik Cihazlar | rel=photodetectors,light-emitting-diodes
+    Organic Electronics | Organik Elektronik
+    Flexible and Printed Electronics | Esnek ve Basılı Elektronik | slug=Esnek-ve-Basili-Elektronik
+    Spintronic Devices | Spintronik Cihazlar | rel=spintronics
+    Vacuum Electronic Devices | Vakum Elektronik Cihazlar | alias=Klystron,TWT,Magnetron
+    Molecular Electronics | Moleküler Elektronik | status=emerging; rel=nanoelectronics
+  Semiconductor Manufacturing | Yarı İletken Üretimi | src=IEEE-EDS,IRDS
+    Crystal Growth and Wafer Preparation | Kristal Büyütme ve Pul Hazırlama | alias=Czochralski; slug=Kristal-Buyutme-ve-Pul-Hazirlama
+    Lithography | Litografi
+      Optical Lithography | Optik Litografi
+        Deep Ultraviolet Lithography | Derin Morötesi Litografi | alias=DUV,ArF
+        Immersion Lithography | Daldırmalı Litografi
+        Multiple Patterning | Çoklu Desenleme | alias=SADP,SAQP
+      Extreme Ultraviolet Lithography | Aşırı Morötesi Litografi | alias=EUV
+        High-NA EUV Lithography | Yüksek NA EUV Litografi | status=emerging
+      Electron Beam Lithography | Elektron Demeti Litografisi
+      Nanoimprint Lithography | Nanobaskı Litografisi
+      Directed Self-Assembly Lithography | Yönlendirilmiş Öz-Birleşim Litografisi | status=emerging
+      Photomasks and Resolution Enhancement | Fotomaskeler ve Çözünürlük Artırma | alias=OPC; slug=Fotomaske-ve-Cozunurluk-Artirma
+      Photoresists | Fotodirençler
+    Thin Film Deposition | İnce Film Biriktirme | rel=thin-film-technology
+      Chemical Vapor Deposition | Kimyasal Buhar Biriktirme | alias=CVD,PECVD
+      Atomic Layer Deposition | Atomik Katman Biriktirme | alias=ALD
+      Physical Vapor Deposition | Fiziksel Buhar Biriktirme | alias=Sputtering,Evaporation
+      Epitaxy | Epitaksi | alias=MBE,MOCVD
+      Electrochemical Deposition | Elektrokimyasal Biriktirme
+    Etching | Aşındırma
+      Wet Etching | Islak Aşındırma
+      Plasma Etching | Plazma Aşındırma | alias=RIE,DRIE
+      Atomic Layer Etching | Atomik Katman Aşındırma
+    Doping and Ion Implantation | Katkılama ve İyon Ekme | slug=Katkilama-ve-Iyon-Ekme
+    Thermal Processing | Isıl İşlemler | alias=Oxidation,Annealing,RTP
+    Chemical Mechanical Planarization | Kimyasal Mekanik Düzleştirme | alias=CMP
+    Interconnect Technology | Ara Bağlantı Teknolojisi | alias=Damascene,Copper interconnect
+      Backside Power Delivery | Arka Yüz Güç Dağıtımı | status=emerging
+    Advanced Packaging | İleri Paketleme
+      Flip-Chip Packaging | Flip-Chip Paketleme
+      2.5D Integration and Interposers | 2.5B Entegrasyon ve Ara Katmanlar | slug=2-5B-Entegrasyon
+      3D Integration | 3B Entegrasyon | alias=TSV,Hybrid bonding; slug=3B-Entegrasyon
+      Chiplets | Chiplet'ler | status=emerging
+      Fan-Out Wafer-Level Packaging | Fan-Out Pul Düzeyinde Paketleme | alias=FOWLP
+    Semiconductor Metrology and Inspection | Yarı İletken Metrolojisi ve Muayenesi | slug=Yari-Iletken-Metrolojisi
+    Yield Engineering and Defect Analysis | Verim Mühendisliği ve Kusur Analizi | slug=Verim-Muhendisligi
+    Compound Semiconductor Processing | Bileşik Yarı İletken İşleme | alias=III-V
+    Cleanroom Technology | Temiz Oda Teknolojisi
+  Integrated Circuit Design | Entegre Devre Tasarımı | alias=VLSI
+    Digital IC Design | Sayısal Entegre Devre Tasarımı
+      Logic Synthesis | Mantık Sentezi
+      Physical Design | Fiziksel Tasarım | alias=Place and route
+      Static Timing Analysis | Statik Zamanlama Analizi
+      Low-Power Design Techniques | Düşük Güç Tasarım Teknikleri | alias=Clock gating,DVFS
+      Hardware Description Languages | Donanım Tanımlama Dilleri | alias=Verilog,VHDL
+      High-Level Synthesis | Yüksek Seviye Sentez
+      Asynchronous Circuit Design | Asenkron Devre Tasarımı
+    Analog IC Design | Analog Entegre Devre Tasarımı
+      Operational Amplifier Design | İşlemsel Kuvvetlendirici Tasarımı
+      Data Converters | Veri Dönüştürücüler
+        Analog-to-Digital Converters | Analog-Sayısal Dönüştürücüler | alias=ADC,SAR,Sigma-delta
+        Digital-to-Analog Converters | Sayısal-Analog Dönüştürücüler | alias=DAC
+      Phase-Locked Loops | Faz Kilitlemeli Döngüler | alias=PLL
+      Voltage References and Regulators | Gerilim Referansları ve Regülatörleri | alias=LDO,Bandgap; slug=Gerilim-Referanslari
+    Mixed-Signal IC Design | Karma Sinyal Entegre Devre Tasarımı
+    RF IC Design | RF Entegre Devre Tasarımı | rel=rf-and-microwave-engineering
+    Memory Circuit Design | Bellek Devresi Tasarımı | rel=semiconductor-memory
+    Electronic Design Automation | Elektronik Tasarım Otomasyonu | alias=EDA
+      Design Verification | Tasarım Doğrulama | alias=UVM,Formal equivalence
+      Design for Testability | Test Edilebilirlik için Tasarım | alias=DFT,Scan,BIST
+      Machine Learning for EDA | EDA için Makine Öğrenmesi | status=emerging; slug=EDA-icin-Makine-Ogrenmesi
+    ASIC Design | ASIC Tasarımı
+    FPGA | FPGA | alias=Field-Programmable Gate Array
+    System-on-Chip Design | Yonga Üstü Sistem Tasarımı | alias=SoC
+    Radiation-Hardened Electronics | Radyasyona Dayanıklı Elektronik | rel=spacecraft-avionics
+  Signal Processing | Sinyal İşleme | src=arXiv:eess.SP,IEEE-SPS
+    Digital Signal Processing | Sayısal Sinyal İşleme | alias=DSP
+      Sampling Theory and Signal Quantization | Örnekleme Teorisi ve Sinyal Nicemleme | slug=Ornekleme-ve-Nicemleme
+      Digital Filters | Sayısal Filtreler | alias=FIR,IIR
+      Multirate Signal Processing | Çok Hızlı Sinyal İşleme | alias=Filter banks
+      Fast Fourier Transform | Hızlı Fourier Dönüşümü | alias=FFT
+    Time-Frequency Analysis | Zaman-Frekans Analizi
+      Short-Time Fourier Transform | Kısa Zamanlı Fourier Dönüşümü | alias=STFT
+      Wavelet Transform | Dalgacık Dönüşümü
+    Statistical Signal Processing | İstatistiksel Sinyal İşleme
+      Estimation Theory | Kestirim Teorisi
+        Kalman Filtering | Kalman Filtreleme
+          Extended and Unscented Kalman Filters | Genişletilmiş ve Kokusuz Kalman Filtreleri | alias=EKF,UKF; slug=EKF-ve-UKF
+        Particle Filtering | Parçacık Filtreleme | rel=sequential-monte-carlo
+        Wiener Filtering | Wiener Filtreleme
+      Detection Theory | Sezim Teorisi
+      Spectral Estimation | Spektral Kestirim
+    Adaptive Signal Processing | Uyarlamalı Sinyal İşleme | alias=LMS,RLS
+    Array Signal Processing | Dizi Sinyal İşleme
+      Beamforming | Hüzme Oluşturma
+      Direction-of-Arrival Estimation | Geliş Yönü Kestirimi | alias=MUSIC,ESPRIT
+    Sparse Signal Processing | Seyrek Sinyal İşleme
+      Compressed Sensing | Sıkıştırmalı Algılama
+    Graph Signal Processing | Çizge Sinyal İşleme
+    Image and Video Processing | Görüntü ve Video İşleme | src=arXiv:eess.IV; rel=computer-vision
+      Image Enhancement | Görüntü İyileştirme
+      Morphological Image Processing | Morfolojik Görüntü İşleme
+    Radar Signal Processing | Radar Sinyal İşleme | rel=radar-systems
+    Audio Signal Processing | Ses Sinyali İşleme | rel=speech-and-audio-processing
+    Biomedical Signal Processing | Biyomedikal Sinyal İşleme | alias=ECG,EEG analysis
+  Power Electronics | Güç Elektroniği | src=IEEE-PELS
+    DC-DC Converters | DA-DA Dönüştürücüler | alias=Buck,Boost
+      Resonant Converters | Rezonanslı Dönüştürücüler | alias=LLC
+    Inverters | Eviriciler
+      Multilevel Inverters | Çok Seviyeli Eviriciler
+      Grid-Forming Inverters | Şebeke Kuran Eviriciler | status=emerging
+    Rectifiers | Doğrultucular
+      Power Factor Correction | Güç Faktörü Düzeltme | alias=PFC
+    AC-AC Converters | AA-AA Dönüştürücüler | alias=Matrix converter,Cycloconverter
+    Motor Drives | Motor Sürücüler
+      Field-Oriented Control | Alan Yönlendirmeli Kontrol | alias=FOC,Vector control
+      Direct Torque Control | Doğrudan Moment Kontrolü
+    Wireless Power Transfer | Kablosuz Güç Aktarımı
+      Inductive Power Transfer | Endüktif Güç Aktarımı
+      Capacitive Power Transfer | Kapasitif Güç Aktarımı
+    Solid-State Transformers | Katı Hal Transformatörleri | status=emerging
+  Electric Machines | Elektrik Makineleri
+    Transformers | Transformatörler | id=power-transformers
+    Induction Machines | Asenkron Makineler
+    Synchronous Machines | Senkron Makineler
+      Permanent Magnet Synchronous Machines | Kalıcı Mıknatıslı Senkron Makineler | alias=PMSM
+    Switched Reluctance Machines | Anahtarlamalı Relüktans Makineleri
+    DC Machines | DA Makineleri
+    Linear Electric Machines | Lineer Elektrik Makineleri
+    Superconducting Machines | Süperiletken Makineler | rel=superconductivity
+  Electric Power Systems | Elektrik Güç Sistemleri | src=IEEE-PES
+    Power Generation Systems | Güç Üretim Sistemleri | rel=energy-technologies
+    Power Transmission | Güç İletimi
+      High-Voltage Direct Current | Yüksek Gerilim Doğru Akım | alias=HVDC
+        Line-Commutated Converter HVDC | Hat Komütasyonlu HVDC | alias=LCC
+        Voltage-Source Converter HVDC | Gerilim Kaynaklı HVDC | alias=VSC,MMC
+      Flexible AC Transmission Systems | Esnek AA İletim Sistemleri | alias=FACTS,STATCOM
+      High-Voltage Engineering | Yüksek Gerilim Mühendisliği
+      Superconducting Power Cables | Süperiletken Güç Kabloları
+    Power Distribution | Güç Dağıtımı
+    Power System Analysis | Güç Sistemi Analizi
+      Load Flow Analysis | Yük Akışı Analizi
+      Power System Stability | Güç Sistemi Kararlılığı
+      Fault Analysis | Arıza Analizi
+      State Estimation in Power Systems | Güç Sistemlerinde Durum Kestirimi | alias=PMU; slug=Guc-Sistemi-Durum-Kestirimi
+    Power System Protection | Güç Sistemi Koruma | alias=Relays
+    Smart Grids | Akıllı Şebekeler
+      Advanced Metering Infrastructure | Gelişmiş Ölçüm Altyapısı | alias=AMI,Smart meter
+      Demand Response | Talep Yanıtı
+      Microgrids | Mikro Şebekeler
+      Virtual Power Plants | Sanal Güç Santralleri
+      Vehicle-to-Grid | Araçtan Şebekeye | alias=V2G; rel=electric-vehicles
+    Power Quality | Güç Kalitesi | alias=Harmonics
+    Grid Integration of Renewables | Yenilenebilirlerin Şebeke Entegrasyonu | slug=Yenilenebilir-Sebeke-Entegrasyonu; rel=renewable-energy
+    Power System Economics and Markets | Güç Sistemi Ekonomisi ve Piyasaları | slug=Elektrik-Piyasalari; alias=Unit commitment,Economic dispatch
+  Electromagnetics | Elektromanyetik | src=IEEE-APS
+    Electromagnetic Theory | Elektromanyetik Teori | rel=classical-electrodynamics
+    Computational Electromagnetics | Hesaplamalı Elektromanyetik
+      Finite-Difference Time-Domain Method | Zaman Domeninde Sonlu Farklar Yöntemi | alias=FDTD
+      Method of Moments | Momentler Yöntemi | alias=MoM
+    Antennas | Antenler
+      Microstrip and Patch Antennas | Mikroşerit ve Yama Antenler | slug=Mikroserit-Antenler
+      Phased Array Antennas | Faz Dizili Antenler
+      Reflector Antennas | Yansıtıcı Antenler
+      Reconfigurable Intelligent Surfaces | Yeniden Yapılandırılabilir Akıllı Yüzeyler | alias=RIS; status=emerging
+    RF and Microwave Engineering | RF ve Mikrodalga Mühendisliği | slug=RF-ve-Mikrodalga
+      Microwave Circuits | Mikrodalga Devreler
+      RF Power Amplifiers | RF Güç Kuvvetlendiricileri
+      Millimeter-Wave and Terahertz Engineering | Milimetre Dalga ve Terahertz Mühendisliği | slug=mmWave-ve-THz; rel=terahertz-technology
+      RF MEMS | RF MEMS
+    Metamaterials | Metamalzemeler | rel=optical-metamaterials
+      Metasurfaces | Metayüzeyler
+      Electromagnetic Cloaking | Elektromanyetik Görünmezlik
+    Electromagnetic Compatibility | Elektromanyetik Uyumluluk | alias=EMC,EMI
+    Wave Propagation | Dalga Yayılımı
+  Electronic Instrumentation | Elektronik Enstrümantasyon | rel=measurement-and-sensor-technologies
+  Analog and Digital Electronics | Analog ve Sayısal Elektronik | slug=Analog-ve-Sayisal-Elektronik
+    Amplifiers | Kuvvetlendiriciler
+    Oscillators | Osilatörler
+    Digital Logic Design | Sayısal Mantık Tasarımı
+      Combinational Logic | Kombinasyonel Mantık
+      Sequential Logic | Ardışıl Mantık
+    Printed Circuit Board Design | Baskılı Devre Kartı Tasarımı | alias=PCB
+      Signal Integrity | Sinyal Bütünlüğü
+      Power Integrity | Güç Bütünlüğü
+  Lighting Engineering | Aydınlatma Mühendisliği | rel=light-emitting-diodes

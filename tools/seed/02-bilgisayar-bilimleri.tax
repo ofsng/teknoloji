@@ -1,0 +1,589 @@
+Computer Science | Bilgisayar Bilimleri | src=OECD-FORD:1.2,ACM-CCS-2012,arXiv:cs; def=Hesaplamanın kuramsal temellerini, algoritmaları, yazılım ve donanım sistemlerini, bilgi işleme ve iletimini inceleyen disiplin.
+  Theory of Computation | Hesaplama Kuramı | src=ACM-CCS:Theory-of-computation
+    Models of Computation | Hesaplama Modelleri
+      Turing Machines | Turing Makineleri
+      Lambda Calculus | Lambda Hesabı
+      Abstract Machines | Soyut Makineler
+      Interactive Computation | Etkileşimli Hesaplama
+      Unconventional Computing Models | Geleneksel Olmayan Hesaplama Modelleri | rel=dna-computing,neuromorphic-computing
+    Formal Languages and Automata Theory | Biçimsel Diller ve Otomata Teorisi | src=arXiv:cs.FL; slug=Bicimsel-Diller-ve-Otomatlar
+      Finite Automata | Sonlu Otomatlar
+      Context-Free Grammars | Bağlamdan Bağımsız Gramerler
+      Pushdown Automata | Yığıtlı Otomatlar
+      Tree Automata | Ağaç Otomatları
+      Omega Automata | Omega Otomatları
+    Computability Theory | Hesaplanabilirlik Teorisi
+    Computational Complexity Theory | Hesaplamalı Karmaşıklık Teorisi | src=arXiv:cs.CC
+      Complexity Classes | Karmaşıklık Sınıfları | alias=P vs NP
+      Circuit Complexity | Devre Karmaşıklığı
+      Communication Complexity | İletişim Karmaşıklığı
+      Proof Complexity | İspat Karmaşıklığı
+      Parameterized Complexity | Parametreli Karmaşıklık
+      Fine-Grained Complexity | İnce Taneli Karmaşıklık
+      Interactive Proof Systems | Etkileşimli İspat Sistemleri | rel=zero-knowledge-proofs
+        Probabilistically Checkable Proofs | Olasılıksal Denetlenebilir İspatlar | alias=PCP
+      Quantum Complexity Theory | Kuantum Karmaşıklık Teorisi | rel=quantum-algorithms
+      Derandomization and Pseudorandomness | Rastgelesizleştirme ve Sözde Rastgelelik | slug=Rastgelesizlestirme-ve-Sozde-Rastgelelik
+    Logic in Computer Science | Bilgisayar Biliminde Mantık | src=arXiv:cs.LO
+      Temporal Logic | Zamansal Mantık
+      Modal Logic | Kipsel Mantık
+      Description Logics | Tanımlama Mantıkları | app=knowledge-representation-and-reasoning
+      Satisfiability | Karşılanabilirlik | alias=SAT
+        SAT Solvers | SAT Çözücüler
+          CDCL Solvers | CDCL Çözücüler
+        Satisfiability Modulo Theories | Teori Modülo Karşılanabilirlik | alias=SMT
+      Automated Theorem Proving | Otomatik Teorem İspatı
+        Resolution Theorem Proving | Çözümleme Tabanlı İspat
+        Interactive Theorem Proving | Etkileşimli Teorem İspatı | alias=Proof assistants
+      Finite Model Theory | Sonlu Model Teorisi
+    Computational Learning Theory | Hesaplamalı Öğrenme Teorisi | rel=statistical-learning-theory
+      PAC Learning | PAC Öğrenme
+      Online Learning Theory | Çevrimiçi Öğrenme Teorisi
+    Semantics of Programming Languages | Programlama Dilleri Anlambilimi | slug=Programlama-Dilleri-Anlambilimi
+      Operational Semantics | İşlemsel Anlambilim
+      Denotational Semantics | Gösterimsel Anlambilim
+      Axiomatic Semantics | Aksiyomatik Anlambilim | alias=Hoare logic
+  Algorithms and Data Structures | Algoritmalar ve Veri Yapıları | src=arXiv:cs.DS
+    Algorithm Design Paradigms | Algoritma Tasarım Paradigmaları
+      Divide and Conquer | Böl ve Yönet
+      Greedy Algorithms | Açgözlü Algoritmalar
+      Backtracking | Geri İzleme
+    Data Structures | Veri Yapıları
+      Search Trees | Arama Ağaçları
+        Balanced Binary Search Trees | Dengeli İkili Arama Ağaçları | alias=AVL,Red-Black
+        B-Trees | B-Ağaçları | app=database-indexing
+      Hash Tables | Karma Tabloları
+      Heaps and Priority Queues | Yığınlar ve Öncelik Kuyrukları | slug=Yiginlar-ve-Oncelik-Kuyruklari
+      Succinct Data Structures | Özlü Veri Yapıları
+      Persistent Data Structures | Kalıcı Veri Yapıları
+      Probabilistic Data Structures | Olasılıksal Veri Yapıları
+        Bloom Filters | Bloom Filtreleri
+        Sketches | Taslak Yapılar | alias=Count-Min Sketch,HyperLogLog
+      Spatial Data Structures | Uzamsal Veri Yapıları | alias=k-d tree,R-tree
+    Sorting and Searching | Sıralama ve Arama
+    Graph Algorithms | Çizge Algoritmaları | dep=graph-theory
+      Shortest Path Algorithms | En Kısa Yol Algoritmaları
+      Network Flow Algorithms | Ağ Akışı Algoritmaları
+      Graph Matching | Çizge Eşleştirme
+      Graph Partitioning | Çizge Bölümleme
+    String Algorithms | Dizgi Algoritmaları
+      Pattern Matching | Örüntü Eşleme
+      Suffix Structures | Sonek Yapıları | alias=Suffix tree,Suffix array
+    Computational Geometry | Hesaplamalı Geometri | src=arXiv:cs.CG
+      Convex Hull Algorithms | Konveks Örtü Algoritmaları
+      Voronoi Diagrams and Delaunay Triangulation | Voronoi Diyagramları ve Delaunay Üçgenlemesi | slug=Voronoi-ve-Delaunay
+    Randomized Algorithms | Rastgele Algoritmalar
+    Approximation Algorithms | Yaklaşım Algoritmaları
+    Online Algorithms | Çevrimiçi Algoritmalar
+    Streaming Algorithms | Akış Algoritmaları
+    Parallel Algorithms | Paralel Algoritmalar
+    Distributed Algorithms | Dağıtık Algoritmalar | rel=distributed-consensus
+    External Memory Algorithms | Harici Bellek Algoritmaları
+    Algorithm Engineering | Algoritma Mühendisliği
+  Programming Languages | Programlama Dilleri | src=arXiv:cs.PL,ACM-CCS:Software-and-its-engineering
+    Programming Paradigms | Programlama Paradigmaları
+      Imperative Programming | Buyurgan Programlama
+      Object-Oriented Programming | Nesne Yönelimli Programlama
+      Functional Programming | Fonksiyonel Programlama
+      Logic Programming | Mantık Programlama
+      Concurrent Programming Models | Eşzamanlı Programlama Modelleri | alias=Actor model,CSP
+      Reactive Programming | Reaktif Programlama
+      Probabilistic Programming | Olasılıksal Programlama
+      Differentiable Programming | Türevlenebilir Programlama | rel=automatic-differentiation
+    Type Systems | Tip Sistemleri
+      Dependent Types | Bağımlı Tipler
+      Linear and Affine Types | Doğrusal ve Afin Tipler | slug=Dogrusal-ve-Afin-Tipler; alias=Ownership types
+      Gradual Typing | Kademeli Tipleme
+      Type Inference | Tip Çıkarımı
+    Compilers | Derleyiciler
+      Lexical and Syntax Analysis | Sözcüksel ve Sözdizimsel Analiz | slug=Sozcuksel-ve-Sozdizimsel-Analiz
+      Intermediate Representations | Ara Temsiller | alias=SSA
+      Compiler Optimization | Derleyici Optimizasyonu
+        Polyhedral Compilation | Çokyüzlü Derleme
+        Loop Optimization | Döngü Optimizasyonu
+        Auto-Vectorization | Otomatik Vektörleştirme
+      Code Generation and Register Allocation | Kod Üretimi ve Yazmaç Ataması | slug=Kod-Uretimi-ve-Yazmac-Atamasi
+      Just-in-Time Compilation | Anında Derleme | alias=JIT
+      Machine Learning Compilers | Makine Öğrenmesi Derleyicileri | status=emerging; app=deep-learning
+    Program Analysis | Program Analizi
+      Static Analysis | Statik Analiz
+        Abstract Interpretation | Soyut Yorumlama
+        Dataflow Analysis | Veri Akışı Analizi
+        Pointer Analysis | İşaretçi Analizi
+      Dynamic Analysis | Dinamik Analiz
+      Symbolic Execution | Sembolik Yürütme
+    Runtime Systems | Çalışma Zamanı Sistemleri
+      Garbage Collection | Çöp Toplama
+      Virtual Machines for Languages | Dil Sanal Makineleri | alias=Bytecode VM
+    Domain-Specific Languages | Alana Özgü Diller
+    Metaprogramming | Metaprogramlama
+    Program Synthesis | Program Sentezi
+  Software Engineering | Yazılım Mühendisliği | src=arXiv:cs.SE,ISO/IEC/IEEE-12207
+    Software Requirements Engineering | Yazılım Gereksinim Mühendisliği
+    Software Architecture | Yazılım Mimarisi
+      Microservices Architecture | Mikroservis Mimarisi
+      Event-Driven Architecture | Olay Güdümlü Mimari
+      Service-Oriented Architecture | Servis Odaklı Mimari
+    Software Design Patterns | Yazılım Tasarım Desenleri
+    Software Testing | Yazılım Testi
+      Unit and Integration Testing | Birim ve Entegrasyon Testi | slug=Birim-ve-Entegrasyon-Testi
+      Fuzz Testing | Fuzz Testi
+      Mutation Testing | Mutasyon Testi
+      Property-Based Testing | Özellik Tabanlı Test
+      Model-Based Testing | Model Tabanlı Test
+    Formal Methods | Biçimsel Yöntemler
+      Model Checking | Model Denetimi
+        Symbolic Model Checking | Sembolik Model Denetimi
+        Bounded Model Checking | Sınırlı Model Denetimi
+        Probabilistic Model Checking | Olasılıksal Model Denetimi
+      Deductive Verification | Tümdengelimli Doğrulama
+      Formal Specification | Biçimsel Belirtim | alias=TLA+,Z notation
+      Runtime Verification | Çalışma Zamanı Doğrulama
+    Software Maintenance and Evolution | Yazılım Bakımı ve Evrimi | slug=Yazilim-Bakimi-ve-Evrimi
+      Refactoring | Yeniden Düzenleme
+      Program Repair | Program Onarımı
+    Software Process Models | Yazılım Süreç Modelleri | alias=Agile,Waterfall
+    DevOps and Continuous Delivery | DevOps ve Sürekli Teslimat | slug=DevOps-ve-Surekli-Teslimat
+    Version Control Systems | Sürüm Kontrol Sistemleri
+    Software Reliability Engineering | Yazılım Güvenilirlik Mühendisliği
+    Empirical Software Engineering | Ampirik Yazılım Mühendisliği
+    Model-Driven Engineering | Model Güdümlü Mühendislik
+    Embedded Software Engineering | Gömülü Yazılım Mühendisliği | rel=embedded-systems
+  Computer Architecture | Bilgisayar Mimarisi | src=arXiv:cs.AR,ACM-CCS:Computer-systems-organization
+    Instruction Set Architectures | Komut Kümesi Mimarileri
+      RISC Architectures | RISC Mimarileri | alias=RISC-V,ARM
+      CISC Architectures | CISC Mimarileri | alias=x86
+      VLIW Architectures | VLIW Mimarileri
+    Microarchitecture | Mikromimari
+      Instruction Pipelining | Komut Boru Hattı
+      Superscalar and Out-of-Order Execution | Süperskaler ve Sıra Dışı Yürütme | slug=Superskaler-ve-Sira-Disi-Yurutme
+      Branch Prediction | Dal Tahmini
+      Speculative Execution | Spekülatif Yürütme | rel=side-channel-attacks
+      Simultaneous Multithreading | Eşzamanlı Çoklu İş Parçacığı | alias=SMT,Hyper-threading
+    Memory Hierarchy | Bellek Hiyerarşisi | rel=semiconductor-memory
+      Cache Design | Önbellek Tasarımı
+      Cache Coherence Protocols | Önbellek Tutarlılık Protokolleri | alias=MESI
+      Memory Consistency Models | Bellek Tutarlılık Modelleri
+      Virtual Memory | Sanal Bellek
+    Parallel Architectures | Paralel Mimariler
+      Multicore Processors | Çok Çekirdekli İşlemciler
+      SIMD and Vector Processors | SIMD ve Vektör İşlemciler | slug=SIMD-ve-Vektor-Islemciler
+      GPU Architecture | GPU Mimarisi
+      Network-on-Chip | Yonga Üstü Ağ | alias=NoC
+    Domain-Specific Accelerators | Alana Özgü Hızlandırıcılar
+      AI Accelerators | Yapay Zeka Hızlandırıcıları | alias=TPU,NPU; app=deep-learning
+        Systolic Arrays | Sistolik Diziler
+      Reconfigurable Computing | Yeniden Yapılandırılabilir Hesaplama | alias=FPGA computing; rel=fpga
+    Near-Memory and In-Memory Computing | Bellek Yakını ve Bellek İçi Hesaplama | slug=Bellek-Ici-Hesaplama; status=emerging; rel=resistive-ram
+    Dataflow Architectures | Veri Akışı Mimarileri
+    Embedded Systems | Gömülü Sistemler
+      Real-Time Systems | Gerçek Zamanlı Sistemler
+      Microcontroller Systems | Mikrodenetleyici Sistemleri
+      Cyber-Physical Systems | Siber-Fiziksel Sistemler | rel=internet-of-things
+    Computer Performance Evaluation | Bilgisayar Performans Değerlendirmesi | src=arXiv:cs.PF
+    Fault-Tolerant Computing | Hata Toleranslı Hesaplama
+    Energy-Efficient Computing | Enerji Verimli Hesaplama
+    Approximate Computing | Yaklaşık Hesaplama | status=emerging
+  Operating Systems | İşletim Sistemleri | src=arXiv:cs.OS
+    Kernel Architectures | Çekirdek Mimarileri
+      Monolithic Kernels | Monolitik Çekirdekler
+      Microkernels | Mikroçekirdekler
+      Unikernels | Unikernel'lar | status=emerging
+    Process Scheduling | Süreç Çizelgeleme
+    Memory Management | Bellek Yönetimi
+    File Systems | Dosya Sistemleri | rel=storage-systems
+      Journaling File Systems | Günlüklü Dosya Sistemleri
+      Log-Structured File Systems | Günlük Yapılı Dosya Sistemleri
+      Copy-on-Write File Systems | Yazarken Kopyalayan Dosya Sistemleri | alias=ZFS,Btrfs
+    Concurrency Control and Synchronization | Eşzamanlılık Denetimi ve Senkronizasyon | id=os-synchronization; slug=Senkronizasyon
+      Lock-Free Data Structures | Kilitsiz Veri Yapıları
+      Transactional Memory | İşlemsel Bellek
+    Virtualization | Sanallaştırma
+      Hypervisors | Hipervizörler
+      Containers and OS-Level Virtualization | Konteynerler ve İşletim Sistemi Düzeyi Sanallaştırma | slug=Konteyner-Sanallastirma
+    Real-Time Operating Systems | Gerçek Zamanlı İşletim Sistemleri | alias=RTOS
+    Device Drivers and I/O Subsystems | Aygıt Sürücüleri ve G/Ç Alt Sistemleri | slug=Aygit-Suruculeri-ve-GC
+  Distributed and Parallel Computing | Dağıtık ve Paralel Hesaplama | src=arXiv:cs.DC
+    Distributed Systems Theory | Dağıtık Sistemler Kuramı
+      Distributed Consensus | Dağıtık Konsensüs | alias=Consensus protocols
+        Crash Fault-Tolerant Consensus | Çökme Hatası Toleranslı Konsensüs | alias=Paxos,Raft
+          Paxos | Paxos
+          Raft | Raft
+        Byzantine Fault Tolerance | Bizans Hata Toleransı | alias=BFT
+          Practical Byzantine Fault Tolerance | Pratik Bizans Hata Toleransı | alias=PBFT
+          HotStuff-Family Protocols | HotStuff Ailesi Protokoller
+          DAG-Based BFT Protocols | DAG Tabanlı BFT Protokolleri | status=emerging
+      Fault Tolerance and Replication | Hata Toleransı ve Replikasyon | slug=Hata-Toleransi-ve-Replikasyon
+        State Machine Replication | Durum Makinesi Replikasyonu
+        Chain Replication | Zincir Replikasyonu
+      Consistency Models | Tutarlılık Modelleri
+        Linearizability | Doğrusallaştırılabilirlik
+        Eventual Consistency | Nihai Tutarlılık
+          Conflict-Free Replicated Data Types | Çakışmasız Replike Veri Tipleri | alias=CRDT
+        Causal Consistency | Nedensel Tutarlılık
+      Logical Clocks | Mantıksal Saatler | alias=Lamport clocks,Vector clocks
+      Failure Detectors | Hata Dedektörleri
+      Gossip Protocols | Dedikodu Protokolleri
+      Leader Election | Lider Seçimi
+    Distributed Ledger Technologies | Dağıtık Defter Teknolojileri | alias=DLT; dep=distributed-consensus,cryptographic-hash-functions,digital-signatures
+      Blockchain | Blokzincir
+        Blockchain Consensus Mechanisms | Blokzincir Konsensüs Mekanizmaları | slug=Konsensus-Mekanizmalari; dep=byzantine-fault-tolerance
+          Proof of Work | İş İspatı | alias=PoW; slug=Proof-of-Work
+          Proof of Stake | Hisse İspatı | alias=PoS; slug=Proof-of-Stake
+            Delegated Proof of Stake | Yetkilendirilmiş Hisse İspatı | alias=DPoS; slug=Delegated-Proof-of-Stake
+            BFT-Style Proof of Stake | BFT Tarzı Hisse İspatı | slug=BFT-Tabanli-Proof-of-Stake
+          Proof of Authority | Yetki İspatı | alias=PoA; slug=Proof-of-Authority
+          Proof of Space and Time | Alan ve Zaman İspatı | slug=Proof-of-Space-Time
+          Nakamoto Consensus | Nakamoto Konsensüsü | rel=proof-of-work
+        Blockchain Data Structures | Blokzincir Veri Yapıları
+          Merkle Trees | Merkle Ağaçları
+          Merkle Patricia Tries | Merkle Patricia Trie'leri
+          Verkle Trees | Verkle Ağaçları | status=emerging
+        Blockchain Scalability | Blokzincir Ölçeklendirme | slug=Olceklendirme
+          Layer-2 Protocols | Katman-2 Protokolleri | slug=Katman-2
+            Rollups | Rollup'lar | slug=Rollups
+              ZK-Rollups | ZK-Rollup'lar | slug=ZK-Rollups; dep=zk-snarks,zk-starks
+              Optimistic Rollups | İyimser Rollup'lar | slug=Optimistic-Rollups
+            Payment Channels and State Channels | Ödeme ve Durum Kanalları | slug=Durum-Kanallari
+            Plasma Chains | Plasma Zincirleri
+          Blockchain Sharding | Blokzincir Parçalama | slug=Sharding
+          Data Availability Sampling | Veri Erişilebilirliği Örneklemesi | status=emerging; dep=erasure-codes
+        Smart Contracts | Akıllı Sözleşmeler
+          Smart Contract Virtual Machines | Akıllı Sözleşme Sanal Makineleri | alias=EVM,WASM
+          Smart Contract Languages | Akıllı Sözleşme Dilleri
+          Smart Contract Verification | Akıllı Sözleşme Doğrulama | rel=formal-methods
+        Blockchain Interoperability | Blokzincirler Arası Birlikte Çalışabilirlik | slug=Birlikte-Calisabilirlik
+          Cross-Chain Bridges | Zincirler Arası Köprüler
+          Atomic Swaps | Atomik Takaslar
+        Permissioned Blockchains | İzinli Blokzincirler
+        Blockchain Privacy Techniques | Blokzincir Gizlilik Teknikleri | slug=Gizlilik-Teknikleri; dep=zero-knowledge-proofs,ring-signatures
+        Blockchain Light Clients | Blokzincir Hafif İstemcileri | slug=Hafif-Istemciler
+        Blockchain Mining Hardware | Blokzincir Madencilik Donanımı | slug=Madencilik-Donanimi; rel=asic-design
+      DAG-Based Ledgers | DAG Tabanlı Defterler
+    Parallel Computing | Paralel Hesaplama
+      Shared-Memory Parallelism | Paylaşımlı Bellek Paralelliği | alias=OpenMP
+      Message Passing | Mesaj Geçirme | alias=MPI
+      GPU Computing | GPU Hesaplama | alias=GPGPU,CUDA
+      Data Parallelism | Veri Paralelliği
+      Task Parallelism | Görev Paralelliği
+    High-Performance Computing | Yüksek Başarımlı Hesaplama | alias=HPC
+      Supercomputer Architectures | Süper Bilgisayar Mimarileri
+      Exascale Computing | Exaölçekli Hesaplama
+      HPC Interconnects | HPC Ara Bağlantıları | alias=InfiniBand
+      Parallel I/O | Paralel G/Ç
+    Cloud Computing | Bulut Bilişim | src=NIST-SP-800-145
+      Infrastructure as a Service | Hizmet Olarak Altyapı | alias=IaaS
+      Platform as a Service | Hizmet Olarak Platform | alias=PaaS
+      Serverless Computing | Sunucusuz Hesaplama | alias=FaaS
+      Container Orchestration | Konteyner Orkestrasyonu | alias=Kubernetes
+      Cloud Resource Scheduling | Bulut Kaynak Çizelgeleme
+    Edge and Fog Computing | Kenar ve Sis Hesaplama | slug=Kenar-ve-Sis-Hesaplama; rel=internet-of-things
+    Peer-to-Peer Systems | Eşler Arası Sistemler | alias=P2P
+      Distributed Hash Tables | Dağıtık Karma Tabloları | alias=DHT,Kademlia,Chord
+      Overlay Networks | Kaplama Ağları
+    Grid Computing | Izgara Hesaplama | status=historical
+    Volunteer Computing | Gönüllü Hesaplama
+    Distributed Storage Systems | Dağıtık Depolama Sistemleri | id=distributed-storage
+      Distributed File Systems | Dağıtık Dosya Sistemleri | alias=HDFS,Ceph
+      Object Storage | Nesne Depolama
+      Erasure-Coded Storage | Silme Kodlu Depolama | dep=erasure-codes
+    Big Data Processing Frameworks | Büyük Veri İşleme Çerçeveleri | slug=Buyuk-Veri-Isleme
+      Batch Processing Models | Toplu İşleme Modelleri | alias=MapReduce
+      Stream Processing | Akış İşleme
+      Graph Processing Systems | Çizge İşleme Sistemleri | alias=Pregel
+    Distributed Transactions | Dağıtık İşlemler | alias=2PC,3PC
+  Computer Networks | Bilgisayar Ağları | src=arXiv:cs.NI,ACM-CCS:Networks,IETF-RFC
+    Network Architecture | Ağ Mimarisi
+      OSI and TCP/IP Reference Models | OSI ve TCP/IP Başvuru Modelleri | slug=OSI-ve-TCP-IP-Modelleri
+      Information-Centric Networking | Bilgi Merkezli Ağlar | alias=NDN,CCN
+      Delay-Tolerant Networking | Gecikmeye Toleranslı Ağlar | alias=DTN
+    Network Protocols | Ağ Protokolleri
+      Link Layer Protocols | Bağlantı Katmanı Protokolleri
+        Ethernet | Ethernet | src=IEEE-802.3
+          Time-Sensitive Networking | Zamana Duyarlı Ağlar | alias=TSN; src=IEEE-802.1
+        Medium Access Control Protocols | Ortam Erişim Denetimi Protokolleri | alias=MAC,CSMA
+        Spanning Tree Protocols | Yayılan Ağaç Protokolleri
+      Network Layer Protocols | Ağ Katmanı Protokolleri
+        Internet Protocol | İnternet Protokolü | alias=IPv4,IPv6
+          IPv6 | IPv6
+        Routing Protocols | Yönlendirme Protokolleri
+          Interior Gateway Protocols | İç Ağ Geçidi Protokolleri
+            Link-State Routing | Bağlantı Durumu Yönlendirme | alias=OSPF,IS-IS
+            Distance-Vector Routing | Uzaklık Vektörü Yönlendirme | alias=RIP
+          Border Gateway Protocol | Sınır Ağ Geçidi Protokolü | alias=BGP
+            BGP Security | BGP Güvenliği | alias=RPKI,BGPsec
+          Multicast Routing | Çok Noktaya Yayın Yönlendirme
+          Segment Routing | Segment Yönlendirme
+        Multiprotocol Label Switching | Çok Protokollü Etiket Anahtarlama | alias=MPLS
+      Transport Layer Protocols | Taşıma Katmanı Protokolleri
+        TCP | TCP
+        Congestion Control | Tıkanıklık Denetimi
+          Loss-Based Congestion Control | Kayıp Tabanlı Tıkanıklık Denetimi | alias=Reno,CUBIC
+          Delay and Model-Based Congestion Control | Gecikme ve Model Tabanlı Tıkanıklık Denetimi | alias=BBR,Vegas; slug=Gecikme-Tabanli-Tikaniklik-Denetimi
+        UDP | UDP
+        QUIC | QUIC
+        SCTP | SCTP
+        Multipath Transport | Çok Yollu Taşıma | alias=MPTCP
+      Application Layer Protocols | Uygulama Katmanı Protokolleri
+        HTTP | HTTP | alias=HTTP/2,HTTP/3
+        Domain Name System | Alan Adı Sistemi | alias=DNS
+        Publish-Subscribe Messaging Protocols | Yayınla-Abone Ol Mesajlaşma Protokolleri | alias=MQTT,AMQP; slug=Yayinla-Abone-Protokolleri
+        Real-Time Media Protocols | Gerçek Zamanlı Medya Protokolleri | alias=RTP,WebRTC,SIP
+        Network Time Protocols | Ağ Zaman Protokolleri | alias=NTP,PTP
+    Software-Defined Networking | Yazılım Tanımlı Ağlar | alias=SDN
+      Programmable Data Planes | Programlanabilir Veri Düzlemleri | alias=P4
+      SDN Controllers | SDN Denetleyicileri | alias=OpenFlow
+    Network Function Virtualization | Ağ Fonksiyonu Sanallaştırma | alias=NFV
+    Data Center Networks | Veri Merkezi Ağları
+      Remote Direct Memory Access | Uzak Doğrudan Bellek Erişimi | alias=RDMA
+    Content Delivery Networks | İçerik Dağıtım Ağları | alias=CDN
+    Wireless Ad Hoc and Mesh Networks | Kablosuz Ad Hoc ve Örgü Ağlar | slug=Ad-Hoc-ve-Orgu-Aglar
+      Mobile Ad Hoc Networks | Mobil Ad Hoc Ağlar | alias=MANET
+      Vehicular Ad Hoc Networks | Araçsal Ad Hoc Ağlar | alias=VANET; rel=connected-vehicles
+      Wireless Sensor Networks | Kablosuz Algılayıcı Ağları | rel=internet-of-things
+    Internet of Things | Nesnelerin İnterneti | alias=IoT
+      IoT Protocols | IoT Protokolleri | alias=CoAP,6LoWPAN
+      Industrial Internet of Things | Endüstriyel Nesnelerin İnterneti | alias=IIoT; rel=industry-4-0
+    Network Measurement and Management | Ağ Ölçümü ve Yönetimi | slug=Ag-Olcumu-ve-Yonetimi
+    Network Performance Modeling | Ağ Performans Modellemesi | dep=queueing-theory
+    Quality of Service | Hizmet Kalitesi | alias=QoS
+  Databases and Information Systems | Veritabanları ve Bilgi Sistemleri | src=arXiv:cs.DB,ACM-CCS:Information-systems; slug=Veritabanlari-ve-Bilgi-Sistemleri
+    Data Models | Veri Modelleri
+      Relational Model | İlişkisel Model
+        Relational Algebra and Calculus | İlişkisel Cebir ve Hesap | slug=Iliskisel-Cebir
+        Database Normalization | Veritabanı Normalizasyonu
+      Graph Data Models | Çizge Veri Modelleri | alias=Property graph; rel=rdf
+      Document Data Models | Belge Veri Modelleri
+      Key-Value Data Models | Anahtar-Değer Veri Modelleri
+      Wide-Column Data Models | Geniş Sütunlu Veri Modelleri
+      Array and Tensor Data Models | Dizi ve Tensör Veri Modelleri | slug=Dizi-Veri-Modelleri
+    Query Processing and Optimization | Sorgu İşleme ve Optimizasyonu | slug=Sorgu-Isleme-ve-Optimizasyonu
+      Cost-Based Query Optimization | Maliyet Tabanlı Sorgu Optimizasyonu
+      Join Algorithms | Birleştirme Algoritmaları
+      Learned Query Optimization | Öğrenilmiş Sorgu Optimizasyonu | status=emerging
+    Database Indexing | Veritabanı İndeksleme
+      Learned Index Structures | Öğrenilmiş İndeks Yapıları | status=emerging
+      LSM Trees | LSM Ağaçları
+    Transaction Processing | İşlem İşleme
+      Concurrency Control | Eşzamanlılık Denetimi
+        Two-Phase Locking | İki Aşamalı Kilitleme
+        Multiversion Concurrency Control | Çok Sürümlü Eşzamanlılık Denetimi | alias=MVCC
+        Optimistic Concurrency Control | İyimser Eşzamanlılık Denetimi
+      Recovery and Logging | Kurtarma ve Günlükleme | alias=ARIES,WAL
+    Database Architectures | Veritabanı Mimarileri
+      Column Stores | Sütun Depoları
+      In-Memory Databases | Bellek İçi Veritabanları
+      Distributed Databases | Dağıtık Veritabanları
+        NewSQL Systems | NewSQL Sistemleri
+      Time-Series Databases | Zaman Serisi Veritabanları
+      Vector Databases | Vektör Veritabanları | status=emerging; dep=approximate-nearest-neighbor-search
+    Data Warehousing and OLAP | Veri Ambarı ve OLAP | slug=Veri-Ambari-ve-OLAP
+    Data Integration | Veri Entegrasyonu
+      Entity Resolution | Varlık Çözümleme
+      Schema Matching | Şema Eşleme
+    Data Provenance | Veri Kökeni
+    Data Quality and Cleaning | Veri Kalitesi ve Temizleme | slug=Veri-Kalitesi-ve-Temizleme
+    Information Retrieval | Bilgi Erişimi | src=arXiv:cs.IR
+      Indexing and Inverted Files | İndeksleme ve Ters Dizinler | slug=Ters-Dizinler
+      Retrieval Models | Erişim Modelleri
+        Vector Space Model | Vektör Uzayı Modeli
+        Probabilistic Retrieval Models | Olasılıksal Erişim Modelleri | alias=BM25
+        Neural Information Retrieval | Sinirsel Bilgi Erişimi | dep=deep-learning
+          Dense Retrieval | Yoğun Erişim
+          Learned Sparse Retrieval | Öğrenilmiş Seyrek Erişim | status=emerging
+      Learning to Rank | Sıralamayı Öğrenme
+      Approximate Nearest Neighbor Search | Yaklaşık En Yakın Komşu Arama | alias=ANN,HNSW
+        Graph-Based ANN Indexes | Çizge Tabanlı ANN İndeksleri | alias=HNSW
+        Product Quantization | Çarpım Nicemleme
+        Locality-Sensitive Hashing | Yerelliğe Duyarlı Karma | alias=LSH
+      Web Search | Web Arama
+        Link Analysis | Bağlantı Analizi | alias=PageRank,HITS
+        Web Crawling | Web Tarama
+      Recommender Systems | Öneri Sistemleri
+        Collaborative Filtering | İşbirlikçi Filtreleme
+          Matrix Factorization for Recommendation | Öneri için Matris Ayrıştırma | slug=Oneri-Matris-Ayristirma
+        Content-Based Filtering | İçerik Tabanlı Filtreleme
+        Sequential Recommendation | Sıralı Öneri
+      Retrieval Evaluation | Erişim Değerlendirmesi
+    Data Mining | Veri Madenciliği | rel=machine-learning
+      Association Rule Mining | Birliktelik Kuralı Madenciliği | alias=Apriori,FP-Growth
+      Sequential Pattern Mining | Sıralı Örüntü Madenciliği
+      Graph Mining | Çizge Madenciliği
+      Text Mining | Metin Madenciliği | rel=natural-language-processing
+      Process Mining | Süreç Madenciliği
+      Anomaly Detection | Anomali Tespiti
+    Semantic Web and Linked Data | Anlamsal Web ve Bağlı Veri | slug=Anlamsal-Web; src=W3C
+      RDF | RDF
+      Ontology Languages | Ontoloji Dilleri | alias=OWL
+      SPARQL | SPARQL
+    Knowledge Graphs | Bilgi Çizgeleri | rel=knowledge-representation-and-reasoning
+    Digital Libraries | Dijital Kütüphaneler | src=arXiv:cs.DL
+    Geographic Information Systems | Coğrafi Bilgi Sistemleri | alias=GIS
+    Data Compression | Veri Sıkıştırma | dep=source-coding
+      Lossless Compression | Kayıpsız Sıkıştırma
+        Entropy Coding | Entropi Kodlama | alias=Huffman,Arithmetic coding,ANS
+        Dictionary Coding | Sözlük Kodlama | alias=LZ77,LZ78
+        Burrows-Wheeler Transform | Burrows-Wheeler Dönüşümü
+      Lossy Compression | Kayıplı Sıkıştırma
+        Transform Coding | Dönüşüm Kodlama | alias=DCT
+        Image Compression | Görüntü Sıkıştırma | alias=JPEG
+        Video Coding | Video Kodlama | alias=H.264,HEVC,AV1
+        Audio Coding | Ses Kodlama
+        Learned Compression | Öğrenilmiş Sıkıştırma | status=emerging
+  Cryptography | Kriptografi | src=arXiv:cs.CR,IACR,NIST-CSRC
+    Cryptographic Foundations | Kriptografik Temeller
+      One-Way Functions | Tek Yönlü Fonksiyonlar
+      Provable Security | Kanıtlanabilir Güvenlik
+        Random Oracle Model | Rastgele Kehanet Modeli
+        Universal Composability | Evrensel Birleştirilebilirlik
+      Pseudorandom Generators and Functions | Sözde Rastgele Üreteçler ve Fonksiyonlar | slug=Sozde-Rastgele-Uretecler
+    Symmetric-Key Cryptography | Simetrik Anahtarlı Kriptografi
+      Block Ciphers | Blok Şifreler
+        Substitution-Permutation Networks | Yerine Koyma-Permütasyon Ağları | alias=AES
+        Feistel Ciphers | Feistel Şifreleri | alias=DES
+        Lightweight Block Ciphers | Hafif Blok Şifreler
+      Stream Ciphers | Akış Şifreleri | alias=ChaCha20
+      Modes of Operation | Çalışma Kipleri
+        Authenticated Encryption | Kimlik Doğrulamalı Şifreleme | alias=AEAD,GCM
+      Message Authentication Codes | Mesaj Doğrulama Kodları | alias=MAC,HMAC
+    Cryptographic Hash Functions | Kriptografik Özet Fonksiyonları
+      Merkle-Damgard Hash Functions | Merkle-Damgård Özet Fonksiyonları | alias=SHA-2
+      Sponge Construction Hash Functions | Sünger Yapılı Özet Fonksiyonları | alias=SHA-3,Keccak
+      Password Hashing and Key Derivation | Parola Özetleme ve Anahtar Türetme | alias=Argon2,PBKDF2; slug=Parola-Ozetleme-ve-Anahtar-Turetme
+      Algebraic Hash Functions | Cebirsel Özet Fonksiyonları | alias=Poseidon; status=emerging; app=zk-snarks
+    Public-Key Cryptography | Açık Anahtarlı Kriptografi
+      RSA Cryptosystem | RSA Kriptosistemi
+      Discrete Logarithm Cryptography | Ayrık Logaritma Kriptografisi | alias=Diffie-Hellman,ElGamal
+      Elliptic Curve Cryptography | Eliptik Eğri Kriptografisi | alias=ECC; dep=elliptic-curves
+        Pairing-Based Cryptography | Eşleme Tabanlı Kriptografi
+      Key Exchange Protocols | Anahtar Değişim Protokolleri
+      Digital Signatures | Sayısal İmzalar
+        Schnorr and ECDSA Signatures | Schnorr ve ECDSA İmzaları | slug=Schnorr-ve-ECDSA
+        BLS Signatures | BLS İmzaları | dep=pairing-based-cryptography
+        Ring Signatures | Halka İmzalar
+        Group Signatures | Grup İmzaları
+        Blind Signatures | Kör İmzalar
+        Threshold Signatures | Eşik İmzaları
+      Identity-Based Encryption | Kimlik Tabanlı Şifreleme
+      Attribute-Based Encryption | Öznitelik Tabanlı Şifreleme
+    Post-Quantum Cryptography | Kuantum Sonrası Kriptografi | src=NIST-PQC; rel=shors-algorithm
+      Lattice-Based Cryptography | Kafes Tabanlı Kriptografi
+        Learning With Errors | Hatalarla Öğrenme | alias=LWE,Module-LWE,ML-KEM
+        NTRU | NTRU
+        Lattice-Based Signatures | Kafes Tabanlı İmzalar | alias=ML-DSA,Falcon
+      Code-Based Cryptography | Kod Tabanlı Kriptografi | alias=McEliece
+      Hash-Based Signatures | Özet Tabanlı İmzalar | alias=SPHINCS+,XMSS
+      Multivariate Cryptography | Çok Değişkenli Kriptografi
+      Isogeny-Based Cryptography | İzojeni Tabanlı Kriptografi | conf=medium
+    Zero-Knowledge Proofs | Sıfır Bilgi İspatları | alias=ZKP; dep=interactive-proof-systems
+      Sigma Protocols | Sigma Protokolleri
+      zk-SNARKs | zk-SNARK | slug=zk-SNARK
+        Pairing-Based SNARKs | Eşleme Tabanlı SNARK'lar | alias=Groth16,Pinocchio; dep=pairing-based-cryptography
+        Universal SNARKs | Evrensel SNARK'lar | alias=PLONK,Marlin
+        Polynomial Commitment Schemes | Polinom Taahhüt Şemaları | alias=KZG,FRI,IPA
+        Recursive Proof Composition | Özyinelemeli İspat Birleştirme | alias=Folding schemes,Nova; status=emerging
+      zk-STARKs | zk-STARK | slug=zk-STARK
+      Bulletproofs | Bulletproofs | alias=Range proofs
+      Arithmetic Circuit Design for ZK | ZK için Aritmetik Devre Tasarımı | slug=ZK-Aritmetik-Devreler; alias=R1CS,AIR
+      Zero-Knowledge Virtual Machines | Sıfır Bilgi Sanal Makineleri | alias=zkVM; status=emerging
+    Secure Multi-Party Computation | Güvenli Çok Taraflı Hesaplama | alias=MPC
+      Garbled Circuits | Karıştırılmış Devreler
+      Secret Sharing | Gizli Paylaşım | alias=Shamir
+      Oblivious Transfer | Habersiz Transfer
+      Private Set Intersection | Özel Küme Kesişimi
+    Homomorphic Encryption | Homomorfik Şifreleme
+      Partially Homomorphic Encryption | Kısmi Homomorfik Şifreleme | alias=Paillier
+      Fully Homomorphic Encryption | Tam Homomorfik Şifreleme | alias=FHE,BGV,CKKS,TFHE
+    Functional Encryption | Fonksiyonel Şifreleme
+    Indistinguishability Obfuscation | Ayırt Edilemezlik Gizlemesi | alias=iO; status=theoretical
+    Commitment Schemes | Taahhüt Şemaları
+    Verifiable Delay Functions | Doğrulanabilir Gecikme Fonksiyonları | status=emerging
+    Verifiable Random Functions | Doğrulanabilir Rastgele Fonksiyonlar
+    Cryptographic Protocols | Kriptografik Protokoller
+      TLS Protocol | TLS Protokolü
+      Secure Messaging Protocols | Güvenli Mesajlaşma Protokolleri | alias=Signal protocol,Double Ratchet,MLS
+      Authentication Protocols | Kimlik Doğrulama Protokolleri | alias=Kerberos,FIDO2
+      Password-Authenticated Key Exchange | Parola Doğrulamalı Anahtar Değişimi | alias=PAKE
+      Electronic Voting Protocols | Elektronik Oylama Protokolleri
+      Anonymous Communication Protocols | Anonim İletişim Protokolleri | alias=Onion routing,Mix networks
+    Cryptanalysis | Kriptanaliz
+      Differential Cryptanalysis | Diferansiyel Kriptanaliz
+      Linear Cryptanalysis | Doğrusal Kriptanaliz
+      Algebraic Cryptanalysis | Cebirsel Kriptanaliz
+      Lattice Reduction Attacks | Kafes İndirgeme Saldırıları | alias=LLL,BKZ
+    Public Key Infrastructure | Açık Anahtar Altyapısı | alias=PKI,X.509
+    Random Number Generation | Rastgele Sayı Üretimi | rel=quantum-random-number-generation,quantum-key-distribution
+  Computer Security | Bilgisayar Güvenliği | src=arXiv:cs.CR,ACM-CCS:Security-and-privacy,NIST-CSF
+    Software Security | Yazılım Güvenliği
+      Memory Safety | Bellek Güvenliği
+      Control-Flow Integrity | Kontrol Akışı Bütünlüğü
+      Vulnerability Discovery | Zafiyet Keşfi | rel=fuzz-testing
+      Exploit Mitigation Techniques | İstismar Önleme Teknikleri | alias=ASLR,DEP
+    Systems Security | Sistem Güvenliği
+      Access Control Models | Erişim Denetimi Modelleri | alias=RBAC,ABAC
+      Trusted Execution Environments | Güvenilir Yürütme Ortamları | alias=TEE,SGX,TrustZone
+      Hardware Security | Donanım Güvenliği
+        Side-Channel Attacks | Yan Kanal Saldırıları
+          Timing and Cache Attacks | Zamanlama ve Önbellek Saldırıları | slug=Zamanlama-ve-Onbellek-Saldirilari
+          Power Analysis Attacks | Güç Analizi Saldırıları
+          Transient Execution Attacks | Geçici Yürütme Saldırıları | alias=Spectre,Meltdown
+        Fault Injection Attacks | Hata Enjeksiyonu Saldırıları
+        Physically Unclonable Functions | Fiziksel Klonlanamaz Fonksiyonlar | alias=PUF
+        Hardware Trojans | Donanım Truva Atları
+      Secure Boot and Attestation | Güvenli Önyükleme ve Tasdik | slug=Guvenli-Onyukleme
+    Network Security | Ağ Güvenliği
+      Firewalls | Güvenlik Duvarları
+      Intrusion Detection Systems | Saldırı Tespit Sistemleri | alias=IDS
+        Signature-Based Intrusion Detection | İmza Tabanlı Saldırı Tespiti
+        Anomaly-Based Intrusion Detection | Anomali Tabanlı Saldırı Tespiti
+      Virtual Private Networks | Sanal Özel Ağlar | alias=VPN,IPsec,WireGuard
+      DDoS Mitigation | DDoS Azaltma
+      Zero Trust Architecture | Sıfır Güven Mimarisi | src=NIST-SP-800-207
+    Web Security | Web Güvenliği | alias=XSS,CSRF,SQL injection
+    Malware Analysis | Zararlı Yazılım Analizi
+      Static Malware Analysis | Statik Zararlı Yazılım Analizi
+      Dynamic Malware Analysis | Dinamik Zararlı Yazılım Analizi
+    Digital Forensics | Dijital Adli Bilişim
+    Privacy-Enhancing Technologies | Gizliliği Artıran Teknolojiler | alias=PETs
+      Differential Privacy | Diferansiyel Gizlilik
+        Local Differential Privacy | Yerel Diferansiyel Gizlilik
+      Anonymization Techniques | Anonimleştirme Teknikleri | alias=k-anonymity
+      Private Information Retrieval | Özel Bilgi Erişimi
+    Security Verification | Güvenlik Doğrulaması | alias=Protocol verification; rel=formal-methods
+    Usable Security | Kullanılabilir Güvenlik | rel=human-computer-interaction
+    Identity and Access Management | Kimlik ve Erişim Yönetimi | slug=Kimlik-ve-Erisim-Yonetimi
+      Biometric Authentication | Biyometrik Kimlik Doğrulama | rel=biometric-sensors
+    Information Hiding | Bilgi Gizleme
+      Steganography | Steganografi
+      Digital Watermarking | Dijital Filigranlama
+  Computer Graphics | Bilgisayar Grafikleri | src=arXiv:cs.GR,ACM-CCS:Computing-methodologies
+    Rendering | Görüntü Oluşturma
+      Rasterization | Rasterleştirme
+      Ray Tracing | Işın İzleme
+        Path Tracing | Yol İzleme
+      Global Illumination | Küresel Aydınlatma
+      Physically Based Rendering | Fiziksel Tabanlı Görüntü Oluşturma | alias=PBR
+      Volume Rendering | Hacim Görüntüleme
+      Neural Rendering | Sinirsel Görüntü Oluşturma | status=emerging
+        Neural Radiance Fields | Sinirsel Işıma Alanları | alias=NeRF; status=emerging
+        Gaussian Splatting | Gauss Sıçratma | status=emerging
+    Geometric Modeling | Geometrik Modelleme
+      Polygon Meshes | Çokgen Ağları
+      Parametric Curves and Surfaces | Parametrik Eğriler ve Yüzeyler | alias=NURBS,Bezier
+      Subdivision Surfaces | Alt Bölme Yüzeyleri
+      Implicit Surfaces | Örtük Yüzeyler | alias=SDF
+      Point Cloud Processing | Nokta Bulutu İşleme
+    Computer Animation | Bilgisayar Animasyonu
+      Skeletal Animation | İskelet Animasyonu
+      Physics-Based Animation | Fizik Tabanlı Animasyon
+      Motion Capture | Hareket Yakalama
+    Texture Synthesis | Doku Sentezi
+    Real-Time Graphics Pipelines | Gerçek Zamanlı Grafik İşlem Hatları | alias=GPU pipeline,Shaders; slug=Gercek-Zamanli-Grafik
+    Computational Photography | Hesaplamalı Fotoğrafçılık | rel=computer-vision
+  Computational Science and Engineering Software | Bilimsel Yazılım ve Matematiksel Yazılım | id=mathematical-software; src=arXiv:cs.MS; slug=Matematiksel-Yazilim
+    Automatic Differentiation | Otomatik Türev Alma
+    Numerical Libraries | Sayısal Kütüphaneler | alias=BLAS,LAPACK
+    Symbolic Computation Systems | Sembolik Hesaplama Sistemleri | rel=computer-algebra
+  Multimedia Systems | Çoklu Ortam Sistemleri | src=arXiv:cs.MM
+    Media Streaming | Medya Akışı | alias=Adaptive bitrate,DASH
+    Multimedia Retrieval | Çoklu Ortam Erişimi

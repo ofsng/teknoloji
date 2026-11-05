@@ -1,0 +1,152 @@
+Medical and Biomedical Technologies | Tıp ve Biyomedikal Teknolojiler | id=medicine-and-biomedical; slug=Tip-ve-Biyomedikal-Teknolojiler; src=OECD-FORD:3.1-3.5,OECD-FORD:2.6,MeSH,IEEE-EMBS; def=Hastalıkların önlenmesi, teşhisi ve tedavisine yönelik tıp bilimleri ile biyomedikal mühendislik, farmasötik ve tıbbi cihaz teknolojileri. Klinik uzmanlık dalları yalnızca teknolojik araştırma alanlarına bağlam sağladığı ölçüde yer alır.
+  Biomedical Engineering | Biyomedikal Mühendisliği | src=OECD-FORD:2.6
+    Biomedical Instrumentation | Biyomedikal Enstrümantasyon
+      Patient Monitoring Systems | Hasta İzleme Sistemleri
+      Electrocardiography | Elektrokardiyografi | alias=ECG
+      Pulse Oximetry | Nabız Oksimetrisi
+    Tissue Engineering | Doku Mühendisliği
+      Scaffold Design | İskele Tasarımı
+      Decellularized Matrices | Hücresizleştirilmiş Matrisler
+      Engineered Organs | Mühendislik Organları | status=emerging
+    Regenerative Medicine | Rejeneratif Tıp | dep=stem-cell-biology
+    Rehabilitation Engineering | Rehabilitasyon Mühendisliği
+      Prosthetics and Orthotics | Protez ve Ortezler | slug=Protez-ve-Ortezler
+      Rehabilitation Robotics | Rehabilitasyon Robotiği | rel=exoskeletons
+    Biomedical Microdevices | Biyomedikal Mikrocihazlar
+      Lab-on-a-Chip | Çip Üstünde Laboratuvar | dep=microfluidics
+    Biosensors | Biyosensörler
+      Electrochemical Biosensors | Elektrokimyasal Biyosensörler | alias=Glucose sensors
+      Optical Biosensors | Optik Biyosensörler | rel=surface-plasmon-resonance
+      Field-Effect Transistor Biosensors | Alan Etkili Transistör Biyosensörleri | alias=BioFET
+    Artificial Organs | Yapay Organlar
+      Ventricular Assist Devices | Ventrikül Destek Cihazları | alias=VAD
+      Artificial Kidney and Dialysis | Yapay Böbrek ve Diyaliz | slug=Yapay-Bobrek-ve-Diyaliz
+      Artificial Pancreas | Yapay Pankreas | alias=Closed-loop insulin delivery
+  Medical Imaging | Tıbbi Görüntüleme | src=MeSH:Diagnostic-Imaging
+    X-ray Imaging | X-ışını Görüntüleme
+      Digital Radiography | Dijital Radyografi
+      Mammography and Tomosynthesis | Mamografi ve Tomosentez | slug=Mamografi-ve-Tomosentez
+    Computed Tomography | Bilgisayarlı Tomografi | alias=CT
+      Photon-Counting CT | Foton Sayan BT | status=emerging
+      Cone-Beam CT | Konik Işınlı BT
+      CT Image Reconstruction | BT Görüntü Geriçatımı | alias=Filtered back-projection,Iterative reconstruction
+    Magnetic Resonance Imaging | Manyetik Rezonans Görüntüleme | alias=MRI
+      MRI Pulse Sequences | MRG Darbe Dizileri
+      Compressed Sensing MRI | Sıkıştırmalı Algılamalı MRG | dep=compressed-sensing
+      Ultra-High-Field MRI | Ultra Yüksek Alan MRG | alias=7T
+      Low-Field MRI | Düşük Alan MRG | status=emerging
+      Magnetic Resonance Spectroscopy | Manyetik Rezonans Spektroskopisi | alias=MRS
+    Ultrasound Imaging | Ultrason Görüntüleme
+      Doppler Ultrasound | Doppler Ultrason
+      Elastography | Elastografi
+      Photoacoustic Imaging | Fotoakustik Görüntüleme
+      Ultrafast Ultrasound | Ultrahızlı Ultrason
+    Nuclear Medicine Imaging | Nükleer Tıp Görüntüleme
+      Positron Emission Tomography | Pozitron Emisyon Tomografisi | alias=PET
+      SPECT | SPECT
+      Radiopharmaceuticals | Radyofarmasötikler | dep=radioisotope-production
+    Optical Medical Imaging | Optik Tıbbi Görüntüleme
+      Optical Coherence Tomography | Optik Koherens Tomografi | alias=OCT
+      Endoscopy | Endoskopi
+      Fluorescence-Guided Imaging | Floresan Kılavuzlu Görüntüleme
+    Hybrid Imaging | Hibrit Görüntüleme | alias=PET/CT,PET/MRI
+    Medical Image Analysis | Tıbbi Görüntü Analizi | rel=computer-vision
+      Medical Image Segmentation | Tıbbi Görüntü Bölütleme
+      Medical Image Registration | Tıbbi Görüntü Çakıştırma
+      Radiomics | Radyomik
+      Computer-Aided Diagnosis | Bilgisayar Destekli Teşhis | alias=CAD
+  Medical Devices | Tıbbi Cihazlar | src=ISO-13485,IEC-60601
+    Implantable Medical Devices | İmplante Edilebilir Tıbbi Cihazlar
+      Cardiac Pacemakers and Defibrillators | Kalp Pilleri ve Defibrilatörler | alias=ICD; slug=Kalp-Pilleri
+      Orthopedic Implants | Ortopedik İmplantlar
+      Bioresorbable Implants | Biyoemilebilir İmplantlar
+    Wearable Medical Devices | Giyilebilir Tıbbi Cihazlar | rel=wearable-sensors
+    Point-of-Care Diagnostics | Hasta Başı Teşhis | alias=POC,Lateral flow
+    Drug Delivery Devices | İlaç Taşıma Cihazları | alias=Microneedles,Insulin pumps
+    Minimally Invasive Surgical Devices | Minimal İnvaziv Cerrahi Cihazlar | alias=Catheters,Stents; slug=Minimal-Invaziv-Cihazlar
+    Software as a Medical Device | Tıbbi Cihaz Olarak Yazılım | alias=SaMD
+  Surgical Technologies | Cerrahi Teknolojiler
+    Surgical Robotics | Cerrahi Robotik
+    Image-Guided Surgery | Görüntü Kılavuzlu Cerrahi | alias=Surgical navigation
+    Laser Surgery | Lazer Cerrahisi
+    Electrosurgery | Elektrocerrahi
+    Ablation Technologies | Ablasyon Teknolojileri | alias=RF ablation,Cryoablation,HIFU
+  Radiation Therapy | Radyasyon Tedavisi | alias=Radiotherapy
+    External Beam Radiotherapy | Dış Işın Radyoterapisi | alias=IMRT,VMAT
+    Stereotactic Radiosurgery | Stereotaktik Radyocerrahi | alias=SRS,SBRT
+    Proton and Particle Therapy | Proton ve Parçacık Tedavisi | slug=Proton-ve-Parcacik-Tedavisi
+    Brachytherapy | Brakiterapi
+    FLASH Radiotherapy | FLASH Radyoterapi | status=emerging
+    Radiotherapy Treatment Planning | Radyoterapi Tedavi Planlama
+  Pharmaceutical Sciences | Eczacılık Bilimleri | src=OECD-FORD:3.1
+    Drug Discovery | İlaç Keşfi
+      High-Throughput Screening | Yüksek Verimli Tarama
+      Structure-Based Drug Design | Yapı Tabanlı İlaç Tasarımı | dep=molecular-docking
+      AI-Driven Drug Discovery | Yapay Zeka Destekli İlaç Keşfi | status=emerging; dep=deep-learning
+      Fragment-Based Drug Discovery | Fragman Tabanlı İlaç Keşfi
+      Targeted Protein Degradation | Hedefli Protein Yıkımı | alias=PROTAC; status=emerging
+    Pharmacology | Farmakoloji
+      Pharmacokinetics and Pharmacodynamics | Farmakokinetik ve Farmakodinamik | alias=PK/PD; slug=Farmakokinetik
+      Toxicology | Toksikoloji
+    Pharmaceutical Technology | Farmasötik Teknoloji
+      Drug Formulation | İlaç Formülasyonu
+      Controlled-Release Drug Delivery | Kontrollü Salım İlaç Taşıma
+      Continuous Pharmaceutical Manufacturing | Sürekli Farmasötik Üretim
+    Biopharmaceuticals | Biyofarmasötikler
+      Therapeutic Proteins | Terapötik Proteinler
+      Biosimilars | Biyobenzerler
+  Advanced Therapies | İleri Tedaviler | alias=ATMP
+    Gene Therapy | Gen Tedavisi
+      Viral Vector Gene Delivery | Viral Vektörle Gen Aktarımı | alias=AAV,Lentivirus
+      Non-Viral Gene Delivery | Viral Olmayan Gen Aktarımı | rel=lipid-nanoparticles
+      In Vivo Gene Editing Therapy | In Vivo Gen Düzenleme Tedavisi | dep=gene-editing; status=emerging
+    Cell Therapy | Hücre Tedavisi
+      CAR-T Cell Therapy | CAR-T Hücre Tedavisi
+      Stem Cell Therapy | Kök Hücre Tedavisi
+      NK Cell Therapy | NK Hücre Tedavisi | status=emerging
+    RNA Therapeutics | RNA Tedavileri
+      Antisense Oligonucleotides | Antisens Oligonükleotidler | alias=ASO
+      siRNA Therapeutics | siRNA Tedavileri
+      mRNA Therapeutics | mRNA Tedavileri
+    Phage Therapy | Faj Tedavisi
+  Vaccine Technology | Aşı Teknolojisi
+    Inactivated and Live-Attenuated Vaccines | İnaktive ve Canlı Zayıflatılmış Aşılar | slug=Inaktive-ve-Canli-Asilar
+    Subunit and Conjugate Vaccines | Alt Birim ve Konjuge Aşılar | slug=Alt-Birim-Asilar
+    Viral Vector Vaccines | Viral Vektör Aşıları
+    mRNA Vaccines | mRNA Aşıları | dep=lipid-nanoparticles
+    DNA Vaccines | DNA Aşıları
+    Vaccine Adjuvants | Aşı Adjuvanları
+  Clinical Diagnostics | Klinik Teşhis
+    In Vitro Diagnostics | In Vitro Teşhis | alias=IVD
+    Molecular Diagnostics | Moleküler Teşhis | dep=polymerase-chain-reaction
+      Liquid Biopsy | Sıvı Biyopsi | alias=ctDNA
+      Genetic Testing | Genetik Test
+    Digital Pathology | Dijital Patoloji
+    Clinical Laboratory Automation | Klinik Laboratuvar Otomasyonu
+  Precision Medicine | Hassas Tıp | dep=genetics-and-genomics
+    Biomarker Discovery | Biyobelirteç Keşfi
+    Companion Diagnostics | Eşlik Eden Teşhis
+  Digital Health | Dijital Sağlık
+    Health Informatics | Sağlık Bilişimi
+      Electronic Health Records | Elektronik Sağlık Kayıtları | alias=EHR
+      Clinical Decision Support Systems | Klinik Karar Destek Sistemleri
+      Health Data Interoperability Standards | Sağlık Verisi Birlikte Çalışabilirlik Standartları | alias=HL7,FHIR,DICOM; slug=Saglik-Verisi-Standartlari
+    Telemedicine | Teletıp
+    Mobile Health | Mobil Sağlık | alias=mHealth
+    Medical AI | Tıbbi Yapay Zeka | status=emerging; dep=machine-learning
+  Epidemiology and Public Health Technologies | Epidemiyoloji ve Halk Sağlığı Teknolojileri | slug=Epidemiyoloji
+    Disease Surveillance Systems | Hastalık Sürveyans Sistemleri
+    Wastewater-Based Epidemiology | Atık Su Tabanlı Epidemiyoloji
+    Clinical Trial Methodology | Klinik Araştırma Metodolojisi | alias=RCT,Adaptive trials
+  Clinical Medicine Specialties | Klinik Tıp Uzmanlıkları | conf=medium; src=OECD-FORD:3.2
+    Cardiology | Kardiyoloji
+    Oncology | Onkoloji
+      Cancer Immunotherapy | Kanser İmmünoterapisi | alias=Checkpoint inhibitors
+    Neurology | Nöroloji
+    Ophthalmology | Oftalmoloji
+    Radiology | Radyoloji
+    Infectious Diseases | Enfeksiyon Hastalıkları
+    Anesthesiology | Anesteziyoloji
+    Dentistry | Diş Hekimliği
+      Dental Materials | Diş Malzemeleri
+      Digital Dentistry | Dijital Diş Hekimliği | alias=CAD/CAM dentistry

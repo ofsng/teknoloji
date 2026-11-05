@@ -1,0 +1,214 @@
+# Biçim: English Title | Türkçe Başlık | seçenekler (id=, slug=, rel=, dep=, app=, status=, conf=, src=, alias=, def=)
+# Girinti: 2 boşluk = 1 seviye. id verilmezse İngilizce başlıktan türetilir.
+Mathematics and Computational Sciences | Matematik ve Hesaplamalı Bilimler | id=mathematics; src=OECD-FORD:1.1,arXiv:math,arXiv:stat,MSC2020; def=Soyut yapıları, nicelikleri, uzayı ve değişimi inceleyen disiplin ile bunların hesaplamalı yöntemleri (sayısal analiz, istatistik, optimizasyon, bilimsel hesaplama).
+  Algebra | Cebir | src=MSC2020:08-20
+    Group Theory | Grup Teorisi | src=arXiv:math.GR
+    Ring Theory | Halka Teorisi | src=arXiv:math.RA
+    Field Theory and Galois Theory | Cisim ve Galois Teorisi | slug=Cisim-ve-Galois-Teorisi
+    Linear Algebra | Lineer Cebir
+      Numerical Linear Algebra | Sayısal Lineer Cebir | rel=numerical-analysis
+      Multilinear Algebra and Tensors | Çok Doğrusal Cebir ve Tensörler | rel=tensor-networks
+    Commutative Algebra | Değişmeli Cebir | src=arXiv:math.AC
+    Representation Theory | Temsil Teorisi | src=arXiv:math.RT
+    Category Theory | Kategori Teorisi | src=arXiv:math.CT
+    Homological Algebra | Homolojik Cebir | src=arXiv:math.KT
+    Lie Theory | Lie Teorisi
+    Universal Algebra | Evrensel Cebir
+    Computer Algebra | Bilgisayar Cebiri | src=arXiv:cs.SC; alias=Symbolic Computation
+      Groebner Bases | Gröbner Tabanları
+  Number Theory | Sayılar Teorisi | src=arXiv:math.NT
+    Analytic Number Theory | Analitik Sayılar Teorisi
+    Algebraic Number Theory | Cebirsel Sayılar Teorisi
+    Computational Number Theory | Hesaplamalı Sayılar Teorisi | app=public-key-cryptography
+      Integer Factorization Algorithms | Tamsayı Çarpanlara Ayırma Algoritmaları
+      Primality Testing | Asallık Testleri
+      Discrete Logarithm Algorithms | Ayrık Logaritma Algoritmaları
+    Elliptic Curves | Eliptik Eğriler | app=elliptic-curve-cryptography
+    Diophantine Equations | Diofant Denklemleri
+  Geometry and Topology | Geometri ve Topoloji
+    Differential Geometry | Diferansiyel Geometri | src=arXiv:math.DG
+      Riemannian Geometry | Riemann Geometrisi
+      Symplectic Geometry | Simplektik Geometri | src=arXiv:math.SG
+    Algebraic Geometry | Cebirsel Geometri | src=arXiv:math.AG
+    Algebraic Topology | Cebirsel Topoloji | src=arXiv:math.AT
+    General Topology | Genel Topoloji | src=arXiv:math.GN
+    Geometric Topology | Geometrik Topoloji | src=arXiv:math.GT
+      Knot Theory | Düğüm Teorisi
+    Metric Geometry | Metrik Geometri | src=arXiv:math.MG
+    Convex Geometry | Konveks Geometri
+    Computational Topology | Hesaplamalı Topoloji
+      Topological Data Analysis | Topolojik Veri Analizi
+        Persistent Homology | Kalıcı Homoloji
+  Analysis | Analiz
+    Real Analysis | Reel Analiz
+      Measure Theory | Ölçü Teorisi
+    Complex Analysis | Karmaşık Analiz | src=arXiv:math.CV
+    Functional Analysis | Fonksiyonel Analiz | src=arXiv:math.FA
+      Operator Theory | Operatör Teorisi | src=arXiv:math.OA
+      Spectral Theory | Spektral Teori | src=arXiv:math.SP
+    Harmonic Analysis | Harmonik Analiz
+      Fourier Analysis | Fourier Analizi
+      Wavelet Theory | Dalgacık Teorisi | app=wavelet-transform
+    Ordinary Differential Equations | Adi Diferansiyel Denklemler | src=arXiv:math.CA
+    Partial Differential Equations | Kısmi Diferansiyel Denklemler | src=arXiv:math.AP
+    Calculus of Variations | Varyasyonlar Hesabı
+    Approximation Theory | Yaklaşım Teorisi
+  Dynamical Systems | Dinamik Sistemler | src=arXiv:math.DS,arXiv:nlin
+    Chaos Theory | Kaos Teorisi | src=arXiv:nlin.CD
+    Ergodic Theory | Ergodik Teori
+    Bifurcation Theory | Çatallanma Teorisi
+    Cellular Automata | Hücresel Otomatlar | src=arXiv:nlin.CG
+  Discrete Mathematics | Ayrık Matematik | src=arXiv:cs.DM
+    Combinatorics | Kombinatorik | src=arXiv:math.CO
+      Enumerative Combinatorics | Sayma Kombinatoriği
+      Extremal Combinatorics | Ekstremal Kombinatorik
+      Combinatorial Designs | Kombinatoryal Tasarımlar
+    Graph Theory | Çizge Teorisi
+      Spectral Graph Theory | Spektral Çizge Teorisi
+      Random Graphs | Rastgele Çizgeler
+      Network Science | Ağ Bilimi | src=arXiv:cs.SI,arXiv:physics.soc-ph
+    Coding Theory | Kodlama Teorisi | app=error-correcting-codes
+    Order Theory and Lattices | Sıra Teorisi ve Kafesler | slug=Sira-Teorisi-ve-Kafesler
+  Mathematical Logic and Foundations | Matematiksel Mantık ve Temeller | src=arXiv:math.LO
+    Set Theory | Kümeler Teorisi
+    Model Theory | Model Teorisi
+    Proof Theory | İspat Teorisi
+    Recursion Theory | Özyineleme Teorisi | rel=computability-theory
+    Type Theory | Tip Teorisi | rel=type-systems
+      Homotopy Type Theory | Homotopi Tip Teorisi
+  Probability Theory | Olasılık Teorisi | src=arXiv:math.PR
+    Stochastic Processes | Stokastik Süreçler
+      Markov Chains | Markov Zincirleri
+      Martingales | Martingaller
+      Brownian Motion and Diffusion | Brown Hareketi ve Difüzyon
+      Point Processes | Nokta Süreçleri
+    Stochastic Calculus | Stokastik Kalkülüs
+    Random Matrix Theory | Rastgele Matris Teorisi
+    Large Deviations Theory | Büyük Sapmalar Teorisi
+  Statistics | İstatistik | src=arXiv:stat,OECD-FORD:1.1
+    Statistical Inference | İstatistiksel Çıkarım
+      Frequentist Inference | Frekansçı Çıkarım
+        Hypothesis Testing | Hipotez Testleri
+        Maximum Likelihood Estimation | En Çok Olabilirlik Kestirimi
+      Bayesian Statistics | Bayesçi İstatistik
+        Markov Chain Monte Carlo | Markov Zinciri Monte Carlo | alias=MCMC
+          Hamiltonian Monte Carlo | Hamilton Monte Carlo
+          Gibbs Sampling | Gibbs Örneklemesi
+        Variational Inference | Varyasyonel Çıkarım
+        Bayesian Nonparametrics | Bayesçi Parametrik Olmayan Yöntemler
+          Gaussian Processes | Gauss Süreçleri | app=machine-learning
+      Nonparametric Statistics | Parametrik Olmayan İstatistik
+      Resampling Methods | Yeniden Örnekleme Yöntemleri
+        Bootstrap | Bootstrap
+    Regression Analysis | Regresyon Analizi
+      Linear Models | Doğrusal Modeller
+      Generalized Linear Models | Genelleştirilmiş Doğrusal Modeller
+      Mixed-Effects Models | Karma Etkiler Modelleri
+      Regularized Regression | Düzenlileştirilmiş Regresyon | alias=Lasso,Ridge
+    Multivariate Statistics | Çok Değişkenli İstatistik
+      Principal Component Analysis | Temel Bileşen Analizi | alias=PCA
+      Factor Analysis | Faktör Analizi
+    Time Series Analysis | Zaman Serisi Analizi
+      ARIMA Models | ARIMA Modelleri
+      State-Space Models | Durum-Uzayı Modelleri | rel=kalman-filtering
+    Survival Analysis | Sağkalım Analizi
+    Causal Inference | Nedensel Çıkarım
+      Potential Outcomes Framework | Potansiyel Sonuçlar Çerçevesi
+      Structural Causal Models | Yapısal Nedensel Modeller
+    Design of Experiments | Deney Tasarımı
+    Sampling Theory | Örnekleme Teorisi
+    Spatial Statistics | Uzamsal İstatistik
+      Kriging | Kriging
+    Extreme Value Theory | Uç Değer Teorisi
+    High-Dimensional Statistics | Yüksek Boyutlu İstatistik
+    Statistical Learning Theory | İstatistiksel Öğrenme Teorisi | rel=computational-learning-theory
+  Information Theory | Bilgi Teorisi | src=arXiv:cs.IT,arXiv:math.IT
+    Source Coding | Kaynak Kodlama | app=data-compression
+    Channel Capacity Theory | Kanal Kapasitesi Teorisi
+    Rate-Distortion Theory | Hız-Bozulma Teorisi
+    Network Information Theory | Ağ Bilgi Teorisi
+    Algorithmic Information Theory | Algoritmik Bilgi Teorisi | alias=Kolmogorov Complexity
+  Optimization | Optimizasyon | src=arXiv:math.OC
+    Linear Programming | Doğrusal Programlama
+      Simplex Method | Simpleks Yöntemi
+      Interior-Point Methods | İç Nokta Yöntemleri
+    Convex Optimization | Konveks Optimizasyon
+      Semidefinite Programming | Yarı Tanımlı Programlama
+      Conic Optimization | Konik Optimizasyon
+    Nonlinear Programming | Doğrusal Olmayan Programlama
+    Integer and Combinatorial Optimization | Tamsayı ve Kombinatoryal Optimizasyon | slug=Tamsayi-ve-Kombinatoryal-Optimizasyon
+      Mixed-Integer Programming | Karma Tamsayılı Programlama
+      Branch and Bound | Dal ve Sınır
+    Stochastic Optimization | Stokastik Optimizasyon
+      Stochastic Gradient Methods | Stokastik Gradyan Yöntemleri | app=deep-learning
+    Robust Optimization | Gürbüz Optimizasyon
+    Multi-Objective Optimization | Çok Amaçlı Optimizasyon
+    Derivative-Free Optimization | Türevsiz Optimizasyon
+      Bayesian Optimization | Bayesçi Optimizasyon
+    Metaheuristics | Metasezgiseller
+      Simulated Annealing | Benzetimli Tavlama
+      Tabu Search | Tabu Arama
+      Swarm Intelligence | Sürü Zekası
+        Particle Swarm Optimization | Parçacık Sürü Optimizasyonu
+        Ant Colony Optimization | Karınca Kolonisi Optimizasyonu
+    Dynamic Programming | Dinamik Programlama
+  Operations Research | Yöneylem Araştırması
+    Queueing Theory | Kuyruk Teorisi
+    Inventory Theory | Envanter Teorisi
+    Scheduling Theory | Çizelgeleme Teorisi
+    Decision Analysis | Karar Analizi
+    Game Theory | Oyun Teorisi | src=arXiv:cs.GT
+      Cooperative Game Theory | Kooperatif Oyun Teorisi
+      Mechanism Design | Mekanizma Tasarımı
+      Algorithmic Game Theory | Algoritmik Oyun Teorisi
+  Numerical Analysis | Sayısal Analiz | src=arXiv:math.NA,arXiv:cs.NA
+    Numerical Methods for ODEs | ADD için Sayısal Yöntemler | id=numerical-methods-for-odes; slug=ADD-Sayisal-Yontemleri
+      Runge-Kutta Methods | Runge-Kutta Yöntemleri
+      Symplectic Integrators | Simplektik İntegratörler
+    Numerical Methods for PDEs | KDD için Sayısal Yöntemler | id=numerical-methods-for-pdes; slug=KDD-Sayisal-Yontemleri
+      Finite Difference Method | Sonlu Farklar Yöntemi
+      Finite Element Method | Sonlu Elemanlar Yöntemi | alias=FEM
+        Discontinuous Galerkin Methods | Süreksiz Galerkin Yöntemleri
+        Isogeometric Analysis | İzogeometrik Analiz
+      Finite Volume Method | Sonlu Hacimler Yöntemi
+      Spectral Methods | Spektral Yöntemler
+      Boundary Element Method | Sınır Elemanlar Yöntemi
+      Meshless Methods | Ağsız Yöntemler
+    Iterative Methods for Linear Systems | Doğrusal Sistemler için İteratif Yöntemler | slug=Iteratif-Dogrusal-Cozuculer
+      Krylov Subspace Methods | Krylov Altuzay Yöntemleri
+      Multigrid Methods | Çok Izgaralı Yöntemler
+      Preconditioning | Ön Koşullandırma
+    Numerical Integration | Sayısal İntegrasyon
+    Interpolation and Approximation | Enterpolasyon ve Yaklaştırma
+    Mesh Generation | Ağ Oluşturma
+    Uncertainty Quantification | Belirsizlik Nicelemesi
+      Polynomial Chaos Expansion | Polinom Kaos Açılımı
+  Monte Carlo Methods | Monte Carlo Yöntemleri
+    Quasi-Monte Carlo Methods | Yarı Monte Carlo Yöntemleri
+    Importance Sampling | Önem Örneklemesi
+    Sequential Monte Carlo | Sıralı Monte Carlo | alias=Particle Filter
+  Scientific Computing | Bilimsel Hesaplama | src=arXiv:cs.CE
+    Computational Fluid Dynamics | Hesaplamalı Akışkanlar Dinamiği | alias=CFD
+      Direct Numerical Simulation | Doğrudan Sayısal Benzetim | alias=DNS
+      Large Eddy Simulation | Büyük Girdap Benzetimi | alias=LES
+      Reynolds-Averaged Navier-Stokes | Reynolds Ortalamalı Navier-Stokes | alias=RANS
+      Lattice Boltzmann Methods | Kafes Boltzmann Yöntemleri
+      Smoothed Particle Hydrodynamics | Düzgünleştirilmiş Parçacık Hidrodinamiği | alias=SPH
+    Computational Solid Mechanics | Hesaplamalı Katı Mekaniği
+    Multiscale Modeling | Çok Ölçekli Modelleme
+    Molecular Dynamics Simulation | Moleküler Dinamik Benzetimi | rel=computational-chemistry
+    Agent-Based Modeling | Etmen Tabanlı Modelleme
+    Inverse Problems | Ters Problemler
+    Data Assimilation | Veri Asimilasyonu
+    Scientific Machine Learning | Bilimsel Makine Öğrenmesi | status=emerging; rel=machine-learning
+      Physics-Informed Neural Networks | Fizik Bilgili Sinir Ağları | alias=PINN; status=emerging
+      Neural Operators | Sinir Operatörleri | status=emerging
+  Mathematical Physics | Matematiksel Fizik | src=arXiv:math-ph
+  Mathematical Biology | Matematiksel Biyoloji | rel=computational-biology
+    Population Dynamics Models | Popülasyon Dinamiği Modelleri
+    Epidemiological Modeling | Epidemiyolojik Modelleme | alias=SIR models
+  Mathematical Finance | Matematiksel Finans | src=arXiv:q-fin.MF
+    Stochastic Volatility Models | Stokastik Volatilite Modelleri
+    Derivative Pricing Theory | Türev Fiyatlama Teorisi
+  Fuzzy Mathematics | Bulanık Matematik
+    Fuzzy Set Theory | Bulanık Küme Teorisi

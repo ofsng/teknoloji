@@ -1,0 +1,61 @@
+Measurement and Sensor Technologies | Sensör ve Ölçüm Teknolojileri | slug=Sensor-ve-Olcum-Teknolojileri; src=OECD-FORD:2.2,BIPM-SI,JCGM-VIM,IEEE-IMS; def=Fiziksel, kimyasal ve biyolojik büyüklüklerin algılanması ve izlenebilir, belirsizliği nicelendirilmiş biçimde ölçülmesi (metroloji). Kuantum sensörler Kuantum Bilimleri altında, biyosensörler Tıp ve Biyomedikal altındadır.
+  Metrology | Metroloji
+    SI Units and Fundamental Constants | SI Birimleri ve Temel Sabitler | src=BIPM-SI-Brochure; slug=SI-Birimleri
+    Measurement Uncertainty | Ölçüm Belirsizliği | src=JCGM-GUM
+    Calibration | Kalibrasyon
+    Dimensional Metrology | Boyutsal Metroloji
+      Coordinate Measuring Machines | Koordinat Ölçüm Makineleri | alias=CMM
+      Laser Interferometry for Metrology | Metroloji için Lazer İnterferometrisi | slug=Metrolojik-Lazer-Interferometrisi
+      Surface Metrology | Yüzey Metrolojisi | alias=Profilometry
+      Industrial Computed Tomography | Endüstriyel Bilgisayarlı Tomografi
+    Time and Frequency Metrology | Zaman ve Frekans Metrolojisi | rel=atomic-clocks; slug=Zaman-ve-Frekans-Metrolojisi
+    Electrical Metrology | Elektriksel Metroloji | alias=Josephson voltage standard,Quantum Hall resistance
+    Mass and Force Metrology | Kütle ve Kuvvet Metrolojisi | alias=Kibble balance; slug=Kutle-ve-Kuvvet-Metrolojisi
+    Thermometry | Termometri
+  Physical Sensors | Fiziksel Sensörler
+    Temperature Sensors | Sıcaklık Sensörleri | alias=Thermocouple,RTD,Thermistor
+    Pressure Sensors | Basınç Sensörleri
+    Strain and Force Sensors | Gerinim ve Kuvvet Sensörleri | alias=Strain gauge,Load cell; slug=Gerinim-ve-Kuvvet-Sensorleri
+    Flow Sensors | Akış Sensörleri
+    Position and Displacement Sensors | Konum ve Yer Değiştirme Sensörleri | alias=Encoder,LVDT; slug=Konum-Sensorleri
+    Proximity Sensors | Yakınlık Sensörleri
+    Magnetic Sensors | Manyetik Sensörler | alias=Hall,AMR,GMR,TMR,Fluxgate
+    Acoustic Sensors | Akustik Sensörler | alias=MEMS microphones
+    Tactile Sensors | Dokunsal Sensörler | alias=Electronic skin
+    Humidity Sensors | Nem Sensörleri
+  Inertial Sensors | Ataletsel Sensörler
+    Accelerometers | İvmeölçerler
+    Gyroscopes | Jiroskoplar
+      MEMS Gyroscopes | MEMS Jiroskoplar
+      Fiber-Optic Gyroscopes | Fiber Optik Jiroskoplar | alias=FOG
+      Ring Laser Gyroscopes | Halka Lazer Jiroskoplar | alias=RLG
+    Inertial Measurement Units | Ataletsel Ölçüm Birimleri | alias=IMU
+    Inertial Navigation Systems | Ataletsel Seyrüsefer Sistemleri | alias=INS
+  Chemical and Gas Sensors | Kimyasal ve Gaz Sensörleri | slug=Kimyasal-ve-Gaz-Sensorleri
+    Gas Sensors | Gaz Sensörleri
+      Metal-Oxide Gas Sensors | Metal Oksit Gaz Sensörleri | alias=MOS
+      Electrochemical Gas Sensors | Elektrokimyasal Gaz Sensörleri
+      Non-Dispersive Infrared Sensors | Dağıtıcı Olmayan Kızılötesi Sensörler | alias=NDIR
+    Electronic Noses and Tongues | Elektronik Burun ve Dil | slug=Elektronik-Burun-ve-Dil
+    pH and Ion-Selective Sensors | pH ve İyon Seçici Sensörler | slug=pH-ve-Iyon-Secici-Sensorler
+  Optical Sensors | Optik Sensörler | rel=photodetectors
+    Fiber-Optic Sensors | Fiber Optik Sensörler
+      Fiber Bragg Grating Sensors | Fiber Bragg Izgara Sensörleri | alias=FBG
+      Distributed Fiber Sensing | Dağıtık Fiber Algılama | alias=DTS,Brillouin
+    LiDAR | LiDAR
+      Time-of-Flight LiDAR | Uçuş Süresi LiDAR | alias=ToF
+      FMCW LiDAR | FMCW LiDAR | status=emerging
+      Solid-State LiDAR | Katı Hal LiDAR | alias=OPA,Flash LiDAR
+    Interferometric Sensors | Girişimölçer Sensörler
+  Radar Systems | Radar Sistemleri | dep=radar-signal-processing
+    Pulse-Doppler Radar | Darbe-Doppler Radar
+    FMCW Radar | FMCW Radar | alias=Automotive radar
+    Active Electronically Scanned Arrays | Aktif Elektronik Taramalı Diziler | alias=AESA; rel=phased-array-antennas
+    Through-Wall and Imaging Radar | Duvar Arkası ve Görüntüleme Radarı | slug=Goruntuleme-Radari
+  Biometric Sensors | Biyometrik Sensörler | alias=Fingerprint,Iris
+  Wearable Sensors | Giyilebilir Sensörler | rel=flexible-and-printed-electronics
+  Smart Sensors and Sensor Networks | Akıllı Sensörler ve Sensör Ağları | slug=Akilli-Sensorler; rel=wireless-sensor-networks
+  Sensor Interface Electronics | Sensör Arayüz Elektroniği | alias=AFE,Signal conditioning
+  Structural Health Monitoring | Yapısal Sağlık İzleme | alias=SHM; rel=non-destructive-testing
+  Data Acquisition Systems | Veri Toplama Sistemleri | alias=DAQ
+  Test and Measurement Instruments | Test ve Ölçüm Cihazları | alias=Oscilloscope,Spectrum analyzer; slug=Test-ve-Olcum-Cihazlari

@@ -1,0 +1,78 @@
+Agricultural and Food Technologies | Tarım ve Gıda Teknolojileri | id=agriculture-and-food; slug=Tarim-ve-Gida-Teknolojileri; src=OECD-FORD:4.1-4.5,OECD-FORD:2.11,FAO-AGROVOC; def=Bitkisel ve hayvansal üretim, ormancılık, su ürünleri ile gıdanın işlenmesi, korunması ve güvenliğine ilişkin bilim ve teknolojiler.
+  Agronomy | Agronomi
+    Crop Science | Bitkisel Üretim Bilimi
+    Soil Fertility and Plant Nutrition | Toprak Verimliliği ve Bitki Besleme | slug=Toprak-Verimliligi
+      Fertilizer Technology | Gübre Teknolojisi | alias=Controlled-release fertilizers
+      Biofertilizers | Biyogübreler
+    Irrigation Technology | Sulama Teknolojisi
+      Drip Irrigation | Damla Sulama
+      Smart Irrigation | Akıllı Sulama
+    Weed Science | Yabancı Ot Bilimi
+    Crop Protection | Bitki Koruma
+      Integrated Pest Management | Entegre Zararlı Yönetimi | alias=IPM
+      Biological Control | Biyolojik Mücadele
+      Biopesticides | Biyopestisitler
+      RNAi-Based Crop Protection | RNAi Tabanlı Bitki Koruma | status=emerging; dep=rna-interference
+    Conservation Agriculture | Koruyucu Tarım | alias=No-till
+  Plant Breeding | Bitki Islahı
+    Conventional Breeding | Geleneksel Islah
+    Marker-Assisted Selection | Markör Destekli Seleksiyon | alias=MAS
+    Genomic Selection in Plants | Bitkilerde Genomik Seleksiyon | slug=Bitkilerde-Genomik-Seleksiyon
+    Hybrid Seed Technology | Hibrit Tohum Teknolojisi
+    Mutation Breeding | Mutasyon Islahı
+    Genetically Modified Crops | Genetiği Değiştirilmiş Bitkiler | alias=GMO; dep=transgenesis
+    Genome-Edited Crops | Genom Düzenlenmiş Bitkiler | dep=crispr-cas-systems; status=emerging
+    Speed Breeding | Hızlı Islah
+  Precision Agriculture | Hassas Tarım
+    Variable-Rate Technology | Değişken Oranlı Uygulama | alias=VRT
+    Crop Monitoring and Remote Sensing | Ürün İzleme ve Uzaktan Algılama | slug=Urun-Izleme; rel=remote-sensing
+    Yield Mapping | Verim Haritalama
+    Agricultural Decision Support Systems | Tarımsal Karar Destek Sistemleri | slug=Tarimsal-Karar-Destek
+  Controlled-Environment Agriculture | Kontrollü Ortam Tarımı | alias=CEA
+    Greenhouse Technology | Sera Teknolojisi
+    Vertical Farming | Dikey Tarım
+    Hydroponics and Aeroponics | Hidroponik ve Aeroponik | slug=Hidroponik-ve-Aeroponik
+  Agricultural Machinery | Tarım Makineleri
+  Animal Science | Hayvan Bilimi | src=OECD-FORD:4.2
+    Animal Breeding and Genetics | Hayvan Islahı ve Genetiği | slug=Hayvan-Islahi-ve-Genetigi
+    Animal Nutrition | Hayvan Besleme
+    Precision Livestock Farming | Hassas Hayvancılık
+    Dairy Science | Süt Bilimi
+    Veterinary Science | Veteriner Bilimi | src=OECD-FORD:4.3
+      Veterinary Vaccines | Veteriner Aşıları
+      Veterinary Diagnostics | Veteriner Teşhis
+  Aquaculture and Fisheries | Su Ürünleri Yetiştiriciliği ve Balıkçılık | slug=Su-Urunleri
+    Recirculating Aquaculture Systems | Devridaimli Su Ürünleri Sistemleri | alias=RAS
+    Fisheries Science | Balıkçılık Bilimi
+  Forestry | Ormancılık | src=OECD-FORD:4.1
+    Silviculture | Silvikültür
+    Forest Inventory and Monitoring | Orman Envanteri ve İzleme | slug=Orman-Envanteri
+    Wood Science and Technology | Odun Bilimi ve Teknolojisi | slug=Odun-Bilimi
+  Food Science and Technology | Gıda Bilimi ve Teknolojisi | slug=Gida-Bilimi-ve-Teknolojisi; src=OECD-FORD:2.11
+    Food Chemistry | Gıda Kimyası
+    Food Microbiology | Gıda Mikrobiyolojisi
+    Food Processing | Gıda İşleme
+      Thermal Processing of Food | Gıdanın Isıl İşlenmesi | alias=Pasteurization,Sterilization; slug=Gida-Isil-Isleme
+      Non-Thermal Food Processing | Isıl Olmayan Gıda İşleme
+        High-Pressure Processing | Yüksek Basınç İşleme | alias=HPP
+        Pulsed Electric Field Processing | Darbeli Elektrik Alan İşleme | alias=PEF
+        Cold Plasma Food Processing | Soğuk Plazma Gıda İşleme | status=emerging
+      Food Drying and Dehydration | Gıda Kurutma | alias=Freeze drying,Spray drying
+      Extrusion Cooking | Ekstrüzyon Pişirme
+      Fermentation in Food Production | Gıda Üretiminde Fermantasyon | slug=Gida-Fermantasyonu
+    Food Preservation | Gıda Muhafazası
+      Modified Atmosphere Packaging | Modifiye Atmosfer Ambalajlama | alias=MAP
+      Active and Intelligent Packaging | Aktif ve Akıllı Ambalaj | slug=Aktif-ve-Akilli-Ambalaj
+      Cold Chain Technology | Soğuk Zincir Teknolojisi
+    Food Safety and Quality | Gıda Güvenliği ve Kalitesi | slug=Gida-Guvenligi
+      Food Pathogen Detection | Gıda Patojeni Tespiti
+      Food Authentication | Gıda Orijinallik Tespiti
+      HACCP Systems | HACCP Sistemleri
+    Nutrition Science | Beslenme Bilimi
+      Functional Foods and Nutraceuticals | Fonksiyonel Gıdalar ve Nutrasötikler | slug=Fonksiyonel-Gidalar
+      Personalized Nutrition | Kişiselleştirilmiş Beslenme | status=emerging
+    Alternative Proteins | Alternatif Proteinler | status=emerging
+      Plant-Based Protein Technology | Bitki Bazlı Protein Teknolojisi
+      Cultivated Meat | Kültür Et | alias=Cell-based meat; dep=cell-culture-technology
+      Precision Fermentation | Hassas Fermantasyon
+      Insect Protein | Böcek Proteini
