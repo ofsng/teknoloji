@@ -13,27 +13,39 @@ applied_in: []
 classification_refs: ["OECD-FORD:2.2", "arXiv:eess", "IEEE-Taxonomy"]
 content_verified: false
 created: 2026-11-05
+layout: 2
+content_status: scope_note
+content_sources: []
 ---
 
 # Elektrik ve Elektronik Mühendisliği (Electrical and Electronic Engineering)
 
+<!-- AUTO:NAV:BEGIN (otomatik; elle düzenlemeyin) -->
+**Konum:** [Kök](../TECHNOLOGIES.md) › **Elektrik ve Elektronik Mühendisliği**
+<!-- AUTO:NAV:END -->
+
 ## 1. Tanım
 
-Elektrik, elektronik ve elektromanyetizmanın; devreler, cihazlar, güç sistemleri ve sinyal işleme yoluyla mühendislik uygulamalarını inceleyen disiplin.
+**Kapsam notu** (sınıflandırma açıklaması; kaynaklı tanım değildir): Elektrik, elektronik ve elektromanyetizmanın; devreler, cihazlar, güç sistemleri ve sinyal işleme yoluyla mühendislik uygulamalarını inceleyen disiplin.
 
-## 2. Temel çalışma prensibi
+## 2. Çalışma prensibi
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+
+## 3. Tarihçe
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+
+## 4. Temel kavramlar
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+
+## 5. Temel yöntemler
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:BEGIN (kb.py reindex üretir; bu bloğu elle düzenlemeyin) -->
-
-**Konum:** [Kök](../TECHNOLOGIES.md) › **Elektrik ve Elektronik Mühendisliği**
-
-## 3. Üst teknoloji
-
-- Ana disiplin (kök: [TECHNOLOGIES.md](../TECHNOLOGIES.md))
-
-## 4. Alt teknolojiler
+## 6. Alt teknolojiler
 
 - [Analog ve Sayısal Elektronik](Analog-ve-Sayisal-Elektronik/_index.md)
 - [Aydınlatma Mühendisliği](Aydinlatma-Muhendisligi/_index.md)
@@ -48,30 +60,43 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 - [Sinyal İşleme](Sinyal-Isleme/_index.md)
 - [Yarı İletken Üretimi](Yari-Iletken-Uretimi/_index.md)
 
-## 5. İlişkili teknolojiler
+## 7. İlişkili teknolojiler
 
-- _Tanımlı ilişki yok._
-
-**Araştırma kayıtları:** 0 (`Arastirmalar/` klasörüne eklenir)
-
+- **Üst teknoloji:** — (ana disiplin)
 <!-- AUTO:END -->
 
-## 6. Temel teknik kavramlar
+## 8. Kullanım alanları
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
-## 7. Önemli tarihsel gelişmeler
+## 9. Avantajlar
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
-## 8. Başlıca araştırma konuları
+## 10. Sınırlılıklar
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
-## 9. Açık teknik problemler
+## 11. Açık problemler
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
-## 10. Kaynaklar
+## 12. Önemli araştırmalar
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+
+<!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+<!-- AUTO:RESEARCH:END -->
+
+## 13. Güncel gelişmeler
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+
+<!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
+_Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini göstermez; ön baskılar hakemli değildir._
+<!-- AUTO:RECENT:END -->
+
+## 14. Kaynaklar
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._

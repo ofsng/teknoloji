@@ -13,25 +13,69 @@ applied_in: []
 classification_refs: []
 content_verified: false
 created: YYYY-MM-DD
+layout: 2
+content_status: empty
+content_sources: []
 ---
 
 # Türkçe Başlık (English Title)
+
+<!-- AUTO:NAV:BEGIN (otomatik; elle düzenlemeyin) -->
+<!-- AUTO:NAV:END -->
 
 ## 1. Tanım
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
-## 2. Temel çalışma prensibi
+## 2. Çalışma prensibi
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+
+## 3. Tarihçe
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+
+## 4. Temel kavramlar
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+
+## 5. Temel yöntemler
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:BEGIN (kb.py reindex üretir; bu bloğu elle düzenlemeyin) -->
 <!-- AUTO:END -->
 
-## 6. Temel teknik kavramlar
+## 8. Kullanım alanları
 
-## 7. Önemli tarihsel gelişmeler
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
-## 8. Başlıca araştırma konuları
+## 9. Avantajlar
 
-## 9. Açık teknik problemler
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
-## 10. Kaynaklar
+## 10. Sınırlılıklar
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+
+## 11. Açık problemler
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+
+## 12. Önemli araştırmalar
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+
+<!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
+<!-- AUTO:RESEARCH:END -->
+
+## 13. Güncel gelişmeler
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+
+<!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
+<!-- AUTO:RECENT:END -->
+
+## 14. Kaynaklar
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._

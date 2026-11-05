@@ -13,27 +13,39 @@ applied_in: []
 classification_refs: ["OECD-FORD:3.1-3.5", "OECD-FORD:2.6", "MeSH", "IEEE-EMBS"]
 content_verified: false
 created: 2026-11-05
+layout: 2
+content_status: scope_note
+content_sources: []
 ---
 
 # Tıp ve Biyomedikal Teknolojiler (Medical and Biomedical Technologies)
 
+<!-- AUTO:NAV:BEGIN (otomatik; elle düzenlemeyin) -->
+**Konum:** [Kök](../TECHNOLOGIES.md) › **Tıp ve Biyomedikal Teknolojiler**
+<!-- AUTO:NAV:END -->
+
 ## 1. Tanım
 
-Hastalıkların önlenmesi, teşhisi ve tedavisine yönelik tıp bilimleri ile biyomedikal mühendislik, farmasötik ve tıbbi cihaz teknolojileri. Klinik uzmanlık dalları yalnızca teknolojik araştırma alanlarına bağlam sağladığı ölçüde yer alır.
+**Kapsam notu** (sınıflandırma açıklaması; kaynaklı tanım değildir): Hastalıkların önlenmesi, teşhisi ve tedavisine yönelik tıp bilimleri ile biyomedikal mühendislik, farmasötik ve tıbbi cihaz teknolojileri. Klinik uzmanlık dalları yalnızca teknolojik araştırma alanlarına bağlam sağladığı ölçüde yer alır.
 
-## 2. Temel çalışma prensibi
+## 2. Çalışma prensibi
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+
+## 3. Tarihçe
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+
+## 4. Temel kavramlar
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+
+## 5. Temel yöntemler
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:BEGIN (kb.py reindex üretir; bu bloğu elle düzenlemeyin) -->
-
-**Konum:** [Kök](../TECHNOLOGIES.md) › **Tıp ve Biyomedikal Teknolojiler**
-
-## 3. Üst teknoloji
-
-- Ana disiplin (kök: [TECHNOLOGIES.md](../TECHNOLOGIES.md))
-
-## 4. Alt teknolojiler
+## 6. Alt teknolojiler
 
 - [Aşı Teknolojisi](Asi-Teknolojisi/_index.md)
 - [Biyomedikal Mühendisliği](Biyomedikal-Muhendisligi/_index.md)
@@ -49,30 +61,47 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 - [Tıbbi Cihazlar](Tibbi-Cihazlar/_index.md)
 - [Tıbbi Görüntüleme](Tibbi-Goruntuleme/_index.md)
 
-## 5. İlişkili teknolojiler
+## 7. İlişkili teknolojiler
 
-- _Tanımlı ilişki yok._
-
-**Araştırma kayıtları:** 0 (`Arastirmalar/` klasörüne eklenir)
-
+- **Üst teknoloji:** — (ana disiplin)
 <!-- AUTO:END -->
 
-## 6. Temel teknik kavramlar
+## 8. Kullanım alanları
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
-## 7. Önemli tarihsel gelişmeler
+## 9. Avantajlar
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
-## 8. Başlıca araştırma konuları
+## 10. Sınırlılıklar
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
-## 9. Açık teknik problemler
+## 11. Açık problemler
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
-## 10. Kaynaklar
+## 12. Önemli araştırmalar
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+
+<!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **3**.
+<!-- AUTO:RESEARCH:END -->
+
+## 13. Güncel gelişmeler
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+
+<!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
+Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
+
+- [Mapping the evidence on implementation of clinical decision support systems in nurses' reverse triage decisions during disaster surges: A scoping review with a proposed conceptual framework](Dijital-Saglik/Saglik-Bilisimi/Klinik-Karar-Destek-Sistemleri/Arastirmalar/2026-Salasa-Mapping-the-evidence-implementation.md) — Salasa vd. (2026) · *International Emergency Nursing* · hakemli
+- [Tendinopathy: Current Concepts in Pathophysiology, Clinical Presentation, and Management – An Updated Review](Ileri-Tedaviler/Hucre-Tedavisi/Kok-Hucre-Tedavisi/Arastirmalar/2026-Saklani-Tendinopathy-Current-Concepts-Pathophysi.md) — Saklani vd. (2026) · *International Journal of Drug Delivery Technology* · hakemli
+- [Multi-class classification of central and non-central geographic atrophy using optical coherence tomography](Tibbi-Goruntuleme/Optik-Tibbi-Goruntuleme/Optik-Koherens-Tomografi/Arastirmalar/2026-Siraz-Multi-class-classification-central.md) — Siraz vd. (2026) · *Experimental Biology and Medicine* · hakemli · atıf: 1
+<!-- AUTO:RECENT:END -->
+
+## 14. Kaynaklar
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._

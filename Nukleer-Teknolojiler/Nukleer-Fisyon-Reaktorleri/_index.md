@@ -13,27 +13,39 @@ applied_in: []
 classification_refs: []
 content_verified: false
 created: 2026-11-05
+layout: 2
+content_status: empty
+content_sources: []
 ---
 
 # Nükleer Fisyon Reaktörleri (Nuclear Fission Reactors)
+
+<!-- AUTO:NAV:BEGIN (otomatik; elle düzenlemeyin) -->
+**Konum:** [Kök](../../TECHNOLOGIES.md) › [Nükleer Teknolojiler](../_index.md) › **Nükleer Fisyon Reaktörleri**
+<!-- AUTO:NAV:END -->
 
 ## 1. Tanım
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
-## 2. Temel çalışma prensibi
+## 2. Çalışma prensibi
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+
+## 3. Tarihçe
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+
+## 4. Temel kavramlar
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+
+## 5. Temel yöntemler
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:BEGIN (kb.py reindex üretir; bu bloğu elle düzenlemeyin) -->
-
-**Konum:** [Kök](../../TECHNOLOGIES.md) › [Nükleer Teknolojiler](../_index.md) › **Nükleer Fisyon Reaktörleri**
-
-## 3. Üst teknoloji
-
-- [Nükleer Teknolojiler](../_index.md)
-
-## 4. Alt teknolojiler
+## 6. Alt teknolojiler
 
 - [Ağır Su Reaktörleri](Agir-Su-Reaktorleri/_index.md)
 - [Araştırma Reaktörleri](Arastirma-Reaktorleri/_index.md)
@@ -44,31 +56,45 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 - [Küçük Modüler Reaktörler](Kucuk-Moduler-Reaktorler/_index.md)
 - [Nükleer Mikroreaktörler](Nukleer-Mikroreaktorler/_index.md)
 
-## 5. İlişkili teknolojiler
+## 7. İlişkili teknolojiler
 
+- **Üst teknoloji:** [Nükleer Teknolojiler](../_index.md)
 - **Bağımlı olduğu (Depends on):** [Nükleer Tepkimeler](../../Fizik-ve-Uygulamali-Fizik/Nukleer-Fizik/Nukleer-Tepkimeler/_index.md)
 - **Bu teknolojiye bağlananlar:** [Nükleer Uzay İtkisi](../../Uzay-ve-Havacilik-Teknolojileri/Uzay-Itkisi/Nukleer-Uzay-Itkisi/_index.md)
-
-**Araştırma kayıtları:** 0 (`Arastirmalar/` klasörüne eklenir)
-
 <!-- AUTO:END -->
 
-## 6. Temel teknik kavramlar
+## 8. Kullanım alanları
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
-## 7. Önemli tarihsel gelişmeler
+## 9. Avantajlar
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
-## 8. Başlıca araştırma konuları
+## 10. Sınırlılıklar
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
-## 9. Açık teknik problemler
+## 11. Açık problemler
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
-## 10. Kaynaklar
+## 12. Önemli araştırmalar
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+
+<!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+<!-- AUTO:RESEARCH:END -->
+
+## 13. Güncel gelişmeler
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+
+<!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
+_Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini göstermez; ön baskılar hakemli değildir._
+<!-- AUTO:RECENT:END -->
+
+## 14. Kaynaklar
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._

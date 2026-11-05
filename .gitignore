@@ -1,4 +1,6 @@
 __pycache__/
 *.pyc
+*.tmp
 .obsidian/workspace*.json
 .DS_Store
+state/.lock

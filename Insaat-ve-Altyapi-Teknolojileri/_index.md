@@ -13,27 +13,39 @@ applied_in: []
 classification_refs: ["OECD-FORD:2.1", "ASCE"]
 content_verified: false
 created: 2026-11-05
+layout: 2
+content_status: scope_note
+content_sources: []
 ---
 
 # İnşaat ve Altyapı Teknolojileri (Civil Engineering and Infrastructure)
 
+<!-- AUTO:NAV:BEGIN (otomatik; elle düzenlemeyin) -->
+**Konum:** [Kök](../TECHNOLOGIES.md) › **İnşaat ve Altyapı Teknolojileri**
+<!-- AUTO:NAV:END -->
+
 ## 1. Tanım
 
-Yapıların ve altyapı sistemlerinin (ulaşım altyapısı, su, enerji ve kentsel sistemler) tasarımı, inşası ve işletilmesine ilişkin mühendislik ve teknolojiler.
+**Kapsam notu** (sınıflandırma açıklaması; kaynaklı tanım değildir): Yapıların ve altyapı sistemlerinin (ulaşım altyapısı, su, enerji ve kentsel sistemler) tasarımı, inşası ve işletilmesine ilişkin mühendislik ve teknolojiler.
 
-## 2. Temel çalışma prensibi
+## 2. Çalışma prensibi
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+
+## 3. Tarihçe
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+
+## 4. Temel kavramlar
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+
+## 5. Temel yöntemler
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:BEGIN (kb.py reindex üretir; bu bloğu elle düzenlemeyin) -->
-
-**Konum:** [Kök](../TECHNOLOGIES.md) › **İnşaat ve Altyapı Teknolojileri**
-
-## 3. Üst teknoloji
-
-- Ana disiplin (kök: [TECHNOLOGIES.md](../TECHNOLOGIES.md))
-
-## 4. Alt teknolojiler
+## 6. Alt teknolojiler
 
 - [Akıllı Şehirler ve Kentsel Sistemler](Akilli-Sehirler/_index.md)
 - [Altyapı Varlık Yönetimi](Altyapi-Varlik-Yonetimi/_index.md)
@@ -45,30 +57,46 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 - [Yapı Fiziği](Yapi-Fizigi/_index.md)
 - [Yapı Mühendisliği](Yapi-Muhendisligi/_index.md)
 
-## 5. İlişkili teknolojiler
+## 7. İlişkili teknolojiler
 
+- **Üst teknoloji:** — (ana disiplin)
 - **Bu teknolojiye bağlananlar:** [Yapı Malzemeleri](../Malzeme-Bilimi/Yapi-Malzemeleri/_index.md)
-
-**Araştırma kayıtları:** 0 (`Arastirmalar/` klasörüne eklenir)
-
 <!-- AUTO:END -->
 
-## 6. Temel teknik kavramlar
+## 8. Kullanım alanları
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
-## 7. Önemli tarihsel gelişmeler
+## 9. Avantajlar
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
-## 8. Başlıca araştırma konuları
+## 10. Sınırlılıklar
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
-## 9. Açık teknik problemler
+## 11. Açık problemler
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
-## 10. Kaynaklar
+## 12. Önemli araştırmalar
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+
+<!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+<!-- AUTO:RESEARCH:END -->
+
+## 13. Güncel gelişmeler
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+
+<!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
+Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
+
+- [Urban digital twins and digital twinning as a continuing planning practice](Akilli-Sehirler/Kentsel-Dijital-Ikizler/Arastirmalar/2026-Almulhim-Urban-digital-twins-and.md) — Almulhim vd. (2026) · *Frontiers in Sustainable Cities* · hakemli
+<!-- AUTO:RECENT:END -->
+
+## 14. Kaynaklar
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._

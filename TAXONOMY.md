@@ -85,7 +85,6 @@ disiplinlerinde). İhtiyaç olursa `add-tech --parent root` ile yeni ana disipli
 ## 7. Ana disiplinler
 
 <!-- AUTO:BEGIN (kb.py reindex üretir; bu bloğu elle düzenlemeyin) -->
-
 | Ana disiplin | Klasör | Düğüm | Sınıflandırma referansları |
 |---|---|---|---|
 | [Bilgisayar Bilimleri](Bilgisayar-Bilimleri/_index.md) | `Bilgisayar-Bilimleri/` | 858 | OECD-FORD:1.2, ACM-CCS-2012, arXiv:cs |
@@ -118,5 +117,4 @@ disiplinlerinde). İhtiyaç olursa `add-tech --parent root` ile yeni ana disipli
 | [Uzay ve Havacılık Teknolojileri](Uzay-ve-Havacilik-Teknolojileri/_index.md) | `Uzay-ve-Havacilik-Teknolojileri/` | 92 | OECD-FORD:2.3, AIAA, NASA-Technology-Taxonomy-2020 |
 | [Veri Depolama ve Bellek Teknolojileri](Veri-Depolama-ve-Bellek-Teknolojileri/_index.md) | `Veri-Depolama-ve-Bellek-Teknolojileri/` | 47 | IRDS-Mass-Data-Storage, IEEE-Magnetics, SNIA |
 | [Yer ve Gezegen Bilimleri](Yer-ve-Gezegen-Bilimleri/_index.md) | `Yer-ve-Gezegen-Bilimleri/` | 65 | OECD-FORD:1.5, arXiv:physics.geo-ph, arXiv:physics.ao-ph |
-
 <!-- AUTO:END -->

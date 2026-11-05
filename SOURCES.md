@@ -32,3 +32,16 @@ dosyasındaki `classification_refs` alanı ilgili düğümün dayandığı kodla
   sınıflandırma olarak değil, gerekçeli bir öneri olarak okunmalıdır. `classification_confidence` alanı bu
   belirsizliği düğüm bazında gösterir.
 - Hiçbir `_index.md` dosyasına kaynak gösterilmemiş teknik içerik eklenmedi; tanım bölümleri boş bırakıldı.
+
+## Araştırma veri kaynakları (otonom sistem)
+
+Toplama için kullanılan API'lerin erişim yöntemi, kimlik doğrulama, hız sınırı, sayfalama ve güncelleme mekanizması
+2026-11-05'te resmî belgelerden ve canlı API yanıtlarından doğrulandı; ayrıntılı tablo [AUTOMATION.md](AUTOMATION.md)'de.
+
+- arXiv API kullanım koşulları — <https://info.arxiv.org/help/api/tou.html> (3 sn'de 1 istek; metadata CC0)
+- OpenAlex hız sınırları ve kimlik doğrulama — <https://help.openalex.org/how-to-use-the-api/rate-limits-and-authentication>
+  (anahtarsız paylaşımlı $0,10/gün, ücretsiz anahtar $1/gün; `from_created_date` ücretli plan — canlı API hatasıyla doğrulandı)
+- Crossref REST API erişim ve kimlik doğrulama — <https://www.crossref.org/documentation/retrieve-metadata/rest-api/access-and-authentication/>
+  ve ipuçları — <https://www.crossref.org/documentation/retrieve-metadata/rest-api/tips-for-using-the-crossref-rest-api/>
+- bioRxiv/medRxiv API — <https://api.biorxiv.org/> (incelendi, OpenAlex kapsadığı için kullanılmıyor)
+- Semantic Scholar API — <https://www.semanticscholar.org/product/api> (incelendi, v1'de kullanılmıyor)

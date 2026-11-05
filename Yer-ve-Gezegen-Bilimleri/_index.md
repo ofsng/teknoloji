@@ -13,27 +13,39 @@ applied_in: []
 classification_refs: ["OECD-FORD:1.5", "arXiv:physics.geo-ph", "arXiv:physics.ao-ph"]
 content_verified: false
 created: 2026-11-05
+layout: 2
+content_status: scope_note
+content_sources: []
 ---
 
 # Yer ve Gezegen Bilimleri (Earth and Planetary Sciences)
 
+<!-- AUTO:NAV:BEGIN (otomatik; elle düzenlemeyin) -->
+**Konum:** [Kök](../TECHNOLOGIES.md) › **Yer ve Gezegen Bilimleri**
+<!-- AUTO:NAV:END -->
+
 ## 1. Tanım
 
-Yerkürenin katı, sıvı ve gaz kürelerini; iklim sistemini ve doğal tehlikeleri inceleyen bilimler ile bunların gözlem teknolojileri. (Kapsam ekleme: görev listesinde yoktu; iklim bilimi ve uzaktan algılama için kanonik konum gerektiğinden eklendi.)
+**Kapsam notu** (sınıflandırma açıklaması; kaynaklı tanım değildir): Yerkürenin katı, sıvı ve gaz kürelerini; iklim sistemini ve doğal tehlikeleri inceleyen bilimler ile bunların gözlem teknolojileri. (Kapsam ekleme: görev listesinde yoktu; iklim bilimi ve uzaktan algılama için kanonik konum gerektiğinden eklendi.)
 
-## 2. Temel çalışma prensibi
+## 2. Çalışma prensibi
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+
+## 3. Tarihçe
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+
+## 4. Temel kavramlar
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+
+## 5. Temel yöntemler
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:BEGIN (kb.py reindex üretir; bu bloğu elle düzenlemeyin) -->
-
-**Konum:** [Kök](../TECHNOLOGIES.md) › **Yer ve Gezegen Bilimleri**
-
-## 3. Üst teknoloji
-
-- Ana disiplin (kök: [TECHNOLOGIES.md](../TECHNOLOGIES.md))
-
-## 4. Alt teknolojiler
+## 6. Alt teknolojiler
 
 - [Atmosfer Bilimleri](Atmosfer-Bilimleri/_index.md)
 - [Doğal Afet Bilimi](Dogal-Afet-Bilimi/_index.md)
@@ -47,30 +59,45 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 - [Toprak Bilimi](Toprak-Bilimi/_index.md)
 - [Uzaktan Algılama](Uzaktan-Algilama/_index.md)
 
-## 5. İlişkili teknolojiler
+## 7. İlişkili teknolojiler
 
-- _Tanımlı ilişki yok._
-
-**Araştırma kayıtları:** 0 (`Arastirmalar/` klasörüne eklenir)
-
+- **Üst teknoloji:** — (ana disiplin)
 <!-- AUTO:END -->
 
-## 6. Temel teknik kavramlar
+## 8. Kullanım alanları
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
-## 7. Önemli tarihsel gelişmeler
+## 9. Avantajlar
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
-## 8. Başlıca araştırma konuları
+## 10. Sınırlılıklar
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
-## 9. Açık teknik problemler
+## 11. Açık problemler
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
-## 10. Kaynaklar
+## 12. Önemli araştırmalar
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+
+<!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+<!-- AUTO:RESEARCH:END -->
+
+## 13. Güncel gelişmeler
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+
+<!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
+Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
+
+- [A Synergistic Assessment of Global Wind and Wave Energy Resources Using Satellite Altimetry](Uzaktan-Algilama/Uydu-Altimetrisi/Arastirmalar/2026-Li-Synergistic-Assessment-Global-Wind.md) — Li vd. (2026) · *Journal of Marine Science and Engineering* · hakemli
+<!-- AUTO:RECENT:END -->
+
+## 14. Kaynaklar
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._

@@ -19,9 +19,17 @@ Technology-Knowledge-Base/
 ├── STATS.md             # sayım ve derinlik raporu (otomatik)
 ├── SOURCES.md           # sınıflandırmada kullanılan akademik kaynaklar (elle yazılır)
 ├── PROGRESS.md          # çalışma günlüğü / kaldığı yerden devam notları
+├── AUTOMATION.md        # otonom araştırma sistemi: mimari, kaynaklar, güvenlik, maliyet
+├── research-index/      # yıllara bölünmüş araştırma listeleri (otomatik)
+├── review/              # insan incelemesi bekleyenler: sınıflandırma kuyruğu, teknoloji adayları, bilgi önerileri
+├── state/               # otomasyon durum dosyaları (kontrol noktaları, sayaçlar, önbellek)
+├── .github/workflows/   # günlük çalışma (yalnızca auto/research dalına yazar, PR açar)
 ├── templates/           # _index.md ve araştırma dosyası şablonları
 ├── tools/
 │   ├── kb.py            # bakım aracı
+│   ├── autokb.py        # otonom araştırma sistemi komutları
+│   ├── kbresearch/      # toplayıcı, sınıflandırıcı, arşiv, keşif, bilgi bakımcısı
+│   ├── tests/           # python3 -m unittest discover -s tools/tests
 │   └── seed/*.tax       # ilk kurulumda kullanılan taksonomi tanımları
 └── <Ana-Disiplin>/
     └── <Alt-Disiplin>/
@@ -56,10 +64,16 @@ created: 2026-11-05
 ---
 ```
 
-Gövdedeki **3. Üst teknoloji, 4. Alt teknolojiler, 5. İlişkili teknolojiler** bölümleri ve araştırma listesi
-`<!-- AUTO:BEGIN -->` / `<!-- AUTO:END -->` arasında otomatik üretilir. Diğer bölümler (tanım, çalışma prensibi,
-kavramlar, tarihçe, araştırma konuları, açık problemler, kaynaklar) elle ve **yalnızca doğrulanabilir kaynaklarla** doldurulur.
-Araç bu bölümlerin üzerine asla yazmaz.
+Ön bilgide ayrıca `layout: 2`, `content_status` (`empty` | `scope_note` | `manual` | `ai_draft_sourced` |
+`human_verified`) ve `content_sources` bulunur.
+
+Gövde 14 bölümlüdür: 1 Tanım, 2 Çalışma prensibi, 3 Tarihçe, 4 Temel kavramlar, 5 Temel yöntemler,
+**6 Alt teknolojiler ve 7 İlişkili teknolojiler (otomatik)**, 8 Kullanım alanları, 9 Avantajlar, 10 Sınırlılıklar,
+11 Açık problemler, **12 Önemli araştırmalar ve 13 Güncel gelişmeler (otomatik listeler + elle metin)**, 14 Kaynaklar.
+Otomatik kısımlar `<!-- AUTO... -->` blokları arasındadır. Diğer bölümler elle ya da bilgi bakımcısıyla ve
+**yalnızca doğrulanabilir kaynaklarla** doldurulur; araçlar dolu bir bölümün üzerine asla yazmaz.
+
+Otonom araştırma sistemi için bkz. [AUTOMATION.md](AUTOMATION.md).
 
 ## Günlük kullanım
 
@@ -71,7 +85,7 @@ python3 tools/kb.py find zero-knowledge-proofs            # id -> klasör yolu
 python3 tools/kb.py add-tech --parent zk-snarks --title "Lookup Arguments" --title-tr "Arama Argümanları" --status emerging --refs "IACR"
 python3 tools/kb.py add-research --tech pairing-based-snarks --title "On the Size of Pairing-based Non-interactive Arguments" \
     --authors "Jens Groth" --year 2016 --url https://eprint.iacr.org/2016/260 --publication "EUROCRYPT 2016" \
-    --type original --related zk-rollups --keywords "zk-SNARK,pairings" --short Groth16
+    --type article --peer-reviewed yes --related zk-rollups --keywords "zk-SNARK,pairings" --short Groth16
 python3 tools/kb.py reindex   # elle düzenlemeden sonra indeksleri ve AUTO bloklarını yenile
 python3 tools/kb.py check     # doğrulama (hata varsa çıkış kodu 1)
 python3 tools/kb.py stats

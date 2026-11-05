@@ -13,57 +13,84 @@ applied_in: []
 classification_refs: []
 content_verified: false
 created: 2026-11-05
+layout: 2
+content_status: empty
+content_sources: []
 ---
 
 # İleri Tedaviler (Advanced Therapies)
+
+<!-- AUTO:NAV:BEGIN (otomatik; elle düzenlemeyin) -->
+**Konum:** [Kök](../../TECHNOLOGIES.md) › [Tıp ve Biyomedikal Teknolojiler](../_index.md) › **İleri Tedaviler**
+<!-- AUTO:NAV:END -->
 
 ## 1. Tanım
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
-## 2. Temel çalışma prensibi
+## 2. Çalışma prensibi
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+
+## 3. Tarihçe
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+
+## 4. Temel kavramlar
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+
+## 5. Temel yöntemler
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:BEGIN (kb.py reindex üretir; bu bloğu elle düzenlemeyin) -->
-
-**Konum:** [Kök](../../TECHNOLOGIES.md) › [Tıp ve Biyomedikal Teknolojiler](../_index.md) › **İleri Tedaviler**
-
-## 3. Üst teknoloji
-
-- [Tıp ve Biyomedikal Teknolojiler](../_index.md)
-
-## 4. Alt teknolojiler
+## 6. Alt teknolojiler
 
 - [Faj Tedavisi](Faj-Tedavisi/_index.md)
 - [Gen Tedavisi](Gen-Tedavisi/_index.md)
 - [Hücre Tedavisi](Hucre-Tedavisi/_index.md)
 - [RNA Tedavileri](RNA-Tedavileri/_index.md)
 
-## 5. İlişkili teknolojiler
+## 7. İlişkili teknolojiler
 
-- _Tanımlı ilişki yok._
-
-**Araştırma kayıtları:** 0 (`Arastirmalar/` klasörüne eklenir)
-
+- **Üst teknoloji:** [Tıp ve Biyomedikal Teknolojiler](../_index.md)
 <!-- AUTO:END -->
 
-## 6. Temel teknik kavramlar
+## 8. Kullanım alanları
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
-## 7. Önemli tarihsel gelişmeler
+## 9. Avantajlar
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
-## 8. Başlıca araştırma konuları
+## 10. Sınırlılıklar
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
-## 9. Açık teknik problemler
+## 11. Açık problemler
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
-## 10. Kaynaklar
+## 12. Önemli araştırmalar
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+
+<!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+<!-- AUTO:RESEARCH:END -->
+
+## 13. Güncel gelişmeler
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+
+<!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
+Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
+
+- [Tendinopathy: Current Concepts in Pathophysiology, Clinical Presentation, and Management – An Updated Review](Hucre-Tedavisi/Kok-Hucre-Tedavisi/Arastirmalar/2026-Saklani-Tendinopathy-Current-Concepts-Pathophysi.md) — Saklani vd. (2026) · *International Journal of Drug Delivery Technology* · hakemli
+<!-- AUTO:RECENT:END -->
+
+## 14. Kaynaklar
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._

@@ -13,27 +13,39 @@ applied_in: []
 classification_refs: []
 content_verified: false
 created: 2026-11-05
+layout: 2
+content_status: empty
+content_sources: []
 ---
 
 # Blokzincir Konsensüs Mekanizmaları (Blockchain Consensus Mechanisms)
+
+<!-- AUTO:NAV:BEGIN (otomatik; elle düzenlemeyin) -->
+**Konum:** [Kök](../../../../../TECHNOLOGIES.md) › [Bilgisayar Bilimleri](../../../../_index.md) › [Dağıtık ve Paralel Hesaplama](../../../_index.md) › [Dağıtık Defter Teknolojileri](../../_index.md) › [Blokzincir](../_index.md) › **Blokzincir Konsensüs Mekanizmaları**
+<!-- AUTO:NAV:END -->
 
 ## 1. Tanım
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
-## 2. Temel çalışma prensibi
+## 2. Çalışma prensibi
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+
+## 3. Tarihçe
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+
+## 4. Temel kavramlar
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+
+## 5. Temel yöntemler
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:BEGIN (kb.py reindex üretir; bu bloğu elle düzenlemeyin) -->
-
-**Konum:** [Kök](../../../../../TECHNOLOGIES.md) › [Bilgisayar Bilimleri](../../../../_index.md) › [Dağıtık ve Paralel Hesaplama](../../../_index.md) › [Dağıtık Defter Teknolojileri](../../_index.md) › [Blokzincir](../_index.md) › **Blokzincir Konsensüs Mekanizmaları**
-
-## 3. Üst teknoloji
-
-- [Blokzincir](../_index.md)
-
-## 4. Alt teknolojiler
+## 6. Alt teknolojiler
 
 - [Alan ve Zaman İspatı](Proof-of-Space-Time/_index.md)
 - [Hisse İspatı](Proof-of-Stake/_index.md)
@@ -41,30 +53,44 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 - [Nakamoto Konsensüsü](Nakamoto-Konsensusu/_index.md)
 - [Yetki İspatı](Proof-of-Authority/_index.md)
 
-## 5. İlişkili teknolojiler
+## 7. İlişkili teknolojiler
 
+- **Üst teknoloji:** [Blokzincir](../_index.md)
 - **Bağımlı olduğu (Depends on):** [Bizans Hata Toleransı](../../../Dagitik-Sistemler-Kurami/Dagitik-Konsensus/Bizans-Hata-Toleransi/_index.md)
-
-**Araştırma kayıtları:** 0 (`Arastirmalar/` klasörüne eklenir)
-
 <!-- AUTO:END -->
 
-## 6. Temel teknik kavramlar
+## 8. Kullanım alanları
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
-## 7. Önemli tarihsel gelişmeler
+## 9. Avantajlar
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
-## 8. Başlıca araştırma konuları
+## 10. Sınırlılıklar
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
-## 9. Açık teknik problemler
+## 11. Açık problemler
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
-## 10. Kaynaklar
+## 12. Önemli araştırmalar
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+
+<!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+<!-- AUTO:RESEARCH:END -->
+
+## 13. Güncel gelişmeler
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+
+<!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
+_Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini göstermez; ön baskılar hakemli değildir._
+<!-- AUTO:RECENT:END -->
+
+## 14. Kaynaklar
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._

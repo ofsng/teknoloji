@@ -13,27 +13,39 @@ applied_in: []
 classification_refs: ["arXiv:cs.CE"]
 content_verified: false
 created: 2026-11-05
+layout: 2
+content_status: empty
+content_sources: []
 ---
 
 # Bilimsel Hesaplama (Scientific Computing)
+
+<!-- AUTO:NAV:BEGIN (otomatik; elle düzenlemeyin) -->
+**Konum:** [Kök](../../TECHNOLOGIES.md) › [Matematik ve Hesaplamalı Bilimler](../_index.md) › **Bilimsel Hesaplama**
+<!-- AUTO:NAV:END -->
 
 ## 1. Tanım
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
-## 2. Temel çalışma prensibi
+## 2. Çalışma prensibi
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+
+## 3. Tarihçe
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+
+## 4. Temel kavramlar
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+
+## 5. Temel yöntemler
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:BEGIN (kb.py reindex üretir; bu bloğu elle düzenlemeyin) -->
-
-**Konum:** [Kök](../../TECHNOLOGIES.md) › [Matematik ve Hesaplamalı Bilimler](../_index.md) › **Bilimsel Hesaplama**
-
-## 3. Üst teknoloji
-
-- [Matematik ve Hesaplamalı Bilimler](../_index.md)
-
-## 4. Alt teknolojiler
+## 6. Alt teknolojiler
 
 - [Bilimsel Makine Öğrenmesi](Bilimsel-Makine-Ogrenmesi/_index.md)
 - [Çok Ölçekli Modelleme](Cok-Olcekli-Modelleme/_index.md)
@@ -44,30 +56,45 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 - [Ters Problemler](Ters-Problemler/_index.md)
 - [Veri Asimilasyonu](Veri-Asimilasyonu/_index.md)
 
-## 5. İlişkili teknolojiler
+## 7. İlişkili teknolojiler
 
-- _Tanımlı ilişki yok._
-
-**Araştırma kayıtları:** 0 (`Arastirmalar/` klasörüne eklenir)
-
+- **Üst teknoloji:** [Matematik ve Hesaplamalı Bilimler](../_index.md)
 <!-- AUTO:END -->
 
-## 6. Temel teknik kavramlar
+## 8. Kullanım alanları
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
-## 7. Önemli tarihsel gelişmeler
+## 9. Avantajlar
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
-## 8. Başlıca araştırma konuları
+## 10. Sınırlılıklar
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
-## 9. Açık teknik problemler
+## 11. Açık problemler
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
-## 10. Kaynaklar
+## 12. Önemli araştırmalar
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+
+<!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+<!-- AUTO:RESEARCH:END -->
+
+## 13. Güncel gelişmeler
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+
+<!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
+Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
+
+- [Solving the Nonlinear Westervelt Equation in Ultrasound Propagation Using Physics-Informed Neural Networks](Bilimsel-Makine-Ogrenmesi/Fizik-Bilgili-Sinir-Aglari/Arastirmalar/2026-Joel-Solving-the-Nonlinear-Westervelt.md) — Joel (2026) · *arXiv* · ön baskı / hakemsiz
+<!-- AUTO:RECENT:END -->
+
+## 14. Kaynaklar
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._

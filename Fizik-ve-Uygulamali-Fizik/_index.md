@@ -13,27 +13,39 @@ applied_in: []
 classification_refs: ["OECD-FORD:1.3", "arXiv:physics", "arXiv:cond-mat", "arXiv:hep", "arXiv:astro-ph", "PACS"]
 content_verified: false
 created: 2026-11-05
+layout: 2
+content_status: scope_note
+content_sources: []
 ---
 
 # Fizik ve Uygulamalı Fizik (Physics and Applied Physics)
 
+<!-- AUTO:NAV:BEGIN (otomatik; elle düzenlemeyin) -->
+**Konum:** [Kök](../TECHNOLOGIES.md) › **Fizik ve Uygulamalı Fizik**
+<!-- AUTO:NAV:END -->
+
 ## 1. Tanım
 
-Madde, enerji, uzay-zaman ve bunların etkileşimlerini inceleyen temel bilim ile bu bilginin teknolojik uygulamaları. Astronomi ve astrofizik (arXiv astro-ph, OECD 1.3 uyarınca) bu disiplin altındadır.
+**Kapsam notu** (sınıflandırma açıklaması; kaynaklı tanım değildir): Madde, enerji, uzay-zaman ve bunların etkileşimlerini inceleyen temel bilim ile bu bilginin teknolojik uygulamaları. Astronomi ve astrofizik (arXiv astro-ph, OECD 1.3 uyarınca) bu disiplin altındadır.
 
-## 2. Temel çalışma prensibi
+## 2. Çalışma prensibi
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+
+## 3. Tarihçe
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+
+## 4. Temel kavramlar
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+
+## 5. Temel yöntemler
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:BEGIN (kb.py reindex üretir; bu bloğu elle düzenlemeyin) -->
-
-**Konum:** [Kök](../TECHNOLOGIES.md) › **Fizik ve Uygulamalı Fizik**
-
-## 3. Üst teknoloji
-
-- Ana disiplin (kök: [TECHNOLOGIES.md](../TECHNOLOGIES.md))
-
-## 4. Alt teknolojiler
+## 6. Alt teknolojiler
 
 - [Akışkanlar Dinamiği](Akiskanlar-Dinamigi/_index.md)
 - [Akustik](Akustik/_index.md)
@@ -55,30 +67,47 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 - [Uygulamalı Fizik](Uygulamali-Fizik/_index.md)
 - [Yoğun Madde Fiziği](Yogun-Madde-Fizigi/_index.md)
 
-## 5. İlişkili teknolojiler
+## 7. İlişkili teknolojiler
 
-- _Tanımlı ilişki yok._
-
-**Araştırma kayıtları:** 0 (`Arastirmalar/` klasörüne eklenir)
-
+- **Üst teknoloji:** — (ana disiplin)
 <!-- AUTO:END -->
 
-## 6. Temel teknik kavramlar
+## 8. Kullanım alanları
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
-## 7. Önemli tarihsel gelişmeler
+## 9. Avantajlar
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
-## 8. Başlıca araştırma konuları
+## 10. Sınırlılıklar
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
-## 9. Açık teknik problemler
+## 11. Açık problemler
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
-## 10. Kaynaklar
+## 12. Önemli araştırmalar
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+
+<!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **3**.
+<!-- AUTO:RESEARCH:END -->
+
+## 13. Güncel gelişmeler
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+
+<!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
+Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
+
+- [Full-Stokes response to a stochastic gravitational-wave background in pulsar timing arrays: Fully analytic overlap reduction functions at finite distance and coherence of close pulsar pairs](Genel-Gorelilik-ve-Kutlecekim/Kutlecekim-Dalgalari/Pulsar-Zamanlama-Dizileri/Arastirmalar/2026-Zhou-Full-Stokes-response-stochastic.md) — Zhou vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [Migdal ionization as a probe of light dark matter from nuclear transition](Astronomi-ve-Astrofizik/Kozmoloji/Karanlik-Madde/Arastirmalar/2026-Lou-Migdal-ionization-probe-light.md) — Lou vd. (2026) · *Journal of High Energy Physics* · hakemli
+- [The Role of Dark Matter in Driving Disk Perturbations: Application to LMC–SMC-like Galaxy Interactions](Astronomi-ve-Astrofizik/Kozmoloji/Karanlik-Madde/Arastirmalar/2026-Rathore-The-Role-Dark-Matter.md) — Rathore vd. (2026) · *The Astrophysical Journal* · hakemli
+<!-- AUTO:RECENT:END -->
+
+## 14. Kaynaklar
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._

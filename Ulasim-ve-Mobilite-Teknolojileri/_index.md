@@ -13,27 +13,39 @@ applied_in: []
 classification_refs: ["OECD-FORD:2.1", "OECD-FORD:2.3", "TRB-TRT", "SAE"]
 content_verified: false
 created: 2026-11-05
+layout: 2
+content_status: scope_note
+content_sources: []
 ---
 
 # Ulaşım ve Mobilite Teknolojileri (Transportation and Mobility Technologies)
 
+<!-- AUTO:NAV:BEGIN (otomatik; elle düzenlemeyin) -->
+**Konum:** [Kök](../TECHNOLOGIES.md) › **Ulaşım ve Mobilite Teknolojileri**
+<!-- AUTO:NAV:END -->
+
 ## 1. Tanım
 
-Kara, demiryolu, deniz ve kentsel hava ulaşımında kullanılan araç, altyapı ve işletim teknolojileri. Havacılık ve uzay Uzay ve Havacılık Teknolojileri altındadır.
+**Kapsam notu** (sınıflandırma açıklaması; kaynaklı tanım değildir): Kara, demiryolu, deniz ve kentsel hava ulaşımında kullanılan araç, altyapı ve işletim teknolojileri. Havacılık ve uzay Uzay ve Havacılık Teknolojileri altındadır.
 
-## 2. Temel çalışma prensibi
+## 2. Çalışma prensibi
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+
+## 3. Tarihçe
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+
+## 4. Temel kavramlar
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+
+## 5. Temel yöntemler
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:BEGIN (kb.py reindex üretir; bu bloğu elle düzenlemeyin) -->
-
-**Konum:** [Kök](../TECHNOLOGIES.md) › **Ulaşım ve Mobilite Teknolojileri**
-
-## 3. Üst teknoloji
-
-- Ana disiplin (kök: [TECHNOLOGIES.md](../TECHNOLOGIES.md))
-
-## 4. Alt teknolojiler
+## 6. Alt teknolojiler
 
 - [Akıllı Ulaşım Sistemleri](Akilli-Ulasim-Sistemleri/_index.md)
 - [Bağlantılı Araçlar](Baglantili-Araclar/_index.md)
@@ -47,30 +59,46 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 - [Otonom Sürüş](Otonom-Surus/_index.md)
 - [Ulaşım Planlaması](Ulasim-Planlamasi/_index.md)
 
-## 5. İlişkili teknolojiler
+## 7. İlişkili teknolojiler
 
+- **Üst teknoloji:** — (ana disiplin)
 - **Bu teknolojiye bağlananlar:** [Ulaşım Altyapısı](../Insaat-ve-Altyapi-Teknolojileri/Ulasim-Altyapisi/_index.md)
-
-**Araştırma kayıtları:** 0 (`Arastirmalar/` klasörüne eklenir)
-
 <!-- AUTO:END -->
 
-## 6. Temel teknik kavramlar
+## 8. Kullanım alanları
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
-## 7. Önemli tarihsel gelişmeler
+## 9. Avantajlar
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
-## 8. Başlıca araştırma konuları
+## 10. Sınırlılıklar
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
-## 9. Açık teknik problemler
+## 11. Açık problemler
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
-## 10. Kaynaklar
+## 12. Önemli araştırmalar
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+
+<!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+<!-- AUTO:RESEARCH:END -->
+
+## 13. Güncel gelişmeler
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+
+<!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
+Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
+
+- [Causal spillover effects of electric vehicle charging station placement on local businesses: a staggered adoption study](Elektrikli-Araclar/Arastirmalar/2026-Silva-Causal-spillover-effects-electric.md) — Silva vd. (2026) · *npj Sustainable Mobility and Transport* · hakemli
+<!-- AUTO:RECENT:END -->
+
+## 14. Kaynaklar
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._

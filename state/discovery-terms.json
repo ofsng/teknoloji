@@ -1,0 +1,8936 @@
+{
+ "adaptive coherence estimator": {
+  "acronyms": [
+   "ACE"
+  ],
+  "authors": [
+   "Enrique T. R. Pinto"
+  ],
+  "display": {
+   "adaptive coherence estimator": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.05052",
+    "title": "6G ISAC Drone Detection: Signal Processing and Experimental Validation at FR1",
+    "url": "https://arxiv.org/abs/2611.05052"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.05052"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "signal-processing": 1
+  }
+ },
+ "adaptive log laguerre spectral method": {
+  "acronyms": [
+   "ALLSM"
+  ],
+  "authors": [
+   "Sheng Chen"
+  ],
+  "display": {
+   "Adaptive Log-Laguerre Spectral Method": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "arxiv:2604.11063",
+    "title": "Adaptive log-Laguerre spectral method for the radial Dirac equation: Resolving asymptotic decay and core singularities in atomic calculations",
+    "url": "https://doi.org/10.1103/68lw-r9rq"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2604.11063"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "spectral-methods": 1
+  }
+ },
+ "adaptive neuro fuzzy inference system": {
+  "acronyms": [
+   "ANFIS"
+  ],
+  "authors": [
+   "Sayaprasad Mohapatra",
+   "Sijia Chen"
+  ],
+  "display": {
+   "Adaptive Neuro-Fuzzy Inference System": 2
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1007/s43937-026-00215-7",
+    "title": "Advanced adaptive control of photovoltaic systems through LOA-tuned hybrid ANFIS–2DoF-FOPIDN",
+    "url": "https://doi.org/10.1007/s43937-026-00215-7"
+   },
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1080/09205071.2026.2751945",
+    "title": "Signal strength estimation in radio frequency systems under varying operational and environmental factors",
+    "url": "https://doi.org/10.1080/09205071.2026.2751945"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.1007/s43937-026-00215-7",
+   "doi:10.1080/09205071.2026.2751945"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "internet-of-things": 1,
+   "photovoltaics": 1
+  }
+ },
+ "adaptive uncertainty gate": {
+  "acronyms": [
+   "AUG"
+  ],
+  "authors": [
+   "Raz Marshanski"
+  ],
+  "display": {
+   "Adaptive Uncertainty Gate": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.04760",
+    "title": "Koopman Generative Operators for Efficient Probabilistic Time-Series Forecasting",
+    "url": "https://arxiv.org/abs/2611.04760"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.04760"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "flow-matching": 1
+  }
+ },
+ "address resolution protocol": {
+  "acronyms": [
+   "ARP"
+  ],
+  "authors": [
+   "Jamil Qalandarov"
+  ],
+  "display": {
+   "Address Resolution Protocol": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.3390/telecom7060143",
+    "title": "Automated Multivendor Network Topology Discovery and Shadow IT Detection Using Asynchronous Hybrid Polling and Graph-Based Anomaly Analysis",
+    "url": "https://doi.org/10.3390/telecom7060143"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.3390/telecom7060143"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "network-security": 1
+  }
+ },
+ "agent trajectory control": {
+  "acronyms": [
+   "ATC"
+  ],
+  "authors": [
+   "Maisha Maliha"
+  ],
+  "display": {
+   "Agent Trajectory Control": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.04321",
+    "title": "ATC: Agent Trajectory Control for Role-Contract Enforcement in Black-Box Multi-Agent Systems",
+    "url": "https://arxiv.org/abs/2611.04321"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.04321"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "multi-agent-systems": 1
+  }
+ },
+ "agentic roi coding": {
+  "acronyms": [
+   "AROIC"
+  ],
+  "authors": [
+   "Zhenghao Chen"
+  ],
+  "display": {
+   "Agentic ROI Coding": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.04960",
+    "title": "An Agentic Framework for Quality-Aware and Scenario-Adaptive Image Compression",
+    "url": "https://arxiv.org/abs/2611.04960"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.04960"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "image-compression": 1
+  }
+ },
+ "air quality health index": {
+  "acronyms": [
+   "AQHI"
+  ],
+  "authors": [
+   "Selene J. Kutarna"
+  ],
+  "display": {
+   "Air Quality Health Index": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1080/10962247.2026.2743096",
+    "title": "Insights into urban concentrations and variability of NO 2 , O 3 , and PM 2.5 from the study of winter air pollution in Toronto (SWAPIT)",
+    "url": "https://doi.org/10.1080/10962247.2026.2743096"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.1080/10962247.2026.2743096"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "atmospheric-sciences": 1
+  }
+ },
+ "akwa ibom state geographic information system": {
+  "acronyms": [
+   "AKWAGIS"
+  ],
+  "authors": [
+   "Nse Akpan Bassey"
+  ],
+  "display": {
+   "AKWA IBOM STATE GEOGRAPHIC INFORMATION SYSTEM": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.70382/sjber.v14i4.077",
+    "title": "AN EVALUATION OF THE EFFECTIVENESS OF AKWA IBOM STATE GEOGRAPHIC INFORMATION SYSTEM (AKWAGIS) IN REDUCING LAND TRANSACTION BOTTLENECKS IN UYO METROPOLIS",
+    "url": "https://doi.org/10.70382/sjber.v14i4.077"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.70382/sjber.v14i4.077"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "geographic-information-systems": 1
+  }
+ },
+ "angle resolved photoemission spectroscopy": {
+  "acronyms": [
+   "ARPES"
+  ],
+  "authors": [
+   "Kyriaki Samioti",
+   "Kati Asikainen"
+  ],
+  "display": {
+   "Angle-resolved photoemission spectroscopy": 1,
+   "angle-resolved photoemission spectroscopy": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.04649",
+    "title": "Hydrogen-induced modification of the local charge density in MnSb$_2$Te$_4$",
+    "url": "https://arxiv.org/abs/2611.04649"
+   },
+   {
+    "date": "2026-11-02",
+    "id": "arxiv:2512.05616",
+    "title": "Suppression of stripe-ordered structural phases in monolayer IrTe2 by a gold substrate",
+    "url": "https://doi.org/10.1038/s42005-026-02917-9"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.04649",
+   "arxiv:2512.05616"
+  ],
+  "sources": [
+   "arxiv",
+   "openalex"
+  ],
+  "techs": {
+   "magnetic-materials": 1,
+   "two-dimensional-materials": 1
+  }
+ },
+ "anion exchange membrane": {
+  "acronyms": [
+   "AEM"
+  ],
+  "authors": [
+   "Lin Tian"
+  ],
+  "display": {
+   "Anion exchange membrane": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1021/acsomega.6c04852",
+    "title": "Alkyl Imidazolium Cation-Supported Poly(terphenyl- co -fluorene isatin) Anion Exchange Membrane for Anion Exchange Membrane Fuel Cells",
+    "url": "https://doi.org/10.1021/acsomega.6c04852"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.1021/acsomega.6c04852"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "fuel-cells": 1
+  }
+ },
+ "ankle brachial index": {
+  "acronyms": [
+   "ABI"
+  ],
+  "authors": [
+   "Lingsen You"
+  ],
+  "display": {
+   "Ankle-brachial index": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.64898/2026.10.30.26366960",
+    "title": "Incremental value of bilateral ankle-brachial index for ten-year heart and cerebrovascular mortality prediction: an exploratory temporal benchmark in NHANES",
+    "url": "https://doi.org/10.64898/2026.10.30.26366960"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.64898/2026.10.30.26366960"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "gradient-boosting": 1
+  }
+ },
+ "artificial neural network": {
+  "acronyms": [
+   "ANNs",
+   "ANN"
+  ],
+  "authors": [
+   "Pooja Plavilayil Anil",
+   "Krishnakumar N",
+   "S Ramesh",
+   "Thabang Khahloe",
+   "Nur Syuhada Mohd Ali",
+   "Zeeshan Ahmad"
+  ],
+  "display": {
+   "Artificial Neural Network": 2,
+   "Artificial Neural Networks": 1,
+   "artificial neural network": 2,
+   "artificial neural networks": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.05550",
+    "title": "Energy-efficient End-to-End Communication System with Spiking Neural Networks",
+    "url": "https://arxiv.org/abs/2611.05550"
+   },
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.05569",
+    "title": "Role-based Effectiveness of an Epistemic Uncertainty Estimate in Training Models for Semantic Segmentation of 3D LiDAR Point Clouds",
+    "url": "https://arxiv.org/abs/2611.05569"
+   },
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1038/s41598-026-77054-y",
+    "title": "Parametric sensitivity assessment of slip flow and thermophoretic effects on a vertical stretching surface using response surface methodology",
+    "url": "https://doi.org/10.1038/s41598-026-77054-y"
+   },
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1016/j.esd.2026.102178",
+    "title": "Sensitivity analysis of a solar-biomass hybrid cooler with artificial neural network and engineering equation solver",
+    "url": "https://doi.org/10.1016/j.esd.2026.102178"
+   },
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1021/acsomega.6c04412",
+    "title": "Data Characterization and Multi-Plant Data Integration Strategies for Artificial Neural Network Modeling in Palm Oil Refining",
+    "url": "https://doi.org/10.1021/acsomega.6c04412"
+   },
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.25258/ijddt.16.86s.17",
+    "title": "A Deepfake Detection Framework for Securing Facial Biometrics Using Attention-Based Deep Learning and Blockchain",
+    "url": "https://doi.org/10.25258/ijddt.16.86s.17"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.05550",
+   "arxiv:2611.05569",
+   "doi:10.1038/s41598-026-77054-y",
+   "doi:10.1016/j.esd.2026.102178",
+   "doi:10.1021/acsomega.6c04412",
+   "doi:10.25258/ijddt.16.86s.17"
+  ],
+  "sources": [
+   "arxiv",
+   "openalex"
+  ],
+  "techs": {
+   "feedforward-neural-networks": 1,
+   "generative-adversarial-networks": 1,
+   "heat-transfer": 1,
+   "mechanical-engineering": 1,
+   "semantic-segmentation": 1,
+   "spiking-neural-networks": 1
+  }
+ },
+ "asymptotic fully polynomial randomized approximation scheme": {
+  "acronyms": [
+   "AFPRAS"
+  ],
+  "authors": [
+   "Dylan Herman"
+  ],
+  "display": {
+   "asymptotic fully polynomial randomized approximation scheme": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.05446",
+    "title": "A Fully Polynomial Approximation Algorithm for the Sherrington-Kirkpatrick Model",
+    "url": "https://arxiv.org/abs/2611.05446"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.05446"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "approximation-algorithms": 1
+  }
+ },
+ "asynchronous robot policy": {
+  "acronyms": [
+   "ARP"
+  ],
+  "authors": [
+   "Sombit Dey"
+  ],
+  "display": {
+   "Asynchronous Robot Policy": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.05155",
+    "title": "Asynchronous Robot Policies",
+    "url": "https://arxiv.org/abs/2611.05155"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.05155"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "vision-language-models": 1
+  }
+ },
+ "automatically weighted trust model": {
+  "acronyms": [
+   "ATAW-TM"
+  ],
+  "authors": [
+   "Lijuan Wang"
+  ],
+  "display": {
+   "Automatically Weighted Trust Model": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.3390/electronics15215084",
+    "title": "An Adaptive Trust-Based Approach to the Protection of Software-Defined Wireless Sensor Networks Against Multiple Types of DoS Attacks",
+    "url": "https://doi.org/10.3390/electronics15215084"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.3390/electronics15215084"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "wireless-sensor-networks": 1
+  }
+ },
+ "autonomous battery powered agricultural robot": {
+  "acronyms": [
+   "ABARs"
+  ],
+  "authors": [
+   "Simon Schlehuber"
+  ],
+  "display": {
+   "Autonomous battery-powered agricultural robots": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1038/s41467-026-78281-7",
+    "title": "Techno-economic and environmental assessment of next-generation battery-powered farming robots",
+    "url": "https://doi.org/10.1038/s41467-026-78281-7"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.1038/s41467-026-78281-7"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "life-cycle-assessment": 1
+  }
+ },
+ "bat algorithm": {
+  "acronyms": [
+   "BAT"
+  ],
+  "authors": [
+   "Rana Muhammad Adnan Ikram"
+  ],
+  "display": {
+   "bat algorithm": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1038/s41598-026-78179-w",
+    "title": "Enhancing soil creep index prediction accuracy using optimized XGBoost and LightGBM models with bio-inspired optimization algorithms: SHAP- and LIME-based explanation methods",
+    "url": "https://doi.org/10.1038/s41598-026-78179-w"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.1038/s41598-026-78179-w"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "geotechnical-engineering": 1
+  }
+ },
+ "benchmarking information retrieval": {
+  "acronyms": [
+   "BEIR"
+  ],
+  "authors": [
+   "Janet Sung"
+  ],
+  "display": {
+   "Benchmarking Information Retrieval": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.04264",
+    "title": "Reliability Stress Testing of RAG Retrieval under Query-Relevant Corpus Poisoning",
+    "url": "https://arxiv.org/abs/2611.04264"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.04264"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "retrieval-augmented-generation": 1
+  }
+ },
+ "bidirectional long short term memory": {
+  "acronyms": [
+   "BiLSTM"
+  ],
+  "authors": [
+   "Mahmud Ahmad Bamanga"
+  ],
+  "display": {
+   "bidirectional long short-term memory": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.46481/jnsps.2027.3420",
+    "title": "Exploring the application of machine learning for facies classification in oil and gas exploration",
+    "url": "https://doi.org/10.46481/jnsps.2027.3420"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.46481/jnsps.2027.3420"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "machine-learning": 1
+  }
+ },
+ "bone marrow mesenchymal stem cell": {
+  "acronyms": [
+   "BMSCs"
+  ],
+  "authors": [
+   "Yi Liu"
+  ],
+  "display": {
+   "bone marrow mesenchymal stem cells": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.3389/fdmed.2026.2005854",
+    "title": "Glutamate-centered metabolic and signaling networks in skeletal homeostasis and diseases",
+    "url": "https://doi.org/10.3389/fdmed.2026.2005854"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.3389/fdmed.2026.2005854"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "epigenetics": 1
+  }
+ },
+ "boundary quadrature attention": {
+  "acronyms": [
+   "BQA"
+  ],
+  "authors": [
+   "Tianyu Li"
+  ],
+  "display": {
+   "Boundary Quadrature Attention": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.04603",
+    "title": "SCANO: Restoring Boundary-Condition Completeness in Sampled Meshes with a Sliced-Cross-Attention Neural Operator for 3D Thermal Fields",
+    "url": "https://arxiv.org/abs/2611.04603"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.04603"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "neural-operators": 1
+  }
+ },
+ "bragg coherent diffraction imaging": {
+  "acronyms": [
+   "BCDI"
+  ],
+  "authors": [
+   "Matteo Masto"
+  ],
+  "display": {
+   "Bragg Coherent Diffraction Imaging": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.05020",
+    "title": "ConvexAD: differentiable phase retrieval with geometric regularization for high-strain, low-signal Bragg coherent diffraction imaging",
+    "url": "https://arxiv.org/abs/2611.05020"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.05020"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "phase-retrieval": 1
+  }
+ },
+ "brain plasma membrane": {
+  "acronyms": [
+   "BPM"
+  ],
+  "authors": [
+   "Ananya Debnath"
+  ],
+  "display": {
+   "brain plasma membrane": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.64898/2026.10.31.763150",
+    "title": "Beyond Direct Binding: Serotonin Rewires Model Brain Plasma Membrane-Mediated Communication Pathways in Y4R",
+    "url": "https://doi.org/10.64898/2026.10.31.763150"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.64898/2026.10.31.763150"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "molecular-biology": 1
+  }
+ },
+ "bushy cell": {
+  "acronyms": [
+   "BCs"
+  ],
+  "authors": [
+   "Martijn C. Sierksma"
+  ],
+  "display": {
+   "bushy cells": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.64898/2026.10.30.762924",
+    "title": "Dissection of the contribution of bushy cell delays to sound localization in juvenile and adult Mongolian gerbils",
+    "url": "https://doi.org/10.64898/2026.10.30.762924"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.64898/2026.10.30.762924"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "sensory-systems": 1
+  }
+ },
+ "central nervous system": {
+  "acronyms": [
+   "CNS"
+  ],
+  "authors": [
+   "Pradip Kushwaha"
+  ],
+  "display": {
+   "central nervous system": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.66204/gjpsr-1634-2026-2-11-4",
+    "title": "NOSE-TO-BRAIN DRUG DELIVERY: A REVIEW",
+    "url": "https://doi.org/10.66204/gjpsr-1634-2026-2-11-4"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.66204/gjpsr-1634-2026-2-11-4"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "lipid-nanoparticles": 1
+  }
+ },
+ "chao state space dream model": {
+  "acronyms": [
+   "CSSDM"
+  ],
+  "authors": [
+   "Vikas N. O’Reilly-Shah"
+  ],
+  "display": {
+   "Chaos-State Space Dream Model": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1037/drm0000351",
+    "title": "The chaos–state space dream model: Integrating phenomenology and neurodynamics in dream consciousness.",
+    "url": "https://doi.org/10.1037/drm0000351"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.1037/drm0000351"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "cognitive-neuroscience": 1
+  }
+ },
+ "charge coupled device": {
+  "acronyms": [
+   "CCDs"
+  ],
+  "authors": [
+   "Zun Luo"
+  ],
+  "display": {
+   "charge-coupled devices": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "arxiv:2609.19105",
+    "title": "Characterization of the CSST Survey Camera CCDs: I. basic electro-optical performance",
+    "url": "https://doi.org/10.1088/1674-4527/aebce6"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2609.19105"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "electrical-and-electronic-engineering": 1
+  }
+ },
+ "chemical reaction network": {
+  "acronyms": [
+   "CRNs"
+  ],
+  "authors": [
+   "Georgio Hawi"
+  ],
+  "display": {
+   "chemical reaction networks": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.04127",
+    "title": "Algorithmic Non-dimensionalisation of Polynomial Dynamical Systems with CRNNondim",
+    "url": "https://arxiv.org/abs/2611.04127"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.04127"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "dynamical-systems": 1
+  }
+ },
+ "circulating tumor cell": {
+  "acronyms": [
+   "CTCs"
+  ],
+  "authors": [
+   "Maria E. Gaczynska"
+  ],
+  "display": {
+   "circulating tumor cells": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.64898/2026.10.31.763352",
+    "title": "Strategies of mechanical adaptations of circulating tumor cells and properties of their cellular microenvironment have predictive and prognostic biomarker value",
+    "url": "https://doi.org/10.64898/2026.10.31.763352"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.64898/2026.10.31.763352"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "hybrid-imaging": 1
+  }
+ },
+ "commercial electrolyte": {
+  "acronyms": [
+   "CommLEs"
+  ],
+  "authors": [
+   "Austin Choi"
+  ],
+  "display": {
+   "commercial electrolytes": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1021/acsaem.6c01580",
+    "title": "Bridging the Safety-Performance Gap: A Comparative Study of Graphite Versus Niobium Tungsten Oxide Anodes and Carbonate Versus Ether Electrolytes for Lithium-Ion Batteries",
+    "url": "https://doi.org/10.1021/acsaem.6c01580"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.1021/acsaem.6c01580"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "lithium-ion-batteries": 1
+  }
+ },
+ "common data model": {
+  "acronyms": [
+   "CDM"
+  ],
+  "authors": [
+   "Jacqueline C. Stocking"
+  ],
+  "display": {
+   "Common Data Model": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.64898/2026.10.30.26366954",
+    "title": "Analytic Interoperability Framework for High-Fidelity Representation of Perioperative Electronic Health Record Data in the OMOP Common Data Model Using Clinical Representation and Analytic Concept Reconstruction",
+    "url": "https://doi.org/10.64898/2026.10.30.26366954"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.64898/2026.10.30.26366954"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "electronic-health-records": 1
+  }
+ },
+ "complex in vitro model": {
+  "acronyms": [
+   "CIVM"
+  ],
+  "authors": [
+   "Emma Lund"
+  ],
+  "display": {
+   "complex in vitro model": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.3389/fimmu.2026.1960113",
+    "title": "Quadruple co-culture vascular models of haematological malignancy CAR T cell therapy for nonclinical safety and efficacy studies",
+    "url": "https://doi.org/10.3389/fimmu.2026.1960113"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.3389/fimmu.2026.1960113"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "car-t-cell-therapy": 1
+  }
+ },
+ "composed image retrieval": {
+  "acronyms": [
+   "CIR"
+  ],
+  "authors": [
+   "WonJun Moon"
+  ],
+  "display": {
+   "Composed Image Retrieval": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.05193",
+    "title": "Factorized MLLM Embeddings for Composed Image Retrieval",
+    "url": "https://arxiv.org/abs/2611.05193"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.05193"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "large-language-models": 1
+  }
+ },
+ "computed tomographic optical emission spectroscopy": {
+  "acronyms": [
+   "CT-OES"
+  ],
+  "authors": [
+   "Sang Yoel Park"
+  ],
+  "display": {
+   "computed tomographic optical emission spectroscopy": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1063/5.0353324",
+    "title": "Radial magnetic field component plays a key role in determining the plasma density peak location in magnetized capacitively coupled plasmas",
+    "url": "https://doi.org/10.1063/5.0353324"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.1063/5.0353324"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "electrical-and-electronic-engineering": 1
+  }
+ },
+ "cone alignment index": {
+  "acronyms": [
+   "CAI"
+  ],
+  "authors": [
+   "Michel Barlaud"
+  ],
+  "display": {
+   "Cone Alignment Index": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.04479",
+    "title": "A Parametric Linear Conic Projection for Structured Sparse Attention",
+    "url": "https://arxiv.org/abs/2611.04479"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.04479"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "efficient-attention": 1
+  }
+ },
+ "conservative action noise directional optimization": {
+  "acronyms": [
+   "CANDO"
+  ],
+  "authors": [
+   "Zeyu Gao"
+  ],
+  "display": {
+   "Conservative Action-Noise Directional Optimization": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.04543",
+    "title": "CANDO: Conservative Action-Noise Directional Optimization for Residual Reinforcement Learning",
+    "url": "https://arxiv.org/abs/2611.04543"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.04543"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "reinforcement-learning": 1
+  }
+ },
+ "conservative noise directional optimization": {
+  "acronyms": [
+   "CNDO"
+  ],
+  "authors": [
+   "Zeyu Gao"
+  ],
+  "display": {
+   "Conservative Noise Directional Optimization": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.04543",
+    "title": "CANDO: Conservative Action-Noise Directional Optimization for Residual Reinforcement Learning",
+    "url": "https://arxiv.org/abs/2611.04543"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.04543"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "reinforcement-learning": 1
+  }
+ },
+ "contrast enhanced t1 weighted imaging": {
+  "acronyms": [
+   "CE-T1WI"
+  ],
+  "authors": [
+   "Lulu Gai"
+  ],
+  "display": {
+   "contrast-enhanced T1-weighted imaging": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.3389/fonc.2026.1973673",
+    "title": "Multiparametric MRI radiomics and clinical features for preoperative prediction of high-grade meningioma: a two-centre retrospective study",
+    "url": "https://doi.org/10.3389/fonc.2026.1973673"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.3389/fonc.2026.1973673"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "radiomics": 1
+  }
+ },
+ "conventionally fractionated radiation therapy": {
+  "acronyms": [
+   "CFRT"
+  ],
+  "authors": [
+   "Chunmei Ma"
+  ],
+  "display": {
+   "conventionally fractionated radiation therapy": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1088/2057-1976/aebc94",
+    "title": "A multimode radiobiological model for advanced radiation therapy",
+    "url": "https://doi.org/10.1088/2057-1976/aebc94"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.1088/2057-1976/aebc94"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "radiation-therapy": 1
+  }
+ },
+ "convolutional long short term memory network": {
+  "acronyms": [
+   "ConvLSTM"
+  ],
+  "authors": [
+   "Polina Lemenkova"
+  ],
+  "display": {
+   "convolutional long short-term memory network": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.3390/geomatics6060133",
+    "title": "Convolutional LSTM and Self-Attention Networks in PyTorch for Decade-Ahead Forecasting of Land-Cover Time Series",
+    "url": "https://doi.org/10.3390/geomatics6060133"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.3390/geomatics6060133"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "self-attention": 1
+  }
+ },
+ "copper matrix composite": {
+  "acronyms": [
+   "CMCs"
+  ],
+  "authors": [
+   "Sehinde Happiness Saheyi"
+  ],
+  "display": {
+   "Copper matrix composites": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1186/s42252-026-00114-z",
+    "title": "Waste-derived aluminosilicate reinforcements in copper matrix composites for tribological applications: a critical review and future perspectives",
+    "url": "https://doi.org/10.1186/s42252-026-00114-z"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.1186/s42252-026-00114-z"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "mechanical-engineering": 1
+  }
+ },
+ "crayfish optimization algorithm": {
+  "acronyms": [
+   "COA"
+  ],
+  "authors": [
+   "Rana Muhammad Adnan Ikram"
+  ],
+  "display": {
+   "crayfish optimization algorithm": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1038/s41598-026-78179-w",
+    "title": "Enhancing soil creep index prediction accuracy using optimized XGBoost and LightGBM models with bio-inspired optimization algorithms: SHAP- and LIME-based explanation methods",
+    "url": "https://doi.org/10.1038/s41598-026-78179-w"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.1038/s41598-026-78179-w"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "geotechnical-engineering": 1
+  }
+ },
+ "cross calibrated multi platform": {
+  "acronyms": [
+   "CCMP"
+  ],
+  "authors": [
+   "Weihao Guo"
+  ],
+  "display": {
+   "Cross-Calibrated Multi-Platform": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.5194/essd-18-7963-2026",
+    "title": "MLAWind: a monthly sea surface wind dataset derived from an interpretable machine learning approach integrating in-situ observations and satellite data",
+    "url": "https://doi.org/10.5194/essd-18-7963-2026"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.5194/essd-18-7963-2026"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "machine-learning": 1
+  }
+ },
+ "crow search algorithm": {
+  "acronyms": [
+   "CSA"
+  ],
+  "authors": [
+   "Gurmeet Singh"
+  ],
+  "display": {
+   "crow search algorithm": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1108/aeat-05-2026-0172",
+    "title": "Multi-objective optimisation of sustainable lubrication in end milling of AISI D2 aerospace die steel using hybrid GWO-CSA and NSGA-II",
+    "url": "https://doi.org/10.1108/aeat-05-2026-0172"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.1108/aeat-05-2026-0172"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "machining-processes": 1
+  }
+ },
+ "cumulative link mixed model": {
+  "acronyms": [
+   "CLMMs"
+  ],
+  "authors": [
+   "Shareef Ngunguni"
+  ],
+  "display": {
+   "cumulative link mixed models": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.3389/fvets.2026.1972497",
+    "title": "Factors associated with milk rejection, self-reported profitability, raw milk consumption and zoonotic disease awareness among smallholder dairy farmers in southern Malawi",
+    "url": "https://doi.org/10.3389/fvets.2026.1972497"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.3389/fvets.2026.1972497"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "crop-science": 1
+  }
+ },
+ "decentralized federated learning": {
+  "acronyms": [
+   "DFL"
+  ],
+  "authors": [
+   "Ojaswi Sinha"
+  ],
+  "display": {
+   "Decentralized federated learning": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.05546",
+    "title": "FedSharp: Byzantine Robust Decentralized Federated Learning Under Noisy Channel",
+    "url": "https://arxiv.org/abs/2611.05546"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.05546"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "federated-learning": 1
+  }
+ },
+ "decision model": {
+  "acronyms": [
+   "DMs"
+  ],
+  "authors": [
+   "Maxime Saxena"
+  ],
+  "display": {
+   "Decision Models": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.05553",
+    "title": "Decision Models as Scalable Economic Surrogates that Capture Human Variation",
+    "url": "https://arxiv.org/abs/2611.05553"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.05553"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "large-language-models": 1
+  }
+ },
+ "deep convolutional neural network": {
+  "acronyms": [
+   "DCNN"
+  ],
+  "authors": [
+   "M. Mahaboob"
+  ],
+  "display": {
+   "Deep Convolutional Neural Network": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1016/j.asej.2026.104510",
+    "title": "Autonomous UAV path planning and landmine risk mapping using SLAM-integrated real-time thermal-RGB vision sensing",
+    "url": "https://doi.org/10.1016/j.asej.2026.104510"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.1016/j.asej.2026.104510"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "unmanned-aerial-vehicles": 1
+  }
+ },
+ "deep neural network": {
+  "acronyms": [
+   "DNN"
+  ],
+  "authors": [
+   "Jyoti Jyoti"
+  ],
+  "display": {
+   "Deep Neural Networks": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.25258/ijddt.16.86s.22",
+    "title": "Intelligent Machine Learning Framework for Advanced Cyber Threat Detection: A Focus on Ransomware Attacks",
+    "url": "https://doi.org/10.25258/ijddt.16.86s.22"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.25258/ijddt.16.86s.22"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "machine-learning": 1
+  }
+ },
+ "deep reinforcement learning": {
+  "acronyms": [
+   "DRL"
+  ],
+  "authors": [
+   "Zain Mustafa"
+  ],
+  "display": {
+   "deep reinforcement learning": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1080/21681724.2026.2755906",
+    "title": "Joint beamforming for RIS‑assisted ISAC systems with discrete phase shifts: a DRL‑based approach",
+    "url": "https://doi.org/10.1080/21681724.2026.2755906"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.1080/21681724.2026.2755906"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "integrated-sensing-and-communication": 1
+  }
+ },
+ "deep synoptic array": {
+  "acronyms": [
+   "DSA"
+  ],
+  "authors": [
+   "Keerthi Kunnumkai"
+  ],
+  "display": {
+   "Deep Synoptic Array": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.05461",
+    "title": "Characterizing Gravitational Wave Electromagnetic Counterparts with the Schmidt Observatory System",
+    "url": "https://arxiv.org/abs/2611.05461"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.05461"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "gravitational-waves": 1
+  }
+ },
+ "deltoid tuberosity index": {
+  "acronyms": [
+   "DTI"
+  ],
+  "authors": [
+   "Thy Gia Anh Le"
+  ],
+  "display": {
+   "Deltoid Tuberosity Index": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.4108/eetpht.11.10651",
+    "title": "CT-Based Morphometric Analysis of Proximal Humerus Fractures: A Quantitative Framework",
+    "url": "https://doi.org/10.4108/eetpht.11.10651"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.4108/eetpht.11.10651"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "computer-aided-diagnosis": 1
+  }
+ },
+ "desalination resilience dynamic index": {
+  "acronyms": [
+   "DRDI"
+  ],
+  "authors": [
+   "Borja Montaño"
+  ],
+  "display": {
+   "Desalination Resilience Dynamic Index": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1002/sd.71816",
+    "title": "Developing the Desalination Resilience Dynamic Index ( DRDI ): A Multidimensional Framework for Assessing Adaptive Water Resilience",
+    "url": "https://doi.org/10.1002/sd.71816"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.1002/sd.71816"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "desalination": 1
+  }
+ },
+ "detached eddy simulation": {
+  "acronyms": [
+   "DDES"
+  ],
+  "authors": [
+   "Yoshiki Murahashi"
+  ],
+  "display": {
+   "detached-eddy simulation": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.2514/1.j067212",
+    "title": "Physics-Informed Reconstruction of Three-Dimensional Aircraft Wake from Multiplane Particle Image Velocimetry",
+    "url": "https://doi.org/10.2514/1.j067212"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.2514/1.j067212"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "physics-informed-neural-networks": 1
+  }
+ },
+ "detached leaf assay": {
+  "acronyms": [
+   "DLA"
+  ],
+  "authors": [
+   "Hossain Sohrawardy"
+  ],
+  "display": {
+   "Detached leaf assay": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1080/09553002.2026.2745878",
+    "title": "Development of wheat lines resistant to blast disease using gamma-ray-induced mutagenesis",
+    "url": "https://doi.org/10.1080/09553002.2026.2745878"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.1080/09553002.2026.2745878"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "mutation-breeding": 1
+  }
+ },
+ "detuning axis pulsed spectroscopy": {
+  "acronyms": [
+   "DAPS"
+  ],
+  "authors": [
+   "Connor Nasseraddin"
+  ],
+  "display": {
+   "detuning axis pulsed spectroscopy": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "arxiv:2607.11048",
+    "title": "Spectroscopy of low-lying valley states in hot Si/SiGe quantum dots",
+    "url": "https://doi.org/10.1063/5.0352205"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2607.11048"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "semiconductor-spin-qubits": 1
+  }
+ },
+ "diesel particulate filter": {
+  "acronyms": [
+   "DPF"
+  ],
+  "authors": [
+   "Zhiwei Wang"
+  ],
+  "display": {
+   "Diesel Particulate Filter": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.3390/environments13110612",
+    "title": "Research on Emission Inventory and Emission Reduction Benefits Assessment of Non-Road Construction Machinery in Tangshan Port",
+    "url": "https://doi.org/10.3390/environments13110612"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.3390/environments13110612"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "automotive-engineering": 1
+  }
+ },
+ "diffusion weighted imaging": {
+  "acronyms": [
+   "DWI"
+  ],
+  "authors": [
+   "Min Sun"
+  ],
+  "display": {
+   "diffusion-weighted imaging": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1186/s12880-026-02885-0",
+    "title": "Interpretable machine learning model based on intratumoral and peritumoral MRI for predicting tumor budding grade in breast cancer",
+    "url": "https://doi.org/10.1186/s12880-026-02885-0"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.1186/s12880-026-02885-0"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "magnetic-resonance-imaging": 1
+  }
+ },
+ "digital elevation model": {
+  "acronyms": [
+   "DEM"
+  ],
+  "authors": [
+   "Wen Zhou"
+  ],
+  "display": {
+   "digital elevation model": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.05220",
+    "title": "Fusing Earth observation embeddings and spaceborne terrain with meteorological forcing for flood peak depth prediction from high-water marks",
+    "url": "https://arxiv.org/abs/2611.05220"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.05220"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "machine-learning": 1
+  }
+ },
+ "direct strength method": {
+  "acronyms": [
+   "DSM"
+  ],
+  "authors": [
+   "Maxiang He"
+  ],
+  "display": {
+   "direct strength method": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1016/j.jcsr.2026.110724",
+    "title": "Local and distortional buckling of WAAM-strengthened hot-rolled steel I-sections under axial compression",
+    "url": "https://doi.org/10.1016/j.jcsr.2026.110724"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.1016/j.jcsr.2026.110724"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "additive-manufacturing": 1
+  }
+ },
+ "directed acyclic graph": {
+  "acronyms": [
+   "DAG"
+  ],
+  "authors": [
+   "Peng Li"
+  ],
+  "display": {
+   "directed acyclic graph": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.05007",
+    "title": "Throughput-Optimal Control of Distributed Computing Networks for Service DAGs",
+    "url": "https://arxiv.org/abs/2611.05007"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.05007"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "optimal-control": 1
+  }
+ },
+ "directional fourier enhanced network": {
+  "acronyms": [
+   "DFENet"
+  ],
+  "authors": [
+   "Peidong Luo"
+  ],
+  "display": {
+   "Directional Fourier-Enhanced Network": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1080/01431161.2026.2755537",
+    "title": "DFSO-DETR: dual-domain Fourier fusion DETR for small object detection in remote sensing images",
+    "url": "https://doi.org/10.1080/01431161.2026.2755537"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.1080/01431161.2026.2755537"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "object-detection": 1
+  }
+ },
+ "discontinuity layout optimization": {
+  "acronyms": [
+   "DLO"
+  ],
+  "authors": [
+   "Miguel Angel Millán Muñoz"
+  ],
+  "display": {
+   "Discontinuity Layout Optimization": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1016/j.ijrmms.2026.106773",
+    "title": "A novel failure-mechanism-based reinterpretation of the Brazilian test using discontinuity Layout optimization",
+    "url": "https://doi.org/10.1016/j.ijrmms.2026.106773"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.1016/j.ijrmms.2026.106773"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "rock-mechanics": 1
+  }
+ },
+ "discrete gaussian sampling": {
+  "acronyms": [
+   "DGS"
+  ],
+  "authors": [
+   "Yiming Gao"
+  ],
+  "display": {
+   "discrete Gaussian sampling": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.04336",
+    "title": "Gaussian Difference Dynamics: Breaking the $2^{n/2}$ Barrier for the Shortest Vector Problem and Discrete Gaussian Sampling",
+    "url": "https://arxiv.org/abs/2611.04336"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.04336"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "randomized-algorithms": 1
+  }
+ },
+ "dragonfly algorithm": {
+  "acronyms": [
+   "DOA"
+  ],
+  "authors": [
+   "Rana Muhammad Adnan Ikram"
+  ],
+  "display": {
+   "dragonfly algorithm": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1038/s41598-026-78179-w",
+    "title": "Enhancing soil creep index prediction accuracy using optimized XGBoost and LightGBM models with bio-inspired optimization algorithms: SHAP- and LIME-based explanation methods",
+    "url": "https://doi.org/10.1038/s41598-026-78179-w"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.1038/s41598-026-78179-w"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "geotechnical-engineering": 1
+  }
+ },
+ "dual branch complex neural network": {
+  "acronyms": [
+   "DBCNN"
+  ],
+  "authors": [
+   "Ivan Martinez-Kay"
+  ],
+  "display": {
+   "Dual-Branch Complex Neural Network": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.05374",
+    "title": "A Bayesian Optimized Biquad Filter-Burg Model for Real-Time EEG Phase Estimation",
+    "url": "https://arxiv.org/abs/2611.05374"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.05374"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "electroencephalography": 1
+  }
+ },
+ "dual modality cross attention fusion": {
+  "acronyms": [
+   "DCAF"
+  ],
+  "authors": [
+   "M. Mahaboob"
+  ],
+  "display": {
+   "Dual-Modality Cross-Attention Fusion": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1016/j.asej.2026.104510",
+    "title": "Autonomous UAV path planning and landmine risk mapping using SLAM-integrated real-time thermal-RGB vision sensing",
+    "url": "https://doi.org/10.1016/j.asej.2026.104510"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.1016/j.asej.2026.104510"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "unmanned-aerial-vehicles": 1
+  }
+ },
+ "dynamic contrast enhanced magnetic resonance imaging": {
+  "acronyms": [
+   "DCE-MRI"
+  ],
+  "authors": [
+   "Min Sun"
+  ],
+  "display": {
+   "dynamic contrast-enhanced magnetic resonance imaging": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1186/s12880-026-02885-0",
+    "title": "Interpretable machine learning model based on intratumoral and peritumoral MRI for predicting tumor budding grade in breast cancer",
+    "url": "https://doi.org/10.1186/s12880-026-02885-0"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.1186/s12880-026-02885-0"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "magnetic-resonance-imaging": 1
+  }
+ },
+ "dynamic global vegetation model": {
+  "acronyms": [
+   "DGVMs"
+  ],
+  "authors": [
+   "Piyu Ke"
+  ],
+  "display": {
+   "dynamic global vegetation models": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.04536",
+    "title": "Machine learning emulators of dynamic global vegetation models for fast gridded carbon budget predictions",
+    "url": "https://arxiv.org/abs/2611.04536"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.04536"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "machine-learning": 1
+  }
+ },
+ "ebv b cell sequencing": {
+  "acronyms": [
+   "EBV-seq"
+  ],
+  "authors": [
+   "Ya’el Courtney"
+  ],
+  "display": {
+   "EBV B-cell sequencing": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.64898/2026.10.24.761515",
+    "title": "CD19-CAR T-cell therapy resets the EBV+ autoreactive B cell repertoire in autoimmune disease",
+    "url": "https://doi.org/10.64898/2026.10.24.761515"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.64898/2026.10.24.761515"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "car-t-cell-therapy": 1
+  }
+ },
+ "eeg phase prediction network": {
+  "acronyms": [
+   "EPN"
+  ],
+  "authors": [
+   "Ivan Martinez-Kay"
+  ],
+  "display": {
+   "EEG Phase Prediction Network": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.05374",
+    "title": "A Bayesian Optimized Biquad Filter-Burg Model for Real-Time EEG Phase Estimation",
+    "url": "https://arxiv.org/abs/2611.05374"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.05374"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "electroencephalography": 1
+  }
+ },
+ "effective width method": {
+  "acronyms": [
+   "EWM"
+  ],
+  "authors": [
+   "Maxiang He"
+  ],
+  "display": {
+   "effective width method": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1016/j.jcsr.2026.110724",
+    "title": "Local and distortional buckling of WAAM-strengthened hot-rolled steel I-sections under axial compression",
+    "url": "https://doi.org/10.1016/j.jcsr.2026.110724"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.1016/j.jcsr.2026.110724"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "additive-manufacturing": 1
+  }
+ },
+ "electrochemical impedance spectroscopy": {
+  "acronyms": [
+   "EIS"
+  ],
+  "authors": [
+   "Neelamegam Rajasekaran"
+  ],
+  "display": {
+   "Electrochemical impedance spectroscopy": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1149/1945-7111/aebcd0",
+    "title": "Magneto-Electrocatalysis of Co-Ni Alloy Electrodeposits for Hydrogen Evolution Reactions",
+    "url": "https://doi.org/10.1149/1945-7111/aebcd0"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.1149/1945-7111/aebcd0"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "renewable-energy": 1
+  }
+ },
+ "endothelial cell": {
+  "acronyms": [
+   "ECs"
+  ],
+  "authors": [
+   "Carole Y. Perrot"
+  ],
+  "display": {
+   "endothelial cells": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1073/pnas.2631760123",
+    "title": "Pericyte contraction generates angiostatic effect via cell force–dependent activation of TGFβ",
+    "url": "https://doi.org/10.1073/pnas.2631760123"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.1073/pnas.2631760123"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "molecular-biology": 1
+  }
+ },
+ "energy dispersive x ray spectroscopy": {
+  "acronyms": [
+   "EDX"
+  ],
+  "authors": [
+   "Abubakar Usman Lawal"
+  ],
+  "display": {
+   "Energy dispersive X-ray spectroscopy": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1021/acsomega.6c09393",
+    "title": "Ultrasmall Superparamagnetic Fe3O4 Nanoparticles Green-Synthesized with Cosmos caudatus : Phytochemical Surface Coordination and Suppression of MCF-7 Migration",
+    "url": "https://doi.org/10.1021/acsomega.6c09393"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.1021/acsomega.6c09393"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "nanoparticles": 1
+  }
+ },
+ "engineered cementitious composite": {
+  "acronyms": [
+   "ECC"
+  ],
+  "authors": [
+   "N. Radhakrishnan"
+  ],
+  "display": {
+   "Engineered Cementitious Composites": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1080/09276440.2026.2750736",
+    "title": "Effect of chemical exposure on the interfacial bond characteristics of novel bio-fiber reinforced engineered cementitious composites",
+    "url": "https://doi.org/10.1080/09276440.2026.2750736"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.1080/09276440.2026.2750736"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "structural-engineering": 1
+  }
+ },
+ "engineering equation solver": {
+  "acronyms": [
+   "EES"
+  ],
+  "authors": [
+   "Thabang Khahloe"
+  ],
+  "display": {
+   "Engineering Equation Solver": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1016/j.esd.2026.102178",
+    "title": "Sensitivity analysis of a solar-biomass hybrid cooler with artificial neural network and engineering equation solver",
+    "url": "https://doi.org/10.1016/j.esd.2026.102178"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.1016/j.esd.2026.102178"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "mechanical-engineering": 1
+  }
+ },
+ "enzyme linked immunosorbent assay": {
+  "acronyms": [
+   "ELISA"
+  ],
+  "authors": [
+   "Rajkumar Manojkumar Singh"
+  ],
+  "display": {
+   "Enzyme Linked Immunosorbent Assay": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.7860/jcdr/2026/90865.24728",
+    "title": "Emerging Rickettsial Diseases among Patients Presenting with Acute Undifferentiated Febrile Illness: A Crosssectional Observational Study from a Tertiary Care Hospital of Manipur, India",
+    "url": "https://doi.org/10.7860/jcdr/2026/90865.24728"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.7860/jcdr/2026/90865.24728"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "infectious-diseases": 1
+  }
+ },
+ "equilibrium toroidal rotation flow": {
+  "acronyms": [
+   "ETRF"
+  ],
+  "authors": [
+   "Runlong Wang"
+  ],
+  "display": {
+   "equilibrium toroidal rotation flow": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1088/2058-6272/aebc30",
+    "title": "Perturbation analysis of beta-induced Alfvén eigenmode in toroidally rotating tokamak plasmas",
+    "url": "https://doi.org/10.1088/2058-6272/aebc30"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.1088/2058-6272/aebc30"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "particle-physics": 1
+  }
+ },
+ "exome sequencing": {
+  "acronyms": [
+   "ES"
+  ],
+  "authors": [
+   "Gabriela Moreno Yates"
+  ],
+  "display": {
+   "Exome sequencing": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1038/s41598-026-78591-2",
+    "title": "Features influencing diagnostic yield of exome sequencing in the DECIPHERD rare diseases study in Chile",
+    "url": "https://doi.org/10.1038/s41598-026-78591-2"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.1038/s41598-026-78591-2"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "next-generation-sequencing": 1
+  }
+ },
+ "extraction with hierarchical optimization": {
+  "acronyms": [
+   "ExtraHerO"
+  ],
+  "authors": [
+   "Shuaidong Li"
+  ],
+  "display": {
+   "Extraction with Hierarchical Optimization": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.04803",
+    "title": "Extracting System Prompt of LLM Services in Complex (Agentic) Settings: Hierarchical Optimization and Reliable Evaluation Metrics",
+    "url": "https://arxiv.org/abs/2611.04803"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.04803"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "large-language-models": 1
+  }
+ },
+ "factorized mllm embedding": {
+  "acronyms": [
+   "FactEmbed"
+  ],
+  "authors": [
+   "WonJun Moon"
+  ],
+  "display": {
+   "Factorized MLLM Embeddings": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.05193",
+    "title": "Factorized MLLM Embeddings for Composed Image Retrieval",
+    "url": "https://arxiv.org/abs/2611.05193"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.05193"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "large-language-models": 1
+  }
+ },
+ "failure analysis execution system": {
+  "acronyms": [
+   "FAES"
+  ],
+  "authors": [
+   "Xin Lu"
+  ],
+  "display": {
+   "Failure Analysis Execution System": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1038/s41598-026-77288-w",
+    "title": "Research on the application framework of multi-agent technology-driven failure analysis for industrial products",
+    "url": "https://doi.org/10.1038/s41598-026-77288-w"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.1038/s41598-026-77288-w"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "reinforcement-learning-from-human-feedback": 1
+  }
+ },
+ "federated continual learning": {
+  "acronyms": [
+   "FCL"
+  ],
+  "authors": [
+   "G. Suruthi"
+  ],
+  "display": {
+   "Federated Continual Learning": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.3389/frai.2026.1942761",
+    "title": "Sustainable Federated Continual Learning for environmental monitoring: a systematic review",
+    "url": "https://doi.org/10.3389/frai.2026.1942761"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.3389/frai.2026.1942761"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "continual-learning": 1
+  }
+ },
+ "field emission scanning electron microscopy": {
+  "acronyms": [
+   "FESEM",
+   "FE-SEM"
+  ],
+  "authors": [
+   "Neelamegam Rajasekaran",
+   "Ali S.M. Kuba"
+  ],
+  "display": {
+   "Field-emission scanning electron microscopy": 1,
+   "field-emission scanning electron microscopy": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1149/1945-7111/aebcd0",
+    "title": "Magneto-Electrocatalysis of Co-Ni Alloy Electrodeposits for Hydrogen Evolution Reactions",
+    "url": "https://doi.org/10.1149/1945-7111/aebcd0"
+   },
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.59429/ace.v9i4.6007",
+    "title": "Comparative Study of Serum Albumin Interactions with ZnO, NiO, and TiO₂ Nanoparticles in Healthy and Type 2 Diabetic Serum",
+    "url": "https://doi.org/10.59429/ace.v9i4.6007"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.1149/1945-7111/aebcd0",
+   "doi:10.59429/ace.v9i4.6007"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "metal-oxide-nanoparticles": 1,
+   "renewable-energy": 1
+  }
+ },
+ "finite basis physic informed neural network": {
+  "acronyms": [
+   "FBPINNs"
+  ],
+  "authors": [
+   "Sarah Helfert"
+  ],
+  "display": {
+   "finite Basis physics-informed neural networks": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.05659",
+    "title": "Adaptive Domain Decomposition for Finite Basis Physics-Informed Neural Networks",
+    "url": "https://arxiv.org/abs/2611.05659"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.05659"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "physics-informed-neural-networks": 1
+  }
+ },
+ "fixed configuration antenna": {
+  "acronyms": [
+   "FCA"
+  ],
+  "authors": [
+   "Peilan Wang"
+  ],
+  "display": {
+   "fixed-configuration antenna": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.04125",
+    "title": "Reconfigurable Antenna-Enhanced ISAC: A Unified Perspective on Electromagnetic Adaptation",
+    "url": "https://arxiv.org/abs/2611.04125"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.04125"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "integrated-sensing-and-communication": 1
+  }
+ },
+ "focal therapy": {
+  "acronyms": [
+   "FT"
+  ],
+  "authors": [
+   "J. Bradley Mason"
+  ],
+  "display": {
+   "focal therapy": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1007/s11255-026-05467-9",
+    "title": "Performance of PI-FAB and TARGET scoring systems in post focal therapy mpMRI surveillance",
+    "url": "https://doi.org/10.1007/s11255-026-05467-9"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.1007/s11255-026-05467-9"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "magnetic-resonance-imaging": 1
+  }
+ },
+ "fok guided policy optimization": {
+  "acronyms": [
+   "FGPO"
+  ],
+  "authors": [
+   "Zichuan Fu"
+  ],
+  "display": {
+   "FoK-guided policy optimization": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.04834",
+    "title": "Feeling of Knowing in Large Language Models",
+    "url": "https://arxiv.org/abs/2611.04834"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.04834"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "large-language-models": 1
+  }
+ },
+ "forwarding database": {
+  "acronyms": [
+   "FDB"
+  ],
+  "authors": [
+   "Jamil Qalandarov"
+  ],
+  "display": {
+   "forwarding database": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.3390/telecom7060143",
+    "title": "Automated Multivendor Network Topology Discovery and Shadow IT Detection Using Asynchronous Hybrid Polling and Graph-Based Anomaly Analysis",
+    "url": "https://doi.org/10.3390/telecom7060143"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.3390/telecom7060143"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "network-security": 1
+  }
+ },
+ "fourier transform infrared spectroscopy": {
+  "acronyms": [
+   "FTIR",
+   "FT-IR"
+  ],
+  "authors": [
+   "Shikha Chaudhary",
+   "Safiullah Khan",
+   "Adekunle Adetukasi",
+   "Harvey Melendrez",
+   "Tehreem Arshad",
+   "Moni Sankar Mondal",
+   "Abubakar Usman Lawal",
+   "Qadoori.Z. khalaf"
+  ],
+  "display": {
+   "Fourier Transform Infrared Spectroscopy": 2,
+   "Fourier transform infrared spectroscopy": 5,
+   "Fourier-transform infrared spectroscopy": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.55766/sujst11677",
+    "title": "FORMULATION DEVELOPMENT, OPTIMIZATION, CHARACTERIZATION, AND IN-VITRO ANTI-INFLAMMATORY EVALUATION",
+    "url": "https://doi.org/10.55766/sujst11677"
+   },
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1016/j.mtcomm.2026.116557",
+    "title": "Development and comprehensive characterization of sustainable epoxy composites reinforced with Palmyra palm husk fiber and Aegle marmelos fruit peel powder",
+    "url": "https://doi.org/10.1016/j.mtcomm.2026.116557"
+   },
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.9734/ajarr/2026/v20i111500",
+    "title": "The Epoxidation of Walnut Oil (WNO) and the Analysis on the Epoxidized Oil with the Fourier Transform Infrared Spectroscopy",
+    "url": "https://doi.org/10.9734/ajarr/2026/v20i111500"
+   },
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1016/j.nxmate.2026.103940",
+    "title": "Upcycling Philippine-generated coal fly ash residue after rare earth element extraction via mechanochemical activation for enhanced methylene blue removal: Kinetic and equilibrium studies",
+    "url": "https://doi.org/10.1016/j.nxmate.2026.103940"
+   },
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.36721/pjps/2026.40.16941.1",
+    "title": "Comprehensive analysis of the therapeutic effect of lipid-coated hybrid nanoparticles for breast cancer therapy",
+    "url": "https://doi.org/10.36721/pjps/2026.40.16941.1"
+   },
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1016/j.nxnano.2026.100906",
+    "title": "Fabrication of zinc oxide nanoparticles from electronic waste and application on cotton fabric to evaluate antibacterial properties",
+    "url": "https://doi.org/10.1016/j.nxnano.2026.100906"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.55766/sujst11677",
+   "doi:10.1016/j.mtcomm.2026.116557",
+   "doi:10.9734/ajarr/2026/v20i111500",
+   "doi:10.1016/j.nxmate.2026.103940",
+   "doi:10.36721/pjps/2026.40.16941.1",
+   "doi:10.1016/j.nxnano.2026.100906",
+   "doi:10.1021/acsomega.6c09393",
+   "doi:10.59429/ace.v9i4.5951"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "critical-minerals-processing": 1,
+   "nanoparticles": 3,
+   "pharmaceutical-sciences": 1,
+   "scanning-electron-microscopy": 2,
+   "spectroscopy": 1
+  }
+ },
+ "functionally graded material": {
+  "acronyms": [
+   "FGM"
+  ],
+  "authors": [
+   "Kundan Kumar Chandrakar"
+  ],
+  "display": {
+   "functionally graded material": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1080/30654327.2026.2738688",
+    "title": "Advancing cold-formed steel with thermal barrier coatings: buckling and fire resistance behaviours",
+    "url": "https://doi.org/10.1080/30654327.2026.2738688"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.1080/30654327.2026.2738688"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "thermal-barrier-coatings": 1
+  }
+ },
+ "fuzzy logic controller": {
+  "acronyms": [
+   "FLC"
+  ],
+  "authors": [
+   "Muhammad Ali Syal"
+  ],
+  "display": {
+   "Fuzzy Logic Controller": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1038/s41598-026-78964-7",
+    "title": "Comparative assessment of classical, metaheuristic, and AI-based controller design and tuning strategies for VSC applications",
+    "url": "https://doi.org/10.1038/s41598-026-78964-7"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.1038/s41598-026-78964-7"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "voltage-source-converter-hvdc": 1
+  }
+ },
+ "gaussian mixture model": {
+  "acronyms": [
+   "GMM"
+  ],
+  "authors": [
+   "Avinash Kumar K M"
+  ],
+  "display": {
+   "Gaussian Mixture Model": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "arxiv:2602.07658",
+    "title": "Influence of Geometry, Class Imbalance and Alignment on Phantom Reconstruction Accuracy - A Micro-CT Phantom-Based Evaluation",
+    "url": "https://doi.org/10.1088/1873-4030/aebc8e"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2602.07658"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "image-segmentation": 1
+  }
+ },
+ "gaussian process state space model": {
+  "acronyms": [
+   "GPSSMs"
+  ],
+  "authors": [
+   "Tengjie Zheng"
+  ],
+  "display": {
+   "Gaussian process state-space models": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "arxiv:2510.15390",
+    "title": "Recursive Inference for Heterogeneous Multi-Output Gaussian Process State-Space Models",
+    "url": "https://doi.org/10.2514/1.g009715"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2510.15390"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "state-space-models": 1
+  }
+ },
+ "generalised additive model": {
+  "acronyms": [
+   "GAMs"
+  ],
+  "authors": [
+   "George Dimitriadis"
+  ],
+  "display": {
+   "Generalised Additive Models": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.05012",
+    "title": "Rethinking GA2Ms: performance and out-of-distribution generalisation",
+    "url": "https://arxiv.org/abs/2611.05012"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.05012"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "machine-learning": 1
+  }
+ },
+ "generalized advantage estimation": {
+  "acronyms": [
+   "GAE"
+  ],
+  "authors": [
+   "Jan Felix Kleuker"
+  ],
+  "display": {
+   "Generalized Advantage Estimation": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.05666",
+    "title": "Revisiting Critic Estimation in Soft Actor-Critic Algorithms",
+    "url": "https://arxiv.org/abs/2611.05666"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.05666"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "temporal-difference-learning": 1
+  }
+ },
+ "generative engine optimization": {
+  "acronyms": [
+   "GEO"
+  ],
+  "authors": [
+   "Runlin Lei"
+  ],
+  "display": {
+   "Generative Engine Optimization": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.04225",
+    "title": "IntentGEO: Intent-aware Generative Engine Optimization for Recommendation",
+    "url": "https://arxiv.org/abs/2611.04225"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.04225"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "large-language-models": 1
+  }
+ },
+ "grasshopper optimization algorithm": {
+  "acronyms": [
+   "GOA"
+  ],
+  "authors": [
+   "Rana Muhammad Adnan Ikram"
+  ],
+  "display": {
+   "grasshopper optimization algorithm": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1038/s41598-026-78179-w",
+    "title": "Enhancing soil creep index prediction accuracy using optimized XGBoost and LightGBM models with bio-inspired optimization algorithms: SHAP- and LIME-based explanation methods",
+    "url": "https://doi.org/10.1038/s41598-026-78179-w"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.1038/s41598-026-78179-w"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "geotechnical-engineering": 1
+  }
+ },
+ "grey wolf optimizer": {
+  "acronyms": [
+   "GWO"
+  ],
+  "authors": [
+   "Rana Muhammad Adnan Ikram"
+  ],
+  "display": {
+   "grey wolf optimizer": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1038/s41598-026-78179-w",
+    "title": "Enhancing soil creep index prediction accuracy using optimized XGBoost and LightGBM models with bio-inspired optimization algorithms: SHAP- and LIME-based explanation methods",
+    "url": "https://doi.org/10.1038/s41598-026-78179-w"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.1038/s41598-026-78179-w"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "geotechnical-engineering": 1
+  }
+ },
+ "group relative policy optimization": {
+  "acronyms": [
+   "GRPO"
+  ],
+  "authors": [
+   "Xujing Wang",
+   "Masoud Poorghaffar Aghdam",
+   "Yiding Tian",
+   "Shanka Subhra Mondal",
+   "Hemanth Ram"
+  ],
+  "display": {
+   "Group Relative Policy Optimization": 4,
+   "group-relative policy optimization": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.04259",
+    "title": "ReuseGR: Offline--Online Decoupled Generative Retrieval via Adaptive Prefix Reuse",
+    "url": "https://arxiv.org/abs/2611.04259"
+   },
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.04717",
+    "title": "BrainwashedLLM: Jailbreaking via Automated Adversarial Chain of Thoughts Discovery",
+    "url": "https://arxiv.org/abs/2611.04717"
+   },
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.04811",
+    "title": "NightIQA: A Comprehensive Dataset and Benchmark for MLLM-Based Nighttime Image Quality Assessment",
+    "url": "https://arxiv.org/abs/2611.04811"
+   },
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.05263",
+    "title": "JHiMA-WebRL: A Joint Hierarchical Multi-Agent Reinforcement Learning Framework for Long-Horizon Web Tasks",
+    "url": "https://arxiv.org/abs/2611.05263"
+   },
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.05515",
+    "title": "TSFM Meets LLM: Context as Covariates",
+    "url": "https://arxiv.org/abs/2611.05515"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.04259",
+   "arxiv:2611.04717",
+   "arxiv:2611.04811",
+   "arxiv:2611.05263",
+   "arxiv:2611.05515"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "image-quality-assessment": 1,
+   "knowledge-distillation": 1,
+   "large-language-models": 1,
+   "llm-reasoning-methods": 1,
+   "multi-agent-reinforcement-learning": 1
+  }
+ },
+ "healthy control": {
+  "acronyms": [
+   "HC"
+  ],
+  "authors": [
+   "Qiang Liu",
+   "Xiu-Qin Lin",
+   "Liang Zhou"
+  ],
+  "display": {
+   "healthy control": 1,
+   "healthy controls": 2
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1186/s12883-026-05535-8",
+    "title": "Potential functional compensation of substantia nigra by locus coeruleus in Parkinson’s disease",
+    "url": "https://doi.org/10.1186/s12883-026-05535-8"
+   },
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.3389/fmicb.2026.1915847",
+    "title": "Sex-specific alterations in gut microbiome composition in patients with Alzheimer's disease",
+    "url": "https://doi.org/10.3389/fmicb.2026.1915847"
+   },
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.3389/fnagi.2026.1885073",
+    "title": "Associations between cognitive reserve, glymphatic function and cognitive function in mild cognitive impairment",
+    "url": "https://doi.org/10.3389/fnagi.2026.1885073"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.1186/s12883-026-05535-8",
+   "doi:10.3389/fmicb.2026.1915847",
+   "doi:10.3389/fnagi.2026.1885073"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "cellular-and-molecular-neuroscience": 1,
+   "hidden-markov-models": 1,
+   "molecular-biology": 1
+  }
+ },
+ "hierarchical constrained proximal policy optimization": {
+  "acronyms": [
+   "HC-PPO"
+  ],
+  "authors": [
+   "Shiva Kazemi Taskooh"
+  ],
+  "display": {
+   "hierarchical constrained proximal policy optimization": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.04128",
+    "title": "Entanglement Allocation for Quantum Integrated Sensing and Communication",
+    "url": "https://arxiv.org/abs/2611.04128"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.04128"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "integrated-sensing-and-communication": 1
+  }
+ },
+ "hierarchical intelligent evolutionary algorithm": {
+  "acronyms": [
+   "HIEA"
+  ],
+  "authors": [
+   "Yaxuan Jiao"
+  ],
+  "display": {
+   "Hierarchical Intelligent Evolutionary Algorithm": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.04474",
+    "title": "Hierarchical Intelligent Evolutionary Optimization for UAV-Assisted NOMA-MEC Systems",
+    "url": "https://arxiv.org/abs/2611.04474"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.04474"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "deep-q-networks": 1
+  }
+ },
+ "high altitude platform": {
+  "acronyms": [
+   "HAP"
+  ],
+  "authors": [
+   "Francesco Nardo"
+  ],
+  "display": {
+   "High-Altitude Platform": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.05503",
+    "title": "Neuromorphic Camera for Multi-Target Pointing Acquisition and Tracking in Free Space Optical Communication",
+    "url": "https://arxiv.org/abs/2611.05503"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.05503"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "free-space-optical-communication": 1
+  }
+ },
+ "high resolution transmission electron microscopy": {
+  "acronyms": [
+   "HRTEM"
+  ],
+  "authors": [
+   "V. Porkalai"
+  ],
+  "display": {
+   "high-resolution transmission electron microscopy": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1007/s44371-026-01064-y",
+    "title": "A review of the biogenic fabrication of metal oxide nanoparticles using phytochemical reducing and stabilizing agents across diverse systems",
+    "url": "https://doi.org/10.1007/s44371-026-01064-y"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.1007/s44371-026-01064-y"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "metal-oxide-nanoparticles": 1
+  }
+ },
+ "hourly wildfire potential index": {
+  "acronyms": [
+   "HWP"
+  ],
+  "authors": [
+   "L. D. Anderson"
+  ],
+  "display": {
+   "Hourly Wildfire Potential index": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1029/2026jd046736",
+    "title": "Examining the Effects of Parameterized Changes in Biomass Burning NO x Emissions on Forecasted Air Quality",
+    "url": "https://doi.org/10.1029/2026jd046736"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.1029/2026jd046736"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "earth-sciences": 1
+  }
+ },
+ "hybrid explainable transformer framework": {
+  "acronyms": [
+   "HETF"
+  ],
+  "authors": [
+   "Mahmud Ahmad Bamanga"
+  ],
+  "display": {
+   "Hybrid Explainable Transformer Framework": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.46481/jnsps.2027.3420",
+    "title": "Exploring the application of machine learning for facies classification in oil and gas exploration",
+    "url": "https://doi.org/10.46481/jnsps.2027.3420"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.46481/jnsps.2027.3420"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "machine-learning": 1
+  }
+ },
+ "hybrid machine learning": {
+  "acronyms": [
+   "HML"
+  ],
+  "authors": [
+   "Sadhana Mishra"
+  ],
+  "display": {
+   "Hybrid Machine Learning": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1038/s41598-026-78058-4",
+    "title": "Hybrid feature selection for dimensionality reduction while preserving predictive performance in breast cancer diagnosis",
+    "url": "https://doi.org/10.1038/s41598-026-78058-4"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.1038/s41598-026-78058-4"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "dimensionality-reduction": 1
+  }
+ },
+ "hydrogen bonded organic framework": {
+  "acronyms": [
+   "HOF"
+  ],
+  "authors": [
+   "Zhenti Xu"
+  ],
+  "display": {
+   "hydrogen-bonded organic framework": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1021/acs.nanolett.6c04640",
+    "title": "Hydrogen-Bonded Organic Framework-Confined Carbon Dots toward Efficient Red Room-Temperature Phosphorescence via Resonance Energy Transfer",
+    "url": "https://doi.org/10.1021/acs.nanolett.6c04640"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.1021/acs.nanolett.6c04640"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "carbon-dots": 1
+  }
+ },
+ "hyper relational knowledge graph": {
+  "acronyms": [
+   "HKGs"
+  ],
+  "authors": [
+   "Jiawei Sun"
+  ],
+  "display": {
+   "Hyper-relational knowledge graphs": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.04809",
+    "title": "RAHC: Rule-Augmented Hyper-Relational Knowledge Graph Completion for Materials Synthesis",
+    "url": "https://arxiv.org/abs/2611.04809"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.04809"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "knowledge-graphs": 1
+  }
+ },
+ "implicit explicit linear multistep method": {
+  "acronyms": [
+   "IMEX-LMMs"
+  ],
+  "authors": [
+   "Chaoyu Quan"
+  ],
+  "display": {
+   "implicit-explicit linear multistep methods": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "arxiv:2605.26592",
+    "title": "Energy Dissipation Analysis of Implicit-Explicit Linear Multistep Methods for Gradient Flows Using a Simple Multiplier",
+    "url": "https://doi.org/10.1137/26m1857554"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2605.26592"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "mathematics": 1
+  }
+ },
+ "implicit neural operator solver": {
+  "acronyms": [
+   "INOS"
+  ],
+  "authors": [
+   "Chawit Kaewnuratchadasorn"
+  ],
+  "display": {
+   "Implicit Neural Operator Solver": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.05439",
+    "title": "Learning Implicit Solves for Dynamic Simulations",
+    "url": "https://arxiv.org/abs/2611.05439"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.05439"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "neural-operators": 1
+  }
+ },
+ "intelligent machine learning framework": {
+  "acronyms": [
+   "IMLF"
+  ],
+  "authors": [
+   "Jyoti Jyoti"
+  ],
+  "display": {
+   "Intelligent Machine Learning Framework": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.25258/ijddt.16.86s.22",
+    "title": "Intelligent Machine Learning Framework for Advanced Cyber Threat Detection: A Focus on Ransomware Attacks",
+    "url": "https://doi.org/10.25258/ijddt.16.86s.22"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.25258/ijddt.16.86s.22"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "machine-learning": 1
+  }
+ },
+ "intelligent maintenance system": {
+  "acronyms": [
+   "IMS"
+  ],
+  "authors": [
+   "Govind Vashishtha"
+  ],
+  "display": {
+   "intelligent maintenance systems": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1177/14759217261495422",
+    "title": "Adaptive optimization of large-margin learning for physics-informed time–frequency maps for the diagnosis of rotating components",
+    "url": "https://doi.org/10.1177/14759217261495422"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.1177/14759217261495422"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "short-time-fourier-transform": 1
+  }
+ },
+ "internet control message protocol": {
+  "acronyms": [
+   "ICMP"
+  ],
+  "authors": [
+   "Jamil Qalandarov"
+  ],
+  "display": {
+   "Internet Control Message Protocol": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.3390/telecom7060143",
+    "title": "Automated Multivendor Network Topology Discovery and Shadow IT Detection Using Asynchronous Hybrid Polling and Graph-Based Anomaly Analysis",
+    "url": "https://doi.org/10.3390/telecom7060143"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.3390/telecom7060143"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "network-security": 1
+  }
+ },
+ "inverse dirac operator method": {
+  "acronyms": [
+   "IDOM"
+  ],
+  "authors": [
+   "Sheng Chen"
+  ],
+  "display": {
+   "Inverse Dirac Operator Method": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "arxiv:2604.11063",
+    "title": "Adaptive log-Laguerre spectral method for the radial Dirac equation: Resolving asymptotic decay and core singularities in atomic calculations",
+    "url": "https://doi.org/10.1103/68lw-r9rq"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2604.11063"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "spectral-methods": 1
+  }
+ },
+ "inverse dynamic model": {
+  "acronyms": [
+   "IDM"
+  ],
+  "authors": [
+   "Seungyong Lee"
+  ],
+  "display": {
+   "inverse dynamics model": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.05163",
+    "title": "RoboTryOn: Synthesizing Dexterous Robot Demonstrations from Human Videos via Virtual Try-On",
+    "url": "https://arxiv.org/abs/2611.05163"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.05163"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "robot-foundation-models": 1
+  }
+ },
+ "joint embedding predictive architecture": {
+  "acronyms": [
+   "JEPA"
+  ],
+  "authors": [
+   "Trong Dao Le"
+  ],
+  "display": {
+   "Joint Embedding Predictive Architecture": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1145/3856815",
+    "title": "Symbolic-JEPA: Where Symbolic AI Meets Joint-Embedding Predictive Architecture for NL–FOL Conversion",
+    "url": "https://doi.org/10.1145/3856815"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.1145/3856815"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "large-language-models": 1
+  }
+ },
+ "kalman filter": {
+  "acronyms": [
+   "KF"
+  ],
+  "authors": [
+   "Emanuele Mengoli"
+  ],
+  "display": {
+   "Kalman filter": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.04592",
+    "title": "System-level performance in massive ISAC networks",
+    "url": "https://arxiv.org/abs/2611.04592"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.04592"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "ray-tracing": 1
+  }
+ },
+ "kernel density estimation": {
+  "acronyms": [
+   "KDE"
+  ],
+  "authors": [
+   "Vladimir A. Orlov"
+  ],
+  "display": {
+   "kernel density estimation": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "arxiv:2608.22379",
+    "title": "Optimal Nonparametric Estimation of Phase-Space Representations for Non-Gaussian Continuous Variable Quantum States",
+    "url": "https://doi.org/10.3390/axioms15110815"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2608.22379"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "density-estimation": 1
+  }
+ },
+ "kernel quantum state estimation": {
+  "acronyms": [
+   "KQSE"
+  ],
+  "authors": [
+   "Vladimir A. Orlov"
+  ],
+  "display": {
+   "Kernel Quantum State Estimation": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "arxiv:2608.22379",
+    "title": "Optimal Nonparametric Estimation of Phase-Space Representations for Non-Gaussian Continuous Variable Quantum States",
+    "url": "https://doi.org/10.3390/axioms15110815"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2608.22379"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "density-estimation": 1
+  }
+ },
+ "koopman patch embedding": {
+  "acronyms": [
+   "KoPE"
+  ],
+  "authors": [
+   "Raz Marshanski"
+  ],
+  "display": {
+   "Koopman Patch Embedding": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.04760",
+    "title": "Koopman Generative Operators for Efficient Probabilistic Time-Series Forecasting",
+    "url": "https://arxiv.org/abs/2611.04760"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.04760"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "flow-matching": 1
+  }
+ },
+ "landslide early warning system": {
+  "acronyms": [
+   "LEWS"
+  ],
+  "authors": [
+   "Roquia Salam"
+  ],
+  "display": {
+   "landslide early warning system": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.5194/nhess-26-5469-2026",
+    "title": "Review article: rainfall-induced landslide early warning systems through the lens of the early warnings for all framework – advances, gaps, and perspectives",
+    "url": "https://doi.org/10.5194/nhess-26-5469-2026"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.5194/nhess-26-5469-2026"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "early-warning-systems": 1
+  }
+ },
+ "large code model": {
+  "acronyms": [
+   "LCMs"
+  ],
+  "authors": [
+   "Md. Zahidul Haque"
+  ],
+  "display": {
+   "Large Code Models": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "arxiv:2601.15094",
+    "title": "Parameter-Efficient Multi-Task Fine-Tuning in Code-Related Tasks",
+    "url": "https://doi.org/10.1145/3860535"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2601.15094"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "parameter-efficient-fine-tuning": 1
+  }
+ },
+ "large foundation model": {
+  "acronyms": [
+   "LFMs"
+  ],
+  "authors": [
+   "Chuancheng Shi"
+  ],
+  "display": {
+   "large foundation models": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.04878",
+    "title": "TraceRouter++: Causal Semantic Routing Realignment via Optimal Transport",
+    "url": "https://arxiv.org/abs/2611.04878"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.04878"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "large-language-models": 1
+  }
+ },
+ "large reasoning model": {
+  "acronyms": [
+   "LRMs"
+  ],
+  "authors": [
+   "Masoud Poorghaffar Aghdam"
+  ],
+  "display": {
+   "Large Reasoning Models": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.04717",
+    "title": "BrainwashedLLM: Jailbreaking via Automated Adversarial Chain of Thoughts Discovery",
+    "url": "https://arxiv.org/abs/2611.04717"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.04717"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "llm-reasoning-methods": 1
+  }
+ },
+ "large vision language model": {
+  "acronyms": [
+   "LVLMs"
+  ],
+  "authors": [
+   "Riasad Alvi",
+   "Zihao Qi",
+   "Dimitrios Bekris",
+   "Chenyu Yi",
+   "Junsung Park"
+  ],
+  "display": {
+   "Large Vision Language Models": 1,
+   "Large Vision-Language Models": 2,
+   "Large vision-language models": 1,
+   "large vision-language models": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.04438",
+    "title": "Entropy-Gated Dynamic Rectification for Object Hallucination in Large Vision-Language Models",
+    "url": "https://arxiv.org/abs/2611.04438"
+   },
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.04537",
+    "title": "BtsPruner: Role-Aware Visual Token Pruning for Large Vision-Language Models",
+    "url": "https://arxiv.org/abs/2611.04537"
+   },
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.04708",
+    "title": "CLARA: A Cognitively-Driven Clarification Framework for Grounding Ambiguous Requests",
+    "url": "https://arxiv.org/abs/2611.04708"
+   },
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.04817",
+    "title": "The Pen is Mightier than the Pixel: Natural Textual Unlearnable Example for Large Vision Language Models",
+    "url": "https://arxiv.org/abs/2611.04817"
+   },
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.04903",
+    "title": "Heads That Write, Not Just Point: Image Retrieval Heads in Vision-Language Models",
+    "url": "https://arxiv.org/abs/2611.04903"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.04438",
+   "arxiv:2611.04537",
+   "arxiv:2611.04708",
+   "arxiv:2611.04817",
+   "arxiv:2611.04903"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "vision-language-models": 5
+  }
+ },
+ "lateral flow assay": {
+  "acronyms": [
+   "LFA"
+  ],
+  "authors": [
+   "Teng Qin"
+  ],
+  "display": {
+   "lateral flow assay": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.3390/biology15211980",
+    "title": "Lateral Flow Assays for Pathogen Detection: Reporting Mechanisms and Applications",
+    "url": "https://doi.org/10.3390/biology15211980"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.3390/biology15211980"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "point-of-care-diagnostics": 1
+  }
+ },
+ "latin hypercube sampling": {
+  "acronyms": [
+   "LHS"
+  ],
+  "authors": [
+   "Thabang Khahloe"
+  ],
+  "display": {
+   "Latin Hypercube Sampling": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1016/j.esd.2026.102178",
+    "title": "Sensitivity analysis of a solar-biomass hybrid cooler with artificial neural network and engineering equation solver",
+    "url": "https://doi.org/10.1016/j.esd.2026.102178"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.1016/j.esd.2026.102178"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "mechanical-engineering": 1
+  }
+ },
+ "layer wise progressive positional embedding": {
+  "acronyms": [
+   "LPPE"
+  ],
+  "authors": [
+   "Qiao Li"
+  ],
+  "display": {
+   "Layer-wise Progressive Positional Embedding": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.04980",
+    "title": "ProAlign: Progressive Positional and Prototype-Guided Alignment for Aerial-Ground Person Re-Identification",
+    "url": "https://arxiv.org/abs/2611.04980"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.04980"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "positional-encodings": 1
+  }
+ },
+ "leaf area index": {
+  "acronyms": [
+   "LAI"
+  ],
+  "authors": [
+   "Dongchen Zhang"
+  ],
+  "display": {
+   "leaf area index": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.64898/2026.10.30.763121",
+    "title": "Harmonizing Repeated Multi-Platform Optical and LiDAR Observations for Continental-Scale Terrestrial Carbon Cycle Data Assimilation.",
+    "url": "https://doi.org/10.64898/2026.10.30.763121"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.64898/2026.10.30.763121"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "data-assimilation": 1
+  }
+ },
+ "linear stochastic attention": {
+  "acronyms": [
+   "LiSA"
+  ],
+  "authors": [
+   "Sahar Dastani"
+  ],
+  "display": {
+   "Linear Stochastic Attention": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.04216",
+    "title": "LiSA: Linear Stochastic Attention for Long-Range Visual Modeling",
+    "url": "https://arxiv.org/abs/2611.04216"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.04216"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "attention-mechanisms": 1
+  }
+ },
+ "link layer discovery protocol": {
+  "acronyms": [
+   "LLDP"
+  ],
+  "authors": [
+   "Jamil Qalandarov"
+  ],
+  "display": {
+   "Link Layer Discovery Protocol": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.3390/telecom7060143",
+    "title": "Automated Multivendor Network Topology Discovery and Shadow IT Detection Using Asynchronous Hybrid Polling and Graph-Based Anomaly Analysis",
+    "url": "https://doi.org/10.3390/telecom7060143"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.3390/telecom7060143"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "network-security": 1
+  }
+ },
+ "liver imaging reporting and data system": {
+  "acronyms": [
+   "LI-RADS"
+  ],
+  "authors": [
+   "Eric Lam"
+  ],
+  "display": {
+   "Liver Imaging Reporting and Data System": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1002/jmri.70592",
+    "title": "Simplifying CT / MRI LI ‐ RADS v2018 Maintains Diagnostic Performance: An Individual Participant Data Meta‐Analysis",
+    "url": "https://doi.org/10.1002/jmri.70592"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.1002/jmri.70592"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "magnetic-resonance-imaging": 1
+  }
+ },
+ "low order value optimization": {
+  "acronyms": [
+   "LOVO"
+  ],
+  "authors": [
+   "Anderson Ervino Schwertner"
+  ],
+  "display": {
+   "Low Order-Value Optimization": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "arxiv:2511.20783",
+    "title": "A derivative-free trust-region approach for Low Order-Value Optimization problems",
+    "url": "https://doi.org/10.1007/s10898-026-01656-z"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2511.20783"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "optimization": 1
+  }
+ },
+ "low resource language": {
+  "acronyms": [
+   "LRLs"
+  ],
+  "authors": [
+   "Toneema Zubair"
+  ],
+  "display": {
+   "Low Resource Languages": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.04342",
+    "title": "Beyond Fine-Tuning: Evaluating Prompt Engineering and Prompt Tuning for Roman Urdu Hate Speech Detection",
+    "url": "https://arxiv.org/abs/2611.04342"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.04342"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "parameter-efficient-fine-tuning": 1
+  }
+ },
+ "lyrebird optimizer algorithm": {
+  "acronyms": [
+   "LOA"
+  ],
+  "authors": [
+   "Sayaprasad Mohapatra"
+  ],
+  "display": {
+   "Lyrebird Optimizer Algorithm": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1007/s43937-026-00215-7",
+    "title": "Advanced adaptive control of photovoltaic systems through LOA-tuned hybrid ANFIS–2DoF-FOPIDN",
+    "url": "https://doi.org/10.1007/s43937-026-00215-7"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.1007/s43937-026-00215-7"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "photovoltaics": 1
+  }
+ },
+ "media access control": {
+  "acronyms": [
+   "MAC"
+  ],
+  "authors": [
+   "Jamil Qalandarov"
+  ],
+  "display": {
+   "media access control": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.3390/telecom7060143",
+    "title": "Automated Multivendor Network Topology Discovery and Shadow IT Detection Using Asynchronous Hybrid Polling and Graph-Based Anomaly Analysis",
+    "url": "https://doi.org/10.3390/telecom7060143"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.3390/telecom7060143"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "network-security": 1
+  }
+ },
+ "memory augmented in context reinforcement learning": {
+  "acronyms": [
+   "MAIC-RL"
+  ],
+  "authors": [
+   "Shengjun Kris Dong"
+  ],
+  "display": {
+   "Memory-Augmented In-Context Reinforcement Learning": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.04104",
+    "title": "ModelBlaster: Closing the Performance Gap through Learning-Augmented Agents Across Models, Kernels and Hardware Backends",
+    "url": "https://arxiv.org/abs/2611.04104"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.04104"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "risc-architectures": 1
+  }
+ },
+ "mesenchymal stem cell": {
+  "acronyms": [
+   "MSC",
+   "MSCs"
+  ],
+  "authors": [
+   "Mafewu Olga Raboshakga",
+   "Kawsar Ahmad"
+  ],
+  "display": {
+   "Mesenchymal Stem Cells": 1,
+   "Mesenchymal stem cell": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.20517/evcna.2026.138",
+    "title": "PSMA-targeted extracellular vesicles deliver siADAM9 to suppress tumor progression and enhance androgen-targeted therapy in prostate cancer",
+    "url": "https://doi.org/10.20517/evcna.2026.138"
+   },
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.46889/jrmbr.2026.7307",
+    "title": "Immunomodulation and Regeneration: The Role of Stem Cell Therapy in Autoimmune Disorders",
+    "url": "https://doi.org/10.46889/jrmbr.2026.7307"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.20517/evcna.2026.138",
+   "doi:10.46889/jrmbr.2026.7307"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "cell-cycle": 1,
+   "stem-cell-therapy": 1
+  }
+ },
+ "mixture density network": {
+  "acronyms": [
+   "MDN"
+  ],
+  "authors": [
+   "Yingji Bao"
+  ],
+  "display": {
+   "Mixture Density Network": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1038/s41598-026-78198-7",
+    "title": "Path-aware data-driven computational mechanics for elastoplastic bedded rock",
+    "url": "https://doi.org/10.1038/s41598-026-78198-7"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.1038/s41598-026-78198-7"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "rock-mechanics": 1
+  }
+ },
+ "mode locked laser": {
+  "acronyms": [
+   "MLL"
+  ],
+  "authors": [
+   "Amit Kumar Mishra"
+  ],
+  "display": {
+   "mode-locked laser": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.3390/computers15110781",
+    "title": "Optical Communication-Sensing (O-CommSense): Fiber Sensing Using Ultra-Short Pulse Locking and Machine Learning for Physical Event Detection",
+    "url": "https://doi.org/10.3390/computers15110781"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.3390/computers15110781"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "optical-communications": 1
+  }
+ },
+ "model context protocol": {
+  "acronyms": [
+   "MCP"
+  ],
+  "authors": [
+   "Olabode T. Ajenifujah",
+   "Matthias Blum"
+  ],
+  "display": {
+   "Model Context Protocol": 2
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.05171",
+    "title": "AgentAM: An AI Agent for Spatter- and Defect-Aware Process Optimization in Laser Powder Bed Fusion",
+    "url": "https://arxiv.org/abs/2611.05171"
+   },
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1093/nar/gkag1114",
+    "title": "InterPro: the protein sequence classification resource in 2027",
+    "url": "https://doi.org/10.1093/nar/gkag1114"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.05171",
+   "doi:10.1093/nar/gkag1114"
+  ],
+  "sources": [
+   "arxiv",
+   "openalex"
+  ],
+  "techs": {
+   "laser-powder-bed-fusion": 1,
+   "molecular-biology": 1
+  }
+ },
+ "model predictive controller": {
+  "acronyms": [
+   "MPC"
+  ],
+  "authors": [
+   "Haitham El-Hussieny"
+  ],
+  "display": {
+   "model predictive controller": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.04357",
+    "title": "Moving Horizon Estimation and Constrained Model Predictive Control for Balancing a Wheel-Legged Robot Under Unknown Disturbances",
+    "url": "https://arxiv.org/abs/2611.04357"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.04357"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "model-predictive-control": 1
+  }
+ },
+ "monocular depth estimation": {
+  "acronyms": [
+   "MDE"
+  ],
+  "authors": [
+   "Jaemin Choi"
+  ],
+  "display": {
+   "Monocular depth estimation": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.04491",
+    "title": "SPA-Q: Structure-Preserving Adaptive Post-Training Quantization for Monocular Depth Estimation",
+    "url": "https://arxiv.org/abs/2611.04491"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.04491"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "depth-estimation": 1
+  }
+ },
+ "movable antenna": {
+  "acronyms": [
+   "MA",
+   "MAs"
+  ],
+  "authors": [
+   "Jinshuo Zhang",
+   "Wei Guo",
+   "Amna Irshad"
+  ],
+  "display": {
+   "Movable antenna": 1,
+   "Movable antennas": 1,
+   "movable antenna": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.04433",
+    "title": "Movable Antenna Aided Robust Wireless Transmission: From Model-Based Optimization to Scalable Reinforcement Learning",
+    "url": "https://arxiv.org/abs/2611.04433"
+   },
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.04552",
+    "title": "Mutual-Coupling-Aware Joint Precoding and Antenna Positioning for Movable-Antenna MU-MIMO Systems",
+    "url": "https://arxiv.org/abs/2611.04552"
+   },
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.04918",
+    "title": "Joint Channel Scanning and Geometry-Aware Codebook Design for Movable Antenna Arrays",
+    "url": "https://arxiv.org/abs/2611.04918"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.04433",
+   "arxiv:2611.04552",
+   "arxiv:2611.04918"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "antennas": 1,
+   "mimo-systems": 1,
+   "reinforcement-learning": 1
+  }
+ },
+ "moving horizon estimator": {
+  "acronyms": [
+   "MHE"
+  ],
+  "authors": [
+   "Haitham El-Hussieny"
+  ],
+  "display": {
+   "moving horizon estimator": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.04357",
+    "title": "Moving Horizon Estimation and Constrained Model Predictive Control for Balancing a Wheel-Legged Robot Under Unknown Disturbances",
+    "url": "https://arxiv.org/abs/2611.04357"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.04357"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "model-predictive-control": 1
+  }
+ },
+ "multi band equivalent source attribution network": {
+  "acronyms": [
+   "MESA-Net"
+  ],
+  "authors": [
+   "Zeju Liu"
+  ],
+  "display": {
+   "Multi-band Equivalent-Source Attribution Network": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.3390/signals7060110",
+    "title": "Interpretable Multi-Band Spectral Learning for In-Cabin Magnetic-Field Prediction and Equivalent-Source Attribution",
+    "url": "https://doi.org/10.3390/signals7060110"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.3390/signals7060110"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "electromagnetic-compatibility": 1
+  }
+ },
+ "multi head deep q network": {
+  "acronyms": [
+   "MH-DQN"
+  ],
+  "authors": [
+   "Yaxuan Jiao"
+  ],
+  "display": {
+   "multi-head deep Q-network": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.04474",
+    "title": "Hierarchical Intelligent Evolutionary Optimization for UAV-Assisted NOMA-MEC Systems",
+    "url": "https://arxiv.org/abs/2611.04474"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.04474"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "deep-q-networks": 1
+  }
+ },
+ "multi teacher on policy distillation": {
+  "acronyms": [
+   "MOPD"
+  ],
+  "authors": [
+   "Yichen Wang"
+  ],
+  "display": {
+   "Multi-teacher on-policy distillation": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.05609",
+    "title": "On the Generalization Limitation of On-Policy Distillation for Post-RL Consolidation",
+    "url": "https://arxiv.org/abs/2611.05609"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.05609"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "reinforcement-learning": 1
+  }
+ },
+ "multimodal large language model": {
+  "acronyms": [
+   "MLLM",
+   "MLLMs"
+  ],
+  "authors": [
+   "Renkai Yi",
+   "Suifeng Zhao",
+   "Yiding Tian",
+   "Chuancheng Shi",
+   "Christian Pipal",
+   "WonJun Moon",
+   "Pratyush Ramakrishna"
+  ],
+  "display": {
+   "Multimodal Large Language Models": 2,
+   "Multimodal large language models": 2,
+   "multimodal large language model": 1,
+   "multimodal large language models": 2
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.04226",
+    "title": "DiMuRe: Diagnosis-Guided Multilevel Recovery for Robotic Task Execution",
+    "url": "https://arxiv.org/abs/2611.04226"
+   },
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.04504",
+    "title": "AttriSwarm: Orchestrating Agent Swarms for Cross-Page Visual Attribution",
+    "url": "https://arxiv.org/abs/2611.04504"
+   },
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.04811",
+    "title": "NightIQA: A Comprehensive Dataset and Benchmark for MLLM-Based Nighttime Image Quality Assessment",
+    "url": "https://arxiv.org/abs/2611.04811"
+   },
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.04878",
+    "title": "TraceRouter++: Causal Semantic Routing Realignment via Optimal Transport",
+    "url": "https://arxiv.org/abs/2611.04878"
+   },
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.05181",
+    "title": "What Does the Model See? Representation Validity in Multimodal LLM-Based Video Analysis",
+    "url": "https://arxiv.org/abs/2611.05181"
+   },
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.05193",
+    "title": "Factorized MLLM Embeddings for Composed Image Retrieval",
+    "url": "https://arxiv.org/abs/2611.05193"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.04226",
+   "arxiv:2611.04504",
+   "arxiv:2611.04811",
+   "arxiv:2611.04878",
+   "arxiv:2611.05181",
+   "arxiv:2611.05193",
+   "doi:10.64898/2026.10.30.26366929"
+  ],
+  "sources": [
+   "arxiv",
+   "openalex"
+  ],
+  "techs": {
+   "image-quality-assessment": 1,
+   "large-language-models": 5,
+   "vision-language-models": 1
+  }
+ },
+ "multimodal scholarly attention network": {
+  "acronyms": [
+   "MM-SAN"
+  ],
+  "authors": [
+   "Ornella Irrera"
+  ],
+  "display": {
+   "Multimodal Scholarly Attention Network": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.05071",
+    "title": "Dataset Recommendation for Heterogeneous and Dynamic Scholarly Graphs via Multimodal Representation Learning",
+    "url": "https://arxiv.org/abs/2611.05071"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.05071"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "representation-learning": 1
+  }
+ },
+ "myofibrillar fragmentation index": {
+  "acronyms": [
+   "MFI"
+  ],
+  "authors": [
+   "Haeun Kim"
+  ],
+  "display": {
+   "Myofibrillar fragmentation index": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.5713/ab.260552",
+    "title": "Effects of fig and kiwifruit extract injection combined with ultrasound treatment on proteolysis and tenderness of low-grade Holstein beef",
+    "url": "https://doi.org/10.5713/ab.260552"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.5713/ab.260552"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "animal-science": 1
+  }
+ },
+ "natural language": {
+  "acronyms": [
+   "NL"
+  ],
+  "authors": [
+   "Trong Dao Le"
+  ],
+  "display": {
+   "natural language": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1145/3856815",
+    "title": "Symbolic-JEPA: Where Symbolic AI Meets Joint-Embedding Predictive Architecture for NL–FOL Conversion",
+    "url": "https://doi.org/10.1145/3856815"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.1145/3856815"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "large-language-models": 1
+  }
+ },
+ "navigated subthreshold micropulse laser": {
+  "acronyms": [
+   "NSML"
+  ],
+  "authors": [
+   "Alba Chiara Termite"
+  ],
+  "display": {
+   "navigated subthreshold micropulse laser": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1007/s40123-026-01535-6",
+    "title": "Long-Term Anatomical Response to Navigated Micropulse Laser in Chronic Central Serous Chorioretinopathy: A 24-Month Longitudinal Study",
+    "url": "https://doi.org/10.1007/s40123-026-01535-6"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.1007/s40123-026-01535-6"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "optical-coherence-tomography": 1
+  }
+ },
+ "near infrared spectroscopy": {
+  "acronyms": [
+   "NIRS"
+  ],
+  "authors": [
+   "Justin Gonzalez"
+  ],
+  "display": {
+   "near-infrared spectroscopy": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1088/2057-1976/aebc90",
+    "title": "Non-invasive near-infrared measurement of blood concentration in chest tube output: a proof-of-concept study",
+    "url": "https://doi.org/10.1088/2057-1976/aebc90"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.1088/2057-1976/aebc90"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "medical-devices": 1
+  }
+ },
+ "network management system": {
+  "acronyms": [
+   "NMSs"
+  ],
+  "authors": [
+   "Jamil Qalandarov"
+  ],
+  "display": {
+   "Network Management Systems": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.3390/telecom7060143",
+    "title": "Automated Multivendor Network Topology Discovery and Shadow IT Detection Using Asynchronous Hybrid Polling and Graph-Based Anomaly Analysis",
+    "url": "https://doi.org/10.3390/telecom7060143"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.3390/telecom7060143"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "network-security": 1
+  }
+ },
+ "normalized difference moisture index": {
+  "acronyms": [
+   "NDMI"
+  ],
+  "authors": [
+   "Sinan Kordon"
+  ],
+  "display": {
+   "normalized difference moisture index": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.3390/plants15213401",
+    "title": "Spectral Responses of Urban and Peri-Urban Woody Canopy to Recurrent Drought: A Matched Three-City Pilot",
+    "url": "https://doi.org/10.3390/plants15213401"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.3390/plants15213401"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "remote-sensing": 1
+  }
+ },
+ "normalized raman imaging": {
+  "acronyms": [
+   "NoRI"
+  ],
+  "authors": [
+   "William V. Trim"
+  ],
+  "display": {
+   "Normalized Raman Imaging": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.64898/2026.10.28.762545",
+    "title": "Quantitative imaging of native tissue architecture combined with deep multi-omics reveals the spatial biology of kidney aging",
+    "url": "https://doi.org/10.64898/2026.10.28.762545"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.64898/2026.10.28.762545"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "multi-omics": 1
+  }
+ },
+ "novel view synthesis": {
+  "acronyms": [
+   "NVS"
+  ],
+  "authors": [
+   "Yuke Xing"
+  ],
+  "display": {
+   "novel view synthesis": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.04498",
+    "title": "3DGS-VBench+ and 3DGSV-Assessor: A Multi-Dimensional Subjective Benchmark and a Reference-Flexible Objective Model for 3D Gaussian Splatting Video Quality Assessment",
+    "url": "https://arxiv.org/abs/2611.04498"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.04498"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "gaussian-splatting": 1
+  }
+ },
+ "on policy distillation": {
+  "acronyms": [
+   "OPD"
+  ],
+  "authors": [
+   "Xujing Wang",
+   "Yichen Wang"
+  ],
+  "display": {
+   "on-policy distillation": 2
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.04259",
+    "title": "ReuseGR: Offline--Online Decoupled Generative Retrieval via Adaptive Prefix Reuse",
+    "url": "https://arxiv.org/abs/2611.04259"
+   },
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.05609",
+    "title": "On the Generalization Limitation of On-Policy Distillation for Post-RL Consolidation",
+    "url": "https://arxiv.org/abs/2611.05609"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.04259",
+   "arxiv:2611.05609"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "knowledge-distillation": 1,
+   "reinforcement-learning": 1
+  }
+ },
+ "on policy self distillation": {
+  "acronyms": [
+   "OPSD"
+  ],
+  "authors": [
+   "Qingyuan Zheng",
+   "Dian Jin",
+   "Zeyu Fang"
+  ],
+  "display": {
+   "On-Policy Self-Distillation": 1,
+   "On-policy self-distillation": 1,
+   "on-policy self-distillation": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.04958",
+    "title": "Shuffled OPSD: When Semantic Consistency Hurts On-Policy Self-Distillation?",
+    "url": "https://arxiv.org/abs/2611.04958"
+   },
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.05313",
+    "title": "MDSKILL: Learning to Internalize Skill Memory through Multi-View Distillation for Efficient Dynamic Agent Self-Evolution",
+    "url": "https://arxiv.org/abs/2611.05313"
+   },
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.05636",
+    "title": "Route to Remember: Adaptive Memory Selection for LLM Agents",
+    "url": "https://arxiv.org/abs/2611.05636"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.04958",
+   "arxiv:2611.05313",
+   "arxiv:2611.05636"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "knowledge-distillation": 1,
+   "large-language-models": 1,
+   "reinforcement-learning": 1
+  }
+ },
+ "open radio access network": {
+  "acronyms": [
+   "O-RAN"
+  ],
+  "authors": [
+   "Sneihil Gopal"
+  ],
+  "display": {
+   "Open Radio Access Network": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.04330",
+    "title": "CORA: Teacher-Guided Causal O-RAN Adaptation for Jamming Detection",
+    "url": "https://arxiv.org/abs/2611.04330"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.04330"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "open-ran": 1
+  }
+ },
+ "oswestry disability index": {
+  "acronyms": [
+   "ODI"
+  ],
+  "authors": [
+   "Guoxiang Jiang"
+  ],
+  "display": {
+   "Oswestry Disability Index": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1097/bn9.0000000000000158",
+    "title": "Extracorporeal Spinal Orthosis-Fixation With Progressive Distraction for Severe Spinal Tuberculosis Kyphosis: A Technical Case Series With Long-Term Follow-Up",
+    "url": "https://doi.org/10.1097/bn9.0000000000000158"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.1097/bn9.0000000000000158"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "infectious-diseases": 1
+  }
+ },
+ "packaged decentralized wastewater system": {
+  "acronyms": [
+   "PDWWTS"
+  ],
+  "authors": [
+   "Rojalin Sahu"
+  ],
+  "display": {
+   "packaged decentralized wastewater systems": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1021/acsestengg.6c00643",
+    "title": "Effect of Successive Shock Events on the Performance of a Packaged Decentralized Wastewater Treatment System (PDWWTS) over 1000-Day Operation",
+    "url": "https://doi.org/10.1021/acsestengg.6c00643"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.1021/acsestengg.6c00643"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "wastewater-treatment": 1
+  }
+ },
+ "packaged decentralized wastewater treatment system": {
+  "acronyms": [
+   "PDWWTS"
+  ],
+  "authors": [
+   "Rojalin Sahu"
+  ],
+  "display": {
+   "Packaged Decentralized Wastewater Treatment System": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1021/acsestengg.6c00643",
+    "title": "Effect of Successive Shock Events on the Performance of a Packaged Decentralized Wastewater Treatment System (PDWWTS) over 1000-Day Operation",
+    "url": "https://doi.org/10.1021/acsestengg.6c00643"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.1021/acsestengg.6c00643"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "wastewater-treatment": 1
+  }
+ },
+ "partial reinforcement optimizer": {
+  "acronyms": [
+   "PRO"
+  ],
+  "authors": [
+   "Sijia Chen"
+  ],
+  "display": {
+   "Partial Reinforcement Optimizer": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1080/09205071.2026.2751945",
+    "title": "Signal strength estimation in radio frequency systems under varying operational and environmental factors",
+    "url": "https://doi.org/10.1080/09205071.2026.2751945"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.1080/09205071.2026.2751945"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "internet-of-things": 1
+  }
+ },
+ "partition of unity network": {
+  "acronyms": [
+   "POUNets"
+  ],
+  "authors": [
+   "Sarah Helfert"
+  ],
+  "display": {
+   "Partition of Unity Networks": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.05659",
+    "title": "Adaptive Domain Decomposition for Finite Basis Physics-Informed Neural Networks",
+    "url": "https://arxiv.org/abs/2611.05659"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.05659"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "physics-informed-neural-networks": 1
+  }
+ },
+ "peripheral blood mononuclear cell": {
+  "acronyms": [
+   "PBMCs",
+   "PBMC"
+  ],
+  "authors": [
+   "Oceane Martinez",
+   "Zhen Gong",
+   "Carrie S. Meeks-Patience"
+  ],
+  "display": {
+   "peripheral blood mononuclear cell": 1,
+   "peripheral blood mononuclear cells": 2
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1186/s40478-026-02464-y",
+    "title": "Blood-brain barrier model architecture shapes peripheral immune cell trafficking in Parkinson’s disease",
+    "url": "https://doi.org/10.1186/s40478-026-02464-y"
+   },
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1186/s12866-026-05860-5",
+    "title": "From pathogen burden to host response: complement remodeling as a marker of TB activity",
+    "url": "https://doi.org/10.1186/s12866-026-05860-5"
+   },
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.3389/fimmu.2026.1968450",
+    "title": "Single-cell RNA sequencing delineates compositional and transcriptional changes of porcine peripheral blood mononuclear cell populations following Salmonella I 4,[5],12:i:- inoculation",
+    "url": "https://doi.org/10.3389/fimmu.2026.1968450"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.1186/s40478-026-02464-y",
+   "doi:10.1186/s12866-026-05860-5",
+   "doi:10.3389/fimmu.2026.1968450"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "flow-cytometry": 1,
+   "infectious-diseases": 1,
+   "organ-on-a-chip": 1
+  }
+ },
+ "physic guided neural network": {
+  "acronyms": [
+   "PGNN"
+  ],
+  "authors": [
+   "Elias Assaad"
+  ],
+  "display": {
+   "physics-guided neural network": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1002/aidi.70170",
+    "title": "Physics‐Guided Modeling of Temperature‐Dependent Electrical Conductivity of Functional Oxides",
+    "url": "https://doi.org/10.1002/aidi.70170"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.1002/aidi.70170"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "thermoelectric-materials": 1
+  }
+ },
+ "physic informed multimodal transformer": {
+  "acronyms": [
+   "PIMT"
+  ],
+  "authors": [
+   "Xudong Li"
+  ],
+  "display": {
+   "physics-informed multimodal transformer": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1080/01431161.2026.2755540",
+    "title": "Functional green illusion in global semi-arid carbon uptake revealed by physics-informed AI",
+    "url": "https://doi.org/10.1080/01431161.2026.2755540"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.1080/01431161.2026.2755540"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "remote-sensing": 1
+  }
+ },
+ "picture archiving and communication system": {
+  "acronyms": [
+   "PACS"
+  ],
+  "authors": [
+   "Mohammad Taofeek Adejare"
+  ],
+  "display": {
+   "Picture Archiving and Communication System": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.64726/9m3pn194",
+    "title": "Mammographic findings in opportunistic breast cancer screening in a private diagnostic centre in Mushin, Lagos, Nigeria",
+    "url": "https://doi.org/10.64726/9m3pn194"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.64726/9m3pn194"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "digital-radiography": 1
+  }
+ },
+ "plasma enhanced atomic layer deposition": {
+  "acronyms": [
+   "PEALD"
+  ],
+  "authors": [
+   "V. Smolyaninova"
+  ],
+  "display": {
+   "plasma-enhanced atomic layer deposition": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1038/s41598-026-75743-2",
+    "title": "TiN/dielectric nanolaminates: effects of metamaterial engineering and disorder on the superconductive properties",
+    "url": "https://doi.org/10.1038/s41598-026-75743-2"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.1038/s41598-026-75743-2"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "atomic-layer-deposition": 1
+  }
+ },
+ "polarimetric scattering structure contrastive learning": {
+  "acronyms": [
+   "PSS-CL"
+  ],
+  "authors": [
+   "Fangyi Wang"
+  ],
+  "display": {
+   "polarimetric scattering-structure contrastive learning": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.04490",
+    "title": "Polarimetric Scattering-Structure Contrastive Learning for Few-Shot HRRP Recognition",
+    "url": "https://arxiv.org/abs/2611.04490"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.04490"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "contrastive-learning": 1
+  }
+ },
+ "policy optimization": {
+  "acronyms": [
+   "PPO"
+  ],
+  "authors": [
+   "Sneihil Gopal"
+  ],
+  "display": {
+   "Policy Optimization": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.04330",
+    "title": "CORA: Teacher-Guided Causal O-RAN Adaptation for Jamming Detection",
+    "url": "https://arxiv.org/abs/2611.04330"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.04330"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "open-ran": 1
+  }
+ },
+ "portable emission measurement system": {
+  "acronyms": [
+   "PEMS"
+  ],
+  "authors": [
+   "Zhiwei Wang"
+  ],
+  "display": {
+   "Portable Emission Measurement System": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.3390/environments13110612",
+    "title": "Research on Emission Inventory and Emission Reduction Benefits Assessment of Non-Road Construction Machinery in Tangshan Port",
+    "url": "https://doi.org/10.3390/environments13110612"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.3390/environments13110612"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "automotive-engineering": 1
+  }
+ },
+ "post stratified importance sampling": {
+  "acronyms": [
+   "PIS"
+  ],
+  "authors": [
+   "Yuling Yao"
+  ],
+  "display": {
+   "post-stratified importance sampling": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.05238",
+    "title": "Post-stratified importance sampling",
+    "url": "https://arxiv.org/abs/2611.05238"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.05238"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "importance-sampling": 1
+  }
+ },
+ "post training quantization": {
+  "acronyms": [
+   "PTQ"
+  ],
+  "authors": [
+   "Jaemin Choi",
+   "Syed Umer Bukhari"
+  ],
+  "display": {
+   "Post-Training Quantization": 1,
+   "Post-training quantization": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.04491",
+    "title": "SPA-Q: Structure-Preserving Adaptive Post-Training Quantization for Monocular Depth Estimation",
+    "url": "https://arxiv.org/abs/2611.04491"
+   },
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.05093",
+    "title": "LoopQ: Fair, Closed-Loop Evaluation of Quantized Vision-Language-Action Models",
+    "url": "https://arxiv.org/abs/2611.05093"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.04491",
+   "arxiv:2611.05093"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "depth-estimation": 1,
+   "vision-language-action-models": 1
+  }
+ },
+ "practical image coding agent": {
+  "acronyms": [
+   "PICA"
+  ],
+  "authors": [
+   "Zhenghao Chen"
+  ],
+  "display": {
+   "Practical Image Coding Agents": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.04960",
+    "title": "An Agentic Framework for Quality-Aware and Scenario-Adaptive Image Compression",
+    "url": "https://arxiv.org/abs/2611.04960"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.04960"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "image-compression": 1
+  }
+ },
+ "prefix expanded adversarial reinforcement learning": {
+  "acronyms": [
+   "PEARL"
+  ],
+  "authors": [
+   "Luxi He"
+  ],
+  "display": {
+   "Prefix-Expanded Adversarial Reinforcement Learning": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.05358",
+    "title": "Suppressing Misaligned Behaviors in Language Models, Durably",
+    "url": "https://arxiv.org/abs/2611.05358"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.05358"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "reinforcement-learning": 1
+  }
+ },
+ "primal dual hybrid gradient method": {
+  "acronyms": [
+   "PDHG"
+  ],
+  "authors": [
+   "Jacob Dentes"
+  ],
+  "display": {
+   "primal-dual hybrid gradient method": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.05076",
+    "title": "Reformulation Techniques for PDLP with Applications to QUBO and Joint Replenishment",
+    "url": "https://arxiv.org/abs/2611.05076"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.05076"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "interior-point-methods": 1
+  }
+ },
+ "progressive action space q learning": {
+  "acronyms": [
+   "PAS-Q"
+  ],
+  "authors": [
+   "Yifan Wang"
+  ],
+  "display": {
+   "Progressive Action-Space Q-learning": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.04588",
+    "title": "Adaptive Self-Optimization of Polarization Efficiency for Low-Power NV Center Thermometers Based on PAS-Q",
+    "url": "https://arxiv.org/abs/2611.04588"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.04588"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "color-center-qubits": 1
+  }
+ },
+ "prostate imaging reporting and data system": {
+  "acronyms": [
+   "PI-RADS"
+  ],
+  "authors": [
+   "Seungbin Park"
+  ],
+  "display": {
+   "Prostate Imaging Reporting and Data System": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.04155",
+    "title": "Improving PI-RADS Prediction and Prostate Cancer Detection from Multiparametric MRI with Anatomical Guidance",
+    "url": "https://arxiv.org/abs/2611.04155"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.04155"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "deep-learning": 1
+  }
+ },
+ "prototype contrastive learning": {
+  "acronyms": [
+   "PCL"
+  ],
+  "authors": [
+   "Qiao Li"
+  ],
+  "display": {
+   "Prototype Contrastive Learning": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.04980",
+    "title": "ProAlign: Progressive Positional and Prototype-Guided Alignment for Aerial-Ground Person Re-Identification",
+    "url": "https://arxiv.org/abs/2611.04980"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.04980"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "positional-encodings": 1
+  }
+ },
+ "prototype guided semantic reliability estimation": {
+  "acronyms": [
+   "PSRE"
+  ],
+  "authors": [
+   "Yunfei Zhu"
+  ],
+  "display": {
+   "Prototype-guided Semantic Reliability Estimation": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.04257",
+    "title": "ProGeo-RC: Prototype-guided Semantic Reliability and Geometric Error Calibration for Semi-supervised Cardiac Image Segmentation",
+    "url": "https://arxiv.org/abs/2611.04257"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.04257"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "image-segmentation": 1
+  }
+ },
+ "pulsed gate spectroscopy": {
+  "acronyms": [
+   "PGS"
+  ],
+  "authors": [
+   "Connor Nasseraddin"
+  ],
+  "display": {
+   "pulsed-gate spectroscopy": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "arxiv:2607.11048",
+    "title": "Spectroscopy of low-lying valley states in hot Si/SiGe quantum dots",
+    "url": "https://doi.org/10.1063/5.0352205"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2607.11048"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "semiconductor-spin-qubits": 1
+  }
+ },
+ "quadratic unconstrained binary optimization": {
+  "acronyms": [
+   "QUBO"
+  ],
+  "authors": [
+   "Ying-Yi Hong",
+   "Jacob Dentes"
+  ],
+  "display": {
+   "Quadratic Unconstrained Binary Optimization": 1,
+   "quadratic unconstrained binary optimization": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.05030",
+    "title": "On Revolutionizing Power Systems: Suitability of Quantum Computing-Ready Pipelines for Stochastic Unit Commitment Optimization",
+    "url": "https://arxiv.org/abs/2611.05030"
+   },
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.05076",
+    "title": "Reformulation Techniques for PDLP with Applications to QUBO and Joint Replenishment",
+    "url": "https://arxiv.org/abs/2611.05076"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.05030",
+   "arxiv:2611.05076"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "interior-point-methods": 1,
+   "quantum-computing": 1
+  }
+ },
+ "quantum cognition machine learning": {
+  "acronyms": [
+   "QCML"
+  ],
+  "authors": [
+   "Alexander G. Abanov"
+  ],
+  "display": {
+   "Quantum Cognition Machine Learning": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.05105",
+    "title": "Comment on \"Supervised Learning with Quantum Hamiltonian Embeddings\" (arXiv:2610.26833)",
+    "url": "https://arxiv.org/abs/2611.05105"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.05105"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "supervised-learning": 1
+  }
+ },
+ "quantum read only memory": {
+  "acronyms": [
+   "QROM"
+  ],
+  "authors": [
+   "Troy Losey"
+  ],
+  "display": {
+   "quantum read-only memory": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.05603",
+    "title": "Quantum resource trade-offs of mixed sparse single and double factorization for qubitization-based phase estimation",
+    "url": "https://arxiv.org/abs/2611.05603"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.05603"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "quantum-phase-estimation": 1
+  }
+ },
+ "ratiometric fluorescent immunochromatographic assay": {
+  "acronyms": [
+   "RFICA"
+  ],
+  "authors": [
+   "Feier Bai"
+  ],
+  "display": {
+   "ratiometric fluorescent immunochromatographic assay": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1021/acs.analchem.6c05907",
+    "title": "Interfacial Assembly of Metal-Phenolic Network-Confined AIEgen Nanotags: Enhancing Emission Performance for Machine Learning-Assisted Hue-Decodable Ratiometric Fluorescent Immunochromatographic Detection",
+    "url": "https://doi.org/10.1021/acs.analchem.6c05907"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.1021/acs.analchem.6c05907"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "machine-learning": 1
+  }
+ },
+ "reconfigurable antenna": {
+  "acronyms": [
+   "RA"
+  ],
+  "authors": [
+   "Peilan Wang"
+  ],
+  "display": {
+   "reconfigurable antenna": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.04125",
+    "title": "Reconfigurable Antenna-Enhanced ISAC: A Unified Perspective on Electromagnetic Adaptation",
+    "url": "https://arxiv.org/abs/2611.04125"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.04125"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "integrated-sensing-and-communication": 1
+  }
+ },
+ "reference hydrometric basin network": {
+  "acronyms": [
+   "RHBN"
+  ],
+  "authors": [
+   "Hongren Shen"
+  ],
+  "display": {
+   "Reference Hydrometric Basin Network": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "arxiv:2608.02363",
+    "title": "Network-based subbasin-scale mapping of streamflow alteration in Ontario, Canada",
+    "url": "https://doi.org/10.5194/essd-18-7915-2026"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2608.02363"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "hydrological-modeling": 1
+  }
+ },
+ "reliability role mixed cross learning": {
+  "acronyms": [
+   "RR-MCL"
+  ],
+  "authors": [
+   "Zhongrui Xie"
+  ],
+  "display": {
+   "Reliability-Role Mixed Cross Learning": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.04219",
+    "title": "Reliability-Role Collaborative Learning for Semi-Supervised Cardiac Image Segmentation",
+    "url": "https://arxiv.org/abs/2611.04219"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.04219"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "image-segmentation": 1
+  }
+ },
+ "reliability transition prototype contrastive learning": {
+  "acronyms": [
+   "RT-PCL"
+  ],
+  "authors": [
+   "Zhongrui Xie"
+  ],
+  "display": {
+   "Reliability-Transition Prototype Contrastive Learning": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.04219",
+    "title": "Reliability-Role Collaborative Learning for Semi-Supervised Cardiac Image Segmentation",
+    "url": "https://arxiv.org/abs/2611.04219"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.04219"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "image-segmentation": 1
+  }
+ },
+ "renin angiotensin system": {
+  "acronyms": [
+   "RAS"
+  ],
+  "authors": [
+   "Caroline Morbach"
+  ],
+  "display": {
+   "renin-angiotensin system": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1007/s00392-026-03023-0",
+    "title": "Early real-world use of acoramidis for transthyretin amyloid cardiomyopathy in Germany: results from StarTTR",
+    "url": "https://doi.org/10.1007/s00392-026-03023-0"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.1007/s00392-026-03023-0"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "molecular-biology": 1
+  }
+ },
+ "repulsive noise optimization": {
+  "acronyms": [
+   "RNO"
+  ],
+  "authors": [
+   "Hyun-Jic Oh"
+  ],
+  "display": {
+   "Repulsive Noise Optimization": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.04242",
+    "title": "Improving Diffusion-Based Augmentation for Data-Scarce Image Classification via Mask-Guided Reference Attention and Repulsive Noise Optimization",
+    "url": "https://arxiv.org/abs/2611.04242"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.04242"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "image-classification": 1
+  }
+ },
+ "resistive random access memory": {
+  "acronyms": [
+   "RRAM"
+  ],
+  "authors": [
+   "Kumar Prashant"
+  ],
+  "display": {
+   "resistive random access memory": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1088/1402-4896/aebcd5",
+    "title": "The first-principles analysis of transition metal dichalcogenide electrodes in HfO 2 -based resistive random access memories",
+    "url": "https://doi.org/10.1088/1402-4896/aebcd5"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.1088/1402-4896/aebcd5"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "transition-metal-dichalcogenides": 1
+  }
+ },
+ "retrospective gap weighted preference optimization": {
+  "acronyms": [
+   "RGPO"
+  ],
+  "authors": [
+   "Yihang Fu"
+  ],
+  "display": {
+   "Retrospective Gap-weighted Preference Optimization": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.04286",
+    "title": "GroundSeek-CXR: Retrospective Evaluation-Guided Active Observation Framework for Multi-Label Chest Radiography Diagnosis",
+    "url": "https://arxiv.org/abs/2611.04286"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.04286"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "monte-carlo-tree-search": 1
+  }
+ },
+ "rna sequencing": {
+  "acronyms": [
+   "RNA-seq"
+  ],
+  "authors": [
+   "Qiang Su"
+  ],
+  "display": {
+   "RNA sequencing": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.64898/2026.10.28.762701",
+    "title": "Refining RNA-Seq Transcriptome Profiles with Transcript-Specific Minimal-Shared Regions",
+    "url": "https://doi.org/10.64898/2026.10.28.762701"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.64898/2026.10.28.762701"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "transcriptomics": 1
+  }
+ },
+ "robust graph diffusion model": {
+  "acronyms": [
+   "RGDM"
+  ],
+  "authors": [
+   "Yancheng Wang"
+  ],
+  "display": {
+   "Robust Graph Diffusion Model": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.04146",
+    "title": "RGDM: Robust Graph Diffusion Model",
+    "url": "https://arxiv.org/abs/2611.04146"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.04146"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "diffusion-models": 1
+  }
+ },
+ "scaled relative graph": {
+  "acronyms": [
+   "SRGs"
+  ],
+  "authors": [
+   "Sebastiaan van den Eijnden"
+  ],
+  "display": {
+   "scaled relative graphs": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.04593",
+    "title": "On the IQC and SRG Frameworks: Equivalences and Converse Results",
+    "url": "https://arxiv.org/abs/2611.04593"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.04593"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "robust-control": 1
+  }
+ },
+ "scholarly knowledge graph": {
+  "acronyms": [
+   "SKGs"
+  ],
+  "authors": [
+   "Ornella Irrera"
+  ],
+  "display": {
+   "Scholarly Knowledge Graphs": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.05071",
+    "title": "Dataset Recommendation for Heterogeneous and Dynamic Scholarly Graphs via Multimodal Representation Learning",
+    "url": "https://arxiv.org/abs/2611.05071"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.05071"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "representation-learning": 1
+  }
+ },
+ "segment anything model": {
+  "acronyms": [
+   "SAM"
+  ],
+  "authors": [
+   "Jie Liu",
+   "Robert T. Ames"
+  ],
+  "display": {
+   "Segment Anything Model": 2
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.04470",
+    "title": "Using GeoAI and machine learning tools for consistent high-resolution land cover mapping based on time-series NAIP imagery",
+    "url": "https://arxiv.org/abs/2611.04470"
+   },
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1139/cjfas-2026-0089",
+    "title": "Employing deep learning for chum salmon (Oncorhynchus keta) age estimation through scale image analysis",
+    "url": "https://doi.org/10.1139/cjfas-2026-0089"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.04470",
+   "doi:10.1139/cjfas-2026-0089"
+  ],
+  "sources": [
+   "arxiv",
+   "openalex"
+  ],
+  "techs": {
+   "convolutional-neural-networks": 1,
+   "machine-learning": 1
+  }
+ },
+ "semantic state space model": {
+  "acronyms": [
+   "SSSMs"
+  ],
+  "authors": [
+   "Peter Belcak"
+  ],
+  "display": {
+   "semantic state space models": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.05306",
+    "title": "You don't need long context",
+    "url": "https://arxiv.org/abs/2611.05306"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.05306"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "software-engineering": 1
+  }
+ },
+ "shallow fusion": {
+  "acronyms": [
+   "SF"
+  ],
+  "authors": [
+   "Oche David Ankeli"
+  ],
+  "display": {
+   "Shallow Fusion": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.05744",
+    "title": "Text-Only Domain Adaptation for Low-Resource Medical ASR: Shallow Fusion and Density Ratio Rescoring for Hausa",
+    "url": "https://arxiv.org/abs/2611.05744"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.05744"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "domain-adaptation": 1
+  }
+ },
+ "sheaf neural network": {
+  "acronyms": [
+   "SNNs"
+  ],
+  "authors": [
+   "Alessio Borgi"
+  ],
+  "display": {
+   "Sheaf Neural Networks": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.04670",
+    "title": "Sheaf-MPNN: A Library for Sheaf Neural Networks as Message Passing",
+    "url": "https://arxiv.org/abs/2611.04670"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.04670"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "message-passing": 1
+  }
+ },
+ "simple network management protocol": {
+  "acronyms": [
+   "SNMP"
+  ],
+  "authors": [
+   "Jamil Qalandarov"
+  ],
+  "display": {
+   "Simple Network Management Protocol": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.3390/telecom7060143",
+    "title": "Automated Multivendor Network Topology Discovery and Shadow IT Detection Using Asynchronous Hybrid Polling and Graph-Based Anomaly Analysis",
+    "url": "https://doi.org/10.3390/telecom7060143"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.3390/telecom7060143"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "network-security": 1
+  }
+ },
+ "simulation based inference": {
+  "acronyms": [
+   "SBI"
+  ],
+  "authors": [
+   "David Gebauer"
+  ],
+  "display": {
+   "simulation-based inference": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.05367",
+    "title": "SBi3PCF: cosmology with Dark Energy Survey Year 3 cosmic shear",
+    "url": "https://arxiv.org/abs/2611.05367"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.05367"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "dark-energy": 1
+  }
+ },
+ "single molecule localisation microscopy": {
+  "acronyms": [
+   "SMLM"
+  ],
+  "authors": [
+   "Dominic Alderson"
+  ],
+  "display": {
+   "Single-molecule localisation microscopy": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.64898/2026.10.30.763064",
+    "title": "MaCADEMIA: a software toolbox for single-molecule fluorescence image quantification",
+    "url": "https://doi.org/10.64898/2026.10.30.763064"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.64898/2026.10.30.763064"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "single-molecule-localization-microscopy": 1
+  }
+ },
+ "single particle imaging": {
+  "acronyms": [
+   "SPI"
+  ],
+  "authors": [
+   "Abhishek Mall"
+  ],
+  "display": {
+   "single particle imaging": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "arxiv:2508.07953",
+    "title": "High-background X-ray single particle imaging with 2D crystal holographic enhancement",
+    "url": "https://doi.org/10.1364/oe.615265"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2508.07953"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "synchrotron-light-sources": 1
+  }
+ },
+ "social ecological model": {
+  "acronyms": [
+   "SEM"
+  ],
+  "authors": [
+   "Nervana Ibrahim"
+  ],
+  "display": {
+   "Social Ecological Model": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1371/journal.pntd.0014046",
+    "title": "Owning the narrative: Exploring the impact of a creative storytelling intervention on stigma and empowerment among persons affected by leprosy in Pakistan",
+    "url": "https://doi.org/10.1371/journal.pntd.0014046"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.1371/journal.pntd.0014046"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "infectious-diseases": 1
+  }
+ },
+ "software defined network": {
+  "acronyms": [
+   "SDN"
+  ],
+  "authors": [
+   "Pedro Lucas M. S. Rosa"
+  ],
+  "display": {
+   "Software-Defined Networks": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.04973",
+    "title": "Software Design Patterns for Latency Measurements with eBPF in SDN Environments",
+    "url": "https://arxiv.org/abs/2611.04973"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.04973"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "software-design-patterns": 1
+  }
+ },
+ "software defined wireless sensor network": {
+  "acronyms": [
+   "SDWSNs"
+  ],
+  "authors": [
+   "Lijuan Wang"
+  ],
+  "display": {
+   "Software-defined wireless sensor networks": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.3390/electronics15215084",
+    "title": "An Adaptive Trust-Based Approach to the Protection of Software-Defined Wireless Sensor Networks Against Multiple Types of DoS Attacks",
+    "url": "https://doi.org/10.3390/electronics15215084"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.3390/electronics15215084"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "wireless-sensor-networks": 1
+  }
+ },
+ "spectral quantum memory model": {
+  "acronyms": [
+   "SQMM"
+  ],
+  "authors": [
+   "Daniel A. Moroz-Broitman"
+  ],
+  "display": {
+   "Spectral Quantum Memory Model": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.04574",
+    "title": "Spectral Quantum Memory for Implicit Neural Representations",
+    "url": "https://arxiv.org/abs/2611.04574"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.04574"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "implicit-neural-representations": 1
+  }
+ },
+ "split inference": {
+  "acronyms": [
+   "SI"
+  ],
+  "authors": [
+   "Zied Jenhani"
+  ],
+  "display": {
+   "Split Inference": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.04779",
+    "title": "Replica-Aware Split Inference for Edge IoT Systems",
+    "url": "https://arxiv.org/abs/2611.04779"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.04779"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "internet-of-things": 1
+  }
+ },
+ "standard model": {
+  "acronyms": [
+   "SM"
+  ],
+  "authors": [
+   "Zi-Yue Zou"
+  ],
+  "display": {
+   "Standard Model": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "arxiv:2608.14269",
+    "title": "Nonstandard solution for anomaly cancellation as seesaw neutrino origin in the SM",
+    "url": "https://doi.org/10.1103/gx3d-v5t7"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2608.14269"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "beyond-the-standard-model": 1
+  }
+ },
+ "starfish optimization algorithm": {
+  "acronyms": [
+   "SOA"
+  ],
+  "authors": [
+   "Sijia Chen"
+  ],
+  "display": {
+   "Starfish Optimization Algorithm": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1080/09205071.2026.2751945",
+    "title": "Signal strength estimation in radio frequency systems under varying operational and environmental factors",
+    "url": "https://doi.org/10.1080/09205071.2026.2751945"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.1080/09205071.2026.2751945"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "internet-of-things": 1
+  }
+ },
+ "statistical artificial neural network": {
+  "acronyms": [
+   "SANN"
+  ],
+  "authors": [
+   "Jithender Reddy Gurejala"
+  ],
+  "display": {
+   "Statistical Artificial Neural Network": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1016/j.jrras.2026.102783",
+    "title": "SANN modeling of a second-grade hybrid nanofluid flow over a Darcy–Forchheimer rotating disk",
+    "url": "https://doi.org/10.1016/j.jrras.2026.102783"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.1016/j.jrras.2026.102783"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "thermal-radiation": 1
+  }
+ },
+ "statistical ensemble method": {
+  "acronyms": [
+   "SEM"
+  ],
+  "authors": [
+   "Sneihil Gopal"
+  ],
+  "display": {
+   "Statistical Ensemble Method": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.04369",
+    "title": "Benchmarking Unsupervised Jamming Detection in 5G Open RAN",
+    "url": "https://arxiv.org/abs/2611.04369"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.04369"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "open-ran": 1
+  }
+ },
+ "streamflow alteration index": {
+  "acronyms": [
+   "SAI"
+  ],
+  "authors": [
+   "Hongren Shen"
+  ],
+  "display": {
+   "Streamflow Alteration Index": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "arxiv:2608.02363",
+    "title": "Network-based subbasin-scale mapping of streamflow alteration in Ontario, Canada",
+    "url": "https://doi.org/10.5194/essd-18-7915-2026"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2608.02363"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "hydrological-modeling": 1
+  }
+ },
+ "stress transport delayed detached eddy simulation": {
+  "acronyms": [
+   "SSTDDES"
+  ],
+  "authors": [
+   "P.R. Silva"
+  ],
+  "display": {
+   "Stress Transport Delayed Detached-Eddy Simulations": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.3390/fluids11110275",
+    "title": "Urban Interference Effects on the Aerodynamic Loads of a CAARC High-Rise Building: A Comparative RANS and DDES Study",
+    "url": "https://doi.org/10.3390/fluids11110275"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.3390/fluids11110275"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "reynolds-averaged-navier-stokes": 1
+  }
+ },
+ "structural antibody database": {
+  "acronyms": [
+   "SAbDab"
+  ],
+  "authors": [
+   "Tingwei Miao"
+  ],
+  "display": {
+   "Structural Antibody Database": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.64898/2026.10.30.763264",
+    "title": "Decoding antibody-antigen recognition: the BL8 language and its application in calibrating deep learning predictions",
+    "url": "https://doi.org/10.64898/2026.10.30.763264"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.64898/2026.10.30.763264"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "deep-learning": 1
+  }
+ },
+ "structural similarity index": {
+  "acronyms": [
+   "SSIM"
+  ],
+  "authors": [
+   "Muhammad Nabi Yasinzai"
+  ],
+  "display": {
+   "structural similarity index": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.05737",
+    "title": "C-WFDM: A ControlNet-Guided Wavelet-Fusion Diffusion Model for Multimodal Brain MRI Completion",
+    "url": "https://arxiv.org/abs/2611.05737"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.05737"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "diffusion-models": 1
+  }
+ },
+ "structure guided attention transformer": {
+  "acronyms": [
+   "SGAT"
+  ],
+  "authors": [
+   "Trong Dao Le"
+  ],
+  "display": {
+   "Structure-Guided Attention Transformer": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1145/3856815",
+    "title": "Symbolic-JEPA: Where Symbolic AI Meets Joint-Embedding Predictive Architecture for NL–FOL Conversion",
+    "url": "https://doi.org/10.1145/3856815"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.1145/3856815"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "large-language-models": 1
+  }
+ },
+ "structure index": {
+  "acronyms": [
+   "SI"
+  ],
+  "authors": [
+   "Jishizhan Chen"
+  ],
+  "display": {
+   "Structure Index": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.64898/2026.10.30.763221",
+    "title": "Cross-species structure-mechanics prediction in the intervertebral disc",
+    "url": "https://doi.org/10.64898/2026.10.30.763221"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.64898/2026.10.30.763221"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "computed-tomography": 1
+  }
+ },
+ "subretinal hyperreflective material": {
+  "acronyms": [
+   "SHRM"
+  ],
+  "authors": [
+   "Alba Chiara Termite"
+  ],
+  "display": {
+   "subretinal hyperreflective material": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1007/s40123-026-01535-6",
+    "title": "Long-Term Anatomical Response to Navigated Micropulse Laser in Chronic Central Serous Chorioretinopathy: A 24-Month Longitudinal Study",
+    "url": "https://doi.org/10.1007/s40123-026-01535-6"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.1007/s40123-026-01535-6"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "optical-coherence-tomography": 1
+  }
+ },
+ "system advisor model": {
+  "acronyms": [
+   "SAM"
+  ],
+  "authors": [
+   "Kunal Kushal Dayal",
+   "Roxana Margareta Grigore"
+  ],
+  "display": {
+   "System Advisor Model": 2
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.54337/ijsepm.11315",
+    "title": "Solar water heater uses in hotels in Pacific Island Countries: Techno-economic-environmental analysis for a typical hotel in Fiji",
+    "url": "https://doi.org/10.54337/ijsepm.11315"
+   },
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1016/j.solener.2026.115289",
+    "title": "Multi-model validation and site-specific seasonal bias correction of rooftop photovoltaic energy yield",
+    "url": "https://doi.org/10.1016/j.solener.2026.115289"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.54337/ijsepm.11315",
+   "doi:10.1016/j.solener.2026.115289"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "artificial-intelligence": 1,
+   "energy-efficiency": 1
+  }
+ },
+ "t2 weighted imaging": {
+  "acronyms": [
+   "T2WI"
+  ],
+  "authors": [
+   "Lulu Gai"
+  ],
+  "display": {
+   "T2-weighted imaging": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.3389/fonc.2026.1973673",
+    "title": "Multiparametric MRI radiomics and clinical features for preoperative prediction of high-grade meningioma: a two-centre retrospective study",
+    "url": "https://doi.org/10.3389/fonc.2026.1973673"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.3389/fonc.2026.1973673"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "radiomics": 1
+  }
+ },
+ "teaching english as a second language": {
+  "acronyms": [
+   "TESL"
+  ],
+  "authors": [
+   "Nor Fadzilah Arom Karoman"
+  ],
+  "display": {
+   "Teaching English as a Second Language": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.6007/ijarped/v15-i4/29302",
+    "title": "Investigating the Pre-University Students’ Perception of Using AI in Improving English Writing Skills",
+    "url": "https://doi.org/10.6007/ijarped/v15-i4/29302"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.6007/ijarped/v15-i4/29302"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "artificial-intelligence": 1
+  }
+ },
+ "thrust vectoring system": {
+  "acronyms": [
+   "TVS"
+  ],
+  "authors": [
+   "Hyungjoo Kang"
+  ],
+  "display": {
+   "thrust vectoring system": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.3390/jmse14212054",
+    "title": "Experimental Evaluation of Error-Dynamics-Based Trajectory Tracking for a Torpedo-Type AUV with Thrust Vectoring",
+    "url": "https://doi.org/10.3390/jmse14212054"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.3390/jmse14212054"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "underwater-vehicles": 1
+  }
+ },
+ "time delay estimation": {
+  "acronyms": [
+   "TDE"
+  ],
+  "authors": [
+   "Hyungjoo Kang"
+  ],
+  "display": {
+   "time delay estimation": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.3390/jmse14212054",
+    "title": "Experimental Evaluation of Error-Dynamics-Based Trajectory Tracking for a Torpedo-Type AUV with Thrust Vectoring",
+    "url": "https://doi.org/10.3390/jmse14212054"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.3390/jmse14212054"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "underwater-vehicles": 1
+  }
+ },
+ "time sery foundation model": {
+  "acronyms": [
+   "TSFMs"
+  ],
+  "authors": [
+   "Hemanth Ram"
+  ],
+  "display": {
+   "Time Series Foundation Models": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.05515",
+    "title": "TSFM Meets LLM: Context as Covariates",
+    "url": "https://arxiv.org/abs/2611.05515"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.05515"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "large-language-models": 1
+  }
+ },
+ "tiny graph transformer network": {
+  "acronyms": [
+   "TGTNet"
+  ],
+  "authors": [
+   "Adrian Gheorghiu"
+  ],
+  "display": {
+   "tiny graph transformer network": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.04959",
+    "title": "Lightweight graph transformers for clutter and target classification in automotive radar",
+    "url": "https://arxiv.org/abs/2611.04959"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.04959"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "fmcw-radar": 1
+  }
+ },
+ "tiny machine learning": {
+  "acronyms": [
+   "TinyML"
+  ],
+  "authors": [
+   "Zied Jenhani"
+  ],
+  "display": {
+   "tiny Machine Learning": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.04779",
+    "title": "Replica-Aware Split Inference for Edge IoT Systems",
+    "url": "https://arxiv.org/abs/2611.04779"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.04779"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "internet-of-things": 1
+  }
+ },
+ "tissue contact sensor": {
+  "acronyms": [
+   "TCS"
+  ],
+  "authors": [
+   "Mamun Hasan"
+  ],
+  "display": {
+   "tissue-contact sensor": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.3390/s26216936",
+    "title": "Feasibility of Accelerometer-Based Arterial Pulse Measurement: Part II—Experimental Investigation",
+    "url": "https://doi.org/10.3390/s26216936"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.3390/s26216936"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "tactile-sensors": 1
+  }
+ },
+ "topographic wetness index": {
+  "acronyms": [
+   "TWI"
+  ],
+  "authors": [
+   "Radhwan A. A. Saleh"
+  ],
+  "display": {
+   "Topographic Wetness Index": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1080/10106049.2026.2756764",
+    "title": "Flood susceptibility mapping using ensemble machine learning models and SHAP analysis in the Shebelle River Basin, Somalia",
+    "url": "https://doi.org/10.1080/10106049.2026.2756764"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.1080/10106049.2026.2756764"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "machine-learning": 1
+  }
+ },
+ "topology aware cross modal subspace learning": {
+  "acronyms": [
+   "TACSL"
+  ],
+  "authors": [
+   "Shuzhi Su"
+  ],
+  "display": {
+   "topology-aware cross-modal subspace learning": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1177/09544062261498994",
+    "title": "Topology-aware cross-modal subspace learning for vibration–acoustic rock hardness detection in integrated excavation–support–anchoring equipment",
+    "url": "https://doi.org/10.1177/09544062261498994"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.1177/09544062261498994"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "rock-mechanics": 1
+  }
+ },
+ "transverse field toric code": {
+  "acronyms": [
+   "TFTC"
+  ],
+  "authors": [
+   "Zack Weinstein"
+  ],
+  "display": {
+   "transverse-field toric code": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.05375",
+    "title": "Quantum Error Correction in Nearly Critical Toric Codes",
+    "url": "https://arxiv.org/abs/2611.05375"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.05375"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "quantum-error-correction": 1
+  }
+ },
+ "tumor hybrid cell": {
+  "acronyms": [
+   "THCs"
+  ],
+  "authors": [
+   "Maria E. Gaczynska"
+  ],
+  "display": {
+   "tumor hybrid cells": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.64898/2026.10.31.763352",
+    "title": "Strategies of mechanical adaptations of circulating tumor cells and properties of their cellular microenvironment have predictive and prognostic biomarker value",
+    "url": "https://doi.org/10.64898/2026.10.31.763352"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.64898/2026.10.31.763352"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "hybrid-imaging": 1
+  }
+ },
+ "tumor infiltrating b cell": {
+  "acronyms": [
+   "TIL-Bs"
+  ],
+  "authors": [
+   "Yanfeng Liu"
+  ],
+  "display": {
+   "tumor-infiltrating B cells": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1158/2159-8290.cd-26-0463",
+    "title": "Autophagy-mediated Secretion of Intracellular Antigens Co-opts Antibody Responses to Drive Neutrophil-Dependent Tumor Progression",
+    "url": "https://doi.org/10.1158/2159-8290.cd-26-0463"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.1158/2159-8290.cd-26-0463"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "cancer-immunotherapy": 1
+  }
+ },
+ "uncertainty aware cross modal fusion network": {
+  "acronyms": [
+   "UCFNet"
+  ],
+  "authors": [
+   "He Ren"
+  ],
+  "display": {
+   "uncertainty-aware cross-modal fusion network": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.3390/machines14111285",
+    "title": "An Uncertainty-Aware Cross-Modal Fusion Network for Domain Generalization in Mechanical Fault Diagnosis",
+    "url": "https://doi.org/10.3390/machines14111285"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.3390/machines14111285"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "compressors": 1
+  }
+ },
+ "universal image quality index": {
+  "acronyms": [
+   "UIQI"
+  ],
+  "authors": [
+   "Gouri S. Katageri"
+  ],
+  "display": {
+   "Universal Image Quality Index": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1080/13682199.2026.2747139",
+    "title": "Hybrid transform energy based denoising approach for robust noise reduction and structural feature preservation",
+    "url": "https://doi.org/10.1080/13682199.2026.2747139"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.1080/13682199.2026.2747139"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "image-denoising": 1
+  }
+ },
+ "variable refrigerant flow": {
+  "acronyms": [
+   "VRF"
+  ],
+  "authors": [
+   "Byeongho Yu"
+  ],
+  "display": {
+   "Variable Refrigerant Flow": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1016/j.egyr.2026.109848",
+    "title": "Advancing building decarbonization via electrified thermal management: A VRF heat recovery system with domestic hot water integration",
+    "url": "https://doi.org/10.1016/j.egyr.2026.109848"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.1016/j.egyr.2026.109848"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "heat-pumps": 1
+  }
+ },
+ "vascular cell": {
+  "acronyms": [
+   "VCs"
+  ],
+  "authors": [
+   "Hidenori Ito"
+  ],
+  "display": {
+   "Vascular cells": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.64898/2026.10.30.762950",
+    "title": "HNRNPC-mediated RNA processing promotes VHL-associated excessive vasculogenesis in von Hippel-Lindau syndrome revealed from patient-derived blood vessel models",
+    "url": "https://doi.org/10.64898/2026.10.30.762950"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.64898/2026.10.30.762950"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "induced-pluripotent-stem-cells": 1
+  }
+ },
+ "video large language model": {
+  "acronyms": [
+   "Video-LLMs"
+  ],
+  "authors": [
+   "Yangguang Lin"
+  ],
+  "display": {
+   "Video Large Language Models": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.04728",
+    "title": "SPOD: Recovering Suppressed Temporal Evidence in Video-LLMs via Single-Pass Orthogonal Decomposition",
+    "url": "https://arxiv.org/abs/2611.04728"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.04728"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "large-language-models": 1
+  }
+ },
+ "vision foundation model": {
+  "acronyms": [
+   "VFMs"
+  ],
+  "authors": [
+   "Pratyush Ramakrishna"
+  ],
+  "display": {
+   "vision foundation models": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.64898/2026.10.30.26366929",
+    "title": "Ophthalmic AI With Just Ten Examples: Comparing Multimodal Large Language Models, Vision Foundation Models, and Vision-Language Models",
+    "url": "https://doi.org/10.64898/2026.10.30.26366929"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.64898/2026.10.30.26366929"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "vision-language-models": 1
+  }
+ },
+ "visual foundation model": {
+  "acronyms": [
+   "VFMs"
+  ],
+  "authors": [
+   "Byungkun Lee"
+  ],
+  "display": {
+   "Visual Foundation Models": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.04485",
+    "title": "All-For-One: Distilling Visual Foundation Models to a Fast, Memory-Efficient Visuomotor Policy",
+    "url": "https://arxiv.org/abs/2611.04485"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.04485"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "foundation-models": 1
+  }
+ },
+ "wavelet fusion diffusion model": {
+  "acronyms": [
+   "WFDM"
+  ],
+  "authors": [
+   "Muhammad Nabi Yasinzai"
+  ],
+  "display": {
+   "Wavelet-Fusion Diffusion Model": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.05737",
+    "title": "C-WFDM: A ControlNet-Guided Wavelet-Fusion Diffusion Model for Multimodal Brain MRI Completion",
+    "url": "https://arxiv.org/abs/2611.05737"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.05737"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "diffusion-models": 1
+  }
+ },
+ "whale optimization algorithm": {
+  "acronyms": [
+   "WOA"
+  ],
+  "authors": [
+   "Rana Muhammad Adnan Ikram"
+  ],
+  "display": {
+   "whale optimization algorithm": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1038/s41598-026-78179-w",
+    "title": "Enhancing soil creep index prediction accuracy using optimized XGBoost and LightGBM models with bio-inspired optimization algorithms: SHAP- and LIME-based explanation methods",
+    "url": "https://doi.org/10.1038/s41598-026-78179-w"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.1038/s41598-026-78179-w"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "geotechnical-engineering": 1
+  }
+ },
+ "white blood cell": {
+  "acronyms": [
+   "WBC"
+  ],
+  "authors": [
+   "J. NASURU"
+  ],
+  "display": {
+   "white blood cells": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.70382/sjhsr.v14i3.071",
+    "title": "NUTRITIONAL EVALUATION OF ENSILED SORGHUM HUSK AND MAIZE COB WITH NON-PROTEIN NITROGEN SOURCES ON THE HAEMATOLOGICAL AND BIOCHEMICAL PROFILES OF RED SOKOTO BUCKS",
+    "url": "https://doi.org/10.70382/sjhsr.v14i3.071"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.70382/sjhsr.v14i3.071"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "crop-science": 1
+  }
+ },
+ "whole body controller": {
+  "acronyms": [
+   "WBC"
+  ],
+  "authors": [
+   "Jean-Pierre Sleiman"
+  ],
+  "display": {
+   "whole-body controller": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.05113",
+    "title": "HLO-AMP: Hierarchical Loco-Manipulation from Object-Aware Motion Priors",
+    "url": "https://arxiv.org/abs/2611.05113"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.05113"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "motion-capture": 1
+  }
+ },
+ "whole exome sequencing": {
+  "acronyms": [
+   "WES"
+  ],
+  "authors": [
+   "Haojie Sun"
+  ],
+  "display": {
+   "whole-exome sequencing": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1186/s40246-026-01066-y",
+    "title": "Trio-based exome sequencing characterizes candidate de novo variants and genetic heterogeneity in cochlear nerve deficiency",
+    "url": "https://doi.org/10.1186/s40246-026-01066-y"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.1186/s40246-026-01066-y"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "sensory-systems": 1
+  }
+ },
+ "world action model": {
+  "acronyms": [
+   "WAMs"
+  ],
+  "authors": [
+   "Jaehyeong Jo"
+  ],
+  "display": {
+   "World Action Models": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-03",
+    "id": "arxiv:2611.04527",
+    "title": "Future Representation Distillation for Imagination-free World Action Models",
+    "url": "https://arxiv.org/abs/2611.04527"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2611.04527"
+  ],
+  "sources": [
+   "arxiv"
+  ],
+  "techs": {
+   "diffusion-models": 1
+  }
+ },
+ "x ray free electron laser": {
+  "acronyms": [
+   "XFELs"
+  ],
+  "authors": [
+   "Abhishek Mall"
+  ],
+  "display": {
+   "X-ray free electron lasers": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "arxiv:2508.07953",
+    "title": "High-background X-ray single particle imaging with 2D crystal holographic enhancement",
+    "url": "https://doi.org/10.1364/oe.615265"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "arxiv:2508.07953"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "synchrotron-light-sources": 1
+  }
+ },
+ "x ray photoelectron spectroscopy": {
+  "acronyms": [
+   "XPS"
+  ],
+  "authors": [
+   "Neelamegam Rajasekaran",
+   "Harry E. Taylor",
+   "V. Porkalai"
+  ],
+  "display": {
+   "X-ray photoelectron spectroscopy": 3
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1149/1945-7111/aebcd0",
+    "title": "Magneto-Electrocatalysis of Co-Ni Alloy Electrodeposits for Hydrogen Evolution Reactions",
+    "url": "https://doi.org/10.1149/1945-7111/aebcd0"
+   },
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1021/acsnano.6c13922",
+    "title": "Air-Stable Nickel Oxide Nanosheets as a Model Platform for Decoupling Structure–Activity Relation in Oxygen Evolving Electrocatalysts",
+    "url": "https://doi.org/10.1021/acsnano.6c13922"
+   },
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1007/s44371-026-01064-y",
+    "title": "A review of the biogenic fabrication of metal oxide nanoparticles using phytochemical reducing and stabilizing agents across diverse systems",
+    "url": "https://doi.org/10.1007/s44371-026-01064-y"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.1149/1945-7111/aebcd0",
+   "doi:10.1021/acsnano.6c13922",
+   "doi:10.1007/s44371-026-01064-y"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "hydrogen-production": 1,
+   "metal-oxide-nanoparticles": 1,
+   "renewable-energy": 1
+  }
+ },
+ "yellowness index": {
+  "acronyms": [
+   "YI"
+  ],
+  "authors": [
+   "Aolin Yu"
+  ],
+  "display": {
+   "yellowness index": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-02",
+    "id": "doi:10.1177/03611981261497718",
+    "title": "Effects of Ultraviolet Radiation and Temperature on the Daytime Optical and Colorimetric Properties of Pavement Markings",
+    "url": "https://doi.org/10.1177/03611981261497718"
+   }
+  ],
+  "first_seen": "2026-11-05",
+  "last_seen": "2026-11-05",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.1177/03611981261497718"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "structural-engineering": 1
+  }
+ }
+}

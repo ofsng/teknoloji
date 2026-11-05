@@ -13,56 +13,85 @@ applied_in: []
 classification_refs: []
 content_verified: false
 created: 2026-11-05
+layout: 2
+content_status: empty
+content_sources: []
 ---
 
 # Temel Modeller (Foundation Models)
+
+<!-- AUTO:NAV:BEGIN (otomatik; elle düzenlemeyin) -->
+**Konum:** [Kök](../../../../TECHNOLOGIES.md) › [Bilgisayar Bilimleri](../../../_index.md) › [Yapay Zeka](../../_index.md) › [Makine Öğrenmesi](../_index.md) › **Temel Modeller**
+<!-- AUTO:NAV:END -->
 
 ## 1. Tanım
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
-## 2. Temel çalışma prensibi
+## 2. Çalışma prensibi
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+
+## 3. Tarihçe
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+
+## 4. Temel kavramlar
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+
+## 5. Temel yöntemler
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:BEGIN (kb.py reindex üretir; bu bloğu elle düzenlemeyin) -->
-
-**Konum:** [Kök](../../../../TECHNOLOGIES.md) › [Bilgisayar Bilimleri](../../../_index.md) › [Yapay Zeka](../../_index.md) › [Makine Öğrenmesi](../_index.md) › **Temel Modeller**
-
-## 3. Üst teknoloji
-
-- [Makine Öğrenmesi](../_index.md)
-
-## 4. Alt teknolojiler
+## 6. Alt teknolojiler
 
 - [Büyük Dil Modelleri](Buyuk-Dil-Modelleri/_index.md)
 - [Çok Kipli Temel Modeller](Cok-Kipli-Temel-Modeller/_index.md)
 - [Görü-Dil-Eylem Modelleri](Goru-Dil-Eylem-Modelleri/_index.md)
 
-## 5. İlişkili teknolojiler
+## 7. İlişkili teknolojiler
 
-- _Tanımlı ilişki yok._
-
-**Araştırma kayıtları:** 0 (`Arastirmalar/` klasörüne eklenir)
-
+- **Üst teknoloji:** [Makine Öğrenmesi](../_index.md)
 <!-- AUTO:END -->
 
-## 6. Temel teknik kavramlar
+## 8. Kullanım alanları
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
-## 7. Önemli tarihsel gelişmeler
+## 9. Avantajlar
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
-## 8. Başlıca araştırma konuları
+## 10. Sınırlılıklar
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
-## 9. Açık teknik problemler
+## 11. Açık problemler
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
-## 10. Kaynaklar
+## 12. Önemli araştırmalar
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+
+<!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **3**.
+<!-- AUTO:RESEARCH:END -->
+
+## 13. Güncel gelişmeler
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+
+<!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
+Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
+
+- [AdSteer: Native Advertising in Large Language Model Generation](Buyuk-Dil-Modelleri/Arastirmalar/2026-Lin-AdSteer-Native-Advertising-Large.md) — Lin vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [Large Language Model-Assisted Adaptive Heuristic Search for Agile Earth Observation Satellite Scheduling](Buyuk-Dil-Modelleri/Arastirmalar/2026-Wang-Large-Language-Model-Assisted.md) — Wang vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [Co-Occurrence Priors Override Visual Spatial Evidence: Understanding False Alarms in Vision-Language Models for Construction Struck-By Hazard Detection](Cok-Kipli-Temel-Modeller/Goru-Dil-Modelleri/Arastirmalar/2026-Zhou-Occurrence-Priors-Override-Visual.md) — Zhou (2026) · *arXiv* · ön baskı / hakemsiz
+<!-- AUTO:RECENT:END -->
+
+## 14. Kaynaklar
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._

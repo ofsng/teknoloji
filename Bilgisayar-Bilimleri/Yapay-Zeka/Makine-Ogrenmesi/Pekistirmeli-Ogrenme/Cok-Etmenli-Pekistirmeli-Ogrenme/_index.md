@@ -13,54 +13,87 @@ applied_in: []
 classification_refs: []
 content_verified: false
 created: 2026-11-05
+layout: 2
+content_status: empty
+content_sources: []
 ---
 
 # Çok Etmenli Pekiştirmeli Öğrenme (Multi-Agent Reinforcement Learning)
+
+<!-- AUTO:NAV:BEGIN (otomatik; elle düzenlemeyin) -->
+**Konum:** [Kök](../../../../../TECHNOLOGIES.md) › [Bilgisayar Bilimleri](../../../../_index.md) › [Yapay Zeka](../../../_index.md) › [Makine Öğrenmesi](../../_index.md) › [Pekiştirmeli Öğrenme](../_index.md) › **Çok Etmenli Pekiştirmeli Öğrenme**
+<!-- AUTO:NAV:END -->
 
 ## 1. Tanım
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
-## 2. Temel çalışma prensibi
+## 2. Çalışma prensibi
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+
+## 3. Tarihçe
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+
+## 4. Temel kavramlar
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+
+## 5. Temel yöntemler
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:BEGIN (kb.py reindex üretir; bu bloğu elle düzenlemeyin) -->
-
-**Konum:** [Kök](../../../../../TECHNOLOGIES.md) › [Bilgisayar Bilimleri](../../../../_index.md) › [Yapay Zeka](../../../_index.md) › [Makine Öğrenmesi](../../_index.md) › [Pekiştirmeli Öğrenme](../_index.md) › **Çok Etmenli Pekiştirmeli Öğrenme**
-
-## 3. Üst teknoloji
-
-- [Pekiştirmeli Öğrenme](../_index.md)
-
-## 4. Alt teknolojiler
+## 6. Alt teknolojiler
 
 - _Yaprak düğüm (alt sınıflandırma yok)._
 
-## 5. İlişkili teknolojiler
+## 7. İlişkili teknolojiler
 
-- _Tanımlı ilişki yok._
-
-**Araştırma kayıtları:** 0 (`Arastirmalar/` klasörüne eklenir)
-
+- **Üst teknoloji:** [Pekiştirmeli Öğrenme](../_index.md)
 <!-- AUTO:END -->
 
-## 6. Temel teknik kavramlar
+## 8. Kullanım alanları
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
-## 7. Önemli tarihsel gelişmeler
+## 9. Avantajlar
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
-## 8. Başlıca araştırma konuları
+## 10. Sınırlılıklar
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
-## 9. Açık teknik problemler
+## 11. Açık problemler
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
-## 10. Kaynaklar
+## 12. Önemli araştırmalar
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+
+<!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
+Arşivdeki kayıtlar — bu düğüm: **3**, alt teknolojiler dahil: **3**.
+
+- [JHiMA-WebRL: A Joint Hierarchical Multi-Agent Reinforcement Learning Framework for Long-Horizon Web Tasks](Arastirmalar/2026-Mondal-JHiMA-WebRL-Joint-Hierarchical.md) — Mondal vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [Safeguarding Multi-Agent Reinforcement Learning for Connected and Automated Vehicles with Recursively Feasible Control Barrier Functions](Arastirmalar/2026-Xu-Safeguarding-Multi-Agent-Reinforcement.md) — Xu vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [Cooperative Multi-Agent Reinforcement Learning with Submodular Trajectory Rewards](Arastirmalar/2026-Zolfimoselo-Cooperative-Multi-Agent-Reinforcemen.md) — Zolfimoselo vd. (2026) · *arXiv* · ön baskı / hakemsiz
+<!-- AUTO:RESEARCH:END -->
+
+## 13. Güncel gelişmeler
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+
+<!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
+Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
+
+- [JHiMA-WebRL: A Joint Hierarchical Multi-Agent Reinforcement Learning Framework for Long-Horizon Web Tasks](Arastirmalar/2026-Mondal-JHiMA-WebRL-Joint-Hierarchical.md) — Mondal vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [Safeguarding Multi-Agent Reinforcement Learning for Connected and Automated Vehicles with Recursively Feasible Control Barrier Functions](Arastirmalar/2026-Xu-Safeguarding-Multi-Agent-Reinforcement.md) — Xu vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [Cooperative Multi-Agent Reinforcement Learning with Submodular Trajectory Rewards](Arastirmalar/2026-Zolfimoselo-Cooperative-Multi-Agent-Reinforcemen.md) — Zolfimoselo vd. (2026) · *arXiv* · ön baskı / hakemsiz
+<!-- AUTO:RECENT:END -->
+
+## 14. Kaynaklar
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._

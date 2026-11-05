@@ -162,7 +162,7 @@ Artificial Intelligence | Yapay Zeka | alias=AI; src=arXiv:cs.AI,ACM-CCS:Computi
     Automated Machine Learning | Otomatik Makine Öğrenmesi | alias=AutoML
       Hyperparameter Optimization | Hiperparametre Optimizasyonu | dep=bayesian-optimization
     Machine Learning Systems | Makine Öğrenmesi Sistemleri | alias=MLOps
-      Distributed Training | Dağıtık Eğitim | alias=Data/Tensor/Pipeline parallelism
+      Distributed Training | Dağıtık Eğitim | alias=Tensor parallelism,Pipeline parallelism; rel=data-parallelism
       Model Serving | Model Sunumu
       On-Device Machine Learning | Cihaz Üstü Makine Öğrenmesi | alias=TinyML
     Learning Theory Topics in ML | Makine Öğrenmesi Kuramsal Konuları | slug=ML-Kuramsal-Konular; rel=computational-learning-theory

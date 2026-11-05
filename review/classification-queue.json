@@ -1,0 +1,1841 @@
+[
+ {
+  "added": "2026-11-05",
+  "arxiv": "2611.04574",
+  "candidates": [
+   [
+    "implicit-neural-representations",
+    9.55
+   ],
+   [
+    "quantum-memories",
+    8.3
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.04574",
+   "title:spectralquantummemoryforimplicitneuralrepresentations|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Implicit neural representations (INRs) model signals as continuous functions from coordinates to values, but their performance depends strongly on how spectral capacity is allocated. Yet most Quantum INR (QINR) architectures treat spectral components as independent outputs of separate quantum blocks. We introduce the Spectral Quantum Memory Model (SQMM), a memory coupled quantum INR in which sequential hybrid data reuploading layers (bands) communicate through a shared coherent quantum memory register. Each band reads the memory, computes on its own coordinate upload, and writes part of its state back, so later bands can build on the computation of earlier ones. When memory read and write layers are input independent, we prove that the memory state forms an operator valued Fourier series whose support is contained in the Minkowski sum of the initial memory spectrum and the local band spectra. Downstream bands then condition their Fourier coefficients on the spectral content stored by earlier bands, and the memory coupling creates no new primitive frequencies. This theory motivates a spectral memory alignment loss that encourages memory to encode the spectrum expressed by the deployed prefix of the model. Across audio and image reconstruction benchmarks, SQMM improves over compact QINR and INR baselines.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.04574",
+   "authors": [
+    "Daniel A. Moroz-Broitman",
+    "Eliya Nachmani"
+   ],
+   "categories": [
+    "arXiv:quant-ph",
+    "arXiv:cs.AI",
+    "arXiv:cs.LG"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-03",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.04574"
+   ],
+   "title": "Spectral Quantum Memory for Implicit Neural Representations",
+   "topics": [],
+   "updated_date": "2026-11-03",
+   "url": "https://arxiv.org/abs/2611.04574"
+  },
+  "suggested": "implicit-neural-representations",
+  "title": "Spectral Quantum Memory for Implicit Neural Representations",
+  "url": "https://arxiv.org/abs/2611.04574"
+ },
+ {
+  "added": "2026-11-05",
+  "arxiv": "2611.04269",
+  "candidates": [
+   [
+    "uncertainty-quantification",
+    7.9
+   ],
+   [
+    "machine-learning",
+    7.15
+   ],
+   [
+    "digital-twins",
+    5.7
+   ],
+   [
+    "optimization",
+    1.85
+   ],
+   [
+    "autonomous-systems",
+    1.2
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.04269",
+   "title:integratingmachinelearninganduncertaintyquantificationforrealtimedecisionmakingindigitaltwinsasystemcentricreviewandperspective|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Digital Twins are evolving from passive virtual representations into closed-loop systems that continuously synchronize with physical assets and drive real-time decisions. Yet predictive modeling, machine learning (ML), uncertainty quantification (UQ), and decision-making have been studied as separate capabilities, leaving limited understanding of their integration and maintenance during online operation. This narrative review, scoped by the functional requirements of real-time decision-making rather than by Digital Twin terminology alone, examines how such decisions are generated and sustained in engineering Digital Twins. We first examine foundational decision-making architectures and representative engineering applications, followed by methods that address their limitations across the decision loop. We identify optimization-based, policy-based, and knowledge-based approaches as the major pathways from virtual representation to action. Across them, ML plays three roles in decision-making: enabling efficient surrogate modeling, transforming heterogeneous physical feedback into decision-relevant information, and accelerating or directly generating decisions. UQ supports uncertainty-aware decisions and model adaptation, while continual validation, drift detection, and adaptation help maintain reliable operation as the physical system evolves. Together, these findings underscore the need for a shift from a model-centric to a system-centric perspective on Digital Twins, where its performance depends on the interactions with sensing, state estimation, computation, decision-making, and adaptation rather than on their standalone performance. Therefore, future research should shift from isolated algorithm development toward system-level co-design, scalable decision-making, and approaches to design, and data-efficient continual adaptation and validation for AI-enabled autonomous systems.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.04269",
+   "authors": [
+    "Yi-Ping Chen",
+    "Ying-Kuan Tsai",
+    "Seul Lee",
+    "Vispi Karkaria",
+    "Dex Doksoo Lee",
+    "Wei Chen"
+   ],
+   "categories": [
+    "arXiv:stat.AP",
+    "arXiv:cs.LG"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-03",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.04269"
+   ],
+   "title": "Integrating Machine Learning and Uncertainty Quantification for Real-Time Decision-Making in Digital Twins: A System-Centric Review and Perspective",
+   "topics": [],
+   "updated_date": "2026-11-03",
+   "url": "https://arxiv.org/abs/2611.04269"
+  },
+  "suggested": "uncertainty-quantification",
+  "title": "Integrating Machine Learning and Uncertainty Quantification for Real-Time Decision-Making in Digital Twins: A System-Centric Review and Perspective",
+  "url": "https://arxiv.org/abs/2611.04269"
+ },
+ {
+  "added": "2026-11-05",
+  "arxiv": "2611.04499",
+  "candidates": [
+   [
+    "nonlinear-model-predictive-control",
+    5.9
+   ],
+   [
+    "model-predictive-control",
+    3.7
+   ],
+   [
+    "computational-fluid-dynamics",
+    1.65
+   ],
+   [
+    "residual-networks",
+    1.2
+   ],
+   [
+    "reinforcement-learning",
+    1.2
+   ],
+   [
+    "fluid-dynamics",
+    1.2
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.04499",
+   "title:supervisedresidualnmpcinforcedisturbedquadrotors|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Residual deployment can affect closed-loop tracking. We compare two ways to deploy one supervised acceleration-residual network in nonlinear model predictive control (NMPC) of a quadrotor. Cyclewise deployment repeats one correction across the horizon. Stagewise deployment evaluates shifted prediction nodes before the solve. Network parameters remain fixed during control. On prescribed force pulses, both schemes improve average tracking mainly after force removal, but worsen hover; some prediction checks also fail. Seed 1 reinforcement-learning benchmarks add no mean benefit under pulses or prescribed random forces. On 220 conditions, cyclewise and stagewise supervision reduce mean integral absolute position error (IAE) by 4.38% and 7.77%. On a separate 32-condition bank, fixed gain 1.5 lowers IAE by 27.47% relative to stagewise supervision but raises angular-rate root-mean-square error by 10.19%. In one synthetic computational fluid dynamics field, stagewise supervision lowers four-task mean IAE by 2.01% against a same-graph zero-residual control; some secondary metrics worsen. These simulations show that residual deployment affects tracking, with gains and limitations that depend on task and motion metric.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.04499",
+   "authors": [
+    "Shenghan Sun"
+   ],
+   "categories": [
+    "arXiv:eess.SY"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-03",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.04499"
+   ],
+   "title": "Supervised Residual NMPC in Force-Disturbed Quadrotors",
+   "topics": [],
+   "updated_date": "2026-11-03",
+   "url": "https://arxiv.org/abs/2611.04499"
+  },
+  "suggested": "nonlinear-model-predictive-control",
+  "title": "Supervised Residual NMPC in Force-Disturbed Quadrotors",
+  "url": "https://arxiv.org/abs/2611.04499"
+ },
+ {
+  "added": "2026-11-05",
+  "arxiv": "2611.04412",
+  "candidates": [
+   [
+    "density-estimation",
+    5.4
+   ],
+   [
+    "electromagnetic-compatibility",
+    0.45
+   ],
+   [
+    "clustering",
+    0.33
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.04412",
+   "title:bandwidthrulesfordirichletkerneldensityestimationonthesimplex|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Dirichlet kernels provide a natural tool for density estimation on the simplex, but data-driven bandwidth selection for them has been mostly limited to likelihood cross-validation (LCV). We develop bandwidth selectors for Dirichlet kernel estimators of densities and projected first derivatives for compositional data. Using a Dirichlet mixture as the reference model, we derive an exact representation of the mean integrated squared error (MISE) and define the exact MISE (EMI) selector. We also derive a closed-form least-squares cross-validation (LSCV) criterion and introduce the reference-smoothed least-squares (RSLS) selector, which replaces the unstable leave-one-out term of LSCV with the fitted Dirichlet mixture. For derivative estimation, we obtain projected derivatives of the Dirichlet density and their integrability conditions, extend the new bandwidth selectors, and carry out kernel mean shift clustering on the simplex. Simulations show that EMI is the most competitive selector for larger samples and Dirichlet-like targets, RSLS generally performs best for small samples and is more stable than LSCV for derivative estimation, and LCV remains competitive for non-Dirichlet targets in density estimation. Applications to wholesale customer expenditure and sectoral employment data illustrate density estimation and clustering, respectively.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.04412",
+   "authors": [
+    "Jiajin Xie",
+    "Eduardo García-Portugués",
+    "Yong Wang"
+   ],
+   "categories": [
+    "arXiv:stat.ME"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-03",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.04412"
+   ],
+   "title": "Bandwidth rules for Dirichlet kernel density estimation on the simplex",
+   "topics": [],
+   "updated_date": "2026-11-03",
+   "url": "https://arxiv.org/abs/2611.04412"
+  },
+  "suggested": "density-estimation",
+  "title": "Bandwidth rules for Dirichlet kernel density estimation on the simplex",
+  "url": "https://arxiv.org/abs/2611.04412"
+ },
+ {
+  "added": "2026-11-05",
+  "arxiv": "2611.04262",
+  "candidates": [
+   [
+    "sketches",
+    5.35
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.04262",
+   "title:sketchomniinstancelevelsketchbasedvisualpromptingforperceptionmllms|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Promptable perception, from GroundingDINO to Rex-Omni, puts one model behind one prompt interface and returns coordinates for any localisation task. Every model in that line was built for photographs; none has been given a sketch. We present Sketch-Omni, to our knowledge the first perception MLLM built to work on sketches and from them. On a sketch, the sketch is the image, and text prompts detect, point, resolve object and spatial referring expressions, and ground affordances in it. From a sketch, the sketch is the prompt, and a drawing of one object localises that object in a photograph, even among several of the same category, a query that neither a category name nor a photo exemplar can pose. Two obstacles stand in the way. A photo-trained model's attention is tuned to colour and texture, which a sketch does not have, and no dataset pairs a drawing with the one instance it depicts among others of its kind. We build the training data instead of collecting it. An edge detector turns every labelled photograph into a sketch-like drawing that keeps the photograph's labels, and two constructions produce sketch-to-photo instance pairs from existing data. On top of this, photo-guided relation alignment passes each photograph and its edge sketch through the same model and trains the sketch pass to reproduce how the photograph pass relates phrases to patches and patches to each other. Not one training label is drawn by hand. Sketch-Omni reaches 91.4 F1 on sketch-prompted localisation against 81.8 for the strongest general-purpose MLLM, with a lead that doubles when the photograph holds several instances of the queried category, and it is best in 39 of 40 evaluation cells across six tasks. Code, model, and a hand-annotated benchmark of 2754 sketch-to-photo links will be released.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.04262",
+   "authors": [
+    "Dongyu Wang",
+    "Dar-Yen Chen",
+    "Zhiming Hong",
+    "Arkaprabha Basu",
+    "Yi-Zhe Song"
+   ],
+   "categories": [
+    "arXiv:cs.CV"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-03",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.04262"
+   ],
+   "title": "Sketch-Omni: Instance-Level Sketch-Based Visual Prompting for Perception MLLMs",
+   "topics": [],
+   "updated_date": "2026-11-03",
+   "url": "https://arxiv.org/abs/2611.04262"
+  },
+  "suggested": "sketches",
+  "title": "Sketch-Omni: Instance-Level Sketch-Based Visual Prompting for Perception MLLMs",
+  "url": "https://arxiv.org/abs/2611.04262"
+ },
+ {
+  "added": "2026-11-05",
+  "arxiv": "2611.04129",
+  "candidates": [
+   [
+    "authentication-protocols",
+    5.1
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.04129",
+   "title:quantumidentityauthenticationprotocolviaperturbedprobabilityamplitudes|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Quantum identity authentication is an effective solution for establishing mutual trust between communicating parties in the post-quantum era. To address the risk of partial secret information leakage under special measurements, this paper designs a quantum identity authentication protocol based on perturbed probability amplitudes. The protocol first proposes a method of encoding a random sequence onto the probability amplitudes of quantum entangled states, forming perturbed probability amplitudes, thereby reducing the involvement of shared information between the sender and receiver. Furthermore, it presents a method for generating n-bit random authentication information based on the n-bit pre-shared information, enhancing the randomness of the authentication information relative to an attacker. The proposed protocol can resist impersonation attack, CNOT attack, and entanglement measurement attack, and ensures backward security. Under equivalent security conditions, the amount of shared information is 1/n that in Chen et al.'s scheme and half that in Dutta et al.'s scheme. And each bit of the secret message has no risk of leakage under special measurements. It can also be extended to a bi-directional quantum identity authentication protocol.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.04129",
+   "authors": [
+    "Xiangqun Fu",
+    "Zheng Han",
+    "Hongwei Li",
+    "Chun Zhou",
+    "Shuo Zhang",
+    "Jianhong Shi",
+    "Tan Li",
+    "Wansu Bao"
+   ],
+   "categories": [
+    "arXiv:quant-ph"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-03",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.04129"
+   ],
+   "title": "Quantum identity authentication protocol via perturbed probability amplitudes",
+   "topics": [],
+   "updated_date": "2026-11-03",
+   "url": "https://arxiv.org/abs/2611.04129"
+  },
+  "suggested": "authentication-protocols",
+  "title": "Quantum identity authentication protocol via perturbed probability amplitudes",
+  "url": "https://arxiv.org/abs/2611.04129"
+ },
+ {
+  "added": "2026-11-05",
+  "arxiv": "2611.04441",
+  "candidates": [
+   [
+    "circuit-complexity",
+    5.1
+   ],
+   [
+    "pumps",
+    0.26
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.04441",
+   "title:circuitcomplexityofscalarandtensorperturbationsinluminaleinsteingaussbonnetinflation|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "We investigate the circuit complexity of primordial scalar and tensor perturbations in the luminal branch of Einstein--Gauss--Bonnet inflation. Starting from the quadratic perturbation actions, we construct the two-mode Hamiltonians and derive the evolution equations for the squeezing amplitudes and angles. Although the tensor speed is fixed to unity, the Gauss--Bonnet (GB) coupling remains dynamical through the scalar and tensor pump fields. We track the squeezing dynamics from the subhorizon to the superhorizon regime and evaluate the Nielsen wave-function complexity of the resulting two-mode squeezed states. The GB correction produces a clear separation in the squeezing amplitudes, while the unwrapped squeezing angles remain nearly phase locked. Consequently, the circuit complexity is controlled mainly by the amplitude evolution. A positive coupling enhances the scalar complexity but slightly suppresses the tensor complexity for the benchmarks considered. These opposite trends show that scalar and tensor Gaussian states retain distinct information about the same modified inflationary background even when tensor propagation is luminal.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.04441",
+   "authors": [
+    "Tao Li",
+    "Hai-Bing Fu",
+    "Lei-Hua Liu"
+   ],
+   "categories": [
+    "arXiv:hep-th",
+    "arXiv:gr-qc"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-03",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.04441"
+   ],
+   "title": "Circuit Complexity of Scalar and Tensor Perturbations in Luminal Einstein--Gauss--Bonnet Inflation",
+   "topics": [],
+   "updated_date": "2026-11-03",
+   "url": "https://arxiv.org/abs/2611.04441"
+  },
+  "suggested": "circuit-complexity",
+  "title": "Circuit Complexity of Scalar and Tensor Perturbations in Luminal Einstein--Gauss--Bonnet Inflation",
+  "url": "https://arxiv.org/abs/2611.04441"
+ },
+ {
+  "added": "2026-11-05",
+  "arxiv": "2611.04517",
+  "candidates": [
+   [
+    "neural-operators",
+    5.1
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.04517",
+   "title:geosimbenchmarkingmultifieldneuraloperatorsforgeodynamics|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Learning reliable surrogates for geodynamic models requires benchmarks that resolve coupled fields and temporal stability. We present GeoSim, a benchmark of high-resolution two-dimensional mantle-plume simulations generated with I2VIS, comprising 237 trajectories across two parameter regimes, with six coupled fields, physical timestamps, and trajectory-level splits. GeoSim defines short-window prediction and autonomous rollout, and evaluates representative neural operators field by field. Across models, we observe a pronounced scalar--velocity gap: scalar fields are reconstructed accurately while velocity errors remain large, and short-window accuracy does not imply stable rollout. We also evaluate MFGNO (Multi-Field Graph Neural Operator), a joint multi-field graph baseline designed for this benchmark; on GeoSim-Plume1, under a fixed per-field objective, it reduces horizontal and vertical velocity errors by 58.4% and 38.5% relative to an independent-field graph baseline, while an explicit field-difference input shows no measurable benefit at this scale. GeoSim provides a reproducible benchmark for field-wise diagnosis and long-horizon evaluation of geodynamic surrogates.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.04517",
+   "authors": [
+    "Hailong Liu",
+    "Dinghui Yang",
+    "Mengxue Liu",
+    "Rui Qi",
+    "Meng Zhao",
+    "Yihang Tang",
+    "Jin Wen",
+    "Zhilong Fang"
+   ],
+   "categories": [
+    "arXiv:physics.geo-ph"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-03",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.04517"
+   ],
+   "title": "GeoSim: Benchmarking Multi-Field Neural Operators for Geodynamics",
+   "topics": [],
+   "updated_date": "2026-11-03",
+   "url": "https://arxiv.org/abs/2611.04517"
+  },
+  "suggested": "neural-operators",
+  "title": "GeoSim: Benchmarking Multi-Field Neural Operators for Geodynamics",
+  "url": "https://arxiv.org/abs/2611.04517"
+ },
+ {
+  "added": "2026-11-05",
+  "arxiv": "2611.04125",
+  "candidates": [
+   [
+    "integrated-sensing-and-communication",
+    5.02
+   ],
+   [
+    "antennas",
+    3.55
+   ],
+   [
+    "electromagnetics",
+    2.9
+   ],
+   [
+    "artificial-intelligence",
+    1.2
+   ],
+   [
+    "optimization",
+    0.26
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.04125",
+   "title:reconfigurableantennaenhancedisacaunifiedperspectiveonelectromagneticadaptation|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Integrated sensing and communication (ISAC) enables sensing and communication (S&C) functions to share time, frequency, and hardware resources, offering an efficient paradigm for next-generation wireless systems. However, conventional fixed-configuration antenna (FCA) architectures provide limited flexibility in adapting the physical electromagnetic (EM) response of the end-to-end wireless link. This article develops a unified EM-adaptation perspective on reconfigurable antenna (RA)-enhanced ISAC systems. We distinguish transceiver-side (TSc-side) and environment-side (Env-side) RA deployments and identify five fundamental EM reconfiguration dimensions: position, orientation, radiation pattern, polarization, and frequency response. Building on this framework, we examine how these dimensions customize communication channels, actively control target information mapping for sensing, and reshape the interplay between S&C, particularly by improving compatibility between S&C requirements under shared resources. Two case studies illustrate how TSc-side and Env-side EM reconfiguration can improve spatial selectivity and the achievable S&C performance tradeoff. Finally, we discuss several promising directions for advancing RA-enhanced ISAC systems, including fundamental performance limits, low-overhead black-box optimization, and artificial intelligence (AI)-enabled semantic ISAC.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.04125",
+   "authors": [
+    "Peilan Wang",
+    "Lei Xie",
+    "Meidong Mei",
+    "Jun Fang",
+    "Yihong Su",
+    "Hongbin Li"
+   ],
+   "categories": [
+    "arXiv:eess.SP"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-03",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.04125"
+   ],
+   "title": "Reconfigurable Antenna-Enhanced ISAC: A Unified Perspective on Electromagnetic Adaptation",
+   "topics": [],
+   "updated_date": "2026-11-03",
+   "url": "https://arxiv.org/abs/2611.04125"
+  },
+  "suggested": "integrated-sensing-and-communication",
+  "title": "Reconfigurable Antenna-Enhanced ISAC: A Unified Perspective on Electromagnetic Adaptation",
+  "url": "https://arxiv.org/abs/2611.04125"
+ },
+ {
+  "added": "2026-11-05",
+  "arxiv": "2611.04244",
+  "candidates": [
+   [
+    "sketches",
+    4.82
+   ],
+   [
+    "multimodal-foundation-models",
+    2.1
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.04244",
+   "title:countersketchphysicsgroundedcounterfactualreasoningforsketchtovideogeneration|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Counterfactual sketch animation explores how a static sketch evolves under a hypothetical intervention. We present CounterSketch, a physics-grounded framework that transforms natural-language ``What if...?'' queries into physically plausible sketch animations. The framework integrates VLM-guided scene grounding, causal event-chain reasoning, constraint-based trajectory generation, and verification. It models physical transitions to update the scene graph, computes continuous object trajectories, and validates them against physical, geometric, and semantic constraints. The verified trajectories are then projected into object-level motion bounding boxes to guide downstream sketch-video synthesis. Experiments on CounterSketchBench (80 questions) demonstrate that physics-grounded trajectories provide stronger motion guidance than direct VLM predictions.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.04244",
+   "authors": [
+    "Hien Trinh",
+    "Tan-Hiep To",
+    "Dinh-Khoi Vo",
+    "Tam V. Nguyen",
+    "Minh-Triet Tran",
+    "Trung-Nghia Le"
+   ],
+   "categories": [
+    "arXiv:cs.CV"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-03",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.04244"
+   ],
+   "title": "CounterSketch: Physics-Grounded Counterfactual Reasoning for Sketch-to-Video Generation",
+   "topics": [],
+   "updated_date": "2026-11-03",
+   "url": "https://arxiv.org/abs/2611.04244"
+  },
+  "suggested": "sketches",
+  "title": "CounterSketch: Physics-Grounded Counterfactual Reasoning for Sketch-to-Video Generation",
+  "url": "https://arxiv.org/abs/2611.04244"
+ },
+ {
+  "added": "2026-11-05",
+  "arxiv": "2611.04115",
+  "candidates": [
+   [
+    "machine-learning",
+    4.8
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.04115",
+   "title:multifidelitymachinelearningforpredictingstartupstressgrowthandstrainhardeninginwormlikemicellarsolutions|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Wormlike micellar solutions exhibit formulation-dependent nonlinear startup responses, including stress overshoot, undershoot, and strain hardening, making prediction across compositions and shear rates challenging. We developed a multi-fidelity machine-learning framework to predict stress-growth curves in cetylpyridinium chloride (CPyCl)-based wormlike micelles from sparse experimental measurements. The framework combines a low-fidelity analytical model describing the overall startup response with high-fidelity experimental data capturing formulation-specific nonlinear features. This approach addresses the limited and uneven coverage of salt chemistry, concentration, and shear rate without relying solely on data-intensive neural-network training. The trained model predicts complete stress-growth responses at untested shear rates and enables extraction of strain-hardening characteristics from interpolated curves. By augmenting sparse rheological measurements, the framework provides a basis for exploring relationships among formulation variables, linear viscoelastic properties, and nonlinear startup behavior, while supporting more efficient characterization of wormlike micellar solutions.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.04115",
+   "authors": [
+    "Saghar Zolfaghari",
+    "Nunzia Lauriello",
+    "Ilaria Cusano",
+    "Marcello Ferranti",
+    "Rossana Pasquino",
+    "Safa Jamali"
+   ],
+   "categories": [
+    "arXiv:cond-mat.soft"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-03",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.04115"
+   ],
+   "title": "Multi-Fidelity Machine Learning for Predicting Startup Stress Growth and Strain Hardening in Wormlike Micellar Solutions",
+   "topics": [],
+   "updated_date": "2026-11-03",
+   "url": "https://arxiv.org/abs/2611.04115"
+  },
+  "suggested": "machine-learning",
+  "title": "Multi-Fidelity Machine Learning for Predicting Startup Stress Growth and Strain Hardening in Wormlike Micellar Solutions",
+  "url": "https://arxiv.org/abs/2611.04115"
+ },
+ {
+  "added": "2026-11-05",
+  "arxiv": "2611.04251",
+  "candidates": [
+   [
+    "topology-optimization",
+    4.8
+   ],
+   [
+    "acoustics",
+    2.9
+   ],
+   [
+    "non-destructive-testing",
+    1.65
+   ],
+   [
+    "wave-propagation",
+    1.2
+   ],
+   [
+    "optimization",
+    1.12
+   ],
+   [
+    "holography",
+    1.12
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.04251",
+   "title:differentiabletopologyoptimizationforhighfidelityacousticholographybeyondthethinelementapproximation|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Acoustic holography in the megahertz range can impact applications from manufacturing and non-destructive testing to transcranial ultrasound. Designing lens topologies for complex holograms in the sub-megahertz to low-megahertz regime most relevant to transcranial therapy is difficult because wave propagation through an acoustically thick lens cannot be ignored. Here we show that the heterogeneous angular spectrum approach (HASA), which admits in-plane varying speed-of-sound maps and supports rapid differentiable optimization with the Adam optimizer, can generate three-dimensional lens topologies directly. With it we quantify the failure of the thin-element approximation (TEA) at these frequencies, where lenses enter an acoustically thick regime (thickness L much greater than the wavelength) governed by refractive walk-off, and we introduce a dimensionless refractive walk-off number Nw that defines a frequency-dependent operating regime. Topology optimization outperformed TEA-based design in all 45 configurations tested, with the largest structural gains at or below 1 MHz; for high-numerical-aperture designs the fidelity at 1 MHz matched that at 2 MHz, while structural similarity was highest at 0.5 MHz. The sub-megahertz to low-megahertz window is therefore a favorable operating regime for high-fidelity transcranial holography rather than one to be avoided. Free-field hydrophone measurements of 3D-printed lenses reproduced the designed patterns, and because the framework also accounts for aberration in heterogeneous media, patient-specific lenses corrected skull-induced aberration in simulation and ex vivo experiment, generalized across skull segments, and shaped volumetric beams through the human skull. Together these results provide a framework for designing simple, economical, and high-performance ultrasound systems.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.04251",
+   "authors": [
+    "Pradosh Pritam Dash",
+    "Costas D. Arvanitis"
+   ],
+   "categories": [
+    "arXiv:physics.app-ph"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-03",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.04251"
+   ],
+   "title": "Differentiable topology optimization for high-fidelity acoustic holography beyond the thin-element approximation",
+   "topics": [],
+   "updated_date": "2026-11-03",
+   "url": "https://arxiv.org/abs/2611.04251"
+  },
+  "suggested": "topology-optimization",
+  "title": "Differentiable topology optimization for high-fidelity acoustic holography beyond the thin-element approximation",
+  "url": "https://arxiv.org/abs/2611.04251"
+ },
+ {
+  "added": "2026-11-05",
+  "arxiv": "2611.04369",
+  "candidates": [
+   [
+    "open-ran",
+    4.8
+   ],
+   [
+    "long-short-term-memory",
+    4.48
+   ],
+   [
+    "variational-autoencoders",
+    3.28
+   ],
+   [
+    "ensemble-methods",
+    3.1
+   ],
+   [
+    "autoencoders",
+    2.38
+   ],
+   [
+    "scanning-electron-microscopy",
+    0.45
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.04369",
+   "title:benchmarkingunsupervisedjammingdetectionin5gopenran|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Radio Frequency (RF) jamming threatens fifth-generation (5G) networks. Open Radio Access Network (Open RAN) telemetry enables jamming detection without dedicated spectrum monitoring equipment, but labeled attack data are rarely available across deployments, motivating unsupervised detectors. Comparing such detectors across algorithmic families, however, remains difficult without ground-truth labels. This paper benchmarks statistical and reconstruction-based unsupervised jamming detectors using a symmetric evaluation interface that combines detection confidence and temporal interval coherence into a detector-independent composite score. We compare a Statistical Ensemble Method (SEM) detector against Vanilla, Long Short-Term Memory (LSTM), and Variational Autoencoder (VAE) baselines on Key Performance Indicator (KPI) telemetry from ten heterogeneous 5G environments with fixed and variable jamming bursts and dynamic jammer gains. Under leave-one-out (LOO) evaluation, SEM achieves a mean composite score of 0.906, compared with 0.688 for the best autoencoder (AE) per fold. Ground-truth validation yields a mean F1-score of 0.918 for SEM, compared with 0.521 for the best AE variant. The composite ranks SEM first in all environments, consistent with F1 rankings. However, in both within-trace and cross-trace evaluation, it fails for detectors that flag far fewer samples than the jamming prevalence, indicating that rankings are reliable only when detection rate matches the expected prevalence.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.04369",
+   "authors": [
+    "Sneihil Gopal",
+    "Fernando J. Cintron",
+    "Richard A. Rouil"
+   ],
+   "categories": [
+    "arXiv:cs.AI",
+    "arXiv:cs.LG"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-03",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.04369"
+   ],
+   "title": "Benchmarking Unsupervised Jamming Detection in 5G Open RAN",
+   "topics": [],
+   "updated_date": "2026-11-03",
+   "url": "https://arxiv.org/abs/2611.04369"
+  },
+  "suggested": "open-ran",
+  "title": "Benchmarking Unsupervised Jamming Detection in 5G Open RAN",
+  "url": "https://arxiv.org/abs/2611.04369"
+ },
+ {
+  "added": "2026-11-05",
+  "arxiv": "2611.04389",
+  "candidates": [
+   [
+    "neural-operators",
+    4.8
+   ],
+   [
+    "cosmic-microwave-background",
+    2.95
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.04389",
+   "title:spinsphericalfourierneuraloperatorsefficientequivariantlearningforvectorandspinfieldsonthesphere|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Many fields of physical interest on the sphere, such as wind, the polarisation of the cosmic microwave background and the shear of weak gravitational lensing, are spin fields, whose values change phase when the local frame rotates. We extend spherical Fourier neural operators (SFNOs) to fields of any spin, through lifted spherical convolutions that are exactly rotationally equivariant. Lifting spin fields to Mackey functions on the rotation group provides the conceptual framework, while computation is performed exactly and efficiently through their harmonic representation and by appealing to sampling theorems on the sphere and rotation group. We construct spin SFNOs (S$^2$FNOs) from these building blocks. We demonstrate empirically that rotational equivariance holds to machine precision for these layers. We achieve state-of-the-art performance on existing benchmarks, and introduce new benchmarks on which spin-aware models outperform their scalar counterparts.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.04389",
+   "authors": [
+    "Kevin Mulder",
+    "Matthew A. Price",
+    "Eirini Leftaki",
+    "Jason D. McEwen"
+   ],
+   "categories": [
+    "arXiv:cs.CV",
+    "arXiv:astro-ph.IM",
+    "arXiv:cs.LG"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-03",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.04389"
+   ],
+   "title": "Spin Spherical Fourier Neural Operators: Efficient Equivariant Learning for Vector and Spin Fields on the Sphere",
+   "topics": [],
+   "updated_date": "2026-11-03",
+   "url": "https://arxiv.org/abs/2611.04389"
+  },
+  "suggested": "neural-operators",
+  "title": "Spin Spherical Fourier Neural Operators: Efficient Equivariant Learning for Vector and Spin Fields on the Sphere",
+  "url": "https://arxiv.org/abs/2611.04389"
+ },
+ {
+  "added": "2026-11-05",
+  "arxiv": "2611.04433",
+  "candidates": [
+   [
+    "reinforcement-learning",
+    4.8
+   ],
+   [
+    "antennas",
+    3.16
+   ],
+   [
+    "design-for-testability",
+    2.1
+   ],
+   [
+    "spatial-statistics",
+    1.33
+   ],
+   [
+    "attention-mechanisms",
+    1.2
+   ],
+   [
+    "optimization",
+    1.05
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.04433",
+   "title:movableantennaaidedrobustwirelesstransmissionfrommodelbasedoptimizationtoscalablereinforcementlearning|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "This paper investigates robust joint antenna positioning and precoding for multiuser movable antenna (MA) systems under imperfect channel state information (CSI). First, we identify the mismatch between the spatial statistics of densely sampled MA channels and the discrete Fourier transform (DFT) basis used for conventional robust precoding. To address this, we develop a novel discrete prolate spheroidal sequence (DPSS)-based a posteriori channel model. By exploiting the spatial covariance structure of MA channels, this model is better suited to modeling MA channel uncertainty. Building on this model, we develop an efficient iterative algorithm for robust joint antenna positioning and precoding to maximize the expected sum rate. By transforming the coupled optimization of antenna positioning and precoding at each iteration into direct comparisons of closed-form scores, we design a low-complexity position replacement scheme that effectively reuses matrix computations across candidate sets. To further improve efficiency and scalability, we exploit the inherent tensor equivariance (TE) of the problem to develop a reinforcement learning framework. To explicitly account for channel uncertainty, we develop novel pairwise user-interaction and CSI-conditioned equivariant attention mechanisms to encode channel statistics and adaptively fuse them with the available CSI. We further introduce distance-biased spatial attention to incorporate the geometry of candidate positions into attention weighting, thereby enhancing spatial feature learning. Simulation results show that the proposed methods improve sum-rate performance while reducing online runtime under imperfect CSI. These methods also achieve near-optimal performance under perfect CSI, closely matching the exhaustive-search method. Moreover, the learning framework generalizes across different numbers of users and MAs without retraining.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.04433",
+   "authors": [
+    "Jinshuo Zhang",
+    "Yafei Wang",
+    "Hongwei Hou",
+    "Wenjin Wang",
+    "Shi Jin",
+    "Symeon Chatzinotas",
+    "Björn Ottersten"
+   ],
+   "categories": [
+    "arXiv:eess.SP"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-03",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.04433"
+   ],
+   "title": "Movable Antenna Aided Robust Wireless Transmission: From Model-Based Optimization to Scalable Reinforcement Learning",
+   "topics": [],
+   "updated_date": "2026-11-03",
+   "url": "https://arxiv.org/abs/2611.04433"
+  },
+  "suggested": "reinforcement-learning",
+  "title": "Movable Antenna Aided Robust Wireless Transmission: From Model-Based Optimization to Scalable Reinforcement Learning",
+  "url": "https://arxiv.org/abs/2611.04433"
+ },
+ {
+  "added": "2026-11-05",
+  "arxiv": "2611.04558",
+  "candidates": [
+   [
+    "machine-learning",
+    4.8
+   ],
+   [
+    "molecular-dynamics-simulation",
+    1.65
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.04558",
+   "title:machinelearningmoleculardynamicsrevealsgrotthusstransportinconcentratedelectrolytes|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Proton transfer is responsible for the anomalous high conductivity in acidic or basic aqueous solutions. Yet, the contribution of the proton transfer mechanism to the conductivity of concentrated aqueous solutions is unknown. In this work, we compute the transport properties of KOH(aq) systems with different concentrations, using Molecular Dynamics simulations with a Machine Learning Interatomic Potential (MLIP), which includes proton transfer. We quantify the contribution of the proton transfer mechanism to the diffusivities of hydroxide ions and water molecules, and the ionic conductivity and transport numbers of the electrolytes. The contribution is substantial at lower concentrations, but diminishes at very high concentrations.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.04558",
+   "authors": [
+    "Øystein Gullbrekken",
+    "Sondre Kvalvåg Schnell"
+   ],
+   "categories": [
+    "arXiv:physics.chem-ph",
+    "arXiv:cond-mat.other"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-03",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.04558"
+   ],
+   "title": "Machine-Learning Molecular Dynamics Reveals Grotthuss Transport in Concentrated Electrolytes",
+   "topics": [],
+   "updated_date": "2026-11-03",
+   "url": "https://arxiv.org/abs/2611.04558"
+  },
+  "suggested": "machine-learning",
+  "title": "Machine-Learning Molecular Dynamics Reveals Grotthuss Transport in Concentrated Electrolytes",
+  "url": "https://arxiv.org/abs/2611.04558"
+ },
+ {
+  "added": "2026-11-05",
+  "arxiv": "2611.04330",
+  "candidates": [
+   [
+    "open-ran",
+    4.59
+   ],
+   [
+    "deep-q-networks",
+    4.52
+   ],
+   [
+    "reinforcement-learning",
+    3.1
+   ],
+   [
+    "trust-region-policy-methods",
+    2.74
+   ],
+   [
+    "calibration",
+    0.26
+   ],
+   [
+    "optimization",
+    0.26
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.04330",
+   "title:corateacherguidedcausaloranadaptationforjammingdetection|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "In mission-critical networks, a missed jamming event is costlier than a false alarm, so detectors should favor recall, operate causally, and work without labeled attack data. Retrospective Key Performance Indicator (KPI) detectors meet the label-free requirement but rely on future context and cannot run in streaming operation. We present CORA, a teacher-guided reinforcement learning (RL) framework that transfers the hindsight of a retrospective detector to a causal one without labels during training or deployment. Offline, a retrospective KPI detector evaluated on unlabeled historical logs defines a recall-weighted reward for a masked controller that adapts the sensitivity, persistence, and grace of a causal KPI detector. At deployment, the teacher is removed and the frozen controller acts causally, with no ground-truth labels and no target-specific calibration. The design maps onto offline training in the Non-Real-Time RIC and causal control in the Near-Real-Time RIC of an Open Radio Access Network (O-RAN). Under leave-one-out transfer across ten 5G O-RAN testbed configurations, CORA reaches recall-oriented operating points on the deployable frontier that none of the evaluated baselines covers. A Proximal Policy Optimization (PPO) controller raises mean recall from 0.687 to 0.771 over a fixed default detector on all ten configurations, while a Deep Q-Network (DQN) achieves a comparable F2-score to the best teacher-selected static configuration, with 61% fewer false alarms. Removing the teacher lowers recall on every configuration.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.04330",
+   "authors": [
+    "Sneihil Gopal",
+    "Richard A. Rouil"
+   ],
+   "categories": [
+    "arXiv:cs.AI",
+    "arXiv:cs.LG"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-03",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.04330"
+   ],
+   "title": "CORA: Teacher-Guided Causal O-RAN Adaptation for Jamming Detection",
+   "topics": [],
+   "updated_date": "2026-11-03",
+   "url": "https://arxiv.org/abs/2611.04330"
+  },
+  "suggested": "open-ran",
+  "title": "CORA: Teacher-Guided Causal O-RAN Adaptation for Jamming Detection",
+  "url": "https://arxiv.org/abs/2611.04330"
+ },
+ {
+  "added": "2026-11-05",
+  "arxiv": "2611.04217",
+  "candidates": [
+   [
+    "large-language-models",
+    4.56
+   ],
+   [
+    "graph-neural-networks",
+    3.88
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.1145/3799682.3840912",
+  "keys": [
+   "arxiv:2611.04217",
+   "doi:10.1145/3799682.3840912",
+   "title:lensreliabilityawarestockpredictionviallmextractedpriorsandnewsdrivensemanticgraphs|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Predicting stock returns requires modeling persistent company relations and time-varying market signals. Graph Neural Network (GNN) approaches combine static priors with dynamic relational graphs, but treat every extracted edge as a trustworthy binary fact, ignoring heterogeneous reliability across relational sources. We propose LENS (LLM-Extracted priors and News-driven Semantics), a static--dynamic graph framework for stock return prediction and ranking that models relational reliability as a first-class signal across the pipeline. On the static side, we extract a multi-relational company graph from a Large Language Model and aggregate it over multiple runs with confidence weighting to downweight low-consistency edges. On the dynamic side, we build a news-driven semantic graph with exponential-decay temporal aggregation to capture changing market context under uneven coverage. A context-dependent gated fusion module rebalances the two graphs at the per-stock, per-day level. On S&P 500, LENS improves AR@5 by 16.4% and SR@5 by 22.6% over the strongest baseline, and on NASDAQ 100 it achieves comparable improvements (15.5% and 20.9% respectively). Ablations isolate each component's contribution, and a human-validation study of sampled relations supports that the aggregation is grounded, providing evidence that reliability-aware LLM relations and news-based semantic graphs carry complementary information for graph-based financial prediction.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.04217",
+   "authors": [
+    "Hao Zhou",
+    "Tiejun Ma",
+    "Luis Felipe Costa Sperb"
+   ],
+   "categories": [
+    "arXiv:cs.LG"
+   ],
+   "cited_by_count": null,
+   "doi": "10.1145/3799682.3840912",
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": null,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-03",
+   "related_versions": [
+    {
+     "doi": "10.1145/3799682.3840912",
+     "relation": "published_version",
+     "source": "arxiv"
+    }
+   ],
+   "source_ids": [
+    "arxiv:2611.04217"
+   ],
+   "title": "LENS: Reliability-Aware Stock Prediction via LLM-Extracted Priors and News-Driven Semantic Graphs",
+   "topics": [],
+   "updated_date": "2026-11-03",
+   "url": "https://arxiv.org/abs/2611.04217"
+  },
+  "suggested": "large-language-models",
+  "title": "LENS: Reliability-Aware Stock Prediction via LLM-Extracted Priors and News-Driven Semantic Graphs",
+  "url": "https://arxiv.org/abs/2611.04217"
+ },
+ {
+  "added": "2026-11-05",
+  "arxiv": "2611.04264",
+  "candidates": [
+   [
+    "retrieval-augmented-generation",
+    4.56
+   ],
+   [
+    "information-retrieval",
+    3.1
+   ],
+   [
+    "probabilistic-retrieval-models",
+    2.74
+   ],
+   [
+    "analysis",
+    0.26
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.04264",
+   "title:reliabilitystresstestingofragretrievalunderqueryrelevantcorpuspoisoning|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "External text can affect a retrieval-augmented generation (RAG) system only after the retriever admits it to the model context. We stress this admission step while varying document content, attacker query information, per-target poison budget, and contamination scope. Across 623 Benchmarking Information Retrieval (BEIR) queries from SciFact and NFCorpus, five query-targeted documents per query reduce classical-retriever nDCG@10 by 40.2-61.5% in isolated-target stress. Full-query anchoring explains most Best Matching 25 (BM25) degradation, whereas appended text also shifts latent semantic analysis (LSA) and Hybrid rankings. A pretrained BGE-small validation reaches 100% target exposure for query-only P=5 on both datasets; adding the injection payload changes SciFact nDCG only from 0.269 to 0.271 and lowers NFCorpus exposure slightly to 98.8%, indicating that query anchoring remains the dominant retrieval-side factor for this dense model. Query length materially changes the interpretation of partial-information attacks: on 162 long SciFact queries, two random terms cover 19.9% of eligible terms and still yield 39.5% Hybrid target exposure. Multi-target contamination adds cross-target interference. Overlap-based admission can remove full-query poisons but may sharply reduce clean retrieval utility, and maximal marginal relevance (MMR) leaves exposure unchanged under the tested configuration. The study measures retrieval-layer failures, not downstream instruction following.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.04264",
+   "authors": [
+    "Janet Sung",
+    "Kainan Zhou",
+    "Gangzhen Qian",
+    "Hang Xiao",
+    "Lu Yi"
+   ],
+   "categories": [
+    "arXiv:cs.AI"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-03",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.04264"
+   ],
+   "title": "Reliability Stress Testing of RAG Retrieval under Query-Relevant Corpus Poisoning",
+   "topics": [],
+   "updated_date": "2026-11-03",
+   "url": "https://arxiv.org/abs/2611.04264"
+  },
+  "suggested": "retrieval-augmented-generation",
+  "title": "Reliability Stress Testing of RAG Retrieval under Query-Relevant Corpus Poisoning",
+  "url": "https://arxiv.org/abs/2611.04264"
+ },
+ {
+  "added": "2026-11-05",
+  "arxiv": "2611.04320",
+  "candidates": [
+   [
+    "large-language-models",
+    4.56
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.04320",
+   "title:planningcodingseparationinllmbasedcodegenerationanempiricalstudy|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Planning has been identified as an important factor for improved code generation with Large Language Models (LLMs). However, the interaction between planning capability and coding capability remains largely underexplored, especially when the two capabilities are from different LLMs. In this paper, we conduct the first comprehensive empirical study of planning-coding interaction in LLM-based code generation, where planning and coding are assigned to different LLMs (i.e., planning-coding separation). Specifically, we explore different planner-coder combinations to investigate the effectiveness for coders to utilize planning information from various planners and the impact of further training of coders on planner-coder combinations. Our results demonstrate that almost all planner-coder combinations are as competitive as using the same LLM for planning and coding, and the combination of a stronger planner and a stronger coder typically achieves improved effectiveness. Furthermore, using a large model as the planner paired with a much smaller model as the coder can sometimes be as competitive as using the large model as both the planner and the coder, and further training of the coder can typically boost various planner-coder combinations. These findings provide empirical evidence that planning and coding can be separated to a considerable extent in LLM-based code generation, which may offer a more flexible way to construct code-generation systems.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.04320",
+   "authors": [
+    "Wentao Wang",
+    "Zeyu Sun",
+    "Ruwei Pan",
+    "Yueyi Xiao",
+    "Qingyuan Liang",
+    "Lu Zhang"
+   ],
+   "categories": [
+    "arXiv:cs.AI",
+    "arXiv:cs.SE"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-03",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.04320"
+   ],
+   "title": "Planning-Coding Separation in LLM-Based Code Generation: An Empirical Study",
+   "topics": [],
+   "updated_date": "2026-11-03",
+   "url": "https://arxiv.org/abs/2611.04320"
+  },
+  "suggested": "large-language-models",
+  "title": "Planning-Coding Separation in LLM-Based Code Generation: An Empirical Study",
+  "url": "https://arxiv.org/abs/2611.04320"
+ },
+ {
+  "added": "2026-11-05",
+  "arxiv": "2611.04323",
+  "candidates": [
+   [
+    "large-language-models",
+    4.56
+   ],
+   [
+    "quantization",
+    2.02
+   ],
+   [
+    "optimization",
+    0.26
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.04323",
+   "title:fp4quantefficient4bitcommunicationcompressionformodelparallelllmtraining|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "The rapid scaling of large language models (LLMs) has made communication overhead a critical bottleneck in distributed model-parallel training. Although existing low-precision compression methods can effectively reduce communication costs, further reducing the communication footprint to ultra-low-bit formats such as FP4 introduces new challenges, including limited numerical range, sub-byte storage overhead, and increased computational cost from fine-grained quantization. In this paper, we present \\textbf{FP4Quant}, a micro-grouped FP4 compression framework for efficient model-parallel LLM training. FP4Quant integrates a micro-grouped dual-scale FP4 quantization mechanism to preserve local tensor distribution characteristics, a warp-cooperative FP4 packing scheme to enable efficient sub-byte data representation, and a hybrid two-level FWHT pipeline to mitigate quantization errors with GPU-aware execution optimization. Experiments on NVIDIA H100 GPUs with Qwen-7B demonstrate up to 1.56$\\times$ end-to-end throughput improvement over BF16, revealing a trade-off between throughput and model quality.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.04323",
+   "authors": [
+    "Man Liu",
+    "Xingchen Liu",
+    "Hairui Zhao",
+    "Guangming Tan",
+    "Dingwen Tao"
+   ],
+   "categories": [
+    "arXiv:cs.AI"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-03",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.04323"
+   ],
+   "title": "FP4Quant: Efficient 4-Bit Communication Compression for Model-Parallel LLM Training",
+   "topics": [],
+   "updated_date": "2026-11-03",
+   "url": "https://arxiv.org/abs/2611.04323"
+  },
+  "suggested": "large-language-models",
+  "title": "FP4Quant: Efficient 4-Bit Communication Compression for Model-Parallel LLM Training",
+  "url": "https://arxiv.org/abs/2611.04323"
+ },
+ {
+  "added": "2026-11-05",
+  "arxiv": "2611.04405",
+  "candidates": [
+   [
+    "convolutional-neural-networks",
+    4.56
+   ],
+   [
+    "computer-integrated-manufacturing",
+    0.45
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.04405",
+   "title:drlitenetalightweightexplainablehybridcnnframeworkforimbalanceddiabeticretinopathygradingviaadaptivesmotefusion|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Automated diabetic retinopathy (DR) grading from colour fundus photographs is held back by two compounding challenges: severe class imbalance across five severity grades and the heavy computational cost of large scale architectures in resource constrained clinical settings. We introduce DR-LiteNet, a dual branch hybrid convolutional neural network that tackles both problems at once. The CNN branch extracts 1,280 dimensional deep features through EfficientNetB0, while the handcrafted (HC) branch produces a compact 51 dimensional lesion descriptor capturing vessel density, exudate intensity, texture entropy, and HSV colour histograms. Concatenating both branches yields a 1,331-d hybrid embedding, on which Adaptive SMOTE (ADASYN) is applied during training to synthesise minority class feature vectors, correcting distributional skew without touching the image space. A two phase training protocol first warms up the classification head on balanced features, then fine tunes the full network end to end. Grad CAM saliency maps deliver post-hoc clinical explainability. Tested on APTOS 2019 under five fold stratified cross validation, DR-LiteNet reaches 88.77% +/- 0.61 accuracy, a quadratic weighted kappa (QWK) of 0.884 +/- 0.010, and a macro F1 of 0.792 +/- 0.008 with only 4.69 M parameters beating ResNet50 (23.5 M) by DeltaQWK = 0.022 while staying practical on a single Google Colab T4 GPU. The source code of this project is available at: https://github.com/Nishi-Kanta-Paul/DR-LiteNet.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.04405",
+   "authors": [
+    "Nishi Kanta Paul",
+    "Md Shihabul Islam Shovo",
+    "Audrija Chowdhury",
+    "Israt Jahan Esha"
+   ],
+   "categories": [
+    "arXiv:cs.CV"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-03",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.04405"
+   ],
+   "title": "DR-LiteNet: A Lightweight Explainable Hybrid CNN Framework for Imbalanced Diabetic Retinopathy Grading via Adaptive SMOTE Fusion",
+   "topics": [],
+   "updated_date": "2026-11-03",
+   "url": "https://arxiv.org/abs/2611.04405"
+  },
+  "suggested": "convolutional-neural-networks",
+  "title": "DR-LiteNet: A Lightweight Explainable Hybrid CNN Framework for Imbalanced Diabetic Retinopathy Grading via Adaptive SMOTE Fusion",
+  "url": "https://arxiv.org/abs/2611.04405"
+ },
+ {
+  "added": "2026-11-05",
+  "arxiv": "2611.04518",
+  "candidates": [
+   [
+    "large-language-models",
+    4.56
+   ],
+   [
+    "underwater-robots",
+    3.9
+   ],
+   [
+    "robot-software-and-middleware",
+    2.1
+   ],
+   [
+    "underwater-vehicles",
+    1.2
+   ],
+   [
+    "linear-programming",
+    1.2
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.04518",
+   "title:llmassistedplanningwithdistributedonboardbehaviourtreeexecutionformultiauvmissions|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Coordinating autonomous underwater vehicles requires translating operator intent into feasible assignments while preserving autonomous execution when communication is limited. We present a hierarchical framework that couples Large Language Model (LLM) interpretation of natural-language mission instructions with Mixed-Integer Linear Programming (MILP) and distributed Behaviour Tree (BT) execution. The LLM extracts assignment and ordering constraints, which the MILP optimizer combines with vehicle capabilities and temporal requirements. A BT-LLM Bridge distributes the resulting allocations to onboard BT Mission Managers. Per-vehicle Robotic Agents assess local faults and request selective replanning, allowing unaffected vehicles to continue their assigned tasks. Evaluation in a ROS-based AUV simulator compares Qwen-3-8B and Llama-3.1-8B on constraint extraction and tests recovery from sensor degradation and critical vehicle faults. Qwen-3-8B provides more accurate constraint extraction, and all tasks are completed in the tested failure scenarios. These simulation results support the feasibility of combining language-based mission specification with structured allocation and distributed execution.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.04518",
+   "authors": [
+    "Ehsan Khorrambakht",
+    "Cristiano Caissutti",
+    "Andrea Munafo",
+    "Andrea Caiti"
+   ],
+   "categories": [
+    "arXiv:cs.RO"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-03",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.04518"
+   ],
+   "title": "LLM-Assisted Planning with Distributed Onboard Behaviour Tree Execution for Multi-AUV Missions",
+   "topics": [],
+   "updated_date": "2026-11-03",
+   "url": "https://arxiv.org/abs/2611.04518"
+  },
+  "suggested": "large-language-models",
+  "title": "LLM-Assisted Planning with Distributed Onboard Behaviour Tree Execution for Multi-AUV Missions",
+  "url": "https://arxiv.org/abs/2611.04518"
+ },
+ {
+  "added": "2026-11-05",
+  "arxiv": "2611.04546",
+  "candidates": [
+   [
+    "large-language-models",
+    4.56
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.04546",
+   "title:arellmassistantsregulatoryreadyanswersfromregenolds2026euaiactqveachallenge|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Large language model (LLM) assistants are increasingly proposed for regulatory affairs, yet their reliability in regulatory tasks remains unclear. We introduce the EU AI Act Q&A Benchmark, an expert-curated benchmark of 110 open-ended questions about the EU AI Act (Regulation (EU) 2024/1689). Each question comes with an exemplary answer, question-specific correctness criteria, and expected references. Evaluation measures answer correctness, reference quality, conciseness, tone, and latency, with a multi-turn ``hard mode'' testing responses to simulated user pushback. We also present the results of the 2026 EU AI Act Q&A Challenge, based on the benchmark, where three off-the-shelf baselines and five purpose-built assistants (from four commercial developers and one academic entrant) were tested. Only two of the five submitted assistants consistently outperformed the baselines; one achieved high scores across all evaluated metrics. These results show that specialist development alone does not guarantee better performance and highlight the critical importance of LLM assistant evaluation in regulatory affairs. The benchmark code is openly available at https://github.com/regenold-GmbH/eu-ai-act-benchmark-2026/.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.04546",
+   "authors": [
+    "Marco Virgolin",
+    "Thomas Haszprunar",
+    "Maximilian Regenold"
+   ],
+   "categories": [
+    "arXiv:cs.AI",
+    "arXiv:cs.MA"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-03",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.04546"
+   ],
+   "title": "Are LLM Assistants Regulatory Ready? Answers from regenold's 2026 EU AI Act Q&A Challenge",
+   "topics": [],
+   "updated_date": "2026-11-03",
+   "url": "https://arxiv.org/abs/2611.04546"
+  },
+  "suggested": "large-language-models",
+  "title": "Are LLM Assistants Regulatory Ready? Answers from regenold's 2026 EU AI Act Q&A Challenge",
+  "url": "https://arxiv.org/abs/2611.04546"
+ },
+ {
+  "added": "2026-11-05",
+  "arxiv": "2611.04224",
+  "candidates": [
+   [
+    "leo-satellite-constellations",
+    4.54
+   ],
+   [
+    "satellite-communications",
+    3.1
+   ],
+   [
+    "deep-learning",
+    1.2
+   ],
+   [
+    "meta-learning",
+    1.2
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.04224",
+   "title:towardgeneralizedleochannelpredictionarapidadaptationtimefrequencymambaframework|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Accurate channel state information (CSI) prediction is pivotal for enhancing system capacity in low Earth orbit (LEO) satellite-terrestrial communications within the sixth-generation vision of global ubiquitous connectivity. However, the extreme mobility of LEO satellites, coupled with significant propagation delays, induces severe channel aging. Existing deep learning (DL) methods often struggle with non-stationary dynamics or generalize poorly across diverse global geographies. To address these challenges, we design the Evo-TFMamba, which is an evolutionary framework integrating time-frequency selective Mamba blocks with meta-learning for generalized CSI prediction. Experimental results demonstrate that the proposed Evo-TFMamba performs adaptive prediction according to the geographic coverage of LEO satellites. Meanwhile, it significantly enhances the model's generalization ability, particularly when faced with unseen channel environments in LEO satellite communication.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.04224",
+   "authors": [
+    "Yunxin Geng",
+    "Yun Zhao",
+    "Weiwei Jiang",
+    "Shengfeng Wang",
+    "Haotian Liu",
+    "Zhiqing Wei"
+   ],
+   "categories": [
+    "arXiv:eess.SP"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-03",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.04224"
+   ],
+   "title": "Toward Generalized LEO Channel Prediction: A Rapid Adaptation Time-Frequency Mamba Framework",
+   "topics": [],
+   "updated_date": "2026-11-03",
+   "url": "https://arxiv.org/abs/2611.04224"
+  },
+  "suggested": "leo-satellite-constellations",
+  "title": "Toward Generalized LEO Channel Prediction: A Rapid Adaptation Time-Frequency Mamba Framework",
+  "url": "https://arxiv.org/abs/2611.04224"
+ },
+ {
+  "added": "2026-11-05",
+  "arxiv": "2611.04338",
+  "candidates": [
+   [
+    "large-language-models",
+    4.54
+   ],
+   [
+    "machine-learning",
+    3.1
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.04338",
+   "title:patchingtheprotocolataxonomyofpreregistrationrepairsinllmproposerexperiments|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Pre-registration is increasingly proposed as a trust mechanism for machine-learning research involving LLM-generated content, but its canonical form assumes a frozen protocol can be executed unchanged. Software-intensive studies violate this assumption: the protocol is partly implemented, and implementations carry defects. We report a three-case study of protocol repairs (\"patches\") from a program where an LLM proposes executable rules that a programmatic verifier gates, across production scheduling, incentive design, and task assignment. Each protocol required exactly one defect-repair patch: three events in total. None modified a numbered judgment criterion, its threshold, or the scoring rule, and none altered already collected data; two changed pre-registered design parameters before any data were collected, each with a recorded rationale. We propose a two-axis taxonomy of patches (defect class: environmental / feasibility / correctness, x timing: pre-data / post-data), introduce a verifiable non-impact claim for post-data repairs, and distill a nine-item checklist; all nine items were exercised by at least one patch event -- an observation of use, not a validation of sufficiency. The credibility of verifier-bound, LLM-proposer studies depends less on whether patches occur than on whether they are auditable.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.04338",
+   "authors": [
+    "Peter Chen",
+    "Ni Zhang",
+    "Siyuan Zhang"
+   ],
+   "categories": [
+    "arXiv:cs.AI",
+    "arXiv:cs.SE"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-03",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.04338"
+   ],
+   "title": "Patching the Protocol: A Taxonomy of Pre-Registration Repairs in LLM-Proposer Experiments",
+   "topics": [],
+   "updated_date": "2026-11-03",
+   "url": "https://arxiv.org/abs/2611.04338"
+  },
+  "suggested": "large-language-models",
+  "title": "Patching the Protocol: A Taxonomy of Pre-Registration Repairs in LLM-Proposer Experiments",
+  "url": "https://arxiv.org/abs/2611.04338"
+ },
+ {
+  "added": "2026-11-05",
+  "arxiv": "2611.04411",
+  "candidates": [
+   [
+    "smart-contract-virtual-machines",
+    4.54
+   ],
+   [
+    "smart-contracts",
+    3.1
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.5281/zenodo.23758032",
+  "keys": [
+   "arxiv:2611.04411",
+   "doi:10.5281/zenodo.23758032",
+   "title:txbenchabenchmarkofattacktransactionsandevidencebackednegativesonsevenevmchains|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Researchers evaluate detectors of malicious smart-contract transactions on datasets that each paper assembles anew. Their positives come from incident trackers, whose citations mix attacks with setup steps and transactions that never ran, or from a detector's own output, which makes the evaluation circular; their negatives are ordinary transactions. A shared benchmark needs positives whose own execution shows the attack and negatives that use the attacks' mechanisms, with no detector deciding either label. We present TxBench, a benchmark of attack transactions and evidence-backed negatives on seven EVM chains, with the five-step pipeline that builds it. The pipeline collects every transaction that BlockSec's incident library or the EVM Hack Registry cites, maps its weakness to OWASP's SCWE taxonomy, and rebuilds its execution from free data sources. A cited transaction qualifies as a valid TxBench attack only if it extracts value from others during execution, is consistent with all verified source claims, and is independently linked to the reported incident by corroborating evidence. Negative examples are sampled from each chain's traffic near the attacks and retained only when positive evidence confirms their legitimacy. Of 1,850 cited transactions, TxBench accepts 1,012 attacks from 602 incidents, worth USD 868.1 million: 846 contract exploits and 166 key compromises. A blind review under rules fixed in advance confirms 98 of 100 sampled attacks (97.7% weighted) and all 100 sampled negatives. As baselines, four zero-shot LLMs reading anonymized traces are precise but find at most 0.43 of the attacks and no key compromise, leaving ample room for better detectors.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.04411",
+   "authors": [
+    "Tamer Abdelaziz",
+    "karim Ali"
+   ],
+   "categories": [
+    "arXiv:cs.CR"
+   ],
+   "cited_by_count": null,
+   "doi": "10.5281/zenodo.23758032",
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": null,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-03",
+   "related_versions": [
+    {
+     "doi": "10.5281/zenodo.23758032",
+     "relation": "published_version",
+     "source": "arxiv"
+    }
+   ],
+   "source_ids": [
+    "arxiv:2611.04411"
+   ],
+   "title": "TxBench: A Benchmark of Attack Transactions and Evidence-Backed Negatives on Seven EVM Chains",
+   "topics": [],
+   "updated_date": "2026-11-03",
+   "url": "https://arxiv.org/abs/2611.04411"
+  },
+  "suggested": "smart-contract-virtual-machines",
+  "title": "TxBench: A Benchmark of Attack Transactions and Evidence-Backed Negatives on Seven EVM Chains",
+  "url": "https://arxiv.org/abs/2611.04411"
+ },
+ {
+  "added": "2026-11-05",
+  "arxiv": "2611.04488",
+  "candidates": [
+   [
+    "fully-homomorphic-encryption",
+    4.52
+   ],
+   [
+    "large-language-models",
+    3.7
+   ],
+   [
+    "homomorphic-encryption",
+    3.1
+   ],
+   [
+    "decoder-only-transformers",
+    2.1
+   ],
+   [
+    "bootstrap",
+    0.52
+   ],
+   [
+    "optimization",
+    0.26
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.04488",
+   "title:perseusafullstacksystemforhomomorphicmodelinference|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Large Language Models (LLMs) have made it exceptionally convenient for users to send their private data to model providers, which process them in plaintext. Fully Homomorphic Encryption (FHE) promises to secure remote inference by computing directly on encrypted data, yet it has remained prohibitively slow. The effort to make it practical remains fragmented, with most existing frameworks being closed-source, which keeps progress from compounding. We present Perseus, a free and open Python software library that supports the full stack of encrypted model inference, from the cryptographic backend and data packing, to encrypted nonlinearities and end-to-end model execution. Perseus ships with built-in novel optimizations, one at each level of the stack: in-kernel regeneration of key-switching keys at the (i) backend level, a complex variant of Cachemir packing at the (ii) data level, and a state-of-the-art bootstrap placer that is both packing- and magnitude-aware at the (iii) model level. Perseus achieves state-of-the-art latency across multiple models and modalities, within $3\\%$ of the plaintext models' accuracy and perplexity. Remarkably, it is $3.96\\times$ faster at single-token decoding than any other implementation on Llama-3-8B. We initiate, for the first time, a public speedrun on encrypted GPT-2, so that progress can compound.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.04488",
+   "authors": [
+    "Alessandro Zirilli",
+    "Davide Marincione",
+    "Evgenios M. Kornaropoulos",
+    "Giuseppe Ateniese",
+    "Emanuele Rodolà"
+   ],
+   "categories": [
+    "arXiv:cs.CR",
+    "arXiv:cs.AI"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-03",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.04488"
+   ],
+   "title": "Perseus: A Full-Stack System for Homomorphic Model Inference",
+   "topics": [],
+   "updated_date": "2026-11-03",
+   "url": "https://arxiv.org/abs/2611.04488"
+  },
+  "suggested": "fully-homomorphic-encryption",
+  "title": "Perseus: A Full-Stack System for Homomorphic Model Inference",
+  "url": "https://arxiv.org/abs/2611.04488"
+ },
+ {
+  "added": "2026-11-05",
+  "arxiv": "2611.04347",
+  "candidates": [
+   [
+    "altermagnetism",
+    4.47
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.1103/7dmx-h9h3",
+  "keys": [
+   "arxiv:2611.04347",
+   "doi:10.1103/7dmx-h9h3",
+   "title:altermagnetisminducedhigherordertopologicaldiracsemimetalsintwodimensionalnonsymmorphicsystems|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "We propose an altermagnetism-induced route to a two-dimensional higher-order topological Dirac semimetal in a trilayer nonsymmorphic Dirac system. Interlayer hybridization preserves the nonsymmorphic bulk Dirac crossings and generates helical edge states in the trilayer phase. Introducing outer-layer $d$-wave altermagnetic order gaps the helical edge states, while only the symmetry-protected Dirac crossing at high-symmetry point $M$ remains gapless. The resulting phase hosts a surviving bulk Dirac point, gapped edge spectra, and corner states. An exact layer-space decomposition further reveals that these features arise from the coexistence of a gapless Dirac sector and a gapped $\\mathbb{Z}_2$ topological sector. Our results establish altermagnetism as an effective mechanism for engineering higher-order topological Dirac semimetals in two-dimensional nonsymmorphic systems.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.04347",
+   "authors": [
+    "Lizhou Liu",
+    "Cheng-Ming Miao",
+    "Ying-Tao Zhang",
+    "Qing-Feng Sun"
+   ],
+   "categories": [
+    "arXiv:cond-mat.mes-hall"
+   ],
+   "cited_by_count": null,
+   "doi": "10.1103/7dmx-h9h3",
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": null,
+   "publication": "Phys. Rev. B 114, 285401 (2026)",
+   "publication_type": "preprint",
+   "published_date": "2026-11-03",
+   "related_versions": [
+    {
+     "doi": "10.1103/7dmx-h9h3",
+     "journal_ref": "Phys. Rev. B 114, 285401 (2026)",
+     "relation": "published_version",
+     "source": "arxiv"
+    }
+   ],
+   "source_ids": [
+    "arxiv:2611.04347"
+   ],
+   "title": "Altermagnetism-induced higher-order topological Dirac semimetals in two-dimensional nonsymmorphic systems",
+   "topics": [],
+   "updated_date": "2026-11-03",
+   "url": "https://arxiv.org/abs/2611.04347"
+  },
+  "suggested": "altermagnetism",
+  "title": "Altermagnetism-induced higher-order topological Dirac semimetals in two-dimensional nonsymmorphic systems",
+  "url": "https://arxiv.org/abs/2611.04347"
+ },
+ {
+  "added": "2026-11-05",
+  "arxiv": "2611.04382",
+  "candidates": [
+   [
+    "llm-inference-optimization",
+    4.4
+   ],
+   [
+    "large-language-models",
+    4.24
+   ],
+   [
+    "model-serving",
+    3.1
+   ],
+   [
+    "lossless-compression",
+    3.1
+   ],
+   [
+    "quantization",
+    1.85
+   ],
+   [
+    "optimization",
+    0.26
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.04382",
+   "title:beyondcompressionratiohighthroughputkvcompressionfordisaggregatedllmserving|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "KV cache compression reduces the communication volume of disaggregated large language model serving, but its practical benefit depends not only on compression ratio and model quality, but also on how efficiently the compression pipeline executes. This requirement becomes increasingly important as modern serving systems adopt high-bandwidth interconnects, where inefficient compression can offset a substantial portion of the saved communication time. This paper presents FastKVComp, a high-throughput KV cache compression data path built on top of KVServe. FastKVComp improves compression execution in two complementary ways. First, it fuses the distribution transformation and low-bit quantization stages into a KVaware TileLang kernel, eliminating intermediate tensor materialization and redundant memory accesses. Second, it replaces the original lossless compression backend with an open, extensible, and searchable backend based on LC, enabling high-performance compression operator pipelines. The fused kernel achieves up to 5.9x speedup, while the new lossless backend increases compression throughput from below 90 GB/s to over 500 GB/s. Across the evaluated workloads, FastKVComp reduces job completion time by up to 2.04x. End-to-end evaluation shows that these optimizations allow KV compression to retain meaningful communication benefits under modern high-bandwidth network.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.04382",
+   "authors": [
+    "Junhong Wu",
+    "Zedong Liu",
+    "Xinyang Ma",
+    "Yuhan Chen",
+    "Guangming Tan",
+    "Dingwen Tao"
+   ],
+   "categories": [
+    "arXiv:cs.DC"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-03",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.04382"
+   ],
+   "title": "Beyond Compression Ratio: High-Throughput KV Compression for Disaggregated LLM Serving",
+   "topics": [],
+   "updated_date": "2026-11-04",
+   "url": "https://arxiv.org/abs/2611.04382"
+  },
+  "suggested": "llm-inference-optimization",
+  "title": "Beyond Compression Ratio: High-Throughput KV Compression for Disaggregated LLM Serving",
+  "url": "https://arxiv.org/abs/2611.04382"
+ }
+]

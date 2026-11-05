@@ -4,7 +4,7 @@
 
 Her teknolojinin tek bir kanonik klasörü vardır. Birden fazla disiplini ilgilendiren teknolojiler kanonik konumlarında tutulur; diğer alanlarla bağlantı `_index.md` ön bilgisindeki `related`, `depends_on`, `applied_in` alanlarıyla kurulur.
 
-Toplam ilişki: **358** — disiplinler arası: **297**
+Toplam ilişki: **359** — disiplinler arası: **297**
 
 ## Disiplinler arası ilişkiler
 
@@ -357,6 +357,7 @@ Toplam ilişki: **358** — disiplinler arası: **297**
 | [Federe Öğrenme](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Federe-Ogrenme/_index.md) | İlişkili (Related) | [Diferansiyel Gizlilik](Bilgisayar-Bilimleri/Bilgisayar-Guvenligi/Gizliligi-Artiran-Teknolojiler/Diferansiyel-Gizlilik/_index.md) |
 | [Aykırı Değer Tespiti](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Gozetimsiz-Ogrenme/Aykiri-Deger-Tespiti/_index.md) | İlişkili (Related) | [Anomali Tespiti](Bilgisayar-Bilimleri/Veritabanlari-ve-Bilgi-Sistemleri/Veri-Madenciligi/Anomali-Tespiti/_index.md) |
 | [Makine Öğrenmesi Kuramsal Konuları](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/ML-Kuramsal-Konular/_index.md) | İlişkili (Related) | [Hesaplamalı Öğrenme Teorisi](Bilgisayar-Bilimleri/Hesaplama-Kurami/Hesaplamali-Ogrenme-Teorisi/_index.md) |
+| [Dağıtık Eğitim](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Makine-Ogrenmesi-Sistemleri/Dagitik-Egitim/_index.md) | İlişkili (Related) | [Veri Paralelliği](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Paralel-Hesaplama/Veri-Paralelligi/_index.md) |
 | [Olasılıksal Grafik Modeller](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Olasiliksal-Grafik-Modeller/_index.md) | İlişkili (Related) | [Bayes Ağları](Bilgisayar-Bilimleri/Yapay-Zeka/Bilgi-Temsili-ve-Akil-Yurutme/Olasiliksal-Akil-Yurutme/Bayes-Aglari/_index.md) |
 | [Büyük Dil Modelleri](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Temel-Modeller/Buyuk-Dil-Modelleri/_index.md) | İlişkili (Related) | [Doğal Dil İşleme](Bilgisayar-Bilimleri/Yapay-Zeka/Dogal-Dil-Isleme/_index.md) |
 | [Büyük Dil Modelleri](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Temel-Modeller/Buyuk-Dil-Modelleri/_index.md) | Bağımlı olduğu (Depends on) | [Transformer Mimarileri](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Transformer-Mimarileri/_index.md) |

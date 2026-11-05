@@ -1,0 +1,47 @@
+{
+ "2026-11-05": {
+  "archived": 38,
+  "backfill": 15,
+  "by_source": {
+   "arxiv": 18,
+   "openalex": 20
+  },
+  "llm_calls": 0,
+  "llm_usd": 0.0,
+  "per_tech": {
+   "algorithmic-information-theory": 1,
+   "clinical-decision-support-systems": 1,
+   "contrastive-learning": 1,
+   "cyber-physical-systems": 1,
+   "dark-matter": 2,
+   "deep-brain-stimulation": 1,
+   "early-warning-systems": 1,
+   "electric-vehicles": 1,
+   "free-space-optical-communication": 1,
+   "graph-convolutional-networks": 1,
+   "implicit-neural-representations": 1,
+   "inverse-reinforcement-learning": 1,
+   "large-language-models": 2,
+   "multi-agent-reinforcement-learning": 3,
+   "optical-character-recognition": 1,
+   "optical-coherence-tomography": 1,
+   "physics-informed-neural-networks": 1,
+   "predictive-maintenance": 1,
+   "principal-component-analysis": 1,
+   "pulsar-timing-arrays": 1,
+   "quantum-error-correction": 2,
+   "quantum-key-distribution": 1,
+   "quantum-memories": 1,
+   "satellite-altimetry": 1,
+   "sequential-pattern-mining": 1,
+   "stem-cell-therapy": 1,
+   "supervised-learning": 1,
+   "tensor-networks": 1,
+   "transcranial-magnetic-stimulation": 1,
+   "urban-digital-twins": 1,
+   "vision-language-models": 1,
+   "water-treatment": 1,
+   "wireless-sensor-networks": 1
+  }
+ }
+}

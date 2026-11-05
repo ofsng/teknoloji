@@ -13,27 +13,39 @@ applied_in: []
 classification_refs: ["IEEE-SPS", "SPIE", "IS&T", "SID"]
 content_verified: false
 created: 2026-11-05
+layout: 2
+content_status: scope_note
+content_sources: []
 ---
 
 # Görüntüleme ve Görselleştirme Teknolojileri (Imaging and Visualization Technologies)
 
+<!-- AUTO:NAV:BEGIN (otomatik; elle düzenlemeyin) -->
+**Konum:** [Kök](../TECHNOLOGIES.md) › **Görüntüleme ve Görselleştirme Teknolojileri**
+<!-- AUTO:NAV:END -->
+
 ## 1. Tanım
 
-Görüntü edinme (kamera ve görüntü sensörleri, hesaplamalı görüntüleme), görüntü gösterme (ekran teknolojileri) ve bilimsel veri görselleştirme teknolojileri. Tıbbi görüntüleme Tıp altında, bilgisayar grafikleri Bilgisayar Bilimleri altında, bilgi görselleştirme İBE altındadır.
+**Kapsam notu** (sınıflandırma açıklaması; kaynaklı tanım değildir): Görüntü edinme (kamera ve görüntü sensörleri, hesaplamalı görüntüleme), görüntü gösterme (ekran teknolojileri) ve bilimsel veri görselleştirme teknolojileri. Tıbbi görüntüleme Tıp altında, bilgisayar grafikleri Bilgisayar Bilimleri altında, bilgi görselleştirme İBE altındadır.
 
-## 2. Temel çalışma prensibi
+## 2. Çalışma prensibi
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+
+## 3. Tarihçe
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+
+## 4. Temel kavramlar
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+
+## 5. Temel yöntemler
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:BEGIN (kb.py reindex üretir; bu bloğu elle düzenlemeyin) -->
-
-**Konum:** [Kök](../TECHNOLOGIES.md) › **Görüntüleme ve Görselleştirme Teknolojileri**
-
-## 3. Üst teknoloji
-
-- Ana disiplin (kök: [TECHNOLOGIES.md](../TECHNOLOGIES.md))
-
-## 4. Alt teknolojiler
+## 6. Alt teknolojiler
 
 - [3B Görüntüleme ve Tarama](3B-Goruntuleme-ve-Tarama/_index.md)
 - [Baskı ve Görüntü Çoğaltma](Baski-Teknolojileri/_index.md)
@@ -47,30 +59,43 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 - [X-ışını ve Endüstriyel Görüntüleme](Endustriyel-Goruntuleme/_index.md)
 - [Yüksek Hızlı Görüntüleme](Yuksek-Hizli-Goruntuleme/_index.md)
 
-## 5. İlişkili teknolojiler
+## 7. İlişkili teknolojiler
 
-- _Tanımlı ilişki yok._
-
-**Araştırma kayıtları:** 0 (`Arastirmalar/` klasörüne eklenir)
-
+- **Üst teknoloji:** — (ana disiplin)
 <!-- AUTO:END -->
 
-## 6. Temel teknik kavramlar
+## 8. Kullanım alanları
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
-## 7. Önemli tarihsel gelişmeler
+## 9. Avantajlar
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
-## 8. Başlıca araştırma konuları
+## 10. Sınırlılıklar
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
-## 9. Açık teknik problemler
+## 11. Açık problemler
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
-## 10. Kaynaklar
+## 12. Önemli araştırmalar
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+
+<!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+<!-- AUTO:RESEARCH:END -->
+
+## 13. Güncel gelişmeler
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+
+<!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
+_Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini göstermez; ön baskılar hakemli değildir._
+<!-- AUTO:RECENT:END -->
+
+## 14. Kaynaklar
 
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._

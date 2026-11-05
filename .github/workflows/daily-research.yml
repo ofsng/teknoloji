@@ -1,0 +1,111 @@
+# Günlük otonom araştırma çalışması.
+# Güvenlik: değişiklikler yalnızca `auto/research` dalına gönderilir ve `main` için pull request açılır;
+# `main` dalına doğrudan yazılmaz. Taksonomi değişiklikleri ve bilgi güncelleme önerileri review/ altında
+# insan onayı bekler.
+# Gizli değerler (Settings → Secrets and variables → Actions):
+#   OPENALEX_API_KEY  (önerilir; ücretsiz anahtar, kendi $1/gün bütçesi)
+#   ANTHROPIC_API_KEY (isteğe bağlı; yoksa sistem LLM'siz deterministik modda çalışır)
+#   vars.KB_CONTACT_EMAIL (isteğe bağlı; Crossref/OpenAlex nazik havuzu)
+name: daily-research
+
+on:
+  workflow_dispatch:
+    inputs:
+      max_archive:
+        description: "Bu çalışmada arşive alınacak en fazla yeni kayıt"
+        default: "40"
+  # Zamanlama, elle tetiklenen ilk çalışma doğrulandıktan sonra açılır:
+  # schedule:
+  #   - cron: "17 4 * * *"   # her gün 04:17 UTC
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: daily-research
+  cancel-in-progress: false
+
+jobs:
+  research:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    env:
+      OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      KB_CONTACT_EMAIL: ${{ vars.KB_CONTACT_EMAIL }}
+      KB_MAX_ARCHIVE_PER_RUN: ${{ inputs.max_archive || '40' }}
+      BRANCH: auto/research
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: LLM bağımlılığı (yalnızca anahtar tanımlıysa)
+        if: env.ANTHROPIC_API_KEY != ''
+        run: pip install "anthropic>=1,<2"
+
+      - name: Otomasyon dalını hazırla (önceki birleşmemiş çalışmalar korunur)
+        run: |
+          git config user.name "kb-research-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git ls-remote --exit-code --heads origin "$BRANCH" >/dev/null; then
+            git fetch origin "$BRANCH"
+            git checkout -B "$BRANCH" "origin/$BRANCH"
+            git merge --no-edit origin/main || { echo "::error::auto/research ile main çakışıyor; elle çözülmeli"; exit 1; }
+          else
+            git checkout -B "$BRANCH"
+          fi
+
+      - name: Testler (çalışmadan önce)
+        run: python3 -m unittest discover -s tools/tests
+
+      - name: Günlük çalışma
+        id: daily
+        run: |
+          set +e
+          python3 tools/autokb.py daily > "$RUNNER_TEMP/run-output.json"
+          code=$?
+          echo "code=$code" >> "$GITHUB_OUTPUT"
+          cat "$RUNNER_TEMP/run-output.json"
+          exit 0
+
+      - name: Doğrulama (kırık bağlantı, mükerrer kayıt, hiyerarşi)
+        run: python3 tools/kb.py check
+
+      - name: Kaydet ve otomasyon dalına gönder
+        run: |
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Değişiklik yok."
+            exit 0
+          fi
+          git commit -q -m "Otomatik araştırma güncellemesi $(date -u +%F)"
+          git push origin "$BRANCH"
+
+      - name: Pull request aç (yoksa)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if [ -n "$(gh pr list --head "$BRANCH" --state open --json number --jq '.[].number')" ]; then
+            echo "Açık PR zaten var; yeni commitler ona eklendi."
+          elif [ "$(git rev-list --count origin/main..HEAD)" -gt 0 ]; then
+            gh pr create --base main --head "$BRANCH" \
+              --title "Otomatik araştırma güncellemeleri" \
+              --body "Günlük çalışmanın topladığı araştırmalar ve indeks güncellemeleri. İnceleme: review/CLASSIFICATION-QUEUE.md, review/TECHNOLOGY-CANDIDATES.md, review/index-proposals/." \
+              || echo "::warning::PR açılamadı. Depo ayarında 'Allow GitHub Actions to create and approve pull requests' kapalı olabilir; dal gönderildi: $BRANCH"
+          fi
+
+      - name: Çalışma durumu
+        if: steps.daily.outputs.code != '0'
+        run: |
+          if [ "${{ steps.daily.outputs.code }}" = "2" ]; then
+            echo "::warning::Bazı kaynaklar/adımlar başarısız oldu; alınan sonuçlar doğrulandı ve kaydedildi. Ayrıntı: state/run-log.jsonl"
+          else
+            echo "::error::Günlük çalışma beklenmedik hatayla bitti (çıkış kodu ${{ steps.daily.outputs.code }})."
+            exit 1
+          fi

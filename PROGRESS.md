@@ -1,32 +1,39 @@
 # İlerleme Durumu
 
-Çalışma kesilirse buradan devam edin. Her oturum sonunda güncelleyin.
+Çalışma kesilirse buradan devam edin.
 
-## Tamamlanan aşamalar (2026-11-05)
+## v1 — Taksonomi (2026-11-05)
+
+30 ana disiplin, 3492 düğüm; `tools/seed/*.tax`, `tools/kb.py`. Ayrıntı: TAXONOMY.md, SOURCES.md.
+
+## v2 — Otonom araştırma sistemi (2026-11-05)
 
 | Aşama | Durum | Not |
 |---|---|---|
-| 1. Taksonomi araştırması | Tamam | arXiv taksonomisi çevrimiçi okundu; ACM CCS üst dalları ve OECD FORD yapısı ikincil kaynaklarla doğrulandı. Ayrıntı: SOURCES.md |
-| 2. Ayrıntılı hiyerarşi | Tamam (ilk sürüm) | 30 ana disiplin, 3492 düğüm; tanımlar `tools/seed/*.tax` |
-| 3. Dosya sistemi | Tamam | `python3 tools/kb.py build` ile oluşturuldu; her düğümde `_index.md` + `Arastirmalar/.gitkeep` |
-| 4. Bağlantılar | Tamam | 358 ilişki (`related` / `depends_on` / `applied_in`), tüm hedefler doğrulandı |
-| 5. İndeksleme | Tamam | TECHNOLOGIES, RESEARCH-INDEX, RELATIONSHIPS, STATS otomatik |
-| 6. Doğrulama | Tamam | `kb.py check`: 0 hata, 0 uyarı, 170 bilgi notu (tek çocuklu düğüm / yaprak alt disiplin) |
-| Örnek araştırma kayıtları | 3 kayıt | Vaswani+ 2017 (arXiv:1706.03762), Groth 2016 (IACR ePrint 2016/260), Shor 1997 (DOI 10.1137/S0097539795293172). Kimlik bilgileri çevrimiçi doğrulandı; içerik bölümleri boş. |
+| 1. Mevcut sistemin doğrulanması | Tamam | `kb.py check` 0 hata. Bulunan ve düzeltilen hata: ilk kurulumda takma adlar `/` karakterinden bölünmüştü (ör. "PET/CT" → "PET","CT"); 7 düğüm onarıldı. "Data parallelism" takma adı mevcut "Veri Paralelliği" düğümüyle çakışıyordu, kaldırıldı. |
+| Düzen geçişi | Tamam | 3492 `_index.md` 14 bölümlü 2. düzene, 3 araştırma dosyası yeni ön bilgiye taşındı; kimlik ve yollar değişmedi (karşılaştırmalı doğrulandı). |
+| 2. Toplama | Tamam | arXiv + OpenAlex (dergi/konferans, bioRxiv/medRxiv) + Crossref. Gerçek çalışma: 3.867 kayıt tarandı, 38 arşivlendi. |
+| 3. Sınıflandırma | Tamam | Etiketli setle ölçüldü: `high` doğru dal 0,94 (n=33). Üretim örneği 34/38. |
+| 4. Markdown arşivi | Tamam | Tekilleştirme, sürüm birleştirme, kimlik doğrulama (Crossref/doi.org), geri çekme denetimi. |
+| 5. Teknoloji keşfi | Tamam (kanıt birikiyor) | İlk günde aday yok (eşik: 5 makale, 3 yazar, 2 ay). 258 terim izleniyor. |
+| 6. Teknoloji açıklamaları | Pilot | 2 düğüm kaynaklı dolduruldu (`ai_draft_sourced`): kuantum hata düzeltme, sıfır bilgi ispatları. Otomatik doldurma LLM anahtarı gerektirir. |
+| 7. Otomasyon | Bkz. aşağı | `.github/workflows/daily-research.yml` |
 
 ## Açık işler
 
-- [ ] `_index.md` tanım ve içerik bölümlerini kaynaklı olarak doldurmak (şu an tüm düğümlerde `content_verified: false`).
-- [ ] ACM CCS 2012 alt düğümlerini resmi ağaçla satır satır karşılaştırmak (dl.acm.org/ccs bu oturumda HTTP 403 verdi).
-- [ ] OECD FORD alt alan adlarını Frascati Manual 2015 metniyle karşılaştırmak.
-- [ ] MeSH ağacı ile Tıp/Biyoloji, IEEE Taxonomy ile EEE/Haberleşme dallarını karşılaştırmak.
-- [ ] Görece sığ kalan disiplinleri derinleştirmek: İBE, Görüntüleme, Ulaşım, İnşaat, Maden, Makine, Sensör (her biri 27–80 düğüm).
-- [ ] `check --verbose` çıktısındaki 77 tek çocuklu düğümü gözden geçirmek (çoğu gerçek alt türdür; kardeşleri henüz eklenmedi).
+- [ ] GitHub'da `OPENALEX_API_KEY` (ücretsiz) ve isteğe bağlı `ANTHROPIC_API_KEY` gizli değerlerini tanımlamak.
+- [ ] Depo ayarı: "Allow GitHub Actions to create and approve pull requests" (kapalıysa iş akışı yalnızca dalı gönderir).
+- [ ] `review/CLASSIFICATION-QUEUE.md` ve aday listesini düzenli gözden geçirmek.
+- [ ] Pilot `_index.md` içeriklerini (2 düğüm) okuyup onaylamak (`content_status: human_verified`, `content_verified: true`).
+- [ ] Değerlendirme setini insan etiketleriyle genişletmek (şu an 70 kayıt, Claude etiketli).
+- [ ] Tarihsel tamamlamada düğüm adı başlıkta geçmeyen temel çalışmalar (ör. "Attention Is All You Need") kaçırılıyor; takma adlarla arama eklenebilir.
+- [ ] Önceki taksonomi açık işleri (ACM CCS/MeSH/IEEE karşılaştırmaları, sığ disiplinler).
 
 ## Devam etme komutları
 
 ```bash
 cd Technology-Knowledge-Base
-python3 tools/kb.py check --verbose
-python3 tools/kb.py stats
+python3 tools/autokb.py status
+python3 -m unittest discover -s tools/tests
+python3 tools/kb.py check
 ```
