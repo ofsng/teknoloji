@@ -17,7 +17,7 @@
 | 4. Markdown arşivi | Tamam | Tekilleştirme, sürüm birleştirme, kimlik doğrulama (Crossref/doi.org), geri çekme denetimi. |
 | 5. Teknoloji keşfi | Tamam (kanıt birikiyor) | İlk günde aday yok (eşik: 5 makale, 3 yazar, 2 ay). 258 terim izleniyor. |
 | 6. Teknoloji açıklamaları | Pilot | 2 düğüm kaynaklı dolduruldu (`ai_draft_sourced`): kuantum hata düzeltme, sıfır bilgi ispatları. Otomatik doldurma LLM anahtarı gerektirir. |
-| 7. Otomasyon | Bkz. aşağı | `.github/workflows/daily-research.yml` |
+| 7. Otomasyon | Tamam | Elle tetiklenen çalışma başarılı (run 42083148449): testler, günlük çalışma, doğrulama, `auto/research` dalına gönderim. PR açma depo ayarı nedeniyle reddedildi (yedek yol çalıştı). Zamanlama açıldı: her gün 04:17 UTC. |
 
 ## Açık işler
 

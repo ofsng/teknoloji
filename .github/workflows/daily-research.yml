@@ -14,9 +14,9 @@ on:
       max_archive:
         description: "Bu çalışmada arşive alınacak en fazla yeni kayıt"
         default: "40"
-  # Zamanlama, elle tetiklenen ilk çalışma doğrulandıktan sonra açılır:
-  # schedule:
-  #   - cron: "17 4 * * *"   # her gün 04:17 UTC
+  # Elle tetiklenen ilk çalışma 2026-11-05'te doğrulandıktan sonra açıldı.
+  schedule:
+    - cron: "17 4 * * *"   # her gün 04:17 UTC
 
 permissions:
   contents: write
