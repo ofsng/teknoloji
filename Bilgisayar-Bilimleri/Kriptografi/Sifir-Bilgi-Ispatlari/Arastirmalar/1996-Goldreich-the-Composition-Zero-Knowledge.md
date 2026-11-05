@@ -25,7 +25,8 @@ related_versions: []
 collected_at: 2026-11-05
 last_checked_at: 2026-11-05
 content_verified: false
-identifier_verified: false
+identifier_verified: crossref
+retraction_checked: 2026-11-05
 ---
 
 # On the Composition of Zero-Knowledge Proof Systems
