@@ -16,6 +16,54 @@ Sistem bağımsızdır: web arayüzü, sunucu, veritabanı veya Docker yoktur. K
 | Akış | `tools/kbresearch/pipeline.py`, `tools/autokb.py` | Günlük çalışma, tarihsel tamamlama, kimlik ve geri çekme denetimi |
 | Mevcut araç | `tools/kb.py` | İndeksleme, doğrulama, taksonomi işlemleri (korundu ve genişletildi) |
 
+## Araştırma kaybı önleme (v2.1)
+
+Önceki sürümde günlük 40 kayıt bütçesine sığmayan yüksek güvenli kayıtlar "görüldü" işaretlenip atılıyordu
+(11-05 ve 11-06 çalışmalarında toplam 1.079 kayıt). Şimdi:
+
+1. Yüksek güvenli her kayıt önce **kalıcı backlog'a** (`state/backlog.json`, kayıt başına ~200 bayt kimlik +
+   sınıflandırma) girer. Çalışma sonunda backlog'dan öncelik sırasıyla en fazla `KB_MAX_ARCHIVE_PER_RUN` kayıt
+   arşivlenir: önce hiç araştırması olmayan teknolojiler (+3), az araştırmalılar (+1), sonra puan, atıf ve hakemli
+   yayın. Tam metadata arşivlenirken kaynaktan yeniden çekilir (arXiv `id_list`, OpenAlex `openalex_id` filtresi).
+2. Backlog sınırları (toplam 3.000, teknoloji başına 30) aşılırsa en düşük öncelikliler **silinmez**,
+   `state/ledger/YYYY-MM.jsonl.gz` defterine yazılır (`autokb.py backlog restore [--tech ID]` ile geri alınır).
+3. İnceleme kuyruğu da aynı defteri kullanır: çalışma başı sınırı, toplam sınır ve süre aşımı → defter.
+4. Eski sürümde atılan kayıtlar için ilk çalışmada **tek seferlik kurtarma**: `run-log`'dan bütçe nedeniyle kayıt
+   atlanan günler bulunur ve yeniden taranır (arşivde olanlar atlanır, diğerleri backlog'a girer).
+
+Bilinçli karar: bütçe artırılmadı. Yüksek güvenli akış günde ~550 kayıt; hepsini Markdown olarak arşivlemek depoyu
+yılda ~600 MB büyütür. Bütçe kalite ve kapsama göre harcanır, kalan kayıtların kimliği kaybolmaz.
+
+## Geç dizinlenen yayınlar (v2.1)
+
+- OpenAlex'te `from_created_date` ücretli olduğundan aynı **yayın günü** ilk taramadan 10 ve 30 gün sonra yeniden
+  taranır; yalnızca `created_date` ilk taramadan sonra olan kayıtlar işlenir (geri kalanlar zaten görülmüştü).
+- arXiv gönderim günü 7 gün sonra yeniden taranır (geç duyurulanlar; görülen arXiv kimlikleri 21 gün hatırlanır).
+- Anahtarla (`OPENALEX_API_KEY`) dergi akışı günün tamamını kapsar (≤100 sayfa); anahtarsız 20 sayfa.
+- Tahmini OpenAlex maliyeti: ilk tarama ~95 + iki yeniden tarama ~190 liste çağrısı × $0,0001 ≈ **$0,03/gün**
+  (ücretsiz anahtarın $1/gün bütçesinin %3'ü).
+
+## Sınıflandırma kalibrasyonu (v2.1)
+
+`tools/kbresearch/eval/calibration-2026-10-29.jsonl`: 2026-10-29 arXiv + 2026-10-31 OpenAlex'ten puan aralıklarına
+göre katmanlı 90 kayıt, elle değerlendirildi (doğru dal):
+
+| Puan | 3–4,5 | 4,5–6 | 6–7,5 | 7,5–9 | 9+ |
+|---|---|---|---|---|---|
+| Kesinlik | 0,56 | 0,72 | 0,72 | 0,94 | 0,94 |
+
+Yüksek güven eşiği 6,0 → **7,5** yapıldı (6–7,5 aralığı artık inceleme kuyruğuna gider). Bağımsız etiketli sette
+(`classification-gold.jsonl`, 70 kayıt) arşive giren sınıfın kesinliği 0,94 → **1,00** (n=33 → 22). Düşük güvenli
+kayıtlar hiçbir zaman arşive yazılmaz; yerel LLM'in sınıflandırma kararıyla da arşive yazılmaz (yalnızca öneri).
+
+## Aday çakışma kontrolü (v2.1)
+
+- Kısaltma eşleşmesi tek başına eş anlamlılık sayılmaz: adlar arasında sözcük örtüşmesi de gerekir
+  (ör. "artificial neural network (ANN)" ≠ "approximate nearest neighbor search (ANN)" → *belirsiz kısaltma*).
+- Jaccard ≥ 0,8 → `duplicate_of` ile ret; mevcut ad aday içinde geçiyorsa `variant_of` (alt tür);
+  başka bir düğümle ≥ 0,4 örtüşme → `possible_duplicate` (onay için `--force` gerekir).
+- Eski sürümün yalnızca kısaltmaya dayalı ret kararları yeniden değerlendirilip geri alınır.
+
 ## Günlük çalışma (`python3 tools/autokb.py daily`)
 
 1. **arXiv**: gönderim tarihi `bugün-2` olan tüm kapsam içi kategorilerdeki ön baskılar (sayfa sayfa; 3 sn'de 1 istek).
@@ -23,8 +71,7 @@ Sistem bağımsızdır: web arayüzü, sunucu, veritabanı veya Docker yoktur. K
    İngilizce, özetli) ve bioRxiv/medRxiv ön baskıları. Genel depolar (ör. Zenodo) kalite gerekçesiyle alınmaz.
    arXiv kayıtları OpenAlex'ten tekrar çekilmez.
 3. Aynı çalışmanın kayıtları DOI/arXiv anahtarlarıyla birleştirilir; görülen kayıtlar 60 gün hatırlanır.
-4. **Sınıflandırma**: `high` → arşiv (bütçe dahilinde), `medium` → inceleme kuyruğu (LLM varsa önce LLM'e sorulur),
-   `low` → arşive alınmaz.
+4. **Sınıflandırma**: `high` → backlog → öncelik sırasıyla arşiv, `medium` → inceleme kuyruğu, `low` → arşive alınmaz.
 5. **Kimlik doğrulama**: DOI'ler Crossref'te (yoksa doi.org tanıtıcı API'sinde) doğrulanır; yayın türü ve
    ön baskı/yayın ilişkileri eklenir. Bulunamayan DOI inceleme kuyruğuna düşer.
 6. **Geri çekme / düzeltme**: arşivdeki DOI'ler sırayla Crossref `updates:` filtresiyle denetlenir (Retraction Watch
@@ -46,7 +93,7 @@ erişilemezse diğer adımlar sürer ve çıkış kodu `2` (kısmi) olur.
 | İşlem | Otomatik mi? |
 |---|---|
 | Araştırma dosyası oluşturma / birleştirme | Evet (yalnızca `high` güven) |
-| Orta güvenli sınıflandırma | Hayır → `review/CLASSIFICATION-QUEUE.md` (`autokb.py queue resolve N --tech ID`) |
+| Orta güvenli sınıflandırma | Hayır → `review/CLASSIFICATION-QUEUE.md` (en fazla 150, öncelik sıralı; `autokb.py queue resolve N --tech ID`) |
 | Yeni teknoloji klasörü | Hayır → `review/TECHNOLOGY-CANDIDATES.md` (`autokb.py candidates verify KEY --parent ID`) |
 | Taşıma / yapısal değişiklik | Hiçbir zaman otomatik değil |
 | Boş `_index.md` bölümünü kaynaklı doldurma | Evet (`content_status: ai_draft_sourced`, `content_verified: false`) |
@@ -92,7 +139,8 @@ bölüm doldurma ≈ $0,05–0,10/düğüm, güncelleme değerlendirmesi ≈ $0,
 
 ## Durum dosyaları (`state/`, Git'e işlenir)
 
-`checkpoints.json` (kaynak başına kalınan gün/sayfa), `seen.json` (60 gün), `counters.json` (günlük bütçe),
+`checkpoints.json` (kaynak başına kalınan gün/sayfa, ilk tarama tarihleri, yeniden taramalar, kurtarma),
+`backlog.json`, `ledger/*.jsonl.gz`, `seen.json` (yalnızca arXiv, 21 gün), `counters.json` (günlük bütçe),
 `run-log.jsonl` (son 400 çalışma), `discovery-terms.json`, `backfill-queue.json`, `llm-cache.jsonl`.
 SQLite yerine JSON seçildi: GitHub Actions diski geçicidir, durum Git'le taşınmalıdır; metin dosyaları
 okunabilir fark üretir ve birleştirilebilir.
