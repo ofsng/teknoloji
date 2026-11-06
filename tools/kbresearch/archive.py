@@ -214,10 +214,9 @@ class ReviewQueue:
     def to_ledger(self, it, reason):
         if self.ledger:
             from .backlog import compact_ids
+            # orta güvenli kayıtlar çok sayıda olabilir: defterde yalnızca kimlik, öneri ve puan tutulur
             self.ledger.write({"key": it["keys"][0] if it["keys"] else None, "ids": compact_ids(it.get("record") or {}),
-                               "title": (it.get("title") or "")[:160], "primary": it.get("suggested"),
-                               "score": it.get("score"), "added": it.get("added"), "candidates": it.get("candidates")},
-                              reason)
+                               "primary": it.get("suggested"), "score": it.get("score")}, reason)
 
     def enforce_limits(self, today):
         from datetime import timedelta
