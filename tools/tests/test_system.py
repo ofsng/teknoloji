@@ -314,8 +314,8 @@ SOURCES = [{"sid": "S1", "title": "A survey of graph neural networks", "authors"
                         "the nodes of graphs, and nodes update their representations from neighbors in 2 steps."},
            {"sid": "S2", "title": "Preprint on GNN limits", "authors": ["X Y"], "year": "2026", "doi": None,
             "url": "https://arxiv.org/abs/2611.00002", "publication": "arXiv", "peer_reviewed": False,
-            "type": "preprint", "abstract": "We show that the expressive power of message passing neural networks is bounded by "
-                          "the Weisfeiler-Lehman test."}]
+            "type": "preprint", "abstract": "We show that the expressive power of message passing graph neural networks is "
+                          "bounded by the Weisfeiler-Lehman test."}]
 DRAFT = {**{f"s{n}": [] for n in M.FILL_SECTIONS}, "conflicts": [],
          "s1": [{"text": "Çizge sinir ağları, çizge yapısındaki bağımlılıkları mesaj geçirme ile modelleyen sinir ağlarıdır.",
                  "evidence": "GNNs are neural models that capture the dependence of graphs via message passing",
@@ -329,9 +329,16 @@ DRAFT = {**{f"s{n}": [] for n in M.FILL_SECTIONS}, "conflicts": [],
                  "evidence": "nodes update their representations from neighbors in 2 steps", "sources": ["S1"],
                  "basis": "review"}],
          "s2": [{"text": "Düğümler komşularından gelen mesajları birleştirerek temsillerini günceller.",
-                 "evidence": "nodes update their representations from neighbors", "sources": ["S1"], "basis": "review"}],
+                 "evidence": "GNNs are neural models that capture the dependence of graphs via message passing between the nodes",
+                 "sources": ["S1"], "basis": "review"},
+                {"text": "GNNs are neural models that capture the dependence of graphs.",
+                 "evidence": "GNNs are neural models that capture the dependence of graphs via message passing", "sources": ["S1"],
+                 "basis": "review"},
+                {"text": "Mesaj geçirme, düğümlerin bir çizgedeki komşularından bilgi almasıdır.",
+                 "evidence": "nodes update their representations from neighbors in 2 steps", "sources": ["S1"],
+                 "basis": "review"}],
          "s10": [{"text": "Mesaj geçirme tabanlı modellerin ifade gücü sınırlıdır.",
-                  "evidence": "the expressive power of message passing neural networks is bounded by the Weisfeiler-Lehman test",
+                  "evidence": "the expressive power of message passing graph neural networks is bounded by the Weisfeiler-Lehman test",
                   "sources": ["S2"], "basis": "review"}]}
 
 
@@ -355,8 +362,10 @@ class TestMaintainer(Base):
         self.assertNotIn("Kaynaksız", body)
         self.assertNotIn("Uydurma", body, "özette geçmeyen alıntı atılmalı")
         self.assertNotIn("5 adımda", body, "kanıtta olmayan sayı atılmalı")
-        self.assertEqual(res["dropped"], 3)
-        self.assertIn("<!-- kanıt:", body)
+        self.assertEqual(res["dropped"], 5)
+        self.assertEqual(res["drop_reasons"].get("ifade Türkçe değil / biçim sızıntısı"), 1)
+        self.assertEqual(res["drop_reasons"].get("kanıt bu teknolojiden söz etmiyor"), 1)
+        self.assertIn("  > “GNNs are neural models", body, "kaynak alıntısı görünür olmalı")
         self.assertEqual(meta["content_status"], "ai_draft_sourced")
         self.assertFalse(meta["content_verified"])
         self.assertIn("10.1016/j.aiopen.2021.01.001", kb.get_section(body, 14))

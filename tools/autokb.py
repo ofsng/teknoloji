@@ -177,7 +177,8 @@ def cmd_maintain(args):
             except Exception as e:  # bir düğümün hatası diğerlerini durdurmaz
                 res = {"node": nid, "status": "error", "error": f"{type(e).__name__}: {e}"}
             res["seconds"] = round(time.time() - t0, 1)
-            print(json.dumps({k: v for k, v in res.items() if k != "dropped_items"}, ensure_ascii=False))
+            print(json.dumps({k: v for k, v in res.items() if k not in ("dropped_items", "draft", "source_list")},
+                             ensure_ascii=False))
             report.append(res)
         st.save_counters()
     if args.report:
