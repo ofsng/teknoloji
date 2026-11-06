@@ -18,9 +18,11 @@ from .state import load_json, save_json
 
 FILL_SECTIONS = [1, 2, 3, 4, 5, 8, 9, 10, 11]
 STMT = {"type": "object",
-        "properties": {"text": {"type": "string"}, "sources": {"type": "array", "items": {"type": "string"}},
+        "properties": {"text": {"type": "string"},
+                       "evidence": {"type": "string"},
+                       "sources": {"type": "array", "items": {"type": "string"}},
                        "basis": {"type": "string", "enum": ["review", "peer_reviewed", "preprint"]}},
-        "required": ["text", "sources", "basis"], "additionalProperties": False}
+        "required": ["text", "evidence", "sources", "basis"], "additionalProperties": False}
 DRAFT_SCHEMA = {"type": "object",
                 "properties": {**{f"s{n}": {"type": "array", "items": STMT} for n in FILL_SECTIONS},
                                "conflicts": {"type": "array", "items": STMT}},
@@ -28,8 +30,11 @@ DRAFT_SCHEMA = {"type": "object",
 DRAFT_SYSTEM = (
     "You write sections of a Turkish-language technology knowledge base entry. You are given numbered sources "
     "(title, venue, year, whether peer reviewed, abstract). Write short Turkish statements ONLY from what these "
-    "abstracts state. Every statement must cite the source ids it relies on. Do not add facts, numbers, dates or "
-    "names that are not in the sources. If the sources do not support a section, return an empty list for it. "
+    "abstracts state. Every statement must cite the source ids it relies on and must include 'evidence': an "
+    "EXACT, verbatim English quote (8 to 40 words, copied character for character) from the abstract of the first "
+    "cited source that supports the statement. The Turkish text must not say more than the quote. Do not add "
+    "facts, numbers, dates or names that are not in the quote. If the sources do not support a section, return an "
+    "empty list for it. Prefer fewer, accurate statements over many. "
     "Prefer review articles for definitions and principles. Mark basis=preprint when relying only on preprints. "
     "Put findings that disagree with each other into 'conflicts'. Sections: s1 definition, s2 working principle, "
     "s3 history, s4 key concepts, s5 key methods, s8 applications, s9 advantages, s10 limitations, "
@@ -61,21 +66,52 @@ def source_ref(s):
     return f"{who} ({s.get('year') or 'tarihsiz'}). *{s.get('title')}*. {s.get('publication') or ''}. {link} — {kind}"
 
 
+def _norm(t):
+    t = (t or "").lower()
+    t = re.sub(r"[‐-―−]", "-", t)
+    t = re.sub(r"[“”\"'‘’`]", "", t)
+    return re.sub(r"\s+", " ", t).strip()
+
+
+def evidence_in_abstract(evidence, abstract):
+    """Kanıt alıntısı özetin içinde birebir (boşluk/tırnak/kısa çizgi farkları hariç) geçiyor mu?"""
+    ev, ab = _norm(evidence).strip(" .,;:"), _norm(abstract)
+    return len(ev.split()) >= 6 and ev in ab
+
+
+def numbers_supported(text, evidence):
+    """Türkçe ifadedeki her sayı kanıtta da geçmeli (uydurma sayı/yıl önlemi)."""
+    nums = re.findall(r"\d+(?:[.,]\d+)?", text)
+    ev = evidence.replace(",", ".")
+    return all(n.replace(",", ".") in ev for n in nums)
+
+
 def validate(draft, sources):
-    """Kaynaksız / bilinmeyen kaynaklı / biçimsiz ifadeleri ayıklar. (temiz taslak, atılanlar)"""
-    ids = {s["sid"] for s in sources}
+    """Kaynaksız, bilinmeyen kaynaklı, kanıt alıntısı özette bulunmayan ya da kanıtta olmayan sayı içeren
+    ifadeleri atar. (temiz taslak, atılanlar)"""
+    by = {s["sid"]: s for s in sources}
     preprint = {s["sid"] for s in sources if s.get("peer_reviewed") is False}
     clean, dropped = {}, []
     for key in [f"s{n}" for n in FILL_SECTIONS] + ["conflicts"]:
         out = []
         for st in draft.get(key) or []:
             text = (st.get("text") or "").strip()
-            srcs = [x for x in st.get("sources") or [] if x in ids]
+            ev = (st.get("evidence") or "").strip()
+            srcs = [x for x in st.get("sources") or [] if x in by]
+            why = None
             if not srcs or len(text) < 15 or len(text) > 700 or re.search(r"https?://", text):
-                dropped.append({"section": key, "statement": st, "why": "kaynaksız/geçersiz"})
+                why = "kaynaksız/geçersiz"
+            elif not any(evidence_in_abstract(ev, by[x].get("abstract")) for x in srcs):
+                why = "kanıt alıntısı kaynak özetinde yok"
+            elif len(ev.split()) > 45:
+                why = "kanıt alıntısı çok uzun"
+            elif not numbers_supported(text, ev):
+                why = "kanıtta olmayan sayı"
+            if why:
+                dropped.append({"section": key, "statement": st, "why": why})
                 continue
             basis = "preprint" if set(srcs) <= preprint else st.get("basis")
-            out.append({"text": text, "sources": srcs, "basis": basis})
+            out.append({"text": text, "sources": srcs, "basis": basis, "evidence": ev})
         clean[key] = out
     return clean, dropped
 
@@ -95,7 +131,9 @@ def render(clean, sources):
         items = clean.get(f"s{n}") or []
         if items:
             out[n] = "\n".join(f"- {st['text']}" + (" *(ön baskı bulgusu)*" if st["basis"] == "preprint" else "")
-                               + " " + "".join(f"[{num[s]}]" for s in st["sources"]) for st in items)
+                               + " " + "".join(f"[{num[s]}]" for s in st["sources"])
+                               + (f" <!-- kanıt: \"{st['evidence'].replace('--', '–')}\" -->" if st.get("evidence") else "")
+                               for st in items)
     if clean.get("conflicts"):
         txt = "\n".join(f"- ⚖ {st['text']} " + "".join(f"[{num[s]}]" for s in st["sources"]) for st in clean["conflicts"])
         out[10] = (out.get(10, "") + "\n\n**Kaynaklar arasında uyuşmazlık:**\n" + txt).strip()
@@ -194,7 +232,7 @@ def apply_draft(cfg, tree, nid, clean, sources):
     return filled, proposal
 
 
-def fill_node(cfg, tree, nid, llm=None, http=None, openalex=None, draft=None, sources=None):
+def fill_node(cfg, tree, nid, llm=None, http=None, openalex=None, draft=None, sources=None, keep_dropped=False):
     if sources is None:
         sources = gather_sources(http, cfg, tree, nid, openalex)
     if not sources:
@@ -209,11 +247,16 @@ def fill_node(cfg, tree, nid, llm=None, http=None, openalex=None, draft=None, so
         user = (f"Entry: {n['meta']['title']} ({n['meta']['title_tr']}); position in taxonomy: {path}.\n"
                 f"Sub-technologies covered in their own entries (do not describe them in detail): "
                 f"{', '.join(tree.nodes[c]['meta']['title'] for c in n['children']) or 'none'}.\n\nSources:\n{listing}")
-        draft = llm.json_call("index_draft", DRAFT_SYSTEM, user, DRAFT_SCHEMA, max_tokens=16000, effort="medium")
+        draft = llm.json_call("index_draft", DRAFT_SYSTEM, user, DRAFT_SCHEMA, max_tokens=6000, effort="medium")
     clean, dropped = validate(draft, sources)
     filled, proposal = apply_draft(cfg, tree, nid, clean, sources)
-    return {"node": nid, "status": "filled" if filled else "nothing_filled", "filled": filled,
-            "dropped": len(dropped), "proposal": proposal}
+    kept = sum(len(v) for v in clean.values())
+    res = {"node": nid, "status": "filled" if filled else "nothing_filled", "filled": filled, "kept": kept,
+           "dropped": len(dropped), "sources": len(sources), "proposal": proposal,
+           "drop_reasons": {w: sum(1 for d in dropped if d["why"] == w) for w in {d["why"] for d in dropped}}}
+    if keep_dropped:
+        res["dropped_items"] = dropped
+    return res
 
 
 def assess_new_research(cfg, tree, nid, rmeta, abstract, llm):

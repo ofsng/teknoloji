@@ -37,11 +37,11 @@ jobs:
       KB_MAX_ARCHIVE_PER_RUN: ${{ inputs.max_archive || '40' }}
       BRANCH: auto/research
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
         with:
           fetch-depth: 0
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v7
         with:
           python-version: "3.12"
 
