@@ -85,10 +85,13 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **2**.
+Arşivdeki kayıtlar — bu düğüm: **5**, alt teknolojiler dahil: **8**.
 
+- [How Well Can Large Language Models Impersonate Individual Authors? A Comparative Evaluation](Arastirmalar/2026-Gupta-How-Well-Can-Large.md) — Gupta vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [AdSteer: Native Advertising in Large Language Model Generation](Arastirmalar/2026-Lin-AdSteer-Native-Advertising-Large.md) — Lin vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [Graph-Mediated Large Language Model Systems in the Agentic Era: Reasoning, Knowledge, Retrieval, Execution, and Coordination](Arastirmalar/2026-Liu-Graph-Mediated-Large-Language.md) — Liu vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [Large Language Model-Assisted Adaptive Heuristic Search for Agile Earth Observation Satellite Scheduling](Arastirmalar/2026-Wang-Large-Language-Model-Assisted.md) — Wang vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [Boundary-stratified safety evaluation of large language models for clinical decision support: a synthetic benchmark in chronic kidney disease renoprotective therapy](Arastirmalar/2026-Yeh-Boundary-stratified-safety-evaluation.md) — Yeh vd. (2026) · *Frontiers in Medicine* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -98,8 +101,14 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [How Well Can Large Language Models Impersonate Individual Authors? A Comparative Evaluation](Arastirmalar/2026-Gupta-How-Well-Can-Large.md) — Gupta vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [Graph-Mediated Large Language Model Systems in the Agentic Era: Reasoning, Knowledge, Retrieval, Execution, and Coordination](Arastirmalar/2026-Liu-Graph-Mediated-Large-Language.md) — Liu vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [Signed but Steerable: Measuring and Closing the Text-Vector Integrity Gap in Offline Retrieval-Augmented Generation](Erisimle-Zenginlestirilmis-Uretim/Arastirmalar/2026-Feretzakis-Signed-but-Steerable-Measuring.md) — Feretzakis vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [Weaver: Weaving Preference Evidence through Incremental Reasoning for Personalized Retrieval-Augmented Generation](Erisimle-Zenginlestirilmis-Uretim/Arastirmalar/2026-Zheng-Weaver-Weaving-Preference-Evidence.md) — Zheng vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [AdSteer: Native Advertising in Large Language Model Generation](Arastirmalar/2026-Lin-AdSteer-Native-Advertising-Large.md) — Lin vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [Large Language Model-Assisted Adaptive Heuristic Search for Agile Earth Observation Satellite Scheduling](Arastirmalar/2026-Wang-Large-Language-Model-Assisted.md) — Wang vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [Boundary-stratified safety evaluation of large language models for clinical decision support: a synthetic benchmark in chronic kidney disease renoprotective therapy](Arastirmalar/2026-Yeh-Boundary-stratified-safety-evaluation.md) — Yeh vd. (2026) · *Frontiers in Medicine* · hakemli
+- [Reinforcement Learning from Human Feedback: A Statistical Perspective](LLM-Hizalama/Insan-Geri-Bildiriminden-Pekistirmeli-Ogrenme/Arastirmalar/2026-Liu-Reinforcement-Learning-from-Human.md) — Liu vd. (2026) · *Annual Review of Statistics and Its Application* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

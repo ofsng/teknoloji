@@ -85,7 +85,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -95,6 +95,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Fire Bloom: Energy-Efficient Cluster-Based Routing Protocol for Scalable Wireless Sensor Networks](Ad-Hoc-ve-Orgu-Aglar/Kablosuz-Algilayici-Aglari/Arastirmalar/2026-Nagaraju-Fire-Bloom-Energy-Efficient.md) — Nagaraju vd. (2026) · *Journal of ICT Research and Applications* · hakemli
 - [An Adaptive Trust-Based Approach to the Protection of Software-Defined Wireless Sensor Networks Against Multiple Types of DoS Attacks](Ad-Hoc-ve-Orgu-Aglar/Kablosuz-Algilayici-Aglari/Arastirmalar/2026-Wang-Adaptive-Trust-Based-Approach.md) — Wang vd. (2026) · *Electronics* · hakemli
 <!-- AUTO:RECENT:END -->
 

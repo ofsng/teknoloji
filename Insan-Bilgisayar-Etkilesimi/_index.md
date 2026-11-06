@@ -87,7 +87,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **4**.
+
+- [Human-Computer Interaction Insights from Web Portals in Consumer Banking](Arastirmalar/2026-Shrivastav-Human-Computer-Interaction-Insights.md) — Shrivastav (2026) · *International Journal of Medical Research And Innovation in Applied Science (IJMRIAS)* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -95,7 +97,12 @@ Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
-_Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini göstermez; ön baskılar hakemli değildir._
+Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
+
+- [Human-Computer Interaction Insights from Web Portals in Consumer Banking](Arastirmalar/2026-Shrivastav-Human-Computer-Interaction-Insights.md) — Shrivastav (2026) · *International Journal of Medical Research And Innovation in Applied Science (IJMRIAS)* · hakemli
+- [The Impact of Virtual and Augmented Reality on Modern Software Applications](Genisletilmis-Gerceklik/Artirilmis-Gerceklik/Arastirmalar/2026-Shrivastav-The-Impact-Virtual-and.md) — Shrivastav (2026) · *Global Journal of Innovative Research Perspectives (GJIRP)* · hakemli
+- [Ageing, Digital Literacy, and Interaction Modality in Immersive Virtual Reality: Psychomotor Performance, Cognitive Flexibility, and Their Associations with Processing Speed](Genisletilmis-Gerceklik/Sanal-Gerceklik/Arastirmalar/2026-Kourtesis-Ageing-Digital-Literacy-and.md) — Kourtesis vd. (2026) · *Virtual Worlds* · hakemli
+- [Usability Analysis of the BSB Mobile Application of Bank Sumsel Babel Using Heuristic Evaluation](Kullanilabilirlik-Muhendisligi/Sezgisel-Degerlendirme/Arastirmalar/2026-Pratama-Usability-Analysis-the-BSB.md) — Pratama (2026) · *Journal La Multiapp* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

@@ -93,7 +93,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **3**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **7**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -103,6 +103,10 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [High-transformer-ratio plasma-based afterburner for extending X-ray free-electron laser photon energies to $\gtrsim$50 keV](Hizlandirici-Fizigi/Serbest-Elektron-Lazerleri/Arastirmalar/2026-Han-High-transformer-ratio-plasma.md) — Han vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [Partial relief of the Hubble tension and a natural self-interacting dark matter candidate from staged symmetry breaking](Astronomi-ve-Astrofizik/Kozmoloji/Karanlik-Madde/Arastirmalar/2026-Hoelscher-Partial-relief-the-Hubble.md) — Hoelscher vd. (2026) · *Physical review. D/Physical review. D.* · hakemli
+- [Coherent collective response in many-qubit systems for dark matter detection](Astronomi-ve-Astrofizik/Kozmoloji/Karanlik-Madde/Arastirmalar/2026-Kitano-Coherent-collective-response-many.md) — Kitano vd. (2026) · *Physical review. D/Physical review. D.* · hakemli
+- [Nonthermal leptogenesis via cosmological gravitational particle production is tested by inflationary gravitational waves](Genel-Gorelilik-ve-Kutlecekim/Kutlecekim-Dalgalari/Arastirmalar/2026-Chowdhury-Nonthermal-leptogenesis-via-cosmologic.md) — Chowdhury vd. (2026) · *Physical review. D/Physical review. D.* · hakemli
 - [Full-Stokes response to a stochastic gravitational-wave background in pulsar timing arrays: Fully analytic overlap reduction functions at finite distance and coherence of close pulsar pairs](Genel-Gorelilik-ve-Kutlecekim/Kutlecekim-Dalgalari/Pulsar-Zamanlama-Dizileri/Arastirmalar/2026-Zhou-Full-Stokes-response-stochastic.md) — Zhou vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [Migdal ionization as a probe of light dark matter from nuclear transition](Astronomi-ve-Astrofizik/Kozmoloji/Karanlik-Madde/Arastirmalar/2026-Lou-Migdal-ionization-probe-light.md) — Lou vd. (2026) · *Journal of High Energy Physics* · hakemli
 - [The Role of Dark Matter in Driving Disk Perturbations: Application to LMC–SMC-like Galaxy Interactions](Astronomi-ve-Astrofizik/Kozmoloji/Karanlik-Madde/Arastirmalar/2026-Rathore-The-Role-Dark-Matter.md) — Rathore vd. (2026) · *The Astrophysical Journal* · hakemli
