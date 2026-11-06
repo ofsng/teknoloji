@@ -43,5 +43,47 @@
    "water-treatment": 1,
    "wireless-sensor-networks": 1
   }
+ },
+ "2026-11-06": {
+  "archived": 37,
+  "backfill": 0,
+  "by_source": {
+   "arxiv": 17,
+   "openalex": 20
+  },
+  "llm_calls": 0,
+  "llm_usd": 0.0,
+  "per_tech": {
+   "additive-manufacturing": 1,
+   "augmented-reality": 1,
+   "convolutional-neural-networks": 1,
+   "dark-matter": 2,
+   "direction-of-arrival-estimation": 1,
+   "federated-learning": 1,
+   "free-electron-lasers": 1,
+   "fully-homomorphic-encryption": 1,
+   "gravitational-waves": 1,
+   "heuristic-evaluation": 1,
+   "human-computer-interaction": 1,
+   "human-robot-interaction": 1,
+   "implicit-neural-representations": 1,
+   "in-situ-resource-utilization": 1,
+   "integrated-sensing-and-communication": 1,
+   "interior-point-methods": 1,
+   "large-language-models": 3,
+   "learning-from-demonstration": 1,
+   "multi-agent-reinforcement-learning": 3,
+   "multi-agent-systems": 1,
+   "reinforcement-learning-from-human-feedback": 1,
+   "retrieval-augmented-generation": 2,
+   "sustainable-solvents": 1,
+   "tensor-networks": 1,
+   "variational-quantum-algorithms": 1,
+   "virtual-reality": 1,
+   "visible-light-communication": 1,
+   "vision-language-models": 2,
+   "visual-inertial-odometry": 1,
+   "wireless-sensor-networks": 1
+  }
  }
 }

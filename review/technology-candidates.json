@@ -1,1 +1,149 @@
-{}
+{
+ "artificial neural network": {
+  "acronyms": [
+   "ANNs",
+   "ANN"
+  ],
+  "alias_proposal": true,
+  "created": "2026-11-06",
+  "display": "Artificial Neural Network",
+  "evidence": {
+   "co_classified": {
+    "feedforward-neural-networks": 1,
+    "generative-adversarial-networks": 1,
+    "heat-transfer": 2,
+    "lithium-ion-batteries": 1,
+    "machine-learning": 1,
+    "mechanical-engineering": 1,
+    "pose-estimation": 1,
+    "semantic-segmentation": 1,
+    "spiking-neural-networks": 1,
+    "structural-engineering": 1
+   },
+   "examples": [
+    {
+     "date": "2026-11-03",
+     "id": "arxiv:2611.05550",
+     "title": "Energy-efficient End-to-End Communication System with Spiking Neural Networks",
+     "url": "https://arxiv.org/abs/2611.05550"
+    },
+    {
+     "date": "2026-11-03",
+     "id": "arxiv:2611.05569",
+     "title": "Role-based Effectiveness of an Epistemic Uncertainty Estimate in Training Models for Semantic Segmentation of 3D LiDAR Point Clouds",
+     "url": "https://arxiv.org/abs/2611.05569"
+    },
+    {
+     "date": "2026-11-02",
+     "id": "doi:10.1038/s41598-026-77054-y",
+     "title": "Parametric sensitivity assessment of slip flow and thermophoretic effects on a vertical stretching surface using response surface methodology",
+     "url": "https://doi.org/10.1038/s41598-026-77054-y"
+    },
+    {
+     "date": "2026-11-02",
+     "id": "doi:10.1016/j.esd.2026.102178",
+     "title": "Sensitivity analysis of a solar-biomass hybrid cooler with artificial neural network and engineering equation solver",
+     "url": "https://doi.org/10.1016/j.esd.2026.102178"
+    },
+    {
+     "date": "2026-11-02",
+     "id": "doi:10.1021/acsomega.6c04412",
+     "title": "Data Characterization and Multi-Plant Data Integration Strategies for Artificial Neural Network Modeling in Palm Oil Refining",
+     "url": "https://doi.org/10.1021/acsomega.6c04412"
+    },
+    {
+     "date": "2026-11-02",
+     "id": "doi:10.25258/ijddt.16.86s.17",
+     "title": "A Deepfake Detection Framework for Securing Facial Biometrics Using Attention-Based Deep Learning and Blockchain",
+     "url": "https://doi.org/10.25258/ijddt.16.86s.17"
+    }
+   ],
+   "first_authors": 11,
+   "months": 1,
+   "papers": 11,
+   "sources": [
+    "arxiv",
+    "openalex"
+   ]
+  },
+  "key": "artificial neural network",
+  "literature_count": null,
+  "notes": [
+   "Mevcut teknolojinin (approximate-nearest-neighbor-search) eş anlamlısı/kısaltma eşleşmesi; takma ad önerisi."
+  ],
+  "parent_reason": "co_classification",
+  "parent_suggestion": "heat-transfer",
+  "reason": "synonym_of:approximate-nearest-neighbor-search",
+  "status": "rejected",
+  "updated": "2026-11-06"
+ },
+ "multimodal large language model": {
+  "acronyms": [
+   "MLLM",
+   "MLLMs"
+  ],
+  "created": "2026-11-06",
+  "display": "multimodal large language models",
+  "evidence": {
+   "co_classified": {
+    "image-quality-assessment": 1,
+    "large-language-models": 12,
+    "remote-sensing": 1,
+    "vision-language-models": 3
+   },
+   "examples": [
+    {
+     "date": "2026-11-03",
+     "id": "arxiv:2611.04226",
+     "title": "DiMuRe: Diagnosis-Guided Multilevel Recovery for Robotic Task Execution",
+     "url": "https://arxiv.org/abs/2611.04226"
+    },
+    {
+     "date": "2026-11-03",
+     "id": "arxiv:2611.04504",
+     "title": "AttriSwarm: Orchestrating Agent Swarms for Cross-Page Visual Attribution",
+     "url": "https://arxiv.org/abs/2611.04504"
+    },
+    {
+     "date": "2026-11-03",
+     "id": "arxiv:2611.04811",
+     "title": "NightIQA: A Comprehensive Dataset and Benchmark for MLLM-Based Nighttime Image Quality Assessment",
+     "url": "https://arxiv.org/abs/2611.04811"
+    },
+    {
+     "date": "2026-11-03",
+     "id": "arxiv:2611.04878",
+     "title": "TraceRouter++: Causal Semantic Routing Realignment via Optimal Transport",
+     "url": "https://arxiv.org/abs/2611.04878"
+    },
+    {
+     "date": "2026-11-03",
+     "id": "arxiv:2611.05181",
+     "title": "What Does the Model See? Representation Validity in Multimodal LLM-Based Video Analysis",
+     "url": "https://arxiv.org/abs/2611.05181"
+    },
+    {
+     "date": "2026-11-03",
+     "id": "arxiv:2611.05193",
+     "title": "Factorized MLLM Embeddings for Composed Image Retrieval",
+     "url": "https://arxiv.org/abs/2611.05193"
+    }
+   ],
+   "first_authors": 17,
+   "months": 1,
+   "papers": 17,
+   "sources": [
+    "arxiv",
+    "openalex"
+   ]
+  },
+  "key": "multimodal large language model",
+  "literature_checked": "2026-11-06",
+  "literature_count": 9428,
+  "notes": [],
+  "parent_reason": "variant_of_existing",
+  "parent_suggestion": "large-language-models",
+  "status": "candidate",
+  "updated": "2026-11-06"
+ }
+}

@@ -1,17 +1,17 @@
 {
  "arxiv": {
   "day": null,
-  "last_complete_day": "2026-11-03",
+  "last_complete_day": "2026-11-04",
   "start": 0
  },
  "openalex-biorxiv-medrxiv": {
   "day": null,
-  "last_complete_day": "2026-11-02",
+  "last_complete_day": "2026-11-03",
   "page": 1
  },
  "openalex-journal": {
   "day": null,
-  "last_complete_day": "2026-11-02",
+  "last_complete_day": "2026-11-03",
   "page": 1
  }
 }

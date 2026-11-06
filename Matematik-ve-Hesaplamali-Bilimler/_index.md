@@ -93,7 +93,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **3**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **4**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -103,6 +103,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Ramification of Weighted Central Paths and Super-linear Interior-Point Methods for Semi-definite Optimization](Optimizasyon/Dogrusal-Programlama/Ic-Nokta-Yontemleri/Arastirmalar/2026-Mohammad-Nezhad-Ramification-Weighted-Central-Pa.md) — Mohammad-Nezhad vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [Solving the Nonlinear Westervelt Equation in Ultrasound Propagation Using Physics-Informed Neural Networks](Bilimsel-Hesaplama/Bilimsel-Makine-Ogrenmesi/Fizik-Bilgili-Sinir-Aglari/Arastirmalar/2026-Joel-Solving-the-Nonlinear-Westervelt.md) — Joel (2026) · *arXiv* · ön baskı / hakemsiz
 - [High-dimensional Four-Level Structured Functional Principal Component Analysis for Unbalanced Level Data with Application to Concussion Data](Istatistik/Cok-Degiskenli-Istatistik/Temel-Bilesen-Analizi/Arastirmalar/2026-Werkmann-High-dimensional-Four-Level.md) — Werkmann vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [Retrodicting Chaotic Systems: An Algorithmic Information Theory Approach](Bilgi-Teorisi/Algoritmik-Bilgi-Teorisi/Arastirmalar/2026-Dingle-Retrodicting-Chaotic-Systems-Algorithmic.md) — Dingle vd. (2026) · *Entropy* · hakemli

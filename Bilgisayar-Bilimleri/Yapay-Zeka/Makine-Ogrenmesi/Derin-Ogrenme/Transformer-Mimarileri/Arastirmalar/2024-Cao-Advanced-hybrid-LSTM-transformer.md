@@ -26,7 +26,7 @@ collected_at: 2026-11-05
 last_checked_at: 2026-11-05
 content_verified: false
 identifier_verified: crossref
-retraction_checked: 2026-11-05
+retraction_checked: 2026-11-06
 ---
 
 # Advanced hybrid LSTM-transformer architecture for real-time multi-task prediction in engineering systems

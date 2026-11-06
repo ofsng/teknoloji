@@ -84,7 +84,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **4**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -94,6 +94,8 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Partial relief of the Hubble tension and a natural self-interacting dark matter candidate from staged symmetry breaking](Kozmoloji/Karanlik-Madde/Arastirmalar/2026-Hoelscher-Partial-relief-the-Hubble.md) — Hoelscher vd. (2026) · *Physical review. D/Physical review. D.* · hakemli
+- [Coherent collective response in many-qubit systems for dark matter detection](Kozmoloji/Karanlik-Madde/Arastirmalar/2026-Kitano-Coherent-collective-response-many.md) — Kitano vd. (2026) · *Physical review. D/Physical review. D.* · hakemli
 - [Migdal ionization as a probe of light dark matter from nuclear transition](Kozmoloji/Karanlik-Madde/Arastirmalar/2026-Lou-Migdal-ionization-probe-light.md) — Lou vd. (2026) · *Journal of High Energy Physics* · hakemli
 - [The Role of Dark Matter in Driving Disk Perturbations: Application to LMC–SMC-like Galaxy Interactions](Kozmoloji/Karanlik-Madde/Arastirmalar/2026-Rathore-The-Role-Dark-Matter.md) — Rathore vd. (2026) · *The Astrophysical Journal* · hakemli
 <!-- AUTO:RECENT:END -->

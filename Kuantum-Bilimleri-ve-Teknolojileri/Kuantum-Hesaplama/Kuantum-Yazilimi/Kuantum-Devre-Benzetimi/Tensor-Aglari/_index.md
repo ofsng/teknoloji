@@ -76,8 +76,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **2**.
 
+- [Tensor network representations for intrinsically mixed-state topological orders](Arastirmalar/2026-Aldossari-Tensor-network-representations-for.md) — Aldossari vd. (2026) · *PRX Quantum* · hakemli
 - [Tensor-network methodology for real-space super-moiré excitons](Arastirmalar/2026-Moustaj-Tensor-network-methodology-for.md) — Moustaj vd. (2026) · *SciPost Physics* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
@@ -88,6 +89,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Tensor network representations for intrinsically mixed-state topological orders](Arastirmalar/2026-Aldossari-Tensor-network-representations-for.md) — Aldossari vd. (2026) · *PRX Quantum* · hakemli
 - [Tensor-network methodology for real-space super-moiré excitons](Arastirmalar/2026-Moustaj-Tensor-network-methodology-for.md) — Moustaj vd. (2026) · *SciPost Physics* · hakemli
 <!-- AUTO:RECENT:END -->
 

@@ -1837,5 +1837,1831 @@
   "suggested": "llm-inference-optimization",
   "title": "Beyond Compression Ratio: High-Throughput KV Compression for Disaggregated LLM Serving",
   "url": "https://arxiv.org/abs/2611.04382"
+ },
+ {
+  "added": "2026-11-06",
+  "arxiv": "2611.06195",
+  "candidates": [
+   [
+    "object-detection",
+    8.3
+   ],
+   [
+    "foundation-models",
+    7.9
+   ],
+   [
+    "clustering",
+    1.85
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.06195",
+   "title:annotatorfreeobjectdetectionviafoundationmodelcollaboration|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Object detection research remains constrained by high annotation costs and the closed-set assumptions of supervised models, limiting scalability to novel categories. We present a target-dataset annotation-free object detection framework that eliminates the need for human labeling on the target dataset by leveraging the complementary strengths of pretrained foundation models, including segmentation and vision-language systems, combined with a self-refining training loop. To further reduce reliance on expensive LVLM queries, we introduce a landmark-based clustering mechanism that amortizes labeling across image clusters, improving label consistency while lowering computational cost. Our method autonomously generates segmentation proposals, assigns semantic labels through multimodal reasoning, and iteratively improves both localization and classification using a lightweight open-set detector. This modular pipeline enables adaptation to completely unseen object classes and domains without any human-provided target-dataset annotations, while maintaining compatibility with existing detection architectures. Evaluations on COCO, LVIS, ODinW-35, and Roboflow-100 demonstrate substantial performance gains over state-of-the-art open-vocabulary and long-tail detection methods, achieving 60.8 AP on COCO and 47.4 AP on LVIS under zero-shot settings. Beyond strong benchmark results, our approach provides a scalable foundation for real-world detection systems in unknown environments, where annotation is infeasible.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.06195",
+   "authors": [
+    "Yasiru Ranasinghe",
+    "Vishal M. Patel"
+   ],
+   "categories": [
+    "arXiv:cs.CV"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-04",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.06195"
+   ],
+   "title": "Annotator-Free Object Detection via Foundation Model Collaboration",
+   "topics": [],
+   "updated_date": "2026-11-04",
+   "url": "https://arxiv.org/abs/2611.06195"
+  },
+  "suggested": "object-detection",
+  "title": "Annotator-Free Object Detection via Foundation Model Collaboration",
+  "url": "https://arxiv.org/abs/2611.06195"
+ },
+ {
+  "added": "2026-11-06",
+  "arxiv": "2611.06205",
+  "candidates": [
+   [
+    "underwater-acoustics",
+    5.87
+   ],
+   [
+    "contrastive-learning",
+    2.1
+   ],
+   [
+    "quantization",
+    1.94
+   ],
+   [
+    "underwater-acoustic-communication",
+    1.65
+   ],
+   [
+    "acoustics",
+    1.18
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.06205",
+   "title:crossmodalsemanticsuccessiverefinementforgenerativeimagecommunicationoverunderwateracousticchannels|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Underwater acoustic communication faces challenges such as limited available bandwidth and complex channel environments, which impose demanding requirements on efficient image transmission and reliable reconstruction. To address these challenges, this paper proposes a generative image communication framework based on cross-modal semantic successive refinement. At the transmitter, text descriptions, compact bottleneck features, and visual side information compressed by residual vector quantization are transmitted. At the receiver, text and bottleneck features are first fused to predict a base estimate of the intermediate visual representation. The received RVQ indices are then used to recover supplementary visual information and perform residual correction, followed by image reconstruction using a one-step Pixel Mean Flow model. During training, a CLIP-based text-image semantic consistency constraint is introduced to preserve the semantic correspondence between generated results and the original text descriptions. During transmission, protection resources are allocated according to the importance of different information branches and RVQ quantization stages. Simulations using COCO 2017 images and measured underwater acoustic channel records from Watermark show that text and bottleneck features provide complementary semantic and structural conditions, RVQ visual side information further improves reconstruction quality, and layered unequal error protection helps improve recovery at low SNRs. Code-rate allocation experiments reveal a tradeoff between the reliability of fundamental conditions and visual-detail reconstruction under a limited visual-feature coding budget, providing guidance for allocating protection resources in underwater acoustic image transmission.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.06205",
+   "authors": [
+    "Xu Pei",
+    "Bin Wang",
+    "Guangxu Zhu",
+    "Yi Zhang",
+    "Haiyan Fan"
+   ],
+   "categories": [
+    "arXiv:cs.IT",
+    "arXiv:cs.CV"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-04",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.06205"
+   ],
+   "title": "Cross-Modal Semantic Successive Refinement for Generative Image Communication over Underwater Acoustic Channels",
+   "topics": [],
+   "updated_date": "2026-11-04",
+   "url": "https://arxiv.org/abs/2611.06205"
+  },
+  "suggested": "underwater-acoustics",
+  "title": "Cross-Modal Semantic Successive Refinement for Generative Image Communication over Underwater Acoustic Channels",
+  "url": "https://arxiv.org/abs/2611.06205"
+ },
+ {
+  "added": "2026-11-06",
+  "arxiv": "2611.05818",
+  "candidates": [
+   [
+    "sensor-fusion",
+    5.7
+   ],
+   [
+    "object-detection",
+    3.1
+   ],
+   [
+    "lidar",
+    0.66
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.05818",
+   "title:navigationalsafetyofmarinesurfacevehiclesinrestrictedvisibilityfromintelligentvisiontovisioncenteredmultisensorfusion|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Marine surface vehicles (MSVs) have attracted considerable attention for their commercial, scientific, and military applications. Owing to their favorable performance-to-cost ratio, shipboard cameras are widely used to detect and recognize potentially hazardous situations across diverse operational scenarios. However, visual perception is inevitably degraded by restricted conditions, including irregular motion of the imaging platform, adverse weather, and long imaging distances. To improve situational awareness and navigation capabilities, complementary sensors, such as the automatic identification system (AIS), radar, and light detection and ranging (LiDAR), etc., have become essential shipboard equipment. Multi-sensor fusion can provide richer perceptual information and help ensure navigational safety of MSVs in restricted visibility. This article reviews recent progress from intelligent vision to vision-centered multi-sensor fusion for newcomers and researchers in intelligent ship navigation and intelligent waterborne transportation system (IWTS). After introducing the generation of quality-degraded images in restricted visibility, we will review intelligent vision methods for four key issues, i.e., shipboard video stabilization, visual perception enhancement, object detection and tracking, and navigable area segmentation. We then examine vision-centered multi-sensor fusion methods, including infrared-visible image fusion, radar-vision fusion, LiDAR-vision fusion, AIS-vision fusion, and other multi-sensor fusion scenarios. Open-source datasets and safety-critical applications are also summarized and discussed. Finally, we highlight open challenges and future research directions. The collected maritime datasets are available at https://github.com/MAPGroup/Datasets and will be regularly updated.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.05818",
+   "authors": [
+    "Ryan Wen Liu",
+    "Fengchuan Song",
+    "Tianxiang Wang",
+    "Guobei Peng",
+    "Youngrong Kim",
+    "Xian Zhong",
+    "Hooi-Siang Kang",
+    "Maohan Liang",
+    "Junzhi Yu",
+    "Shanliang Yao"
+   ],
+   "categories": [
+    "arXiv:cs.CV"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-04",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.05818"
+   ],
+   "title": "Navigational Safety of Marine Surface Vehicles in Restricted Visibility: From Intelligent Vision to Vision-Centered Multi-Sensor Fusion",
+   "topics": [],
+   "updated_date": "2026-11-04",
+   "url": "https://arxiv.org/abs/2611.05818"
+  },
+  "suggested": "sensor-fusion",
+  "title": "Navigational Safety of Marine Surface Vehicles in Restricted Visibility: From Intelligent Vision to Vision-Centered Multi-Sensor Fusion",
+  "url": "https://arxiv.org/abs/2611.05818"
+ },
+ {
+  "added": "2026-11-06",
+  "arxiv": "2611.06098",
+  "candidates": [
+   [
+    "visual-analytics",
+    5.7
+   ],
+   [
+    "analysis",
+    0.26
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.06098",
+   "title:towardsinsightcentricdataspacesintegratingvisualanalyticsanddecentralizeddataecosystems|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Visual analytics and dataspaces address complementary challenges in modern data ecosystems: visual analytics enables interactive exploration and human-centered reasoning over complex data, dataspaces provide decentralized infrastructures for sovereign and collaborative data sharing. Both fields have largely evolved independently, resulting in a gap between data management and data understanding in distributed environments.We explore their intersection and argue that integration is essential for next-generation data ecosystems. Visual analytics acts as a cognitive layer for dataspaces by making data availability, quality, provenance, and exchange processes observable and interpretable, while dataspaces reshape visual analytics by introducing decentralized, heterogeneous, and governed data environments. We illustrate this interplay through a semi-synthetic cultural dataspace scenario analyzing exchange patterns and metadata quality across a federated ecosystem. Based on these insights, we identify key open challenges and outline a vision of insight-centric data spaces, in which data management and analysis are tightly integrated into a unified, human-centered environment.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.06098",
+   "authors": [
+    "Christina Faßbender",
+    "Benjamin Greiner",
+    "Benedikt T. Arnold",
+    "Georgios Toubekis",
+    "Christoph Lange"
+   ],
+   "categories": [
+    "arXiv:cs.GR"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-04",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.06098"
+   ],
+   "title": "Towards Insight-Centric Data Spaces: Integrating Visual Analytics and Decentralized Data Ecosystems",
+   "topics": [],
+   "updated_date": "2026-11-04",
+   "url": "https://arxiv.org/abs/2611.06098"
+  },
+  "suggested": "visual-analytics",
+  "title": "Towards Insight-Centric Data Spaces: Integrating Visual Analytics and Decentralized Data Ecosystems",
+  "url": "https://arxiv.org/abs/2611.06098"
+ },
+ {
+  "added": "2026-11-06",
+  "arxiv": "2611.05987",
+  "candidates": [
+   [
+    "quantum-computing",
+    5.55
+   ],
+   [
+    "quantum-field-theory",
+    4.25
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.05987",
+   "title:quantumcomputingforentanglementasymmetryandthequantummpembaeffectinfieldtheory|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "We construct a quantum measurement protocol for estimating the Rényi entanglement asymmetry, which quantifies symmetry breaking at the level of a subsystem and provides a probe of the quantum Mpemba effect. The protocol combines the SWAP test with a charge-resolving procedure based on randomized symmetry rotations. For a fixed additive accuracy $ε$, the required number of measurements scales as $\\mathcal{O}(ε^{-2})$ without explicit dependence on the total system size, making the protocol particularly attractive for quantum many-body systems and lattice quantum field theories. As a representative application, we study the quantum Mpemba effect in the lattice Schwinger model with a $θ$ term using classical state-vector simulations. We further estimate the resources required to implement the protocol on noisy intermediate-scale quantum (NISQ) devices, fault-tolerant quantum computers (FTQCs), and a representative early-FTQC architecture. Our results provide a measurement-efficient framework for investigating anomalous symmetry-restoration dynamics in quantum many-body systems and quantum field theories.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.05987",
+   "authors": [
+    "Keisuke Fujii",
+    "Harunobu Fujimura",
+    "Masazumi Honda",
+    "Duc Truyen Le"
+   ],
+   "categories": [
+    "arXiv:hep-lat",
+    "arXiv:hep-th",
+    "arXiv:quant-ph"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-04",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.05987"
+   ],
+   "title": "Quantum Computing for Entanglement Asymmetry and the Quantum Mpemba Effect in Field Theory",
+   "topics": [],
+   "updated_date": "2026-11-04",
+   "url": "https://arxiv.org/abs/2611.05987"
+  },
+  "suggested": "quantum-computing",
+  "title": "Quantum Computing for Entanglement Asymmetry and the Quantum Mpemba Effect in Field Theory",
+  "url": "https://arxiv.org/abs/2611.05987"
+ },
+ {
+  "added": "2026-11-06",
+  "arxiv": "2611.05843",
+  "candidates": [
+   [
+    "inverse-problems",
+    5.4
+   ],
+   [
+    "generative-models",
+    2.35
+   ],
+   [
+    "statistics",
+    0.33
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.05843",
+   "title:dualflowjointimagemeasurementflowforinverseproblems|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Existing generative model-based approaches to linear inverse problems typically use the acquired noisy measurement to condition or guide sampling in the image domain. In this work, we introduce Dual Flow, a novel joint flow model for solving linear inverse problems by jointly estimating the clean image and its corresponding noise-free measurement from the observation. Specifically, Dual Flow formulates image reconstruction and measurement denoising as a coupled estimation problem, using coupled flows in the image and measurement domains. The acquired noisy measurement $\\mathbf{y}_0$ is used only to initialize the measurement state; thereafter, the image and measurement states are jointly updated based on their current values. By construction, the final image and measurement estimates are guaranteed to satisfy the underlying forward model. We derive the sampling updates for the joint flow and show that they are governed by the conditional mean of the clean image given the current joint state. We further derive a closed-form expression for a sufficient statistic of the joint state and show that the required conditional mean can be obtained by solving an image-domain Gaussian denoising problem involving operator-dependent, correlated noise. We train a velocity-prediction network using this formulation to estimate the conditional mean from the derived sufficient statistic. Dual Flow requires no hyperparameter tuning beyond selecting the number of inference steps and achieves substantially shorter reconstruction times than competing methods. Extensive experiments across various linear inverse problems and image datasets demonstrate state-of-the-art performance in both distortion metrics and perceptual quality. Additional analyses assess robustness to model mismatch, as well as the ability to generate diverse plausible reconstructions and characterize reconstruction uncertainty.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.05843",
+   "authors": [
+    "Sevket Ege Yesilyurt",
+    "Figen S. Oktem"
+   ],
+   "categories": [
+    "arXiv:eess.IV",
+    "arXiv:cs.CV"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-04",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.05843"
+   ],
+   "title": "Dual Flow: Joint Image-Measurement Flow for Inverse Problems",
+   "topics": [],
+   "updated_date": "2026-11-04",
+   "url": "https://arxiv.org/abs/2611.05843"
+  },
+  "suggested": "inverse-problems",
+  "title": "Dual Flow: Joint Image-Measurement Flow for Inverse Problems",
+  "url": "https://arxiv.org/abs/2611.05843"
+ },
+ {
+  "added": "2026-11-06",
+  "arxiv": "2611.05968",
+  "candidates": [
+   [
+    "digital-twins",
+    5.4
+   ],
+   [
+    "automated-driving",
+    1.2
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.05968",
+   "title:intersiminnovativeintersectiondigitaltwinsforhumanintheloopdrivingsimulation|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Innovative intersection designs can improve roadway safety and operational efficiency, but their uncommon geometries may create challenges for driver comprehension during early deployment. Evaluating these designs through full-scale field implementation can also be costly. This paper presents InterSim, a Unity game engine-based human-in-the-loop (HITL) driving simulator that constructs digital twins of site-specific innovative intersections in a virtual environment. InterSim links the real world and the simulation world through two closed cycles: a digital twin cycle that builds each intersection twin from agency design and traffic data and returns evidence from simulation to the agency, and an HITL cycle in which human drivers or automated driving algorithms operate the ego vehicle under identical scenario conditions. The research capabilities of InterSim are demonstrated through two case studies: a surrogate safety study compares post-encroachment time distributions between a Reduced Conflict Intersection and a standard intersection under different traffic volumes; an eco-driving study compares human drivers with a rule-based agent using vehicle-to-infrastructure information and reveals differences in emission and driving behavior. These studies demonstrate that InterSim provides a reusable digital twin platform for investigating innovative intersection designs from diverse perspectives. Demo video and open-source code can be accessed at https://purduedigitaltwin.github.io/InterSim/",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.05968",
+   "authors": [
+    "Luyang Jiang",
+    "Chuheng Wei",
+    "Yaguang Li",
+    "Shaoqi Wang",
+    "Yupeng Zhou",
+    "Hyunsoo Yun",
+    "Xishun Liao",
+    "Brandon Pitts",
+    "Ziran Wang"
+   ],
+   "categories": [
+    "arXiv:cs.CE",
+    "arXiv:cs.CY",
+    "arXiv:cs.ET"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-04",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.05968"
+   ],
+   "title": "InterSim: Innovative Intersection Digital Twins for Human-in-the-Loop Driving Simulation",
+   "topics": [],
+   "updated_date": "2026-11-04",
+   "url": "https://arxiv.org/abs/2611.05968"
+  },
+  "suggested": "digital-twins",
+  "title": "InterSim: Innovative Intersection Digital Twins for Human-in-the-Loop Driving Simulation",
+  "url": "https://arxiv.org/abs/2611.05968"
+ },
+ {
+  "added": "2026-11-06",
+  "arxiv": "2611.05781",
+  "candidates": [
+   [
+    "machine-learning-systems",
+    4.34
+   ],
+   [
+    "deep-learning",
+    3.74
+   ],
+   [
+    "image-classification",
+    3.1
+   ],
+   [
+    "machine-learning",
+    3.1
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.05781",
+   "title:timingiseverythinginferringtemporalmembershipincontinuallyupdatedmodels|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Continual model updating has become a common practice in the deployment of machine learning systems. However, the dynamic training behaviors give rise to new risks not sufficiently addressed by existing studies. In this paper, we present the first systematic study of temporal privacy risk in continually updated deep learning models. We formalize the notion of temporal membership in continually updated models. We then define the temporal membership inference attack, which seeks to infer whether and when individual samples were involved in model training, at both timestamp-level and interval-level granularities. To this end, we propose TMIA, a novel black-box attack that leverages bidirectional LSTMs to infer temporal membership from model outputs observed across successive updates. Through extensive experiments on three language models and three image classification models, we show that TMIA is highly effective and significantly outperforms existing baselines. Finally, we evaluate three potential defenses, revealing the trade-off between privacy protection and model utility.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.05781",
+   "authors": [
+    "Jie Fu",
+    "Xiangpeng Deng",
+    "Yuan Hong",
+    "Wendy Hui Wang"
+   ],
+   "categories": [
+    "arXiv:cs.CR",
+    "arXiv:cs.LG"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-04",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.05781"
+   ],
+   "title": "Timing is Everything: Inferring Temporal Membership in Continually Updated Models",
+   "topics": [],
+   "updated_date": "2026-11-04",
+   "url": "https://arxiv.org/abs/2611.05781"
+  },
+  "suggested": "machine-learning",
+  "title": "Timing is Everything: Inferring Temporal Membership in Continually Updated Models",
+  "url": "https://arxiv.org/abs/2611.05781"
+ },
+ {
+  "added": "2026-11-06",
+  "arxiv": "2611.06102",
+  "candidates": [
+   [
+    "set-theory",
+    5.1
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.06102",
+   "title:topologychangeandthegaussbonnettermincausalsettheorythesignofthecosmologicaltermandtheaxiondecayconstant|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Causal set theory permits changes of spatial topology without the metric degeneracy that forbids them in continuum Lorentzian gravity. In four dimensions such changes enter the gravitational action only through the Gauss--Bonnet term, which is the Euler density. We show that the Euler density of a discrete space is exact, local and combinatorial: it sums to the Euler characteristic at any resolution and is supported on topological defects. The Gauss--Bonnet term of a causal set is therefore fixed rather than postulated. Because it is linear in the number of elements, which is the four-volume, it acts as a cosmological constant. Its coefficient follows without forming any functional derivative, so the known obstruction in the continuum does not arise. The everpresent cosmological constant of causal set theory assumes that the mean topological charge vanishes. We show that it does not. The species of opposite sign solves the field equations only if a positive cosmological constant is already present, and, being simply connected, it cannot carry the axion charge that supports the other species. Only one sign survives, and the sign of the cosmological term is derived rather than assumed. We recover the surviving transition from the causal order alone in every simulated sprinkling. The action of the corresponding axion wormhole then fixes the magnitude. The observed value requires an axion decay constant near the grand unification scale, and this result is insensitive to the one-loop prefactor and to the Gauss--Bonnet coupling.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.06102",
+   "authors": [
+    "Stylianos A. Tsilioukas"
+   ],
+   "categories": [
+    "arXiv:gr-qc",
+    "arXiv:hep-th"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-04",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.06102"
+   ],
+   "title": "Topology change and the Gauss Bonnet term in causal set theory: the sign of the cosmological term and the axion decay constant",
+   "topics": [],
+   "updated_date": "2026-11-04",
+   "url": "https://arxiv.org/abs/2611.06102"
+  },
+  "suggested": "set-theory",
+  "title": "Topology change and the Gauss Bonnet term in causal set theory: the sign of the cosmological term and the axion decay constant",
+  "url": "https://arxiv.org/abs/2611.06102"
+ },
+ {
+  "added": "2026-11-06",
+  "arxiv": "2611.05965",
+  "candidates": [
+   [
+    "non-orthogonal-multiple-access",
+    5.02
+   ],
+   [
+    "physical-layer-security",
+    3.7
+   ],
+   [
+    "antennas",
+    1.94
+   ],
+   [
+    "analysis",
+    0.79
+   ],
+   [
+    "probabilistic-planning",
+    0.45
+   ],
+   [
+    "exploit-mitigation-techniques",
+    0.45
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.05965",
+   "title:secrecyandcovertnessanalysisofswanenableduplinkedmanomasystems|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Environment division multiple access (EDMA) has recently emerged as a promising multiple-access paradigm by exploiting the wireless propagation environment for user separation, while physical-layer security, including secrecy and covert communication, is becoming increasingly important for protecting confidential information and user privacy. Motivated by these considerations, this paper proposes an EDMA-enabled non-orthogonal multiple access for secrecy and covert communications (EDMA-NOMA-SC) framework for uplink wireless systems. In the proposed framework, a segmented-waveguide-enabled pinching antenna system (SWAN) is employed, where a secrecy user and an intermittently active covert user share the same transmission resource through NOMA within each segment, while a malicious warden attempts to eavesdrop on the secrecy transmission and detect the presence of the covert communication. To capture practical operating conditions, distance-dependent blockage, inter-segment interference, in-waveguide attenuation, imperfect channel state information (ipCSI), and imperfect successive interference cancellation (ipSIC) are considered. Semi-analytical frameworks are developed to characterize the secrecy outage probability (SOP), average secrecy capacity (ASC), false alarm probability (FAP), missed detection probability (MDP), detection error probability (DEP), and covert rate (CR), with their accuracy verified through Monte Carlo simulations. Numerical results, including comparisons with conventional and EDMA-based benchmark schemes, show that the proposed framework generally achieves improved secrecy and covert-rate performance owing to reduced user-to-pinching-antenna propagation distances and in-waveguide attenuation. However, excessive segmentation can degrade performance when inter-segment interference outweighs these propagation benefits.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.05965",
+   "authors": [
+    "Sagnik Bhattacharyya",
+    "Keshav Singh",
+    "Shiv Kumar",
+    "Chih-Peng Li"
+   ],
+   "categories": [
+    "arXiv:eess.SP"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-04",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.05965"
+   ],
+   "title": "Secrecy and Covertness Analysis of SWAN-Enabled Uplink EDMA-NOMA Systems",
+   "topics": [],
+   "updated_date": "2026-11-04",
+   "url": "https://arxiv.org/abs/2611.05965"
+  },
+  "suggested": "non-orthogonal-multiple-access",
+  "title": "Secrecy and Covertness Analysis of SWAN-Enabled Uplink EDMA-NOMA Systems",
+  "url": "https://arxiv.org/abs/2611.05965"
+ },
+ {
+  "added": "2026-11-06",
+  "arxiv": "2611.06227",
+  "candidates": [
+   [
+    "integrated-sensing-and-communication",
+    5.02
+   ],
+   [
+    "5g-new-radio",
+    3.7
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.06227",
+   "title:ambiguityeliminationviasuccessiveestimationinisacsystemswithreferencesignals|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Integrated sensing and communication (ISAC) systems can efficiently reuse 5G New Radio (NR) reference signals to enable joint communication and passive target detection. Among these, the Positioning Reference Signal (PRS) is widely adopted for high-performance sensing activities. However, the PRS configuration, given by the comb structure, introduces periodic ambiguities, resulting in ghost targets. Existing approaches mitigate this issue by combining PRS with additional reference signals, such as the DeModulation Reference Signal (DMRS), effectively removing ghosts but at the cost of higher complexity and sensing overhead. This paper proposes a low-complexity successive estimation strategy that initially allows ghost targets but progressively eliminates them using historical ambiguity-free estimations. The method comprises a matching process to associate current detections with historical real targets, and a pattern deviation detection mechanism to trigger a fallback to ambiguity-free estimation when the target set changes. We derive a sufficient condition that guarantees the correct matching as a function of target velocity, PRS comb size, subcarrier spacing, and sensing refresh rate. Using this condition, a parameter selection strategy is proposed to jointly improve sensing and communication performance. Numerical results demonstrate that our method achieves unambiguous detection while significantly reducing sensing resources, thus releasing more resources for communication compared to State-of-the-Art (SotA) approaches.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.06227",
+   "authors": [
+    "Ali Al Khansa",
+    "Sami Mekki",
+    "Giyyarpuram Madhusudan"
+   ],
+   "categories": [
+    "arXiv:eess.SP"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-04",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.06227"
+   ],
+   "title": "Ambiguity Elimination via Successive Estimation in ISAC Systems with Reference Signals",
+   "topics": [],
+   "updated_date": "2026-11-04",
+   "url": "https://arxiv.org/abs/2611.06227"
+  },
+  "suggested": "integrated-sensing-and-communication",
+  "title": "Ambiguity Elimination via Successive Estimation in ISAC Systems with Reference Signals",
+  "url": "https://arxiv.org/abs/2611.06227"
+ },
+ {
+  "added": "2026-11-06",
+  "arxiv": "2611.06235",
+  "candidates": [
+   [
+    "integrated-sensing-and-communication",
+    5.02
+   ],
+   [
+    "beamforming",
+    2.99
+   ],
+   [
+    "antennas",
+    1.94
+   ],
+   [
+    "calibration",
+    0.26
+   ],
+   [
+    "analysis",
+    0.26
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.06235",
+   "title:oneisacarraytwoworstcaseshardwareimpairmentsinbeamformingandaoaestimation|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "In integrated sensing and communication (ISAC), the same base-station array beamforms toward users and estimates their angle of arrival (AoA). In this paper, we study how element-level gain, phase, and position errors affect both functions of a beam-scanning uniform linear array. Any array produces a correlation peak at the true angle, of finite height and width, surrounded by sidelobes. Impairments shift this peak, make it lower and wider, and raise the sidelobes relative to it. A single decomposition explains these three effects: the gain-weighted least-squares fit of the per-antenna phase errors splits them into a tilt, which shifts the peak, and a residual, whose power is taken from the peak and redistributed over the sidelobes according to its spatial spectrum. A beam steered toward the strongest direction suffers from the lower peak only, whereas the AoA estimate suffers from its shift even without noise, and also from the lowering and sidelobes with noise. The worst cases for the two ISAC functions are thus nearly disjoint, and we characterize both: the worst case for beamforming leaves the AoA estimate unbiased, and the worst case for localization loses little beamforming gain. The worst case for localization is a single defect at the junction between two subarrays, and its error, relative to the main-lobe width, does not decrease with the number of antennas. We also characterize random impairments and the effect of noise. In practical terms, our analysis shows that the calibration of a dual-function array must be assessed with respect to both functions.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.06235",
+   "authors": [
+    "Xuan Chen",
+    "Luc Le Magoarou"
+   ],
+   "categories": [
+    "arXiv:eess.SP"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-04",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.06235"
+   ],
+   "title": "One ISAC Array, Two Worst Cases: Hardware Impairments in Beamforming and AoA Estimation",
+   "topics": [],
+   "updated_date": "2026-11-04",
+   "url": "https://arxiv.org/abs/2611.06235"
+  },
+  "suggested": "integrated-sensing-and-communication",
+  "title": "One ISAC Array, Two Worst Cases: Hardware Impairments in Beamforming and AoA Estimation",
+  "url": "https://arxiv.org/abs/2611.06235"
+ },
+ {
+  "added": "2026-11-06",
+  "arxiv": "2611.06236",
+  "candidates": [
+   [
+    "integrated-sensing-and-communication",
+    5.02
+   ],
+   [
+    "5g-new-radio",
+    3.7
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.06236",
+   "title:ghosttargeteliminationin5greferencesignalsisacviamultistaticmultilateration|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Integrated Sensing and Communication (ISAC) systems can reuse 5G New Radio (NR) reference signals to enable joint communication and environmental sensing. Among these signals, the Positioning Reference Signal (PRS) is particularly suitable for range and Doppler estimation. However, its comb structure introduces periodic ambiguities that generate ghost targets. Existing solutions resolve these ambiguities by combining PRS with additional signals such as the DeModulation Reference Signal (DMRS), which increases sensing overhead. This paper proposes a PRS-only sensing framework that resolves ambiguities using multi-static observations. Instead of removing ghosts locally at each receiver, the proposed method exploits spatial diversity and performs ambiguity resolution at a fusion anchor. The anchor jointly estimates target locations and ambiguity indices via multilateration across multiple sensing nodes. This approach eliminates the need for additional reference signals while maintaining low receiver complexity. Simulation results show that the proposed method reliably resolves ghost targets and achieves superior detection performance compared to benchmark methods across various scenarios, while significantly enhancing resource efficiency by enabling sensing using PRS-only transmissions.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.06236",
+   "authors": [
+    "Ali Al Khansa",
+    "Sami Mekki"
+   ],
+   "categories": [
+    "arXiv:eess.SP"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-04",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.06236"
+   ],
+   "title": "Ghost Target Elimination in 5G Reference Signals ISAC via Multi-static Multilateration",
+   "topics": [],
+   "updated_date": "2026-11-04",
+   "url": "https://arxiv.org/abs/2611.06236"
+  },
+  "suggested": "integrated-sensing-and-communication",
+  "title": "Ghost Target Elimination in 5G Reference Signals ISAC via Multi-static Multilateration",
+  "url": "https://arxiv.org/abs/2611.06236"
+ },
+ {
+  "added": "2026-11-06",
+  "arxiv": "2611.06254",
+  "candidates": [
+   [
+    "monte-carlo-tree-search",
+    5.02
+   ],
+   [
+    "large-language-models",
+    4.56
+   ],
+   [
+    "optimization",
+    0.79
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.06254",
+   "title:harnessflowmctsguidedharnessoptimizationforllmagents|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "The performance of large language model (LLM) agents depends on both the underlying model and the harness that governs interaction with tools and the environment. Yet harness design remains largely manual, and automating it requires navigating an open-ended search space through costly end-to-end evaluations. We introduce HarnessFlow, a framework for optimizing complete executable harnesses under a limited candidate-evaluation budget, with the model and task environment held fixed. HarnessFlow organizes candidates and their evaluation histories in a refinement tree, using a Monte Carlo Tree Search (MCTS)-based policy to balance exploitation and exploration. A coding agent refines selected harnesses using archived code, execution feedback, and a library of reusable harness mechanisms. With 15 refinement attempts per benchmark, HarnessFlow achieves the highest mean test scores among the compared methods on six benchmarks spanning agentic tasks, coding, and web interaction. The optimized harnesses achieve an average score of 69.48%, outperforming the initial harnesses and Meta-Harness by 10.89 and 3.95 percentage points, respectively, while incurring lower average per-task execution costs than hand-engineered baselines. These results suggest that structured harness search offers a promising route toward automating the design of capable and efficient LLM agents.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.06254",
+   "authors": [
+    "Zhi Hong",
+    "Qianlong Wang",
+    "Hongchen Wei",
+    "Aidan Wu",
+    "Daohong Ying",
+    "Mingze Kong",
+    "Bei Liu",
+    "Chong Luo"
+   ],
+   "categories": [
+    "arXiv:cs.AI"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-04",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.06254"
+   ],
+   "title": "HarnessFlow: MCTS-Guided Harness Optimization for LLM Agents",
+   "topics": [],
+   "updated_date": "2026-11-04",
+   "url": "https://arxiv.org/abs/2611.06254"
+  },
+  "suggested": "monte-carlo-tree-search",
+  "title": "HarnessFlow: MCTS-Guided Harness Optimization for LLM Agents",
+  "url": "https://arxiv.org/abs/2611.06254"
+ },
+ {
+  "added": "2026-11-06",
+  "arxiv": "2611.06065",
+  "candidates": [
+   [
+    "human-ai-interaction",
+    4.95
+   ],
+   [
+    "distillation",
+    0.26
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.18653/2026.lmplayschool-1.3",
+  "keys": [
+   "arxiv:2611.06065",
+   "doi:10.18653/2026.lmplayschool-1.3",
+   "title:processprefbenchevaluatingcrosstasktransferofindividualprocesspreferencesfromnaturalistichumanaiinteraction|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "In natural human-AI dialogue, users' corrections, requests, and self-descriptions carry reusable signals about how they want work to be done. These signals reveal individual process preferences, user-specific standards for evidence, depth, analytical focus, procedure, and delivery. We ask whether a preference revealed in one dialogue can shape an assistant's later answer when the task does not restate it. ProcessPrefBench uses three months of natural dialogues from two knowledge workers to build 66 source-target cases separately judged for source evidence and target applicability. Sources are preselected, so the benchmark tests application rather than retrieval. We test three models with target-only, full-history, and distilled-preference prompts. Target-specific 0-2 rubrics score preference realization, and a task gate flags severe failures. Compared with target-only prompting, full-history and imperative distilled-preference prompting raise preference realization by 0.204 and 0.244 points on the 0-2 scale, respectively, with no reliable advantage from distillation. Fabricated-evidence failures rise from 5.8% under target-only prompting to 10.1% under full-history and 10.4% under imperative prompting. ProcessPrefBench highlights a tension in learning from dialogue, where drawing on prior interactions can improve preference realization yet also invite fabricated evidence. We hope it helps build assistants that honor a user's process preferences without sacrificing factual reliability.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.06065",
+   "authors": [
+    "Yiwen Yang",
+    "Guanming Liu"
+   ],
+   "categories": [
+    "arXiv:cs.CL"
+   ],
+   "cited_by_count": null,
+   "doi": "10.18653/2026.lmplayschool-1.3",
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": null,
+   "publication": "The Proceedings of Improving Language Models through Learning from Dialogue Game Interaction, pages 30-40, Association for Computational Linguistics, 2026",
+   "publication_type": "preprint",
+   "published_date": "2026-11-04",
+   "related_versions": [
+    {
+     "doi": "10.18653/2026.lmplayschool-1.3",
+     "journal_ref": "The Proceedings of Improving Language Models through Learning from Dialogue Game Interaction, pages 30-40, Association for Computational Linguistics, 2026",
+     "relation": "published_version",
+     "source": "arxiv"
+    }
+   ],
+   "source_ids": [
+    "arxiv:2611.06065"
+   ],
+   "title": "ProcessPrefBench: Evaluating Cross-Task Transfer of Individual Process Preferences from Naturalistic Human-AI Interaction",
+   "topics": [],
+   "updated_date": "2026-11-04",
+   "url": "https://arxiv.org/abs/2611.06065"
+  },
+  "suggested": "human-ai-interaction",
+  "title": "ProcessPrefBench: Evaluating Cross-Task Transfer of Individual Process Preferences from Naturalistic Human-AI Interaction",
+  "url": "https://arxiv.org/abs/2611.06065"
+ },
+ {
+  "added": "2026-11-06",
+  "arxiv": "2611.05882",
+  "candidates": [
+   [
+    "conflict-free-replicated-data-types",
+    4.9
+   ],
+   [
+    "two-phase-locking",
+    4.5
+   ],
+   [
+    "optimistic-concurrency-control",
+    4.5
+   ],
+   [
+    "concurrency-control",
+    3.5
+   ],
+   [
+    "speculative-execution",
+    3.1
+   ],
+   [
+    "time-projection-chambers",
+    0.45
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.05882",
+   "title:optimizinggeoreplicateddeterministicdatabases|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "In transactional databases, achieving active-active replication among geo-distributed replicas is challenging due to the high coordination cost in ensuring the serializability of concurrent cross-node transactions. Deterministic concurrency control (DCC) has emerged as a promising alternative: it establishes a global order for a batch of transactions before execution and thereby amortizes this coordination cost across the batch. To better understand the performance characteristics of DCC, we conduct a theoretical analysis of traditional two-phase locking and optimistic concurrency control to account for geo-replication and introduce a model for DCC. We compare the three paradigms and identify the conditions under which DCC is advantageous. Guided by the insights from this analysis, we then present Quirinus, a DCC-based geo-replicated database that optimizes transaction execution through speculative execution, transaction reordering, integration of conflict-free replicated data types (CRDTs), and fast-path commit. Even without these optimizations, Quirinus achieves up to 6.2x the TPC-C throughput of Tiga under our configuration.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.05882",
+   "authors": [
+    "Yunhao Mao",
+    "Shiquan Zhang",
+    "Gengrui Zhang",
+    "Hans-Arno Jacobsen"
+   ],
+   "categories": [
+    "arXiv:cs.DB"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-04",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.05882"
+   ],
+   "title": "Optimizing Geo-replicated Deterministic Databases",
+   "topics": [],
+   "updated_date": "2026-11-04",
+   "url": "https://arxiv.org/abs/2611.05882"
+  },
+  "suggested": "conflict-free-replicated-data-types",
+  "title": "Optimizing Geo-replicated Deterministic Databases",
+  "url": "https://arxiv.org/abs/2611.05882"
+ },
+ {
+  "added": "2026-11-06",
+  "arxiv": "2611.05812",
+  "candidates": [
+   [
+    "uncertainty-estimation-in-deep-learning",
+    4.86
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.05812",
+   "title:uncertaintyawarepredictionfromincompleteclinicalrecordsaconformalpredictionstudyofparkinsonianclassificationusingcopndata|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Background: Incomplete clinical records and imbalanced diagnostic groups complicate Parkinsonian classification. We examined whether incomplete records could support useful lists of diagnostic possibilities through conformal prediction, assessing how often the lists retained the recorded diagnosis, their length and the uncertainty remaining. Methods: We analyzed records from 3,434 Canadian Open Parkinson Network participants: 2,853 with Parkinson's disease, 171 in the atypical Parkinsonian group (AP) and 410 healthy controls. In three repeats of five-fold cross-validation, we compared single-category predictions, conformal prediction sets and lists combined across 21 analyses using alternative models and assumptions about missing entries. An information deficit score summarized unavailable information. Results: The median proportion of eligible predictor entries unrecorded per participant was 75.6%. Single-category prediction correctly classified 89.29% of test records (balanced accuracy 55.40%), but only 10.33% of AP records. Conformal prediction sets included the recorded category in 93.35% of evaluation records and averaged 1.846 categories; combined lists increased inclusion to approximately 99% and averaged 2.289 categories. AP inclusion increased from 98.05% to 100%. Combined lists averaged 1.010 more categories in the group with the greatest information deficit than in the group with the least (95% interval 0.996-1.023). Conclusions: Even with extensive missing information and imbalanced diagnostic groups, clinical records can support informative prediction when uncertainty is quantified and expressed through sets of possible diagnoses rather than a single label. Joint assessment of list length and information deficit showed both the narrowing achieved and the records for which all three categories remained open.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.05812",
+   "authors": [
+    "Jiaqi Bi",
+    "Jialu Sun",
+    "Hanrui Dou",
+    "Jiaqi Yuan",
+    "Chengqian Xian",
+    "Osvaldo Espin-Garcia",
+    "for the Canadian Open Parkinson Network"
+   ],
+   "categories": [
+    "arXiv:stat.AP"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-04",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.05812"
+   ],
+   "title": "Uncertainty aware prediction from incomplete clinical records: a conformal prediction study of Parkinsonian classification using C-OPN data",
+   "topics": [],
+   "updated_date": "2026-11-04",
+   "url": "https://arxiv.org/abs/2611.05812"
+  },
+  "suggested": "uncertainty-estimation-in-deep-learning",
+  "title": "Uncertainty aware prediction from incomplete clinical records: a conformal prediction study of Parkinsonian classification using C-OPN data",
+  "url": "https://arxiv.org/abs/2611.05812"
+ },
+ {
+  "added": "2026-11-06",
+  "arxiv": "2611.05999",
+  "candidates": [
+   [
+    "ofdm",
+    4.82
+   ],
+   [
+    "design-for-testability",
+    2.1
+   ],
+   [
+    "metasurfaces",
+    1.85
+   ],
+   [
+    "structured-illumination-microscopy",
+    1.8
+   ],
+   [
+    "density-functional-theory",
+    0.45
+   ],
+   [
+    "analysis",
+    0.39
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.05999",
+   "title:simenabledwavedomainprocessinginmimoofdmreceiversarchitecturemodelingandvalidation|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "This paper develops a wave-domain linear receiver for wideband MIMO-OFDM, where the main high-dimensional linear processing conventionally performed after sampling is physically shifted to propagation through stacked intelligent metasurfaces (SIMs). The proposed receiver transforms receive-port waveforms into OFDM-domain symbols through three cascaded SIM-enabled functional sections. The first section, SIM_1, performs channel-memory processing and channel shortening in an energy-concentration sense, suppressing the out-of-cyclic-prefix (CP) effective tail before OFDM analysis. SIM_2 realizes CP removal and discrete Fourier transform (DFT) analysis as cyclic-windowed OFDM matched filtering by exploiting useful-window memory and analytical Fourier phase coding. SIM_3 implements residual virtual-subcarrier MIMO linear detection, completing the wave-domain linear receive chain up to symbol slicing. Synchronization, control, slicing, and decoding remain digital, while the dominant linear receive operations are moved to the wave domain. A staged configuration framework is developed: the numerology-dependent OFDM analyzer is compiled offline, whereas the channel-dependent memory processor and detector are configured over the coherence time using architecture-aware learning-assisted control. Numerical results validate both functional replacement and link performance, confirming nearly lossless replacement under CP-sufficient MIMO-OFDM conditions, with robustness to residual timing offsets and effective channel-delay-profile perturbations. Substantial gains under CP-insufficient channels are also demonstrated by suppressing out-of-CP leakage before OFDM analysis.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.05999",
+   "authors": [
+    "Zheao Li",
+    "Jiancheng An",
+    "Chau Yuen"
+   ],
+   "categories": [
+    "arXiv:eess.SP"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-04",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.05999"
+   ],
+   "title": "SIM-Enabled Wave-Domain Processing in MIMO-OFDM Receivers: Architecture, Modeling, and Validation",
+   "topics": [],
+   "updated_date": "2026-11-04",
+   "url": "https://arxiv.org/abs/2611.05999"
+  },
+  "suggested": "ofdm",
+  "title": "SIM-Enabled Wave-Domain Processing in MIMO-OFDM Receivers: Architecture, Modeling, and Validation",
+  "url": "https://arxiv.org/abs/2611.05999"
+ },
+ {
+  "added": "2026-11-06",
+  "arxiv": "2611.05790",
+  "candidates": [
+   [
+    "neural-operators",
+    4.8
+   ],
+   [
+    "partial-differential-equations",
+    2.06
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.05790",
+   "title:unsupervisedneuraloperatorsforrotatingrelativisticstarshighfidelityequationofstateinferenceandpulsarspinevolutionatscale|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Observed populations of rotating neutron stars~(NSs) with millisecond-order periods are powerful probes of fundamental physics. Mass-radius measurements inform poorly constrained properties of degenerate nuclear matter, whereas high-fidelity population synthesis connects unknowns in NS formation and binary evolution to large radio-timing surveys. However, repeated structure calculations are prohibitive due to the computational cost of solving the highly coupled partial differential equations of axisymmetric general relativistic hydrostatic equilibrium that govern rotating NS interiors. Non-rotating calculations or approximate rotational corrections can bias equation of state inference and limit the fidelity of population synthesis in tracing the evolutionary history of progenitors and propagating equation of state uncertainties. In this \\textit{Letter}, we develop physics-informed neural operators that can solve the axisymmetric problem with high accuracy and negligible computational cost. \\textit{Our solvers are trained in a fully unsupervised setting, with the training objective informed solely by the partial differential equations, and achieve a $10^3\\times$ speed-up with negligible accuracy loss}. These solvers enable scalable EoS inference that self-consistently accounts for rotation and repeated stellar-structure calculations during binary evolution, making spin predictions that account for rotational structure and EoS uncertainties computationally accessible to population synthesis.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.05790",
+   "authors": [
+    "Anarya Ray"
+   ],
+   "categories": [
+    "arXiv:astro-ph.HE",
+    "arXiv:cs.AI",
+    "arXiv:cs.LG",
+    "arXiv:gr-qc"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-04",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.05790"
+   ],
+   "title": "Unsupervised Neural Operators for Rotating Relativistic Stars: High-Fidelity Equation of State Inference and Pulsar Spin Evolution at Scale",
+   "topics": [],
+   "updated_date": "2026-11-04",
+   "url": "https://arxiv.org/abs/2611.05790"
+  },
+  "suggested": "neural-operators",
+  "title": "Unsupervised Neural Operators for Rotating Relativistic Stars: High-Fidelity Equation of State Inference and Pulsar Spin Evolution at Scale",
+  "url": "https://arxiv.org/abs/2611.05790"
+ },
+ {
+  "added": "2026-11-06",
+  "arxiv": "2611.05876",
+  "candidates": [
+   [
+    "neural-operators",
+    4.8
+   ],
+   [
+    "message-passing",
+    3.1
+   ],
+   [
+    "finite-difference-method",
+    1.65
+   ],
+   [
+    "partial-differential-equations",
+    1.65
+   ],
+   [
+    "material-extrusion",
+    0.45
+   ],
+   [
+    "conduction",
+    0.26
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.1515/tp-2026-0133",
+  "keys": [
+   "arxiv:2611.05876",
+   "doi:10.1515/tp-2026-0133",
+   "title:migonetamultipleinputgraphneuraloperatorwithsolverfreediscretemanufacturedsolutiontraining|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Surrogate modeling of transport requires operators that capture the combined influence of spatially distributed sources and Dirichlet and Neumann boundary conditions, together with training datasets that can be generated at low computational cost. This work presents MIGONet, a multiple-input graph neural operator, and a discrete method of manufactured solutions (MMS) that trains it without solving a partial differential equation, using steady heat conduction as the model problem. In the discrete MMS procedure, temperature fields are prescribed a priori, and the source terms and Dirichlet or Neumann boundary data are evaluated with the same discrete operators as the reference finite-difference method (FDM), so every training sample satisfies the discrete governing equations by construction. Because the boundary data are derived from each field, a Dirichlet or Neumann condition can be assigned to every boundary segment of every sample, and the boundary specification becomes an operator input. MIGONet supplies representations of the complete source field and boundary data to every node before local message passing. On the rectangular domain, it is compared with a version without the complete-source encoder (MIGONet-local) and with the multiple-input operator network MIONet, using the same training data. MIGONet achieves mean relative temperature errors of 10.31% and 10.64% for curved-wire and Gaussian-spot heating, compared with 45.97% and 48.34% for MIONet and 72.25% and 67.82% for MIGONet-local. For 10,000 samples, discrete MMS reduces data-generation time from 486.65 s to 3.15 s relative to matched iterative FDM labeling. Separately trained MIGONet models are also evaluated on L-shaped, disc-shaped, and ring-shaped domains.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.05876",
+   "authors": [
+    "Muhammad Hasnain",
+    "N. K. Anand",
+    "Arun Srinivasa"
+   ],
+   "categories": [
+    "arXiv:cs.LG"
+   ],
+   "cited_by_count": null,
+   "doi": "10.1515/tp-2026-0133",
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": null,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-04",
+   "related_versions": [
+    {
+     "doi": "10.1515/tp-2026-0133",
+     "relation": "published_version",
+     "source": "arxiv"
+    }
+   ],
+   "source_ids": [
+    "arxiv:2611.05876"
+   ],
+   "title": "MIGONet: a multiple-input graph neural operator with solver-free discrete manufactured-solution training",
+   "topics": [],
+   "updated_date": "2026-11-04",
+   "url": "https://arxiv.org/abs/2611.05876"
+  },
+  "suggested": "neural-operators",
+  "title": "MIGONet: a multiple-input graph neural operator with solver-free discrete manufactured-solution training",
+  "url": "https://arxiv.org/abs/2611.05876"
+ },
+ {
+  "added": "2026-11-06",
+  "arxiv": "2611.05939",
+  "candidates": [
+   [
+    "energy-storage",
+    4.8
+   ],
+   [
+    "supercapacitors",
+    2.45
+   ],
+   [
+    "storage-systems",
+    1.2
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.05939",
+   "title:adaptivegridmodeawarehybridenergystoragecontrolforaidatacenteroscillationmitigation|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Oscillatory power components in AI data-center demand can produce large frequency deviations when they coincide with vulnerable grid modes. Mode-aware hybrid energy storage systems (HESSs) can selectively suppress these components, but their effectiveness degrades when the grid mode changes while the control target remains fixed. This paper proposes a closed-loop grid-mode-adaptive HESS control framework that integrates measurement-based modal identification with mode-selective control. A sliding-window N4SID estimator identifies the local grid dynamics from grid-side power and frequency measurements, and the resulting natural-frequency estimate is used to retune the modal suppression branch assigned to the supercapacitor. The framework is evaluated under a grid-mode shift from 0.50 to 1.35Hz while maintaining equal physical damping and approximately equal load excitation at both frequencies. Compared with the fixed-target controller, the adaptive method reduces the post-change grid-side modal power component from 8.78 to 2.02MW, corresponding to a 76.94% reduction, and substantially lowers the resulting frequency deviation.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.05939",
+   "authors": [
+    "Quang Manh Hoang",
+    "Sina Mohammadi",
+    "Phi Long Nguyen",
+    "Wencong Su",
+    "Van-Hai Bui"
+   ],
+   "categories": [
+    "arXiv:eess.SY"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-04",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.05939"
+   ],
+   "title": "Adaptive Grid-Mode-Aware Hybrid Energy Storage Control for AI Data Center Oscillation Mitigation",
+   "topics": [],
+   "updated_date": "2026-11-04",
+   "url": "https://arxiv.org/abs/2611.05939"
+  },
+  "suggested": "energy-storage",
+  "title": "Adaptive Grid-Mode-Aware Hybrid Energy Storage Control for AI Data Center Oscillation Mitigation",
+  "url": "https://arxiv.org/abs/2611.05939"
+ },
+ {
+  "added": "2026-11-06",
+  "arxiv": "2611.06109",
+  "candidates": [
+   [
+    "machine-learning",
+    4.8
+   ],
+   [
+    "air-traffic-management",
+    0.45
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.06109",
+   "title:subtleenergycorrectionsreshapecondensedphasepropertypredictionsfromamachinelearninginteratomicpotential|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Accurate reproduction of electronic-structure labels by machine-learning interatomic potentials does not necessarily ensure reliable condensed-phase properties. We investigate the effects of basis-set superposition error (BSSE) and an explicit Axilrod-Teller-Muto (ATM) three-body dispersion contribution on molecular-liquid predictions. Starting from MACELES-OFF, we fine-tune a baseline potential at the $ω$B97M-V/def2-TZVPD level. A separate branch learns counterpoise (CP) energy and force corrections with the baseline frozen, while a D4-parametrized ATM term is added during molecular-dynamics inference. Mean atom-normalized CP and ATM contributions are 0.222 and 0.205 meV/atom, respectively, for the analyzed SPICE2 configurations from OMol25. We compare baseline, CP-only, ATM-only, and CP + ATM variants for 39 organic liquids. Relative to baseline, the mean system-wise density changes are -1.17%, -10.38%, and -11.93% for CP-only, ATM-only, and CP + ATM, respectively; the corresponding enthalpy-of-vaporization changes are -2.79%, -14.74%, and -18.32%. For the 11 liquids with experimental self-diffusion data, the mean self-diffusion changes are +17.66%, +203.02%, and +230.36%. Both corrections thus lower density and enthalpy of vaporization while increasing molecular mobility on average. ATM dominates these changes, while CP provides a smaller contribution; their combination yields the largest average shifts. These results show that corrections with sub-meV/atom mean values on the analyzed configurations can substantially reshape the predicted structural, thermodynamic, and transport properties of molecular liquids.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.06109",
+   "authors": [
+    "Haihui Wang",
+    "Xinyan Wang",
+    "Jiashu Liang",
+    "Yuanheng Wang",
+    "Chang Han",
+    "Wen Yan",
+    "Tianze Zheng",
+    "Kuang Yu"
+   ],
+   "categories": [
+    "arXiv:physics.chem-ph"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-04",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.06109"
+   ],
+   "title": "Subtle Energy Corrections Reshape Condensed-Phase Property Predictions from a Machine-Learning Interatomic Potential",
+   "topics": [],
+   "updated_date": "2026-11-04",
+   "url": "https://arxiv.org/abs/2611.06109"
+  },
+  "suggested": "machine-learning",
+  "title": "Subtle Energy Corrections Reshape Condensed-Phase Property Predictions from a Machine-Learning Interatomic Potential",
+  "url": "https://arxiv.org/abs/2611.06109"
+ },
+ {
+  "added": "2026-11-06",
+  "arxiv": "2611.06114",
+  "candidates": [
+   [
+    "ray-tracing",
+    4.8
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.06114",
+   "title:firstraytracingsimulationsofmodeconversionusingmetaplecticgeometricaloptics|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Advanced scenarios of radiofrequency power deposition into magnetically confined fusion plasmas, particularly those using electron Bernstein waves, involve linear mode conversion (energy transfer between separate dispersion branches) in regions where the waves experience reflection. Full-wave simulations of this conversion are time-consuming, and geometrical-optics (GO) modeling is problematic because it is typically restricted to single waves and leads to spurious singularities at cutoffs. Here, we report the first reduced simulations that overcome these limitations without resorting to approximate analytical formulas for the conversion efficiency. The algorithm is based on the recently developed metaplectic geometrical optics (MGO), which eliminates GO's spurious singularities by metaplectic transformations, provided that the symplectic curvature of the rays $R^{-1}$ is small. To prove the concept, we simulate one-dimensional O--X mode conversion caused by the plasma-density gradient near the critical density, a problem for which an approximate analytical solution is available and can be compared with. Numerical MGO demonstrates good agreement with said theory. This opens a way for fast and accurate ray-tracing modeling of any linear mode conversion at $R^{-1} \\ll 1$.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.06114",
+   "authors": [
+    "Rui Kai Lee",
+    "Valerian H. Hall-Chen",
+    "I. Y. Dodin"
+   ],
+   "categories": [
+    "arXiv:physics.plasm-ph"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-04",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.06114"
+   ],
+   "title": "First ray-tracing simulations of mode conversion using metaplectic geometrical optics",
+   "topics": [],
+   "updated_date": "2026-11-04",
+   "url": "https://arxiv.org/abs/2611.06114"
+  },
+  "suggested": "ray-tracing",
+  "title": "First ray-tracing simulations of mode conversion using metaplectic geometrical optics",
+  "url": "https://arxiv.org/abs/2611.06114"
+ },
+ {
+  "added": "2026-11-06",
+  "arxiv": "2611.06115",
+  "candidates": [
+   [
+    "gas-turbines",
+    4.8
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.06115",
+   "title:temporarygasturbinespoweringausaidatacentercreatedacrossstateairpollutionhotspot|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Data centers increasingly use on-site gas turbines that regulators can treat as temporary. Two satellites show the fleet powering SpaceXAI's Colossus 2 raised local nitrogen dioxide columns by about half as it expanded, the most anomalous increase among 656 urban locations nationwide since 2020. Mississippi authorized the fleet, but two-thirds of the hotspot's 116,000 mostly Black residents live in Tennessee, and the hotspot contains no regulatory nitrogen dioxide monitor. The fleet causes an estimated four premature deaths yearly, valued at $49 million, over 80% outside Mississippi and nearly all from units without selective catalytic reduction. On new turbines, this control's benefits exceed costs over the service life, but not over temporary stays or for in-state damages alone. Standards following the equipment could recover these benefits.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.06115",
+   "authors": [
+    "Will W. Qiang",
+    "Bo Huang",
+    "Xingjian Liu",
+    "Harry F. Lee"
+   ],
+   "categories": [
+    "arXiv:physics.soc-ph",
+    "arXiv:physics.ao-ph"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-04",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.06115"
+   ],
+   "title": "Temporary gas turbines powering a US AI data center created a cross-state air pollution hotspot",
+   "topics": [],
+   "updated_date": "2026-11-04",
+   "url": "https://arxiv.org/abs/2611.06115"
+  },
+  "suggested": "gas-turbines",
+  "title": "Temporary gas turbines powering a US AI data center created a cross-state air pollution hotspot",
+  "url": "https://arxiv.org/abs/2611.06115"
+ },
+ {
+  "added": "2026-11-06",
+  "arxiv": "2611.06145",
+  "candidates": [
+   [
+    "electric-vehicles",
+    4.8
+   ],
+   [
+    "power-transformers",
+    1.85
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.06145",
+   "title:analyzingsimultaneouschargingfactorsofelectricvehiclesusingmontecarlosimulationacasestudyinphuquoccityvietnam|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "This study estimates the simultaneous charging factor (SCF) of electric vehicles (EVs) in Phu Quoc City, Vietnam, using a Monte Carlo simulation. Three planning scenarios (2030, 2035, and 2040) are developed from population-based EV uptake assumptions and vehicle-specific charging probability profiles over 24 hours, reflecting distinct operating patterns of motorbikes, cars, taxis, and buses. For each vehicle class and scenario, 1,000 simulation runs are performed to compute SCF and its uncertainty, reported via 95% confidence intervals. Results indicate that SCF decreases as EV penetration increases, implying more temporally dispersed charging demand and a reduced likelihood of extreme coincidence. For electric buses, SCF declines from 0.76 (2030) to 0.59 (2040), and other vehicle groups show similarly decreasing trends across the horizon. These SCF estimates provide practical inputs for grid-aware charging infrastructure planning, including diversity factors for sizing distribution transformers and feeders, identifying peak-hour stress, and informing demand management measures such as time of use tariffs and basic smart charging controls.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.06145",
+   "authors": [
+    "Tien Khai Nguyen",
+    "Trong Nghia Le"
+   ],
+   "categories": [
+    "arXiv:eess.SY"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-04",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.06145"
+   ],
+   "title": "Analyzing Simultaneous Charging Factors of Electric Vehicles Using Monte Carlo Simulation: A Case Study in Phu Quoc City, Vietnam",
+   "topics": [],
+   "updated_date": "2026-11-04",
+   "url": "https://arxiv.org/abs/2611.06145"
+  },
+  "suggested": "electric-vehicles",
+  "title": "Analyzing Simultaneous Charging Factors of Electric Vehicles Using Monte Carlo Simulation: A Case Study in Phu Quoc City, Vietnam",
+  "url": "https://arxiv.org/abs/2611.06145"
+ },
+ {
+  "added": "2026-11-06",
+  "arxiv": "2611.06962",
+  "candidates": [
+   [
+    "inverse-problems",
+    4.8
+   ],
+   [
+    "interactive-theorem-proving",
+    2.94
+   ],
+   [
+    "functional-analysis",
+    1.3
+   ],
+   [
+    "analysis",
+    0.26
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.06962",
+   "title:formalizinginverseproblemsintheageofaipossibilitiespitfallsandaninvitation|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Proof assistants such as Lean check mathematical proofs down to the axioms, and AI agents have recently made writing such proofs cheap. We describe AutoIP, a Lean library in which classical linear regularization theory, together with the functional analysis it rests on, has been autoformalized by AI agents. A machine-checked proof certifies only the formal statement it proves, so the remaining human task is to confirm that each formal statement says what was intended. We organize the library around this task: a reviewer compares the formal statements with their natural-language counterparts and never needs to read a proof. Our experience is that the risks lie in the statements rather than in the proofs, and that simple automated tests on the statements can expose problems even in the established literature. We illustrate this with a textbook theorem whose hypothesis is more restrictive than asserted. We invite the inverse problems community to extend and build on the library.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.06962",
+   "authors": [
+    "Christian Clason",
+    "Tapio Helin",
+    "Medet Nursultanov",
+    "Lauri Oksanen"
+   ],
+   "categories": [
+    "arXiv:cs.AI"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-04",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.06962"
+   ],
+   "title": "Formalizing inverse problems in the age of AI: possibilities, pitfalls, and an invitation",
+   "topics": [],
+   "updated_date": "2026-11-04",
+   "url": "https://arxiv.org/abs/2611.06962"
+  },
+  "suggested": "inverse-problems",
+  "title": "Formalizing inverse problems in the age of AI: possibilities, pitfalls, and an invitation",
+  "url": "https://arxiv.org/abs/2611.06962"
+ },
+ {
+  "added": "2026-11-06",
+  "arxiv": "2611.06146",
+  "candidates": [
+   [
+    "energy-storage",
+    4.8
+   ],
+   [
+    "microgrids",
+    2.38
+   ],
+   [
+    "storage-systems",
+    1.2
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.06146",
+   "title:multiperiodbilevelcoordinationofprimaryandsecondaryfrequencyregulationforgridformingbatteryenergystorage|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "We study the coordination of primary and secondary frequency regulation by grid-forming battery energy storage systems in islanded microgrids. We formulate the coordination as a multi-period bilevel program, in which the upper level schedules secondary regulation setpoints and each lower level computes primary regulation decisions. Using the lower-level Karush-Kuhn-Tucker conditions, we obtain an exact single-level reformulation with complementarity constraints. To address the numerical difficulties introduced by these constraints, we develop a continuation method that couples the complementarity relaxation parameter with the interior-point barrier parameter and warm-starts successive stages. Under the stated boundedness assumptions and with vanishing subproblem residuals, we prove that every accumulation point is feasible and satisfies a first-order stationarity condition for the reformulated problem (C-stationarity). Numerical results for an islanded microgrid show that the proposed method reduces solution time by 89.3% and peak frequency deviation by 0.53% relative to conventional Scholtes relaxation.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.06146",
+   "authors": [
+    "Wenju Shang",
+    "Liangliang Hao",
+    "Jiangliang Jin",
+    "Yunjian Xu"
+   ],
+   "categories": [
+    "arXiv:eess.SY"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-04",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.06146"
+   ],
+   "title": "Multi-Period Bilevel Coordination of Primary and Secondary Frequency Regulation for Grid-Forming Battery Energy Storage",
+   "topics": [],
+   "updated_date": "2026-11-04",
+   "url": "https://arxiv.org/abs/2611.06146"
+  },
+  "suggested": "energy-storage",
+  "title": "Multi-Period Bilevel Coordination of Primary and Secondary Frequency Regulation for Grid-Forming Battery Energy Storage",
+  "url": "https://arxiv.org/abs/2611.06146"
+ },
+ {
+  "added": "2026-11-06",
+  "arxiv": "2611.06190",
+  "candidates": [
+   [
+    "machine-learning",
+    4.8
+   ],
+   [
+    "spectroscopy",
+    0.66
+   ],
+   [
+    "analysis",
+    0.26
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.06190",
+   "title:evolutionarymapoftheuniverseemuselectionofactivegalacticnucleiandstarformationemissionwithmachinelearningtechniques|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Sources detected by recent large-area radio surveys require robust classification and characterisation. The Evolutionary Map of the Universe (EMU) is a prime example of machine-learning (ML) techniques efficiently enriching existing catalogues with classifications and derived physical properties that would be impractical to obtain from spectroscopy or colour selection alone. We aim to build a labelled sample of sources in the EMU pilot survey (EMU-PS, at 944 MHz, with rms ~ 30 uJy/beam over 270 deg2 in the southern sky) classified as being dominated by active galactic nuclei (AGNs) or non-AGN processes including star-formation. We will then use this sample to examine radio properties and redshift-dependent trends. We applied a pre-trained multi-stage ML pipeline to optical-to-infrared photometry of EMU-PS sources to derive classifications and photometric redshifts, which we used to compute additional radio properties, including luminosities. We increase the known number of AGNs and non-AGNs in the EMU-PS by more than a factor of 15 (recall 96 %) up to z ~ 5, and by nearly a factor of 100 (recall 94 %) for z > 1, respectively. In extrapolating these numbers for the full EMU survey, we expect to recover more than 3.4 million AGN candidates. A non-negligible low-redshift subsample of selected non-AGNs shows radio luminosities in excess of those expected from star formation alone, revealing detachment between photometric and radio classification. Radio-derived properties show expected trends for luminosities and a lack of evolution for in-band (800-1088 MHz) spectral indices. The ML-based pipeline provides a scalable way to produce large catalogues for the ongoing EMU survey and future Square Kilometre Array observations and reveals that multi-wavelength analysis can uncover radio populations and trends often missed by colour cuts or spectroscopy alone.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.06190",
+   "authors": [
+    "R. Carvajal",
+    "I. Matute",
+    "J. Afonso",
+    "H. Messias",
+    "M. J. I. Brown",
+    "D. Farrah",
+    "A. M. Hopkins",
+    "J. Th. van Loon",
+    "K. J. Luken",
+    "C. M. Pennock",
+    "J. Prathap",
+    "S. S. Shabala",
+    "D. A. Leahy",
+    "S. F. Rahman",
+    "K. A. Pimbblet",
+    "T. Zafar"
+   ],
+   "categories": [
+    "arXiv:astro-ph.GA"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-04",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.06190"
+   ],
+   "title": "Evolutionary Map of the Universe (EMU): Selection of active galactic nuclei and star-formation emission with machine-learning techniques",
+   "topics": [],
+   "updated_date": "2026-11-04",
+   "url": "https://arxiv.org/abs/2611.06190"
+  },
+  "suggested": "machine-learning",
+  "title": "Evolutionary Map of the Universe (EMU): Selection of active galactic nuclei and star-formation emission with machine-learning techniques",
+  "url": "https://arxiv.org/abs/2611.06190"
+ },
+ {
+  "added": "2026-11-06",
+  "arxiv": "2611.06207",
+  "candidates": [
+   [
+    "molecular-docking",
+    4.8
+   ],
+   [
+    "real-time-graphics-pipelines",
+    2.94
+   ],
+   [
+    "gpu-computing",
+    2.1
+   ],
+   [
+    "optimization",
+    1.05
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.06207",
+   "title:performanceportabilityofoutofkerneloptimizationsongpusamoleculardockingcasestudy|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Achieving performance portability is challenging for irregular scientific applications built as repeated multi-kernel GPU pipelines, because throughput depends on out-of-kernel decisions as much as on kernel efficiency. Using molecular docking as a representative case study, we propose an out-of-kernel tuning methodology that treats batching policy, worker concurrency, and per-worker memory allocation as explicit optimization parameters, replacing backend-dependent occupancy-driven choices with a more portable execution strategy based on explicit resource bounds. We implement this methodology in the muDock mini-app under a manager/worker execution model where multiple host workers share a GPU through independent streams. We then evaluate the methodology on NVIDIA, AMD, and Intel GPUs across CUDA, HIP, and SYCL implementations. Across all evaluated platform/backend pairs, the memory-bounded formulation exceeds the peak throughput of the occupancy-guided baseline. The fully tuned methodology improves the end-to-end throughput on all tested configurations, achieving an average speedup of 1.53x over the baseline.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.06207",
+   "authors": [
+    "Gianmarco Accordi",
+    "Leonardo Beltrame",
+    "Theresa Pollinger",
+    "Jens Domke",
+    "Davide Gadioli",
+    "Gianluca Palermo"
+   ],
+   "categories": [
+    "arXiv:cs.DC",
+    "arXiv:cs.PF"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-04",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.06207"
+   ],
+   "title": "Performance Portability of Out-of-Kernel Optimizations on GPUs: A Molecular Docking Case Study",
+   "topics": [],
+   "updated_date": "2026-11-04",
+   "url": "https://arxiv.org/abs/2611.06207"
+  },
+  "suggested": "molecular-docking",
+  "title": "Performance Portability of Out-of-Kernel Optimizations on GPUs: A Molecular Docking Case Study",
+  "url": "https://arxiv.org/abs/2611.06207"
+ },
+ {
+  "added": "2026-11-06",
+  "arxiv": "2611.06170",
+  "candidates": [
+   [
+    "retrieval-augmented-generation",
+    4.76
+   ],
+   [
+    "large-language-models",
+    3.7
+   ],
+   [
+    "tokenization",
+    2.55
+   ],
+   [
+    "analysis",
+    0.26
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.06170",
+   "title:assameselme2banopenweightassameselanguagemodelforefficientconsumergradedeployment|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "While Large Language Models (LLMs) excel in high-resource languages, their performance often degrades in low-resource languages due to tokenization inefficiencies, generative instability, and linguistic interference. This paper presents AssameseLM-E2B and its instruction-tuned variant, AssameseLM-E2B-it, a 2-billion-parameter model adapted specifically for low resource Assamese language. Built upon the Gemma-4 architecture, the model incorporates an expanded byte-level BPE vocabulary to reduce tokenization overhead by nearly 500% compared with multilingual 2B--3B baselines. We employ a parameter-efficient Continual Pre-Training (CPT) pipeline with Hybrid LoRA, followed by Supervised Fine-Tuning (SFT) on a balanced, multi-domain dataset to enhance instruction-following and Retrieval-Augmented Generation (RAG) capabilities. Evaluation demonstrates a Bits-per-Byte (BPB) score of 0.7488 on FLORES-200, alongside an overall RAG score of 96.7% and 100% refusal accuracy on adversarial unanswerable prompts. Comparative analysis reveals significant limitations in general-purpose baselines, including receptive-productive decoupling, generative degradation on Romanized Assamese, and unintended Bengali script assimilation. These results demonstrate the potential of parameter-efficient adaptation for developing capable, locally deployable language models for low-resource languages under constrained computational resources.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.06170",
+   "authors": [
+    "Pragyan Phukan"
+   ],
+   "categories": [
+    "arXiv:cs.CL",
+    "arXiv:cs.AI",
+    "arXiv:cs.LG"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-04",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.06170"
+   ],
+   "title": "AssameseLM-E2B: An Open-Weight Assamese Language Model for Efficient Consumer-Grade Deployment",
+   "topics": [],
+   "updated_date": "2026-11-04",
+   "url": "https://arxiv.org/abs/2611.06170"
+  },
+  "suggested": "retrieval-augmented-generation",
+  "title": "AssameseLM-E2B: An Open-Weight Assamese Language Model for Efficient Consumer-Grade Deployment",
+  "url": "https://arxiv.org/abs/2611.06170"
  }
 ]

@@ -77,7 +77,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **3**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **11**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -87,9 +87,14 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [How Well Can Large Language Models Impersonate Individual Authors? A Comparative Evaluation](Buyuk-Dil-Modelleri/Arastirmalar/2026-Gupta-How-Well-Can-Large.md) — Gupta vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [Graph-Mediated Large Language Model Systems in the Agentic Era: Reasoning, Knowledge, Retrieval, Execution, and Coordination](Buyuk-Dil-Modelleri/Arastirmalar/2026-Liu-Graph-Mediated-Large-Language.md) — Liu vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [Signed but Steerable: Measuring and Closing the Text-Vector Integrity Gap in Offline Retrieval-Augmented Generation](Buyuk-Dil-Modelleri/Erisimle-Zenginlestirilmis-Uretim/Arastirmalar/2026-Feretzakis-Signed-but-Steerable-Measuring.md) — Feretzakis vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [Weaver: Weaving Preference Evidence through Incremental Reasoning for Personalized Retrieval-Augmented Generation](Buyuk-Dil-Modelleri/Erisimle-Zenginlestirilmis-Uretim/Arastirmalar/2026-Zheng-Weaver-Weaving-Preference-Evidence.md) — Zheng vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [Batch-Conditioned Semantic Anchors for Robust Transductive Adaptation of Vision--Language Models](Cok-Kipli-Temel-Modeller/Goru-Dil-Modelleri/Arastirmalar/2026-Mohammad-Batch-Conditioned-Semantic-Anchors.md) — Mohammad vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [Traffic-VL: Reinforced Vision-Language Models for Generalizable End-to-End Traffic Signal Control](Cok-Kipli-Temel-Modeller/Goru-Dil-Modelleri/Arastirmalar/2026-Zou-Traffic-Reinforced-Vision-Language.md) — Zou vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [AdSteer: Native Advertising in Large Language Model Generation](Buyuk-Dil-Modelleri/Arastirmalar/2026-Lin-AdSteer-Native-Advertising-Large.md) — Lin vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [Large Language Model-Assisted Adaptive Heuristic Search for Agile Earth Observation Satellite Scheduling](Buyuk-Dil-Modelleri/Arastirmalar/2026-Wang-Large-Language-Model-Assisted.md) — Wang vd. (2026) · *arXiv* · ön baskı / hakemsiz
-- [Co-Occurrence Priors Override Visual Spatial Evidence: Understanding False Alarms in Vision-Language Models for Construction Struck-By Hazard Detection](Cok-Kipli-Temel-Modeller/Goru-Dil-Modelleri/Arastirmalar/2026-Zhou-Occurrence-Priors-Override-Visual.md) — Zhou (2026) · *arXiv* · ön baskı / hakemsiz
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar
