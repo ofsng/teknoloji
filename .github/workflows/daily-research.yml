@@ -88,7 +88,17 @@ jobs:
           if git ls-remote --exit-code --heads origin "$BRANCH" >/dev/null; then
             git fetch origin "$BRANCH"
             git checkout -B "$BRANCH" "origin/$BRANCH"
-            git merge --no-edit origin/main || { echo "::error::auto/research ile main çakışıyor; elle çözülmeli"; exit 1; }
+            if ! git merge --no-edit origin/main; then
+              # Yalnızca otomatik üretilen indekslerde çakışma varsa main sürümü alınır ve indeksler yeniden üretilir
+              CONFLICTS=$(git diff --name-only --diff-filter=U)
+              OTHER=$(echo "$CONFLICTS" | grep -vE '^(STATS|TECHNOLOGIES|RESEARCH-INDEX|RELATIONSHIPS)\.md$|^research-index/' || true)
+              if [ -n "$OTHER" ]; then
+                echo "::error::auto/research ile main şu dosyalarda çakışıyor; elle çözülmeli: $OTHER"; exit 1
+              fi
+              echo "$CONFLICTS" | xargs -r git checkout --theirs --
+              python3 tools/kb.py reindex
+              git add -A && git commit -q --no-edit
+            fi
           else
             git checkout -B "$BRANCH"
           fi
