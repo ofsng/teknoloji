@@ -14,8 +14,9 @@ classification_refs: []
 content_verified: false
 created: 2026-11-05
 layout: 2
-content_status: empty
-content_sources: []
+content_status: ai_quotes_sourced
+content_sources: ["10.1038/s41467-020-15355-0", "10.1126/science.aab1595"]
+last_maintained: 2026-11-07
 ---
 
 # Lityum-İyon Bataryalar (Lithium-Ion Batteries)
@@ -30,7 +31,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 
 ## 2. Çalışma prensibi
 
-_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+- “The emergence and dominance of lithium-ion batteries are due to their higher energy density compared to other rechargeable battery systems, enabled by the design and development of high-energy density electrode materials.” [1]
+
+<sub>Bu bölümde yalnızca kaynaklardan birebir alıntılar vardır (yerel dil modeli seçti, doğrulayıcı kaynak özetinde geçtiğini denetledi). Türkçe özet bekliyor; insan onayı yok.</sub>
 
 ## 3. Tarihçe
 
@@ -38,7 +41,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 
 ## 4. Temel kavramlar
 
-_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+- “This review article provides a reflection on how fundamental studies have facilitated the discovery, optimization, and rational design of three major categories of oxide cathodes for lithium-ion batteries, and a personal perspective on the future of this important area.” [1]
+
+<sub>Bu bölümde yalnızca kaynaklardan birebir alıntılar vardır (yerel dil modeli seçti, doğrulayıcı kaynak özetinde geçtiğini denetledi). Türkçe özet bekliyor; insan onayı yok.</sub>
 
 ## 5. Temel yöntemler
 
@@ -67,7 +72,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 
 ## 10. Sınırlılıklar
 
-_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+- “Lithium-ion batteries raise safety, environmental, and cost concerns, which mostly arise from their nonaqueous electrolytes.” [2]
+
+<sub>Bu bölümde yalnızca kaynaklardan birebir alıntılar vardır (yerel dil modeli seçti, doğrulayıcı kaynak özetinde geçtiğini denetledi). Türkçe özet bekliyor; insan onayı yok.</sub>
 
 ## 11. Açık problemler
 
@@ -91,4 +98,6 @@ _Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini gösterm
 
 ## 14. Kaynaklar
 
-_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+1. Arumugam Manthiram (2020). *A reflection on lithium-ion battery cathode chemistry*. Nature Communications. https://doi.org/10.1038/s41467-020-15355-0 — hakemli
+2. Liumin Suo vd. (2015). *“Water-in-salt” electrolyte enables high-voltage aqueous lithium-ion chemistries*. Science. https://doi.org/10.1126/science.aab1595 — hakemli
+

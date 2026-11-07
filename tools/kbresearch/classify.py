@@ -14,7 +14,7 @@ from collections import defaultdict
 import kb
 
 FIELD_W = {"title": 3.0, "keywords": 1.5, "topics": 1.0, "abstract": 1.0}
-HIGH, MEDIUM = 6.0, 3.0
+HIGH, MEDIUM = 7.5, 3.0  # kalibrasyon: eval/calibration-2026-10-29.jsonl (6–7,5 aralığı kesinlik 0,72)
 # Tek başına geçtiğinde başka anlamlara da gelebilen tek sözcüklü düğüm adları
 AMBIGUOUS = {
     "transformer", "attention", "translation", "transcription", "pruning", "quantization", "calibration",

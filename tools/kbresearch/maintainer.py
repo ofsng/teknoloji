@@ -18,9 +18,11 @@ from .state import load_json, save_json
 
 FILL_SECTIONS = [1, 2, 3, 4, 5, 8, 9, 10, 11]
 STMT = {"type": "object",
-        "properties": {"text": {"type": "string"}, "sources": {"type": "array", "items": {"type": "string"}},
+        "properties": {"text": {"type": "string"},
+                       "evidence": {"type": "string"},
+                       "sources": {"type": "array", "items": {"type": "string"}},
                        "basis": {"type": "string", "enum": ["review", "peer_reviewed", "preprint"]}},
-        "required": ["text", "sources", "basis"], "additionalProperties": False}
+        "required": ["text", "evidence", "sources", "basis"], "additionalProperties": False}
 DRAFT_SCHEMA = {"type": "object",
                 "properties": {**{f"s{n}": {"type": "array", "items": STMT} for n in FILL_SECTIONS},
                                "conflicts": {"type": "array", "items": STMT}},
@@ -28,8 +30,13 @@ DRAFT_SCHEMA = {"type": "object",
 DRAFT_SYSTEM = (
     "You write sections of a Turkish-language technology knowledge base entry. You are given numbered sources "
     "(title, venue, year, whether peer reviewed, abstract). Write short Turkish statements ONLY from what these "
-    "abstracts state. Every statement must cite the source ids it relies on. Do not add facts, numbers, dates or "
-    "names that are not in the sources. If the sources do not support a section, return an empty list for it. "
+    "abstracts state. Every statement must cite the source ids it relies on and must include 'evidence': an "
+    "EXACT, verbatim English quote (8 to 40 words, copied character for character) from the abstract of the first "
+    "cited source that supports the statement, and the quote must name this technology. 'text' MUST be written in "
+    "Turkish and be a faithful Turkish rendering of the quote: keep technical terms in English in parentheses, do "
+    "not add, generalize or change meaning, and never copy English into 'text'. Do not add "
+    "facts, numbers, dates or names that are not in the quote. If the sources do not support a section, return an "
+    "empty list for it. Prefer fewer, accurate statements over many. "
     "Prefer review articles for definitions and principles. Mark basis=preprint when relying only on preprints. "
     "Put findings that disagree with each other into 'conflicts'. Sections: s1 definition, s2 working principle, "
     "s3 history, s4 key concepts, s5 key methods, s8 applications, s9 advantages, s10 limitations, "
@@ -61,26 +68,118 @@ def source_ref(s):
     return f"{who} ({s.get('year') or 'tarihsiz'}). *{s.get('title')}*. {s.get('publication') or ''}. {link} — {kind}"
 
 
-def validate(draft, sources):
-    """Kaynaksız / bilinmeyen kaynaklı / biçimsiz ifadeleri ayıklar. (temiz taslak, atılanlar)"""
-    ids = {s["sid"] for s in sources}
+def _norm(t):
+    t = (t or "").lower()
+    t = re.sub(r"[‐-―−]", "-", t)
+    t = re.sub(r"[“”\"'‘’`]", "", t)
+    return re.sub(r"\s+", " ", t).strip()
+
+
+def evidence_in_abstract(evidence, abstract):
+    """Kanıt alıntısı özetin içinde birebir (boşluk/tırnak/kısa çizgi farkları hariç) geçiyor mu?"""
+    ev, ab = _norm(evidence).strip(" .,;:"), _norm(abstract)
+    return len(ev.split()) >= 6 and ev in ab
+
+
+def numbers_supported(text, evidence):
+    """Türkçe ifadedeki her sayı kanıtta da geçmeli (uydurma sayı/yıl önlemi)."""
+    nums = re.findall(r"\d+(?:[.,]\d+)?", text)
+    ev = evidence.replace(",", ".")
+    return all(n.replace(",", ".") in ev for n in nums)
+
+
+TR_WORDS = {"ve", "bir", "bu", "için", "ile", "olarak", "da", "de", "ile", "olan", "daha", "gibi", "veya", "ancak",
+            "çok", "en", "ise", "sağlar", "kullanılır", "eder", "yapar", "olur", "arasında", "üzerinde", "tarafından"}
+EN_WORDS = {"the", "of", "and", "is", "are", "to", "in", "for", "with", "that", "by", "as", "on", "which", "this"}
+
+
+def is_turkish(text):
+    words = re.findall(r"[a-zçğıöşüâîû]+", text.lower())
+    if not words or "evidence:" in text.lower():
+        return False
+    tr = sum(w in TR_WORDS for w in words) + (2 if re.search(r"[çğıöşü]", text.lower()) else 0)
+    en = sum(w in EN_WORDS for w in words)
+    return tr >= 2 and en <= max(1, len(words) // 8)
+
+
+def entry_names(meta):
+    names = [meta.get("title"), meta.get("title_tr")] + list(meta.get("aliases") or [])
+    out = []
+    for n in names:
+        if n:
+            out.append(_norm(re.sub(r"\(.*?\)", "", n)))
+    return [n for n in out if n]
+
+
+def mentions_entry(evidence, names):
+    """Kanıt alıntısı bu teknolojinin adından (ya da takma adından) söz ediyor mu? Tekil/çoğul farkı tolere edilir."""
+    ev = _norm(evidence)
+    ev_t = set(re.findall(r"[a-z0-9]+", ev))
+    for n in names:
+        toks = [t.rstrip("s") for t in re.findall(r"[a-z0-9]+", n) if t not in ("of", "and", "the", "for", "in")]
+        if toks and all(any(e.startswith(t) for e in ev_t) for t in toks):
+            return True
+    return False
+
+
+def text_mode(llm=None):
+    """'quote': bölümlere yalnızca doğrulanmış kaynak alıntıları yazılır (küçük yerel modellerin Türkçe yeniden
+    ifadesi pilotta güvenilir bulunmadı); 'summary': Türkçe özet + görünür alıntı."""
+    import os
+    m = os.environ.get("KB_LLM_TEXT_MODE")
+    if m in ("quote", "summary"):
+        return m
+    return "quote" if (llm is not None and getattr(llm, "provider", None) == "local") else "summary"
+
+
+def validate(draft, sources, names=None, require_turkish=True):
+    """Kaynaksız, bilinmeyen kaynaklı, kanıt alıntısı özette bulunmayan ya da kanıtta olmayan sayı içeren
+    ifadeleri atar. (temiz taslak, atılanlar)"""
+    by = {s["sid"]: s for s in sources}
     preprint = {s["sid"] for s in sources if s.get("peer_reviewed") is False}
     clean, dropped = {}, []
     for key in [f"s{n}" for n in FILL_SECTIONS] + ["conflicts"]:
         out = []
         for st in draft.get(key) or []:
             text = (st.get("text") or "").strip()
-            srcs = [x for x in st.get("sources") or [] if x in ids]
+            ev = (st.get("evidence") or "").strip()
+            srcs = [x for x in st.get("sources") or [] if x in by]
+            why = None
             if not srcs or len(text) < 15 or len(text) > 700 or re.search(r"https?://", text):
-                dropped.append({"section": key, "statement": st, "why": "kaynaksız/geçersiz"})
+                why = "kaynaksız/geçersiz"
+            elif not any(evidence_in_abstract(ev, by[x].get("abstract")) for x in srcs):
+                why = "kanıt alıntısı kaynak özetinde yok"
+            elif len(ev.split()) > 45:
+                why = "kanıt alıntısı çok uzun"
+            elif not numbers_supported(text, ev):
+                why = "kanıtta olmayan sayı"
+            elif require_turkish and not is_turkish(text):
+                why = "ifade Türkçe değil / biçim sızıntısı"
+            elif names and not mentions_entry(ev, names):
+                why = "kanıt bu teknolojiden söz etmiyor"
+            elif any(_norm(text) == _norm(o["text"]) or _norm(ev) == _norm(o["evidence"])
+                     for o in [o for k2 in clean for o in clean[k2]] + out):
+                why = "tekrar"
+            if why:
+                dropped.append({"section": key, "statement": st, "why": why})
                 continue
-            basis = "preprint" if set(srcs) <= preprint else st.get("basis")
-            out.append({"text": text, "sources": srcs, "basis": basis})
+            # dayanak türü modelden değil kaynakların gerçek yayın türünden belirlenir
+            basis = "preprint" if set(srcs) <= preprint else (
+                "review" if any(by[x].get("type") == "review" for x in srcs) else "peer_reviewed")
+            out.append({"text": text, "sources": srcs, "basis": basis, "evidence": ev})
         clean[key] = out
     return clean, dropped
 
 
-def render(clean, sources):
+AUTO_NOTE = ("\n\n<sub>Türkçe satırlar alıntılanan kaynak cümlesinin otomatik özetidir (yerel dil modeli); "
+             "anlam farkı olursa alıntı esastır. İnsan onayı yok.</sub>")
+
+
+QUOTE_NOTE = ("\n\n<sub>Bu bölümde yalnızca kaynaklardan birebir alıntılar vardır (yerel dil modeli seçti, "
+              "doğrulayıcı kaynak özetinde geçtiğini denetledi). Türkçe özet bekliyor; insan onayı yok.</sub>")
+
+
+def render(clean, sources, mode="summary"):
     """{bölüm no: markdown}, kaynak listesi markdown'u. Kaynak numaraları ilk kullanım sırasına göre."""
     order = []
     for key in [f"s{n}" for n in FILL_SECTIONS] + ["conflicts"]:
@@ -93,9 +192,15 @@ def render(clean, sources):
     out = {}
     for n in FILL_SECTIONS:
         items = clean.get(f"s{n}") or []
-        if items:
+        if items and mode == "quote":
+            out[n] = "\n".join(f"- “{st['evidence']}” " + "".join(f"[{num[s]}]" for s in st["sources"])
+                               + (" *(ön baskı)*" if st["basis"] == "preprint" else "") for st in items) + QUOTE_NOTE
+        elif items:
+            # Kaynak alıntısı esastır ve görünürdür; Türkçe satır otomatik özettir (bkz. bölüm sonu notu)
             out[n] = "\n".join(f"- {st['text']}" + (" *(ön baskı bulgusu)*" if st["basis"] == "preprint" else "")
-                               + " " + "".join(f"[{num[s]}]" for s in st["sources"]) for st in items)
+                               + " " + "".join(f"[{num[s]}]" for s in st["sources"])
+                               + (f"\n  > “{st['evidence']}”" if st.get("evidence") else "")
+                               for st in items) + AUTO_NOTE
     if clean.get("conflicts"):
         txt = "\n".join(f"- ⚖ {st['text']} " + "".join(f"[{num[s]}]" for s in st["sources"]) for st in clean["conflicts"])
         out[10] = (out.get(10, "") + "\n\n**Kaynaklar arasında uyuşmazlık:**\n" + txt).strip()
@@ -128,6 +233,8 @@ def priority_queue(tree, limit, refresh=False):
     """Boş içerikli düğümler; sığdan derine, araştırma sayısı çok olan önce."""
     nodes = [n for n in tree.nodes.values()
              if refresh or (n["meta"].get("content_status") or "empty") in ("empty", "scope_note")]
+    nodes = [n for n in nodes if not n["meta"].get("maintain_skip_until") or
+             n["meta"]["maintain_skip_until"] <= date.today().isoformat()]
     nodes.sort(key=lambda n: (n["depth"], -len(n["research"]), n["dir"]))
     return [n["id"] for n in nodes[:limit]]
 
@@ -156,9 +263,9 @@ def write_proposal(cfg, nid, kind, sections, sources_md, rationale, extra=None):
     return path
 
 
-def apply_draft(cfg, tree, nid, clean, sources):
+def apply_draft(cfg, tree, nid, clean, sources, mode="summary"):
     """Boş bölümleri doldurur, dolu bölümler için öneri yazar. (doldurulan bölümler, öneri yolu)"""
-    sections, refs = render(clean, sources)
+    sections, refs = render(clean, sources, mode)
     if not sections:
         return [], None
     path = os.path.join(kb.ROOT, tree.nodes[nid]["dir"], kb.INDEX)
@@ -180,7 +287,7 @@ def apply_draft(cfg, tree, nid, clean, sources):
             body = kb.replace_section(body, 14, refs)
         else:
             blocked[14] = refs
-        meta["content_status"] = "ai_draft_sourced"
+        meta["content_status"] = "ai_quotes_sourced" if mode == "quote" else "ai_draft_sourced"
         meta["content_sources"] = [s.get("doi") or s.get("url") for s in sources
                                    if any(s["sid"] in st["sources"] for k in clean for st in clean[k])]
         meta["last_maintained"] = cfg.today.isoformat()
@@ -194,7 +301,8 @@ def apply_draft(cfg, tree, nid, clean, sources):
     return filled, proposal
 
 
-def fill_node(cfg, tree, nid, llm=None, http=None, openalex=None, draft=None, sources=None):
+def fill_node(cfg, tree, nid, llm=None, http=None, openalex=None, draft=None, sources=None, keep_dropped=False,
+              mode=None, exclude=()):
     if sources is None:
         sources = gather_sources(http, cfg, tree, nid, openalex)
     if not sources:
@@ -209,11 +317,24 @@ def fill_node(cfg, tree, nid, llm=None, http=None, openalex=None, draft=None, so
         user = (f"Entry: {n['meta']['title']} ({n['meta']['title_tr']}); position in taxonomy: {path}.\n"
                 f"Sub-technologies covered in their own entries (do not describe them in detail): "
                 f"{', '.join(tree.nodes[c]['meta']['title'] for c in n['children']) or 'none'}.\n\nSources:\n{listing}")
-        draft = llm.json_call("index_draft", DRAFT_SYSTEM, user, DRAFT_SCHEMA, max_tokens=16000, effort="medium")
-    clean, dropped = validate(draft, sources)
-    filled, proposal = apply_draft(cfg, tree, nid, clean, sources)
-    return {"node": nid, "status": "filled" if filled else "nothing_filled", "filled": filled,
-            "dropped": len(dropped), "proposal": proposal}
+        draft = llm.json_call("index_draft", DRAFT_SYSTEM, user, DRAFT_SCHEMA, max_tokens=6000, effort="medium")
+    mode = mode or text_mode(llm)
+    clean, dropped = validate(draft, sources, entry_names(tree.nodes[nid]["meta"]), require_turkish=(mode == "summary"))
+    if exclude:  # insan/denetim kararıyla çıkarılan alıntılar
+        for k in clean:
+            keep = [st for st in clean[k] if not any(x in st["evidence"] for x in exclude)]
+            dropped += [{"section": k, "statement": st, "why": "denetimde çıkarıldı"} for st in clean[k] if st not in keep]
+            clean[k] = keep
+    filled, proposal = apply_draft(cfg, tree, nid, clean, sources, mode)
+    kept = sum(len(v) for v in clean.values())
+    res = {"node": nid, "status": "filled" if filled else "nothing_filled", "filled": filled, "kept": kept, "mode": mode,
+           "dropped": len(dropped), "sources": len(sources), "proposal": proposal,
+           "drop_reasons": {w: sum(1 for d in dropped if d["why"] == w) for w in {d["why"] for d in dropped}}}
+    if keep_dropped:  # denetim raporu için (repoya yazılmaz)
+        res["dropped_items"] = dropped
+        res["draft"] = draft
+        res["source_list"] = sources
+    return res
 
 
 def assess_new_research(cfg, tree, nid, rmeta, abstract, llm):

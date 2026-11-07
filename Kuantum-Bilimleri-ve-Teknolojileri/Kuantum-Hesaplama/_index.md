@@ -14,8 +14,9 @@ classification_refs: []
 content_verified: false
 created: 2026-11-05
 layout: 2
-content_status: empty
-content_sources: []
+content_status: ai_quotes_sourced
+content_sources: ["10.1021/acs.chemrev.9b00829"]
+last_maintained: 2026-11-07
 ---
 
 # Kuantum Hesaplama (Quantum Computing)
@@ -38,7 +39,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 
 ## 4. Temel kavramlar
 
-_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+- “The particular way in which quantum computing extends classical computing means that one cannot expect arbitrary simulations to be sped up by a quantum computer, thus one must carefully identify areas where quantum advantage may be achieved.” [1]
+
+<sub>Bu bölümde yalnızca kaynaklardan birebir alıntılar vardır (yerel dil modeli seçti, doğrulayıcı kaynak özetinde geçtiğini denetledi). Türkçe özet bekliyor; insan onayı yok.</sub>
 
 ## 5. Temel yöntemler
 
@@ -98,4 +101,5 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 
 ## 14. Kaynaklar
 
-_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+1. Bela Bauer vd. (2020). *Quantum Algorithms for Quantum Chemistry and Quantum Materials Science*. Chemical Reviews. https://doi.org/10.1021/acs.chemrev.9b00829 — hakemli
+

@@ -8,7 +8,9 @@ Komutlar:
   eval FILE                 Etiketli değerlendirme setinde sınıflandırma doğruluğunu ölç
   queue list|resolve N --tech ID|drop N
   candidates list|verify KEY --parent ID [--title-tr T]|reject KEY --reason R
-  maintain [--node ID] [--draft-json F --sources-json F] [--limit N]
+  maintain [--node ID | --nodes A,B | --nodes-file F] [--draft-json F --sources-json F] [--limit N] [--report F]
+  verify-links [--nodes-file F]   Doldurulmuş _index.md kaynak bağlantılarını (DOI/URL) doğrula
+  backlog status|restore [--tech ID]
   proposals list|apply FILE|reject FILE
   status                    Durum özeti
 
@@ -138,7 +140,7 @@ def cmd_candidates(args):
             print(f"{c['status']:9s} {k} -> {c.get('parent_suggestion')} ({(c.get('evidence') or {}).get('papers')} makale)")
         return
     if args.action == "verify":
-        nid, path = d.verify(args.key, args.parent, args.title, args.title_tr)
+        nid, path = d.verify(args.key, args.parent, args.title, args.title_tr, force=args.force)
         print("Oluşturuldu:", nid, os.path.relpath(path, kb.ROOT))
     else:
         d.reject(args.key, args.reason)
@@ -147,26 +149,77 @@ def cmd_candidates(args):
 
 
 def cmd_maintain(args):
+    import time
     from kbresearch import maintainer as M
     from kbresearch.sources import openalex
     cfg, http = make(args)
     tree = kb.Tree()
     st = State(cfg.state_dir, cfg.today)
     counter = st.day_counter()
-    if args.draft_json:  # dışarıda (ör. elle ya da başka bir oturumda) hazırlanmış taslak + kaynaklar
+    nodes = [n for n in (args.nodes or "").split(",") if n]
+    if args.nodes_file:
+        nodes += [l.strip() for l in open(args.nodes_file, encoding="utf-8") if l.strip() and not l.startswith("#")]
+    report = []
+    if args.from_report:  # önceki bir çalışmanın model taslaklarını (LLM'siz) yeniden doğrula ve uygula
+        exclude = [l.rstrip("\n") for l in open(args.exclude_file, encoding="utf-8") if l.strip()] if args.exclude_file else []
+        for item in json.load(open(args.from_report, encoding="utf-8")):
+            if not item.get("draft"):
+                report.append({"node": item["node"], "status": item.get("status"), "note": "taslak yok"})
+                continue
+            res = M.fill_node(cfg, tree, item["node"], draft=item["draft"], sources=item["source_list"],
+                              mode=args.mode, exclude=exclude)
+            print(json.dumps(res, ensure_ascii=False))
+            report.append(res)
+    elif args.draft_json:  # dışarıda hazırlanmış taslak + kaynaklar
         draft = json.load(open(args.draft_json, encoding="utf-8"))
         sources = json.load(open(args.sources_json, encoding="utf-8"))
-        print(M.fill_node(cfg, tree, args.node, draft=draft, sources=sources))
+        report.append(M.fill_node(cfg, tree, args.node, draft=draft, sources=sources))
     else:
         llm = make_llm(cfg, counter)
         if not llm:
-            raise SystemExit("LLM yok: ANTHROPIC_API_KEY ayarlayın ve `pip install anthropic` çalıştırın, "
-                             "ya da --draft-json/--sources-json kullanın.")
-        nodes = [args.node] if args.node else M.priority_queue(tree, args.limit)
+            raise SystemExit("LLM yok: KB_LLM_PROVIDER=local (llama.cpp) ya da başka bir sağlayıcı ayarlayın, "
+                             "veya --draft-json/--sources-json kullanın.")
+        nodes = nodes or ([args.node] if args.node else M.priority_queue(tree, args.limit))
         for nid in nodes:
-            print(M.fill_node(cfg, tree, nid, llm, http, openalex))
+            t0 = time.time()
+            try:
+                res = M.fill_node(cfg, tree, nid, llm, http, openalex, keep_dropped=True)
+            except Exception as e:  # bir düğümün hatası diğerlerini durdurmaz
+                res = {"node": nid, "status": "error", "error": f"{type(e).__name__}: {e}"}
+            res["seconds"] = round(time.time() - t0, 1)
+            print(json.dumps({k: v for k, v in res.items() if k not in ("dropped_items", "draft", "source_list")},
+                             ensure_ascii=False))
+            report.append(res)
         st.save_counters()
+    if args.report:
+        json.dump(report, open(args.report, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
     kb.cmd_reindex()
+
+
+def cmd_verify_links(args):
+    """Doldurulmuş _index.md dosyalarındaki kaynak bağlantılarını doğrular (DOI → doi.org, diğer → HTTP)."""
+    import re
+    import urllib.parse
+    from kbresearch.sources import crossref
+    cfg, http = make(args)
+    tree = kb.Tree(with_research=False)
+    nodes = [l.strip() for l in open(args.nodes_file, encoding="utf-8") if l.strip()] if args.nodes_file else \
+        [n for n, v in tree.nodes.items() if v["meta"].get("content_status") == "ai_draft_sourced"]
+    bad, total = [], 0
+    for nid in nodes:
+        body = kb.parse_frontmatter(kb.read(os.path.join(kb.ROOT, tree.nodes[nid]["dir"], kb.INDEX)))[1]
+        refs = kb.get_section(body, 14) or ""
+        for doi in re.findall(r"https://doi\.org/(\S+)", refs):
+            total += 1
+            if not crossref.doi_registered(http, urllib.parse.unquote(doi.rstrip(".,)"))):
+                bad.append((nid, doi))
+        for url in re.findall(r"(https?://(?!doi\.org)\S+)", refs):
+            total += 1
+            r = http.get(url.rstrip(".,)"))
+            if r.status >= 400:
+                bad.append((nid, url))
+    print(json.dumps({"checked": total, "broken": bad}, ensure_ascii=False, indent=1))
+    return 1 if bad else 0
 
 
 def cmd_proposals(args):
@@ -181,6 +234,28 @@ def cmd_proposals(args):
     else:
         M.set_proposal_status(args.file, "rejected")
     kb.cmd_reindex()
+
+
+def cmd_backlog(args):
+    from kbresearch.backlog import Backlog, Ledger
+    cfg, _ = make(args)
+    led = Ledger(cfg.state_dir, cfg.today)
+    bl = Backlog(cfg, led)
+    if args.action == "restore":
+        n = bl.restore(tech=args.tech)
+        bl.save()
+        print(f"{n} kayıt defterden backlog'a alındı")
+        return
+    tree = kb.Tree(with_research=False)
+    per = {}
+    for e in bl.entries.values():
+        per[e["primary"]] = per.get(e["primary"], 0) + 1
+    ledger = led.read_all()
+    reasons = {}
+    for e in ledger:
+        reasons[e["ledger_reason"]] = reasons.get(e["ledger_reason"], 0) + 1
+    print(json.dumps({"backlog": len(bl), "techs": len(per), "top_techs": sorted(per.items(), key=lambda x: -x[1])[:10],
+                      "ledger": len(ledger), "ledger_reasons": reasons}, ensure_ascii=False, indent=1))
 
 
 def cmd_status(args):
@@ -225,17 +300,31 @@ def main(argv=None):
     p.add_argument("--title")
     p.add_argument("--title-tr")
     p.add_argument("--reason", default="")
+    p.add_argument("--force", action="store_true", help="olası (zayıf) çakışmaya rağmen ekle")
     p.set_defaults(fn=cmd_candidates)
     p = sub.add_parser("maintain")
     p.add_argument("--node")
     p.add_argument("--limit", type=int, default=3)
     p.add_argument("--draft-json")
     p.add_argument("--sources-json")
+    p.add_argument("--nodes", help="virgülle teknoloji id'leri")
+    p.add_argument("--nodes-file")
+    p.add_argument("--report")
+    p.add_argument("--from-report", help="önceki çalışmanın raporundaki taslakları LLM'siz uygula")
+    p.add_argument("--exclude-file", help="denetimde çıkarılacak alıntı parçaları (satır başına bir)")
+    p.add_argument("--mode", choices=["quote", "summary"])
     p.set_defaults(fn=cmd_maintain)
+    p = sub.add_parser("verify-links")
+    p.add_argument("--nodes-file")
+    p.set_defaults(fn=cmd_verify_links)
     p = sub.add_parser("proposals")
     p.add_argument("action", choices=["list", "apply", "reject"])
     p.add_argument("file", nargs="?")
     p.set_defaults(fn=cmd_proposals)
+    p = sub.add_parser("backlog")
+    p.add_argument("action", choices=["status", "restore"])
+    p.add_argument("--tech")
+    p.set_defaults(fn=cmd_backlog)
     sub.add_parser("status").set_defaults(fn=cmd_status)
     args = ap.parse_args(argv)
     return args.fn(args) or 0

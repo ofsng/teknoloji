@@ -1,0 +1,101 @@
+# Ücretsiz yerel LLM ile _index.md doldurma (llama.cpp + açık lisanslı model, runner CPU'sunda).
+# API anahtarı, hesap ya da ücret gerektirmez. Dosyalar SHA-256 ile doğrulanır ve önbelleğe alınır.
+# Pilot doğrulaması PR #2'de yapıldı (run 42302514951, 42311304315). Sonuçlar main'e yazılmaz: değişiklikler artifact olarak yüklenir ve insan incelemesiyle eklenir.
+name: llm-fill
+
+on:
+  workflow_dispatch:
+    inputs:
+      nodes_file:
+        description: "Doldurulacak düğüm listesi (repo içi yol)"
+        default: "tools/kbresearch/eval/pilot-nodes.txt"
+
+permissions:
+  contents: read
+
+concurrency:
+  group: llm-fill-${{ github.ref }}
+  cancel-in-progress: true
+
+env:
+  LLAMA_BUILD: b12179
+  LLAMA_SHA256: 5646c599b1dfdbdb3634f35ab634857639a830a66d1f9f13380673921348a2d2
+
+jobs:
+  fill:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - name: qwen3-4b-instruct-2507
+            url: https://huggingface.co/unsloth/Qwen3-4B-Instruct-2507-GGUF/resolve/main/Qwen3-4B-Instruct-2507-Q4_K_M.gguf
+            sha256: 3605803b982cb64aead44f6c1b2ae36e3acdb41d8e46c8a94c6533bc4c67e597
+    env:
+      OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
+      KB_LLM_PROVIDER: local
+      KB_LLM_MODEL: ${{ matrix.name }}
+      NODES_FILE: ${{ inputs.nodes_file || 'tools/kbresearch/eval/pilot-nodes.txt' }}
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+
+      - name: Model ve llama.cpp önbelleği
+        uses: actions/cache@v5
+        with:
+          path: ~/llm
+          key: llm-${{ env.LLAMA_BUILD }}-${{ matrix.sha256 }}
+
+      - name: İndir ve SHA-256 doğrula (önbellekte yoksa)
+        run: |
+          mkdir -p ~/llm && cd ~/llm
+          if [ ! -f model.gguf ]; then
+            curl -fsSL -o model.gguf "${{ matrix.url }}"
+          fi
+          echo "${{ matrix.sha256 }}  model.gguf" | sha256sum -c -
+          if [ ! -f llama.tar.gz ]; then
+            curl -fsSL -o llama.tar.gz "https://github.com/ggml-org/llama.cpp/releases/download/${LLAMA_BUILD}/llama-${LLAMA_BUILD}-bin-ubuntu-x64.tar.gz"
+          fi
+          echo "${LLAMA_SHA256}  llama.tar.gz" | sha256sum -c -
+          rm -rf bin && mkdir bin && tar -xzf llama.tar.gz -C bin
+          find bin -name llama-server -type f | head -1
+
+      - name: llama.cpp sunucusunu başlat
+        run: |
+          SERVER=$(find ~/llm/bin -name llama-server -type f | head -1)
+          LIBDIR=$(dirname "$SERVER")
+          LD_LIBRARY_PATH="$LIBDIR" nohup "$SERVER" -m ~/llm/model.gguf -c 12288 -t "$(nproc)" \
+            --host 127.0.0.1 --port 8080 --jinja --reasoning-budget 0 > "$RUNNER_TEMP/llama.log" 2>&1 &
+          for i in $(seq 1 120); do
+            curl -fs http://127.0.0.1:8080/health >/dev/null && break
+            sleep 2
+          done
+          curl -fs http://127.0.0.1:8080/health
+          nproc; grep -m1 "system_info" "$RUNNER_TEMP/llama.log" || true
+
+      - name: _index.md doldur
+        run: python3 tools/autokb.py maintain --nodes-file "$NODES_FILE" --report "$RUNNER_TEMP/fill-report.json"
+
+      - name: Doğrulama ve kaynak bağlantıları
+        run: |
+          python3 tools/kb.py check
+          python3 tools/autokb.py verify-links --nodes-file "$NODES_FILE" | tee "$RUNNER_TEMP/links.json"
+
+      - name: Sonuçları paketle
+        if: always()
+        run: |
+          mkdir -p "$RUNNER_TEMP/out"
+          git diff --name-only | tar -czf "$RUNNER_TEMP/out/changed-files.tar.gz" -T - 2>/dev/null || true
+          cp "$RUNNER_TEMP"/fill-report.json "$RUNNER_TEMP"/links.json "$RUNNER_TEMP"/llama.log "$RUNNER_TEMP/out/" 2>/dev/null || true
+          grep -E "prompt eval time|eval time" "$RUNNER_TEMP/llama.log" | tail -4 > "$RUNNER_TEMP/out/speed.txt" || true
+
+      - uses: actions/upload-artifact@v6
+        if: always()
+        with:
+          name: llm-fill-${{ matrix.name }}
+          path: ${{ runner.temp }}/out
+          retention-days: 14
