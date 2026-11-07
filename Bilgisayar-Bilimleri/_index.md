@@ -89,7 +89,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **39**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **58**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -99,14 +99,14 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
-- [H^2MARL: Hierarchical Heterogeneous Multi-agent Reinforcement Learning for Humanoid Robot Control](Yapay-Zeka/Makine-Ogrenmesi/Pekistirmeli-Ogrenme/Cok-Etmenli-Pekistirmeli-Ogrenme/Arastirmalar/2026-Hu-2MARL-Hierarchical-Heterogeneous-Multi.md) — Hu vd. (2026) · *arXiv* · ön baskı / hakemsiz
-- [Regulating Autonomous Mobility-on-Demand Operators with Fixed and Adaptive Penalties: A Multi-Agent Reinforcement Learning Approach](Yapay-Zeka/Makine-Ogrenmesi/Pekistirmeli-Ogrenme/Cok-Etmenli-Pekistirmeli-Ogrenme/Arastirmalar/2026-Kugler-Regulating-Autonomous-Mobility-Demand.md) — Kügler vd. (2026) · *arXiv* · ön baskı / hakemsiz
-- [Cooperative Multi-Agent Reinforcement Learning via Epigraph-Form Guided Exploration](Yapay-Zeka/Makine-Ogrenmesi/Pekistirmeli-Ogrenme/Cok-Etmenli-Pekistirmeli-Ogrenme/Arastirmalar/2026-Son-Cooperative-Multi-Agent-Reinforcement.md) — Son vd. (2026) · *arXiv* · ön baskı / hakemsiz
-- [How Well Can Large Language Models Impersonate Individual Authors? A Comparative Evaluation](Yapay-Zeka/Makine-Ogrenmesi/Temel-Modeller/Buyuk-Dil-Modelleri/Arastirmalar/2026-Gupta-How-Well-Can-Large.md) — Gupta vd. (2026) · *arXiv* · ön baskı / hakemsiz
-- [Graph-Mediated Large Language Model Systems in the Agentic Era: Reasoning, Knowledge, Retrieval, Execution, and Coordination](Yapay-Zeka/Makine-Ogrenmesi/Temel-Modeller/Buyuk-Dil-Modelleri/Arastirmalar/2026-Liu-Graph-Mediated-Large-Language.md) — Liu vd. (2026) · *arXiv* · ön baskı / hakemsiz
-- [Signed but Steerable: Measuring and Closing the Text-Vector Integrity Gap in Offline Retrieval-Augmented Generation](Yapay-Zeka/Makine-Ogrenmesi/Temel-Modeller/Buyuk-Dil-Modelleri/Erisimle-Zenginlestirilmis-Uretim/Arastirmalar/2026-Feretzakis-Signed-but-Steerable-Measuring.md) — Feretzakis vd. (2026) · *arXiv* · ön baskı / hakemsiz
-- [Weaver: Weaving Preference Evidence through Incremental Reasoning for Personalized Retrieval-Augmented Generation](Yapay-Zeka/Makine-Ogrenmesi/Temel-Modeller/Buyuk-Dil-Modelleri/Erisimle-Zenginlestirilmis-Uretim/Arastirmalar/2026-Zheng-Weaver-Weaving-Preference-Evidence.md) — Zheng vd. (2026) · *arXiv* · ön baskı / hakemsiz
-- [Batch-Conditioned Semantic Anchors for Robust Transductive Adaptation of Vision--Language Models](Yapay-Zeka/Makine-Ogrenmesi/Temel-Modeller/Cok-Kipli-Temel-Modeller/Goru-Dil-Modelleri/Arastirmalar/2026-Mohammad-Batch-Conditioned-Semantic-Anchors.md) — Mohammad vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [SoK: Post-Quantum Cryptography (PQC) Integration in Software Development: Approaches, Gaps, and Future Directions](Kriptografi/Kuantum-Sonrasi-Kriptografi/Arastirmalar/2026-N-SoK-Post-Quantum-Cryptography.md) — N. vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [SEER: A Scalable Event-Driven Runtime for Parallel Execution of Multi-Agent Reinforcement Learning Environments](Yapay-Zeka/Makine-Ogrenmesi/Pekistirmeli-Ogrenme/Cok-Etmenli-Pekistirmeli-Ogrenme/Arastirmalar/2026-Su-SEER-Scalable-Event-Driven.md) — Su vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [FedReason: Large Language Models as Weight-Space Meta-Aggregators for Heterogeneous Federated Learning](Yapay-Zeka/Makine-Ogrenmesi/Temel-Modeller/Buyuk-Dil-Modelleri/Arastirmalar/2026-Ruzbahani-FedReason-Large-Language-Models.md) — Ruzbahani vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [Benchmarking Large Language Models on Heterogeneous Cognitive and Biomedical Knowledge Graphs: The Role of Graph Grounding in Multi-Hop Reasoning and Hallucination Mitigation](Yapay-Zeka/Makine-Ogrenmesi/Temel-Modeller/Buyuk-Dil-Modelleri/Arastirmalar/2026-Sarabadani-Benchmarking-Large-Language-Models.md) — Sarabadani vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [Encoding and Propagation of Grammatical Number in Large Language Models](Yapay-Zeka/Makine-Ogrenmesi/Temel-Modeller/Buyuk-Dil-Modelleri/Arastirmalar/2026-Solinsky-Encoding-and-Propagation-Grammatical.md) — Solinsky vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [When, Where, How: Active In-Context Learning for Tabular Foundation Models](Yapay-Zeka/Makine-Ogrenmesi/Temel-Modeller/Buyuk-Dil-Modelleri/Baglam-Ici-Ogrenme/Arastirmalar/2026-Frey-When-Where-How-Active.md) — Frey (2026) · *arXiv* · ön baskı / hakemsiz
+- [CacheGraft: Enhancing Retrieval-Augmented Generation via Latent-Space Document Enrichment](Yapay-Zeka/Makine-Ogrenmesi/Temel-Modeller/Buyuk-Dil-Modelleri/Erisimle-Zenginlestirilmis-Uretim/Arastirmalar/2026-Lakshman-CacheGraft-Enhancing-Retrieval-Augmente.md) — Lakshman vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [ZeroRAG: Adaptive Semantic Peer Routing for Decentralized Retrieval-Augmented Generation](Yapay-Zeka/Makine-Ogrenmesi/Temel-Modeller/Buyuk-Dil-Modelleri/Erisimle-Zenginlestirilmis-Uretim/Arastirmalar/2026-Neague-ZeroRAG-Adaptive-Semantic-Peer.md) — Neague vd. (2026) · *arXiv*
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

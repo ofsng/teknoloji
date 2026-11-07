@@ -85,5 +85,47 @@
    "visual-inertial-odometry": 1,
    "wireless-sensor-networks": 1
   }
+ },
+ "2026-11-07": {
+  "archived": 37,
+  "backfill": 0,
+  "by_source": {
+   "arxiv": 17,
+   "openalex": 20
+  },
+  "llm_calls": 0,
+  "llm_usd": 0.0,
+  "per_tech": {
+   "active-learning": 1,
+   "dark-matter": 1,
+   "dye-sensitized-solar-cells": 1,
+   "empirical-software-engineering": 1,
+   "floating-offshore-wind": 1,
+   "genetic-testing": 1,
+   "graphene-oxide": 1,
+   "gravitational-waves": 3,
+   "in-context-learning": 1,
+   "large-language-models": 3,
+   "markov-chains": 1,
+   "mobile-health": 1,
+   "model-predictive-control": 1,
+   "multi-agent-reinforcement-learning": 1,
+   "named-entity-recognition": 2,
+   "natural-language-processing": 1,
+   "object-detection": 1,
+   "plasma-etching": 1,
+   "post-quantum-cryptography": 1,
+   "pulsar-timing-arrays": 1,
+   "quantum-networks": 1,
+   "reinforcement-learning": 1,
+   "reinforcement-learning-from-human-feedback": 1,
+   "retrieval-augmented-generation": 3,
+   "runge-kutta-methods": 1,
+   "shape-memory-alloys": 1,
+   "stochastic-gradient-methods": 1,
+   "superconducting-qubits": 1,
+   "vision-language-action-models": 1,
+   "vision-language-models": 1
+  }
  }
 }

@@ -26,7 +26,7 @@ collected_at: 2026-11-05
 last_checked_at: 2026-11-05
 content_verified: false
 identifier_verified: crossref
-retraction_checked: 2026-11-05
+retraction_checked: 2026-11-07
 ---
 
 # Mapping the evidence on implementation of clinical decision support systems in nurses' reverse triage decisions during disaster surges: A scoping review with a proposed conceptual framework

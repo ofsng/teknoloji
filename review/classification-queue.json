@@ -3663,5 +3663,1886 @@
   "suggested": "retrieval-augmented-generation",
   "title": "AssameseLM-E2B: An Open-Weight Assamese Language Model for Efficient Consumer-Grade Deployment",
   "url": "https://arxiv.org/abs/2611.06170"
+ },
+ {
+  "added": "2026-11-07",
+  "arxiv": "2611.07277",
+  "candidates": [
+   [
+    "graph-neural-networks",
+    10.48
+   ],
+   [
+    "integrated-sensing-and-communication",
+    8.54
+   ],
+   [
+    "optimization",
+    0.26
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.07277",
+   "title:graphneuralnetworksforresourceallocationinintegratedsensingandcommunication|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "In vehicular integrated sensing and communication (ISAC) networks, each service-provider vehicle uses a limited power budget to serve multiple sensing targets and communication receivers. Maximizing the communication sum-rate subject to sensing signal-to-interference-plus-noise ratio (SINR) constraints is nonconvex, and iterative optimization is costly to rerun for every network layout. This paper proposes a graph neural network (GNN)-based power allocation algorithm, termed GNN-ISAC. Concretely, GNN-ISAC addresses the aforementioned problem by considering two distinct edge types in the graph representation, one capturing the inter-provider interference, the other representing the intra-provider power-budget sharing. GNN-ISAC is trained without labels using a sensing-penalized sum-rate loss. We also adapt the weighted mean-square error minimization (WMMSE) algorithm to this problem by introducing a sensing-power reservation step. Simulation results show that GNN-ISAC achieves communication sum-rates close to WMMSE with low sensing-link violation rates and much less computation. It also outperforms an existing heterogeneous GNN and a channel-blind baseline, and generalizes to larger networks without retraining.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.07277",
+   "authors": [
+    "Junyu Liao",
+    "Lili Chen",
+    "Tian Han",
+    "Jamie Evans"
+   ],
+   "categories": [
+    "arXiv:cs.LG",
+    "arXiv:cs.IT"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-05",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.07277"
+   ],
+   "title": "Graph Neural Networks for Resource Allocation in Integrated Sensing and Communication",
+   "topics": [],
+   "updated_date": "2026-11-05",
+   "url": "https://arxiv.org/abs/2611.07277"
+  },
+  "suggested": "graph-neural-networks",
+  "title": "Graph Neural Networks for Resource Allocation in Integrated Sensing and Communication",
+  "url": "https://arxiv.org/abs/2611.07277"
+ },
+ {
+  "added": "2026-11-07",
+  "arxiv": "2611.07509",
+  "candidates": [
+   [
+    "dark-matter",
+    7.9
+   ],
+   [
+    "gravitational-waves",
+    7.9
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.07509",
+   "title:scaleinvariantthreecomponentdarkmatterandgravitationalwavesignals|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "We study a classically scale-invariant extension of the Standard Model (SM) with four new fields in a hidden sector: a complex scalar $S$, two Dirac fermions $ψ^{1,2}$ and the gauge boson $V_μ$ of a new $U(1)_D$ symmetry. The scalar $S$ couples to the SM through the Higgs portal. We identify regions of parameter space in which $V_μ$, $ψ^1$ and $ψ^2$ are all stable, giving a three-component dark matter (DM) scenario. The model is classically scale invariant, and the electroweak symmetry breaks because of the loop effects. We impose the observed relic density and current direct detection bounds, and then study the finite temperature effective potential. For a benchmark point, we find a first-order phase transition and compute the resulting gravitational wave (GW) spectrum, which we compare with the projected sensitivities of space-based interferometers. Although the viable parameter space is small, it can be probed by future experiments.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.07509",
+   "authors": [
+    "Mojtaba Hosseini",
+    "Rouzbeh Rouzbehi"
+   ],
+   "categories": [
+    "arXiv:hep-ph",
+    "arXiv:astro-ph.CO"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-05",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.07509"
+   ],
+   "title": "Scale-Invariant Three-Component Dark Matter and Gravitational Wave Signals",
+   "topics": [],
+   "updated_date": "2026-11-05",
+   "url": "https://arxiv.org/abs/2611.07509"
+  },
+  "suggested": "dark-matter",
+  "title": "Scale-Invariant Three-Component Dark Matter and Gravitational Wave Signals",
+  "url": "https://arxiv.org/abs/2611.07509"
+ },
+ {
+  "added": "2026-11-07",
+  "arxiv": "2611.07653",
+  "candidates": [
+   [
+    "drug-discovery",
+    5.4
+   ],
+   [
+    "autonomous-systems",
+    1.2
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.07653",
+   "title:pharmagents2towardsautonomousendtoenddrugdiscovery|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Drug discovery requires continuous scientific decision-making across a vast research space. We introduce PharmAgents2, an autonomous system for end-to-end drug discovery that combines knowledge-enhanced decision-making with organized large-scale exploration. Paper2Skill extracts transferable scientific decision knowledge from public sources and, together with expert-developed skills, supports research decisions. Self-Scaling Discovery expands exploration through parallel agents inheriting research context and decision-making capabilities across targets, scientific hypotheses, and discovery strategies. We introduce PharmAgents-Bench v0.1, comprising 121 questions across nine decision scenarios and three end-to-end tasks assessed with expert-defined process rubrics. PharmAgents2 outperforms evaluated baselines in most decision categories and achieves the highest process scores on all three end-to-end tasks. In three real-world studies, autonomous investigations generated findings subsequently supported by human-executed experiments. For LpxH, PharmAgents2 hypothesized a previously unreported allosteric site and screened compounds against it, identifying a novel inhibitor scaffold with experimentally confirmed inhibitory activity and binding. For JAK1, it prioritized a covalent inhibition strategy and nominated compounds with experimentally demonstrated activity. Starting from a known bioactive molecule, Self-Scaling Discovery explored candidate targets across the proteome and identified a new binding target, with the interaction subsequently confirmed experimentally. PharmAgents2 represents a prototype of a virtual pharmaceutical company, marking a step toward autonomous end-to-end drug discovery.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.07653",
+   "authors": [
+    "Haichuan Tan",
+    "Bowen Gao",
+    "Tao Huang",
+    "Jiaxin Tan",
+    "Xin Hong",
+    "Baoguo Yao",
+    "Yifei Wang",
+    "Zhichao Deng",
+    "Hanji Du",
+    "Dapeng Jiang",
+    "Yiheng Li",
+    "Weiwei Ma",
+    "Xin Ma",
+    "Yuqi Shi",
+    "Zixiang Wang",
+    "Kelin Wu",
+    "Tianxiang Wu",
+    "Wenxuan Xie",
+    "Jie Zang",
+    "Huiyu Zhang",
+    "Mojia Zhang",
+    "Yuying Zhang",
+    "Ya-Qin Zhang",
+    "Wei-Ying Ma",
+    "Yanyan Lan"
+   ],
+   "categories": [
+    "arXiv:cs.AI",
+    "arXiv:q-bio.QM"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-05",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.07653"
+   ],
+   "title": "PharmAgents2: Towards Autonomous End-to-End Drug Discovery",
+   "topics": [],
+   "updated_date": "2026-11-05",
+   "url": "https://arxiv.org/abs/2611.07653"
+  },
+  "suggested": "drug-discovery",
+  "title": "PharmAgents2: Towards Autonomous End-to-End Drug Discovery",
+  "url": "https://arxiv.org/abs/2611.07653"
+ },
+ {
+  "added": "2026-11-07",
+  "arxiv": "2611.07465",
+  "candidates": [
+   [
+    "contrastive-learning",
+    5.28
+   ],
+   [
+    "quantum-chromodynamics",
+    2.1
+   ],
+   [
+    "machine-learning",
+    1.2
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.07465",
+   "title:optimaltransportcontrastivelearningforcentralitydeterminationinheavyioncollisions|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Determining centrality of heavy-ion collisions with high resolution is essential for event-by-event analyses, in particular for net-proton fluctuation measurements aimed at locating the QCD critical point. Supervised machine-learning approaches rely on labels generated by model and therefore inherit the model dependence of the training target. In this work, we propose an unsupervised method to determine collision centrality based on optimal transport. Each collision is represented by its 1-Wasserstein distances to a fixed set of landmark events chosen to cover the measured multiplicity range. A point-cloud network trained by contrastive learning then compresses these distances into a compact event embedding, which is partitioned into equal-size centrality classes. We find that this approach groups events with similar $N_{\\rm part}$ and yields a better centrality resolution, quantified by the normalized width of the $N_{\\rm part}$ distribution, than the conventional method of cutting on particle multiplicity. The method, however, encounters a bottleneck once realistic kinematic cuts are applied to the particles. We attribute this degraded performance to the loss of distinct features between central and peripheral collisions because of applying kinematic cuts. The application of optimal transport to centrality determination in experimental data, remains an open problem that needs further study.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.07465",
+   "authors": [
+    "Shu-Yun Yang",
+    "Yu Zhang"
+   ],
+   "categories": [
+    "arXiv:hep-ph"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-05",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.07465"
+   ],
+   "title": "Optimal-Transport Contrastive Learning for Centrality Determination in Heavy-Ion Collisions",
+   "topics": [],
+   "updated_date": "2026-11-05",
+   "url": "https://arxiv.org/abs/2611.07465"
+  },
+  "suggested": "contrastive-learning",
+  "title": "Optimal-Transport Contrastive Learning for Centrality Determination in Heavy-Ion Collisions",
+  "url": "https://arxiv.org/abs/2611.07465"
+ },
+ {
+  "added": "2026-11-07",
+  "arxiv": "2611.07444",
+  "candidates": [
+   [
+    "long-short-term-memory",
+    5.12
+   ],
+   [
+    "machine-learning",
+    3.1
+   ],
+   [
+    "gaussian-processes",
+    1.2
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.07444",
+   "title:twostageresiduallearningforcalibrateduncertaintyinsolarirradianceforecasts|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Accurate forecasting of renewable generation requires not only point predictions but also reliable estimates of the uncertainty attached to them, particularly at extended horizons. Machine learning models are increasingly used to predict solar output, but they typically report a single value and capture the associated uncertainty poorly. The standard remedy is to train a model to predict the parameters of an assumed probability distribution directly. Here we develop an alternative two-stage method, motivated by synthetic solar signal generation, in which the forecast error is modeled separately from the expected irradiance. A first long short-term memory (LSTM) network predicts the expected global horizontal irradiance, and a second network models the distribution of the forecast error, which is added back to the mean to give both the forecast and its uncertainty. Using historical weather data from the National Solar Radiation Database and a probability integral transform evaluation, we show that explicitly modeling the error brings the predicted standard deviation markedly closer to the historical value, reducing the deviation between the two by 34.6 percent for a standalone LSTM and by 56.5 percent when the LSTM is coupled to Gaussian process regression, the most reliable of the configurations tested. Because the method models the total forecast error directly, it captures the full predictive uncertainty that matters for decisions, rather than only the model contribution that dropout-based approaches estimate.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.07444",
+   "authors": [
+    "RR Flanagan",
+    "E Kasha",
+    "PW Talbot",
+    "AS Epiny",
+    "MR Deinert"
+   ],
+   "categories": [
+    "arXiv:cs.LG",
+    "arXiv:eess.SY"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-05",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.07444"
+   ],
+   "title": "Two-stage residual learning for calibrated uncertainty in solar irradiance forecasts",
+   "topics": [],
+   "updated_date": "2026-11-05",
+   "url": "https://arxiv.org/abs/2611.07444"
+  },
+  "suggested": "long-short-term-memory",
+  "title": "Two-stage residual learning for calibrated uncertainty in solar irradiance forecasts",
+  "url": "https://arxiv.org/abs/2611.07444"
+ },
+ {
+  "added": "2026-11-07",
+  "arxiv": "2611.07428",
+  "candidates": [
+   [
+    "space-weather",
+    5.1
+   ],
+   [
+    "antennas",
+    0.52
+   ],
+   [
+    "electromagnetics",
+    0.33
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.07428",
+   "title:preliminarygoniopolarimetricsimulationsforspaceweatherradioswarapolarimeter|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Goniopolarimetry is a technique that measures the direction-of-arrival (DoA) using the polarization properties of the incident electromagnetic (EM) waves. This study aims to incorporate the technique of Goniopolarimetry for our proposed polarimeter, Space Weather Radio (SWARA) Polarimeter, to provide early warnings for space weather or solar events. We have performed preliminary simulations for a tri-monopole antenna configuration. The behaviour of the tri-monopole antenna with varying signal-to-noise (SNR) ratios along the field-of-view (FOV) was investigated using simulations. The angular localization error (ALE) variations, along with SNRs, were simulated to quantify the sensitivity of the Goniopolarimetric algorithm to galactic background noise. Future work will focus on determining the optimum effective length of the individual monopoles to maximize sensitivity and localization accuracy while ensuring efficient impedance matching with the receiver. The optimized antenna will be evaluated under realistic plasma environments through electromagnetic and plasma simulations to investigate the influence of plasma parameters.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.07428",
+   "authors": [
+    "Poorva Singh",
+    "Mugundhan V.",
+    "Anshu Kumari"
+   ],
+   "categories": [
+    "arXiv:astro-ph.IM"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-05",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.07428"
+   ],
+   "title": "Preliminary Goniopolarimetric Simulations for Space Weather Radio (SWARA) Polarimeter",
+   "topics": [],
+   "updated_date": "2026-11-05",
+   "url": "https://arxiv.org/abs/2611.07428"
+  },
+  "suggested": "space-weather",
+  "title": "Preliminary Goniopolarimetric Simulations for Space Weather Radio (SWARA) Polarimeter",
+  "url": "https://arxiv.org/abs/2611.07428"
+ },
+ {
+  "added": "2026-11-07",
+  "arxiv": "2611.07674",
+  "candidates": [
+   [
+    "stochastic-processes",
+    5.1
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.07674",
+   "title:instrumentalvariablesincontinuoustimestochasticprocesses|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Causal questions often arise in systems that evolve in continuous time. While instrumental variable (IV) methods provide a principled approach to identify causal effects in static or discrete-time settings, even in the presence of unobserved confounding, they do not yet extend to continuous-time dynamics. In this work, we develop an IV framework for stationary continuous-time stochastic processes parameterized by stochastic differential equations (SDE), where the instrument itself takes the form of a stochastic process. We encode the structural sparsity and causal effects directly at the infinitesimal level of the drift, and contrast these assumptions with the IV assumptions on the discretized version of the same process. Based on these structural assumptions, we derive moment restrictions using path-valued instruments. We show how these restrictions simplify for Ornstein-Uhlenbeck processes and present an identification condition together with a corresponding consistent estimation method. Finally, we extend our estimation framework to nonlinear causal effects by expressing the path-based moment restrictions leveraging the signature kernel. Empirically, our method recovers causal effects in confounded continuous-time systems where maximum-likelihood-based estimation and discrete-time IV methods are systematically biased.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.07674",
+   "authors": [
+    "Lars Pennig",
+    "Søren Wengel Mogensen",
+    "Niki Kilbertus"
+   ],
+   "categories": [
+    "arXiv:cs.LG"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-05",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.07674"
+   ],
+   "title": "Instrumental Variables in Continuous-Time Stochastic Processes",
+   "topics": [],
+   "updated_date": "2026-11-05",
+   "url": "https://arxiv.org/abs/2611.07674"
+  },
+  "suggested": "stochastic-processes",
+  "title": "Instrumental Variables in Continuous-Time Stochastic Processes",
+  "url": "https://arxiv.org/abs/2611.07674"
+ },
+ {
+  "added": "2026-11-07",
+  "arxiv": "2611.07577",
+  "candidates": [
+   [
+    "integrated-sensing-and-communication",
+    5.02
+   ],
+   [
+    "modulation",
+    1.85
+   ],
+   [
+    "analysis",
+    0.79
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.07577",
+   "title:whendoesinterbsinterferencehurtsensinginisacanexactfisherinformationanalysisunderfinitealphabetinterference|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "In networked integrated sensing and communication (ISAC), a base station (BS) performing sensing using its own downlink signals is subject to interference from the downlink transmissions of neighboring BSs. This paper investigates the impact of the signal constellation and waveform on the sensing performance in the presence of such inter-BS interference. For any linear receiver, we show that the mean-squared cross-ambiguity between two random ISAC signals is invariant to the modulation bases and constellations. We then derive the exact Fisher information under finite-alphabet interference with a flat-fading link, which equals the interference-free Fisher information scaled by $1-γ\\,\\mmse_{\\C}(γ)$, where $γ$ denotes the interference-to-noise ratio (INR) and $\\mmse_{\\C}$ is the minimum mean-square error (MMSE) in estimating an interfering data symbol from its noise-corrupted observation at the sensing receiver. Consequently, Gaussian interference is the worst case and corresponds to the CRB loss of the matched filtering, whereas finite-alphabet interference induces a non-monotonic CRB loss that peaks at intermediate INR and vanishes at high INR. The loss is waveform-independent for the flat-fading BS-BS link, and an expectation-maximization (EM) interference-cancellation receiver approaches the theoretical bound for delay estimation.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.07577",
+   "authors": [
+    "Kawon Han",
+    "Kaitao Meng",
+    "Fan Liu",
+    "Christos Masouros"
+   ],
+   "categories": [
+    "arXiv:eess.SP"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-05",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.07577"
+   ],
+   "title": "When Does Inter-BS Interference Hurt Sensing in ISAC? An Exact Fisher Information Analysis under Finite-Alphabet Interference",
+   "topics": [],
+   "updated_date": "2026-11-05",
+   "url": "https://arxiv.org/abs/2611.07577"
+  },
+  "suggested": "integrated-sensing-and-communication",
+  "title": "When Does Inter-BS Interference Hurt Sensing in ISAC? An Exact Fisher Information Analysis under Finite-Alphabet Interference",
+  "url": "https://arxiv.org/abs/2611.07577"
+ },
+ {
+  "added": "2026-11-07",
+  "arxiv": "2611.07734",
+  "candidates": [
+   [
+    "high-voltage-direct-current",
+    5.02
+   ],
+   [
+    "voltage-source-converter-hvdc",
+    3.51
+   ],
+   [
+    "state-space-models",
+    1.65
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.07734",
+   "title:datadrivencurrentcontrolofmodularmultilevelconverterbasedhvdctransmissionsystem|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Model-based design (MBD) is a mature framework for designing the current controllers of modular multilevel converters (MMCs) in high-voltage direct current (HVDC) transmission systems. In MBD, linear state-space models are preferred for their good trade-off between accurate dynamics prediction and simplicity. However, first-principle derivations often neglect relevant MMC dynamics, which can hinder controller performance. Data-driven (DD) methods can deliver less biased models that capture parameter uncertainties, control-loop interactions, and grid dynamics, yet they remain under-exploited for controlling MMC currents. This paper studies DD current control method based on integral Subspace Predictive Control (iSPC), synthesized directly from input--output data measured in a high fidelity real-time digital simulator (RTDS), and proposes an initial guideline outlining the main steps for its systematic application to MMC current control. The proposed iSPC is compared against state-of-the-art DD solution, and the findings are validated through simulation studies in MATLAB/Simulink.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.07734",
+   "authors": [
+    "Victor D. Reyes Dreke",
+    "Rahul Rane",
+    "Aleksandra Lekić"
+   ],
+   "categories": [
+    "arXiv:eess.SY"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-05",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.07734"
+   ],
+   "title": "Data-driven current control of modular multilevel converter-based HVDC transmission system",
+   "topics": [],
+   "updated_date": "2026-11-05",
+   "url": "https://arxiv.org/abs/2611.07734"
+  },
+  "suggested": "high-voltage-direct-current",
+  "title": "Data-driven current control of modular multilevel converter-based HVDC transmission system",
+  "url": "https://arxiv.org/abs/2611.07734"
+ },
+ {
+  "added": "2026-11-07",
+  "arxiv": "2611.07438",
+  "candidates": [
+   [
+    "decoder-only-transformers",
+    4.95
+   ],
+   [
+    "power-transformers",
+    1.05
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.07438",
+   "title:polygptadecoderonlytransformerforpolymerelectrolytedesign|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Designing polymer electrolytes requires control over both material properties and chemical structure. Here, we present PolyGPT, a Transformer with 38.3 million parameters that generates polymer repeat units from optional property targets, requests to include or exclude a specified chemical feature, and an electrolyte-domain condition. Using the model selected by validation loss, we compared unconditional generation with requests for electrolyte-associated structures, a low glass-transition temperature (Tg), or both. Unconditional and electrolyte-only generation achieved structural validity of 99.46% and 99.59%, respectively. However, electrolyte conditioning increased repetition: uniqueness among valid outputs fell from 99.99% to 51.74%. At a Tg target of 246.11 K, we compared generation with and without electrolyte conditioning, and adding the electrolyte condition slightly reduced the predictor-estimated mean absolute error from 26.97 to 26.07 K, but the fraction of all attempts yielding distinct valid polymers within 50 K of the target fell from 82.35% to 32.31%. When we also required absence from the training catalog, these yields were 59.90% and 19.71%, respectively. The lower yield persisted with a tighter 25 K tolerance. Domain conditioning also weakened control of inclusion requests: the mean fraction of attempts producing valid polymers containing the requested chemical feature fell from 94.27% to 31.27%. Across nine checkpoints, earlier models sometimes produced more distinct, catalog-unseen polymers meeting the Tg target: 10,000 checkpoint model with electrolyte conditioning and 30,000 checkpoint model without it. Together, these results show why property error alone is insufficient for evaluating conditional polymer generation. It must be considered alongside repetition, training-catalog novelty, and whether combined design requests are satisfied.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.07438",
+   "authors": [
+    "Tanmay Sarkar Akash",
+    "Siddhartha Das"
+   ],
+   "categories": [
+    "arXiv:cond-mat.mtrl-sci",
+    "arXiv:physics.chem-ph"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-05",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.07438"
+   ],
+   "title": "PolyGPT: A Decoder-Only Transformer for Polymer Electrolyte Design",
+   "topics": [],
+   "updated_date": "2026-11-05",
+   "url": "https://arxiv.org/abs/2611.07438"
+  },
+  "suggested": "decoder-only-transformers",
+  "title": "PolyGPT: A Decoder-Only Transformer for Polymer Electrolyte Design",
+  "url": "https://arxiv.org/abs/2611.07438"
+ },
+ {
+  "added": "2026-11-07",
+  "arxiv": "2611.07392",
+  "candidates": [
+   [
+    "text-to-image-generation",
+    4.94
+   ],
+   [
+    "mixture-of-experts",
+    3.7
+   ],
+   [
+    "foundation-models",
+    3.1
+   ],
+   [
+    "clustering",
+    1.85
+   ],
+   [
+    "distillation",
+    0.33
+   ],
+   [
+    "power-transformers",
+    0.26
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.07392",
+   "title:welmimageaunifiedimagegenerationmodeltowardsvisualintelligence|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "We present \\textbf{WeLM-Image}, a unified image foundation model that integrates multimodal understanding into text-to-image generation, instruction-guided editing, and multi-reference synthesis. Designed for single-GPU deployment in WeChat's large-scale consumer applications, the model processes text, reference images, and target latents as one interleaved sequence. A Mixture-of-Transformers (MoT) backbone combines shared attention with independent understanding and generation parameters to limit optimization interference. Equipping each path with Mixture-of-Experts (MoE) modules provides sparse capacity, with 31.7B stored parameters and approximately 5.4B generation parameters activated per target latent token. A generation-oriented data engine combines a knowledge-grounded visual vocabulary with large-scale visual clustering to balance semantic coverage and editing tasks, while training-time evaluation guides iterative data refinement. Bilingual annotations and verified editing supervision support progressive training up to native 1.5K resolution. We optimize generation and editing separately with rubric- and checklist-based rewards, then consolidate the specialized policies through noise-aware on-policy distillation. In the reported overall comparisons, the 1536-resolution model ranks first among the evaluated open-source models on PRISM-Bench, Qwen-Image-Bench, and UnicBench. MeanFlow-based few-step distillation yields WeLM-Image-Turbo, which generates a $1024\\times1024$ image in 4.98\\,s on a single NVIDIA H20 GPU using eight guidance-free steps.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.07392",
+   "authors": [
+    "Canmiao Fu",
+    "Chen Li",
+    "Guohui Zhang",
+    "Hao Lu",
+    "Hongyang Wei",
+    "Huadong Wu",
+    "Huaisong Zhang",
+    "Hubery Yin",
+    "Liyuan Cui",
+    "Qixin Yan",
+    "Tong Shao",
+    "Xiaoqiang Zhou",
+    "Xinhang Leng",
+    "Ying Zhang",
+    "Zhenhai Liu",
+    "Zhipeng Huang"
+   ],
+   "categories": [
+    "arXiv:cs.CV",
+    "arXiv:cs.AI"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-05",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.07392"
+   ],
+   "title": "WeLM-Image: A Unified Image Generation Model towards Visual Intelligence",
+   "topics": [],
+   "updated_date": "2026-11-05",
+   "url": "https://arxiv.org/abs/2611.07392"
+  },
+  "suggested": "text-to-image-generation",
+  "title": "WeLM-Image: A Unified Image Generation Model towards Visual Intelligence",
+  "url": "https://arxiv.org/abs/2611.07392"
+ },
+ {
+  "added": "2026-11-07",
+  "arxiv": "2611.07607",
+  "candidates": [
+   [
+    "block-codes",
+    4.86
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.07607",
+   "title:combinatoriallimitationsoflistdecodingreedsolomoncodes|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "For infinitely many rates $R \\in (0,1)$, we show that full-length Reed-Solomon codes over fields of low characteristic can contain super-polynomially many codewords in a Hamming ball of radius just exceeding the Johnson radius. Over prime fields, we exhibit full-length Reed-Solomon codes of constant rate $R$ with polynomially many codewords in a Hamming ball of relative radius bounded strictly below $1-R$. This refutes a recent conjecture that, over prime fields, list sizes below capacity are always bounded by a constant. Together, these results demonstrate that certain restrictions in recent works on explicit Reed-Solomon codes achieving list-decoding capacity, related to the choice of field or evaluation points or to the list-size guarantee, are inherent.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.07607",
+   "authors": [
+    "Omar Alrabiah",
+    "Rohan Goyal",
+    "Venkatesan Guruswami"
+   ],
+   "categories": [
+    "arXiv:cs.IT",
+    "arXiv:cs.CC"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-05",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.07607"
+   ],
+   "title": "Combinatorial limitations of list-decoding Reed-Solomon codes",
+   "topics": [],
+   "updated_date": "2026-11-05",
+   "url": "https://arxiv.org/abs/2611.07607"
+  },
+  "suggested": "block-codes",
+  "title": "Combinatorial limitations of list-decoding Reed-Solomon codes",
+  "url": "https://arxiv.org/abs/2611.07607"
+ },
+ {
+  "added": "2026-11-07",
+  "arxiv": "2611.07311",
+  "candidates": [
+   [
+    "ray-tracing",
+    4.8
+   ],
+   [
+    "orthogonal-time-frequency-space",
+    4.48
+   ],
+   [
+    "channel-modeling",
+    3.1
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.07311",
+   "title:anovelbvhaccelerateddynamicraytracingchannelmodelforvehicularcommunicationsystems|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Accurate and efficient channel modeling is critical for evaluating the sixth-generation (6G) networks, while dynamic ray-tracing (DRT) remains bottlenecked by its reliance on channel coherence time. To address this limitation, this paper proposes a novel bounding volume hierarchy-accelerated DRT (BVH-DRT), which introduces a mechanism shift from a time-driven update in DRT to a spatial-driven update. The proposed channel model clusters complex scatterers using the BVH method as pre-processing to establish a geometric coherence distance guided by transceiver kinematics, so that the ray update intervals in BVH-DRT can be autonomously adjusted to reduce the complexity. Furthermore, the non-stationary channel impulse responses are generated to evaluate delay-Doppler (DD) domain waveforms, including orthogonal time frequency space (OTFS) and orthogonal delay-Doppler division multiplexing (ODDM). Validations in vehicle-to-vehicle (V2V) scenarios demonstrate that BVH-DRT achieves spatial-temporal consistency with measurements and commercial software while significantly enhancing computational efficiency. Additionally, bit error rate (BER) evaluation highlights the severe impact of high-dynamic channels on waveform performance. The proposed framework is important for designing reliable communications and robust sensing in 6G networks.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.07311",
+   "authors": [
+    "Songjiang Yang",
+    "Cheng-Xiang Wang",
+    "Yinghua Wang",
+    "Chen Wang",
+    "Jie Huang",
+    "Yunfei Chen"
+   ],
+   "categories": [
+    "arXiv:eess.SP"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-05",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.07311"
+   ],
+   "title": "A Novel BVH-accelerated Dynamic Ray-Tracing Channel Model for Vehicular Communication Systems",
+   "topics": [],
+   "updated_date": "2026-11-05",
+   "url": "https://arxiv.org/abs/2611.07311"
+  },
+  "suggested": "ray-tracing",
+  "title": "A Novel BVH-accelerated Dynamic Ray-Tracing Channel Model for Vehicular Communication Systems",
+  "url": "https://arxiv.org/abs/2611.07311"
+ },
+ {
+  "added": "2026-11-07",
+  "arxiv": "2611.07357",
+  "candidates": [
+   [
+    "computed-tomography",
+    4.8
+   ],
+   [
+    "ct-image-reconstruction",
+    3.27
+   ],
+   [
+    "deep-learning",
+    1.2
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.07357",
+   "title:evaluationofimagenoisefromcomputedtomographyinanorganspecificanthropomorphicphantom|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Computed tomography (CT) is used ubiquitously for diagnostic imaging, with novel iterative reconstructions such as hybrid iterative reconstruction with partial model-based component (ASiR-V) and deep learning image reconstruction (DLIR) increasingly utilized. In conjunction, CT vendors have developed a noise index (NI) to reduce radiation dose during protocol development. However, it is unclear how these reconstruction algorithms reduce noise as NI changes, particularly across multiple organs. The goal of this study was to utilize an anthropomorphic phantom to evaluate image noise against the prescribed NI across different organs, determine if DLIR reduces image noise compared to ASiR-V, and use this relationship to determine the maximum volume CT dose index (CTDIvol) reduction at equivalent noise levels. Repeat images were acquired on a GE HealthCare Revolution Apex CT scanner across NI values in an anthropomorphic adult-sized phantom from Kyoto Kagaku with ASiR-V and DLIR. Organs-of-interest were contoured using TotalSegmentator in 3D Slicer. The correlation between the CTDIvol and NI was determined. The standard deviation of the difference in the repeat images was used as a noise metric (NM), correlated with NI, used to determine the NI at equivalent NM between ASiR-V and DLIR, then applied to determine the dose reduction and difference in NM. The relationship between NI and the resulting CTDIvol was found to be proportional to a power law of exponent -2.23. The maximum potential absolute dose reduction from using DLIR was found in the liver at 1.3 mGy with an NI of 7.9. Across all organs, the relative dose reduction increased, the NM-to-NI ratio decreased, and the noise reduction increased across NI. The relationship between image noise and the prescribed NI differed between ASiR-V and DLIR and varied by organ, with model-based dose reductions of up to 1.3 mGy in the liver.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.07357",
+   "authors": [
+    "Lucas McCullum",
+    "Mojtaba Zarei",
+    "Andy Tsai",
+    "Michael J. Callahan",
+    "Peng Sun",
+    "Da Zhang"
+   ],
+   "categories": [
+    "arXiv:physics.med-ph"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-05",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.07357"
+   ],
+   "title": "Evaluation of Image Noise from Computed Tomography in an Organ-Specific Anthropomorphic Phantom",
+   "topics": [],
+   "updated_date": "2026-11-05",
+   "url": "https://arxiv.org/abs/2611.07357"
+  },
+  "suggested": "computed-tomography",
+  "title": "Evaluation of Image Noise from Computed Tomography in an Organ-Specific Anthropomorphic Phantom",
+  "url": "https://arxiv.org/abs/2611.07357"
+ },
+ {
+  "added": "2026-11-07",
+  "arxiv": "2611.07433",
+  "candidates": [
+   [
+    "deep-learning",
+    4.8
+   ],
+   [
+    "x-ray-imaging",
+    1.65
+   ],
+   [
+    "3d-reconstruction",
+    1.2
+   ],
+   [
+    "remote-sensing",
+    1.2
+   ],
+   [
+    "space-weather",
+    1.2
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.07433",
+   "title:mpdualnetadualbranchdeeplearningapproachformagnetopauseboundarydetectionusingsimulatedsxiimages|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "The Earth's magnetopause is a key boundary governing solar wind-magnetosphere coupling. The Solar wind Magnetosphere Ionosphere Link Explorer (SMILE) mission will provide global soft X-ray imaging of the magnetosphere through solar wind charge exchange (SWCX) emission, offering a new opportunity for remote sensing of magnetopause dynamics. However, the limited field of view (FOV) and variable observation geometry of the Soft X-ray Imager (SXI) pose challenges for reliable magnetopause detection. In this study, we develop MP-DualNet, an end-to-end dual-branch deep learning framework for automated magnetopause detection from simulated SXI observations. The framework jointly performs coarse localization to determine magnetopause visibility and relative position within the FOV, and fine-scale boundary localization through pixel-level segmentation. The model is trained and evaluated using line-of-sight magnetopause envelope maps derived from global hybrid simulations under different solar wind and interplanetary magnetic field conditions. The results demonstrate stable and consistent performance, with a classification accuracy exceeding 0.94 and a segmentation IoU above 0.97. For the test set, the mean absolute angular displacement from the reference boundary was 0.488 degrees. The model maintains robust performance across a wide range of noise levels and generalizes well, as demonstrated by its application to an independent storm event. These results indicate that MP-DualNet provides a reliable and generalizable approach for magnetopause detection in SXI observations, supporting future 3D reconstruction and space weather studies in the context of the SMILE mission.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.07433",
+   "authors": [
+    "Cheng Zhong",
+    "Zhongwei Yang",
+    "Tianran Sun",
+    "Chengyan Huang",
+    "Jiajia Liu",
+    "Jingnan Guo",
+    "Yuming Wang",
+    "Chi Wang"
+   ],
+   "categories": [
+    "arXiv:astro-ph.SR",
+    "arXiv:astro-ph.IM"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-05",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.07433"
+   ],
+   "title": "MP-DualNet: A Dual-Branch Deep Learning Approach for Magnetopause Boundary Detection Using Simulated SXI Images",
+   "topics": [],
+   "updated_date": "2026-11-05",
+   "url": "https://arxiv.org/abs/2611.07433"
+  },
+  "suggested": "deep-learning",
+  "title": "MP-DualNet: A Dual-Branch Deep Learning Approach for Magnetopause Boundary Detection Using Simulated SXI Images",
+  "url": "https://arxiv.org/abs/2611.07433"
+ },
+ {
+  "added": "2026-11-07",
+  "arxiv": "2611.07531",
+  "candidates": [
+   [
+    "reinforcement-learning",
+    4.8
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.1103/4xnp-dsn4",
+  "keys": [
+   "arxiv:2611.07531",
+   "doi:10.1103/4xnp-dsn4",
+   "title:autotaxisofarunandtumbleagentviareinforcementlearning|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "We study the run-tumble motion of a single autochemotactic agent that secretes and senses chemical cues using a reinforcement learning (RL) framework. In a chemical environment that changes dynamically via secretion, diffusion, and degradation of attractant chemicals, we study the effectiveness of RL for a successful navigation strategy. We show that RL enhances chemotactic performance. Starting from a random initial position, the probability of finding the agent in the favorable region (near the attractant peak) increases faster with time and reaches a higher value in the long time limit when RL is used, compared to the case when the agent performs usual run-tumble chemotaxis without using RL. We also characterize the chemotactic performance of the agent by varying different parameters like rates of secretion, degradation, and diffusion. Importantly, we observe a non-monotonic dependence of the chemotactic performance on the learning and exploration rates, indicating the existence of an optimal RL strategy for the most efficient navigation. We explain these observations as a result of the interplay between the pre-existing attractant environment and the agent-generated attractant profile.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.07531",
+   "authors": [
+    "Ramesh Pramanik",
+    "Shradha Mishra",
+    "Sakuntala Chatterjee"
+   ],
+   "categories": [
+    "arXiv:q-bio.CB",
+    "arXiv:cond-mat.stat-mech"
+   ],
+   "cited_by_count": null,
+   "doi": "10.1103/4xnp-dsn4",
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": null,
+   "publication": "Physical Review E 114, 054402 (2026)",
+   "publication_type": "preprint",
+   "published_date": "2026-11-05",
+   "related_versions": [
+    {
+     "doi": "10.1103/4xnp-dsn4",
+     "journal_ref": "Physical Review E 114, 054402 (2026)",
+     "relation": "published_version",
+     "source": "arxiv"
+    }
+   ],
+   "source_ids": [
+    "arxiv:2611.07531"
+   ],
+   "title": "Autotaxis of a Run-and-Tumble Agent via Reinforcement Learning",
+   "topics": [],
+   "updated_date": "2026-11-05",
+   "url": "https://arxiv.org/abs/2611.07531"
+  },
+  "suggested": "reinforcement-learning",
+  "title": "Autotaxis of a Run-and-Tumble Agent via Reinforcement Learning",
+  "url": "https://arxiv.org/abs/2611.07531"
+ },
+ {
+  "added": "2026-11-07",
+  "arxiv": "2611.07725",
+  "candidates": [
+   [
+    "liquid-crystals",
+    4.8
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.07725",
+   "title:globalexistenceofsolutionstothe2dcompressiblenematicliquidcrystalflowswithlargeinitialdataandvacuum|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "For periodic initial data that allow vacuum, we establish the global-in-time existence of solutions to the 2D compressible nematic liquid crystal flows, under the condition that the bulk viscosity coefficient is sufficiently large and a geometric angular constraint is imposed on the initial direction field. Our results remain valid for arbitrarily large initial energy. Furthermore, under appropriate additional assumptions imposed on the pressure, we also establish the uniqueness of the constructed solutions.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.07725",
+   "authors": [
+    "Qiao Liu",
+    "Qingkui Ma",
+    "Fuyi Xu"
+   ],
+   "categories": [
+    "arXiv:math.AP"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-05",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.07725"
+   ],
+   "title": "Global existence of solutions to the 2D compressible nematic liquid crystal flows with large initial data and vacuum",
+   "topics": [],
+   "updated_date": "2026-11-05",
+   "url": "https://arxiv.org/abs/2611.07725"
+  },
+  "suggested": "liquid-crystals",
+  "title": "Global existence of solutions to the 2D compressible nematic liquid crystal flows with large initial data and vacuum",
+  "url": "https://arxiv.org/abs/2611.07725"
+ },
+ {
+  "added": "2026-11-07",
+  "arxiv": "2611.07354",
+  "candidates": [
+   [
+    "physically-based-rendering",
+    4.73
+   ],
+   [
+    "diffusion-models",
+    3.5
+   ],
+   [
+    "texture-synthesis",
+    3.1
+   ],
+   [
+    "rendering",
+    1.94
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.1145/3842521",
+  "keys": [
+   "arxiv:2611.07354",
+   "doi:10.1145/3842521",
+   "title:mikumaterialinvarianceandknowledgeunificationforpbrgeneration|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "High-quality material generation for physically based rendering (PBR) remains challenging because datasets and synthesis pipelines lack standardized representations. Differences in material definitions, rendering conventions, and parameterizations lead to unstable and physically implausible results. We propose MIKU, a unified framework for standardized PBR asset representation and physically consistent material generation across diverse 3D content domains. Its core is a unified processing pipeline that standardizes the workflow from data preprocessing to final texture synthesis, maintaining consistent geometry and texture representations. A normalization scheme harmonizes heterogeneous material parameterizations in a common representation space, enabling robust cross-dataset training and inference. Building on this formulation, we train a novel physically aware diffusion model for PBR texture generation within a two-stage multi-view synthesis framework. First, geometry-aware albedo generation synthesizes multi-view albedo maps under explicit geometric guidance to ensure cross-view appearance consistency. Second, metallic-roughness generation uses the diffusion model to predict physically plausible roughness and metallic maps conditioned on the generated albedo and unified representation. Trained end-to-end on standardized data, the model learns to generate materials that respect category-level material priors and semantic part boundaries. By decoupling representation standardization from appearance synthesis, MIKU substantially improves material generation stability and physical consistency. Extensive experiments demonstrate state-of-the-art texture quality and semantic consistency across object parts, advancing automated material generation for 3D content creation.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.07354",
+   "authors": [
+    "Yajie Bao",
+    "Jiaye Fu",
+    "Youtian Lin",
+    "Shuang Wu",
+    "Jiachen Qian",
+    "Feihu Zhang",
+    "Xun Cao",
+    "Yao Yao"
+   ],
+   "categories": [
+    "arXiv:cs.CV"
+   ],
+   "cited_by_count": null,
+   "doi": "10.1145/3842521",
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": null,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-05",
+   "related_versions": [
+    {
+     "doi": "10.1145/3842521",
+     "relation": "published_version",
+     "source": "arxiv"
+    }
+   ],
+   "source_ids": [
+    "arxiv:2611.07354"
+   ],
+   "title": "MIKU: Material Invariance and Knowledge Unification for PBR Generation",
+   "topics": [],
+   "updated_date": "2026-11-05",
+   "url": "https://arxiv.org/abs/2611.07354"
+  },
+  "suggested": "physically-based-rendering",
+  "title": "MIKU: Material Invariance and Knowledge Unification for PBR Generation",
+  "url": "https://arxiv.org/abs/2611.07354"
+ },
+ {
+  "added": "2026-11-07",
+  "arxiv": "2611.07540",
+  "candidates": [
+   [
+    "vision-language-models",
+    4.66
+   ],
+   [
+    "multimodal-foundation-models",
+    3.9
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.07540",
+   "title:actionconditionedvlmmonitoringforautonomousvehiclesemanticanomalies|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "We study action-conditioned monitoring of autonomous-vehicle behavior in semantically unusual driving scenes. The target is whether the executed ego action is appropriate for the scene: the same scene can admit both normal and anomalous behavior, so visual unusualness alone does not determine the monitoring label. A Vision-Language Model (VLM) first predicts the scene-required action from an outcome-hidden video window; the monitor then compares that expectation with the realized ego-motion trajectory under an explicit compatibility rule. To study this monitoring task, we contribute a six-field taxonomy of 112 paired scenarios spanning both failure polarities (42 derived from documented incidents), a generated video corpus with estimated trajectories, and an exploratory two-stage monitor on that corpus. On 235 clips from 15 scenario families, the two-stage protocol with a fixed T-2.5 s window obtains 83.0% accuracy and anomaly recall 0.773, versus 74.5% and 0.536 for a single-stage video-only baseline; specificity is 0.880 versus 0.928.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.07540",
+   "authors": [
+    "Daniel Adejumo",
+    "Omkar Ankalkope",
+    "Kunal Runwal",
+    "Aliasghar Arab"
+   ],
+   "categories": [
+    "arXiv:cs.CV",
+    "arXiv:cs.AI"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-05",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.07540"
+   ],
+   "title": "Action-Conditioned VLM Monitoring for Autonomous Vehicle Semantic Anomalies",
+   "topics": [],
+   "updated_date": "2026-11-05",
+   "url": "https://arxiv.org/abs/2611.07540"
+  },
+  "suggested": "vision-language-models",
+  "title": "Action-Conditioned VLM Monitoring for Autonomous Vehicle Semantic Anomalies",
+  "url": "https://arxiv.org/abs/2611.07540"
+ },
+ {
+  "added": "2026-11-07",
+  "arxiv": "2611.07523",
+  "candidates": [
+   [
+    "tokenization",
+    4.65
+   ],
+   [
+    "large-language-models",
+    3.9
+   ],
+   [
+    "recommender-systems",
+    3.1
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.07523",
+   "title:optstoptimizingsemantictokenizationforllmenhancedrecommendation|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Semantic information can enrich the identifiers and structured fields used by recommender systems. Semantic tokenization provides a structured representation of this information by converting LLM-derived user profiles into discrete tokens. In the common two-stage pipeline, the tokenizer is trained before the recommender. Its token assignments are then treated as fixed input features during recommendation training. As a result, the downstream recommender can learn how to use the assigned indices, but it cannot revise the semantic partition that produced them. Making this partition task-aware is difficult because nearest-code assignment is discrete, and unconstrained adaptation may also distort the geometry learned during pretraining. Moreover, a fixed token depth exposes the same semantic resolution to every interaction. We thus propose OptST (Optimizing Semantic Tokenization), which makes a pretrained tokenizer responsive to downstream recommendation. To revise token assignments without directly updating the pretrained encoder or base codebooks, OptST learns a low-rank deformation whose drift is limited by an anchor regularizer. Recommendation supervision reaches this transformation through a straight-through estimator, while prediction retains hard nearest-code assignments. Beyond adapting the assignments themselves, OptST selects an interaction-conditioned prefix to control how much residual detail is exposed to the recommender. Experiments on four public datasets show that OptST achieves the highest AUC among conventional and LLM-enhanced baselines. Its improvements also persist across different recommendation backbones. These results establish task-aware semantic tokenization as an effective interface between LLM-derived profiles and downstream recommendation models.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.07523",
+   "authors": [
+    "Hanchong Chen",
+    "Jie Liu",
+    "Fuyuan Lyu",
+    "Dugang Liu",
+    "Lingjie Li",
+    "Xiuqiang He",
+    "Xing Tang"
+   ],
+   "categories": [
+    "arXiv:cs.IR"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-05",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.07523"
+   ],
+   "title": "OptST: Optimizing Semantic Tokenization for LLM-Enhanced Recommendation",
+   "topics": [],
+   "updated_date": "2026-11-05",
+   "url": "https://arxiv.org/abs/2611.07523"
+  },
+  "suggested": "tokenization",
+  "title": "OptST: Optimizing Semantic Tokenization for LLM-Enhanced Recommendation",
+  "url": "https://arxiv.org/abs/2611.07523"
+ },
+ {
+  "added": "2026-11-07",
+  "arxiv": "2611.07735",
+  "candidates": [
+   [
+    "in-context-learning",
+    4.65
+   ],
+   [
+    "large-language-models",
+    3.88
+   ],
+   [
+    "llm-based-agents",
+    3.7
+   ],
+   [
+    "calibration",
+    0.46
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.18653/2026.wnut-1.7",
+  "keys": [
+   "arxiv:2611.07735",
+   "doi:10.18653/2026.wnut-1.7",
+   "title:evaluatingtokenprobabilitiesasconfidenceestimatorsinhumanbehaviorsimulationsacasestudyinluxembourgishnextlikeprediction|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "As large language models (LLMs) are increasingly used to simulate human behavior, their operational validity is typically assessed through accuracy alone, implicitly treating human behavior as deterministic. We argue that on noisy digital trace data, a model's performance depends not only on predicting the correct outcome but on its calibration. We present a case study testing whether the token probabilities of open-weight LLMs can serve as confidence estimates in a Next Like Prediction task: predicting how a user of the Luxembourgish news platform RTL.lu rates a comment, conditioned on their prior interactions. Evaluating Ministral 3 (3B, 8B), we find that, with in-context learning only, the tested models are overconfident and are outperformed on accuracy and calibration by a simple statistical baseline. Accuracy and calibration do not move together: scaling from 3B to 8B improves accuracy while degrading calibration, and longer behavioral histories raise accuracy while confidence declines. Task-specific supervised fine-tuning acts as an effective calibration intervention, reducing Expected Calibration Error from 0.2 to 0.006 while improving accuracy from 0.536 to 0.758. We conclude that confidence estimation should be evaluated alongside accuracy to improve validity when using LLM-based agents.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.07735",
+   "authors": [
+    "Nils Schwager",
+    "Simon Münker",
+    "Alistair Plum",
+    "Achim Rettinger"
+   ],
+   "categories": [
+    "arXiv:cs.CL",
+    "arXiv:cs.AI"
+   ],
+   "cited_by_count": null,
+   "doi": "10.18653/2026.wnut-1.7",
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": null,
+   "publication": "Proceedings of the 11th Workshop on Natural User-generated Text (W-NUT), 2026",
+   "publication_type": "preprint",
+   "published_date": "2026-11-05",
+   "related_versions": [
+    {
+     "doi": "10.18653/2026.wnut-1.7",
+     "journal_ref": "Proceedings of the 11th Workshop on Natural User-generated Text (W-NUT), 2026",
+     "relation": "published_version",
+     "source": "arxiv"
+    }
+   ],
+   "source_ids": [
+    "arxiv:2611.07735"
+   ],
+   "title": "Evaluating Token Probabilities as Confidence Estimators in Human Behavior Simulations: A Case Study in Luxembourgish Next Like Prediction",
+   "topics": [],
+   "updated_date": "2026-11-05",
+   "url": "https://arxiv.org/abs/2611.07735"
+  },
+  "suggested": "in-context-learning",
+  "title": "Evaluating Token Probabilities as Confidence Estimators in Human Behavior Simulations: A Case Study in Luxembourgish Next Like Prediction",
+  "url": "https://arxiv.org/abs/2611.07735"
+ },
+ {
+  "added": "2026-11-07",
+  "arxiv": "2611.07362",
+  "candidates": [
+   [
+    "temporal-difference-learning",
+    4.59
+   ],
+   [
+    "bootstrap",
+    2.2
+   ],
+   [
+    "martingales",
+    2.2
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.07362",
+   "title:continuoustimeqlearningforfinitehorizonportfoliochoicewithoptimalstoppinginjumpdiffusionmarkets|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "We develop a structured continuous-time q-learning framework for finite-horizon investment and optimal stopping under jump-diffusion dynamics with unknown parameters. A penalty approximation transforms the Hamilton-Jacobi-Bellman variational inequality into an HJB equation with a binary control for the stopping penalty. An auxiliary state incorporates the resulting control-dependent discount factor into a Markovian formulation. We randomize controls on the mixed action space and introduce Shannon entropy regularization, establishing policy improvement and martingale characterizations of the continuous-time q-function. These results motivate a structured q-learning algorithm that constructs the q-function from the penalty HJB equation and jointly learns the value function and unknown generator parameters from sample paths. We apply the method to portfolio choice with optimal stopping in a simulation study. We further conduct a two-asset empirical study, evaluating learned strategies on bootstrap paths from held-out test returns versus an MLE-finite difference benchmark.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.07362",
+   "authors": [
+    "Tingting Zhang",
+    "Can Yang"
+   ],
+   "categories": [
+    "arXiv:math.OC"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-05",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.07362"
+   ],
+   "title": "Continuous-time q-Learning for Finite-Horizon Portfolio Choice with Optimal Stopping in Jump-Diffusion Markets",
+   "topics": [],
+   "updated_date": "2026-11-05",
+   "url": "https://arxiv.org/abs/2611.07362"
+  },
+  "suggested": "temporal-difference-learning",
+  "title": "Continuous-time q-Learning for Finite-Horizon Portfolio Choice with Optimal Stopping in Jump-Diffusion Markets",
+  "url": "https://arxiv.org/abs/2611.07362"
+ },
+ {
+  "added": "2026-11-07",
+  "arxiv": "2611.07375",
+  "candidates": [
+   [
+    "direct-preference-optimization",
+    4.56
+   ],
+   [
+    "optimization",
+    0.26
+   ],
+   [
+    "statistics",
+    0.26
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.07375",
+   "title:whenscoresconflictwithpreferencesprealignmentdiagnosisandadaptivecorrectionofconstraintdriftindpo|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Direct Preference Optimization (DPO) is increasingly used in settings where pairwise preferences coexist with pointwise criteria such as response length, answer correctness, or safety scores. When the two disagree, standard DPO treats pairs whose preferred output scores worse on the pointwise criterion (conflict pairs) in the same way as the remaining (matching) pairs. We characterize a systematic failure mode, constraint drift: for sufficiently small updates, conflict pairs tend to increase constraint cost while matching pairs tend to repair it, and the net change depends on their balance. This balance yields a closed-form pre-alignment diagnostic, $ρ^{*}_{\\mathrm{eq}}$, computable from dataset statistics, that indicates whether a dataset is self-correcting or requires intervention. Building on this diagnostic, we propose Conflict-aware DPO (CoDPO), which down-weights conflict pairs with a strength set from $ρ^{*}_{\\mathrm{eq}}$ rather than tuned, and adds an adaptive margin shift that addresses residual drift during training. Empirically, drift grows monotonically with conflict exposure on the conflict-dominated domains, and the intervention decision given by $ρ^{*}_{\\mathrm{eq}}$ matches the observed drift on every domain, including one that it identifies as self-correcting. On all four domains of the main comparison, CoDPO reduces drift while largely preserving the preference learning of vanilla DPO. Compared with hard filtering and recent constrained and multi-objective baselines, CoDPO also achieves a more favorable drift-preference trade-off.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.07375",
+   "authors": [
+    "Ping Liu",
+    "Yan Yan"
+   ],
+   "categories": [
+    "arXiv:cs.LG"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-05",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.07375"
+   ],
+   "title": "When Scores Conflict with Preferences: Pre-Alignment Diagnosis and Adaptive Correction of Constraint Drift in DPO",
+   "topics": [],
+   "updated_date": "2026-11-05",
+   "url": "https://arxiv.org/abs/2611.07375"
+  },
+  "suggested": "direct-preference-optimization",
+  "title": "When Scores Conflict with Preferences: Pre-Alignment Diagnosis and Adaptive Correction of Constraint Drift in DPO",
+  "url": "https://arxiv.org/abs/2611.07375"
+ },
+ {
+  "added": "2026-11-07",
+  "arxiv": "2611.07486",
+  "candidates": [
+   [
+    "large-language-models",
+    4.56
+   ],
+   [
+    "malware-analysis",
+    3.1
+   ],
+   [
+    "analysis",
+    0.33
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.07486",
+   "title:mevinceknowledgeconstrainedllmreasoningfortechniqueidentificationfrommalwarereports|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Mapping behavioral intelligence in malware analysis reports to ATT&CK techniques supports threat analysis and defense, but reliable identification remains challenging. Supporting evidence is often scattered across long, heterogeneous reports, while closely related techniques share behavioral cues and differ only in subtle but decisive details. While large language models (LLMs) can use external knowledge to interpret reports, they may assign techniques based on plausible associations rather than sufficient evidence. We present MEvince, a knowledge-constrained LLM reasoning framework for report-level malware technique identification. Its core is a shared behavioral representation connecting report observations to technique definitions. This representation is built through agentic mining of technique documentation and supports two online stages: 1) primitive-guided extraction uses behavioral primitives to structure LLM-extracted observations, link them to source passages, and group dispersed evidence; 2) evidence-aligned retrieval matches this evidence to technique profiles through the same concepts, retaining likely candidates and confusable alternatives for LLM comparison of distinguishing behaviors. Controls at both stages validate evidence references and check technique-specific requirements. The representation also supports adaptation without parameter updates, where offline agentic audits diagnose concept weaknesses and refine extraction or retrieval policies. We evaluate MEvince against 11 baselines spanning four method families using a dataset of 610 public malware reports referenced by MITRE ATT&CK. MEvince improves exact-ID F1 over the strongest baseline by 17.4%, and its concept-guided retrieval increases gold-label candidate coverage from 31.6% to 47.9%. With a small adaptation set, offline refinement yields further gains and outperforms baselines that update model parameters.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.07486",
+   "authors": [
+    "Hongyu She",
+    "Yiling He",
+    "Mengda Xie",
+    "Yiping Liu",
+    "Xingzhi Qian",
+    "Zhan Qin",
+    "Lorenzo Cavallaro"
+   ],
+   "categories": [
+    "arXiv:cs.CR",
+    "arXiv:cs.CL",
+    "arXiv:cs.IR"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-05",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.07486"
+   ],
+   "title": "MEvince: Knowledge-Constrained LLM Reasoning for Technique Identification from Malware Reports",
+   "topics": [],
+   "updated_date": "2026-11-05",
+   "url": "https://arxiv.org/abs/2611.07486"
+  },
+  "suggested": "large-language-models",
+  "title": "MEvince: Knowledge-Constrained LLM Reasoning for Technique Identification from Malware Reports",
+  "url": "https://arxiv.org/abs/2611.07486"
+ },
+ {
+  "added": "2026-11-07",
+  "arxiv": "2611.07588",
+  "candidates": [
+   [
+    "large-language-models",
+    4.56
+   ],
+   [
+    "collaborative-filtering",
+    3.1
+   ],
+   [
+    "reinforcement-learning",
+    3.1
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.07588",
+   "title:whatgetshackedinacollaborativerewardforllmrecommendersthepartthatdoesnotdependontheuser|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Collaborative-filtering (CF) scores provide graded, personalized rewards for training large language model (LLM) recommenders through reinforcement learning. However, these rewards can cause exposure collapse: even though the CF model itself produces diverse top recommendations across users, an LLM optimized with its rewards concentrates on fewer items. We decompose each score into an item-mean component, the item's average CF score across user histories, and a residual component, the current user's score deviation from the average. Through controlled interventions, we identify the item-mean component as a contributor to exposure collapse. Accordingly, we propose two reward corrections: per-item centering removes each item's estimated mean score, while per-item standardization further rescales the residual using its estimated standard deviation. Experiments on two datasets with two identifier schemes show that both corrections substantially improve catalog coverage and exposure evenness. Compared with training on the uncorrected CF reward, our corrections increase the number of distinct items ranked first across users by up to $9.8\\times$, while maintaining comparable ranking accuracy. Code is available at https://anonymous.4open.science/r/LLM4Rec-CF-Bias-27EF/.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.07588",
+   "authors": [
+    "Zhuangsheng Li",
+    "Liang Dong",
+    "Yu Wu",
+    "Dailin Li",
+    "Yu Xia",
+    "Yunhan C. Zhang",
+    "Rui Cai",
+    "Yi Wu",
+    "Julian McAuley"
+   ],
+   "categories": [
+    "arXiv:cs.IR"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-05",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.07588"
+   ],
+   "title": "What Gets Hacked in a Collaborative Reward for LLM Recommenders: The Part That Does Not Depend on the User",
+   "topics": [],
+   "updated_date": "2026-11-05",
+   "url": "https://arxiv.org/abs/2611.07588"
+  },
+  "suggested": "large-language-models",
+  "title": "What Gets Hacked in a Collaborative Reward for LLM Recommenders: The Part That Does Not Depend on the User",
+  "url": "https://arxiv.org/abs/2611.07588"
+ },
+ {
+  "added": "2026-11-07",
+  "arxiv": "2611.07410",
+  "candidates": [
+   [
+    "graph-neural-networks",
+    4.52
+   ],
+   [
+    "deep-learning",
+    3.1
+   ],
+   [
+    "analysis",
+    0.26
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.07410",
+   "title:spectralsymmetryfingerprintsinequivariantrepresentations|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Symmetry governs the organization of physical structures, while symmetry breaking reveals their transformations. In geometric deep learning, symmetry imposes rank constraints on equivariant representations, limiting the expressive capacity of equivariant graph neural networks (GNNs). Here we show that these constraints can instead be exploited: the singular-value spectra of equivariant representations provide a unified fingerprint of structural symmetry. We introduce spectral symmetry fingerprints (SymFP), which enable discrete point-group identification through rank-template matching and continuous symmetry analysis by quantifying spectral energy beyond target rank constraints. SymFP is orientation invariant and architecture agnostic, enabling a parameter-free GNN implementation. Its spectra can be reused across multiple target groups, and the resulting leakage scores satisfy subgroup monotonicity. Across synthetic structures, molecules, coordination complexes and large biological assemblies, SymFP accurately identifies point groups, tracks controlled symmetry breaking and reveals local and degree-resolved symmetry changes that can be obscured by global geometric measures. These results establish the spectral structure of equivariant representations as a general framework for characterizing symmetry across physical systems.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.07410",
+   "authors": [
+    "Jiacheng Cen",
+    "Anyi Li",
+    "Ning Lin",
+    "Zihe Wang",
+    "Ji-Rong Wen",
+    "Wenbing Huang"
+   ],
+   "categories": [
+    "arXiv:cs.LG",
+    "arXiv:cond-mat.mtrl-sci",
+    "arXiv:math-ph",
+    "arXiv:physics.chem-ph"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-05",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.07410"
+   ],
+   "title": "Spectral symmetry fingerprints in equivariant representations",
+   "topics": [],
+   "updated_date": "2026-11-05",
+   "url": "https://arxiv.org/abs/2611.07410"
+  },
+  "suggested": "graph-neural-networks",
+  "title": "Spectral symmetry fingerprints in equivariant representations",
+  "url": "https://arxiv.org/abs/2611.07410"
+ },
+ {
+  "added": "2026-11-07",
+  "arxiv": "2611.07688",
+  "candidates": [
+   [
+    "high-voltage-direct-current",
+    4.48
+   ],
+   [
+    "voltage-source-converter-hvdc",
+    3.29
+   ],
+   [
+    "power-electronics",
+    3.1
+   ],
+   [
+    "energy-efficiency",
+    1.2
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.07688",
+   "title:acosteffectivesubmodulewithfaultblockingcapabilityformodularmultilevelconverters|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Modular multilevel converter (MMC) has become an attractive technology for high-power electronics applications thanks to its high energy efficiency, high power rating, high modularity, flexible scalability, and superior output waveform quality. It has attracted considerable research attention, and numerous submodule (SM) variants have been developed for different objectives. Among them, the half-bridge SM (HBSM) is the most widely adopted thanks to its simplicity, but it cannot interrupt DC-side short-circuit currents. Various SM topologies with fault-blocking capability have been proposed. These SM topologies contain additional switches and passive components compared to the HBSM, leading to higher capital and operating costs. Aiming at these issue, an SM topology capable to block DC-side fault-currents with a reduced component count is proposed in this paper. The proposed SM includes two variants, one employs only two fully-controlled switches. An operation and control scheme for the proposed SM are also developed and presented in the paper. The functionality of the proposed SM is validated by experiment, and the value of the SM is demonstrated through a test simulation for an high-voltage direct-current (HVDC) transmission system.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.07688",
+   "authors": [
+    "Yu Liu",
+    "Shengbo Zhang"
+   ],
+   "categories": [
+    "arXiv:eess.SY"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-05",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.07688"
+   ],
+   "title": "A Cost-Effective Submodule with Fault-Blocking Capability for Modular Multilevel Converters",
+   "topics": [],
+   "updated_date": "2026-11-05",
+   "url": "https://arxiv.org/abs/2611.07688"
+  },
+  "suggested": "high-voltage-direct-current",
+  "title": "A Cost-Effective Submodule with Fault-Blocking Capability for Modular Multilevel Converters",
+  "url": "https://arxiv.org/abs/2611.07688"
+ },
+ {
+  "added": "2026-11-07",
+  "arxiv": "2611.07726",
+  "candidates": [
+   [
+    "monte-carlo-tree-search",
+    4.48
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.1109/icee70628.2026.11710769",
+  "keys": [
+   "arxiv:2611.07726",
+   "doi:10.1109/icee70628.2026.11710769",
+   "title:dualarmtabletoprearrangementwithmovablestackingandgapawarepushtransfers|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Object rearrangement in cluttered tabletop scenes is challenging, especially in wide workspaces where dual-arm systems improve coverage and efficiency. Limited free space often necessitates buffering, while objects near or across the shared reachability region of the manipulators must be transferred under careful coordination to avoid inter-arm collisions. Conventional inter-arm transfer typically relies on a fixed handoff configuration, which constrains where and how objects are exchanged, enforces spatiotemporal synchronization of the arms, and reduces flexibility in dense layouts. This paper presents a dual-arm rearrangement framework that combines movable stacking with Gap-Aware Push Transfer for asynchronous cross-boundary exchange. The method scans the shared boundary to identify collision-free transfer gaps, places an object near a selected crossing point, and then pushes it into the receiving workspace without requiring simultaneous interaction between the two arms. A joint Monte Carlo Tree Search (MCTS)-based planner coordinates both manipulators while reasoning over buffering and transfer decisions, and execution cost is used after planning to assess the resulting plan. Experiments show that the proposed method shortens joint execution sequences and becomes increasingly advantageous over a fixed handoff baseline as scene density increases, achieving lower execution cost in denser scenes while remaining competitive in lighter ones.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.07726",
+   "authors": [
+    "Mohammadreza Firoozalizadeh",
+    "Zakiye Rostamirad",
+    "Arman Barghi",
+    "Ahmad Kalhor",
+    "Mohammadreza Nayeri",
+    "Mehdi Tale Masouleh"
+   ],
+   "categories": [
+    "arXiv:cs.RO"
+   ],
+   "cited_by_count": null,
+   "doi": "10.1109/icee70628.2026.11710769",
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": null,
+   "publication": "2026 34th International Conference on Electrical Engineering (ICEE), 2026",
+   "publication_type": "preprint",
+   "published_date": "2026-11-05",
+   "related_versions": [
+    {
+     "doi": "10.1109/icee70628.2026.11710769",
+     "journal_ref": "2026 34th International Conference on Electrical Engineering (ICEE), 2026",
+     "relation": "published_version",
+     "source": "arxiv"
+    }
+   ],
+   "source_ids": [
+    "arxiv:2611.07726"
+   ],
+   "title": "Dual-Arm Tabletop Rearrangement with Movable Stacking and Gap-Aware Push Transfers",
+   "topics": [],
+   "updated_date": "2026-11-05",
+   "url": "https://arxiv.org/abs/2611.07726"
+  },
+  "suggested": "monte-carlo-tree-search",
+  "title": "Dual-Arm Tabletop Rearrangement with Movable Stacking and Gap-Aware Push Transfers",
+  "url": "https://arxiv.org/abs/2611.07726"
+ },
+ {
+  "added": "2026-11-07",
+  "arxiv": "2611.07504",
+  "candidates": [
+   [
+    "actuators",
+    4.47
+   ],
+   [
+    "sliding-mode-control",
+    4.34
+   ],
+   [
+    "feedback-linearization",
+    3.74
+   ],
+   [
+    "kalman-filtering",
+    3.1
+   ],
+   [
+    "nonlinear-control",
+    3.1
+   ],
+   [
+    "robust-control",
+    3.1
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.07504",
+   "title:simulationmodelingandcontrolofanelasticshapingantagonisticvariablestiffnessactuator|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Position--stiffness regulation of antagonistic variable stiffness actuators (VSAs) involves coupled nonlinear dynamics, parameter uncertainty, and feedback states that are not directly measured. This paper addresses this challenge through a simulation-based workflow that integrates elastic shaping, model verification, and layered nonlinear control. This study builds on a previously developed actuator comprising two crossed four-bar compliant transmission elastic units. Its optimized elastic mapping provides the structural basis, with an ADAMS torque-curve root mean square error (RMSE) of $2.57\\,\\mathrm{N\\!\\cdot\\!mm}$ against the target. A control-oriented analytical model is implemented in Simulink and compared with the independently executed ADAMS model under matched inputs. The maximum joint-angle RMSE across the tested cases is $4.66\\times10^{-3}\\,\\mathrm{rad}$. A layered controller combines extended Kalman filtering for state reconstruction, feedback linearization for nominal decoupling, and adaptive sliding-mode control for residual compensation. At the end of the nominal simulation, the joint-angle error is approximately $3.14\\times10^{-5}\\,\\mathrm{rad}$. The stiffness error is $3.07\\,\\mathrm{N\\!\\cdot\\!mm/rad}$ relative to a target of $50\\,\\mathrm{N\\!\\cdot\\!mm/rad}$. Parameter-variation and ablation tests assess tracking performance and the effects of the controller modules within the evaluated conditions. The resulting workflow links structural-response modeling, state estimation, and robust control assessment, supporting repeatable comparisons beyond nominal tracking alone.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.07504",
+   "authors": [
+    "Yuanlong Ji",
+    "Ruizhe Jiang",
+    "Dongrun Jin",
+    "Xiangyu Xie",
+    "Junheng Lin",
+    "Xingbang Yang"
+   ],
+   "categories": [
+    "arXiv:eess.SY"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-05",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.07504"
+   ],
+   "title": "Simulation Modeling and Control of an Elastic Shaping Antagonistic Variable Stiffness Actuator",
+   "topics": [],
+   "updated_date": "2026-11-05",
+   "url": "https://arxiv.org/abs/2611.07504"
+  },
+  "suggested": "actuators",
+  "title": "Simulation Modeling and Control of an Elastic Shaping Antagonistic Variable Stiffness Actuator",
+  "url": "https://arxiv.org/abs/2611.07504"
+ },
+ {
+  "added": "2026-11-07",
+  "arxiv": "2611.07408",
+  "candidates": [
+   [
+    "llm-reasoning-methods",
+    4.36
+   ],
+   [
+    "large-language-models",
+    3.7
+   ],
+   [
+    "scene-understanding",
+    3.1
+   ],
+   [
+    "optimization",
+    0.26
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.1145/3767308.3835827",
+  "keys": [
+   "arxiv:2611.07408",
+   "doi:10.1145/3767308.3835827",
+   "title:psgagentenhancingmllmsdynamicvisualperceptionforpanopticscenegraphgenerationviaagenticreasoning|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Panoptic Scene Graph generation (PSG) requires holistic yet fine-grained reasoning over complex relations among objects. However, current Multimodal Large Language Models (MLLMs) applied to PSG suffer from a perception bottleneck: they function as static observers limited by fixed-resolution views. As a result, models often overlook critical relations involving small or peripheral objects and struggle to differentiate ambiguous predicates in complex scenes. To address these limitations, we propose PSGAgent, an agentic framework that enhances visual perception for PSG through a think-act-observe loop. PSGAgent allows MLLMs to dynamically refine their visual perception using two tools: a Region Zoom-In Tool for local exploration of small or boundary relations and a Visual Highlight Tool for relation-focused segmentation that filters out irrelevant contextual noise. To optimize decision-making, we construct a two-stage training pipeline. First, we create a high-quality, error-aware Multimodal Chain-of-Thought (M-CoT) dataset that provides robust supervision for cold-start learning. Then, we design a novel hierarchical reward mechanism integrated with Group Sequence Policy Optimization (GSPO) to enable strategic and adaptive tool usage. Extensive experiments on the PSG benchmark show that PSGAgent achieves SOTA performance, demonstrating strong capability in both holistic and fine-grained scene understanding.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.07408",
+   "authors": [
+    "Qingyun Liu",
+    "Yuankun Liu",
+    "Jiaye Feng",
+    "Jie Huang",
+    "Zonghong Dai",
+    "Haochen Li",
+    "Jingkun Wang",
+    "Weiping Li",
+    "Tong Mo"
+   ],
+   "categories": [
+    "arXiv:cs.CV",
+    "arXiv:cs.AI"
+   ],
+   "cited_by_count": null,
+   "doi": "10.1145/3767308.3835827",
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": null,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-05",
+   "related_versions": [
+    {
+     "doi": "10.1145/3767308.3835827",
+     "relation": "published_version",
+     "source": "arxiv"
+    }
+   ],
+   "source_ids": [
+    "arxiv:2611.07408"
+   ],
+   "title": "PSGAgent: Enhancing MLLMs' Dynamic Visual Perception for Panoptic Scene Graph Generation via Agentic Reasoning",
+   "topics": [],
+   "updated_date": "2026-11-05",
+   "url": "https://arxiv.org/abs/2611.07408"
+  },
+  "suggested": "llm-reasoning-methods",
+  "title": "PSGAgent: Enhancing MLLMs' Dynamic Visual Perception for Panoptic Scene Graph Generation via Agentic Reasoning",
+  "url": "https://arxiv.org/abs/2611.07408"
+ },
+ {
+  "added": "2026-11-07",
+  "candidates": [],
+  "keys": [
+   "arxiv:2611.07928",
+   "doi:10.1145/3801927.3858412",
+   "title:zeroragadaptivesemanticpeerroutingfordecentralizedretrievalaugmentedgeneration|2026"
+  ],
+  "path": "Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Temel-Modeller/Buyuk-Dil-Modelleri/Erisimle-Zenginlestirilmis-Uretim/Arastirmalar/2026-Neague-ZeroRAG-Adaptive-Semantic-Peer.md",
+  "reason": "DOI hiçbir kayıt kuruluşunda bulunamadı",
+  "suggested": "retrieval-augmented-generation",
+  "title": "ZeroRAG: Adaptive Semantic Peer Routing for Decentralized Retrieval-Augmented Generation",
+  "url": "https://arxiv.org/abs/2611.07928"
  }
 ]

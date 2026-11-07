@@ -75,9 +75,10 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **3**, alt teknolojiler dahil: **3**.
+Arşivdeki kayıtlar — bu düğüm: **4**, alt teknolojiler dahil: **4**.
 
 - [Batch-Conditioned Semantic Anchors for Robust Transductive Adaptation of Vision--Language Models](Arastirmalar/2026-Mohammad-Batch-Conditioned-Semantic-Anchors.md) — Mohammad vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [Concertina: Embodying Manipulation and Cognition in One Diffusion Vision-Language Model](Arastirmalar/2026-Wang-Concertina-Embodying-Manipulation-and.md) — Wang vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [Co-Occurrence Priors Override Visual Spatial Evidence: Understanding False Alarms in Vision-Language Models for Construction Struck-By Hazard Detection](Arastirmalar/2026-Zhou-Occurrence-Priors-Override-Visual.md) — Zhou (2026) · *arXiv* · ön baskı / hakemsiz
 - [Traffic-VL: Reinforced Vision-Language Models for Generalizable End-to-End Traffic Signal Control](Arastirmalar/2026-Zou-Traffic-Reinforced-Vision-Language.md) — Zou vd. (2026) · *arXiv* · ön baskı / hakemsiz
 <!-- AUTO:RESEARCH:END -->
@@ -89,6 +90,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Concertina: Embodying Manipulation and Cognition in One Diffusion Vision-Language Model](Arastirmalar/2026-Wang-Concertina-Embodying-Manipulation-and.md) — Wang vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [Batch-Conditioned Semantic Anchors for Robust Transductive Adaptation of Vision--Language Models](Arastirmalar/2026-Mohammad-Batch-Conditioned-Semantic-Anchors.md) — Mohammad vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [Traffic-VL: Reinforced Vision-Language Models for Generalizable End-to-End Traffic Signal Control](Arastirmalar/2026-Zou-Traffic-Reinforced-Vision-Language.md) — Zou vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [Co-Occurrence Priors Override Visual Spatial Evidence: Understanding False Alarms in Vision-Language Models for Construction Struck-By Hazard Detection](Arastirmalar/2026-Zhou-Occurrence-Priors-Override-Visual.md) — Zhou (2026) · *arXiv* · ön baskı / hakemsiz

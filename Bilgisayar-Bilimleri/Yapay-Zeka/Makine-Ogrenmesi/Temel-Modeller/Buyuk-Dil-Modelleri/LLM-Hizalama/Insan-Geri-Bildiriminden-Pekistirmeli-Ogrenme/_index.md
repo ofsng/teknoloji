@@ -75,8 +75,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **2**.
 
+- [Provable Zeroth-Order Safe Exploration for Reinforcement Learning from Human Feedback](Arastirmalar/2026-Chen-Provable-Zeroth-Order-Safe.md) — Chen vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [Reinforcement Learning from Human Feedback: A Statistical Perspective](Arastirmalar/2026-Liu-Reinforcement-Learning-from-Human.md) — Liu vd. (2026) · *Annual Review of Statistics and Its Application* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
@@ -87,6 +88,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Provable Zeroth-Order Safe Exploration for Reinforcement Learning from Human Feedback](Arastirmalar/2026-Chen-Provable-Zeroth-Order-Safe.md) — Chen vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [Reinforcement Learning from Human Feedback: A Statistical Perspective](Arastirmalar/2026-Liu-Reinforcement-Learning-from-Human.md) — Liu vd. (2026) · *Annual Review of Statistics and Its Application* · hakemli
 <!-- AUTO:RECENT:END -->
 

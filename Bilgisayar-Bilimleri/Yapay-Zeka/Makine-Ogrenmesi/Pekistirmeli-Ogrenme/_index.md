@@ -85,7 +85,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **7**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **9**.
+
+- [Reinforcement Learning Control of Nonlinear Dynamical Systems: A Dynamics-Oriented Scoping Review](Arastirmalar/2026-Gu-Reinforcement-Learning-Control-Nonlinear.md) — Gu vd. (2026) · *AI* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -95,13 +97,14 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [SEER: A Scalable Event-Driven Runtime for Parallel Execution of Multi-Agent Reinforcement Learning Environments](Cok-Etmenli-Pekistirmeli-Ogrenme/Arastirmalar/2026-Su-SEER-Scalable-Event-Driven.md) — Su vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [Reinforcement Learning Control of Nonlinear Dynamical Systems: A Dynamics-Oriented Scoping Review](Arastirmalar/2026-Gu-Reinforcement-Learning-Control-Nonlinear.md) — Gu vd. (2026) · *AI* · hakemli
 - [H^2MARL: Hierarchical Heterogeneous Multi-agent Reinforcement Learning for Humanoid Robot Control](Cok-Etmenli-Pekistirmeli-Ogrenme/Arastirmalar/2026-Hu-2MARL-Hierarchical-Heterogeneous-Multi.md) — Hu vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [Regulating Autonomous Mobility-on-Demand Operators with Fixed and Adaptive Penalties: A Multi-Agent Reinforcement Learning Approach](Cok-Etmenli-Pekistirmeli-Ogrenme/Arastirmalar/2026-Kugler-Regulating-Autonomous-Mobility-Demand.md) — Kügler vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [Cooperative Multi-Agent Reinforcement Learning via Epigraph-Form Guided Exploration](Cok-Etmenli-Pekistirmeli-Ogrenme/Arastirmalar/2026-Son-Cooperative-Multi-Agent-Reinforcement.md) — Son vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [JHiMA-WebRL: A Joint Hierarchical Multi-Agent Reinforcement Learning Framework for Long-Horizon Web Tasks](Cok-Etmenli-Pekistirmeli-Ogrenme/Arastirmalar/2026-Mondal-JHiMA-WebRL-Joint-Hierarchical.md) — Mondal vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [Safeguarding Multi-Agent Reinforcement Learning for Connected and Automated Vehicles with Recursively Feasible Control Barrier Functions](Cok-Etmenli-Pekistirmeli-Ogrenme/Arastirmalar/2026-Xu-Safeguarding-Multi-Agent-Reinforcement.md) — Xu vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [Cooperative Multi-Agent Reinforcement Learning with Submodular Trajectory Rewards](Cok-Etmenli-Pekistirmeli-Ogrenme/Arastirmalar/2026-Zolfimoselo-Cooperative-Multi-Agent-Reinforcemen.md) — Zolfimoselo vd. (2026) · *arXiv* · ön baskı / hakemsiz
-- [Reconstructing Fraudulent Strategies in Online Payments via Interpretable Inverse Reinforcement Learning](Ters-Pekistirmeli-Ogrenme/Arastirmalar/2026-He-Reconstructing-Fraudulent-Strategies-Online.md) — He vd. (2026) · *arXiv* · ön baskı / hakemsiz
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

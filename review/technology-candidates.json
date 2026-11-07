@@ -9,9 +9,11 @@
   "display": "Artificial Neural Network",
   "evidence": {
    "co_classified": {
+    "digital-twins": 1,
     "feedforward-neural-networks": 1,
     "generative-adversarial-networks": 1,
     "heat-transfer": 2,
+    "hyperparameter-optimization": 1,
     "lithium-ion-batteries": 1,
     "machine-learning": 1,
     "mechanical-engineering": 1,
@@ -58,9 +60,9 @@
      "url": "https://doi.org/10.25258/ijddt.16.86s.17"
     }
    ],
-   "first_authors": 11,
+   "first_authors": 13,
    "months": 1,
-   "papers": 11,
+   "papers": 13,
    "sources": [
     "arxiv",
     "openalex"
@@ -75,7 +77,77 @@
   "parent_suggestion": "heat-transfer",
   "reason": "synonym_of:approximate-nearest-neighbor-search",
   "status": "rejected",
-  "updated": "2026-11-06"
+  "updated": "2026-11-07"
+ },
+ "fourier transform infrared spectroscopy": {
+  "acronyms": [
+   "FTIR",
+   "FT-IR"
+  ],
+  "created": "2026-11-07",
+  "display": "Fourier transform infrared spectroscopy",
+  "evidence": {
+   "co_classified": {
+    "critical-minerals-processing": 1,
+    "enhanced-oil-recovery": 1,
+    "nanoparticles": 3,
+    "pharmaceutical-sciences": 1,
+    "scanning-electron-microscopy": 3,
+    "spectroscopy": 1
+   },
+   "examples": [
+    {
+     "date": "2026-11-02",
+     "id": "doi:10.55766/sujst11677",
+     "title": "FORMULATION DEVELOPMENT, OPTIMIZATION, CHARACTERIZATION, AND IN-VITRO ANTI-INFLAMMATORY EVALUATION",
+     "url": "https://doi.org/10.55766/sujst11677"
+    },
+    {
+     "date": "2026-11-02",
+     "id": "doi:10.1016/j.mtcomm.2026.116557",
+     "title": "Development and comprehensive characterization of sustainable epoxy composites reinforced with Palmyra palm husk fiber and Aegle marmelos fruit peel powder",
+     "url": "https://doi.org/10.1016/j.mtcomm.2026.116557"
+    },
+    {
+     "date": "2026-11-02",
+     "id": "doi:10.9734/ajarr/2026/v20i111500",
+     "title": "The Epoxidation of Walnut Oil (WNO) and the Analysis on the Epoxidized Oil with the Fourier Transform Infrared Spectroscopy",
+     "url": "https://doi.org/10.9734/ajarr/2026/v20i111500"
+    },
+    {
+     "date": "2026-11-02",
+     "id": "doi:10.1016/j.nxmate.2026.103940",
+     "title": "Upcycling Philippine-generated coal fly ash residue after rare earth element extraction via mechanochemical activation for enhanced methylene blue removal: Kinetic and equilibrium studies",
+     "url": "https://doi.org/10.1016/j.nxmate.2026.103940"
+    },
+    {
+     "date": "2026-11-02",
+     "id": "doi:10.36721/pjps/2026.40.16941.1",
+     "title": "Comprehensive analysis of the therapeutic effect of lipid-coated hybrid nanoparticles for breast cancer therapy",
+     "url": "https://doi.org/10.36721/pjps/2026.40.16941.1"
+    },
+    {
+     "date": "2026-11-02",
+     "id": "doi:10.1016/j.nxnano.2026.100906",
+     "title": "Fabrication of zinc oxide nanoparticles from electronic waste and application on cotton fabric to evaluate antibacterial properties",
+     "url": "https://doi.org/10.1016/j.nxnano.2026.100906"
+    }
+   ],
+   "first_authors": 10,
+   "months": 1,
+   "papers": 10,
+   "sources": [
+    "openalex"
+   ]
+  },
+  "key": "fourier transform infrared spectroscopy",
+  "literature_checked": "2026-11-07",
+  "literature_count": 193081,
+  "notes": [],
+  "parent_reason": "variant_of_existing",
+  "parent_suggestion": "spectroscopy",
+  "status": "candidate",
+  "updated": "2026-11-07"
  },
  "multimodal large language model": {
   "acronyms": [
@@ -86,8 +158,10 @@
   "display": "multimodal large language models",
   "evidence": {
    "co_classified": {
+    "anomaly-detection": 1,
     "image-quality-assessment": 1,
-    "large-language-models": 12,
+    "large-language-models": 15,
+    "llm-reasoning-methods": 1,
     "remote-sensing": 1,
     "vision-language-models": 3
    },
@@ -129,9 +203,9 @@
      "url": "https://arxiv.org/abs/2611.05193"
     }
    ],
-   "first_authors": 17,
+   "first_authors": 22,
    "months": 1,
-   "papers": 17,
+   "papers": 22,
    "sources": [
     "arxiv",
     "openalex"
@@ -144,6 +218,6 @@
   "parent_reason": "variant_of_existing",
   "parent_suggestion": "large-language-models",
   "status": "candidate",
-  "updated": "2026-11-06"
+  "updated": "2026-11-07"
  }
 }

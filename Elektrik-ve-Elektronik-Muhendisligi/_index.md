@@ -86,7 +86,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -97,6 +97,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
 - [Virtual Microphone Array for Direction-of-Arrival Estimation Based on Fiber-Optic Position Sensing](Sinyal-Isleme/Dizi-Sinyal-Isleme/Gelis-Yonu-Kestirimi/Arastirmalar/2026-Schwarze-Virtual-Microphone-Array-for.md) — Schwarze vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [Effects of High-Temperature Vacuum Annealing on the Microstructure, Mechanical Properties, and Plasma Etching Resistance of Bulk CVD-SiC](Yari-Iletken-Uretimi/Asindirma/Plazma-Asindirma/Arastirmalar/2026-Lee-Effects-High-Temperature-Vacuum.md) — Lee vd. (2026) · *Micromachines* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar
