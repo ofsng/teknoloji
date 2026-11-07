@@ -160,7 +160,17 @@ def cmd_maintain(args):
     if args.nodes_file:
         nodes += [l.strip() for l in open(args.nodes_file, encoding="utf-8") if l.strip() and not l.startswith("#")]
     report = []
-    if args.draft_json:  # dışarıda hazırlanmış taslak + kaynaklar
+    if args.from_report:  # önceki bir çalışmanın model taslaklarını (LLM'siz) yeniden doğrula ve uygula
+        exclude = [l.rstrip("\n") for l in open(args.exclude_file, encoding="utf-8") if l.strip()] if args.exclude_file else []
+        for item in json.load(open(args.from_report, encoding="utf-8")):
+            if not item.get("draft"):
+                report.append({"node": item["node"], "status": item.get("status"), "note": "taslak yok"})
+                continue
+            res = M.fill_node(cfg, tree, item["node"], draft=item["draft"], sources=item["source_list"],
+                              mode=args.mode, exclude=exclude)
+            print(json.dumps(res, ensure_ascii=False))
+            report.append(res)
+    elif args.draft_json:  # dışarıda hazırlanmış taslak + kaynaklar
         draft = json.load(open(args.draft_json, encoding="utf-8"))
         sources = json.load(open(args.sources_json, encoding="utf-8"))
         report.append(M.fill_node(cfg, tree, args.node, draft=draft, sources=sources))
@@ -300,6 +310,9 @@ def main(argv=None):
     p.add_argument("--nodes", help="virgülle teknoloji id'leri")
     p.add_argument("--nodes-file")
     p.add_argument("--report")
+    p.add_argument("--from-report", help="önceki çalışmanın raporundaki taslakları LLM'siz uygula")
+    p.add_argument("--exclude-file", help="denetimde çıkarılacak alıntı parçaları (satır başına bir)")
+    p.add_argument("--mode", choices=["quote", "summary"])
     p.set_defaults(fn=cmd_maintain)
     p = sub.add_parser("verify-links")
     p.add_argument("--nodes-file")

@@ -433,8 +433,14 @@ class Run:
                 break
             except (LLMError, SourceUnavailable, ValueError) as e:
                 self.stats["errors"].append(f"maintain {nid}: {e}")
-                continue
-            self.stats["maintained"].append(res)
+                res = {"node": nid, "status": "error"}
+            if res.get("status") in ("nothing_filled", "no_sources", "error"):
+                # içerik üretilemeyen düğüm kuyruğu tıkamasın: 30 gün sonra yeniden denenir
+                p = f"{kb.ROOT}/{self.tree.nodes[nid]['dir']}/{kb.INDEX}"
+                meta, body = kb.parse_frontmatter(kb.read(p))
+                meta["maintain_skip_until"] = (self.cfg.today + timedelta(days=30)).isoformat()
+                kb.write(p, kb.dump_frontmatter(meta) + "\n" + body)
+            self.stats["maintained"].append({k: v for k, v in res.items() if k not in ("draft", "source_list")})
         # yeni araştırmalar: içerikli düğümler için anlamlı katkı değerlendirmesi (yalnızca öneri üretir)
         for nid, path, rec in self.new_records:
             if not rec.get("abstract"):

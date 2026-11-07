@@ -1,6 +1,6 @@
 # Ücretsiz yerel LLM ile _index.md doldurma (llama.cpp + açık lisanslı model, runner CPU'sunda).
 # API anahtarı, hesap ya da ücret gerektirmez. Dosyalar SHA-256 ile doğrulanır ve önbelleğe alınır.
-# Sonuçlar main'e yazılmaz: değişiklikler artifact olarak yüklenir ve insan incelemesiyle eklenir.
+# Pilot doğrulaması PR #2'de yapıldı (run 42302514951, 42311304315). Sonuçlar main'e yazılmaz: değişiklikler artifact olarak yüklenir ve insan incelemesiyle eklenir.
 name: llm-fill
 
 on:
@@ -9,10 +9,6 @@ on:
       nodes_file:
         description: "Doldurulacak düğüm listesi (repo içi yol)"
         default: "tools/kbresearch/eval/pilot-nodes.txt"
-  pull_request:
-    paths:
-      - ".github/workflows/llm-fill.yml"
-      - "tools/kbresearch/eval/pilot-nodes.txt"
 
 permissions:
   contents: read

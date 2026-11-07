@@ -122,7 +122,17 @@ def mentions_entry(evidence, names):
     return False
 
 
-def validate(draft, sources, names=None):
+def text_mode(llm=None):
+    """'quote': bölümlere yalnızca doğrulanmış kaynak alıntıları yazılır (küçük yerel modellerin Türkçe yeniden
+    ifadesi pilotta güvenilir bulunmadı); 'summary': Türkçe özet + görünür alıntı."""
+    import os
+    m = os.environ.get("KB_LLM_TEXT_MODE")
+    if m in ("quote", "summary"):
+        return m
+    return "quote" if (llm is not None and getattr(llm, "provider", None) == "local") else "summary"
+
+
+def validate(draft, sources, names=None, require_turkish=True):
     """Kaynaksız, bilinmeyen kaynaklı, kanıt alıntısı özette bulunmayan ya da kanıtta olmayan sayı içeren
     ifadeleri atar. (temiz taslak, atılanlar)"""
     by = {s["sid"]: s for s in sources}
@@ -143,12 +153,12 @@ def validate(draft, sources, names=None):
                 why = "kanıt alıntısı çok uzun"
             elif not numbers_supported(text, ev):
                 why = "kanıtta olmayan sayı"
-            elif not is_turkish(text):
+            elif require_turkish and not is_turkish(text):
                 why = "ifade Türkçe değil / biçim sızıntısı"
             elif names and not mentions_entry(ev, names):
                 why = "kanıt bu teknolojiden söz etmiyor"
-            elif any(_norm(text) == _norm(o["text"]) for k2 in clean for o in clean[k2]) or \
-                    any(_norm(text) == _norm(o["text"]) for o in out):
+            elif any(_norm(text) == _norm(o["text"]) or _norm(ev) == _norm(o["evidence"])
+                     for o in [o for k2 in clean for o in clean[k2]] + out):
                 why = "tekrar"
             if why:
                 dropped.append({"section": key, "statement": st, "why": why})
@@ -165,7 +175,11 @@ AUTO_NOTE = ("\n\n<sub>Türkçe satırlar alıntılanan kaynak cümlesinin otoma
              "anlam farkı olursa alıntı esastır. İnsan onayı yok.</sub>")
 
 
-def render(clean, sources):
+QUOTE_NOTE = ("\n\n<sub>Bu bölümde yalnızca kaynaklardan birebir alıntılar vardır (yerel dil modeli seçti, "
+              "doğrulayıcı kaynak özetinde geçtiğini denetledi). Türkçe özet bekliyor; insan onayı yok.</sub>")
+
+
+def render(clean, sources, mode="summary"):
     """{bölüm no: markdown}, kaynak listesi markdown'u. Kaynak numaraları ilk kullanım sırasına göre."""
     order = []
     for key in [f"s{n}" for n in FILL_SECTIONS] + ["conflicts"]:
@@ -178,7 +192,10 @@ def render(clean, sources):
     out = {}
     for n in FILL_SECTIONS:
         items = clean.get(f"s{n}") or []
-        if items:
+        if items and mode == "quote":
+            out[n] = "\n".join(f"- “{st['evidence']}” " + "".join(f"[{num[s]}]" for s in st["sources"])
+                               + (" *(ön baskı)*" if st["basis"] == "preprint" else "") for st in items) + QUOTE_NOTE
+        elif items:
             # Kaynak alıntısı esastır ve görünürdür; Türkçe satır otomatik özettir (bkz. bölüm sonu notu)
             out[n] = "\n".join(f"- {st['text']}" + (" *(ön baskı bulgusu)*" if st["basis"] == "preprint" else "")
                                + " " + "".join(f"[{num[s]}]" for s in st["sources"])
@@ -216,6 +233,8 @@ def priority_queue(tree, limit, refresh=False):
     """Boş içerikli düğümler; sığdan derine, araştırma sayısı çok olan önce."""
     nodes = [n for n in tree.nodes.values()
              if refresh or (n["meta"].get("content_status") or "empty") in ("empty", "scope_note")]
+    nodes = [n for n in nodes if not n["meta"].get("maintain_skip_until") or
+             n["meta"]["maintain_skip_until"] <= date.today().isoformat()]
     nodes.sort(key=lambda n: (n["depth"], -len(n["research"]), n["dir"]))
     return [n["id"] for n in nodes[:limit]]
 
@@ -244,9 +263,9 @@ def write_proposal(cfg, nid, kind, sections, sources_md, rationale, extra=None):
     return path
 
 
-def apply_draft(cfg, tree, nid, clean, sources):
+def apply_draft(cfg, tree, nid, clean, sources, mode="summary"):
     """Boş bölümleri doldurur, dolu bölümler için öneri yazar. (doldurulan bölümler, öneri yolu)"""
-    sections, refs = render(clean, sources)
+    sections, refs = render(clean, sources, mode)
     if not sections:
         return [], None
     path = os.path.join(kb.ROOT, tree.nodes[nid]["dir"], kb.INDEX)
@@ -268,7 +287,7 @@ def apply_draft(cfg, tree, nid, clean, sources):
             body = kb.replace_section(body, 14, refs)
         else:
             blocked[14] = refs
-        meta["content_status"] = "ai_draft_sourced"
+        meta["content_status"] = "ai_quotes_sourced" if mode == "quote" else "ai_draft_sourced"
         meta["content_sources"] = [s.get("doi") or s.get("url") for s in sources
                                    if any(s["sid"] in st["sources"] for k in clean for st in clean[k])]
         meta["last_maintained"] = cfg.today.isoformat()
@@ -282,7 +301,8 @@ def apply_draft(cfg, tree, nid, clean, sources):
     return filled, proposal
 
 
-def fill_node(cfg, tree, nid, llm=None, http=None, openalex=None, draft=None, sources=None, keep_dropped=False):
+def fill_node(cfg, tree, nid, llm=None, http=None, openalex=None, draft=None, sources=None, keep_dropped=False,
+              mode=None, exclude=()):
     if sources is None:
         sources = gather_sources(http, cfg, tree, nid, openalex)
     if not sources:
@@ -298,10 +318,16 @@ def fill_node(cfg, tree, nid, llm=None, http=None, openalex=None, draft=None, so
                 f"Sub-technologies covered in their own entries (do not describe them in detail): "
                 f"{', '.join(tree.nodes[c]['meta']['title'] for c in n['children']) or 'none'}.\n\nSources:\n{listing}")
         draft = llm.json_call("index_draft", DRAFT_SYSTEM, user, DRAFT_SCHEMA, max_tokens=6000, effort="medium")
-    clean, dropped = validate(draft, sources, entry_names(tree.nodes[nid]["meta"]))
-    filled, proposal = apply_draft(cfg, tree, nid, clean, sources)
+    mode = mode or text_mode(llm)
+    clean, dropped = validate(draft, sources, entry_names(tree.nodes[nid]["meta"]), require_turkish=(mode == "summary"))
+    if exclude:  # insan/denetim kararıyla çıkarılan alıntılar
+        for k in clean:
+            keep = [st for st in clean[k] if not any(x in st["evidence"] for x in exclude)]
+            dropped += [{"section": k, "statement": st, "why": "denetimde çıkarıldı"} for st in clean[k] if st not in keep]
+            clean[k] = keep
+    filled, proposal = apply_draft(cfg, tree, nid, clean, sources, mode)
     kept = sum(len(v) for v in clean.values())
-    res = {"node": nid, "status": "filled" if filled else "nothing_filled", "filled": filled, "kept": kept,
+    res = {"node": nid, "status": "filled" if filled else "nothing_filled", "filled": filled, "kept": kept, "mode": mode,
            "dropped": len(dropped), "sources": len(sources), "proposal": proposal,
            "drop_reasons": {w: sum(1 for d in dropped if d["why"] == w) for w in {d["why"] for d in dropped}}}
     if keep_dropped:  # denetim raporu için (repoya yazılmaz)

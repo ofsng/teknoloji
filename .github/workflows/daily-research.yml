@@ -29,15 +29,16 @@ concurrency:
 jobs:
   research:
     runs-on: ubuntu-latest
-    timeout-minutes: 90
+    timeout-minutes: 120
     env:
       OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
       ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
       KB_CONTACT_EMAIL: ${{ vars.KB_CONTACT_EMAIL }}
       KB_MAX_ARCHIVE_PER_RUN: ${{ inputs.max_archive || '40' }}
-      # Ücretsiz yerel LLM (llama.cpp + Qwen) ile günde birkaç _index.md doldurma. Kapatmak için
-      # depo değişkeni KB_LLM_PROVIDER=none. Model/sürüm llm-fill.yml ile aynıdır.
-      KB_LLM_PROVIDER: ${{ vars.KB_LLM_PROVIDER || 'none' }}
+      # Ücretsiz yerel LLM (llama.cpp + Qwen3-4B-Instruct-2507) ile günde birkaç _index.md doldurma, alıntı
+      # modunda (yalnızca kaynakta birebir geçen cümleler; Türkçe özet yok). Kapatmak için depo değişkeni
+      # KB_LLM_PROVIDER=none. Model/sürüm llm-fill.yml ile aynıdır.
+      KB_LLM_PROVIDER: ${{ vars.KB_LLM_PROVIDER || 'local' }}
       KB_LLM_MODEL: qwen3-4b-instruct-2507
       KB_MAINTAIN_NODES: ${{ vars.KB_MAINTAIN_NODES || '3' }}
       LLAMA_BUILD: b12179

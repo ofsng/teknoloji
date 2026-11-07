@@ -14,8 +14,9 @@ classification_refs: []
 content_verified: false
 created: 2026-11-05
 layout: 2
-content_status: empty
-content_sources: []
+content_status: ai_quotes_sourced
+content_sources: ["10.3390/mi15091122", "10.1039/d6sc02112c", "10.1116/1.2794048"]
+last_maintained: 2026-11-07
 ---
 
 # Aşırı Morötesi Litografi (Extreme Ultraviolet Lithography)
@@ -26,7 +27,9 @@ content_sources: []
 
 ## 1. Tanım
 
-_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+- “Extreme ultraviolet lithography (EUVL) is a leading technology in semiconductor manufacturing, enabling the creation of high-resolution patterns essential for advanced microelectronics.” [1]
+
+<sub>Bu bölümde yalnızca kaynaklardan birebir alıntılar vardır (yerel dil modeli seçti, doğrulayıcı kaynak özetinde geçtiğini denetledi). Türkçe özet bekliyor; insan onayı yok.</sub>
 
 ## 2. Çalışma prensibi
 
@@ -38,11 +41,15 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 
 ## 4. Temel kavramlar
 
-_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+- “metal-oxide resists (MORs) have emerged as strong candidates for next-generation EUVL by incorporating metals with high EUV absorption coefficients, which enhances both resist sensitivity and etch resistance during pattern transfer.” [2]
+
+<sub>Bu bölümde yalnızca kaynaklardan birebir alıntılar vardır (yerel dil modeli seçti, doğrulayıcı kaynak özetinde geçtiğini denetledi). Türkçe özet bekliyor; insan onayı yok.</sub>
 
 ## 5. Temel yöntemler
 
-_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+- “recent advances in vapour-phase techniques, such as vapour-phase infiltration (VPI), chemical vapour deposition (CVD), and molecular atomic layer deposition (MALD), offer promising pathways to achieve new resist platforms, such as dry resists, that satisfy the stringent thickness and uniformity requirements of next-generation EUVL.” [2]
+
+<sub>Bu bölümde yalnızca kaynaklardan birebir alıntılar vardır (yerel dil modeli seçti, doğrulayıcı kaynak özetinde geçtiğini denetledi). Türkçe özet bekliyor; insan onayı yok.</sub>
 
 <!-- AUTO:BEGIN (kb.py reindex üretir; bu bloğu elle düzenlemeyin) -->
 ## 6. Alt teknolojiler
@@ -65,7 +72,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 
 ## 10. Sınırlılıklar
 
-_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+- “Creating a defect-free EUVL mask is currently an obstacle to its application, although a combination of removable pellicle and thermophoretic protection may overcome nonpellicle challenge.” [3]
+
+<sub>Bu bölümde yalnızca kaynaklardan birebir alıntılar vardır (yerel dil modeli seçti, doğrulayıcı kaynak özetinde geçtiğini denetledi). Türkçe özet bekliyor; insan onayı yok.</sub>
 
 ## 11. Açık problemler
 
@@ -89,4 +98,7 @@ _Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini gösterm
 
 ## 14. Kaynaklar
 
-_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+1. Muhammad Waleed Hasan vd. (2024). *Recent Advances in Metal-Oxide-Based Photoresists for EUV Lithography*. Micromachines. https://doi.org/10.3390/mi15091122 — hakemli
+2. Thi Thu Huong Chu vd. (2026). *Recent efforts of vapour-phase strategies for EUV resist toward high- and hyper-NA extreme ultraviolet lithography*. Chemical Science. https://doi.org/10.1039/d6sc02112c — hakemli
+3. Banqiu Wu vd. (2007). *Extreme ultraviolet lithography: A review*. Journal of Vacuum Science & Technology B Microelectronics and Nanometer Structures Processing Measurement and Phenomena. https://doi.org/10.1116/1.2794048 — hakemli
+

@@ -14,8 +14,9 @@ classification_refs: []
 content_verified: false
 created: 2026-11-05
 layout: 2
-content_status: empty
-content_sources: []
+content_status: ai_quotes_sourced
+content_sources: ["10.1126/science.aam6323", "10.1126/science.1254050"]
+last_maintained: 2026-11-07
 ---
 
 # Perovskit Güneş Hücreleri (Perovskite Solar Cells)
@@ -62,11 +63,15 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 
 ## 9. Avantajlar
 
-_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+- “The fabrication of our perovskite solar cells was conducted in air and from solution at low temperatures, which should simplify manufacturing of large-area perovskite devices that are inexpensive and perform at high levels.” [1]
+
+<sub>Bu bölümde yalnızca kaynaklardan birebir alıntılar vardır (yerel dil modeli seçti, doğrulayıcı kaynak özetinde geçtiğini denetledi). Türkçe özet bekliyor; insan onayı yok.</sub>
 
 ## 10. Sınırlılıklar
 
-_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+- “The challenges associated with long-term perovskite solar cell device stability include the role of testing protocols, ionic movement affecting performance metrics over extended periods of time, and determination of the best ways to counteract degradation mechanisms.” [2]
+
+<sub>Bu bölümde yalnızca kaynaklardan birebir alıntılar vardır (yerel dil modeli seçti, doğrulayıcı kaynak özetinde geçtiğini denetledi). Türkçe özet bekliyor; insan onayı yok.</sub>
 
 ## 11. Açık problemler
 
@@ -90,4 +95,6 @@ _Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini gösterm
 
 ## 14. Kaynaklar
 
-_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+1. Huanping Zhou vd. (2014). *Interface engineering of highly efficient perovskite solar cells*. Science. https://doi.org/10.1126/science.1254050 — hakemli
+2. Juan‐Pablo Correa‐Baena vd. (2017). *Promises and challenges of perovskite solar cells*. Science. https://doi.org/10.1126/science.aam6323 — hakemli
+

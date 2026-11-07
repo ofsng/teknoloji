@@ -41,7 +41,7 @@ yılda ~600 MB büyütür. Bütçe kalite ve kapsama göre harcanır, kalan kay�
 - arXiv gönderim günü 7 gün sonra yeniden taranır (geç duyurulanlar; görülen arXiv kimlikleri 21 gün hatırlanır).
 - Anahtarla (`OPENALEX_API_KEY`) dergi akışı günün tamamını kapsar (≤100 sayfa); anahtarsız 20 sayfa.
 - Tahmini OpenAlex maliyeti: ilk tarama ~95 + iki yeniden tarama ~190 liste çağrısı × $0,0001 ≈ **$0,03/gün**
-  (ücretsiz anahtarın $1/gün bütçesinin %3'ü).
+  (ücretsiz anahtarın $1/gün bütçesinin %3'ü); keşif ve tarihsel tamamlama aramalarıyla toplam ≈ $0,05/gün.
 
 ## Sınıflandırma kalibrasyonu (v2.1)
 
@@ -122,20 +122,58 @@ kaydında `cc0`/`cc-by`/`cc-by-sa`). Aksi hâlde araştırma dosyası özete ba�
 | bioRxiv/medRxiv API | Anahtarsız | belgelenmemiş | cursor | tarih aralığı | **Kullanılmıyor**: OpenAlex aynı kayıtları veriyor |
 | Semantic Scholar | Anahtar önerilir (1 istek/sn) | paylaşımlı havuz | — | — | **Kullanılmıyor (v1)**: OpenAlex ile büyük ölçüde örtüşüyor |
 
-Ölçülen gerçek maliyet: OpenAlex liste çağrısı $0,0001, arama $0,001 (`meta.cost_usd`). Günlük çalışma ≈ 25 liste +
-≤10 arama ≈ **$0,01/gün** → ücretsiz anahtarın %1'i. GitHub runner'ları IP paylaştığından anahtarsız bütçeye
-güvenilmemeli: `OPENALEX_API_KEY` tanımlayın.
+Ölçülen gerçek maliyet: OpenAlex liste çağrısı $0,0001, arama $0,001 (`meta.cost_usd`). Tam günlük kapsam ve iki
+yeniden tarama ile ≈ 285 liste + ≤20 arama ≈ **$0,05/gün** → ücretsiz anahtarın ($1/gün) %5'i. `OPENALEX_API_KEY`
+tanımlı (2026-11-05).
 
-## LLM modu (isteğe bağlı)
+## LLM ile bilgi doldurma (ücretsiz)
 
-`ANTHROPIC_API_KEY` ve `pip install "anthropic>=1,<2"` ile açılır. Varsayılan model `claude-opus-5-5` ($4 / $20
-milyon token); `KB_LLM_MODEL` ile değiştirilebilir — model değiştirmeden önce `tools/kbresearch/eval/` setiyle doğruluk
-ölçülmeli. Yapılandırılmış çıktı (JSON şeması) ve sunucu tarafı ret geri dönüşü kullanılır; yanıtlar
-`state/llm-cache.jsonl`'de önbelleklenir, aynı istem ikinci kez gönderilmez. Günlük sınırlar: `KB_LLM_MAX_CALLS`
-(40), `KB_LLM_MAX_USD` ($1). Bütçe dolunca işlem durur, kalan iş sonraki çalışmaya kalır.
+### Seçenek karşılaştırması (2026-11-07)
 
-Tahmini maliyet (Opus 5.5, tahmindir; gerçek kullanım `state/counters.json`'a yazılır): sınıflandırma ≈ $0,01–0,02/kayıt,
-bölüm doldurma ≈ $0,05–0,10/düğüm, güncelleme değerlendirmesi ≈ $0,02/kayıt → varsayılan sınırlarla **en fazla ≈ $1/gün**.
+| Seçenek | Ücret / kota | Actions'ta kullanılabilirlik | Durum |
+|---|---|---|---|
+| **Yerel model, runner CPU'su** (llama.cpp + Qwen3-4B-Instruct-2507, Apache-2.0) | Ücretsiz; kota yok; anahtar/hesap yok | **Doğrulandı**: run 42302514951, 42311304315 | **Seçildi** |
+| GitHub Models | — | — | 30 Temmuz 2026'da kapatıldı (GitHub belgeleri) |
+| Gemini API ücretsiz katmanı (Flash) | Proje başına değişken; kaynaklar 20–1.500 istek/gün bildiriyor; Google yayımlanmış sabit sınır vermiyor | Anahtar gerekir (kullanıcı hesabı); doğrulanmadı | Kalite yükseltmesi için önerilen yol (`KB_LLM_PROVIDER=openai`) |
+| Groq ücretsiz katmanı | ~1.000 istek, ~200 bin token/gün (gpt-oss, Qwen; üçüncü taraf kaynaklar) | Anahtar gerekir; doğrulanmadı | Alternatif |
+| OpenRouter `:free` | 50 istek/gün ($10 altı bakiye) | Anahtar gerekir; ücretsiz modeller sık değişir | Uygun değil |
+| Cloudflare Workers AI | 10.000 neuron/gün | Hesap gerekir; küçük modeller | Uygun değil |
+| Claude API | Ücretli | Çalışır | Kullanıcı talimatıyla kullanılmıyor |
+
+Kotalar hızla değişiyor; anahtar gerektiren seçenekler kullanıcı hesabı olmadan Actions'ta doğrulanamadı.
+
+### Pilot sonuçları (10 düğüm, derinlik 1–8)
+
+| | Qwen3-4B-Instruct-2507 | Qwen3.5-4B |
+|---|---|---|
+| Doğrulamadan geçen ifade (1. çalışma) | 90, 8 düğüm | 56, 6 düğüm |
+| Dil | Türkçe | İngilizce (talimata uymadı) |
+| Hız (runner CPU) | ~4,5–12 token/sn; düğüm başına 4–10 dk | ~12 token/sn |
+
+Elle denetim (Claude, bu oturumda): ilk çalışmada Türkçe ifadelerin **~%45**'i, sıkılaştırılmış doğrulayıcıdan sonra
+kalan 30 ifadenin **%43**'ü anlamca doğruydu. Hatalar: terim çevirisi ("resist" → "reaktif", "nonaqueous" →
+"sıvı olmayan"), alıntıda olmayan genelleme, yanlış konu. **Kaynak cümleyi seçme** ise güvenilirdi: alıntı modunda
+29 alıntının 22'si (%76) doğru bölümde ve doğru konudaydı; tamamı kaynak özetinde birebir geçiyor.
+
+**Karar: yerel model alıntı modunda çalışır.** Bölümlere yalnızca kaynakta birebir geçen, teknolojinin adını içeren
+alıntılar yazılır (`content_status: ai_quotes_sourced`); Türkçe özet yazılmaz ("Türkçe özet bekliyor"). Türkçe özet
+için daha güçlü bir model (`KB_LLM_PROVIDER=openai` + Gemini/Groq anahtarı, `KB_LLM_TEXT_MODE=summary`) ya da insan
+gerekir. Pilot sonucu: 10 düğümün **9'u** 22 denetlenmiş alıntıyla dolduruldu (`eval/pilot-audit-exclude.txt`:
+çıkarılan 7 alıntı); 19 kaynak bağlantısı doi.org ile doğrulandı, kırık yok. Difüzyon modelleri düğümünde model iki
+çalışmada da boş yanıt verdi.
+
+### Doğrulayıcı (tüm sağlayıcılar)
+
+Her ifade: bilinen bir kaynağa atıf; 6–45 sözcüklük **birebir İngilizce alıntı** (kaynak özetinde geçmeli); alıntı
+teknolojinin adını/takma adını içermeli; ifadedeki her sayı alıntıda geçmeli; özet modunda metin Türkçe olmalı;
+aynı alıntı/ifade tekrar edilmez. "Ön baskı" işareti modelden değil kaynağın yayın türünden gelir.
+
+### Günlük çalışma ve maliyet
+
+Günlük iş akışı modeli SHA-256 doğrulamasıyla indirir/önbelleğe alır, llama.cpp sunucusunu başlatır ve en fazla
+`KB_MAINTAIN_NODES` (3) düğümü doldurur. İçerik üretilemeyen düğüm 30 gün atlanır. Model başlamazsa bakım atlanır,
+toplama etkilenmez. Kapatmak: depo değişkeni `KB_LLM_PROVIDER=none`. Yerel modelin sınıflandırma kararıyla arşive
+kayıt yazılmaz. **LLM maliyeti: $0** (açık depoda Actions dakikaları ücretsiz).
 
 ## Durum dosyaları (`state/`, Git'e işlenir)
 

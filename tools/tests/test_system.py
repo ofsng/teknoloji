@@ -732,3 +732,26 @@ class TestCandidateConflicts(Base):
         with self.assertRaises(ValueError):
             self.d.cands[near["key"]] = near
             self.d.verify(near["key"], "graph-neural-networks")
+
+
+class TestQuoteMode(Base):
+    def test_quote_mode_writes_only_verified_quotes(self):
+        draft = {**{f"s{n}": [] for n in M.FILL_SECTIONS}, "conflicts": [],
+                 "s1": [{"text": "English text is fine in quote mode", "evidence":
+                         "GNNs are neural models that capture the dependence of graphs via message passing",
+                         "sources": ["S1"], "basis": "preprint"},
+                        {"text": "x", "evidence": "GNNs are invented quote not in the abstract at all here",
+                         "sources": ["S1"], "basis": "review"}]}
+        res = M.fill_node(self.cfg, self.tree(), "graph-neural-networks", draft=draft, sources=SOURCES, mode="quote",
+                          exclude=["never matches"])
+        p = os.path.join(self.root, self.tree().nodes["graph-neural-networks"]["dir"], kb.INDEX)
+        meta, body = kb.parse_frontmatter(kb.read(p))
+        sec = kb.get_section(body, 1)
+        self.assertTrue(sec.startswith("- “GNNs are neural models"))
+        self.assertNotIn("English text is fine", body, "alıntı modunda model metni yazılmaz")
+        self.assertNotIn("ön baskı", sec, "S1 hakemli derleme: dayanak türü kaynaktan gelir, modelden değil")
+        self.assertEqual(meta["content_status"], "ai_quotes_sourced")
+        self.assertEqual(res["dropped"], 1)
+        res2 = M.fill_node(self.cfg, self.tree(), "deep-learning", draft={**draft, "s1": draft["s1"][:1]},
+                           sources=SOURCES, mode="quote", exclude=["GNNs are neural models"])
+        self.assertEqual(res2["status"], "nothing_filled", "denetimde çıkarılan alıntı yazılmamalı")

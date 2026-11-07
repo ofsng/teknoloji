@@ -8,32 +8,39 @@
 
 ## v2 — Otonom araştırma sistemi (2026-11-05)
 
-| Aşama | Durum | Not |
-|---|---|---|
-| 1. Mevcut sistemin doğrulanması | Tamam | `kb.py check` 0 hata. Bulunan ve düzeltilen hata: ilk kurulumda takma adlar `/` karakterinden bölünmüştü (ör. "PET/CT" → "PET","CT"); 7 düğüm onarıldı. "Data parallelism" takma adı mevcut "Veri Paralelliği" düğümüyle çakışıyordu, kaldırıldı. |
-| Düzen geçişi | Tamam | 3492 `_index.md` 14 bölümlü 2. düzene, 3 araştırma dosyası yeni ön bilgiye taşındı; kimlik ve yollar değişmedi (karşılaştırmalı doğrulandı). |
-| 2. Toplama | Tamam | arXiv + OpenAlex (dergi/konferans, bioRxiv/medRxiv) + Crossref. Gerçek çalışma: 3.867 kayıt tarandı, 38 arşivlendi. |
-| 3. Sınıflandırma | Tamam | Etiketli setle ölçüldü: `high` doğru dal 0,94 (n=33). Üretim örneği 34/38. |
-| 4. Markdown arşivi | Tamam | Tekilleştirme, sürüm birleştirme, kimlik doğrulama (Crossref/doi.org), geri çekme denetimi. |
-| 5. Teknoloji keşfi | Tamam (kanıt birikiyor) | İlk günde aday yok (eşik: 5 makale, 3 yazar, 2 ay). 258 terim izleniyor. |
-| 6. Teknoloji açıklamaları | Pilot | 2 düğüm kaynaklı dolduruldu (`ai_draft_sourced`): kuantum hata düzeltme, sıfır bilgi ispatları. Otomatik doldurma LLM anahtarı gerektirir. |
-| 7. Otomasyon | Tamam | Elle tetiklenen çalışma başarılı (run 42083148449): testler, günlük çalışma, doğrulama, `auto/research` dalına gönderim. PR açma depo ayarı nedeniyle reddedildi (yedek yol çalıştı). Zamanlama açıldı: her gün 04:17 UTC. |
+Toplama (arXiv, OpenAlex, Crossref), sınıflandırma, arşiv, teknoloji keşfi, bilgi bakımı, günlük iş akışı.
+Ayrıntı: AUTOMATION.md. Otomatik çalışmalar `auto/research` dalında birikir ve PR #1 üzerinden incelenir.
+
+## v2.1 — Kayıp önleme, kalibrasyon, ücretsiz LLM (2026-11-07, PR #2)
+
+| Konu | Durum |
+|---|---|
+| Araştırma kaybı | Düzeltildi. Eski sürüm bütçeye takılan yüksek güvenli kayıtları atıyordu (11-05: 561, 11-06: 518). Kalıcı backlog + defter; tek seferlik kurtarma gerçek bot durumunda denendi: 6 gün/akış yeniden tarandı, 1.085 kayıt backlog'a girdi, 40'ı arşivlendi (27'si ilk kez araştırma alan teknolojiler). |
+| Geç dizinlenen yayınlar | OpenAlex yayın günü 10 ve 30 gün sonra yeniden taranır (yalnızca `created_date` yeni olanlar); arXiv 7 gün sonra. Anahtarla tam günlük kapsam (önceden günün ~%22'si). |
+| Sınıflandırma | Kalibrasyon (90 kayıt): yüksek güven eşiği 6,0 → 7,5. Bağımsız sette arşive girenlerin kesinliği 0,94 → 1,00 (n=22). |
+| İnceleme kuyruğu | Tekrar birleştirme, öncelik, 150 sınırı, 30 gün sonra deftere. |
+| Teknoloji adayları | Çakışma kontrolü; eski "artificial neural network → ANN araması eş anlamlısı" kararı geri alındı; "multimodal large language model" LLM'in alt türü ve olası çakışma olarak işaretlendi. |
+| Ücretsiz LLM | GitHub Models kapatılmış. Yerel llama.cpp + Qwen3-4B-Instruct-2507 Actions'ta doğrulandı; alıntı modu. Pilot: 9/10 düğüm, 22 denetlenmiş alıntı, kırık bağlantı yok. |
+| Actions uyarıları | Node 20 uyarısı: checkout@v7, setup-python@v7, cache@v5, upload-artifact@v6 (Node 24). |
+| Önceki açık işler | Tamamlandı: `OPENALEX_API_KEY` tanımlandı; Actions'ın PR açma izni verildi. |
 
 ## Açık işler
 
-- [ ] GitHub'da `OPENALEX_API_KEY` (ücretsiz) ve isteğe bağlı `ANTHROPIC_API_KEY` gizli değerlerini tanımlamak.
-- [ ] Depo ayarı: "Allow GitHub Actions to create and approve pull requests" (kapalıysa iş akışı yalnızca dalı gönderir).
-- [ ] `review/CLASSIFICATION-QUEUE.md` ve aday listesini düzenli gözden geçirmek.
-- [ ] Pilot `_index.md` içeriklerini (2 düğüm) okuyup onaylamak (`content_status: human_verified`, `content_verified: true`).
-- [ ] Değerlendirme setini insan etiketleriyle genişletmek (şu an 70 kayıt, Claude etiketli).
-- [ ] Tarihsel tamamlamada düğüm adı başlıkta geçmeyen temel çalışmalar (ör. "Attention Is All You Need") kaçırılıyor; takma adlarla arama eklenebilir.
-- [ ] Önceki taksonomi açık işleri (ACM CCS/MeSH/IEEE karşılaştırmaları, sığ disiplinler).
+- [ ] PR #2'yi incelemek ve birleştirmek (birleşince günlük iş akışı kurtarmayı otomatik yapar).
+- [ ] PR #1'deki birikmiş araştırmaları ve `review/` kuyruklarını gözden geçirmek.
+- [ ] Alıntı modundaki bölümler için Türkçe özet: Gemini/Groq ücretsiz anahtarı (`KB_LLM_PROVIDER=openai`, `KB_LLM_TEXT_MODE=summary`) ya da insan.
+- [ ] Yerel model için 8B sınıfı (ör. Qwen3-8B) Türkçe kalitesini denemek (2× yavaş).
+- [ ] Pilot ve ilk iki `_index.md` içeriklerini okuyup onaylamak (`content_status: human_verified`, `content_verified: true`).
+- [ ] Değerlendirme setlerini insan etiketleriyle genişletmek (şu an 70 + 90 kayıt, Claude etiketli).
+- [ ] Backlog günde ~500 kayıt büyüyor, günde 40 arşivleniyor; sınır (3.000) aşılınca düşük öncelikliler deftere geçer. Bütçe ihtiyaca göre `KB_MAX_ARCHIVE_PER_RUN` ile ayarlanabilir.
+- [ ] Tarihsel tamamlamada düğüm adı başlıkta geçmeyen temel çalışmalar kaçırılıyor (takma adlarla arama).
 
 ## Devam etme komutları
 
 ```bash
 cd Technology-Knowledge-Base
 python3 tools/autokb.py status
+python3 tools/autokb.py backlog status
 python3 -m unittest discover -s tools/tests
 python3 tools/kb.py check
 ```
