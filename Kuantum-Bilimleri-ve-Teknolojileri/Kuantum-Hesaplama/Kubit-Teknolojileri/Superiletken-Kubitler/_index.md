@@ -80,7 +80,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
 Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **1**.
 
-- [Remote Adiabatic Controlled-Z Gate between Distant Superconducting Qubits](Arastirmalar/2026-Xu-Remote-Adiabatic-Controlled-Gate.md) — Xu vd. (2026) · *Chinese Physics B* · hakemli
+- [Remote Adiabatic Controlled-Z Gate between Distant Superconducting Qubits](Arastirmalar/2026-Xu-Remote-Adiabatic-Controlled-Gate.md) — Xu vd. (2026) · *Chinese Physics B* · hakemli · atıf: 1
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -90,7 +90,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
-- [Remote Adiabatic Controlled-Z Gate between Distant Superconducting Qubits](Arastirmalar/2026-Xu-Remote-Adiabatic-Controlled-Gate.md) — Xu vd. (2026) · *Chinese Physics B* · hakemli
+- [Remote Adiabatic Controlled-Z Gate between Distant Superconducting Qubits](Arastirmalar/2026-Xu-Remote-Adiabatic-Controlled-Gate.md) — Xu vd. (2026) · *Chinese Physics B* · hakemli · atıf: 1
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

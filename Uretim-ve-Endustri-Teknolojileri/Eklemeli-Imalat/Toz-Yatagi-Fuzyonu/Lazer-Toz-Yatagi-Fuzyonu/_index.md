@@ -75,7 +75,10 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **2**.
+
+- [Microstructure evolution and mechanical performance optimization of 30CrMnSiNi2A steel processed by laser powder bed fusion combined with heat treatment](Arastirmalar/2026-Wang-Microstructure-evolution-and-mechanical.md) — Wang vd. (2026) · *Materials Science and Technology* · hakemli
+- [Synergistic Effects of Carbon/Nitrogen Content and Laser Powder Bed Fusion Parameters on the Hot Cracking Behavior and Microstructural Evolution of a Ni–Co‐Based Superalloy](Arastirmalar/2026-Yu-Synergistic-Effects-Carbon-Nitrogen.md) — Yu vd. (2026) · *Advanced Engineering Materials* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -83,7 +86,10 @@ Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
-_Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini göstermez; ön baskılar hakemli değildir._
+Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
+
+- [Microstructure evolution and mechanical performance optimization of 30CrMnSiNi2A steel processed by laser powder bed fusion combined with heat treatment](Arastirmalar/2026-Wang-Microstructure-evolution-and-mechanical.md) — Wang vd. (2026) · *Materials Science and Technology* · hakemli
+- [Synergistic Effects of Carbon/Nitrogen Content and Laser Powder Bed Fusion Parameters on the Hot Cracking Behavior and Microstructural Evolution of a Ni–Co‐Based Superalloy](Arastirmalar/2026-Yu-Synergistic-Effects-Carbon-Nitrogen.md) — Yu vd. (2026) · *Advanced Engineering Materials* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

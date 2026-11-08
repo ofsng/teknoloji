@@ -6,7 +6,7 @@ year: 2026
 published_date: 2026-11-02
 updated_date: 2026-11-05
 doi: 10.1007/s44214-026-00110-1
-arxiv:
+arxiv: 2611.04526
 url: https://doi.org/10.1007/s44214-026-00110-1
 publication: "Quantum Frontiers"
 publication_type: article
@@ -16,14 +16,14 @@ related_technologies: ["critical-minerals-processing"]
 classification_confidence: high
 classification_method: deterministic
 keywords: ["quantum memory", "rare-earth ions", "doped crystals", "spin coherence", "dynamical decoupling", "light storage", "single-photon storage", "quantum networks", "quantum repeaters", "solid-state quantum memory"]
-source_ids: ["openalex:W7225049534"]
+source_ids: ["openalex:W7225049534", "arxiv:2611.04526"]
 cited_by_count: 0
 content_status: abstract_only
 abstract_license: cc-by
 retraction_status: none_reported
-related_versions: []
+related_versions: [{"relation": "published_version", "doi": "10.1007/s44214-026-00110-1", "journal_ref": "Quantum Frontiers 5, 14 (2026)", "source": "arxiv"}]
 collected_at: 2026-11-05
-last_checked_at: 2026-11-05
+last_checked_at: 2026-11-08
 content_verified: false
 identifier_verified: crossref
 retraction_checked: 2026-11-06
@@ -71,5 +71,8 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 ## 9. Kaynaklar
 
 - DOI: https://doi.org/10.1007/s44214-026-00110-1
+- arXiv: https://arxiv.org/abs/2611.04526
 - OpenAlex: https://openalex.org/W7225049534
-- Metadata kaynakları: openalex:W7225049534 (toplama: 2026-11-05)
+- Yayımlanmış sürüm: https://doi.org/10.1007/s44214-026-00110-1 (Quantum Frontiers 5, 14 (2026))
+- Metadata kaynakları: openalex:W7225049534, arxiv:2611.04526 (toplama: 2026-11-05)
+

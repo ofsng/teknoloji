@@ -79,7 +79,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
 Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **1**.
 
-- [Efficient quantum convolutional neural networks for image classification: overcoming hardware constraints](Arastirmalar/2026-Roseler-Efficient-quantum-convolutional-neural.md) — Röseler vd. (2026) · *Quantum Machine Intelligence* · hakemli · atıf: 4
+- [Efficient quantum convolutional neural networks for image classification: overcoming hardware constraints](Arastirmalar/2026-Roseler-Efficient-quantum-convolutional-neural.md) — Röseler vd. (2026) · *Quantum Machine Intelligence* · hakemli · atıf: 10
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -89,7 +89,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
-- [Efficient quantum convolutional neural networks for image classification: overcoming hardware constraints](Arastirmalar/2026-Roseler-Efficient-quantum-convolutional-neural.md) — Röseler vd. (2026) · *Quantum Machine Intelligence* · hakemli · atıf: 4
+- [Efficient quantum convolutional neural networks for image classification: overcoming hardware constraints](Arastirmalar/2026-Roseler-Efficient-quantum-convolutional-neural.md) — Röseler vd. (2026) · *Quantum Machine Intelligence* · hakemli · atıf: 10
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

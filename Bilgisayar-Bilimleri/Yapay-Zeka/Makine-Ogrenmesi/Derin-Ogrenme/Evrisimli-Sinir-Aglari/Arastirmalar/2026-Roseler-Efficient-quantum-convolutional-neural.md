@@ -17,13 +17,13 @@ classification_confidence: high
 classification_method: deterministic
 keywords: ["quantum convolutional neural networks", "image classification", "dimensionality reduction", "variational quantum circuits", "NISQ devices", "entanglement", "expressibility", "hybrid quantum-classical models", "MNIST", "IBM Heron r2", "convergence rate"]
 source_ids: ["openalex:W7118913317"]
-cited_by_count: 4
+cited_by_count: 10
 content_status: abstract_only
 abstract_license: cc-by
 retraction_status: none_reported
 related_versions: []
 collected_at: 2026-11-06
-last_checked_at: 2026-11-06
+last_checked_at: 2026-11-08
 content_verified: false
 identifier_verified: crossref
 retraction_checked: 2026-11-07
@@ -74,3 +74,4 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 - arXiv: https://arxiv.org/abs/2505.05957
 - OpenAlex: https://openalex.org/W7118913317
 - Metadata kaynakları: openalex:W7118913317 (toplama: 2026-11-06)
+

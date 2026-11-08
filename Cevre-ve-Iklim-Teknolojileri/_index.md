@@ -85,7 +85,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **7**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -95,8 +95,13 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Artificial intelligence for water quality monitoring: a PRISMA-based systematic literature review, taxonomy, comparative analysis, and future research directions](Cevresel-Izleme/Su-Kalitesi-Izleme/Arastirmalar/2026-Rani-Artificial-intelligence-for-water.md) — Rani vd. (2026) · *Artificial Intelligence Review* · hakemli
+- [Machine Learning-Based Prediction and Interpretation of Aluminum and Iron Coagulant Dosages in Drinking Water Treatment](Su-Aritma/Icme-Suyu-Aritma/Arastirmalar/2026-Lian-Machine-Learning-Based-Prediction.md) — Lian vd. (2026) · *Sustainability* · hakemli
+- [Enhanced Rock Weathering for Carbon Dioxide Removal: An Integrated Review of Potential, Challenges, and Pathways to Scalable and Sustainable Implementation](Karbon-Yonetimi/Karbondioksit-Giderimi/Hizlandirilmis-Kaya-Ayrismasi/Arastirmalar/2026-Moges-Enhanced-Rock-Weathering-for.md) — Moges vd. (2026) · *Energy & Fuels* · hakemli
 - [Review article: rainfall-induced landslide early warning systems through the lens of the early warnings for all framework – advances, gaps, and perspectives](Iklim-Uyum-Teknolojileri/Erken-Uyari-Sistemleri/Arastirmalar/2026-Salam-Review-article-rainfall-induced.md) — Salam vd. (2026) · *Natural hazards and earth system sciences* · hakemli
+- [Urban Solid Waste Management in Bengaluru and Indore: A Comparative Analysis](Kati-Atik-Yonetimi/Arastirmalar/2026-Biju-Urban-Solid-Waste-Management.md) — Biju vd. (2026) · *International Journal of Interdisciplinary Approaches in Psychology* · hakemli
 - [Vapor Phase Infiltration of Metal Oxides for Water Treatment Membranes: Potential and Limitations](Su-Aritma/Arastirmalar/2026-Yao-Vapor-Phase-Infiltration-Metal.md) — Yao vd. (2026) · *ACS Omega* · hakemli
+- [Development of a novel empirical model for optimization of sludge discharge in drinking water treatment clarifiers](Su-Aritma/Icme-Suyu-Aritma/Arastirmalar/2026-Abd-Elshafi-Development-novel-empirical-model.md) — Abd-Elshafi vd. (2026) · *Water Science & Technology Water Supply* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

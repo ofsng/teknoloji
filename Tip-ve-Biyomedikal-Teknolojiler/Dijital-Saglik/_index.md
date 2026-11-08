@@ -78,7 +78,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **3**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -89,6 +89,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
 - [Effectiveness of a novel mobile health application in educating first-time complete denture wearers: a prospective randomized controlled clinical study](Mobil-Saglik/Arastirmalar/2026-Sooda-Effectiveness-novel-mobile-health.md) — Sooda vd. (2026) · *BMC Oral Health* · hakemli
+- [Mentorship for electronic health record quality improvement in Nigeria: A practice framework](Saglik-Bilisimi/Elektronik-Saglik-Kayitlari/Arastirmalar/2026-Popoola-Mentorship-for-electronic-health.md) — Popoola (2026) · *Innovation in Health for Society* · hakemli
 - [Mapping the evidence on implementation of clinical decision support systems in nurses' reverse triage decisions during disaster surges: A scoping review with a proposed conceptual framework](Saglik-Bilisimi/Klinik-Karar-Destek-Sistemleri/Arastirmalar/2026-Salasa-Mapping-the-evidence-implementation.md) — Salasa vd. (2026) · *International Emergency Nursing* · hakemli
 <!-- AUTO:RECENT:END -->
 

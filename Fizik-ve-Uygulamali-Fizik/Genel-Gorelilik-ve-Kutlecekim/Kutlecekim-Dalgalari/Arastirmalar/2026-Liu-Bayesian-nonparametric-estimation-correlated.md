@@ -17,13 +17,13 @@ classification_confidence: high
 classification_method: deterministic
 keywords: ["gravitational wave detector noise", "adaptive Markov chain Monte Carlo", "LISA", "Einstein Telescope", "time-delay interferometry"]
 source_ids: ["openalex:W7171843745"]
-cited_by_count: 0
+cited_by_count: 2
 content_status: metadata_only
 abstract_license:
 retraction_status: none_reported
 related_versions: []
 collected_at: 2026-11-07
-last_checked_at: 2026-11-07
+last_checked_at: 2026-11-08
 content_verified: false
 identifier_verified: crossref
 retraction_checked: 2026-11-07
@@ -71,3 +71,4 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 - arXiv: https://arxiv.org/abs/2607.26619
 - OpenAlex: https://openalex.org/W7171843745
 - Metadata kaynakları: openalex:W7171843745 (toplama: 2026-11-07)
+

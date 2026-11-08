@@ -86,7 +86,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **5**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -96,8 +96,11 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Localized Trap-State Engineering of Subthreshold Swing in Amorphous In–Ga–O Thin-Film Transistors via Vertically Positioned Sn δ-Doping](Elektronik-Cihazlar/Alan-Etkili-Transistorler/Ince-Film-Transistorler/Arastirmalar/2026-Lee-Localized-Trap-State-Engineering.md) — Lee vd. (2026) · *ACS Applied Materials & Interfaces* · hakemli
 - [Virtual Microphone Array for Direction-of-Arrival Estimation Based on Fiber-Optic Position Sensing](Sinyal-Isleme/Dizi-Sinyal-Isleme/Gelis-Yonu-Kestirimi/Arastirmalar/2026-Schwarze-Virtual-Microphone-Array-for.md) — Schwarze vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [Effects of High-Temperature Vacuum Annealing on the Microstructure, Mechanical Properties, and Plasma Etching Resistance of Bulk CVD-SiC](Yari-Iletken-Uretimi/Asindirma/Plazma-Asindirma/Arastirmalar/2026-Lee-Effects-High-Temperature-Vacuum.md) — Lee vd. (2026) · *Micromachines* · hakemli
+- [Sustainable and secure thin-film transistor platform with integrated optical–acoustic anticounterfeiting features for smart electronics](Elektronik-Cihazlar/Alan-Etkili-Transistorler/Ince-Film-Transistorler/Arastirmalar/2026-Biswas-Sustainable-and-secure-thin.md) — Biswas vd. (2026) · *Discover Applied Sciences* · hakemli
+- [Effect of Vacuum Annealing Temperature on Optoelectrical Performance of IGZTO Films and Thin-Film Transistors](Elektronik-Cihazlar/Alan-Etkili-Transistorler/Ince-Film-Transistorler/Arastirmalar/2026-Cao-Effect-Vacuum-Annealing-Temperature.md) — Cao vd. (2026) · *Materials* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

@@ -17,13 +17,13 @@ classification_confidence: high
 classification_method: deterministic
 keywords: ["reinforcement learning from human feedback", "large language model alignment", "reward modeling", "pairwise preference learning", "Bradley-Terry-Luce model", "active learning (machine learning)", "experimental design", "uncertainty quantification", "direct preference optimization", "reinforcement learning from AI feedback", "reinforcement learning from verifiable rewards"]
 source_ids: ["openalex:W7150914366"]
-cited_by_count: 0
+cited_by_count: 3
 content_status: metadata_only
 abstract_license:
 retraction_status: none_reported
 related_versions: []
 collected_at: 2026-11-06
-last_checked_at: 2026-11-06
+last_checked_at: 2026-11-08
 content_verified: false
 identifier_verified: crossref
 retraction_checked: 2026-11-06
@@ -72,3 +72,4 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 - arXiv: https://arxiv.org/abs/2604.02507
 - OpenAlex: https://openalex.org/W7150914366
 - Metadata kaynakları: openalex:W7150914366 (toplama: 2026-11-06)
+

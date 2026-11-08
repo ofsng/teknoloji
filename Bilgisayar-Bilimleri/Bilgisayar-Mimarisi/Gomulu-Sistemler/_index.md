@@ -88,7 +88,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
-- [Using quantum annealing to generate test cases for cyber-physical systems](Siber-Fiziksel-Sistemler/Arastirmalar/2026-Araujo-Using-quantum-annealing-generate.md) — Araujo vd. (2026) · *ACM Transactions on Software Engineering and Methodology* · hakemli
+- [Using quantum annealing to generate test cases for cyber-physical systems](Siber-Fiziksel-Sistemler/Arastirmalar/2026-Araujo-Using-quantum-annealing-generate.md) — Araujo vd. (2026) · *ACM Transactions on Software Engineering and Methodology* · hakemli · atıf: 3
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

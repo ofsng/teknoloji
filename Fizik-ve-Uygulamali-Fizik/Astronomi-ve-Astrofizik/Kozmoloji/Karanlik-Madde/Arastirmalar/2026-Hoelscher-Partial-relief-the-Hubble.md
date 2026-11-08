@@ -17,13 +17,13 @@ classification_confidence: high
 classification_method: deterministic
 keywords: ["Hubble tension", "Hubble constant", "dark matter decay", "spontaneous symmetry breaking", "dark sector", "self-interacting dark matter", "equation of state parameter", "effective field theory", "UV completion", "core-cusp problem", "small-scale structure"]
 source_ids: ["openalex:W7127358831"]
-cited_by_count: 0
+cited_by_count: 1
 content_status: metadata_only
 abstract_license:
 retraction_status: none_reported
 related_versions: []
 collected_at: 2026-11-06
-last_checked_at: 2026-11-06
+last_checked_at: 2026-11-08
 content_verified: false
 identifier_verified: crossref
 retraction_checked: 2026-11-06
@@ -71,3 +71,4 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 - arXiv: https://arxiv.org/abs/2602.01543
 - OpenAlex: https://openalex.org/W7127358831
 - Metadata kaynakları: openalex:W7127358831 (toplama: 2026-11-06)
+

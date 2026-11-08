@@ -76,7 +76,11 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **3**, alt teknolojiler dahil: **3**.
+
+- [Sustainable and secure thin-film transistor platform with integrated optical–acoustic anticounterfeiting features for smart electronics](Arastirmalar/2026-Biswas-Sustainable-and-secure-thin.md) — Biswas vd. (2026) · *Discover Applied Sciences* · hakemli
+- [Effect of Vacuum Annealing Temperature on Optoelectrical Performance of IGZTO Films and Thin-Film Transistors](Arastirmalar/2026-Cao-Effect-Vacuum-Annealing-Temperature.md) — Cao vd. (2026) · *Materials* · hakemli
+- [Localized Trap-State Engineering of Subthreshold Swing in Amorphous In–Ga–O Thin-Film Transistors via Vertically Positioned Sn δ-Doping](Arastirmalar/2026-Lee-Localized-Trap-State-Engineering.md) — Lee vd. (2026) · *ACS Applied Materials & Interfaces* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -84,7 +88,11 @@ Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
-_Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini göstermez; ön baskılar hakemli değildir._
+Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
+
+- [Localized Trap-State Engineering of Subthreshold Swing in Amorphous In–Ga–O Thin-Film Transistors via Vertically Positioned Sn δ-Doping](Arastirmalar/2026-Lee-Localized-Trap-State-Engineering.md) — Lee vd. (2026) · *ACS Applied Materials & Interfaces* · hakemli
+- [Sustainable and secure thin-film transistor platform with integrated optical–acoustic anticounterfeiting features for smart electronics](Arastirmalar/2026-Biswas-Sustainable-and-secure-thin.md) — Biswas vd. (2026) · *Discover Applied Sciences* · hakemli
+- [Effect of Vacuum Annealing Temperature on Optoelectrical Performance of IGZTO Films and Thin-Film Transistors](Arastirmalar/2026-Cao-Effect-Vacuum-Annealing-Temperature.md) — Cao vd. (2026) · *Materials* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

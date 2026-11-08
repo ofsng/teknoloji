@@ -85,7 +85,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -95,6 +95,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Crop biophysical parameter estimation via AI-enhanced hyperspectral remote sensing](Uzaktan-Algilama/Hiperspektral-Uzaktan-Algilama/Arastirmalar/2026-Zhang-Crop-biophysical-parameter-estimation.md) — Zhang vd. (2026) · *Geo-spatial Information Science* · hakemli
 - [A Synergistic Assessment of Global Wind and Wave Energy Resources Using Satellite Altimetry](Uzaktan-Algilama/Uydu-Altimetrisi/Arastirmalar/2026-Li-Synergistic-Assessment-Global-Wind.md) — Li vd. (2026) · *Journal of Marine Science and Engineering* · hakemli
 <!-- AUTO:RECENT:END -->
 

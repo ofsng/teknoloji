@@ -17,13 +17,13 @@ classification_confidence: high
 classification_method: deterministic
 keywords: ["fourth-order gravity", "quadratic gravity", "ghost-free gravity", "gravitational wave emission", "orbital decay", "PSR B1913+16", "GW170817", "chirp mass", "non-unitarity", "torsion", "non-metricity", "modified gravity"]
 source_ids: ["openalex:W4415966856"]
-cited_by_count: 1
+cited_by_count: 5
 content_status: metadata_only
 abstract_license:
 retraction_status: none_reported
 related_versions: []
 collected_at: 2026-11-07
-last_checked_at: 2026-11-07
+last_checked_at: 2026-11-08
 content_verified: false
 identifier_verified: crossref
 retraction_checked: 2026-11-07
@@ -71,3 +71,4 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 - arXiv: https://arxiv.org/abs/2510.17789
 - OpenAlex: https://openalex.org/W4415966856
 - Metadata kaynakları: openalex:W4415966856 (toplama: 2026-11-07)
+

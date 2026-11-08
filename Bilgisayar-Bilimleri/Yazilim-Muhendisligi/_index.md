@@ -87,7 +87,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **2**.
+
+- [Agentic Software Engineering: Foundational Pillars and a Research Roadmap](Arastirmalar/2026-Hassan-Agentic-Software-Engineering-Foundational.md) — Hassan vd. (2026) · *ACM Transactions on Software Engineering and Methodology* · hakemli · atıf: 86
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -97,6 +99,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Agentic Software Engineering: Foundational Pillars and a Research Roadmap](Arastirmalar/2026-Hassan-Agentic-Software-Engineering-Foundational.md) — Hassan vd. (2026) · *ACM Transactions on Software Engineering and Methodology* · hakemli · atıf: 86
 - [Adapt the Object to the Subject: Representative Study Material for Empirical Software Engineering](Ampirik-Yazilim-Muhendisligi/Arastirmalar/2026-Unterbusch-Adapt-the-Object-the.md) — Unterbusch vd. (2026) · *arXiv* · ön baskı / hakemsiz
 <!-- AUTO:RECENT:END -->
 

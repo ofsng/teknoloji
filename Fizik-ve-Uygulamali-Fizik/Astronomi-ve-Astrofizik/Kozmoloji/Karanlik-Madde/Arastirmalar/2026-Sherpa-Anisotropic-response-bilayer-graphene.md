@@ -17,13 +17,13 @@ classification_confidence: high
 classification_method: deterministic
 keywords: ["bilayer graphene", "dark matter direct detection", "sub-MeV dark matter", "anisotropic response", "scattering rate", "target materials", "electronic excitation"]
 source_ids: ["openalex:W7156325767"]
-cited_by_count: 0
+cited_by_count: 3
 content_status: metadata_only
 abstract_license:
 retraction_status: none_reported
 related_versions: []
 collected_at: 2026-11-07
-last_checked_at: 2026-11-07
+last_checked_at: 2026-11-08
 content_verified: false
 identifier_verified: crossref
 retraction_checked: 2026-11-07
@@ -71,3 +71,4 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 - arXiv: https://arxiv.org/abs/2604.21969
 - OpenAlex: https://openalex.org/W7156325767
 - Metadata kaynakları: openalex:W7156325767 (toplama: 2026-11-07)
+

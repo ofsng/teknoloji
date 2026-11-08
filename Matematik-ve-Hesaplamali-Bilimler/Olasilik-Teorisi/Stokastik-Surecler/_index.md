@@ -88,7 +88,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
-- [Nonparametric modelling of continuous-time Markov chains with scalable exact and approximate gradients](Markov-Zincirleri/Arastirmalar/2026-Monti-Nonparametric-modelling-continuous-time.md) — Monti vd. (2026) · *Journal of the Royal Statistical Society Series B (Statistical Methodology)* · hakemli
+- [Nonparametric modelling of continuous-time Markov chains with scalable exact and approximate gradients](Markov-Zincirleri/Arastirmalar/2026-Monti-Nonparametric-modelling-continuous-time.md) — Monti vd. (2026) · *Journal of the Royal Statistical Society Series B (Statistical Methodology)* · hakemli · atıf: 4
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

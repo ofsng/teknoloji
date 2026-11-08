@@ -17,13 +17,13 @@ classification_confidence: high
 classification_method: deterministic
 keywords: ["continuous-time Markov chains", "Gaussian processes", "covariate effects", "Bayesian nonparametrics", "Hamiltonian Monte Carlo", "gradient computation", "phylogenetic inference", "phylogeography", "state space size"]
 source_ids: ["openalex:W4416023462"]
-cited_by_count: 0
+cited_by_count: 4
 content_status: abstract_only
 abstract_license: cc-by
 retraction_status: none_reported
 related_versions: []
 collected_at: 2026-11-07
-last_checked_at: 2026-11-07
+last_checked_at: 2026-11-08
 content_verified: false
 identifier_verified: crossref
 retraction_checked: 2026-11-07
@@ -74,3 +74,4 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 - arXiv: https://arxiv.org/abs/2511.03954
 - OpenAlex: https://openalex.org/W4416023462
 - Metadata kaynakları: openalex:W4416023462 (toplama: 2026-11-07)
+

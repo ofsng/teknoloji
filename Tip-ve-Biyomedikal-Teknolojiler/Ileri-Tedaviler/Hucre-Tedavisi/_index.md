@@ -77,7 +77,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **5**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -87,6 +87,10 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [CAR-T cell therapy in hematology malignancies: breaking barriers, engineering the future](CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Alvizo-Baez-CAR-cell-therapy-hematology.md) — Alvizo-Báez vd. (2026) · *Frontiers in Immunology* · hakemli
+- [Peptide-functionalized biomaterials as emerging platforms to enhance CAR-NK cell therapy in solid tumors](NK-Hucre-Tedavisi/Arastirmalar/2026-Shokoohi-Peptide-functionalized-biomaterials-eme.md) — Shokoohi vd. (2026) · *Discover Materials* · hakemli
+- [Quadruple co-culture vascular models of haematological malignancy CAR T cell therapy for nonclinical safety and efficacy studies](CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Lund-Quadruple-culture-vascular-models.md) — Lund vd. (2026) · *Frontiers in Immunology* · hakemli
+- [Prognostic factors and response monitoring after CD19-directed CAR T-cell therapy in diffuse large B-cell lymphoma: a time-resolved review](CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Su-Prognostic-factors-and-response.md) — Su vd. (2026) · *Journal of Translational Medicine* · hakemli
 - [Tendinopathy: Current Concepts in Pathophysiology, Clinical Presentation, and Management – An Updated Review](Kok-Hucre-Tedavisi/Arastirmalar/2026-Saklani-Tendinopathy-Current-Concepts-Pathophysi.md) — Saklani vd. (2026) · *International Journal of Drug Delivery Technology* · hakemli
 <!-- AUTO:RECENT:END -->
 

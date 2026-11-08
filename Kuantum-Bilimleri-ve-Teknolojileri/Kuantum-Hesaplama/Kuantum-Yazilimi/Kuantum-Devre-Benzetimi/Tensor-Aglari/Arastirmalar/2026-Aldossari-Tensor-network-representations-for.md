@@ -17,13 +17,13 @@ classification_confidence: high
 classification_method: deterministic
 keywords: ["tensor networks", "anyon condensation", "Choi state", "decoherence", "CSS codes", "chiral topological phases", "non-Abelian anyons", "Abelian anyons"]
 source_ids: ["openalex:W4414930529"]
-cited_by_count: 0
+cited_by_count: 2
 content_status: abstract_only
 abstract_license: cc-by
 retraction_status: none_reported
 related_versions: []
 collected_at: 2026-11-06
-last_checked_at: 2026-11-06
+last_checked_at: 2026-11-08
 content_verified: false
 identifier_verified: crossref
 retraction_checked: 2026-11-06
@@ -73,3 +73,4 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 - arXiv: https://arxiv.org/abs/2507.22989
 - OpenAlex: https://openalex.org/W4414930529
 - Metadata kaynakları: openalex:W4414930529 (toplama: 2026-11-06)
+

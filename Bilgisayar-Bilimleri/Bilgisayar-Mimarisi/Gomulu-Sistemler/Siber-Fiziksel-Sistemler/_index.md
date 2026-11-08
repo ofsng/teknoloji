@@ -79,7 +79,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
 Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **1**.
 
-- [Using quantum annealing to generate test cases for cyber-physical systems](Arastirmalar/2026-Araujo-Using-quantum-annealing-generate.md) — Araujo vd. (2026) · *ACM Transactions on Software Engineering and Methodology* · hakemli
+- [Using quantum annealing to generate test cases for cyber-physical systems](Arastirmalar/2026-Araujo-Using-quantum-annealing-generate.md) — Araujo vd. (2026) · *ACM Transactions on Software Engineering and Methodology* · hakemli · atıf: 3
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -89,7 +89,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
-- [Using quantum annealing to generate test cases for cyber-physical systems](Arastirmalar/2026-Araujo-Using-quantum-annealing-generate.md) — Araujo vd. (2026) · *ACM Transactions on Software Engineering and Methodology* · hakemli
+- [Using quantum annealing to generate test cases for cyber-physical systems](Arastirmalar/2026-Araujo-Using-quantum-annealing-generate.md) — Araujo vd. (2026) · *ACM Transactions on Software Engineering and Methodology* · hakemli · atıf: 3
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

@@ -95,11 +95,11 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
 - [A Variational Quantum Algorithm for Multi-Skill Project Scheduling](Kuantum-Algoritmalari/Varyasyonel-Kuantum-Algoritmalari/Arastirmalar/2026-Martinez-Variational-Quantum-Algorithm-for.md) — Martinez vd. (2026) · *arXiv* · ön baskı / hakemsiz
-- [Remote Adiabatic Controlled-Z Gate between Distant Superconducting Qubits](Kubit-Teknolojileri/Superiletken-Kubitler/Arastirmalar/2026-Xu-Remote-Adiabatic-Controlled-Gate.md) — Xu vd. (2026) · *Chinese Physics B* · hakemli
+- [Remote Adiabatic Controlled-Z Gate between Distant Superconducting Qubits](Kubit-Teknolojileri/Superiletken-Kubitler/Arastirmalar/2026-Xu-Remote-Adiabatic-Controlled-Gate.md) — Xu vd. (2026) · *Chinese Physics B* · hakemli · atıf: 1
 - [QECert: Formal Foundations for Quantum Error-Correction Theory in Lean](Kuantum-Hata-Duzeltme/Arastirmalar/2026-He-QECert-Formal-Foundations-for.md) — He vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [Trinetra.Q: Statistical and Behavioral Detection of Attacks on the Quantum-Error-Correction Layer and Classical Control Stack of Quantum Computing Systems](Kuantum-Hata-Duzeltme/Arastirmalar/2026-Sipani-Trinetra-Statistical-and-Behavioral.md) — Sipani (2026) · *arXiv* · ön baskı / hakemsiz
-- [Tensor network representations for intrinsically mixed-state topological orders](Kuantum-Yazilimi/Kuantum-Devre-Benzetimi/Tensor-Aglari/Arastirmalar/2026-Aldossari-Tensor-network-representations-for.md) — Aldossari vd. (2026) · *PRX Quantum* · hakemli
-- [Tensor-network methodology for real-space super-moiré excitons](Kuantum-Yazilimi/Kuantum-Devre-Benzetimi/Tensor-Aglari/Arastirmalar/2026-Moustaj-Tensor-network-methodology-for.md) — Moustaj vd. (2026) · *SciPost Physics* · hakemli
+- [Tensor network representations for intrinsically mixed-state topological orders](Kuantum-Yazilimi/Kuantum-Devre-Benzetimi/Tensor-Aglari/Arastirmalar/2026-Aldossari-Tensor-network-representations-for.md) — Aldossari vd. (2026) · *PRX Quantum* · hakemli · atıf: 2
+- [Tensor-network methodology for real-space super-moiré excitons](Kuantum-Yazilimi/Kuantum-Devre-Benzetimi/Tensor-Aglari/Arastirmalar/2026-Moustaj-Tensor-network-methodology-for.md) — Moustaj vd. (2026) · *SciPost Physics* · hakemli · atıf: 3
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

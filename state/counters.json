@@ -127,5 +127,47 @@
    "vision-language-action-models": 1,
    "vision-language-models": 1
   }
+ },
+ "2026-11-08": {
+  "archived": 40,
+  "backfill": 0,
+  "by_source": {
+   "openalex": 40
+  },
+  "llm_calls": 0,
+  "llm_usd": 0.0,
+  "per_tech": {
+   "autonomous-mobile-robots": 1,
+   "battery-electric-vehicles": 1,
+   "car-t-cell-therapy": 3,
+   "computer-aided-diagnosis": 1,
+   "dark-energy": 1,
+   "drinking-water-treatment": 2,
+   "electronic-health-records": 1,
+   "enhanced-rock-weathering": 1,
+   "ground-source-heat-pumps": 1,
+   "horizontal-axis-wind-turbines": 1,
+   "hyperspectral-remote-sensing": 1,
+   "induced-pluripotent-stem-cells": 3,
+   "industrial-energy-efficiency": 1,
+   "laser-powder-bed-fusion": 2,
+   "metal-organic-frameworks": 1,
+   "nk-cell-therapy": 1,
+   "non-coding-rna": 1,
+   "offline-reinforcement-learning": 1,
+   "orthogonal-time-frequency-space": 1,
+   "powder-bed-fusion": 1,
+   "production-planning-and-control": 1,
+   "proton-exchange-membrane-fuel-cells": 1,
+   "quantum-field-theory": 1,
+   "single-walled-carbon-nanotubes": 2,
+   "software-engineering": 1,
+   "solid-oxide-fuel-cells": 1,
+   "solid-waste-management": 1,
+   "structural-health-monitoring": 1,
+   "thin-film-transistors": 3,
+   "vagus-nerve-stimulation": 1,
+   "water-quality-monitoring": 1
+  }
  }
 }

@@ -76,7 +76,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -84,7 +84,10 @@ Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
-_Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini göstermez; ön baskılar hakemli değildir._
+Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
+
+- [Two-Photon Excitation Microscopy of Individual Single-Walled Carbon Nanotubes](Tek-Duvarli-Karbon-Nanotupler/Arastirmalar/2026-Akhtar-Two-Photon-Excitation-Microscopy.md) — Akhtar vd. (2026) · *The Journal of Physical Chemistry Letters* · hakemli
+- [Thermal transport and expansion behavior of vertically aligned single-walled carbon nanotube block reinforced copper matrix composites by finite element simulation](Tek-Duvarli-Karbon-Nanotupler/Arastirmalar/2026-Li-Thermal-transport-and-expansion.md) — Li vd. (2026) · *Materials Today Communications* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

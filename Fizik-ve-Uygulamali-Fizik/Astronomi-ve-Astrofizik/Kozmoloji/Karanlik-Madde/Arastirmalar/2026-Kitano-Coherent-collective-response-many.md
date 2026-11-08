@@ -17,13 +17,13 @@ classification_confidence: high
 classification_method: deterministic
 keywords: ["dark matter detection", "Ramsey interferometry", "quantum sensing", "trapped-ion qubits", "linear Paul trap", "gravitational wave detection"]
 source_ids: ["openalex:W7166183942"]
-cited_by_count: 0
+cited_by_count: 1
 content_status: metadata_only
 abstract_license:
 retraction_status: none_reported
 related_versions: []
 collected_at: 2026-11-06
-last_checked_at: 2026-11-06
+last_checked_at: 2026-11-08
 content_verified: false
 identifier_verified: crossref
 retraction_checked: 2026-11-06
@@ -72,3 +72,4 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 - arXiv: https://arxiv.org/abs/2606.26736
 - OpenAlex: https://openalex.org/W7166183942
 - Metadata kaynakları: openalex:W7166183942 (toplama: 2026-11-06)
+

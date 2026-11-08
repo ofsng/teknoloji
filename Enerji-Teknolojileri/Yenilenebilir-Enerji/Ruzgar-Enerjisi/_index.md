@@ -79,7 +79,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -90,6 +90,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
 - [Fabrication, Transportation, and Installation of Fixed and Floating Offshore Wind Turbines: A State of the Art Review](Deniz-Ustu-Ruzgar/Yuzer-Deniz-Ustu-Ruzgar/Arastirmalar/2026-Hermanto-Fabrication-Transportation-and-Installa.md) — Hermanto vd. (2026) · *Maritime Park Journal of Maritime Technology and Society* · hakemli
+- [Improving the Efficiency of Horizontal-Axis Wind Turbines Using High-Lift Devices](Yatay-Eksenli-Ruzgar-Turbinleri/Arastirmalar/2026-M-Improving-the-Efficiency-Horizontal.md) — M vd. (2026) · *Semarak Engineering Journal* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

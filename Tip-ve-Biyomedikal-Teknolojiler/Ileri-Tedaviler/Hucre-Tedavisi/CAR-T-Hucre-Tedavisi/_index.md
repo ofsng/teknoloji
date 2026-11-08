@@ -75,7 +75,11 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **3**, alt teknolojiler dahil: **3**.
+
+- [CAR-T cell therapy in hematology malignancies: breaking barriers, engineering the future](Arastirmalar/2026-Alvizo-Baez-CAR-cell-therapy-hematology.md) — Alvizo-Báez vd. (2026) · *Frontiers in Immunology* · hakemli
+- [Quadruple co-culture vascular models of haematological malignancy CAR T cell therapy for nonclinical safety and efficacy studies](Arastirmalar/2026-Lund-Quadruple-culture-vascular-models.md) — Lund vd. (2026) · *Frontiers in Immunology* · hakemli
+- [Prognostic factors and response monitoring after CD19-directed CAR T-cell therapy in diffuse large B-cell lymphoma: a time-resolved review](Arastirmalar/2026-Su-Prognostic-factors-and-response.md) — Su vd. (2026) · *Journal of Translational Medicine* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -83,7 +87,11 @@ Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
-_Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini göstermez; ön baskılar hakemli değildir._
+Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
+
+- [CAR-T cell therapy in hematology malignancies: breaking barriers, engineering the future](Arastirmalar/2026-Alvizo-Baez-CAR-cell-therapy-hematology.md) — Alvizo-Báez vd. (2026) · *Frontiers in Immunology* · hakemli
+- [Quadruple co-culture vascular models of haematological malignancy CAR T cell therapy for nonclinical safety and efficacy studies](Arastirmalar/2026-Lund-Quadruple-culture-vascular-models.md) — Lund vd. (2026) · *Frontiers in Immunology* · hakemli
+- [Prognostic factors and response monitoring after CD19-directed CAR T-cell therapy in diffuse large B-cell lymphoma: a time-resolved review](Arastirmalar/2026-Su-Prognostic-factors-and-response.md) — Su vd. (2026) · *Journal of Translational Medicine* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

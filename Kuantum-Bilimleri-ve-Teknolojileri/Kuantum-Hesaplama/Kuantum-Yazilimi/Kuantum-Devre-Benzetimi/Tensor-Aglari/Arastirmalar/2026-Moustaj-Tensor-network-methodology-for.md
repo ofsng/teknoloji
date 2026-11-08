@@ -17,13 +17,13 @@ classification_confidence: high
 classification_method: deterministic
 keywords: ["excitons", "quasicrystals", "tensor networks", "excitonic spectra"]
 source_ids: ["openalex:W7133350854"]
-cited_by_count: 0
+cited_by_count: 3
 content_status: abstract_only
 abstract_license: cc-by
 retraction_status: none_reported
 related_versions: [{"relation": "preprint", "doi": "https://scipost.org/preprints/scipost_202604_00025v2/", "source": "crossref"}]
 collected_at: 2026-11-05
-last_checked_at: 2026-11-05
+last_checked_at: 2026-11-08
 content_verified: false
 identifier_verified: crossref
 retraction_checked: 2026-11-06
@@ -72,4 +72,6 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 - DOI: https://doi.org/10.21468/scipostphys.21.5.108
 - arXiv: https://arxiv.org/abs/2603.02011
 - OpenAlex: https://openalex.org/W7133350854
+- Ön baskı sürümü: https://doi.org/https://scipost.org/preprints/scipost_202604_00025v2/
 - Metadata kaynakları: openalex:W7133350854 (toplama: 2026-11-05)
+

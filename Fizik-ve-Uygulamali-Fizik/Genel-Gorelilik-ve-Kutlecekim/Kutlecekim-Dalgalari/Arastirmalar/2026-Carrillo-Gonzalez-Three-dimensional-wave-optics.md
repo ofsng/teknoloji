@@ -17,13 +17,13 @@ classification_confidence: high
 classification_method: deterministic
 keywords: ["gravitational lensing", "gravitational waves", "weak-field limit", "Born approximation", "Green's function", "Yukawa potential", "FLRW background", "lensing potential", "paraxial approximation", "hierarchical triple systems"]
 source_ids: ["openalex:W7167692120"]
-cited_by_count: 0
+cited_by_count: 1
 content_status: abstract_only
 abstract_license: cc-by
 retraction_status: none_reported
 related_versions: []
 collected_at: 2026-11-07
-last_checked_at: 2026-11-07
+last_checked_at: 2026-11-08
 content_verified: false
 identifier_verified: crossref
 retraction_checked: 2026-11-07
@@ -73,3 +73,4 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 - arXiv: https://arxiv.org/abs/2607.05491
 - OpenAlex: https://openalex.org/W7167692120
 - Metadata kaynakları: openalex:W7167692120 (toplama: 2026-11-07)
+
