@@ -576,6 +576,9 @@ class TestWorkflowSafety(unittest.TestCase):
         self.assertNotRegex(text, r"git push[^\n]*\bmain\b")
         self.assertIn("kb.py check", text)
         self.assertIn("unittest", text)
+        llm_step = text.split("Yerel LLM sunucusu")[1].split("- name:")[0]
+        self.assertIn("continue-on-error: true", llm_step, "LLM adımı başarısız olsa da toplama sürmeli")
+        self.assertIn("--retry", text)
 
 
 class TestRealRepository(unittest.TestCase):
@@ -755,3 +758,21 @@ class TestQuoteMode(Base):
         res2 = M.fill_node(self.cfg, self.tree(), "deep-learning", draft={**draft, "s1": draft["s1"][:1]},
                            sources=SOURCES, mode="quote", exclude=["GNNs are neural models"])
         self.assertEqual(res2["status"], "nothing_filled", "denetimde çıkarılan alıntı yazılmamalı")
+
+
+class TestRecordsWithoutKeys(Base):
+    def test_record_without_any_identifier_does_not_crash(self):
+        run = Run(self.cfg, self.http([]), sources=(), log=lambda *a: None)
+        empty = new_record(title=None, source_ids=["openalex:W99"], abstract=GNN_ABS, abstract_license="cc-by")
+        run.process([empty], "openalex", use_seen=False)  # IndexError olmamalı (run 42468883840)
+        self.assertEqual(run.stats["errors"], [])
+
+
+class TestBroadNodes(Base):
+    def test_citation_quotes_rejected_and_broad_sources_filtered(self):
+        self.assertTrue(M.CITATION_RE.search("primers designed by Folmer et al. (Molecular Marine Biology and Biotechnology, 3, 1994, 294)"))
+        self.assertFalse(M.CITATION_RE.search("Since 1988, many studies on EUVL have been conducted in North America"))
+        names = M.entry_names(self.tree().nodes["computer-science"]["meta"])
+        self.assertFalse(M.broad_source_ok({"type": "review", "title": "Face recognition: a review"}, names))
+        self.assertFalse(M.broad_source_ok({"type": "article", "title": "Computer science education"}, names))
+        self.assertTrue(M.broad_source_ok({"type": "review", "title": "A history of computer science"}, names))
