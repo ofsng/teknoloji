@@ -758,3 +758,11 @@ class TestQuoteMode(Base):
         res2 = M.fill_node(self.cfg, self.tree(), "deep-learning", draft={**draft, "s1": draft["s1"][:1]},
                            sources=SOURCES, mode="quote", exclude=["GNNs are neural models"])
         self.assertEqual(res2["status"], "nothing_filled", "denetimde çıkarılan alıntı yazılmamalı")
+
+
+class TestRecordsWithoutKeys(Base):
+    def test_record_without_any_identifier_does_not_crash(self):
+        run = Run(self.cfg, self.http([]), sources=(), log=lambda *a: None)
+        empty = new_record(title=None, source_ids=["openalex:W99"], abstract=GNN_ABS, abstract_license="cc-by")
+        run.process([empty], "openalex", use_seen=False)  # IndexError olmamalı (run 42468883840)
+        self.assertEqual(run.stats["errors"], [])

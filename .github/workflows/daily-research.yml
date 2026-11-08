@@ -43,6 +43,7 @@ jobs:
       KB_MAINTAIN_NODES: ${{ vars.KB_MAINTAIN_NODES || '3' }}
       LLAMA_BUILD: b12179
       LLAMA_SHA256: 5646c599b1dfdbdb3634f35ab634857639a830a66d1f9f13380673921348a2d2
+      LLAMA_COMMIT: 669204ee2b9004845b34f26466a91d003edc98aa   # b12179 etiketinin commit'i (kaynaktan derleme yedeği)
       MODEL_URL: https://huggingface.co/unsloth/Qwen3-4B-Instruct-2507-GGUF/resolve/main/Qwen3-4B-Instruct-2507-Q4_K_M.gguf
       MODEL_SHA256: 3605803b982cb64aead44f6c1b2ae36e3acdb41d8e46c8a94c6533bc4c67e597
       BRANCH: auto/research
@@ -64,7 +65,7 @@ jobs:
         uses: actions/cache@v5
         with:
           path: ~/llm
-          key: llm-${{ env.LLAMA_BUILD }}-${{ env.MODEL_SHA256 }}
+          key: llm-v2-${{ env.LLAMA_BUILD }}-${{ env.MODEL_SHA256 }}
 
       - name: Yerel LLM sunucusu (llama.cpp, SHA-256 doğrulamalı)
         id: llm
@@ -79,9 +80,23 @@ jobs:
             rm -f "$f"; curl -fsSL --retry 5 --retry-delay 10 --retry-all-errors -o "$f" "$url"
             echo "$sum  $f" | sha256sum -c -; }
           fetch model.gguf "$MODEL_SHA256" "$MODEL_URL"
-          fetch llama.tar.gz "$LLAMA_SHA256" "https://github.com/ggml-org/llama.cpp/releases/download/${LLAMA_BUILD}/llama-${LLAMA_BUILD}-bin-ubuntu-x64.tar.gz"
-          rm -rf bin && mkdir bin && tar -xzf llama.tar.gz -C bin
-          SERVER=$(find ~/llm/bin -name llama-server -type f | head -1)
+          if [ -x src-build/build/bin/llama-server ]; then
+            echo "llama-server: önbellekteki kaynak derlemesi"
+          elif fetch llama.tar.gz "$LLAMA_SHA256" "https://github.com/ggml-org/llama.cpp/releases/download/${LLAMA_BUILD}/llama-${LLAMA_BUILD}-bin-ubuntu-x64.tar.gz"; then
+            rm -rf bin && mkdir bin && tar -xzf llama.tar.gz -C bin
+          else
+            # Hazır sürüm dosyası indirilemedi (ör. GitHub 504): sabitlenmiş commit'ten derle, commit özetini doğrula
+            echo "::warning::llama.cpp sürüm dosyası indirilemedi; ${LLAMA_COMMIT} kaynaktan derleniyor"
+            rm -rf src-build llama.tar.gz
+            git clone -q --depth 1 --branch "$LLAMA_BUILD" https://github.com/ggml-org/llama.cpp src-build
+            [ "$(git -C src-build rev-parse HEAD)" = "$LLAMA_COMMIT" ] || { echo "commit özeti uyuşmuyor"; exit 1; }
+            # makineye özgü olmayan (AVX2/FMA) derleme: önbellekten farklı işlemcili runner'a dönebilir
+            cmake -S src-build -B src-build/build -DCMAKE_BUILD_TYPE=Release -DLLAMA_CURL=OFF -DGGML_NATIVE=OFF \
+              -DGGML_AVX2=ON -DGGML_FMA=ON -DGGML_F16C=ON -DBUILD_SHARED_LIBS=OFF -DLLAMA_BUILD_TESTS=OFF \
+              -DLLAMA_BUILD_EXAMPLES=OFF > /dev/null
+            cmake --build src-build/build --target llama-server -j "$(nproc)" > /dev/null
+          fi
+          SERVER=$( [ -x src-build/build/bin/llama-server ] && echo ~/llm/src-build/build/bin/llama-server || find ~/llm/bin -name llama-server -type f | head -1)
           LD_LIBRARY_PATH="$(dirname "$SERVER")" nohup "$SERVER" -m ~/llm/model.gguf -c 12288 -t "$(nproc)" \
             --host 127.0.0.1 --port 8080 --jinja --reasoning-budget 0 > "$RUNNER_TEMP/llama.log" 2>&1 &
           for i in $(seq 1 120); do curl -fs http://127.0.0.1:8080/health >/dev/null && break; sleep 2; done
