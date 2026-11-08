@@ -56,6 +56,17 @@ Yüksek güven eşiği 6,0 → **7,5** yapıldı (6–7,5 aralığı artık ince
 (`classification-gold.jsonl`, 70 kayıt) arşive giren sınıfın kesinliği 0,94 → **1,00** (n=33 → 22). Düşük güvenli
 kayıtlar hiçbir zaman arşive yazılmaz; yerel LLM'in sınıflandırma kararıyla da arşive yazılmaz (yalnızca öneri).
 
+## Kavram türü ayrımı (2026-11-08)
+
+Aday ifade sözlük tabanlı ve açıklanabilir bir sınıflandırıcıyla türüne ayrılır; yalnızca **teknoloji** ve **yöntem**
+aday olabilir: ölçüm/gösterge (body mass index, NDVI), biyolojik varlık (central nervous system, PBMC, mesenchymal
+stem cell), hastalık, klinik tedavi / çalışma tasarımı (antiretroviral therapy, healthy control), uygulama ve genel
+kavram (neural network) gerekçeli olarak reddedilir. Mevcut bir düğümde üye takma ad olarak geçen kısaltmalar
+(XPS → Surface Analysis Techniques, ELISA → Immunoassays, PCM → Thermal Energy Storage Materials) "kapsanmış" sayılır.
+Üst düğüm: genel bir ad (ör. "Optimization") içerdiği için seçilmez; eş-sınıflandırma ancak çoğunluk varsa;
+yoksa ad benzerliği (eşitlikte daha genel düğüm) ve **"üst belirsiz"** işareti — onayda `--parent` açıkça verilir.
+11-08 yeniden değerlendirmesi: 22 adaydan 14'ü reddedildi; 8 aday kaldı (çoğu çakışma ya da belirsiz üst işaretli).
+
 ## Aday çakışma kontrolü (v2.1)
 
 - Kısaltma eşleşmesi tek başına eş anlamlılık sayılmaz: adlar arasında sözcük örtüşmesi de gerekir
@@ -162,10 +173,25 @@ gerekir. Pilot sonucu: 10 düğümün **9'u** 22 denetlenmiş alıntıyla doldur
 çıkarılan 7 alıntı); 19 kaynak bağlantısı doi.org ile doğrulandı, kırık yok. Difüzyon modelleri düğümünde model iki
 çalışmada da boş yanıt verdi.
 
+### Derinlik kuralları (2026-11-08)
+
+| Derinlik | İşlem |
+|---|---|
+| 1 — Ana disiplin | Otomatik içerik üretimi **kapalı** |
+| 2 — Alt disiplin | Yalnızca **öneri** (`review/index-proposals/*--draft.md`); `_index.md`'ye yazılmaz. Kaynak: başlığında alanın adı geçen derlemeler |
+| 3–8 — Spesifik teknolojiler | Kaynak doğrulamasıyla otomatik **taslak** |
+
+Gerekçe: bir çalışmanın "Biotechnology" kelimesini içermesi, biyoteknolojiyi açıklamak için uygun kaynak olduğu
+anlamına gelmiyor (11-08'de iki disiplin düğümüne bu yüzden ilgisiz alıntılar girdi; geri alındı).
+Otomatik üretilen her içerik `content_status: ai_draft_sourced` olur (`content_mode: quotes|summary`);
+`content_verified: true` yalnızca insan doğrulamasıyla (`content_status: human_verified`) verilebilir —
+`kb.py check` aksini hata sayar.
+
 ### Doğrulayıcı (tüm sağlayıcılar)
 
 Her ifade: bilinen bir kaynağa atıf; 6–45 sözcüklük **birebir İngilizce alıntı** (kaynak özetinde geçmeli); alıntı
-teknolojinin adını/takma adını içermeli; ifadedeki her sayı alıntıda geçmeli; özet modunda metin Türkçe olmalı;
+teknolojinin adını/takma adını içermeli; **kaynak o teknolojiyi açıklamalı** (adı kaynak başlığında ya da özette en az
+iki kez geçmeli — yalnızca anan kaynak reddedilir); alıntı künye parçası (dergi adı, cilt, yıl) içermemeli; ifadedeki her sayı alıntıda geçmeli; özet modunda metin Türkçe olmalı;
 aynı alıntı/ifade tekrar edilmez. "Ön baskı" işareti modelden değil kaynağın yayın türünden gelir.
 
 ### Günlük çalışma ve maliyet

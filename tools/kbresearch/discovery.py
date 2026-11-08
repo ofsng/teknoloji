@@ -36,6 +36,58 @@ TECH_HEADS = {"network", "model", "algorithm", "learning", "architecture", "prot
               "generation", "distillation", "quantization", "tokenizer", "embedding", "diffusion", "flow", "fusion",
               "lithography", "deposition", "etching", "qubit", "gate", "channel", "routing", "consensus",
               "signature", "encryption", "proof", "commitment", "hash", "ledger", "rollup"}
+# --- Kavram türü ayrımı: yalnızca "technology" ve "method" aday olabilir ---------------------------------
+POPULATION_WORDS = {"healthy", "control", "patient", "cohort", "participant", "subject", "volunteer", "adult", "child",
+                    "infant", "elderly", "women", "men", "population", "case", "group", "individual"}
+BIO_ENTITY_WORDS = {"nervous", "brain", "cortex", "blood", "plasma", "serum", "mononuclear", "peripheral", "mesenchymal",
+                    "stem", "tissue", "organ", "liver", "kidney", "heart", "muscle", "bone", "marrow", "gut", "microbiota",
+                    "immune", "lymphocyte", "macrophage", "neuron", "gene", "protein", "receptor", "pathway", "cytokine",
+                    "hormone", "endothelial", "epithelial", "tumor", "tumour", "dendritic", "killer", "progenitor"}
+DISEASE_WORDS = {"disease", "disorder", "syndrome", "cancer", "carcinoma", "infection", "diabete", "injury", "failure",
+                 "deficiency", "stroke", "obesity", "hypertension", "depression", "dementia", "sclerosis"}
+DRUG_WORDS = {"antiretroviral", "antibiotic", "antiviral", "antifungal", "antihypertensive", "statin", "opioid",
+              "steroid", "corticosteroid", "chemotherapy", "neoadjuvant", "adjuvant", "anticoagulant", "insulin"}
+MEASUREMENT_HEADS = {"index", "score", "ratio", "rate", "level", "concentration", "coefficient", "scale", "metric",
+                     "measure", "indicator", "count", "volume", "mass", "weight", "time"}
+COMPUTE_WORDS = {"inverted", "database", "search", "learned", "spatial", "tree", "hash", "vector", "graph"}
+APPLICATION_HEADS = {"management", "surveillance", "diagnosis", "prognosis", "forecasting", "prediction", "education",
+                     "policy", "planning", "care", "treatment", "screening", "practice", "service"}
+METHOD_HEADS = {"spectroscopy", "microscopy", "assay", "chromatography", "spectrometry", "diffraction", "tomography",
+                "test", "analysis", "method", "technique", "protocol", "procedure", "sequencing", "staining"}
+GENERIC_WORDS = {"neural", "network", "deep", "artificial", "model", "learning", "machine", "system", "intelligence",
+                 "algorithm", "computing", "computer", "data"}
+VALID_CATEGORIES = {"technology", "method"}
+CATEGORY_TR = {"technology": "teknoloji", "method": "yöntem", "measurement": "ölçüm/gösterge",
+               "biological_entity": "biyolojik varlık", "disease": "hastalık", "clinical": "klinik tedavi/çalışma tasarımı",
+               "population": "çalışma tasarımı/popülasyon", "application": "uygulama", "generic": "genel kavram"}
+
+
+def categorize(key):
+    """Aday ifadenin kavram türü. Sözlük tabanlı, açıklanabilir; yanlış sınıf insan incelemesinde düzeltilir."""
+    t = key.split()
+    head = t[-1]
+    mods = set(t[:-1])
+    if mods & POPULATION_WORDS and head in POPULATION_WORDS | {"control", "group", "subject"}:
+        return "population"
+    if head in POPULATION_WORDS and len(t) <= 3:
+        return "population"
+    if set(t) & DISEASE_WORDS:
+        return "disease"
+    if mods & DRUG_WORDS or head in DRUG_WORDS:
+        return "clinical"
+    if head in {"cell", "system", "tissue", "organ", "cortex", "barrier"} and mods & BIO_ENTITY_WORDS:
+        return "biological_entity"
+    if head in MEASUREMENT_HEADS and not (set(t) & COMPUTE_WORDS):
+        return "measurement"
+    if head in APPLICATION_HEADS:
+        return "application"
+    if set(t) <= GENERIC_WORDS:
+        return "generic"
+    if head in METHOD_HEADS:
+        return "method"
+    return "technology"
+
+
 FUNCTION_WORDS = {"of", "and", "for", "the", "in", "a", "an", "with", "on", "to", "via", "based", "using"}
 ACRO_DEF = re.compile(r"((?:[A-Za-z][\w'-]*[\s-]+){1,8}?)\(([A-Z][A-Za-z0-9-]{1,11})\)")
 
@@ -102,6 +154,7 @@ class Discovery:
         self.cands = load_json(self.cand_path, {})
         self.known = {}       # ifade anahtarı -> node id
         self.known_acr = {}   # kısaltma (küçük harf) -> node id
+        self.acr_nodes = {}   # kısaltma -> [(node id, kısaltma düğümün kendi adının kısaltması mı)]
         self.name_tokens = []  # (token kümesi, node id, ad) — çakışma kontrolü için
         for nid, n in tree.nodes.items():
             m = n["meta"]
@@ -115,7 +168,11 @@ class Discovery:
                     if content:
                         self.name_tokens.append((content, nid, name))
                 if re.fullmatch(r"[A-Z][A-Za-z0-9-]{1,11}", name) and sum(c.isupper() for c in name) >= 2:
-                    self.known_acr.setdefault(name.lower().rstrip("s"), nid)
+                    a = name.lower().rstrip("s")
+                    self.known_acr.setdefault(a, nid)
+                    own = initials([w for w in re.split(r"[\s-]+", m.get("title") or "") if w]).startswith(
+                        re.sub(r"[^a-z0-9]", "", a))
+                    self.acr_nodes.setdefault(re.sub(r"[^a-z0-9]", "", a), []).append((nid, own))
             words = [w for w in re.split(r"[\s-]+", m.get("title") or "") if w]
             if len(words) >= 3:  # kısa başlıkların baş harfleri rastlantısal eşleşme üretir
                 self.known_acr.setdefault(initials(words), nid)
@@ -186,6 +243,35 @@ class Discovery:
                 return hit
         return None
 
+    def covered_by_alias(self, key, acronyms):
+        """Adayın kısaltması mevcut bir düğümde ÜYE takma adı olarak geçiyorsa (ör. 'Surface Analysis Techniques'
+        düğümünde XPS) ve adayın uzun adı bu kısaltmaya karşılık geliyorsa aday zaten kapsanmıştır."""
+        for a in acronyms:
+            ac = re.sub(r"[^a-z0-9]", "", a.lower().rstrip("s"))
+            if not schwartz_hearst(key, a):  # uzun ad bu kısaltmaya karşılık gelmiyor
+                continue
+            for nid, own in self.acr_nodes.get(ac, []):
+                if not own:
+                    return nid
+        return None
+
+    def choose_parent(self, key, techs):
+        """Üst düğüm önerisi: (id, gerekçe, belirsiz mi). Genel bir ad (ör. 'Optimization', derinlik ≤2) adayın içinde
+        geçtiği için üst seçilmez; eş-sınıflandırma ancak çoğunluk varsa kullanılır; yoksa en çok örtüşen düğüm."""
+        v = self.variant_parent(key)
+        if v and self.tree.nodes[v]["depth"] >= 2 and len(term_key(self.tree.nodes[v]["meta"]["title"]).split()) >= 2:
+            return v, "variant_of_existing", False
+        total = sum(techs.values()) if techs else 0
+        if total:
+            top, n = max(techs.items(), key=lambda x: x[1])
+            if n / total >= 0.5 and top in self.tree.nodes and self.tree.nodes[top]["depth"] >= 2:
+                return top, f"co_classification ({n}/{total})", False
+        ov = [o for o in self.overlaps(key, limit=20) if o[0] >= 0.4 and self.tree.nodes[o[1]]["depth"] >= 2]
+        ov.sort(key=lambda o: (-o[0], self.tree.nodes[o[1]]["depth"]))  # eşitlikte daha genel düğüm
+        if ov:
+            return ov[0][1], f"name_overlap ({ov[0][0]})", True
+        return None, "unknown", True
+
     def ambiguous_acronyms(self, key, acronyms):
         out = []
         for a in acronyms:
@@ -208,16 +294,31 @@ class Discovery:
             c.update(status="candidate", reason=None, alias_proposal=False)
             c.setdefault("notes", []).append("Önceki eş anlamlı kararı yalnızca kısaltma eşleşmesine dayanıyordu; "
                                              "geri alındı (kısaltma belirsiz).")
+        cat = categorize(key)
+        c["category"] = cat
+        parent, why, uncertain = self.choose_parent(key, (c.get("evidence") or {}).get("co_classified") or {})
+        if not c.get("parent_set_by_human"):
+            c.update(parent_suggestion=parent, parent_reason=why, parent_uncertain=uncertain)
         if c["status"] != "candidate":
             return
-        if syn:
+        covered = self.covered_by_alias(key, c.get("acronyms") or [])
+        if cat not in VALID_CATEGORIES:
+            c.update(status="rejected", reason=f"category:{cat}",
+                     notes=(c.get("notes") or []) + [f"Bağımsız teknoloji değil: {CATEGORY_TR.get(cat, cat)}."])
+        elif covered:
+            c.update(status="rejected", reason=f"covered_by_alias:{covered}", alias_proposal=True)
+        elif syn:
             c.update(status="rejected", reason=f"synonym_of:{syn}", alias_proposal=True)
         elif ov and ov[0][0] >= 0.8:
             c.update(status="rejected", reason=f"duplicate_of:{ov[0][1]}", alias_proposal=True)
         else:
             parent = self.variant_parent(key)
-            # önerilen üst düğümle benzerlik beklenir (alt tür); başka düğümlerle benzerlik çakışma işaretidir
-            others = [o for o in ov if o[1] not in (parent, c.get("parent_suggestion")) and o[0] >= 0.4]
+            # Varyant ya da eş-sınıflandırmayla seçilen üstle benzerlik beklenir (alt tür). Üst yalnızca ad benzerliğiyle
+            # seçildiyse o düğümle güçlü örtüşme de olası çakışmadır.
+            expected = {parent}
+            if not str(c.get("parent_reason", "")).startswith("name_overlap"):
+                expected.add(c.get("parent_suggestion"))
+            others = [o for o in ov if o[1] not in expected and o[0] >= 0.4]
             c["possible_duplicate"] = bool(others)
             if parent:
                 c["variant_of"] = parent
@@ -246,10 +347,7 @@ class Discovery:
                 continue
             if c is None:
                 syn = self.synonym_of(key, t["acronyms"])
-                parent = self.variant_parent(key)
-                reason = "variant_of_existing" if parent else "co_classification"
-                if not parent and t["techs"]:
-                    parent = max(t["techs"].items(), key=lambda x: x[1])[0]
+                parent, reason, _ = self.choose_parent(key, t["techs"])
                 c = {"key": key, "display": disp, "status": "candidate", "created": today,
                      "parent_suggestion": parent, "parent_reason": reason, "acronyms": t["acronyms"],
                      "literature_count": None, "notes": []}
@@ -310,8 +408,9 @@ class Discovery:
             if c.get("ambiguous_acronyms"):
                 notes += " · belirsiz kısaltma: " + ", ".join(f"{a['acronym']}→`{a['existing']}`"
                                                              for a in c["ambiguous_acronyms"])
-            lines.append(f"| `{c['key']}` | {c['display']} {('(' + ', '.join(c['acronyms']) + ')') if c.get('acronyms') else ''} | "
-                         f"`{c.get('parent_suggestion')}` ({c.get('parent_reason')}) | {ev.get('papers')}/"
+            lines.append(f"| `{c['key']}` | {c['display']} {('(' + ', '.join(c['acronyms']) + ')') if c.get('acronyms') else ''}"
+                         f" — *{CATEGORY_TR.get(c.get('category'), c.get('category') or '?')}* | "
+                         f"`{c.get('parent_suggestion')}` ({c.get('parent_reason')}){' ⚠ üst belirsiz' if c.get('parent_uncertain') else ''} | {ev.get('papers')}/"
                          f"{ev.get('first_authors')}/{ev.get('months')} | {c.get('literature_count')} | {notes} |")
         lines += ["", "## Onaylananlar", ""] + [f"- `{c['key']}` → `{c.get('technology_id')}` ({c.get('verified_at')})"
                                                 for c in by["verified"]]

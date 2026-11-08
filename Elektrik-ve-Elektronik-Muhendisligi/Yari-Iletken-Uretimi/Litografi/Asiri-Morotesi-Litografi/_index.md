@@ -14,9 +14,10 @@ classification_refs: []
 content_verified: false
 created: 2026-11-05
 layout: 2
-content_status: ai_quotes_sourced
+content_status: ai_draft_sourced
 content_sources: ["10.3390/mi15091122", "10.1039/d6sc02112c", "10.1116/1.2794048"]
-last_maintained: 2026-11-07
+content_mode: quotes
+last_maintained: 2026-11-08
 ---
 
 # Aşırı Morötesi Litografi (Extreme Ultraviolet Lithography)
