@@ -14,9 +14,8 @@ classification_refs: ["OECD-FORD:2.10", "ISO/TC-229", "ISO/TS-80004"]
 content_verified: false
 created: 2026-11-05
 layout: 2
-content_status: ai_quotes_sourced
-content_sources: ["10.1186/s12951-018-0392-8"]
-last_maintained: 2026-11-07
+content_status: scope_note
+content_sources: []
 ---
 
 # Nanoteknoloji (Nanotechnology)
@@ -66,9 +65,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 
 ## 8. Kullanım alanları
 
-- “Nanotechnology offers multiple benefits in treating chronic human diseases by site-specific, and target-oriented delivery of precise medicines.” [1]
-
-<sub>Bu bölümde yalnızca kaynaklardan birebir alıntılar vardır (yerel dil modeli seçti, doğrulayıcı kaynak özetinde geçtiğini denetledi). Türkçe özet bekliyor; insan onayı yok.</sub>
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 ## 9. Avantajlar
 
@@ -100,5 +97,4 @@ _Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini gösterm
 
 ## 14. Kaynaklar
 
-1. Jayanta Kumar Patra vd. (2018). *Nano based drug delivery systems: recent developments and future prospects*. Journal of Nanobiotechnology. https://doi.org/10.1186/s12951-018-0392-8 — hakemli
-
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._

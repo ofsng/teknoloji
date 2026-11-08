@@ -136,6 +136,26 @@ def text_mode(llm=None):
 CITATION_RE = re.compile(r"\bet al\.|\b(19|20)\d{2}\s*[,;)]\s*\d|\d+\s*,\s*(19|20)\d{2}\b")
 
 
+GENERIC_TAIL = {"system", "model", "method", "technology", "technique", "proce", "device", "network", "approach"}
+
+
+def source_focus_ok(source, names):
+    """Kaynak gerçekten bu teknoloji hakkında mı? Adı kaynak başlığında geçmeli ya da özette en az iki kez geçmeli.
+    (Bir kelimenin geçmesi, kaynağın o teknolojiyi açıkladığı anlamına gelmez.)"""
+    if mentions_entry(source.get("title") or "", names):
+        return True
+    ab = _norm(source.get("abstract"))
+    hits = 0
+    for n in names:
+        toks = [t.rstrip("s") for t in re.findall(r"[a-z0-9]+", n) if t not in ("of", "and", "the", "for", "in")]
+        # sondaki genel sözcükler (systems, models, methods...) sayımda zorunlu değil: "CRISPR-Cas tools" da sayılır
+        while len(toks) > 1 and toks[-1] in GENERIC_TAIL:
+            toks = toks[:-1]
+        if toks:
+            hits = max(hits, len(re.findall(r"\b" + r"\w*\W+".join(re.escape(t) for t in toks), ab)))
+    return hits >= 2
+
+
 def broad_source_ok(source, names):
     """Disiplin/alt disiplin (derinlik 1–2) için kaynak: başlığında alanın adı geçen bir derleme olmalı."""
     return source.get("type") == "review" and mentions_entry(source.get("title") or "", names)
@@ -154,7 +174,8 @@ def validate(draft, sources, names=None, require_turkish=True):
             ev = (st.get("evidence") or "").strip()
             srcs = [x for x in st.get("sources") or [] if x in by]
             why = None
-            if not srcs or len(text) < 15 or len(text) > 700 or re.search(r"https?://", text):
+            # alıntı modunda model metni kullanılmaz; uzunluk/URL kontrolü yalnızca özet modunda
+            if not srcs or (require_turkish and (len(text) < 15 or len(text) > 700 or re.search(r"https?://", text))):
                 why = "kaynaksız/geçersiz"
             elif not any(evidence_in_abstract(ev, by[x].get("abstract")) for x in srcs):
                 why = "kanıt alıntısı kaynak özetinde yok"
@@ -166,6 +187,8 @@ def validate(draft, sources, names=None, require_turkish=True):
                 why = "ifade Türkçe değil / biçim sızıntısı"
             elif names and not mentions_entry(ev, names):
                 why = "kanıt bu teknolojiden söz etmiyor"
+            elif names and not any(source_focus_ok(by[x], names) for x in srcs):
+                why = "kaynak bu teknolojiyi açıklamıyor (yalnızca anıyor)"
             elif CITATION_RE.search(ev):
                 why = "alıntı kaynak künyesi içeriyor"
             elif any(_norm(text) == _norm(o["text"]) or _norm(ev) == _norm(o["evidence"])
@@ -242,8 +265,8 @@ def gather_sources(http, cfg, tree, nid, openalex, n_reviews=4, n_articles=3):
 
 def priority_queue(tree, limit, refresh=False):
     """Boş içerikli düğümler; sığdan derine, araştırma sayısı çok olan önce."""
-    nodes = [n for n in tree.nodes.values()
-             if refresh or (n["meta"].get("content_status") or "empty") in ("empty", "scope_note")]
+    nodes = [n for n in tree.nodes.values() if n["depth"] >= PROPOSAL_DEPTH and
+             (refresh or (n["meta"].get("content_status") or "empty") in ("empty", "scope_note"))]
     nodes = [n for n in nodes if not n["meta"].get("maintain_skip_until") or
              n["meta"]["maintain_skip_until"] <= date.today().isoformat()]
     nodes.sort(key=lambda n: (n["depth"], -len(n["research"]), n["dir"]))
@@ -298,7 +321,8 @@ def apply_draft(cfg, tree, nid, clean, sources, mode="summary"):
             body = kb.replace_section(body, 14, refs)
         else:
             blocked[14] = refs
-        meta["content_status"] = "ai_quotes_sourced" if mode == "quote" else "ai_draft_sourced"
+        meta["content_status"] = "ai_draft_sourced"   # otomatik içerik daima taslak; doğrulama yalnızca insan
+        meta["content_mode"] = "quotes" if mode == "quote" else "summary"
         meta["content_sources"] = [s.get("doi") or s.get("url") for s in sources
                                    if any(s["sid"] in st["sources"] for k in clean for st in clean[k])]
         meta["last_maintained"] = cfg.today.isoformat()
@@ -312,11 +336,18 @@ def apply_draft(cfg, tree, nid, clean, sources, mode="summary"):
     return filled, proposal
 
 
+AUTO_MIN_DEPTH = 3   # derinlik ≥3: otomatik taslak yazılabilir
+PROPOSAL_DEPTH = 2   # derinlik 2: yalnızca öneri; derinlik 1: otomatik içerik üretimi kapalı
+
+
 def fill_node(cfg, tree, nid, llm=None, http=None, openalex=None, draft=None, sources=None, keep_dropped=False,
               mode=None, exclude=()):
+    depth = tree.nodes[nid]["depth"]
+    if depth < PROPOSAL_DEPTH:
+        return {"node": nid, "status": "disabled_depth1"}
     if sources is None:
         sources = gather_sources(http, cfg, tree, nid, openalex)
-        if tree.nodes[nid]["depth"] <= 2:  # geniş alan adı ilgisiz çalışmaları getirir; yalnızca alan derlemeleri
+        if depth <= 2:  # geniş alan adı ilgisiz çalışmaları getirir; yalnızca alan derlemeleri
             names = entry_names(tree.nodes[nid]["meta"])
             sources = [s for s in sources if broad_source_ok(s, names)]
             for i, s in enumerate(sources):
@@ -341,6 +372,15 @@ def fill_node(cfg, tree, nid, llm=None, http=None, openalex=None, draft=None, so
             keep = [st for st in clean[k] if not any(x in st["evidence"] for x in exclude)]
             dropped += [{"section": k, "statement": st, "why": "denetimde çıkarıldı"} for st in clean[k] if st not in keep]
             clean[k] = keep
+    if depth < AUTO_MIN_DEPTH:  # alt disiplin: _index.md'ye yazılmaz, yalnızca öneri
+        sections, refs = render(clean, sources, mode)
+        proposal = write_proposal(cfg, nid, "draft", sections, refs,
+                                  "Alt disiplin düzeyi (derinlik 2): otomatik yazma kapalı; insan incelemesi için taslak.") \
+            if sections else None
+        kept = sum(len(v) for v in clean.values())
+        return {"node": nid, "status": "proposed" if proposal else "nothing_filled", "filled": [], "kept": kept,
+                "mode": mode, "dropped": len(dropped), "sources": len(sources), "proposal": proposal,
+                "drop_reasons": {w: sum(1 for d in dropped if d["why"] == w) for w in {d["why"] for d in dropped}}}
     filled, proposal = apply_draft(cfg, tree, nid, clean, sources, mode)
     kept = sum(len(v) for v in clean.values())
     res = {"node": nid, "status": "filled" if filled else "nothing_filled", "filled": filled, "kept": kept, "mode": mode,

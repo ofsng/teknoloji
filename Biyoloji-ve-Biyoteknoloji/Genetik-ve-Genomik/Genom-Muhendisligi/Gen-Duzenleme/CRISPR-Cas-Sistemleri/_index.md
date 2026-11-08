@@ -14,9 +14,10 @@ classification_refs: []
 content_verified: false
 created: 2026-11-05
 layout: 2
-content_status: ai_quotes_sourced
+content_status: ai_draft_sourced
 content_sources: ["10.1126/science.1179555", "10.1126/science.aat5011", "10.1126/science.1231143"]
-last_maintained: 2026-11-07
+content_mode: quotes
+last_maintained: 2026-11-08
 ---
 
 # CRISPR-Cas Sistemleri (CRISPR-Cas Systems)

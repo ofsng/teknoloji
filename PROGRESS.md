@@ -24,6 +24,15 @@ Ayrıntı: AUTOMATION.md. Otomatik çalışmalar `auto/research` dalında biriki
 | Actions uyarıları | Node 20 uyarısı: checkout@v7, setup-python@v7, cache@v5, upload-artifact@v6 (Node 24). |
 | Önceki açık işler | Tamamlandı: `OPENALEX_API_KEY` tanımlandı; Actions'ın PR açma izni verildi. |
 
+## v2.2 — Derinlik kuralları ve kavram türleri (2026-11-08)
+
+- PR #3 (dayanıklılık): LLM adımı toplamayı engellemez; llama.cpp indirilemezse kaynaktan derlenir; kurtarma hatası
+  giderildi — kurtarma 11-08'de tamamlandı.
+- Derinlik 1 otomatik içerik kapalı, derinlik 2 yalnızca öneri, 3–8 otomatik taslak (`ai_draft_sourced`).
+- Kaynak odak kontrolü: yalnızca anan kaynak reddedilir. Pilot yeniden üretildi: 5 düğüm 13 alıntı; kuantum
+  hesaplama öneriye dönüştü; nanoteknoloji boşaltıldı.
+- Teknoloji keşfi: kavram türü ayrımı, takma ad kapsamı, üst düğüm seçimi; 22 aday yeniden değerlendirildi (14 ret).
+
 ## Açık işler
 
 - [ ] PR #2'yi incelemek ve birleştirmek (birleşince günlük iş akışı kurtarmayı otomatik yapar).

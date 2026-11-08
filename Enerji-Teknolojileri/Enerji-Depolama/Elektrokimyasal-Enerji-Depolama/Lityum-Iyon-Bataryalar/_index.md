@@ -14,9 +14,10 @@ classification_refs: []
 content_verified: false
 created: 2026-11-05
 layout: 2
-content_status: ai_quotes_sourced
-content_sources: ["10.1038/s41467-020-15355-0", "10.1126/science.aab1595"]
-last_maintained: 2026-11-07
+content_status: ai_draft_sourced
+content_sources: ["10.1038/s41467-020-15355-0"]
+content_mode: quotes
+last_maintained: 2026-11-08
 ---
 
 # Lityum-İyon Bataryalar (Lithium-Ion Batteries)
@@ -72,9 +73,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 
 ## 10. Sınırlılıklar
 
-- “Lithium-ion batteries raise safety, environmental, and cost concerns, which mostly arise from their nonaqueous electrolytes.” [2]
-
-<sub>Bu bölümde yalnızca kaynaklardan birebir alıntılar vardır (yerel dil modeli seçti, doğrulayıcı kaynak özetinde geçtiğini denetledi). Türkçe özet bekliyor; insan onayı yok.</sub>
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 ## 11. Açık problemler
 
@@ -99,5 +98,4 @@ _Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini gösterm
 ## 14. Kaynaklar
 
 1. Arumugam Manthiram (2020). *A reflection on lithium-ion battery cathode chemistry*. Nature Communications. https://doi.org/10.1038/s41467-020-15355-0 — hakemli
-2. Liumin Suo vd. (2015). *“Water-in-salt” electrolyte enables high-voltage aqueous lithium-ion chemistries*. Science. https://doi.org/10.1126/science.aab1595 — hakemli
 
