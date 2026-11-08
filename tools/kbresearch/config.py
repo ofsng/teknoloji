@@ -30,15 +30,23 @@ class Config:
         # günlük bütçeler
         self.max_archive = env_int("KB_MAX_ARCHIVE_PER_RUN", 40)
         self.max_per_tech = env_int("KB_MAX_PER_TECH_PER_RUN", 3)
-        self.source_share = {"arxiv": 0.5, "openalex": 0.5}
         self.arxiv_page_size = env_int("KB_ARXIV_PAGE_SIZE", 500)
         self.arxiv_max_results = env_int("KB_ARXIV_MAX_RESULTS", 3000)
         self.arxiv_lag_days = 2          # arXiv duyuruları gönderim tarihinden sonra gelir
         self.openalex_lag_days = 3       # OpenAlex dizinlemesi gecikmeli; from_created_date ücretli plan ister
         self.openalex_per_page = 100
-        self.openalex_max_pages = env_int("KB_OPENALEX_MAX_PAGES", 20)
+        # Anahtarla günlük dergi akışının tamamı (~90 sayfa ≈ $0,009); anahtarsız paylaşımlı bütçede 20 sayfa
+        self.openalex_max_pages = env_int("KB_OPENALEX_MAX_PAGES", 100 if self.openalex_key else 20)
+        # Geç dizinlenen yayınlar: aynı yayın günü bu gecikmelerle yeniden taranır; yalnızca ilk taramadan
+        # sonra OpenAlex'e eklenen (created_date) kayıtlar işlenir
+        self.openalex_revisit_lags = [int(x) for x in os.environ.get("KB_OPENALEX_REVISIT_LAGS", "10,30").split(",") if x]
+        self.arxiv_revisit_lags = [int(x) for x in os.environ.get("KB_ARXIV_REVISIT_LAGS", "7").split(",") if x]
+        self.seen_days = env_int("KB_SEEN_DAYS", 21)
         self.max_catchup_days = env_int("KB_MAX_CATCHUP_DAYS", 3)
-        self.review_queue_max = env_int("KB_REVIEW_QUEUE_MAX", 300)
+        self.review_queue_max = env_int("KB_REVIEW_QUEUE_MAX", 150)
+        self.review_expire_days = env_int("KB_REVIEW_EXPIRE_DAYS", 30)
+        self.backlog_max = env_int("KB_BACKLOG_MAX", 3000)
+        self.backlog_per_tech = env_int("KB_BACKLOG_PER_TECH", 30)
         self.review_per_run = env_int("KB_REVIEW_PER_RUN", 30)
         self.verify_per_run = env_int("KB_VERIFY_PER_RUN", 60)
         self.retraction_checks_per_run = env_int("KB_RETRACTION_CHECKS", 40)

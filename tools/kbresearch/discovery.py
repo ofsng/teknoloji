@@ -36,6 +36,7 @@ TECH_HEADS = {"network", "model", "algorithm", "learning", "architecture", "prot
               "generation", "distillation", "quantization", "tokenizer", "embedding", "diffusion", "flow", "fusion",
               "lithography", "deposition", "etching", "qubit", "gate", "channel", "routing", "consensus",
               "signature", "encryption", "proof", "commitment", "hash", "ledger", "rollup"}
+FUNCTION_WORDS = {"of", "and", "for", "the", "in", "a", "an", "with", "on", "to", "via", "based", "using"}
 ACRO_DEF = re.compile(r"((?:[A-Za-z][\w'-]*[\s-]+){1,8}?)\(([A-Z][A-Za-z0-9-]{1,11})\)")
 
 
@@ -101,6 +102,7 @@ class Discovery:
         self.cands = load_json(self.cand_path, {})
         self.known = {}       # ifade anahtarı -> node id
         self.known_acr = {}   # kısaltma (küçük harf) -> node id
+        self.name_tokens = []  # (token kümesi, node id, ad) — çakışma kontrolü için
         for nid, n in tree.nodes.items():
             m = n["meta"]
             for name in [m.get("title")] + list(m.get("aliases") or []):
@@ -109,6 +111,9 @@ class Discovery:
                 k = term_key(name)
                 if k:
                     self.known.setdefault(k, nid)
+                    content = {w for w in k.split() if w not in FUNCTION_WORDS}
+                    if content:
+                        self.name_tokens.append((content, nid, name))
                 if re.fullmatch(r"[A-Z][A-Za-z0-9-]{1,11}", name) and sum(c.isupper() for c in name) >= 2:
                     self.known_acr.setdefault(name.lower().rstrip("s"), nid)
             words = [w for w in re.split(r"[\s-]+", m.get("title") or "") if w]
@@ -154,14 +159,65 @@ class Discovery:
             t["last_seen"] = today
 
     # -- aday üretimi
+    def overlaps(self, key, limit=4):
+        """Mevcut teknoloji adları/takma adlarıyla sözcük örtüşmesi (Jaccard): [(benzerlik, node id, ad)].
+        Mevcut bir adın aday içinde tamamen geçmesi (ör. "large language model" ⊂ "multimodal large language
+        model") çakışma değil alt tür işaretidir; variant_parent() ile ayrıca ele alınır."""
+        cand = {w for w in key.split() if w not in FUNCTION_WORDS}
+        out = {}
+        for toks_, nid, name in self.name_tokens:
+            inter = len(cand & toks_)
+            if not inter:
+                continue
+            sim = round(inter / len(cand | toks_), 2)
+            if sim > out.get(nid, (0,))[0]:
+                out[nid] = (sim, nid, name)
+        return sorted(out.values(), reverse=True)[:limit]
+
     def synonym_of(self, key, acronyms):
-        """Adayın kısaltması mevcut bir teknolojinin kısaltma takma adıyla (ya da ≥3 sözcüklü adının baş
-        harfleriyle) aynıysa eş anlamlı/varyant adlandırma kabul edilir."""
+        """Kısaltma mevcut bir teknolojininkiyle aynı VE adlar anlamca örtüşüyorsa eş anlamlıdır. Yalnızca kısaltma
+        aynıysa (ör. ANN = artificial neural network / approximate nearest neighbor) eş anlamlı sayılmaz."""
         for a in acronyms:
             hit = self.known_acr.get(a.lower().rstrip("s"))
-            if hit:
+            if hit and any(nid == hit and sim >= 0.34 for sim, nid, _ in self.overlaps(key, limit=50)):
                 return hit
         return None
+
+    def ambiguous_acronyms(self, key, acronyms):
+        out = []
+        for a in acronyms:
+            hit = self.known_acr.get(a.lower().rstrip("s"))
+            if hit and not self.synonym_of(key, [a]):
+                out.append((a, hit))
+        return out
+
+    def assess_conflicts(self, c):
+        """Aday kaydına çakışma bilgisini yazar; çok güçlü çakışmada adayı reddeder."""
+        key = c["key"]
+        ov = self.overlaps(key)
+        c["overlaps"] = [{"technology_id": nid, "name": name, "similarity": sim} for sim, nid, name in ov]
+        amb = self.ambiguous_acronyms(key, c.get("acronyms") or [])
+        if amb:
+            c["ambiguous_acronyms"] = [{"acronym": a, "existing": n} for a, n in amb]
+        syn = self.synonym_of(key, c.get("acronyms") or [])
+        if c["status"] == "rejected" and str(c.get("reason", "")).startswith("synonym_of:") and not syn:
+            # eski sürümün yalnızca kısaltmaya dayalı ret kararları geri alınır
+            c.update(status="candidate", reason=None, alias_proposal=False)
+            c.setdefault("notes", []).append("Önceki eş anlamlı kararı yalnızca kısaltma eşleşmesine dayanıyordu; "
+                                             "geri alındı (kısaltma belirsiz).")
+        if c["status"] != "candidate":
+            return
+        if syn:
+            c.update(status="rejected", reason=f"synonym_of:{syn}", alias_proposal=True)
+        elif ov and ov[0][0] >= 0.8:
+            c.update(status="rejected", reason=f"duplicate_of:{ov[0][1]}", alias_proposal=True)
+        else:
+            parent = self.variant_parent(key)
+            # önerilen üst düğümle benzerlik beklenir (alt tür); başka düğümlerle benzerlik çakışma işaretidir
+            others = [o for o in ov if o[1] not in (parent, c.get("parent_suggestion")) and o[0] >= 0.4]
+            c["possible_duplicate"] = bool(others)
+            if parent:
+                c["variant_of"] = parent
 
     def variant_parent(self, key):
         words = key.split()
@@ -196,7 +252,7 @@ class Discovery:
                      "literature_count": None, "notes": []}
                 if syn:
                     c.update(status="rejected", reason=f"synonym_of:{syn}", alias_proposal=True,
-                             notes=[f"Mevcut teknolojinin ({syn}) eş anlamlısı/kısaltma eşleşmesi; takma ad önerisi."])
+                             notes=[f"Mevcut teknolojinin ({syn}) eş anlamlısı; takma ad önerisi."])
                 elif parent and parent in self.tree.nodes and self.tree.nodes[parent]["depth"] <= 1:
                     c["structural"] = True
                     c["notes"].append("Önerilen üst düğüm ana disiplin; yeni alt disiplin yapısal değişikliktir, "
@@ -206,6 +262,7 @@ class Discovery:
             c.update(display=disp, acronyms=t["acronyms"], updated=today,
                      evidence={"papers": n_p, "first_authors": n_a, "months": n_m, "sources": t["sources"],
                                "examples": t["examples"], "co_classified": t["techs"]})
+            self.assess_conflicts(c)
             if c["status"] == "candidate" and c.get("literature_count") is None and count_fn and \
                     lit_checks < cfg.discovery_lit_checks:
                 lit_checks += 1
@@ -244,6 +301,12 @@ class Discovery:
         for c in sorted(by["candidate"], key=lambda c: -(c.get("evidence") or {}).get("papers", 0)):
             ev = c.get("evidence") or {}
             notes = "; ".join(c.get("notes") or []) + (" ⚠ literatür az" if c.get("low_literature") else "")
+            if c.get("overlaps"):
+                notes += (" ⚠ olası çakışma: " if c.get("possible_duplicate") else " benzer: ") + ", ".join(
+                    f"`{o['technology_id']}` ({o['similarity']})" for o in c["overlaps"][:3])
+            if c.get("ambiguous_acronyms"):
+                notes += " · belirsiz kısaltma: " + ", ".join(f"{a['acronym']}→`{a['existing']}`"
+                                                             for a in c["ambiguous_acronyms"])
             lines.append(f"| `{c['key']}` | {c['display']} {('(' + ', '.join(c['acronyms']) + ')') if c.get('acronyms') else ''} | "
                          f"`{c.get('parent_suggestion')}` ({c.get('parent_reason')}) | {ev.get('papers')}/"
                          f"{ev.get('first_authors')}/{ev.get('months')} | {c.get('literature_count')} | {notes} |")
@@ -254,10 +317,17 @@ class Discovery:
         kb.write(os.path.join(self.cfg.review_dir, "TECHNOLOGY-CANDIDATES.md"), "\n".join(lines) + "\n")
 
     # -- insan kararları
-    def verify(self, key, parent, title=None, title_tr=None):
+    def verify(self, key, parent, title=None, title_tr=None, force=False):
         c = self.cands.get(key)
         if not c or c["status"] != "candidate":
             raise ValueError(f"Bekleyen aday yok: {key}")
+        self.assess_conflicts(c)
+        if c["status"] != "candidate":
+            raise ValueError(f"Aday mevcut bir teknolojiyle çakışıyor: {c.get('reason')}")
+        if c.get("possible_duplicate") and not force:
+            raise ValueError("Olası çakışma: " + ", ".join(f"{o['technology_id']} ({o['similarity']})"
+                                                           for o in c.get("overlaps", [])[:3]) +
+                             " — yine de eklemek için --force")
         title = title or c["display"]
         path = kb.create_tech(self.tree, parent, title, title_tr or title, status="emerging", confidence="medium",
                               aliases=c.get("acronyms") or [],
