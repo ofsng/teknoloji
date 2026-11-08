@@ -898,7 +898,7 @@ Ana disiplinler:
 
 ## Biyoloji ve Biyoteknoloji
 
-- [Biyoloji ve Biyoteknoloji](Biyoloji-ve-Biyoteknoloji/_index.md) — *Biology and Biotechnology* `[içerik: ai_quotes_sourced]`
+- [Biyoloji ve Biyoteknoloji](Biyoloji-ve-Biyoteknoloji/_index.md) — *Biology and Biotechnology*
   - [Bitki Biyolojisi](Biyoloji-ve-Biyoteknoloji/Bitki-Biyolojisi/_index.md) — *Plant Biology*
   - [Biyoenformatik ve Hesaplamalı Biyoloji](Biyoloji-ve-Biyoteknoloji/Biyoenformatik-ve-Hesaplamali-Biyoloji/_index.md) — *Bioinformatics and Computational Biology*
     - [Biyolojik Veritabanları](Biyoloji-ve-Biyoteknoloji/Biyoenformatik-ve-Hesaplamali-Biyoloji/Biyolojik-Veritabanlari/_index.md) — *Biological Databases*
@@ -1839,7 +1839,7 @@ Ana disiplinler:
 
 ## İnsan-Bilgisayar Etkileşimi
 
-- [İnsan-Bilgisayar Etkileşimi](Insan-Bilgisayar-Etkilesimi/_index.md) — *Human-Computer Interaction* `[içerik: ai_quotes_sourced, 1 araştırma]`
+- [İnsan-Bilgisayar Etkileşimi](Insan-Bilgisayar-Etkilesimi/_index.md) — *Human-Computer Interaction* `[1 araştırma]`
   - [Bilgi Görselleştirme](Insan-Bilgisayar-Etkilesimi/Bilgi-Gorsellestirme/_index.md) — *Information Visualization*
     - [Çizge ve Ağ Görselleştirme](Insan-Bilgisayar-Etkilesimi/Bilgi-Gorsellestirme/Cizge-Gorsellestirme/_index.md) — *Graph and Network Visualization*
     - [Görsel Analitik](Insan-Bilgisayar-Etkilesimi/Bilgi-Gorsellestirme/Gorsel-Analitik/_index.md) — *Visual Analytics*
