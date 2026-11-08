@@ -766,3 +766,13 @@ class TestRecordsWithoutKeys(Base):
         empty = new_record(title=None, source_ids=["openalex:W99"], abstract=GNN_ABS, abstract_license="cc-by")
         run.process([empty], "openalex", use_seen=False)  # IndexError olmamalı (run 42468883840)
         self.assertEqual(run.stats["errors"], [])
+
+
+class TestBroadNodes(Base):
+    def test_citation_quotes_rejected_and_broad_sources_filtered(self):
+        self.assertTrue(M.CITATION_RE.search("primers designed by Folmer et al. (Molecular Marine Biology and Biotechnology, 3, 1994, 294)"))
+        self.assertFalse(M.CITATION_RE.search("Since 1988, many studies on EUVL have been conducted in North America"))
+        names = M.entry_names(self.tree().nodes["computer-science"]["meta"])
+        self.assertFalse(M.broad_source_ok({"type": "review", "title": "Face recognition: a review"}, names))
+        self.assertFalse(M.broad_source_ok({"type": "article", "title": "Computer science education"}, names))
+        self.assertTrue(M.broad_source_ok({"type": "review", "title": "A history of computer science"}, names))

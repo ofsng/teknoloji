@@ -132,6 +132,15 @@ def text_mode(llm=None):
     return "quote" if (llm is not None and getattr(llm, "provider", None) == "local") else "summary"
 
 
+# "(Journal Name, 3, 1994, 294)", "et al." gibi künye parçaları: ad bir dergi adında geçiyor olabilir
+CITATION_RE = re.compile(r"\bet al\.|\b(19|20)\d{2}\s*[,;)]\s*\d|\d+\s*,\s*(19|20)\d{2}\b")
+
+
+def broad_source_ok(source, names):
+    """Disiplin/alt disiplin (derinlik 1–2) için kaynak: başlığında alanın adı geçen bir derleme olmalı."""
+    return source.get("type") == "review" and mentions_entry(source.get("title") or "", names)
+
+
 def validate(draft, sources, names=None, require_turkish=True):
     """Kaynaksız, bilinmeyen kaynaklı, kanıt alıntısı özette bulunmayan ya da kanıtta olmayan sayı içeren
     ifadeleri atar. (temiz taslak, atılanlar)"""
@@ -157,6 +166,8 @@ def validate(draft, sources, names=None, require_turkish=True):
                 why = "ifade Türkçe değil / biçim sızıntısı"
             elif names and not mentions_entry(ev, names):
                 why = "kanıt bu teknolojiden söz etmiyor"
+            elif CITATION_RE.search(ev):
+                why = "alıntı kaynak künyesi içeriyor"
             elif any(_norm(text) == _norm(o["text"]) or _norm(ev) == _norm(o["evidence"])
                      for o in [o for k2 in clean for o in clean[k2]] + out):
                 why = "tekrar"
@@ -305,6 +316,11 @@ def fill_node(cfg, tree, nid, llm=None, http=None, openalex=None, draft=None, so
               mode=None, exclude=()):
     if sources is None:
         sources = gather_sources(http, cfg, tree, nid, openalex)
+        if tree.nodes[nid]["depth"] <= 2:  # geniş alan adı ilgisiz çalışmaları getirir; yalnızca alan derlemeleri
+            names = entry_names(tree.nodes[nid]["meta"])
+            sources = [s for s in sources if broad_source_ok(s, names)]
+            for i, s in enumerate(sources):
+                s["sid"] = f"S{i + 1}"
     if not sources:
         return {"node": nid, "status": "no_sources"}
     if draft is None:
