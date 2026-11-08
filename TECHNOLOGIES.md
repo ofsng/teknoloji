@@ -277,7 +277,7 @@ Ana disiplinler:
             - [Plasma Zincirleri](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Olceklendirme/Katman-2/Plasma-Zincirleri/_index.md) — *Plasma Chains*
             - [Rollup'lar](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Olceklendirme/Katman-2/Rollups/_index.md) — *Rollups*
               - [İyimser Rollup'lar](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Olceklendirme/Katman-2/Rollups/Optimistic-Rollups/_index.md) — *Optimistic Rollups*
-              - [ZK-Rollup'lar](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Olceklendirme/Katman-2/Rollups/ZK-Rollups/_index.md) — *ZK-Rollups* `[içerik: ai_quotes_sourced]`
+              - [ZK-Rollup'lar](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Olceklendirme/Katman-2/Rollups/ZK-Rollups/_index.md) — *ZK-Rollups* `[içerik: ai_draft_sourced]`
           - [Veri Erişilebilirliği Örneklemesi](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Olceklendirme/Veri-Erisilebilirligi-Orneklemesi/_index.md) — *Data Availability Sampling* `[emerging]`
         - [Blokzincir Veri Yapıları](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Blokzincir-Veri-Yapilari/_index.md) — *Blockchain Data Structures*
           - [Merkle Ağaçları](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Blokzincir-Veri-Yapilari/Merkle-Agaclari/_index.md) — *Merkle Trees*
@@ -764,7 +764,7 @@ Ana disiplinler:
           - [Difüzyon Modelleri](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Uretken-Modeller/Difuzyon-Modelleri/_index.md) — *Diffusion Models*
             - [Akış Eşleme](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Uretken-Modeller/Difuzyon-Modelleri/Akis-Esleme/_index.md) — *Flow Matching* `[emerging]`
             - [Gizil Difüzyon Modelleri](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Uretken-Modeller/Difuzyon-Modelleri/Gizil-Difuzyon-Modelleri/_index.md) — *Latent Diffusion Models*
-            - [Gürültü Giderici Difüzyon Olasılıksal Modelleri](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Uretken-Modeller/Difuzyon-Modelleri/DDPM/_index.md) — *Denoising Diffusion Probabilistic Models* `[içerik: ai_quotes_sourced]`
+            - [Gürültü Giderici Difüzyon Olasılıksal Modelleri](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Uretken-Modeller/Difuzyon-Modelleri/DDPM/_index.md) — *Denoising Diffusion Probabilistic Models*
             - [Skor Tabanlı Üretken Modeller](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Uretken-Modeller/Difuzyon-Modelleri/Skor-Tabanli-Uretken-Modeller/_index.md) — *Score-Based Generative Models*
           - [Enerji Tabanlı Modeller](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Uretken-Modeller/Enerji-Tabanli-Modeller/_index.md) — *Energy-Based Models*
           - [Normalleştirici Akışlar](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Uretken-Modeller/Normallestirici-Akislar/_index.md) — *Normalizing Flows*
@@ -898,7 +898,7 @@ Ana disiplinler:
 
 ## Biyoloji ve Biyoteknoloji
 
-- [Biyoloji ve Biyoteknoloji](Biyoloji-ve-Biyoteknoloji/_index.md) — *Biology and Biotechnology* `[içerik: ai_quotes_sourced]`
+- [Biyoloji ve Biyoteknoloji](Biyoloji-ve-Biyoteknoloji/_index.md) — *Biology and Biotechnology*
   - [Bitki Biyolojisi](Biyoloji-ve-Biyoteknoloji/Bitki-Biyolojisi/_index.md) — *Plant Biology*
   - [Biyoenformatik ve Hesaplamalı Biyoloji](Biyoloji-ve-Biyoteknoloji/Biyoenformatik-ve-Hesaplamali-Biyoloji/_index.md) — *Bioinformatics and Computational Biology*
     - [Biyolojik Veritabanları](Biyoloji-ve-Biyoteknoloji/Biyoenformatik-ve-Hesaplamali-Biyoloji/Biyolojik-Veritabanlari/_index.md) — *Biological Databases*
@@ -966,7 +966,7 @@ Ana disiplinler:
     - [Genom Mühendisliği](Biyoloji-ve-Biyoteknoloji/Genetik-ve-Genomik/Genom-Muhendisligi/_index.md) — *Genome Engineering*
       - [Gen Düzenleme](Biyoloji-ve-Biyoteknoloji/Genetik-ve-Genomik/Genom-Muhendisligi/Gen-Duzenleme/_index.md) — *Gene Editing*
         - [Çinko Parmak Nükleazları](Biyoloji-ve-Biyoteknoloji/Genetik-ve-Genomik/Genom-Muhendisligi/Gen-Duzenleme/Cinko-Parmak-Nukleazlari/_index.md) — *Zinc-Finger Nucleases*
-        - [CRISPR-Cas Sistemleri](Biyoloji-ve-Biyoteknoloji/Genetik-ve-Genomik/Genom-Muhendisligi/Gen-Duzenleme/CRISPR-Cas-Sistemleri/_index.md) — *CRISPR-Cas Systems* `[içerik: ai_quotes_sourced]`
+        - [CRISPR-Cas Sistemleri](Biyoloji-ve-Biyoteknoloji/Genetik-ve-Genomik/Genom-Muhendisligi/Gen-Duzenleme/CRISPR-Cas-Sistemleri/_index.md) — *CRISPR-Cas Systems* `[içerik: ai_draft_sourced]`
           - [Baz Düzenleme](Biyoloji-ve-Biyoteknoloji/Genetik-ve-Genomik/Genom-Muhendisligi/Gen-Duzenleme/CRISPR-Cas-Sistemleri/Baz-Duzenleme/_index.md) — *Base Editing*
           - [CRISPR-Cas12 ve Cas13](Biyoloji-ve-Biyoteknoloji/Genetik-ve-Genomik/Genom-Muhendisligi/Gen-Duzenleme/CRISPR-Cas-Sistemleri/CRISPR-Cas12-ve-Cas13/_index.md) — *CRISPR-Cas12 and Cas13*
           - [CRISPR-Cas9](Biyoloji-ve-Biyoteknoloji/Genetik-ve-Genomik/Genom-Muhendisligi/Gen-Duzenleme/CRISPR-Cas-Sistemleri/CRISPR-Cas9/_index.md)
@@ -1310,7 +1310,7 @@ Ana disiplinler:
     - [Kimyasal Mekanik Düzleştirme](Elektrik-ve-Elektronik-Muhendisligi/Yari-Iletken-Uretimi/Kimyasal-Mekanik-Duzlestirme/_index.md) — *Chemical Mechanical Planarization*
     - [Kristal Büyütme ve Pul Hazırlama](Elektrik-ve-Elektronik-Muhendisligi/Yari-Iletken-Uretimi/Kristal-Buyutme-ve-Pul-Hazirlama/_index.md) — *Crystal Growth and Wafer Preparation*
     - [Litografi](Elektrik-ve-Elektronik-Muhendisligi/Yari-Iletken-Uretimi/Litografi/_index.md) — *Lithography*
-      - [Aşırı Morötesi Litografi](Elektrik-ve-Elektronik-Muhendisligi/Yari-Iletken-Uretimi/Litografi/Asiri-Morotesi-Litografi/_index.md) — *Extreme Ultraviolet Lithography* `[içerik: ai_quotes_sourced]`
+      - [Aşırı Morötesi Litografi](Elektrik-ve-Elektronik-Muhendisligi/Yari-Iletken-Uretimi/Litografi/Asiri-Morotesi-Litografi/_index.md) — *Extreme Ultraviolet Lithography* `[içerik: ai_draft_sourced]`
         - [Yüksek NA EUV Litografi](Elektrik-ve-Elektronik-Muhendisligi/Yari-Iletken-Uretimi/Litografi/Asiri-Morotesi-Litografi/Yuksek-NA-EUV-Litografi/_index.md) — *High-NA EUV Lithography* `[emerging]`
       - [Elektron Demeti Litografisi](Elektrik-ve-Elektronik-Muhendisligi/Yari-Iletken-Uretimi/Litografi/Elektron-Demeti-Litografisi/_index.md) — *Electron Beam Lithography*
       - [Fotodirençler](Elektrik-ve-Elektronik-Muhendisligi/Yari-Iletken-Uretimi/Litografi/Fotodirencler/_index.md) — *Photoresists*
@@ -1336,7 +1336,7 @@ Ana disiplinler:
       - [Batarya Yönetim Sistemleri](Enerji-Teknolojileri/Enerji-Depolama/Elektrokimyasal-Enerji-Depolama/Batarya-Yonetim-Sistemleri/_index.md) — *Battery Management Systems*
       - [Katı Hal Bataryaları](Enerji-Teknolojileri/Enerji-Depolama/Elektrokimyasal-Enerji-Depolama/Kati-Hal-Bataryalari/_index.md) — *Solid-State Batteries* `[emerging]`
       - [Kurşun-Asit Bataryalar](Enerji-Teknolojileri/Enerji-Depolama/Elektrokimyasal-Enerji-Depolama/Kursun-Asit-Bataryalar/_index.md) — *Lead-Acid Batteries*
-      - [Lityum-İyon Bataryalar](Enerji-Teknolojileri/Enerji-Depolama/Elektrokimyasal-Enerji-Depolama/Lityum-Iyon-Bataryalar/_index.md) — *Lithium-Ion Batteries* `[içerik: ai_quotes_sourced]`
+      - [Lityum-İyon Bataryalar](Enerji-Teknolojileri/Enerji-Depolama/Elektrokimyasal-Enerji-Depolama/Lityum-Iyon-Bataryalar/_index.md) — *Lithium-Ion Batteries* `[içerik: ai_draft_sourced]`
         - [Anot Malzemeleri](Enerji-Teknolojileri/Enerji-Depolama/Elektrokimyasal-Enerji-Depolama/Lityum-Iyon-Bataryalar/Anot-Malzemeleri/_index.md) — *Anode Materials*
         - [Batarya Hücresi Üretimi](Enerji-Teknolojileri/Enerji-Depolama/Elektrokimyasal-Enerji-Depolama/Lityum-Iyon-Bataryalar/Batarya-Hucresi-Uretimi/_index.md) — *Battery Cell Manufacturing*
         - [Katot Kimyaları](Enerji-Teknolojileri/Enerji-Depolama/Elektrokimyasal-Enerji-Depolama/Lityum-Iyon-Bataryalar/Katot-Kimyalari/_index.md) — *Cathode Chemistries*
@@ -1420,7 +1420,7 @@ Ana disiplinler:
           - [PERC Güneş Hücreleri](Enerji-Teknolojileri/Yenilenebilir-Enerji/Gunes-Enerjisi/Fotovoltaik/Kristal-Silisyum-Gunes-Hucreleri/PERC-Gunes-Hucreleri/_index.md) — *PERC Solar Cells*
           - [TOPCon Güneş Hücreleri](Enerji-Teknolojileri/Yenilenebilir-Enerji/Gunes-Enerjisi/Fotovoltaik/Kristal-Silisyum-Gunes-Hucreleri/TOPCon-Gunes-Hucreleri/_index.md) — *TOPCon Solar Cells*
         - [Organik Güneş Hücreleri](Enerji-Teknolojileri/Yenilenebilir-Enerji/Gunes-Enerjisi/Fotovoltaik/Organik-Gunes-Hucreleri/_index.md) — *Organic Solar Cells*
-        - [Perovskit Güneş Hücreleri](Enerji-Teknolojileri/Yenilenebilir-Enerji/Gunes-Enerjisi/Fotovoltaik/Perovskit-Gunes-Hucreleri/_index.md) — *Perovskite Solar Cells* `[emerging, içerik: ai_quotes_sourced]`
+        - [Perovskit Güneş Hücreleri](Enerji-Teknolojileri/Yenilenebilir-Enerji/Gunes-Enerjisi/Fotovoltaik/Perovskit-Gunes-Hucreleri/_index.md) — *Perovskite Solar Cells* `[emerging, içerik: ai_draft_sourced]`
         - [Tandem Güneş Hücreleri](Enerji-Teknolojileri/Yenilenebilir-Enerji/Gunes-Enerjisi/Fotovoltaik/Tandem-Gunes-Hucreleri/_index.md) — *Tandem Solar Cells* `[emerging]`
         - [Yüzer Fotovoltaik](Enerji-Teknolojileri/Yenilenebilir-Enerji/Gunes-Enerjisi/Fotovoltaik/Yuzer-Fotovoltaik/_index.md) — *Floating Photovoltaics*
       - [Güneş Termal Kolektörleri](Enerji-Teknolojileri/Yenilenebilir-Enerji/Gunes-Enerjisi/Gunes-Termal-Kolektorleri/_index.md) — *Solar Thermal Collectors*
@@ -1602,7 +1602,7 @@ Ana disiplinler:
         - [Spin-Yörünge Torku](Fizik-ve-Uygulamali-Fizik/Yogun-Madde-Fizigi/Manyetizma/Spintronik/Spin-Yorunge-Torku/_index.md) — *Spin-Orbit Torque*
     - [Mezoskopik Fizik](Fizik-ve-Uygulamali-Fizik/Yogun-Madde-Fizigi/Mezoskopik-Fizik/_index.md) — *Mesoscopic Physics*
     - [Moiré ve Twistronik](Fizik-ve-Uygulamali-Fizik/Yogun-Madde-Fizigi/Moire-ve-Twistronik/_index.md) — *Moire and Twistronics* `[emerging]`
-    - [Süperiletkenlik](Fizik-ve-Uygulamali-Fizik/Yogun-Madde-Fizigi/Superiletkenlik/_index.md) — *Superconductivity* `[içerik: ai_quotes_sourced]`
+    - [Süperiletkenlik](Fizik-ve-Uygulamali-Fizik/Yogun-Madde-Fizigi/Superiletkenlik/_index.md) — *Superconductivity*
       - [Demir Tabanlı Süperiletkenler](Fizik-ve-Uygulamali-Fizik/Yogun-Madde-Fizigi/Superiletkenlik/Demir-Tabanli-Superiletkenler/_index.md) — *Iron-Based Superconductors*
       - [Geleneksel Süperiletkenler](Fizik-ve-Uygulamali-Fizik/Yogun-Madde-Fizigi/Superiletkenlik/Geleneksel-Superiletkenler/_index.md) — *Conventional Superconductors*
       - [Josephson Eklemleri](Fizik-ve-Uygulamali-Fizik/Yogun-Madde-Fizigi/Superiletkenlik/Josephson-Eklemleri/_index.md) — *Josephson Junctions*
@@ -2025,7 +2025,7 @@ Ana disiplinler:
     - [Kuantum Kaynak Teorileri](Kuantum-Bilimleri-ve-Teknolojileri/Kuantum-Bilgi-Teorisi/Kuantum-Kaynak-Teorileri/_index.md) — *Quantum Resource Theories*
     - [Kuantum Ölçüm Teorisi](Kuantum-Bilimleri-ve-Teknolojileri/Kuantum-Bilgi-Teorisi/Kuantum-Olcum-Teorisi/_index.md) — *Quantum Measurement Theory*
     - [Kuantum Shannon Teorisi](Kuantum-Bilimleri-ve-Teknolojileri/Kuantum-Bilgi-Teorisi/Kuantum-Shannon-Teorisi/_index.md) — *Quantum Shannon Theory*
-  - [Kuantum Hesaplama](Kuantum-Bilimleri-ve-Teknolojileri/Kuantum-Hesaplama/_index.md) — *Quantum Computing* `[içerik: ai_quotes_sourced]`
+  - [Kuantum Hesaplama](Kuantum-Bilimleri-ve-Teknolojileri/Kuantum-Hesaplama/_index.md) — *Quantum Computing*
     - [Kuantum Algoritmaları](Kuantum-Bilimleri-ve-Teknolojileri/Kuantum-Hesaplama/Kuantum-Algoritmalari/_index.md) — *Quantum Algorithms*
       - [Genlik Yükseltme](Kuantum-Bilimleri-ve-Teknolojileri/Kuantum-Hesaplama/Kuantum-Algoritmalari/Genlik-Yukseltme/_index.md) — *Amplitude Amplification*
         - [Grover Algoritması](Kuantum-Bilimleri-ve-Teknolojileri/Kuantum-Hesaplama/Kuantum-Algoritmalari/Genlik-Yukseltme/Grover-Algoritmasi/_index.md) — *Grover's Algorithm*
@@ -2601,7 +2601,7 @@ Ana disiplinler:
 
 ## Nanoteknoloji
 
-- [Nanoteknoloji](Nanoteknoloji/_index.md) — *Nanotechnology* `[içerik: ai_quotes_sourced]`
+- [Nanoteknoloji](Nanoteknoloji/_index.md) — *Nanotechnology*
   - [Moleküler Nanoteknoloji](Nanoteknoloji/Molekuler-Nanoteknoloji/_index.md) — *Molecular Nanotechnology* `[theoretical, güven: medium]`
   - [Nanoelektronik](Nanoteknoloji/Nanoelektronik/_index.md) — *Nanoelectronics*
     - [2B Malzeme Elektroniği](Nanoteknoloji/Nanoelektronik/2B-Malzeme-Elektronigi/_index.md) — *2D Material Electronics*

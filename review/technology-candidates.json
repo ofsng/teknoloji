@@ -3,6 +3,7 @@
   "acronyms": [
    "ART"
   ],
+  "category": "clinical",
   "created": "2026-11-08",
   "display": "antiretroviral therapy",
   "evidence": {
@@ -59,7 +60,9 @@
   "key": "antiretroviral therapy",
   "literature_checked": "2026-11-08",
   "literature_count": 94239,
-  "notes": [],
+  "notes": [
+   "Bağımsız teknoloji değil: klinik tedavi/çalışma tasarımı."
+  ],
   "overlaps": [
    {
     "name": "Radiation Therapy",
@@ -82,10 +85,12 @@
     "technology_id": "cell-therapy"
    }
   ],
-  "parent_reason": "co_classification",
+  "parent_reason": "co_classification (10/12)",
   "parent_suggestion": "infectious-diseases",
+  "parent_uncertain": false,
   "possible_duplicate": false,
-  "status": "candidate",
+  "reason": "category:clinical",
+  "status": "rejected",
   "updated": "2026-11-08"
  },
  "artificial neural network": {
@@ -104,6 +109,7 @@
     "existing": "approximate-nearest-neighbor-search"
    }
   ],
+  "category": "generic",
   "created": "2026-11-06",
   "display": "artificial neural network",
   "evidence": {
@@ -191,7 +197,8 @@
   "literature_count": 266233,
   "notes": [
    "Mevcut teknolojinin (approximate-nearest-neighbor-search) eş anlamlısı/kısaltma eşleşmesi; takma ad önerisi.",
-   "Önceki eş anlamlı kararı yalnızca kısaltma eşleşmesine dayanıyordu; geri alındı (kısaltma belirsiz)."
+   "Önceki eş anlamlı kararı yalnızca kısaltma eşleşmesine dayanıyordu; geri alındı (kısaltma belirsiz).",
+   "Bağımsız teknoloji değil: genel kavram."
   ],
   "overlaps": [
    {
@@ -215,11 +222,12 @@
     "technology_id": "optical-neural-networks"
    }
   ],
-  "parent_reason": "co_classification",
-  "parent_suggestion": "heat-transfer",
+  "parent_reason": "name_overlap (0.5)",
+  "parent_suggestion": "optical-neural-networks",
+  "parent_uncertain": true,
   "possible_duplicate": true,
-  "reason": null,
-  "status": "candidate",
+  "reason": "category:generic",
+  "status": "rejected",
   "updated": "2026-11-08"
  },
  "battery energy storage system": {
@@ -227,6 +235,7 @@
    "BESSs",
    "BESS"
   ],
+  "category": "technology",
   "created": "2026-11-08",
   "display": "battery energy storage systems",
   "evidence": {
@@ -321,6 +330,7 @@
   ],
   "parent_reason": "variant_of_existing",
   "parent_suggestion": "energy-storage",
+  "parent_uncertain": false,
   "possible_duplicate": true,
   "status": "candidate",
   "updated": "2026-11-08",
@@ -332,6 +342,7 @@
    "Bi-LSTM"
   ],
   "alias_proposal": true,
+  "category": "technology",
   "created": "2026-11-08",
   "display": "bidirectional long short-term memory",
   "evidence": {
@@ -419,6 +430,7 @@
   ],
   "parent_reason": "variant_of_existing",
   "parent_suggestion": "long-short-term-memory",
+  "parent_uncertain": false,
   "reason": "duplicate_of:long-short-term-memory",
   "status": "rejected",
   "updated": "2026-11-08"
@@ -427,6 +439,7 @@
   "acronyms": [
    "BMI"
   ],
+  "category": "measurement",
   "created": "2026-11-08",
   "display": "body mass index",
   "evidence": {
@@ -495,7 +508,9 @@
   "key": "body mass index",
   "literature_checked": "2026-11-08",
   "literature_count": 498516,
-  "notes": [],
+  "notes": [
+   "Bağımsız teknoloji değil: ölçüm/gösterge."
+  ],
   "overlaps": [
    {
     "name": "Mass Spectrometry",
@@ -518,16 +533,19 @@
     "technology_id": "tandem-mass-spectrometry"
    }
   ],
-  "parent_reason": "co_classification",
-  "parent_suggestion": "infectious-diseases",
+  "parent_reason": "unknown",
+  "parent_suggestion": null,
+  "parent_uncertain": true,
   "possible_duplicate": false,
-  "status": "candidate",
+  "reason": "category:measurement",
+  "status": "rejected",
   "updated": "2026-11-08"
  },
  "central nervous system": {
   "acronyms": [
    "CNS"
   ],
+  "category": "biological_entity",
   "created": "2026-11-08",
   "display": "central nervous system",
   "evidence": {
@@ -594,7 +612,9 @@
   "key": "central nervous system",
   "literature_checked": "2026-11-08",
   "literature_count": 421097,
-  "notes": [],
+  "notes": [
+   "Bağımsız teknoloji değil: biyolojik varlık."
+  ],
   "overlaps": [
    {
     "name": "Type Systems",
@@ -617,16 +637,19 @@
     "technology_id": "systems-biology"
    }
   ],
-  "parent_reason": "co_classification",
-  "parent_suggestion": "next-generation-sequencing",
+  "parent_reason": "unknown",
+  "parent_suggestion": null,
+  "parent_uncertain": true,
   "possible_duplicate": false,
-  "status": "candidate",
+  "reason": "category:biological_entity",
+  "status": "rejected",
   "updated": "2026-11-08"
  },
  "deep neural network": {
   "acronyms": [
    "DNN"
   ],
+  "category": "generic",
   "created": "2026-11-08",
   "display": "deep neural network",
   "evidence": {
@@ -693,7 +716,9 @@
   "key": "deep neural network",
   "literature_checked": "2026-11-08",
   "literature_count": 431333,
-  "notes": [],
+  "notes": [
+   "Bağımsız teknoloji değil: genel kavram."
+  ],
   "overlaps": [
    {
     "name": "Spiking Neural Networks",
@@ -716,16 +741,19 @@
     "technology_id": "optical-neural-networks"
    }
   ],
-  "parent_reason": "co_classification",
-  "parent_suggestion": "deep-learning",
+  "parent_reason": "name_overlap (0.5)",
+  "parent_suggestion": "optical-neural-networks",
+  "parent_uncertain": true,
   "possible_duplicate": true,
-  "status": "candidate",
+  "reason": "category:generic",
+  "status": "rejected",
   "updated": "2026-11-08"
  },
  "electrochemical impedance spectroscopy": {
   "acronyms": [
    "EIS"
   ],
+  "category": "method",
   "created": "2026-11-08",
   "display": "electrochemical impedance spectroscopy",
   "evidence": {
@@ -815,8 +843,9 @@
     "technology_id": "electrochemical-machining"
    }
   ],
-  "parent_reason": "variant_of_existing",
-  "parent_suggestion": "spectroscopy",
+  "parent_reason": "unknown",
+  "parent_suggestion": null,
+  "parent_uncertain": true,
   "possible_duplicate": false,
   "status": "candidate",
   "updated": "2026-11-08",
@@ -827,6 +856,7 @@
    "EDX",
    "EDS"
   ],
+  "category": "method",
   "created": "2026-11-08",
   "display": "energy-dispersive X-ray spectroscopy",
   "evidence": {
@@ -915,8 +945,9 @@
     "technology_id": "x-ray-diffraction-and-scattering"
    }
   ],
-  "parent_reason": "variant_of_existing",
-  "parent_suggestion": "spectroscopy",
+  "parent_reason": "unknown",
+  "parent_suggestion": null,
+  "parent_uncertain": true,
   "possible_duplicate": false,
   "status": "candidate",
   "updated": "2026-11-08",
@@ -926,12 +957,14 @@
   "acronyms": [
    "ELISA"
   ],
+  "alias_proposal": true,
   "ambiguous_acronyms": [
    {
     "acronym": "ELISA",
     "existing": "immunoassays"
    }
   ],
+  "category": "method",
   "created": "2026-11-08",
   "display": "enzyme-linked immunosorbent assay",
   "evidence": {
@@ -1018,10 +1051,12 @@
     "technology_id": "semantic-web-and-linked-data"
    }
   ],
-  "parent_reason": "co_classification",
-  "parent_suggestion": "infectious-diseases",
+  "parent_reason": "unknown",
+  "parent_suggestion": null,
+  "parent_uncertain": true,
   "possible_duplicate": false,
-  "status": "candidate",
+  "reason": "covered_by_alias:immunoassays",
+  "status": "rejected",
   "updated": "2026-11-08"
  },
  "field emission scanning electron microscopy": {
@@ -1029,6 +1064,7 @@
    "FESEM",
    "FE-SEM"
   ],
+  "category": "method",
   "created": "2026-11-08",
   "display": "field-emission scanning electron microscopy",
   "evidence": {
@@ -1114,6 +1150,7 @@
   ],
   "parent_reason": "variant_of_existing",
   "parent_suggestion": "scanning-electron-microscopy",
+  "parent_uncertain": false,
   "possible_duplicate": true,
   "status": "candidate",
   "updated": "2026-11-08",
@@ -1124,6 +1161,7 @@
    "FTIR",
    "FT-IR"
   ],
+  "category": "method",
   "created": "2026-11-07",
   "display": "Fourier transform infrared spectroscopy",
   "evidence": {
@@ -1225,8 +1263,9 @@
     "technology_id": "quantum-fourier-transform-algorithms"
    }
   ],
-  "parent_reason": "variant_of_existing",
-  "parent_suggestion": "spectroscopy",
+  "parent_reason": "name_overlap (0.4)",
+  "parent_suggestion": "infrared-and-raman-spectroscopy",
+  "parent_uncertain": true,
   "possible_duplicate": true,
   "status": "candidate",
   "updated": "2026-11-08",
@@ -1236,6 +1275,7 @@
   "acronyms": [
    "GRPO"
   ],
+  "category": "technology",
   "created": "2026-11-08",
   "display": "Group Relative Policy Optimization",
   "evidence": {
@@ -1322,8 +1362,9 @@
     "technology_id": "stochastic-optimization"
    }
   ],
-  "parent_reason": "variant_of_existing",
-  "parent_suggestion": "optimization",
+  "parent_reason": "unknown",
+  "parent_suggestion": null,
+  "parent_uncertain": true,
   "possible_duplicate": false,
   "status": "candidate",
   "updated": "2026-11-08",
@@ -1334,6 +1375,7 @@
    "HC",
    "HCs"
   ],
+  "category": "population",
   "created": "2026-11-08",
   "display": "healthy controls",
   "evidence": {
@@ -1401,7 +1443,9 @@
   "key": "healthy control",
   "literature_checked": "2026-11-08",
   "literature_count": 385414,
-  "notes": [],
+  "notes": [
+   "Bağımsız teknoloji değil: çalışma tasarımı/popülasyon."
+  ],
   "overlaps": [
    {
     "name": "Stochastic Control",
@@ -1424,10 +1468,12 @@
     "technology_id": "process-control"
    }
   ],
-  "parent_reason": "co_classification",
-  "parent_suggestion": "magnetic-resonance-imaging",
+  "parent_reason": "unknown",
+  "parent_suggestion": null,
+  "parent_uncertain": true,
   "possible_duplicate": false,
-  "status": "candidate",
+  "reason": "category:population",
+  "status": "rejected",
   "updated": "2026-11-08"
  },
  "mesenchymal stem cell": {
@@ -1435,6 +1481,7 @@
    "MSC",
    "MSCs"
   ],
+  "category": "biological_entity",
   "created": "2026-11-08",
   "display": "Mesenchymal stem cells",
   "evidence": {
@@ -1498,7 +1545,9 @@
   "key": "mesenchymal stem cell",
   "literature_checked": "2026-11-08",
   "literature_count": 125076,
-  "notes": [],
+  "notes": [
+   "Bağımsız teknoloji değil: biyolojik varlık."
+  ],
   "overlaps": [
    {
     "name": "Stem Cell Therapy",
@@ -1523,8 +1572,10 @@
   ],
   "parent_reason": "variant_of_existing",
   "parent_suggestion": "transmission-electron-microscopy",
+  "parent_uncertain": false,
   "possible_duplicate": true,
-  "status": "candidate",
+  "reason": "category:biological_entity",
+  "status": "rejected",
   "updated": "2026-11-08",
   "variant_of": "transmission-electron-microscopy"
  },
@@ -1533,6 +1584,7 @@
    "MLLM",
    "MLLMs"
   ],
+  "category": "technology",
   "created": "2026-11-06",
   "display": "multimodal large language models",
   "evidence": {
@@ -1619,6 +1671,7 @@
   ],
   "parent_reason": "variant_of_existing",
   "parent_suggestion": "large-language-models",
+  "parent_uncertain": false,
   "possible_duplicate": true,
   "status": "candidate",
   "updated": "2026-11-08",
@@ -1629,6 +1682,7 @@
    "NN",
    "NNs"
   ],
+  "category": "generic",
   "created": "2026-11-08",
   "display": "neural network",
   "evidence": {
@@ -1691,7 +1745,9 @@
   "key": "neural network",
   "literature_checked": "2026-11-08",
   "literature_count": 2029055,
-  "notes": [],
+  "notes": [
+   "Bağımsız teknoloji değil: genel kavram."
+  ],
   "overlaps": [
    {
     "name": "Spiking Neural Networks",
@@ -1714,16 +1770,19 @@
     "technology_id": "optical-neural-networks"
    }
   ],
-  "parent_reason": "co_classification",
-  "parent_suggestion": "machine-learning",
+  "parent_reason": "name_overlap (0.67)",
+  "parent_suggestion": "optical-neural-networks",
+  "parent_uncertain": true,
   "possible_duplicate": true,
-  "status": "candidate",
+  "reason": "category:generic",
+  "status": "rejected",
   "updated": "2026-11-08"
  },
  "normalized difference vegetation index": {
   "acronyms": [
    "NDVI"
   ],
+  "category": "measurement",
   "created": "2026-11-08",
   "display": "Normalized Difference Vegetation Index",
   "evidence": {
@@ -1781,7 +1840,9 @@
   "key": "normalized difference vegetation index",
   "literature_checked": "2026-11-08",
   "literature_count": 35781,
-  "notes": [],
+  "notes": [
+   "Bağımsız teknoloji değil: ölçüm/gösterge."
+  ],
   "overlaps": [
    {
     "name": "Temporal Difference Learning",
@@ -1804,10 +1865,12 @@
     "technology_id": "finite-difference-method"
    }
   ],
-  "parent_reason": "co_classification",
+  "parent_reason": "co_classification (11/14)",
   "parent_suggestion": "remote-sensing",
+  "parent_uncertain": false,
   "possible_duplicate": false,
-  "status": "candidate",
+  "reason": "category:measurement",
+  "status": "rejected",
   "updated": "2026-11-08"
  },
  "peripheral blood mononuclear cell": {
@@ -1815,6 +1878,7 @@
    "PBMCs",
    "PBMC"
   ],
+  "category": "biological_entity",
   "created": "2026-11-08",
   "display": "peripheral blood mononuclear cells",
   "evidence": {
@@ -1876,7 +1940,9 @@
   "key": "peripheral blood mononuclear cell",
   "literature_checked": "2026-11-08",
   "literature_count": 92501,
-  "notes": [],
+  "notes": [
+   "Bağımsız teknoloji değil: biyolojik varlık."
+  ],
   "overlaps": [
    {
     "name": "Load cell",
@@ -1899,10 +1965,12 @@
     "technology_id": "cell-therapy"
    }
   ],
-  "parent_reason": "co_classification",
-  "parent_suggestion": "flow-cytometry",
+  "parent_reason": "unknown",
+  "parent_suggestion": null,
+  "parent_uncertain": true,
   "possible_duplicate": false,
-  "status": "candidate",
+  "reason": "category:biological_entity",
+  "status": "rejected",
   "updated": "2026-11-08"
  },
  "phase change material": {
@@ -1910,6 +1978,7 @@
    "PCMs",
    "PCM"
   ],
+  "alias_proposal": true,
   "ambiguous_acronyms": [
    {
     "acronym": "PCMs",
@@ -1920,6 +1989,7 @@
     "existing": "thermal-energy-storage-materials"
    }
   ],
+  "category": "technology",
   "created": "2026-11-08",
   "display": "phase change materials",
   "evidence": {
@@ -2004,10 +2074,12 @@
     "technology_id": "thermoelectric-materials"
    }
   ],
-  "parent_reason": "co_classification",
-  "parent_suggestion": "thermal-energy-storage",
+  "parent_reason": "name_overlap (0.75)",
+  "parent_suggestion": "phase-change-materials-for-memory",
+  "parent_uncertain": true,
   "possible_duplicate": true,
-  "status": "candidate",
+  "reason": "covered_by_alias:thermal-energy-storage-materials",
+  "status": "rejected",
   "updated": "2026-11-08"
  },
  "temporal convolutional network": {
@@ -2015,6 +2087,7 @@
    "TCN",
    "TCNs"
   ],
+  "category": "technology",
   "created": "2026-11-08",
   "display": "temporal convolutional network",
   "evidence": {
@@ -2102,8 +2175,9 @@
     "technology_id": "temporal-planning"
    }
   ],
-  "parent_reason": "co_classification",
-  "parent_suggestion": "electrical-and-electronic-engineering",
+  "parent_reason": "name_overlap (0.5)",
+  "parent_suggestion": "convolutional-neural-networks",
+  "parent_uncertain": true,
   "possible_duplicate": true,
   "status": "candidate",
   "structural": true,
@@ -2113,12 +2187,14 @@
   "acronyms": [
    "XPS"
   ],
+  "alias_proposal": true,
   "ambiguous_acronyms": [
    {
     "acronym": "XPS",
     "existing": "surface-analysis-techniques"
    }
   ],
+  "category": "method",
   "created": "2026-11-08",
   "display": "X-ray photoelectron spectroscopy",
   "evidence": {
@@ -2208,10 +2284,12 @@
     "technology_id": "x-ray-diffraction-and-scattering"
    }
   ],
-  "parent_reason": "variant_of_existing",
-  "parent_suggestion": "spectroscopy",
+  "parent_reason": "name_overlap (0.4)",
+  "parent_suggestion": "x-ray-optics",
+  "parent_uncertain": true,
   "possible_duplicate": true,
-  "status": "candidate",
+  "reason": "covered_by_alias:surface-analysis-techniques",
+  "status": "rejected",
   "updated": "2026-11-08",
   "variant_of": "spectroscopy"
  }

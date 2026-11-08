@@ -753,7 +753,9 @@ class TestQuoteMode(Base):
         self.assertTrue(sec.startswith("- “GNNs are neural models"))
         self.assertNotIn("English text is fine", body, "alıntı modunda model metni yazılmaz")
         self.assertNotIn("ön baskı", sec, "S1 hakemli derleme: dayanak türü kaynaktan gelir, modelden değil")
-        self.assertEqual(meta["content_status"], "ai_quotes_sourced")
+        self.assertEqual(meta["content_status"], "ai_draft_sourced", "otomatik içerik daima taslak")
+        self.assertEqual(meta["content_mode"], "quotes")
+        self.assertFalse(meta["content_verified"])
         self.assertEqual(res["dropped"], 1)
         res2 = M.fill_node(self.cfg, self.tree(), "deep-learning", draft={**draft, "s1": draft["s1"][:1]},
                            sources=SOURCES, mode="quote", exclude=["GNNs are neural models"])
@@ -776,3 +778,57 @@ class TestBroadNodes(Base):
         self.assertFalse(M.broad_source_ok({"type": "review", "title": "Face recognition: a review"}, names))
         self.assertFalse(M.broad_source_ok({"type": "article", "title": "Computer science education"}, names))
         self.assertTrue(M.broad_source_ok({"type": "review", "title": "A history of computer science"}, names))
+
+
+class TestDepthRulesAndCategories(Base):
+    def test_depth1_disabled_depth2_proposal_only(self):
+        draft = {**{f"s{n}": [] for n in M.FILL_SECTIONS}, "conflicts": [],
+                 "s1": [{"text": "x", "evidence": "GNNs are neural models that capture the dependence of graphs via message passing",
+                         "sources": ["S1"], "basis": "review"}]}
+        tree = self.tree()
+        self.assertEqual(M.fill_node(self.cfg, tree, "computer-science", draft=draft, sources=SOURCES,
+                                     mode="quote")["status"], "disabled_depth1")
+        self.assertNotIn("computer-science", M.priority_queue(tree, 50))
+        p = os.path.join(self.root, tree.nodes["cryptography"]["dir"], kb.INDEX)
+        before = kb.read(p)
+        zkp_src = [{**SOURCES[0], "title": "A survey of zero-knowledge proofs in cryptography",
+                    "abstract": "Cryptography studies secure communication; cryptography protocols include zero-knowledge "
+                                "proofs and cryptography is used widely."}]
+        d2 = {**draft, "s1": [{"text": "x", "evidence": "cryptography protocols include zero-knowledge proofs and cryptography is used widely",
+                               "sources": ["S1"], "basis": "review"}]}
+        res = M.fill_node(self.cfg, tree, "cryptography", draft=d2, sources=zkp_src, mode="quote")
+        self.assertEqual(res["status"], "proposed")
+        self.assertEqual(kb.read(p), before, "derinlik 2'de _index.md'ye yazılmaz")
+        self.assertEqual([m["kind"] for _, m in M.list_proposals(self.cfg)], ["draft"])
+
+    def test_source_must_be_about_the_technology(self):
+        names = M.entry_names(self.tree().nodes["graph-neural-networks"]["meta"])
+        self.assertTrue(M.source_focus_ok({"title": "A survey of graph neural networks", "abstract": ""}, names))
+        self.assertFalse(M.source_focus_ok({"title": "Molecular property prediction",
+                                            "abstract": "We also tried graph neural networks once."}, names))
+        draft = {**{f"s{n}": [] for n in M.FILL_SECTIONS}, "conflicts": [],
+                 "s8": [{"text": "x", "evidence": "We also tried graph neural networks once in this molecular study",
+                         "sources": ["S1"], "basis": "review"}]}
+        src = [{**SOURCES[0], "title": "Molecular property prediction",
+                "abstract": "We also tried graph neural networks once in this molecular study about solubility."}]
+        clean, dropped = M.validate(draft, src, names, require_turkish=False)
+        self.assertEqual(dropped[0]["why"], "kaynak bu teknolojiyi açıklamıyor (yalnızca anıyor)")
+
+    def test_concept_categories(self):
+        from kbresearch.discovery import categorize
+        cases = {"body mass index": "measurement", "healthy control": "population", "central nervous system":
+                 "biological_entity", "peripheral blood mononuclear cell": "biological_entity",
+                 "mesenchymal stem cell": "biological_entity", "antiretroviral therapy": "clinical",
+                 "neural network": "generic", "normalized difference vegetation index": "measurement",
+                 "x ray photoelectron spectroscopy": "method", "temporal convolutional network": "technology",
+                 "group relative policy optimization": "technology", "inverted index": "technology",
+                 "battery energy storage system": "technology", "alzheimer disease": "disease"}
+        for k, v in cases.items():
+            self.assertEqual(categorize(k), v, k)
+
+    def test_existing_alias_covers_candidate(self):
+        tree = self.tree()
+        d = Discovery(self.cfg, tree, Classifier(tree))
+        c = {"key": "zero knowledge proof system", "display": "x", "status": "candidate", "acronyms": ["ZKP"], "notes": []}
+        d.assess_conflicts(c)
+        self.assertEqual(c["status"], "rejected")

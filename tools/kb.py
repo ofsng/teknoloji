@@ -927,7 +927,9 @@ def cmd_check(args):
         if m.get("id") and not re.fullmatch(r"[a-z0-9][a-z0-9-]*", str(m["id"])):
             errors.append(f"{n['dir']}: id biçimi geçersiz: {m['id']}")
         if m.get("content_verified") is True and m.get("content_status") not in ("human_verified",):
-            warnings.append(f"{n['dir']}: content_verified=true fakat content_status='{m.get('content_status')}'")
+            errors.append(f"{n['dir']}: content_verified=true yalnızca insan doğrulamasıyla (content_status: human_verified)")
+        if m.get("content_status") == "ai_quotes_sourced":
+            warnings.append(f"{n['dir']}: eski durum adı ai_quotes_sourced (→ ai_draft_sourced + content_mode: quotes)")
         base = os.path.basename(n["dir"])
         if not re.fullmatch(r"[A-Za-z0-9][A-Za-z0-9-]*", base):
             errors.append(f"{n['dir']}: klasör adı ASCII/tire standardına uymuyor")
