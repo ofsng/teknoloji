@@ -26,7 +26,7 @@ collected_at: 2026-11-06
 last_checked_at: 2026-11-06
 content_verified: false
 identifier_verified: crossref
-retraction_checked: 2026-11-06
+retraction_checked: 2026-11-08
 ---
 
 # Ageing, Digital Literacy, and Interaction Modality in Immersive Virtual Reality: Psychomotor Performance, Cognitive Flexibility, and Their Associations with Processing Speed

@@ -307,6 +307,80 @@
  },
  {
   "added": "2026-11-08",
+  "arxiv": null,
+  "candidates": [
+   [
+    "deep-learning",
+    6.78
+   ],
+   [
+    "explainable-ai",
+    4.68
+   ],
+   [
+    "artificial-intelligence",
+    4.2
+   ],
+   [
+    "convolutional-neural-networks",
+    3.9
+   ],
+   [
+    "feature-attribution-methods",
+    3.38
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "title:cognitiveaidrivenriskandpersonalityvalidityprofilingdeeplearningfusionforpsychologicaltestreliabilityandpatientspecificaneurysmruptureprediction|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "The combination of Cognitive Artificial Intelligence (AI) and deep learning technologies promise substantial gains in enhancing reliability in psychological assessment and individualised medical risk prediction. This study explores a cognitive AI-based model of personality validity profiling, as well as patient-specific predictions of intracranial aneurysm rupture, through specialised deep learning fusion models. The methodology proposed is based on the quantitative computational approach based on the secondary psychological assessment data, clinical characteristics, demographic data and morphological aneurysm and imaging-based derived features. The method is developed by using Python and based on data pre-processing, feature engineering, training and evaluation of models with TensorFlow, PyTorch, Pandas, Numpy, and Scikit-learn. The notions of Multilayer Perceptrons, artificial neural networks, convolutional neural networks, and multimodal feature fusion are used in order to detect complex patterns in the relevant datasets. In terms of performance measurement, accuracy, precision, recall, F1-score, sensitivity, specificity, and AUC-ROC are applied. The use of explainable AI approaches, particularly SHAP, can be interpreted as the methods for increasing the transparency of models and choosing the important features for prediction. The proposed methodology is focused on the independent validation of psychological and clinical predictions and the importance of multimodal intelligence. The research suggests the approach which could be used for developing more reliable psychological tests and aneurysm risk prediction models.",
+   "abstract_license": null,
+   "arxiv": null,
+   "authors": [
+    "Suresh Palarimath"
+   ],
+   "categories": [
+    "OpenAlex-field:Health Professions"
+   ],
+   "cited_by_count": 0,
+   "doi": null,
+   "is_retracted": false,
+   "keywords": [
+    "cognitive artificial intelligence",
+    "multimodal fusion",
+    "explainable AI",
+    "SHAP"
+   ],
+   "language": "en",
+   "oa_created": "2026-11-06",
+   "peer_reviewed": true,
+   "publication": "Journal of chemical health risks",
+   "publication_type": "article",
+   "published_date": "2026-11-04",
+   "related_versions": [],
+   "source_ids": [
+    "openalex:W7225355778"
+   ],
+   "title": "Cognitive AI–Driven Risk and Personality Validity Profiling: Deep Learning Fusion for Psychological Test Reliability and Patient-Specific Aneurysm Rupture Prediction",
+   "topics": [
+    "Artificial Intelligence in Healthcare",
+    "Health Information Management"
+   ],
+   "updated_date": "2026-11-07",
+   "url": "https://jchr.org/index.php/JCHR/article/view/17792"
+  },
+  "score": 6.78,
+  "seen": 1,
+  "suggested": "deep-learning",
+  "title": "Cognitive AI–Driven Risk and Personality Validity Profiling: Deep Learning Fusion for Psychological Test Reliability and Patient-Specific Aneurysm Rupture Prediction",
+  "url": "https://jchr.org/index.php/JCHR/article/view/17792"
+ },
+ {
+  "added": "2026-11-08",
   "arxiv": "2611.04137",
   "candidates": [
    [
@@ -675,6 +749,98 @@
   "suggested": "underwater-acoustics",
   "title": "Cross-Modal Semantic Successive Refinement for Generative Image Communication over Underwater Acoustic Channels",
   "url": "https://arxiv.org/abs/2611.06205"
+ },
+ {
+  "added": "2026-11-08",
+  "arxiv": null,
+  "candidates": [
+   [
+    "heat-transfer",
+    5.1
+   ],
+   [
+    "thermal-radiation",
+    3.84
+   ],
+   [
+    "convection",
+    2.83
+   ],
+   [
+    "finite-element-method",
+    1.79
+   ],
+   [
+    "optimization",
+    0.39
+   ],
+   [
+    "analysis",
+    0.26
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.69644/ivk-2026-02-0227",
+  "keys": [
+   "doi:10.69644/ivk-2026-02-0227",
+   "title:enhancingeffectivethermalcharacteristicsofnanofluidflowinvestigatingtheimpactoverashrinkingsheetbyresponsesurfacemethodology|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "The objective of this study to propose a methodology to examine nanofluids flow enhanced thermal conductivity and heat transfer behaviour. The study aims to depict the optimised parameter values at which enhanced thermal conductivity of nanofluids results in more efficient cooling. To achieve this, mixed convection nanofluid (Cu-water) flow over a shrinking sheet under radiative effects is investigated numerically using finite element method (FEM). The analysis incorporates key parameters such as the suction, thermal conductivity, radiation and mixed convection which govern the flow and heat transfer characteristics. The numerical investigation depicts that suction is the most dominant factor which helps to reduce the boundary layer thickness and enhance heat transfer. Radiative effects lead to a thicker thermal boundary layer that consequently reduces the heat transfer rate. The mixed convection parameter also contributes to higher heat transfer rate, simultaneously increasing the skin friction. Corresponding diagrams are plotted to illustrate the outcomes. Results show that the nanofluid model developed in this work exhibits higher Nusselt number as compared to the base microfluid model, confirming improved heat transfer. Also, results obtained statistically by Response Surface Methodology (RSM) using MATLAB® are investigated for optimised value of parameters. The results from the RSM model show a strong positive correlation with our numerical FEM results. The RSM-ANOVA optimisation reveals a strong correlation, giving accuracy of 0.975, highlighting the roles of suction and radiative heat transfer in determining thermal behaviour. This study provides insights for effective thermal management in thin-film manufacturing processes.",
+   "abstract_license": "cc-by-nc-nd",
+   "arxiv": null,
+   "authors": [
+    "Gunjan Sharma",
+    "Madhu Gupta",
+    "Ajay Sharma",
+    "Diksha Gupta"
+   ],
+   "categories": [
+    "OpenAlex-field:Chemical Engineering"
+   ],
+   "cited_by_count": 0,
+   "doi": "10.69644/ivk-2026-02-0227",
+   "is_retracted": false,
+   "keywords": [
+    "nanofluid flow",
+    "shrinking sheet",
+    "copper-water nanofluid",
+    "thermal radiation",
+    "suction",
+    "mixed convection",
+    "heat transfer enhancement",
+    "thermal conductivity",
+    "Nusselt number",
+    "skin friction",
+    "boundary layer thickness",
+    "parameter optimization",
+    "response surface methodology",
+    "thin film fabrication"
+   ],
+   "language": "en",
+   "oa_created": "2026-11-06",
+   "peer_reviewed": true,
+   "publication": "Integritet i vek konstrukcija",
+   "publication_type": "article",
+   "published_date": "2026-11-04",
+   "related_versions": [],
+   "source_ids": [
+    "openalex:W7225347593"
+   ],
+   "title": "Enhancing effective thermal characteristics of nanofluid flow: investigating the impact over a shrinking sheet by response surface methodology",
+   "topics": [
+    "Nanofluid Flow and Heat Transfer",
+    "Fluid Flow and Transfer Processes"
+   ],
+   "updated_date": "2026-11-07",
+   "url": "https://doi.org/10.69644/ivk-2026-02-0227"
+  },
+  "score": 5.1,
+  "seen": 1,
+  "suggested": "heat-transfer",
+  "title": "Enhancing effective thermal characteristics of nanofluid flow: investigating the impact over a shrinking sheet by response surface methodology",
+  "url": "https://doi.org/10.69644/ivk-2026-02-0227"
  },
  {
   "added": "2026-11-06",
@@ -2206,6 +2372,124 @@
   "suggested": "high-voltage-direct-current",
   "title": "Data-driven current control of modular multilevel converter-based HVDC transmission system",
   "url": "https://arxiv.org/abs/2611.07734"
+ },
+ {
+  "added": "2026-11-08",
+  "arxiv": null,
+  "candidates": [
+   [
+    "cellular-and-molecular-neuroscience",
+    4.3
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.1002/acn3.70563",
+  "keys": [
+   "doi:10.1002/acn3.70563",
+   "title:axialfunctionreflectsglobalseverityininheritedataxiastheuprightstabilityscoreinambulatoryfriedreichvsspinocerebellarataxia|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "OBJECTIVE: Inherited ataxias are clinically diverse neurodegenerative diseases, complicating the choice of outcome measures for trials. In spinocerebellar ataxia (SCA), regulatory concerns about the Scale for the Assessment and Rating of Ataxia (SARA) caused a shift toward functional SARA (f-SARA), contributing to pivotal trial failure. We investigated whether the Upright Stability Score (USS), validated in Friedreich ataxia (FRDA), retains its psychometric properties in SCA, and how it compares with SARA, f-SARA, and the Friedreich Ataxia Activities of Daily Living scale (FA-ADL). METHODS: Cross-sectional data from ambulatory participants in two large international natural-history studies (CRC-SCA and UNIFAI) were analyzed with correlation-based psychometric methods, comparing score distributions across scales and genotypes. RESULTS: Data from 406/343 participants in CRC-SCA/UNIFAI were analyzed. In SCA, the USS captured a wider spectrum of balance performance, while in FRDA, early proprioceptive deficits-particularly impaired stance with eyes closed-constrained score variability. USS correlated strongly with SARA, f-SARA, and FA-ADL in both cohorts. SARA showed moderate skew, and f-SARA showed pronounced floor effects in mildly affected SCA, whereas USS and FA-ADL preserved discrimination at the low end. FA-ADL distributions were broadly comparable across genotypes. INTERPRETATION: USS showed cross-sectional convergent validity with established measures across ambulatory FRDA and SCA, reflecting perceived disease burden (FA-ADL) at least as well as SARA. f-SARA is poorly discriminating in ambulatory SCA and is unlikely to work as an outcome measure, in particular in early cohorts. USS showed the potential to serve as a primary outcome assessment in pivotal SCA trials, but longitudinal evidence is required. Limitations include cross-sectional design and a substantial age difference between cohorts.",
+   "abstract_license": "cc-by-nc-nd",
+   "arxiv": null,
+   "authors": [
+    "Christian Rummey",
+    "Sub H. Subramony",
+    "David R. Lynch",
+    "Louise A. Corben",
+    "Martin Bruce Delatycki",
+    "Jörg Bernhard Schulz",
+    "Kathrin Reetz",
+    "Massimo Pandolfo",
+    "Matthis Synofzik",
+    "Theresa Zesiewicz",
+    "Antoine Duquette",
+    "Matthew R. Burns",
+    "Martin Vyhnálek",
+    "Lucie Šťovíčková",
+    "Sinéad M. Murphy",
+    "Petya Bogdanova‐Mihaylova",
+    "Mary Kearney",
+    "Richard A. Walsh",
+    "Richard H Roxburgh",
+    "Khalaf O. Bushara",
+    "Marie Y. Davis",
+    "Enrico Bertini",
+    "Gessica Vasco",
+    "Shweta Sahni",
+    "Mohammed Faruq",
+    "Achal Kumar Srivastava",
+    "Bart P.C. van de Warrenburg",
+    "Elisabetta Indelicato",
+    "Sylvia Boesch",
+    "Andrew Billnitzer",
+    "Tetsuo Ashizawa",
+    "Anoopum S. Gupta",
+    "Grace Yoon",
+    "Georgios Koutsis",
+    "Chrysoula Koniari",
+    "Zofia Fleszar",
+    "Christopher Manuel Gomez",
+    "Andrea Martinuzzi",
+    "Gabriella Paparella",
+    "Ali G. Hamedani",
+    "Puneet Opal",
+    "Rizwan S. Akhtar",
+    "Caterina Mariotti",
+    "Henry Lauris Paulson",
+    "Peter K. Todd",
+    "Sharan R. Srinivasan",
+    "George R. Wilmot",
+    "Ludger J. Schöls",
+    "Susan Perlman",
+    "Jeremy Dan Schmahmann",
+    "Sheng‐Han Kuo",
+    "Liana S. Rosenthal",
+    "Vikram G. Shakkottai"
+   ],
+   "categories": [
+    "OpenAlex-field:Neuroscience"
+   ],
+   "cited_by_count": 0,
+   "doi": "10.1002/acn3.70563",
+   "is_retracted": false,
+   "keywords": [
+    "hereditary ataxia",
+    "spinocerebellar ataxia",
+    "Friedreich's ataxia",
+    "balance assessment",
+    "functional outcome measures",
+    "Scale for the Assessment and Rating of Ataxia",
+    "psychometric properties",
+    "convergent validity",
+    "proprioception",
+    "disease severity",
+    "clinical trial endpoints"
+   ],
+   "language": "en",
+   "oa_created": "2026-11-06",
+   "peer_reviewed": true,
+   "publication": "Annals of Clinical and Translational Neurology",
+   "publication_type": "article",
+   "published_date": "2026-11-04",
+   "related_versions": [],
+   "source_ids": [
+    "openalex:W7225348305"
+   ],
+   "title": "Axial Function Reflects Global Severity in Inherited Ataxias: The Upright Stability Score in Ambulatory Friedreich vs. Spinocerebellar Ataxia",
+   "topics": [
+    "Genetic Neurodegenerative Diseases",
+    "Cellular and Molecular Neuroscience"
+   ],
+   "updated_date": "2026-11-07",
+   "url": "https://doi.org/10.1002/acn3.70563"
+  },
+  "score": 4.3,
+  "seen": 1,
+  "suggested": "cellular-and-molecular-neuroscience",
+  "title": "Axial Function Reflects Global Severity in Inherited Ataxias: The Upright Stability Score in Ambulatory Friedreich vs. Spinocerebellar Ataxia",
+  "url": "https://doi.org/10.1002/acn3.70563"
  },
  {
   "added": "2026-11-06",
@@ -4510,6 +4794,85 @@
   "url": "https://arxiv.org/abs/2611.07362"
  },
  {
+  "added": "2026-11-08",
+  "arxiv": null,
+  "candidates": [
+   [
+    "positron-emission-tomography",
+    3.88
+   ],
+   [
+    "hybrid-imaging",
+    2.94
+   ],
+   [
+    "oncology",
+    1.85
+   ],
+   [
+    "next-generation-sequencing",
+    1.65
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.1093/oncolo/oyag440",
+  "keys": [
+   "doi:10.1093/oncolo/oyag440",
+   "title:clinicalandmolecularevolutionduringpanitumumabcontainingtherapyinegframplifiedesophagogastricadenocarcinoma|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Esophagogastric adenocarcinoma (EGA) is an aggressive malignancy with limited targeted treatment options. EGFR amplification defines a molecular subset associated with response to EGFR-directed therapy, although mechanisms of resistance remain poorly characterized. We present a 66-year-old man with EGFR-amplified metastatic EGA who achieved a metabolic response on positron emission tomography-CT (PET/CT) during panitumumab-containing therapy, accompanied by loss of detectable EGFR amplification on serial plasma circulating tumor DNA (ctDNA). At progression, repeat tissue biopsy demonstrated HER2 IHC 2+/SISH-positive disease not identified at baseline, and next-generation sequencing identified ERBB2 and KRAS amplifications. These findings suggest ERBB2-mediated bypass signaling as a potential mechanism of resistance to EGFR inhibition, with concurrent KRAS amplification as a possible contributor. It also demonstrates the utility of longitudinal tissue and plasma profiling to capture tumor evolution, identify potential resistance mechanisms, and inform adaptive treatment strategies.",
+   "abstract_license": "cc-by",
+   "arxiv": null,
+   "authors": [
+    "Devyn Taylor Coskey",
+    "Kruti Bhagirath Vora",
+    "Yin Guo",
+    "Ryan H. Moy"
+   ],
+   "categories": [
+    "OpenAlex-field:Medicine"
+   ],
+   "cited_by_count": 0,
+   "doi": "10.1093/oncolo/oyag440",
+   "is_retracted": false,
+   "keywords": [
+    "esophagogastric adenocarcinoma",
+    "EGFR amplification",
+    "panitumumab",
+    "circulating tumor DNA",
+    "HER2 amplification",
+    "KRAS amplification",
+    "tumor evolution",
+    "metastatic cancer",
+    "adaptive treatment strategies"
+   ],
+   "language": "en",
+   "oa_created": "2026-11-06",
+   "peer_reviewed": true,
+   "publication": "The Oncologist",
+   "publication_type": "article",
+   "published_date": "2026-11-04",
+   "related_versions": [],
+   "source_ids": [
+    "openalex:W7225348281"
+   ],
+   "title": "Clinical and Molecular Evolution During Panitumumab-Containing Therapy in EGFR-Amplified Esophagogastric Adenocarcinoma",
+   "topics": [
+    "Gastric Cancer Management and Outcomes",
+    "Oncology"
+   ],
+   "updated_date": "2026-11-07",
+   "url": "https://doi.org/10.1093/oncolo/oyag440"
+  },
+  "score": 3.88,
+  "seen": 1,
+  "suggested": "positron-emission-tomography",
+  "title": "Clinical and Molecular Evolution During Panitumumab-Containing Therapy in EGFR-Amplified Esophagogastric Adenocarcinoma",
+  "url": "https://doi.org/10.1093/oncolo/oyag440"
+ },
+ {
   "added": "2026-11-05",
   "arxiv": "2611.04217",
   "candidates": [
@@ -5716,6 +6079,107 @@
   "url": "https://arxiv.org/abs/2611.07504"
  },
  {
+  "added": "2026-11-08",
+  "arxiv": null,
+  "candidates": [
+   [
+    "animal-nutrition",
+    3.74
+   ],
+   [
+    "cell-signaling",
+    3.1
+   ],
+   [
+    "animal-science",
+    3.1
+   ],
+   [
+    "molecular-biology",
+    3.1
+   ],
+   [
+    "transcriptomics",
+    2.2
+   ],
+   [
+    "proteomics",
+    2.2
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "title:larginineanditseffectsonproductiveperformanceinbirds|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "The L-arginine is essential amino acid for birds because they have limited ability to produce enough endogenous L-arginine. In addition to its role in protein synthesis, arginine serves as a precursor of polyamines, creatine, proline, other bioactive metabolites, and nitric oxide, which are involved in growth, immune function, antioxidant defense, integrity of the intestine, reproduction, and cell signaling. The purpose of this review was to critically appraise the present understanding on the metabolism, physiological role and application of l-arginine supplementation to the nutrition of various types of poultry especially broiler chickens, laying hens, breeder flocks and Japanese quail. Therefore, experimental studies have shown that providing sufficient levels of arginine in the diet is crucial for optimum growth performance, feed efficiency, skeletal muscle development, reproductive performance and immune competence. These beneficial effects are most clearly demonstrated when nutrients are added at times of high growth rate, heat stress, oxidative stress, immune challenge, or when dietary arginine is low. However, excessive supplementation beyond the physiological requirement does not always result in an increase in productive performance and can influence the amino acid balance, especially when the level is increased with lysine. Recent studies in molecular biology have shown that arginine affects several signaling pathways such as nitric oxide synthase, mechanistic target of rapamycin (mTOR), phosphoinositide 3-kinase/protein kinase B (PI3K/Akt), and polyamine biosynthesis, which in turn impact nutrient utilization, intestinal development, cellular proliferation, and stress adaptation. Further, emerging evidence indicates that arginine regulates gut microbiota and gut host–microbe interaction, which opens the possibilities for gut health and disease resistance. However, this is achieved while there is great variation within published studies ranging from species of birds, genotype, age, diet, environmental factors and experimental design. Future studies should combine transcriptomics, proteomics, metabolomics and microbiome studies with standardized dose-response studies to clarify precise nutritional recommendations for various poultry production systems. In conclusion, L-arginine is not just an amino acid that is essential to poultry but a multifunctional nutritional regulator that has considerable potential to enhance poultry health, welfare and productivity when fed at the correct dietary level.",
+   "abstract_license": "cc-by",
+   "arxiv": null,
+   "authors": [
+    "Ibrahim Adnan Al Taee",
+    "Tireza Sargon Safar",
+    "Gashbin S. Mohammad",
+    "Sabir T. Sabir",
+    "Mohammed KH. Taha",
+    "Abdulrahman A. Ibrahim",
+    "Ahmed Sami Shaker"
+   ],
+   "categories": [
+    "OpenAlex-field:Agricultural and Biological Sciences"
+   ],
+   "cited_by_count": 0,
+   "doi": null,
+   "is_retracted": false,
+   "keywords": [
+    "L-arginine",
+    "arginine supplementation",
+    "poultry nutrition",
+    "broiler chickens",
+    "laying hens",
+    "breeder flocks",
+    "Japanese quail",
+    "growth performance",
+    "feed efficiency",
+    "reproductive performance",
+    "immunocompetence",
+    "nitric oxide",
+    "polyamine biosynthesis",
+    "mTOR signaling",
+    "PI3K/Akt signaling",
+    "gut microbiota",
+    "gut health",
+    "heat stress",
+    "oxidative stress",
+    "amino acid balance",
+    "lysine"
+   ],
+   "language": "en",
+   "oa_created": "2026-11-06",
+   "peer_reviewed": true,
+   "publication": "Manuscripts on the Evolution of Medicine and Natural Sciences",
+   "publication_type": "article",
+   "published_date": "2026-11-04",
+   "related_versions": [],
+   "source_ids": [
+    "openalex:W7225360267"
+   ],
+   "title": "L-ARGININE AND ITS EFFECTS ON PRODUCTIVE PERFORMANCE IN BIRDS",
+   "topics": [
+    "Animal Nutrition and Physiology",
+    "Animal Science and Zoology"
+   ],
+   "updated_date": "2026-11-07",
+   "url": "https://manuscriptology.org/index.php/EMNS/article/view/1081"
+  },
+  "score": 3.74,
+  "seen": 1,
+  "suggested": "animal-nutrition",
+  "title": "L-ARGININE AND ITS EFFECTS ON PRODUCTIVE PERFORMANCE IN BIRDS",
+  "url": "https://manuscriptology.org/index.php/EMNS/article/view/1081"
+ },
+ {
   "added": "2026-11-05",
   "arxiv": "2611.04382",
   "candidates": [
@@ -5867,6 +6331,94 @@
   "suggested": "llm-reasoning-methods",
   "title": "PSGAgent: Enhancing MLLMs' Dynamic Visual Perception for Panoptic Scene Graph Generation via Agentic Reasoning",
   "url": "https://arxiv.org/abs/2611.07408"
+ },
+ {
+  "added": "2026-11-08",
+  "arxiv": null,
+  "candidates": [
+   [
+    "graphene-oxide",
+    3.66
+   ],
+   [
+    "infectious-diseases",
+    3.3
+   ],
+   [
+    "analytical-chemistry",
+    3.1
+   ],
+   [
+    "carbon-nanotubes",
+    3.0
+   ],
+   [
+    "graphene",
+    1.64
+   ],
+   [
+    "molecular-diagnostics",
+    1.5
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "title:applicationofcrisprassistedchemiresistiveandelectrochemicalsensornetworksforhighfidelitydetectionofrnadnapathogensignatures|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "The acute-onset nature of infectious diseases has increased the need to have superior, sensitive as well as fast technologies of detecting pathogens. The standard molecular diagnostic methods usually involve complex laboratory facilities, dedicated equipment, and expertise, which pose a difficulty in applications of point-of-care assays. This work explores how CRISPR-assisted chemiresistive and electrochemical sensor networks can be used to detect RNA/DNA pathogen signatures with high fidelity. This paper examines the utilization of molecular recognition techniques CRISPR-Cas12 and CRISPR-Cas13 in the advanced electrical sensing systems. Graphene, reduced graphene oxide, carbon nanotubes and functionalised electrodes are among those technologies that have been proposed for conversion of molecular recognition event into electrical signals. In order to analyze sensors' performance and measure their sensitivity and specificity, accuracy, re-producibility and response time a computational platform analysis using Python programming, statistics and machine learning techniques is provided. Comparative analysis highlights the possible advantages of combining chemiresistive and electrochemical measurement technologies in order to improve the reliability of diagnostics and develop multiplex pathogen detection system. The results suggest the potential of developing small, cost-effective and automated diagnostic tools. However, the stability of sensors should be optimized and the sensors should be developed and validated experimentally. In sum, the suggested integration provides an excellent perspective in the area of technology that will enable the development of molecular diagnostics, infectious disease surveillance, and point-of-care pathogen detection.",
+   "abstract_license": null,
+   "arxiv": null,
+   "authors": [
+    "Tarun Ghosh"
+   ],
+   "categories": [
+    "OpenAlex-field:Chemistry"
+   ],
+   "cited_by_count": 0,
+   "doi": null,
+   "is_retracted": false,
+   "keywords": [
+    "CRISPR-Cas12",
+    "CRISPR-Cas13",
+    "chemiresistive sensors",
+    "electrochemical sensor",
+    "pathogen detection",
+    "point-of-care testing",
+    "multiplex pathogen detection",
+    "graphene",
+    "reduced graphene oxide",
+    "carbon nanotubes",
+    "functionalized electrodes",
+    "infectious disease surveillance",
+    "molecular diagnosis",
+    "sensor stability"
+   ],
+   "language": "en",
+   "oa_created": "2026-11-06",
+   "peer_reviewed": true,
+   "publication": "Journal of chemical health risks",
+   "publication_type": "article",
+   "published_date": "2026-11-04",
+   "related_versions": [],
+   "source_ids": [
+    "openalex:W7225351152"
+   ],
+   "title": "Application of CRISPR-Assisted Chemiresistive and Electrochemical Sensor Networks for High-Fidelity Detection of RNA/DNA Pathogen Signatures",
+   "topics": [
+    "Electrochemical sensors and biosensors",
+    "Analytical Chemistry"
+   ],
+   "updated_date": "2026-11-07",
+   "url": "https://jchr.org/index.php/JCHR/article/view/17791"
+  },
+  "score": 3.66,
+  "seen": 1,
+  "suggested": "graphene-oxide",
+  "title": "Application of CRISPR-Assisted Chemiresistive and Electrochemical Sensor Networks for High-Fidelity Detection of RNA/DNA Pathogen Signatures",
+  "url": "https://jchr.org/index.php/JCHR/article/view/17791"
  },
  {
   "added": "2026-11-08",
@@ -6063,6 +6615,265 @@
   "suggested": "phylogenetics",
   "title": "Evolving view on phylogenetic networks",
   "url": "https://arxiv.org/abs/2611.04149"
+ },
+ {
+  "added": "2026-11-08",
+  "arxiv": null,
+  "candidates": [
+   [
+    "machine-learning",
+    3.3
+   ],
+   [
+    "computed-tomography",
+    3.1
+   ],
+   [
+    "support-vector-machines",
+    2.97
+   ],
+   [
+    "gradient-boosting",
+    2.52
+   ],
+   [
+    "computational-fluid-dynamics",
+    1.79
+   ],
+   [
+    "fluid-dynamics",
+    1.2
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "title:aienhancedhemodynamicmodellingforpredictingpostendovascularcomplicationsincomplexaneurysmrepairs|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "EVAR has come to be regarded as a major minimally invasive surgery to cure complex aneurysms yet problematic postoperative issues like endoleaks, graft migration, thrombosis, and expansion of the aneurysm sac remain clinical issues. This report suggests an AI-boosted haemodynamic model to predict the occurrence of post-endovascular complications by incorporating patient-specific vascular imaging, computational fluid dynamics (CFD) and machine learning in its predictive algorithms. The introduced methodology involves the use of the computed tomography angiography (CTA) information, three-dimensional vascular tree reconstruction and parameters of hemodynamics, which include: the wall shear stress, oscillatory shear index, pressure gradient and blood flow velocity. The methodology incorporates four machine learning algorithms such as: Random Forest, Extreme Gradient Boosting (XGBoost), Support Vector Machine and Artificial Neural Network, which may help to perform predictive analysis. The experimentally achieved results as an example illustrate that XGBoost reaches the highest classification accuracy (93.6%) and ROC-AUC (0.96). This means that this algorithm can be applied for identification of the risk of postoperative complications. Also, the influence of the wall shear stress and pressure gradient is illustrated with the feature importance analysis. The presented framework is expected to be a promising computation technique to achieve the stratification of risks, postoperative monitoring and medical decision-making in an individual way. Further validation using multicenter clinical data sets should be performed to test the reliability and practicality of this approach in aneurysms treatment.",
+   "abstract_license": null,
+   "arxiv": null,
+   "authors": [
+    "Suresh Palarimath"
+   ],
+   "categories": [
+    "OpenAlex-field:Medicine"
+   ],
+   "cited_by_count": 0,
+   "doi": null,
+   "is_retracted": false,
+   "keywords": [
+    "endovascular aneurysm repair",
+    "postoperative complications",
+    "endoleak",
+    "graft migration",
+    "aneurysm sac enlargement",
+    "wall shear stress",
+    "oscillatory shear index",
+    "pressure gradient",
+    "blood flow velocity",
+    "CT angiography",
+    "XGBoost",
+    "risk stratification",
+    "machine learning prediction"
+   ],
+   "language": "en",
+   "oa_created": "2026-11-06",
+   "peer_reviewed": true,
+   "publication": "Journal of chemical health risks",
+   "publication_type": "article",
+   "published_date": "2026-11-04",
+   "related_versions": [],
+   "source_ids": [
+    "openalex:W7225349799"
+   ],
+   "title": "AI-Enhanced Hemodynamic Modelling for Predicting Post-Endovascular Complications in Complex Aneurysm Repairs",
+   "topics": [
+    "Aortic aneurysm repair treatments",
+    "Surgery"
+   ],
+   "updated_date": "2026-11-07",
+   "url": "https://jchr.org/index.php/JCHR/article/view/17789"
+  },
+  "score": 3.3,
+  "seen": 1,
+  "suggested": "machine-learning",
+  "title": "AI-Enhanced Hemodynamic Modelling for Predicting Post-Endovascular Complications in Complex Aneurysm Repairs",
+  "url": "https://jchr.org/index.php/JCHR/article/view/17789"
+ },
+ {
+  "added": "2026-11-08",
+  "arxiv": null,
+  "candidates": [
+   [
+    "pharmaceutical-sciences",
+    3.1
+   ],
+   [
+    "metabolism",
+    0.66
+   ],
+   [
+    "physiology",
+    0.26
+   ],
+   [
+    "nanotechnology",
+    0.26
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "title:buccaldrugdeliverysystem|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "The buccal drug delivery system is a sophisticated and promising method for delivering medications for both local and systemic therapeutic effects via the buccal mucosa, the inner lining of the cheek. It provides an alternative to traditional oral drug delivery by lessening the effects of hepatic first-pass metabolism and gastrointestinal degradation for appropriate medications. This strategy may increase patient compliance, provide regulated medication release, improve drug bioavailability, and give a practical, non-invasive way to administer drugs. The buccal mucosa's morphology and physiology, drug absorption mechanisms, and the contribution of mucoadhesion to better drug delivery and retention are the main topics of this review. The interaction between mucoadhesive formulations and the mucosal surface is explained by a variety of mucoadhesion theories, such as electronic, adsorption, diffusion, wetting, mechanical, and fracture theories. The significance of natural, semisynthetic, and synthetic mucoadhesive polymers in creating successful buccal formulations is also highlighted in the review. The preparation techniques and formulation elements of various dosage forms, including buccal tablets, films, patches, gels, and wafers, are explained. Additionally, the functions of various excipients and permeation enhancers in enhancing drug transport via the buccal mucosa are investigated. Mucoadhesive strength, swelling index, surface pH, drug content, in vitro drug release, ex vivo permeability, stability, and other crucial evaluation parameters are also covered. Recent developments in nanotechnology, fastdissolving films, nanocarriers, and three-dimensional printing have opened up new possibilities for designing patient-friendly dosage forms and enhancing medication delivery efficacy. However, during formulation creation, issues such salivary secretion, mucosal barrier characteristics, limited absorption area, formulation acceptability, and possible irritation must be taken into account. As a whole, The buccal drug delivery system is an important pharmaceutical strategy that may enhance patient convenience, medication bioavailability, and therapeutic efficacy. The creation of buccal drug delivery formulations that are safer, more effective, and clinically useful may be facilitated by more research and technical developments.",
+   "abstract_license": "cc-by-nc-nd",
+   "arxiv": null,
+   "authors": [
+    "Mr. Sai Santosh Rathod,  Shweta Annaso Gaikwad, Dhanashri Chandrakant Chorage, Swaraj Vijay Kadam, Rajwardhan Sampatrao Jagtap"
+   ],
+   "categories": [
+    "OpenAlex-field:Pharmacology, Toxicology and Pharmaceutics"
+   ],
+   "cited_by_count": 0,
+   "doi": null,
+   "is_retracted": false,
+   "keywords": [
+    "buccal drug delivery",
+    "buccal mucosa",
+    "mucoadhesion",
+    "mucoadhesive polymers",
+    "buccal tablets",
+    "buccal films",
+    "buccal patches",
+    "penetration enhancers",
+    "drug bioavailability",
+    "first-pass metabolism",
+    "nanocarriers",
+    "fast dissolving films",
+    "three-dimensional printing"
+   ],
+   "language": "en",
+   "oa_created": "2026-11-06",
+   "peer_reviewed": true,
+   "publication": "International Journal of Pharmacy with Medical Sciences",
+   "publication_type": "article",
+   "published_date": "2026-11-04",
+   "related_versions": [],
+   "source_ids": [
+    "openalex:W7225353932"
+   ],
+   "title": "BUCCAL DRUG DELIVERY SYSTEM",
+   "topics": [
+    "Advanced Drug Delivery Systems",
+    "Pharmaceutical Science"
+   ],
+   "updated_date": "2026-11-07",
+   "url": "https://ijpams.com/journal/index.php/ijpams/article/view/225"
+  },
+  "score": 3.1,
+  "seen": 1,
+  "suggested": "pharmaceutical-sciences",
+  "title": "BUCCAL DRUG DELIVERY SYSTEM",
+  "url": "https://ijpams.com/journal/index.php/ijpams/article/view/225"
+ },
+ {
+  "added": "2026-11-08",
+  "arxiv": null,
+  "candidates": [
+   [
+    "organic-chemistry",
+    3.1
+   ],
+   [
+    "molecular-docking",
+    3.0
+   ],
+   [
+    "drug-discovery",
+    3.0
+   ],
+   [
+    "dynamic-analysis",
+    1.2
+   ],
+   [
+    "metabolism",
+    0.26
+   ],
+   [
+    "analysis",
+    0.26
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "title:phytochemicalsofmonkeypuzzletreeagainsterbb2drivenbreastcanceranarrativereviewoftargetbiologyandpharmacokinetics|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Breast cancer is still a leading cause of cancer deaths and morbidity and is biologically heterogeneous, so treatment needs to be informed by the breast cancer type. ERBB2 is a clinically validated onco-driving gene in a subset of breast cancers; it encodes human epidermal growth factor receptor 2 (HER2). Antibody targeting of HER2, tyrosine kinase inhibitors and antibody–drug conjugates have enhanced response rates, but there are still significant problems revolving around resistance, treatment-related cardiac effects, cost and access. Although natural products remain a rich source of structurally diverse starting points for drug discovery, the potential of a plant-derived compound is not solely determined by its ability to bind to the target, it also needs to demonstrate absorption, distribution, metabolism, excretion, and toxicity (ADMET) properties. This narrative review compiles literature presented in the author's thesis, present HER2-directed treatment, phytochemistry of Araucaria araucana (Monkey Puzzle tree) and computational screening methods. Specific focus is on 17 phytochemicals, including biflavonoids, diterpenoids, flavonoids/flavanols, phenolic acids, a triterpenoid and a sterol. SwissADME, pkCSM and ProTox-3.0 were used to assess drug-likeness, PK behaviour and toxicity, while molecular docking with the wild-type and mutated ERBB2 was performed. Selected diterpenoids of the sample and flavonols, particularly agathic acid, sugiol and kaempferol, are suggested to be worth further study, while the large biflavonoids and rutin might require further studies of oral-exposure limitations. These results are hypothesis generating and not proof of clinical efficacy or safety. Protocol comparator, molecular-dynamics analysis, biochemical and ce/llular assays, measured pharmacokinetics, cardiac-safety testing are all required for validation. Future studies should focus on sustainable sourcing, reference standards and synthetic or semisynthetic approaches, as A. araucana is endangered.",
+   "abstract_license": null,
+   "arxiv": null,
+   "authors": [
+    "Ishrat Fatima",
+    "Anisa Iftikhar",
+    "Naila Asghar"
+   ],
+   "categories": [
+    "OpenAlex-field:Chemistry"
+   ],
+   "cited_by_count": 0,
+   "doi": null,
+   "is_retracted": false,
+   "keywords": [
+    "Araucaria araucana",
+    "monkey puzzle tree",
+    "phytochemicals",
+    "HER2-positive breast cancer",
+    "ERBB2",
+    "biflavonoids",
+    "diterpenoids",
+    "flavonols",
+    "sugiol",
+    "kaempferol",
+    "rutin",
+    "ADME prediction",
+    "drug-likeness",
+    "molecular docking",
+    "natural product drug discovery",
+    "cardiac safety",
+    "threatened plant species"
+   ],
+   "language": "en",
+   "oa_created": "2026-11-06",
+   "peer_reviewed": true,
+   "publication": "Perspectives in Social Sciences",
+   "publication_type": "review",
+   "published_date": "2026-11-04",
+   "related_versions": [],
+   "source_ids": [
+    "openalex:W7225359987"
+   ],
+   "title": "Phytochemicals Of Monkey Puzzle Tree Against Erbb2-Driven Breast Cancer: A Narrative Review Of Target Biology And Pharmacokinetics",
+   "topics": [
+    "Biological Activity of Diterpenoids and Biflavonoids",
+    "Organic Chemistry"
+   ],
+   "updated_date": "2026-11-07",
+   "url": "http://pssperspectives.com/index.php/06/article/view/287"
+  },
+  "score": 3.1,
+  "seen": 1,
+  "suggested": "organic-chemistry",
+  "title": "Phytochemicals Of Monkey Puzzle Tree Against Erbb2-Driven Breast Cancer: A Narrative Review Of Target Biology And Pharmacokinetics",
+  "url": "http://pssperspectives.com/index.php/06/article/view/287"
  },
  {
   "added": "2026-11-08",

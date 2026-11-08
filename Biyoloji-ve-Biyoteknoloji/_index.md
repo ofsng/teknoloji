@@ -14,8 +14,9 @@ classification_refs: ["OECD-FORD:1.6", "OECD-FORD:2.9", "arXiv:q-bio", "MeSH"]
 content_verified: false
 created: 2026-11-05
 layout: 2
-content_status: scope_note
-content_sources: []
+content_status: ai_quotes_sourced
+content_sources: ["10.1021/acs.chemrev.7b00203", "10.1146/annurev.arplant.043008.092035", "10.1111/1755-0998.12138"]
+last_maintained: 2026-11-08
 ---
 
 # Biyoloji ve Biyoteknoloji (Biology and Biotechnology)
@@ -30,15 +31,21 @@ content_sources: []
 
 ## 2. Çalışma prensibi
 
-_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+- “Biocatalysis is both a green and sustainable technology. This is largely a result of the spectacular advances in molecular biology and biotechnology achieved in the past two decades.” [1]
+
+<sub>Bu bölümde yalnızca kaynaklardan birebir alıntılar vardır (yerel dil modeli seçti, doğrulayıcı kaynak özetinde geçtiğini denetledi). Türkçe özet bekliyor; insan onayı yok.</sub>
 
 ## 3. Tarihçe
 
-_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+- “Metazoan DNA barcoding is primarily based upon a specific region of the cytochrome c oxidase subunit I gene that is PCR amplified by primers HCO2198 and LCO1490 ('Folmer primers') designed by Folmer et al. (Molecular Marine Biology and Biotechnology, 3, 1994, 294).” [2]
+
+<sub>Bu bölümde yalnızca kaynaklardan birebir alıntılar vardır (yerel dil modeli seçti, doğrulayıcı kaynak özetinde geçtiğini denetledi). Türkçe özet bekliyor; insan onayı yok.</sub>
 
 ## 4. Temel kavramlar
 
-_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+- “Metabolomics now plays a significant role in fundamental plant biology and applied biotechnology. Plants collectively produce a huge array of chemicals, far more than are produced by most other organisms; hence, metabolomics is of great importance in plant biology.” [3]
+
+<sub>Bu bölümde yalnızca kaynaklardan birebir alıntılar vardır (yerel dil modeli seçti, doğrulayıcı kaynak özetinde geçtiğini denetledi). Türkçe özet bekliyor; insan onayı yok.</sub>
 
 ## 5. Temel yöntemler
 
@@ -112,4 +119,7 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 
 ## 14. Kaynaklar
 
-_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+1. Roger A. Sheldon vd. (2017). *Role of Biocatalysis in Sustainable Chemistry*. Chemical Reviews. https://doi.org/10.1021/acs.chemrev.7b00203 — hakemli
+2. Jonathan B. Geller vd. (2013). *Redesign of PCR primers for mitochondrial cytochrome c oxidase subunit I for marine invertebrates and application in all‐taxa biotic surveys*. Molecular Ecology Resources. https://doi.org/10.1111/1755-0998.12138 — hakemli
+3. Kazuki Saito vd. (2009). *Metabolomics for Functional Genomics, Systems Biology, and Biotechnology*. Annual Review of Plant Biology. https://doi.org/10.1146/annurev.arplant.043008.092035 — hakemli
+

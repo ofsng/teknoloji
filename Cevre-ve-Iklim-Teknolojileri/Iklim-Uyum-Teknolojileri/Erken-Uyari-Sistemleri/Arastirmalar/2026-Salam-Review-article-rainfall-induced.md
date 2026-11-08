@@ -26,7 +26,7 @@ collected_at: 2026-11-05
 last_checked_at: 2026-11-05
 content_verified: false
 identifier_verified: crossref
-retraction_checked: 2026-11-06
+retraction_checked: 2026-11-08
 ---
 
 # Review article: rainfall-induced landslide early warning systems through the lens of the early warnings for all framework – advances, gaps, and perspectives

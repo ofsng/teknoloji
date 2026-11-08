@@ -26,7 +26,7 @@ collected_at: 2026-11-05
 last_checked_at: 2026-11-05
 content_verified: false
 identifier_verified: crossref
-retraction_checked: 2026-11-06
+retraction_checked: 2026-11-08
 ---
 
 # No Additional Benefit of 185 Hz Versus 130 Hz at Equivalent Energy in Deep Brain Stimulation for Tremor: A Randomized Prospective Clinical Trial

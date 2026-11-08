@@ -26,7 +26,7 @@ collected_at: 2026-11-06
 last_checked_at: 2026-11-06
 content_verified: false
 identifier_verified: crossref
-retraction_checked: 2026-11-06
+retraction_checked: 2026-11-08
 ---
 
 # Metal Additive Manufacturing of Engineering Alloys: Process–Material Interactions, Defect Formation, Property Optimization and a Decision-Making Framework

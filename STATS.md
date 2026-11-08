@@ -17,9 +17,9 @@
 | content_status | Düğüm |
 |---|---|
 | ai_draft_sourced | 2 |
-| ai_quotes_sourced | 9 |
+| ai_quotes_sourced | 11 |
 | empty | 3452 |
-| scope_note | 29 |
+| scope_note | 27 |
 
 ## Derinlik dağılımı
 

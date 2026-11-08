@@ -26,7 +26,7 @@ collected_at: 2026-11-07
 last_checked_at: 2026-11-07
 content_verified: false
 identifier_verified: doi.org
-retraction_checked: 2026-11-07
+retraction_checked: 2026-11-08
 ---
 
 # Comparative Analysis of Transformer-Based Models for Extracting Skills from Information Technology Job Posting using Named Entity Recognition

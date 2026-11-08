@@ -134,7 +134,7 @@
   "by_source": {
    "openalex": 40
   },
-  "llm_calls": 0,
+  "llm_calls": 3,
   "llm_usd": 0.0,
   "per_tech": {
    "autonomous-mobile-robots": 1,
