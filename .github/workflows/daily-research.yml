@@ -29,25 +29,57 @@ concurrency:
 jobs:
   research:
     runs-on: ubuntu-latest
-    timeout-minutes: 90
+    timeout-minutes: 120
     env:
       OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
       ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
       KB_CONTACT_EMAIL: ${{ vars.KB_CONTACT_EMAIL }}
       KB_MAX_ARCHIVE_PER_RUN: ${{ inputs.max_archive || '40' }}
+      # Ücretsiz yerel LLM (llama.cpp + Qwen3-4B-Instruct-2507) ile günde birkaç _index.md doldurma, alıntı
+      # modunda (yalnızca kaynakta birebir geçen cümleler; Türkçe özet yok). Kapatmak için depo değişkeni
+      # KB_LLM_PROVIDER=none. Model/sürüm llm-fill.yml ile aynıdır.
+      KB_LLM_PROVIDER: ${{ vars.KB_LLM_PROVIDER || 'local' }}
+      KB_LLM_MODEL: qwen3-4b-instruct-2507
+      KB_MAINTAIN_NODES: ${{ vars.KB_MAINTAIN_NODES || '3' }}
+      LLAMA_BUILD: b12179
+      LLAMA_SHA256: 5646c599b1dfdbdb3634f35ab634857639a830a66d1f9f13380673921348a2d2
+      MODEL_URL: https://huggingface.co/unsloth/Qwen3-4B-Instruct-2507-GGUF/resolve/main/Qwen3-4B-Instruct-2507-Q4_K_M.gguf
+      MODEL_SHA256: 3605803b982cb64aead44f6c1b2ae36e3acdb41d8e46c8a94c6533bc4c67e597
       BRANCH: auto/research
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
         with:
           fetch-depth: 0
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v7
         with:
           python-version: "3.12"
 
       - name: LLM bağımlılığı (yalnızca anahtar tanımlıysa)
         if: env.ANTHROPIC_API_KEY != ''
         run: pip install "anthropic>=1,<2"
+
+      - name: Yerel LLM önbelleği
+        if: env.KB_LLM_PROVIDER == 'local'
+        uses: actions/cache@v5
+        with:
+          path: ~/llm
+          key: llm-${{ env.LLAMA_BUILD }}-${{ env.MODEL_SHA256 }}
+
+      - name: Yerel LLM sunucusu (llama.cpp, SHA-256 doğrulamalı)
+        if: env.KB_LLM_PROVIDER == 'local'
+        run: |
+          mkdir -p ~/llm && cd ~/llm
+          [ -f model.gguf ] || curl -fsSL -o model.gguf "$MODEL_URL"
+          echo "$MODEL_SHA256  model.gguf" | sha256sum -c -
+          [ -f llama.tar.gz ] || curl -fsSL -o llama.tar.gz "https://github.com/ggml-org/llama.cpp/releases/download/${LLAMA_BUILD}/llama-${LLAMA_BUILD}-bin-ubuntu-x64.tar.gz"
+          echo "$LLAMA_SHA256  llama.tar.gz" | sha256sum -c -
+          rm -rf bin && mkdir bin && tar -xzf llama.tar.gz -C bin
+          SERVER=$(find ~/llm/bin -name llama-server -type f | head -1)
+          LD_LIBRARY_PATH="$(dirname "$SERVER")" nohup "$SERVER" -m ~/llm/model.gguf -c 12288 -t "$(nproc)" \
+            --host 127.0.0.1 --port 8080 --jinja --reasoning-budget 0 > "$RUNNER_TEMP/llama.log" 2>&1 &
+          for i in $(seq 1 120); do curl -fs http://127.0.0.1:8080/health >/dev/null && break; sleep 2; done
+          curl -fs http://127.0.0.1:8080/health || { echo "::warning::Yerel LLM başlamadı; bakım adımı atlanacak"; echo "KB_LLM_PROVIDER=none" >> "$GITHUB_ENV"; }
 
       - name: Otomasyon dalını hazırla (önceki birleşmemiş çalışmalar korunur)
         run: |
@@ -56,7 +88,17 @@ jobs:
           if git ls-remote --exit-code --heads origin "$BRANCH" >/dev/null; then
             git fetch origin "$BRANCH"
             git checkout -B "$BRANCH" "origin/$BRANCH"
-            git merge --no-edit origin/main || { echo "::error::auto/research ile main çakışıyor; elle çözülmeli"; exit 1; }
+            if ! git merge --no-edit origin/main; then
+              # Yalnızca otomatik üretilen indekslerde çakışma varsa main sürümü alınır ve indeksler yeniden üretilir
+              CONFLICTS=$(git diff --name-only --diff-filter=U)
+              OTHER=$(echo "$CONFLICTS" | grep -vE '^(STATS|TECHNOLOGIES|RESEARCH-INDEX|RELATIONSHIPS)\.md$|^research-index/' || true)
+              if [ -n "$OTHER" ]; then
+                echo "::error::auto/research ile main şu dosyalarda çakışıyor; elle çözülmeli: $OTHER"; exit 1
+              fi
+              echo "$CONFLICTS" | xargs -r git checkout --theirs --
+              python3 tools/kb.py reindex
+              git add -A && git commit -q --no-edit
+            fi
           else
             git checkout -B "$BRANCH"
           fi

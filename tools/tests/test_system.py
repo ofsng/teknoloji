@@ -310,17 +310,36 @@ class FakeLLMClient:
 
 SOURCES = [{"sid": "S1", "title": "A survey of graph neural networks", "authors": ["Jie Zhou", "Ganqu Cui"],
             "year": "2020", "doi": "10.1016/j.aiopen.2021.01.001", "publication": "AI Open", "peer_reviewed": True,
-            "type": "review", "abstract": "GNNs are neural models that capture graph dependence via message passing."},
+            "type": "review", "abstract": "GNNs are neural models that capture the dependence of graphs via message passing between "
+                        "the nodes of graphs, and nodes update their representations from neighbors in 2 steps."},
            {"sid": "S2", "title": "Preprint on GNN limits", "authors": ["X Y"], "year": "2026", "doi": None,
             "url": "https://arxiv.org/abs/2611.00002", "publication": "arXiv", "peer_reviewed": False,
-            "type": "preprint", "abstract": "We show expressivity limits of message passing."}]
+            "type": "preprint", "abstract": "We show that the expressive power of message passing graph neural networks is "
+                          "bounded by the Weisfeiler-Lehman test."}]
 DRAFT = {**{f"s{n}": [] for n in M.FILL_SECTIONS}, "conflicts": [],
          "s1": [{"text": "Çizge sinir ağları, çizge yapısındaki bağımlılıkları mesaj geçirme ile modelleyen sinir ağlarıdır.",
+                 "evidence": "GNNs are neural models that capture the dependence of graphs via message passing",
                  "sources": ["S1"], "basis": "review"},
-                {"text": "Kaynaksız bir iddia burada yer alıyor ve atılmalıdır.", "sources": ["S9"], "basis": "review"}],
+                {"text": "Kaynaksız bir iddia burada yer alıyor ve atılmalıdır.", "evidence": "x", "sources": ["S9"],
+                 "basis": "review"},
+                {"text": "Uydurma alıntıya dayanan bir ifade atılmalıdır.",
+                 "evidence": "GNNs always outperform every other model on all benchmarks", "sources": ["S1"],
+                 "basis": "review"},
+                {"text": "Düğümler temsillerini 5 adımda günceller.",
+                 "evidence": "nodes update their representations from neighbors in 2 steps", "sources": ["S1"],
+                 "basis": "review"}],
          "s2": [{"text": "Düğümler komşularından gelen mesajları birleştirerek temsillerini günceller.",
-                 "sources": ["S1"], "basis": "review"}],
-         "s10": [{"text": "Mesaj geçirme tabanlı modellerin ifade gücü sınırlıdır.", "sources": ["S2"], "basis": "review"}]}
+                 "evidence": "GNNs are neural models that capture the dependence of graphs via message passing between the nodes",
+                 "sources": ["S1"], "basis": "review"},
+                {"text": "GNNs are neural models that capture the dependence of graphs.",
+                 "evidence": "GNNs are neural models that capture the dependence of graphs via message passing", "sources": ["S1"],
+                 "basis": "review"},
+                {"text": "Mesaj geçirme, düğümlerin bir çizgedeki komşularından bilgi almasıdır.",
+                 "evidence": "nodes update their representations from neighbors in 2 steps", "sources": ["S1"],
+                 "basis": "review"}],
+         "s10": [{"text": "Mesaj geçirme tabanlı modellerin ifade gücü sınırlıdır.",
+                  "evidence": "the expressive power of message passing graph neural networks is bounded by the Weisfeiler-Lehman test",
+                  "sources": ["S2"], "basis": "review"}]}
 
 
 class TestMaintainer(Base):
@@ -341,7 +360,12 @@ class TestMaintainer(Base):
         self.assertIn("[1]", kb.get_section(body, 2))
         self.assertIn("ön baskı bulgusu", kb.get_section(body, 10))
         self.assertNotIn("Kaynaksız", body)
-        self.assertEqual(res["dropped"], 1)
+        self.assertNotIn("Uydurma", body, "özette geçmeyen alıntı atılmalı")
+        self.assertNotIn("5 adımda", body, "kanıtta olmayan sayı atılmalı")
+        self.assertEqual(res["dropped"], 5)
+        self.assertEqual(res["drop_reasons"].get("ifade Türkçe değil / biçim sızıntısı"), 1)
+        self.assertEqual(res["drop_reasons"].get("kanıt bu teknolojiden söz etmiyor"), 1)
+        self.assertIn("  > “GNNs are neural models", body, "kaynak alıntısı görünür olmalı")
         self.assertEqual(meta["content_status"], "ai_draft_sourced")
         self.assertFalse(meta["content_verified"])
         self.assertIn("10.1016/j.aiopen.2021.01.001", kb.get_section(body, 14))
@@ -471,7 +495,7 @@ class TestRobustness(Base):
         run2 = Run(self.cfg, self.http(self.arxiv_routes()), sources=("arxiv",), log=lambda *a: None)
         s2 = run2.daily(backfill=False, maintain=False)
         self.assertFalse([e for e in s2["errors"] if "arxiv" in e])
-        self.assertTrue(all("start=2" in u for u in self.opener.calls if "export.arxiv.org" in u))
+        self.assertTrue(all("start=2" in u for u in self.opener.calls if "search_query" in u))
         self.assertEqual(len(self.research_files()), n1 + s2["created"])
         self.assertEqual(self.check(), 0)
 
@@ -567,3 +591,167 @@ class TestRealRepository(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class TestNoLoss(Base):
+    """Bütçeye takılan kayıtlar kaybolmaz; kuyruklar sınırlıdır; geç dizinlenenler yakalanır."""
+
+    PAGE = [{"id": f"2611.200{i:02d}", "title": f"Graph Neural Networks for Molecules {i}", "abstract": GNN_ABS,
+             "author": f"Author{i} Smith"} for i in range(6)]
+
+    def routes(self, entries):
+        def handler(url):
+            if "id_list=" in url:
+                ids = url.split("id_list=")[1].split("&")[0].replace("%2C", ",").split(",")
+                return atom([e for e in entries if e["id"] in ids])
+            return atom(entries)
+        return [("export.arxiv.org", handler)]
+
+    def test_budget_overflow_goes_to_backlog_and_drains_later(self):
+        self.cfg.max_archive, self.cfg.max_per_tech = 2, 10
+        run1 = Run(self.cfg, self.http(self.routes(self.PAGE)), sources=("arxiv",), log=lambda *a: None)
+        s1 = run1.daily(backfill=False, maintain=False)
+        self.assertEqual(s1["created"], 2)
+        self.assertEqual(s1["backlog_size"], 4, "bütçeye sığmayan 4 kayıt backlog'da beklemeli")
+        # ertesi gün: yeni veri yok, backlog'dan arşivlenir (tam metadata arXiv id_list ile yeniden çekilir)
+        from datetime import timedelta
+        self.cfg.today = TODAY + timedelta(days=1)
+        run2 = Run(self.cfg, self.http(self.routes(self.PAGE)), sources=("arxiv",), log=lambda *a: None)
+        s2 = run2.daily(backfill=False, maintain=False)
+        self.assertEqual(s2["created"], 2)
+        self.assertTrue(any("id_list=" in u for u in self.opener.calls))
+        self.assertEqual(s2["backlog_size"], 2)
+        self.cfg.today = TODAY + timedelta(days=2)
+        Run(self.cfg, self.http(self.routes(self.PAGE)), sources=("arxiv",), log=lambda *a: None).daily(
+            backfill=False, maintain=False)
+        self.assertEqual(len(self.research_files()), 6, "6 kaydın hepsi sonunda arşivlenmeli")
+        self.assertEqual(self.check(), 0)
+
+    def test_backlog_caps_move_to_ledger_and_restore(self):
+        from kbresearch.backlog import Backlog, Ledger
+        self.cfg.backlog_per_tech = 2
+        led = Ledger(self.cfg.state_dir, TODAY)
+        bl = Backlog(self.cfg, led)
+        for i in range(5):
+            r = rec(title=f"Paper {i}", arxiv=f"2611.3000{i}", source_ids=[f"arxiv:2611.3000{i}"])
+            bl.add(r, {"primary": "graph-neural-networks", "score": 6 + i, "related": []}, "arxiv")
+        self.assertEqual(bl.enforce_limits({}), 3)
+        self.assertEqual(len(bl), 2)
+        self.assertEqual(sorted(e["score"] for e in bl.entries.values()), [9, 10], "en yüksek öncelikliler kalır")
+        led.flush()
+        self.assertEqual(len(led.read_all()), 3, "taşanlar silinmez, deftere yazılır")
+        self.cfg.backlog_per_tech = 30
+        self.assertEqual(bl.restore(tech="graph-neural-networks"), 3)
+        self.assertEqual(len(bl), 5)
+
+    def test_review_queue_merges_duplicates_caps_and_expires(self):
+        from datetime import timedelta
+        from kbresearch.archive import ReviewQueue
+        from kbresearch.backlog import Ledger
+        led = Ledger(self.cfg.state_dir, TODAY)
+        q = ReviewQueue(self.cfg.review_dir, 3, led, expire_days=30)
+        c = {"primary": "deep-learning", "score": 4.0, "candidates": [["deep-learning", 4.0]], "confidence": "medium"}
+        a = rec(title="Same work", arxiv="2611.40000", source_ids=["arxiv:2611.40000"])
+        b = rec(title="Same work", arxiv="2611.40000", doi="10.1/x", source_ids=["openalex:W1"])
+        self.assertTrue(q.add(a, c, "r", TODAY))
+        self.assertFalse(q.add(b, {**c, "score": 5.0}, "r", TODAY), "aynı çalışma birleştirilmeli")
+        self.assertEqual(len(q.items), 1)
+        self.assertEqual(q.items[0]["seen"], 2)
+        self.assertIn("doi:10.1/x", q.items[0]["keys"])
+        for i in range(4):
+            q.add(rec(title=f"Other {i}", arxiv=f"2611.4100{i}"), {**c, "score": 3.0 + i}, "r", TODAY)
+        q.items.append({"keys": ["arxiv:old"], "title": "Old", "score": 9, "added": (TODAY - timedelta(days=40)).isoformat(),
+                        "record": {}, "seen": 1})
+        moved = q.enforce_limits(TODAY)
+        self.assertEqual(len(q.items), 3)
+        self.assertEqual(moved, 3)
+        led.flush()
+        reasons = sorted(e["ledger_reason"] for e in led.read_all())
+        self.assertEqual(reasons, ["queue_expired", "queue_overflow", "queue_overflow"])
+
+    def test_openalex_revisit_processes_only_newly_indexed(self):
+        from kbresearch.records import new_record
+        run = Run(self.cfg, self.http([]), sources=(), log=lambda *a: None)
+        old = new_record(title="Graph Neural Networks for Old", source_ids=["openalex:W10"], oa_created="2026-10-20",
+                         abstract=GNN_ABS, abstract_license="cc-by", peer_reviewed=True)
+        new = new_record(title="Graph Neural Networks for New", source_ids=["openalex:W11"], oa_created="2026-11-01",
+                         abstract=GNN_ABS, abstract_license="cc-by", peer_reviewed=True)
+        run.process([old, new], "openalex", created_since="2026-10-28", use_seen=False)
+        self.assertEqual(run.stats["skipped_known"], 1)
+        self.assertEqual(run.stats["backlogged"], 1)
+
+    def test_recovery_planned_from_run_log(self):
+        os.makedirs(self.cfg.state_dir, exist_ok=True)
+        with open(os.path.join(self.cfg.state_dir, "run-log.jsonl"), "w") as f:
+            f.write(json.dumps({"date": "2026-11-05", "fetched": 3867, "budget_skipped": 561}) + "\n")
+            f.write(json.dumps({"date": "2026-11-06", "fetched": 0, "budget_skipped": 0}) + "\n")
+        run = Run(self.cfg, self.http([]), sources=(), log=lambda *a: None)
+        run.plan_recovery()
+        jobs = run.state.checkpoint("recovery")["jobs"]
+        self.assertIn({"source": "arxiv", "day": "2026-11-03"}, jobs)
+        self.assertIn({"source": "openalex", "stream": "journal", "day": "2026-11-02"}, jobs)
+        self.assertEqual(len(jobs), 3)
+        run.plan_recovery()  # ikinci kez planlanmaz
+        self.assertEqual(len(run.state.checkpoint("recovery")["jobs"]), 3)
+
+
+class TestCandidateConflicts(Base):
+    def setUp(self):
+        super().setUp()
+        tree = self.tree()
+        self.d = Discovery(self.cfg, tree, Classifier(tree))
+
+    def cand(self, key, acronyms, parent=None):
+        c = {"key": key, "display": key, "status": "candidate", "acronyms": acronyms, "parent_suggestion": parent,
+             "notes": []}
+        self.d.assess_conflicts(c)
+        return c
+
+    def test_acronym_only_match_is_not_synonym(self):
+        # ZKP takma adı var; "zonal kernel pooling (ZKP)" anlamca ilgisiz: eş anlamlı sayılmamalı
+        c = self.cand("zonal kernel pooling", ["ZKP"])
+        self.assertEqual(c["status"], "candidate")
+        self.assertEqual(c["ambiguous_acronyms"][0]["existing"], "zero-knowledge-proofs")
+
+    def test_old_acronym_only_rejection_is_reverted(self):
+        c = {"key": "zonal kernel pooling", "display": "x", "status": "rejected", "reason": "synonym_of:zero-knowledge-proofs",
+             "acronyms": ["ZKP"], "notes": []}
+        self.d.assess_conflicts(c)
+        self.assertEqual(c["status"], "candidate")
+
+    def test_near_duplicate_rejected_and_overlap_flagged(self):
+        self.assertEqual(self.cand("graph neural network model", [])["status"], "candidate")
+        dup = self.cand("neural graph network", [])
+        self.assertEqual(dup["status"], "rejected")
+        self.assertTrue(dup["reason"].startswith("duplicate_of:graph-neural-networks"))
+        sub = self.cand("transformer graph neural network", [], parent="transformer-architectures")
+        self.assertEqual(sub["variant_of"], "graph-neural-networks", "mevcut adı içeren aday alt türdür")
+        self.assertFalse(sub["possible_duplicate"])
+        near = self.cand("zero knowledge graph proof", [], parent="graph-neural-networks")
+        self.assertTrue(near["possible_duplicate"], "ZKP ile güçlü örtüşme işaretlenmeli")
+        with self.assertRaises(ValueError):
+            self.d.cands[near["key"]] = near
+            self.d.verify(near["key"], "graph-neural-networks")
+
+
+class TestQuoteMode(Base):
+    def test_quote_mode_writes_only_verified_quotes(self):
+        draft = {**{f"s{n}": [] for n in M.FILL_SECTIONS}, "conflicts": [],
+                 "s1": [{"text": "English text is fine in quote mode", "evidence":
+                         "GNNs are neural models that capture the dependence of graphs via message passing",
+                         "sources": ["S1"], "basis": "preprint"},
+                        {"text": "x", "evidence": "GNNs are invented quote not in the abstract at all here",
+                         "sources": ["S1"], "basis": "review"}]}
+        res = M.fill_node(self.cfg, self.tree(), "graph-neural-networks", draft=draft, sources=SOURCES, mode="quote",
+                          exclude=["never matches"])
+        p = os.path.join(self.root, self.tree().nodes["graph-neural-networks"]["dir"], kb.INDEX)
+        meta, body = kb.parse_frontmatter(kb.read(p))
+        sec = kb.get_section(body, 1)
+        self.assertTrue(sec.startswith("- “GNNs are neural models"))
+        self.assertNotIn("English text is fine", body, "alıntı modunda model metni yazılmaz")
+        self.assertNotIn("ön baskı", sec, "S1 hakemli derleme: dayanak türü kaynaktan gelir, modelden değil")
+        self.assertEqual(meta["content_status"], "ai_quotes_sourced")
+        self.assertEqual(res["dropped"], 1)
+        res2 = M.fill_node(self.cfg, self.tree(), "deep-learning", draft={**draft, "s1": draft["s1"][:1]},
+                           sources=SOURCES, mode="quote", exclude=["GNNs are neural models"])
+        self.assertEqual(res2["status"], "nothing_filled", "denetimde çıkarılan alıntı yazılmamalı")

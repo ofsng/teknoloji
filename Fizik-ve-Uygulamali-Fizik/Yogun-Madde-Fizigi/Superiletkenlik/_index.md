@@ -14,8 +14,9 @@ classification_refs: ["arXiv:cond-mat.supr-con"]
 content_verified: false
 created: 2026-11-05
 layout: 2
-content_status: empty
-content_sources: []
+content_status: ai_quotes_sourced
+content_sources: ["10.1146/annurev-conmatphys-062910-140445"]
+last_maintained: 2026-11-07
 ---
 
 # Süperiletkenlik (Superconductivity)
@@ -60,7 +61,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 
 ## 8. Kullanım alanları
 
-_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+- “The potential for applications of the more exotic properties like high temperature superconductivity and colossal magnetoresistance is still waiting to be fully exploited.” [1]
+
+<sub>Bu bölümde yalnızca kaynaklardan birebir alıntılar vardır (yerel dil modeli seçti, doğrulayıcı kaynak özetinde geçtiğini denetledi). Türkçe özet bekliyor; insan onayı yok.</sub>
 
 ## 9. Avantajlar
 
@@ -92,4 +95,5 @@ _Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini gösterm
 
 ## 14. Kaynaklar
 
-_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+1. Pavlo Zubko vd. (2011). *Interface Physics in Complex Oxide Heterostructures*. Annual Review of Condensed Matter Physics. https://doi.org/10.1146/annurev-conmatphys-062910-140445 — hakemli
+

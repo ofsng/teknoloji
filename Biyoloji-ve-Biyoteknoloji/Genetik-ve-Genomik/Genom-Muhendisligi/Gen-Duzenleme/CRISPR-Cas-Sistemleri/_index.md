@@ -14,8 +14,9 @@ classification_refs: []
 content_verified: false
 created: 2026-11-05
 layout: 2
-content_status: empty
-content_sources: []
+content_status: ai_quotes_sourced
+content_sources: ["10.1126/science.1179555", "10.1126/science.aat5011", "10.1126/science.1231143"]
+last_maintained: 2026-11-07
 ---
 
 # CRISPR-Cas Sistemleri (CRISPR-Cas Systems)
@@ -30,7 +31,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 
 ## 2. Çalışma prensibi
 
-_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+- “These hypervariable loci take up genetic material from invasive elements and build up inheritable DNA-encoded immunity over time. Conversely, viruses have devised mutational escape strategies that allow them to circumvent the CRISPR/Cas system, albeit at a cost.” [1]
+
+<sub>Bu bölümde yalnızca kaynaklardan birebir alıntılar vardır (yerel dil modeli seçti, doğrulayıcı kaynak özetinde geçtiğini denetledi). Türkçe özet bekliyor; insan onayı yok.</sub>
 
 ## 3. Tarihçe
 
@@ -42,7 +45,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 
 ## 5. Temel yöntemler
 
-_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+- “We engineered two different type II CRISPR/Cas systems and demonstrate that Cas9 nucleases can be directed by short RNAs to induce precise cleavage at endogenous genomic loci in human and mouse cells.” [2]
+
+<sub>Bu bölümde yalnızca kaynaklardan birebir alıntılar vardır (yerel dil modeli seçti, doğrulayıcı kaynak özetinde geçtiğini denetledi). Türkçe özet bekliyor; insan onayı yok.</sub>
 
 <!-- AUTO:BEGIN (kb.py reindex üretir; bu bloğu elle düzenlemeyin) -->
 ## 6. Alt teknolojiler
@@ -61,7 +66,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 
 ## 8. Kullanım alanları
 
-_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+- “The diversity, modularity, and efficacy of CRISPR-Cas systems are driving a biotechnological revolution. RNA-guided Cas enzymes have been adopted as tools to manipulate the genomes of cultured cells, animals, and plants, accelerating the pace of fundamental research and enabling clinical and agricultural breakthroughs.” [3]
+
+<sub>Bu bölümde yalnızca kaynaklardan birebir alıntılar vardır (yerel dil modeli seçti, doğrulayıcı kaynak özetinde geçtiğini denetledi). Türkçe özet bekliyor; insan onayı yok.</sub>
 
 ## 9. Avantajlar
 
@@ -93,4 +100,7 @@ _Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini gösterm
 
 ## 14. Kaynaklar
 
-_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+1. Philippe Horvath vd. (2010). *CRISPR/Cas, the Immune System of Bacteria and Archaea*. Science. https://doi.org/10.1126/science.1179555 — hakemli
+2. Le Cong vd. (2013). *Multiplex Genome Engineering Using CRISPR/Cas Systems*. Science. https://doi.org/10.1126/science.1231143 — hakemli
+3. Gavin J. Knott vd. (2018). *CRISPR-Cas guides the future of genetic engineering*. Science. https://doi.org/10.1126/science.aat5011 — hakemli
+

@@ -5,7 +5,7 @@ from ..records import new_record
 
 API = "https://api.openalex.org/works"
 ARXIV_SOURCE = "S4306400194"  # arXiv kayıtları doğrudan arXiv'den toplanır; burada tekrar çekilmez
-SELECT = ("id,doi,title,publication_date,updated_date,type,authorships,primary_location,locations,"
+SELECT = ("id,doi,title,publication_date,created_date,updated_date,type,authorships,primary_location,locations,"
           "primary_topic,keywords,abstract_inverted_index,cited_by_count,is_retracted,language")
 BIORXIV, MEDRXIV = "S4306402567", "S3005729997"
 # 1 Life Sciences, 3 Physical Sciences, 4 Health Sciences (2 Social Sciences kapsam dışı).
@@ -39,6 +39,12 @@ def _get(http, cfg, params):
 def list_day(http, cfg, day, page, stream="journal"):
     return _get(http, cfg, {"filter": DAILY_STREAMS[stream].format(d=day.isoformat()),
                             "per_page": cfg.openalex_per_page, "page": page})
+
+
+def by_ids(http, cfg, work_ids):
+    """OpenAlex kimlikleriyle toplu çekme (en fazla 100 OR değeri)."""
+    ids = "|".join(w if w.startswith("W") else w.rsplit("/", 1)[-1] for w in work_ids[:100])
+    return _get(http, cfg, {"filter": f"openalex_id:{ids}", "per_page": 100})[0]
 
 
 def search_top(http, cfg, phrase, n, types="article|review", field="title_and_abstract"):
@@ -98,4 +104,5 @@ def to_record(w):
         source_ids=[f"openalex:{w.get('id', '').rsplit('/', 1)[-1]}"],
         categories=[f"OpenAlex-field:{(pt.get('field') or {}).get('display_name')}"] if pt.get("field") else [],
         topics=topics, keywords=[k.get("display_name") for k in (w.get("keywords") or []) if k.get("display_name")],
-        cited_by_count=w.get("cited_by_count"), is_retracted=w.get("is_retracted"), language=w.get("language"))
+        cited_by_count=w.get("cited_by_count"), is_retracted=w.get("is_retracted"), language=w.get("language"),
+        oa_created=(w.get("created_date") or "")[:10] or None)

@@ -165,40 +165,92 @@ class Archive:
 
 
 class ReviewQueue:
-    """Güveni yetersiz sınıflandırmalar. JSON (makine) + Markdown (insan) olarak saklanır."""
+    """Güveni yetersiz sınıflandırmalar. Sınırlı (varsayılan 150), tekrarları birleştirir, önceliğe göre sıralar.
+    Taşan, süresi dolan ya da çalışma başı sınırı aşan kayıtlar silinmez; deftere (ledger) yazılır."""
 
-    def __init__(self, review_dir, max_items):
+    def __init__(self, review_dir, max_items, ledger=None, expire_days=30):
         self.dir = review_dir
         self.path = os.path.join(review_dir, "classification-queue.json")
         self.items = load_json(self.path, [])
         self.max = max_items
+        self.ledger = ledger
+        self.expire_days = expire_days
+
+    @staticmethod
+    def priority(it):
+        rec = it.get("record") or {}
+        import math
+        return (it.get("score") or 0) + (1.0 if rec.get("peer_reviewed") else 0.0) + \
+            0.5 * math.log1p(rec.get("cited_by_count") or 0) + 0.3 * min(it.get("seen", 1) - 1, 3)
+
+    def find(self, rec):
+        ks = R.keys(rec)
+        for it in self.items:
+            if set(it["keys"]) & ks:
+                return it
+        return None
 
     def has(self, rec):
-        ks = R.keys(rec)
-        return any(set(i["keys"]) & ks for i in self.items)
+        return self.find(rec) is not None
 
     def add(self, rec, cls, reason, today):
-        if self.has(rec) or len(self.items) >= self.max:
+        """Yeni öğe eklendiyse True. Aynı çalışma zaten kuyruktaysa birleştirilir."""
+        it = self.find(rec)
+        if it:
+            it["keys"] = sorted(set(it["keys"]) | R.keys(rec))
+            it["seen"] = it.get("seen", 1) + 1
+            if (cls.get("score") or 0) > (it.get("score") or 0):
+                it.update(candidates=cls.get("candidates"), suggested=cls.get("primary"), score=cls.get("score"))
+            old = it.get("record") or {}
+            it["record"] = R.merge(old, rec) if old else rec
             return False
         self.items.append({"keys": sorted(R.keys(rec)), "title": rec.get("title"), "url": rec.get("url"),
                            "doi": rec.get("doi"), "arxiv": rec.get("arxiv"), "candidates": cls.get("candidates"),
                            "suggested": cls.get("primary"), "confidence": cls.get("confidence"),
-                           "reason": reason, "added": today.isoformat(), "record": rec})
+                           "score": cls.get("score"), "reason": reason, "added": today.isoformat(), "seen": 1,
+                           "record": rec})
         return True
+
+    def to_ledger(self, it, reason):
+        if self.ledger:
+            from .backlog import compact_ids
+            # orta güvenli kayıtlar çok sayıda olabilir: defterde yalnızca kimlik, öneri ve puan tutulur
+            self.ledger.write({"key": it["keys"][0] if it["keys"] else None, "ids": compact_ids(it.get("record") or {}),
+                               "primary": it.get("suggested"), "score": it.get("score")}, reason)
+
+    def enforce_limits(self, today):
+        from datetime import timedelta
+        cutoff = (today - timedelta(days=self.expire_days)).isoformat()
+        keep, moved = [], 0
+        for it in self.items:
+            if (it.get("added") or "9999") < cutoff and not it.get("pinned"):
+                self.to_ledger(it, "queue_expired")
+                moved += 1
+            else:
+                keep.append(it)
+        keep.sort(key=lambda it: -self.priority(it))
+        for it in keep[self.max:]:
+            self.to_ledger(it, "queue_overflow")
+            moved += 1
+        self.items = keep[:self.max]
+        return moved
 
     def pop(self, idx):
         return self.items.pop(idx)
 
     def save(self, tree):
+        self.items.sort(key=lambda it: -self.priority(it))
         save_json(self.path, self.items)
         lines = ["# Sınıflandırma İnceleme Kuyruğu", "",
-                 "> Otomatik üretilir. Çözmek için: `python3 tools/autokb.py queue resolve N --tech ID` "
-                 "veya `queue drop N`.", "", f"Bekleyen: **{len(self.items)}**", "",
-                 "| # | Başlık | Önerilen | Adaylar | Neden |", "|---|---|---|---|---|"]
+                 "> Otomatik üretilir. Öncelik sırasına göre (puan, hakemli yayın, atıf, tekrar görülme). Çözmek için: "
+                 "`python3 tools/autokb.py queue resolve N --tech ID` veya `queue drop N`. "
+                 f"Kuyruk en fazla {self.max} kayıt tutar; taşanlar ve {self.expire_days} günden eskiler silinmez, "
+                 "`state/ledger/` defterine yazılır.", "", f"Bekleyen: **{len(self.items)}**", "",
+                 "| # | Başlık | Önerilen | Adaylar | Görülme | Neden |", "|---|---|---|---|---|---|"]
         for i, it in enumerate(self.items):
             cands = ", ".join(f"`{c}` ({s})" for c, s in (it.get("candidates") or [])[:3])
             title = (it.get("title") or "").replace("|", "\\|")
             link = f"[{title}]({it['url']})" if it.get("url") else title
-            lines.append(f"| {i} | {link} | `{it.get('suggested')}` | {cands} | {it.get('reason')} |")
+            lines.append(f"| {i} | {link} | `{it.get('suggested')}` | {cands} | {it.get('seen', 1)} | {it.get('reason')} |")
         os.makedirs(self.dir, exist_ok=True)
         kb.write(os.path.join(self.dir, "CLASSIFICATION-QUEUE.md"), "\n".join(lines) + "\n")
