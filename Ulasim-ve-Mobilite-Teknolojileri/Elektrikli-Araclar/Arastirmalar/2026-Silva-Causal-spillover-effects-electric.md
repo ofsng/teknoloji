@@ -17,16 +17,16 @@ classification_confidence: high
 classification_method: deterministic
 keywords: ["electric vehicle charging stations", "customer traffic", "staggered adoption", "GPS location data", "New York City", "San Francisco Bay Area"]
 source_ids: ["openalex:W7106834461"]
-cited_by_count: 0
+cited_by_count: 2
 content_status: metadata_only
 abstract_license: cc-by-nc-nd
 retraction_status: none_reported
 related_versions: []
 collected_at: 2026-11-05
-last_checked_at: 2026-11-05
+last_checked_at: 2026-11-08
 content_verified: false
 identifier_verified: crossref
-retraction_checked: 2026-11-05
+retraction_checked: 2026-11-08
 ---
 
 # Causal spillover effects of electric vehicle charging station placement on local businesses: a staggered adoption study
@@ -71,3 +71,4 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 - arXiv: https://arxiv.org/abs/2511.19507
 - OpenAlex: https://openalex.org/W7106834461
 - Metadata kaynakları: openalex:W7106834461 (toplama: 2026-11-05)
+

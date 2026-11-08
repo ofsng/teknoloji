@@ -5,10 +5,10 @@
 - Ana disiplin: **30**
 - Teknoloji / alt teknoloji düğümü (ana disiplinler hariç): **3462**
 - Toplam taksonomi düğümü: **3492** (yaprak: 2650)
-- Toplam klasör (Arastirmalar/ ve tools/ dahil): **6996**
-- Markdown dosyası: **3565**
+- Toplam klasör (Arastirmalar/ ve tools/ dahil): **6997**
+- Markdown dosyası: **3679**
 - Maksimum hiyerarşi derinliği: **8**
-- Araştırma kaydı: **49**
+- Araştırma kaydı: **163**
 - Tanımlı ilişki: **359**
 - İnsan tarafından doğrulanmış içerik (`content_verified: true`): **0**
 

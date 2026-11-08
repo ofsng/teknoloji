@@ -87,7 +87,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **3**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **11**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -97,9 +97,14 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Classical Machine Learning-Based Approaches for Medical Image Analysis and Computer-Aided Diagnosis](Tibbi-Goruntuleme/Tibbi-Goruntu-Analizi/Bilgisayar-Destekli-Teshis/Arastirmalar/2026-Cincar-Classical-Machine-Learning-Based.md) — Cincar vd. (2026) · *Technium Romanian Journal of Applied Sciences and Technology* · hakemli
+- [Effectiveness of a novel mobile health application in educating first-time complete denture wearers: a prospective randomized controlled clinical study](Dijital-Saglik/Mobil-Saglik/Arastirmalar/2026-Sooda-Effectiveness-novel-mobile-health.md) — Sooda vd. (2026) · *BMC Oral Health* · hakemli
+- [Mentorship for electronic health record quality improvement in Nigeria: A practice framework](Dijital-Saglik/Saglik-Bilisimi/Elektronik-Saglik-Kayitlari/Arastirmalar/2026-Popoola-Mentorship-for-electronic-health.md) — Popoola (2026) · *Innovation in Health for Society* · hakemli
+- [Retrospective study of the clinical value of genetic testing in the diagnosis and treatment of lung squamous cell carcinoma](Klinik-Teshis/Molekuler-Teshis/Genetik-Test/Arastirmalar/2026-Fang-Retrospective-study-the-clinical.md) — Fang vd. (2026) · *Discover Oncology* · hakemli
+- [CAR-T cell therapy in hematology malignancies: breaking barriers, engineering the future](Ileri-Tedaviler/Hucre-Tedavisi/CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Alvizo-Baez-CAR-cell-therapy-hematology.md) — Alvizo-Báez vd. (2026) · *Frontiers in Immunology* · hakemli
+- [Peptide-functionalized biomaterials as emerging platforms to enhance CAR-NK cell therapy in solid tumors](Ileri-Tedaviler/Hucre-Tedavisi/NK-Hucre-Tedavisi/Arastirmalar/2026-Shokoohi-Peptide-functionalized-biomaterials-eme.md) — Shokoohi vd. (2026) · *Discover Materials* · hakemli
 - [Mapping the evidence on implementation of clinical decision support systems in nurses' reverse triage decisions during disaster surges: A scoping review with a proposed conceptual framework](Dijital-Saglik/Saglik-Bilisimi/Klinik-Karar-Destek-Sistemleri/Arastirmalar/2026-Salasa-Mapping-the-evidence-implementation.md) — Salasa vd. (2026) · *International Emergency Nursing* · hakemli
-- [Tendinopathy: Current Concepts in Pathophysiology, Clinical Presentation, and Management – An Updated Review](Ileri-Tedaviler/Hucre-Tedavisi/Kok-Hucre-Tedavisi/Arastirmalar/2026-Saklani-Tendinopathy-Current-Concepts-Pathophysi.md) — Saklani vd. (2026) · *International Journal of Drug Delivery Technology* · hakemli
-- [Multi-class classification of central and non-central geographic atrophy using optical coherence tomography](Tibbi-Goruntuleme/Optik-Tibbi-Goruntuleme/Optik-Koherens-Tomografi/Arastirmalar/2026-Siraz-Multi-class-classification-central.md) — Siraz vd. (2026) · *Experimental Biology and Medicine* · hakemli · atıf: 1
+- [Quadruple co-culture vascular models of haematological malignancy CAR T cell therapy for nonclinical safety and efficacy studies](Ileri-Tedaviler/Hucre-Tedavisi/CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Lund-Quadruple-culture-vascular-models.md) — Lund vd. (2026) · *Frontiers in Immunology* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

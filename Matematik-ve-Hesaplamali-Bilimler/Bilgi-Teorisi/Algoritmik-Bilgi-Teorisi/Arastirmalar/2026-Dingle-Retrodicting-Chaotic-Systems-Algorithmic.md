@@ -17,16 +17,16 @@ classification_confidence: high
 classification_method: deterministic
 keywords: ["retrodiction", "chaotic systems", "algorithmic information theory", "logistic map", "tent map", "Bernoulli map", "Julia sets", "Mandelbrot set", "Gaussian process priors", "time series inference"]
 source_ids: ["openalex:W4415348281"]
-cited_by_count: 0
+cited_by_count: 1
 content_status: abstract_only
 abstract_license: cc-by
 retraction_status: none_reported
 related_versions: []
 collected_at: 2026-11-05
-last_checked_at: 2026-11-05
+last_checked_at: 2026-11-08
 content_verified: false
 identifier_verified: crossref
-retraction_checked: 2026-11-05
+retraction_checked: 2026-11-08
 ---
 
 # Retrodicting Chaotic Systems: An Algorithmic Information Theory Approach
@@ -73,3 +73,4 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 - arXiv: https://arxiv.org/abs/2507.04780
 - OpenAlex: https://openalex.org/W4415348281
 - Metadata kaynakları: openalex:W4415348281 (toplama: 2026-11-05)
+

@@ -75,9 +75,13 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **3**, alt teknolojiler dahil: **3**.
+Arşivdeki kayıtlar — bu düğüm: **7**, alt teknolojiler dahil: **7**.
 
+- [H^2MARL: Hierarchical Heterogeneous Multi-agent Reinforcement Learning for Humanoid Robot Control](Arastirmalar/2026-Hu-2MARL-Hierarchical-Heterogeneous-Multi.md) — Hu vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [Regulating Autonomous Mobility-on-Demand Operators with Fixed and Adaptive Penalties: A Multi-Agent Reinforcement Learning Approach](Arastirmalar/2026-Kugler-Regulating-Autonomous-Mobility-Demand.md) — Kügler vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [JHiMA-WebRL: A Joint Hierarchical Multi-Agent Reinforcement Learning Framework for Long-Horizon Web Tasks](Arastirmalar/2026-Mondal-JHiMA-WebRL-Joint-Hierarchical.md) — Mondal vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [Cooperative Multi-Agent Reinforcement Learning via Epigraph-Form Guided Exploration](Arastirmalar/2026-Son-Cooperative-Multi-Agent-Reinforcement.md) — Son vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [SEER: A Scalable Event-Driven Runtime for Parallel Execution of Multi-Agent Reinforcement Learning Environments](Arastirmalar/2026-Su-SEER-Scalable-Event-Driven.md) — Su vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [Safeguarding Multi-Agent Reinforcement Learning for Connected and Automated Vehicles with Recursively Feasible Control Barrier Functions](Arastirmalar/2026-Xu-Safeguarding-Multi-Agent-Reinforcement.md) — Xu vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [Cooperative Multi-Agent Reinforcement Learning with Submodular Trajectory Rewards](Arastirmalar/2026-Zolfimoselo-Cooperative-Multi-Agent-Reinforcemen.md) — Zolfimoselo vd. (2026) · *arXiv* · ön baskı / hakemsiz
 <!-- AUTO:RESEARCH:END -->
@@ -89,6 +93,10 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [SEER: A Scalable Event-Driven Runtime for Parallel Execution of Multi-Agent Reinforcement Learning Environments](Arastirmalar/2026-Su-SEER-Scalable-Event-Driven.md) — Su vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [H^2MARL: Hierarchical Heterogeneous Multi-agent Reinforcement Learning for Humanoid Robot Control](Arastirmalar/2026-Hu-2MARL-Hierarchical-Heterogeneous-Multi.md) — Hu vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [Regulating Autonomous Mobility-on-Demand Operators with Fixed and Adaptive Penalties: A Multi-Agent Reinforcement Learning Approach](Arastirmalar/2026-Kugler-Regulating-Autonomous-Mobility-Demand.md) — Kügler vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [Cooperative Multi-Agent Reinforcement Learning via Epigraph-Form Guided Exploration](Arastirmalar/2026-Son-Cooperative-Multi-Agent-Reinforcement.md) — Son vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [JHiMA-WebRL: A Joint Hierarchical Multi-Agent Reinforcement Learning Framework for Long-Horizon Web Tasks](Arastirmalar/2026-Mondal-JHiMA-WebRL-Joint-Hierarchical.md) — Mondal vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [Safeguarding Multi-Agent Reinforcement Learning for Connected and Automated Vehicles with Recursively Feasible Control Barrier Functions](Arastirmalar/2026-Xu-Safeguarding-Multi-Agent-Reinforcement.md) — Xu vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [Cooperative Multi-Agent Reinforcement Learning with Submodular Trajectory Rewards](Arastirmalar/2026-Zolfimoselo-Cooperative-Multi-Agent-Reinforcemen.md) — Zolfimoselo vd. (2026) · *arXiv* · ön baskı / hakemsiz

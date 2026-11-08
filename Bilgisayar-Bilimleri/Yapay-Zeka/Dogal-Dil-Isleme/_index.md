@@ -86,7 +86,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **3**.
+
+- [From Manual Search to Artificial Intelligence: A Methodological Framework for Developing Patient Journey Models from Electronic Health Records Using Natural Language Processing](Arastirmalar/2026-Zhang-From-Manual-Search-Artificial.md) — Zhang vd. (2026) · *Healthcare* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -94,7 +96,11 @@ Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
-_Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini göstermez; ön baskılar hakemli değildir._
+Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
+
+- [From Manual Search to Artificial Intelligence: A Methodological Framework for Developing Patient Journey Models from Electronic Health Records Using Natural Language Processing](Arastirmalar/2026-Zhang-From-Manual-Search-Artificial.md) — Zhang vd. (2026) · *Healthcare* · hakemli
+- [Automated Prioritization for Monitoring and Tracking Service Requests using Named Entity Recognition Technique](Bilgi-Cikarimi/Adlandirilmis-Varlik-Tanima/Arastirmalar/2026-Mokarat-Automated-Prioritization-for-Monitoring.md) — Mokarat (2026) · *Journal of Applied Informatics and Technology* · hakemli
+- [Comparative Analysis of Transformer-Based Models for Extracting Skills from Information Technology Job Posting using Named Entity Recognition](Bilgi-Cikarimi/Adlandirilmis-Varlik-Tanima/Arastirmalar/2026-Ruangsiriwattanakul-Comparative-Analysis-Transfo.md) — Ruangsiriwattanakul (2026) · *Journal of Applied Informatics and Technology* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

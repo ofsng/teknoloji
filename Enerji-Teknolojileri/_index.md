@@ -16,6 +16,7 @@ created: 2026-11-05
 layout: 2
 content_status: scope_note
 content_sources: []
+maintain_skip_until: 2026-12-08
 ---
 
 # Enerji Teknolojileri (Energy Technologies)
@@ -83,7 +84,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **7**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -91,7 +92,15 @@ Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
-_Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini göstermez; ön baskılar hakemli değildir._
+Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
+
+- [Industrial energy efficiency starts with the team that operates the plant rather than with the purchase of new equipment](Enerji-Verimliligi/Endustriyel-Enerji-Verimliligi/Arastirmalar/2026-Santos-Industrial-energy-efficiency-starts.md) — Santos (2026) · *RCMOS - Revista Científica Multidisciplinar O Saber* · hakemli
+- [Comparative Exergoeconomic Analysis of Hybrid Systems Integrating Chemical Looping Combustion and Solid Oxide Fuel Cell for Low-Carbon Methanol and Power Cogeneration](Hidrojen-Teknolojileri/Yakit-Hucreleri/Kati-Oksit-Yakit-Hucreleri/Arastirmalar/2026-Hao-Comparative-Exergoeconomic-Analysis-Hybrid.md) — Hao vd. (2026) · *ACS Sustainable Chemistry & Engineering* · hakemli
+- [Evaluation of a Dye-Sensitized Solar Cell (DSSC) device based on Agaricus bisporus extract](Yenilenebilir-Enerji/Gunes-Enerjisi/Fotovoltaik/Boya-Duyarli-Gunes-Hucreleri/Arastirmalar/2026-Zavala-Barba-Evaluation-Dye-Sensitized-Solar.md) — Zavala-Barba vd. (2026) · *ECORFAN Journal Republic of Guatemala* · hakemli
+- [Fabrication, Transportation, and Installation of Fixed and Floating Offshore Wind Turbines: A State of the Art Review](Yenilenebilir-Enerji/Ruzgar-Enerjisi/Deniz-Ustu-Ruzgar/Yuzer-Deniz-Ustu-Ruzgar/Arastirmalar/2026-Hermanto-Fabrication-Transportation-and-Installa.md) — Hermanto vd. (2026) · *Maritime Park Journal of Maritime Technology and Society* · hakemli
+- [Titanium-Based Binary (TiN/316L) and Ternary Nitride (TiAL(x:y)N/316L) Coatings Systems for Proton Exchange Membrane Fuel Cell Metallic Bipolar Plates](Hidrojen-Teknolojileri/Yakit-Hucreleri/Proton-Degisim-Membranli-Yakit-Hucreleri/Arastirmalar/2026-Arafat-Titanium-Based-Binary-TiN.md) — Arafat vd. (2026) · *Journal of Manufacturing and Materials Processing* · hakemli
+- [Improving the Efficiency of Horizontal-Axis Wind Turbines Using High-Lift Devices](Yenilenebilir-Enerji/Ruzgar-Enerjisi/Yatay-Eksenli-Ruzgar-Turbinleri/Arastirmalar/2026-M-Improving-the-Efficiency-Horizontal.md) — M vd. (2026) · *Semarak Engineering Journal* · hakemli
+- [Dynamic Performance Assessment of a PEMFC-Assisted Ground Source Heat Pump System with Cascade Waste Heat Recovery in Severe Cold Regions](Yenilenebilir-Enerji/Jeotermal-Enerji/Toprak-Kaynakli-Isi-Pompalari/Arastirmalar/2026-Qi-Dynamic-Performance-Assessment-PEMFC.md) — Qi vd. (2026) · *Processes* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

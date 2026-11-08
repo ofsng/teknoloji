@@ -79,7 +79,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -87,7 +87,10 @@ Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
-_Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini göstermez; ön baskılar hakemli değildir._
+Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
+
+- [Comparative Exergoeconomic Analysis of Hybrid Systems Integrating Chemical Looping Combustion and Solid Oxide Fuel Cell for Low-Carbon Methanol and Power Cogeneration](Kati-Oksit-Yakit-Hucreleri/Arastirmalar/2026-Hao-Comparative-Exergoeconomic-Analysis-Hybrid.md) — Hao vd. (2026) · *ACS Sustainable Chemistry & Engineering* · hakemli
+- [Titanium-Based Binary (TiN/316L) and Ternary Nitride (TiAL(x:y)N/316L) Coatings Systems for Proton Exchange Membrane Fuel Cell Metallic Bipolar Plates](Proton-Degisim-Membranli-Yakit-Hucreleri/Arastirmalar/2026-Arafat-Titanium-Based-Binary-TiN.md) — Arafat vd. (2026) · *Journal of Manufacturing and Materials Processing* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

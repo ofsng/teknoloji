@@ -16,6 +16,7 @@ created: 2026-11-05
 layout: 2
 content_status: scope_note
 content_sources: []
+maintain_skip_until: 2026-12-08
 ---
 
 # Bilgisayar Bilimleri (Computer Science)
@@ -89,7 +90,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **22**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **60**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -99,14 +100,14 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
-- [Interpretable Early Termination of Web Navigation Agents via Closed Sequential Pattern Mining](Veritabanlari-ve-Bilgi-Sistemleri/Veri-Madenciligi/Sirali-Oruntu-Madenciligi/Arastirmalar/2026-Talavera-Interpretable-Early-Termination-Web.md) — Talavera vd. (2026) · *arXiv* · ön baskı / hakemsiz
-- [Leakage-free evaluation of residual graph convolutional networks for network intrusion detection](Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Cizge-Sinir-Aglari/Cizge-Evrisimli-Aglar/Arastirmalar/2026-Iqbal-Leakage-free-evaluation-residual.md) — Iqbal (2026) · *arXiv* · ön baskı / hakemsiz
-- [SWAP-INR: Implicit Neural Representation with Switchable Attention Paths for Time-varying Multivariate Scientific Data Compression](Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Ortuk-Sinirsel-Temsiller/Arastirmalar/2026-Son-SWAP-INR-Implicit-Neural.md) — Son vd. (2026) · *arXiv* · ön baskı / hakemsiz
-- [Mitigating Spurious Invariance in Contrastive Learning: A Probabilistic Self-Supervised Learning Framework for Medical Image Analysis](Yapay-Zeka/Makine-Ogrenmesi/Oz-Gozetimli-Ogrenme/Karsitlikli-Ogrenme/Arastirmalar/2026-Wei-Mitigating-Spurious-Invariance-Contrastive.md) — Wei vd. (2026) · *IEEE Transactions on Medical Imaging, vol. 45, no. 7, pp. 3862-3877, 2026* · hakemli
-- [JHiMA-WebRL: A Joint Hierarchical Multi-Agent Reinforcement Learning Framework for Long-Horizon Web Tasks](Yapay-Zeka/Makine-Ogrenmesi/Pekistirmeli-Ogrenme/Cok-Etmenli-Pekistirmeli-Ogrenme/Arastirmalar/2026-Mondal-JHiMA-WebRL-Joint-Hierarchical.md) — Mondal vd. (2026) · *arXiv* · ön baskı / hakemsiz
-- [Safeguarding Multi-Agent Reinforcement Learning for Connected and Automated Vehicles with Recursively Feasible Control Barrier Functions](Yapay-Zeka/Makine-Ogrenmesi/Pekistirmeli-Ogrenme/Cok-Etmenli-Pekistirmeli-Ogrenme/Arastirmalar/2026-Xu-Safeguarding-Multi-Agent-Reinforcement.md) — Xu vd. (2026) · *arXiv* · ön baskı / hakemsiz
-- [Cooperative Multi-Agent Reinforcement Learning with Submodular Trajectory Rewards](Yapay-Zeka/Makine-Ogrenmesi/Pekistirmeli-Ogrenme/Cok-Etmenli-Pekistirmeli-Ogrenme/Arastirmalar/2026-Zolfimoselo-Cooperative-Multi-Agent-Reinforcemen.md) — Zolfimoselo vd. (2026) · *arXiv* · ön baskı / hakemsiz
-- [Reconstructing Fraudulent Strategies in Online Payments via Interpretable Inverse Reinforcement Learning](Yapay-Zeka/Makine-Ogrenmesi/Pekistirmeli-Ogrenme/Ters-Pekistirmeli-Ogrenme/Arastirmalar/2026-He-Reconstructing-Fraudulent-Strategies-Online.md) — He vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [SoK: Post-Quantum Cryptography (PQC) Integration in Software Development: Approaches, Gaps, and Future Directions](Kriptografi/Kuantum-Sonrasi-Kriptografi/Arastirmalar/2026-N-SoK-Post-Quantum-Cryptography.md) — N. vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [SEER: A Scalable Event-Driven Runtime for Parallel Execution of Multi-Agent Reinforcement Learning Environments](Yapay-Zeka/Makine-Ogrenmesi/Pekistirmeli-Ogrenme/Cok-Etmenli-Pekistirmeli-Ogrenme/Arastirmalar/2026-Su-SEER-Scalable-Event-Driven.md) — Su vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [FedReason: Large Language Models as Weight-Space Meta-Aggregators for Heterogeneous Federated Learning](Yapay-Zeka/Makine-Ogrenmesi/Temel-Modeller/Buyuk-Dil-Modelleri/Arastirmalar/2026-Ruzbahani-FedReason-Large-Language-Models.md) — Ruzbahani vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [Benchmarking Large Language Models on Heterogeneous Cognitive and Biomedical Knowledge Graphs: The Role of Graph Grounding in Multi-Hop Reasoning and Hallucination Mitigation](Yapay-Zeka/Makine-Ogrenmesi/Temel-Modeller/Buyuk-Dil-Modelleri/Arastirmalar/2026-Sarabadani-Benchmarking-Large-Language-Models.md) — Sarabadani vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [Encoding and Propagation of Grammatical Number in Large Language Models](Yapay-Zeka/Makine-Ogrenmesi/Temel-Modeller/Buyuk-Dil-Modelleri/Arastirmalar/2026-Solinsky-Encoding-and-Propagation-Grammatical.md) — Solinsky vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [When, Where, How: Active In-Context Learning for Tabular Foundation Models](Yapay-Zeka/Makine-Ogrenmesi/Temel-Modeller/Buyuk-Dil-Modelleri/Baglam-Ici-Ogrenme/Arastirmalar/2026-Frey-When-Where-How-Active.md) — Frey (2026) · *arXiv* · ön baskı / hakemsiz
+- [CacheGraft: Enhancing Retrieval-Augmented Generation via Latent-Space Document Enrichment](Yapay-Zeka/Makine-Ogrenmesi/Temel-Modeller/Buyuk-Dil-Modelleri/Erisimle-Zenginlestirilmis-Uretim/Arastirmalar/2026-Lakshman-CacheGraft-Enhancing-Retrieval-Augmente.md) — Lakshman vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [ZeroRAG: Adaptive Semantic Peer Routing for Decentralized Retrieval-Augmented Generation](Yapay-Zeka/Makine-Ogrenmesi/Temel-Modeller/Buyuk-Dil-Modelleri/Erisimle-Zenginlestirilmis-Uretim/Arastirmalar/2026-Neague-ZeroRAG-Adaptive-Semantic-Peer.md) — Neague vd. (2026) · *arXiv*
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

@@ -76,7 +76,13 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **5**, alt teknolojiler dahil: **5**.
+
+- [Signed but Steerable: Measuring and Closing the Text-Vector Integrity Gap in Offline Retrieval-Augmented Generation](Arastirmalar/2026-Feretzakis-Signed-but-Steerable-Measuring.md) — Feretzakis vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [CacheGraft: Enhancing Retrieval-Augmented Generation via Latent-Space Document Enrichment](Arastirmalar/2026-Lakshman-CacheGraft-Enhancing-Retrieval-Augmente.md) — Lakshman vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [ZeroRAG: Adaptive Semantic Peer Routing for Decentralized Retrieval-Augmented Generation](Arastirmalar/2026-Neague-ZeroRAG-Adaptive-Semantic-Peer.md) — Neague vd. (2026) · *arXiv*
+- [Embodied RAG++: Retrieval-Augmented Generation From What Exists to What Works in Embodied Scenes](Arastirmalar/2026-Yang-Embodied-RAG-Retrieval-Augmented.md) — Yang vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [Weaver: Weaving Preference Evidence through Incremental Reasoning for Personalized Retrieval-Augmented Generation](Arastirmalar/2026-Zheng-Weaver-Weaving-Preference-Evidence.md) — Zheng vd. (2026) · *arXiv* · ön baskı / hakemsiz
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -84,7 +90,13 @@ Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
-_Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini göstermez; ön baskılar hakemli değildir._
+Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
+
+- [CacheGraft: Enhancing Retrieval-Augmented Generation via Latent-Space Document Enrichment](Arastirmalar/2026-Lakshman-CacheGraft-Enhancing-Retrieval-Augmente.md) — Lakshman vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [ZeroRAG: Adaptive Semantic Peer Routing for Decentralized Retrieval-Augmented Generation](Arastirmalar/2026-Neague-ZeroRAG-Adaptive-Semantic-Peer.md) — Neague vd. (2026) · *arXiv*
+- [Embodied RAG++: Retrieval-Augmented Generation From What Exists to What Works in Embodied Scenes](Arastirmalar/2026-Yang-Embodied-RAG-Retrieval-Augmented.md) — Yang vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [Signed but Steerable: Measuring and Closing the Text-Vector Integrity Gap in Offline Retrieval-Augmented Generation](Arastirmalar/2026-Feretzakis-Signed-but-Steerable-Measuring.md) — Feretzakis vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [Weaver: Weaving Preference Evidence through Incremental Reasoning for Personalized Retrieval-Augmented Generation](Arastirmalar/2026-Zheng-Weaver-Weaving-Preference-Evidence.md) — Zheng vd. (2026) · *arXiv* · ön baskı / hakemsiz
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

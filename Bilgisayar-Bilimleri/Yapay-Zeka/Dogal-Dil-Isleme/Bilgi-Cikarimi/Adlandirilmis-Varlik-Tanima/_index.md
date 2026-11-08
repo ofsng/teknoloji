@@ -75,7 +75,10 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **2**.
+
+- [Automated Prioritization for Monitoring and Tracking Service Requests using Named Entity Recognition Technique](Arastirmalar/2026-Mokarat-Automated-Prioritization-for-Monitoring.md) — Mokarat (2026) · *Journal of Applied Informatics and Technology* · hakemli
+- [Comparative Analysis of Transformer-Based Models for Extracting Skills from Information Technology Job Posting using Named Entity Recognition](Arastirmalar/2026-Ruangsiriwattanakul-Comparative-Analysis-Transfo.md) — Ruangsiriwattanakul (2026) · *Journal of Applied Informatics and Technology* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -83,7 +86,10 @@ Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
-_Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini göstermez; ön baskılar hakemli değildir._
+Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
+
+- [Automated Prioritization for Monitoring and Tracking Service Requests using Named Entity Recognition Technique](Arastirmalar/2026-Mokarat-Automated-Prioritization-for-Monitoring.md) — Mokarat (2026) · *Journal of Applied Informatics and Technology* · hakemli
+- [Comparative Analysis of Transformer-Based Models for Extracting Skills from Information Technology Job Posting using Named Entity Recognition](Arastirmalar/2026-Ruangsiriwattanakul-Comparative-Analysis-Transfo.md) — Ruangsiriwattanakul (2026) · *Journal of Applied Informatics and Technology* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

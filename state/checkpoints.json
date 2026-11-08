@@ -1,17 +1,86 @@
 {
  "arxiv": {
   "day": null,
-  "last_complete_day": "2026-11-03",
-  "start": 0
+  "first_pass": {
+   "2026-11-06": "2026-11-08"
+  },
+  "last_complete_day": "2026-11-06",
+  "revisited": {},
+  "start": 0,
+  "truncated_days": {}
  },
  "openalex-biorxiv-medrxiv": {
   "day": null,
-  "last_complete_day": "2026-11-02",
-  "page": 1
+  "first_pass": {
+   "2026-11-05": "2026-11-08"
+  },
+  "last_complete_day": "2026-11-05",
+  "page": 1,
+  "revisited": {},
+  "truncated_days": {}
  },
  "openalex-journal": {
   "day": null,
-  "last_complete_day": "2026-11-02",
-  "page": 1
+  "first_pass": {
+   "2026-11-05": "2026-11-08"
+  },
+  "last_complete_day": "2026-11-05",
+  "page": 1,
+  "revisited": {},
+  "truncated_days": {}
+ },
+ "recovery": {
+  "cp": {
+   "day": null,
+   "page": 1,
+   "start": 0
+  },
+  "done": [
+   {
+    "day": "2026-11-03",
+    "source": "arxiv"
+   },
+   {
+    "day": "2026-11-02",
+    "source": "openalex",
+    "stream": "journal"
+   },
+   {
+    "day": "2026-11-02",
+    "source": "openalex",
+    "stream": "biorxiv-medrxiv"
+   },
+   {
+    "day": "2026-11-04",
+    "source": "arxiv"
+   },
+   {
+    "day": "2026-11-03",
+    "source": "openalex",
+    "stream": "journal"
+   },
+   {
+    "day": "2026-11-03",
+    "source": "openalex",
+    "stream": "biorxiv-medrxiv"
+   },
+   {
+    "day": "2026-11-05",
+    "source": "arxiv"
+   },
+   {
+    "day": "2026-11-04",
+    "source": "openalex",
+    "stream": "journal"
+   },
+   {
+    "day": "2026-11-04",
+    "source": "openalex",
+    "stream": "biorxiv-medrxiv"
+   }
+  ],
+  "jobs": [],
+  "planned": true,
+  "planned_at": "2026-11-08"
  }
 }

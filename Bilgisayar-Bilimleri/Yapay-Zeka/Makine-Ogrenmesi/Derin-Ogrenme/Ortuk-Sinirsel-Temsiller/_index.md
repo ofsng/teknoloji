@@ -75,9 +75,10 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **2**.
 
 - [SWAP-INR: Implicit Neural Representation with Switchable Attention Paths for Time-varying Multivariate Scientific Data Compression](Arastirmalar/2026-Son-SWAP-INR-Implicit-Neural.md) — Son vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [DSIN: dynamic system-empowered implicit neural representation for medical image compression](Arastirmalar/2026-Song-DSIN-dynamic-system-empowered.md) — Song vd. (2026) · *Communications Engineering* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -88,6 +89,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
 - [SWAP-INR: Implicit Neural Representation with Switchable Attention Paths for Time-varying Multivariate Scientific Data Compression](Arastirmalar/2026-Son-SWAP-INR-Implicit-Neural.md) — Son vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [DSIN: dynamic system-empowered implicit neural representation for medical image compression](Arastirmalar/2026-Song-DSIN-dynamic-system-empowered.md) — Song vd. (2026) · *Communications Engineering* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

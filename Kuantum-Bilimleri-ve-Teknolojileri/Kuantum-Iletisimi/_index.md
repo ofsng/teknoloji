@@ -80,7 +80,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **3**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -90,6 +90,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Scalable entanglement distribution framework for hybrid quantum networks](Kuantum-Aglari/Arastirmalar/2026-Zhao-Scalable-entanglement-distribution-framewor.md) — Zhao vd. (2026) · *Physical Review A* · hakemli
 - [Decoy-state quantum key distribution with a leaky Mach-Zehnder receiver](Kuantum-Anahtar-Dagitimi/Arastirmalar/2026-Mizusawa-Decoy-state-quantum-key.md) — Mizusawa vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [Long-lived quantum memories with rare-earth ions doped in crystals](Kuantum-Tekrarlayicilar/Kuantum-Bellekler/Arastirmalar/2026-Sa-Long-lived-quantum-memories.md) — Sa vd. (2026) · *Quantum Frontiers* · hakemli
 <!-- AUTO:RECENT:END -->

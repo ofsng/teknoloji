@@ -90,7 +90,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
-- [Retrodicting Chaotic Systems: An Algorithmic Information Theory Approach](Algoritmik-Bilgi-Teorisi/Arastirmalar/2026-Dingle-Retrodicting-Chaotic-Systems-Algorithmic.md) — Dingle vd. (2026) · *Entropy* · hakemli
+- [Retrodicting Chaotic Systems: An Algorithmic Information Theory Approach](Algoritmik-Bilgi-Teorisi/Arastirmalar/2026-Dingle-Retrodicting-Chaotic-Systems-Algorithmic.md) — Dingle vd. (2026) · *Entropy* · hakemli · atıf: 1
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

@@ -85,10 +85,16 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **2**.
+Arşivdeki kayıtlar — bu düğüm: **8**, alt teknolojiler dahil: **16**.
 
+- [How Well Can Large Language Models Impersonate Individual Authors? A Comparative Evaluation](Arastirmalar/2026-Gupta-How-Well-Can-Large.md) — Gupta vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [AdSteer: Native Advertising in Large Language Model Generation](Arastirmalar/2026-Lin-AdSteer-Native-Advertising-Large.md) — Lin vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [Graph-Mediated Large Language Model Systems in the Agentic Era: Reasoning, Knowledge, Retrieval, Execution, and Coordination](Arastirmalar/2026-Liu-Graph-Mediated-Large-Language.md) — Liu vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [FedReason: Large Language Models as Weight-Space Meta-Aggregators for Heterogeneous Federated Learning](Arastirmalar/2026-Ruzbahani-FedReason-Large-Language-Models.md) — Ruzbahani vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [Benchmarking Large Language Models on Heterogeneous Cognitive and Biomedical Knowledge Graphs: The Role of Graph Grounding in Multi-Hop Reasoning and Hallucination Mitigation](Arastirmalar/2026-Sarabadani-Benchmarking-Large-Language-Models.md) — Sarabadani vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [Encoding and Propagation of Grammatical Number in Large Language Models](Arastirmalar/2026-Solinsky-Encoding-and-Propagation-Grammatical.md) — Solinsky vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [Large Language Model-Assisted Adaptive Heuristic Search for Agile Earth Observation Satellite Scheduling](Arastirmalar/2026-Wang-Large-Language-Model-Assisted.md) — Wang vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [Boundary-stratified safety evaluation of large language models for clinical decision support: a synthetic benchmark in chronic kidney disease renoprotective therapy](Arastirmalar/2026-Yeh-Boundary-stratified-safety-evaluation.md) — Yeh vd. (2026) · *Frontiers in Medicine* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -98,8 +104,14 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
-- [AdSteer: Native Advertising in Large Language Model Generation](Arastirmalar/2026-Lin-AdSteer-Native-Advertising-Large.md) — Lin vd. (2026) · *arXiv* · ön baskı / hakemsiz
-- [Large Language Model-Assisted Adaptive Heuristic Search for Agile Earth Observation Satellite Scheduling](Arastirmalar/2026-Wang-Large-Language-Model-Assisted.md) — Wang vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [FedReason: Large Language Models as Weight-Space Meta-Aggregators for Heterogeneous Federated Learning](Arastirmalar/2026-Ruzbahani-FedReason-Large-Language-Models.md) — Ruzbahani vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [Benchmarking Large Language Models on Heterogeneous Cognitive and Biomedical Knowledge Graphs: The Role of Graph Grounding in Multi-Hop Reasoning and Hallucination Mitigation](Arastirmalar/2026-Sarabadani-Benchmarking-Large-Language-Models.md) — Sarabadani vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [Encoding and Propagation of Grammatical Number in Large Language Models](Arastirmalar/2026-Solinsky-Encoding-and-Propagation-Grammatical.md) — Solinsky vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [When, Where, How: Active In-Context Learning for Tabular Foundation Models](Baglam-Ici-Ogrenme/Arastirmalar/2026-Frey-When-Where-How-Active.md) — Frey (2026) · *arXiv* · ön baskı / hakemsiz
+- [CacheGraft: Enhancing Retrieval-Augmented Generation via Latent-Space Document Enrichment](Erisimle-Zenginlestirilmis-Uretim/Arastirmalar/2026-Lakshman-CacheGraft-Enhancing-Retrieval-Augmente.md) — Lakshman vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [ZeroRAG: Adaptive Semantic Peer Routing for Decentralized Retrieval-Augmented Generation](Erisimle-Zenginlestirilmis-Uretim/Arastirmalar/2026-Neague-ZeroRAG-Adaptive-Semantic-Peer.md) — Neague vd. (2026) · *arXiv*
+- [Embodied RAG++: Retrieval-Augmented Generation From What Exists to What Works in Embodied Scenes](Erisimle-Zenginlestirilmis-Uretim/Arastirmalar/2026-Yang-Embodied-RAG-Retrieval-Augmented.md) — Yang vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [Provable Zeroth-Order Safe Exploration for Reinforcement Learning from Human Feedback](LLM-Hizalama/Insan-Geri-Bildiriminden-Pekistirmeli-Ogrenme/Arastirmalar/2026-Chen-Provable-Zeroth-Order-Safe.md) — Chen vd. (2026) · *arXiv* · ön baskı / hakemsiz
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

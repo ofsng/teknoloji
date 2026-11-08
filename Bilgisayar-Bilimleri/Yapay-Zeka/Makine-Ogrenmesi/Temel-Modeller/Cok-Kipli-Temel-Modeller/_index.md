@@ -78,7 +78,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **4**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -88,6 +88,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Concertina: Embodying Manipulation and Cognition in One Diffusion Vision-Language Model](Goru-Dil-Modelleri/Arastirmalar/2026-Wang-Concertina-Embodying-Manipulation-and.md) — Wang vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [Batch-Conditioned Semantic Anchors for Robust Transductive Adaptation of Vision--Language Models](Goru-Dil-Modelleri/Arastirmalar/2026-Mohammad-Batch-Conditioned-Semantic-Anchors.md) — Mohammad vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [Traffic-VL: Reinforced Vision-Language Models for Generalizable End-to-End Traffic Signal Control](Goru-Dil-Modelleri/Arastirmalar/2026-Zou-Traffic-Reinforced-Vision-Language.md) — Zou vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [Co-Occurrence Priors Override Visual Spatial Evidence: Understanding False Alarms in Vision-Language Models for Construction Struck-By Hazard Detection](Goru-Dil-Modelleri/Arastirmalar/2026-Zhou-Occurrence-Priors-Override-Visual.md) — Zhou (2026) · *arXiv* · ön baskı / hakemsiz
 <!-- AUTO:RECENT:END -->
 
