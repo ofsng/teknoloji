@@ -1874,7 +1874,8 @@
    ]
   },
   "key": "peripheral blood mononuclear cell",
-  "literature_count": null,
+  "literature_checked": "2026-11-08",
+  "literature_count": 92501,
   "notes": [],
   "overlaps": [
    {
@@ -1978,7 +1979,8 @@
    ]
   },
   "key": "phase change material",
-  "literature_count": null,
+  "literature_checked": "2026-11-08",
+  "literature_count": 52468,
   "notes": [],
   "overlaps": [
    {
@@ -2073,7 +2075,8 @@
    ]
   },
   "key": "temporal convolutional network",
-  "literature_count": null,
+  "literature_checked": "2026-11-08",
+  "literature_count": 9251,
   "notes": [
    "Önerilen üst düğüm ana disiplin; yeni alt disiplin yapısal değişikliktir, insan incelemesi gerekir."
   ],
@@ -2180,7 +2183,8 @@
    ]
   },
   "key": "x ray photoelectron spectroscopy",
-  "literature_count": null,
+  "literature_checked": "2026-11-08",
+  "literature_count": 179559,
   "notes": [],
   "overlaps": [
    {
