@@ -29740,6 +29740,57 @@
   "source": "openalex",
   "title": "Acute Stress Detection through Typing Behaviors, Smartphone Sensors and Machine Learning Techniques"
  },
+ "doi:10.17586/2220-8054-2026-17-5-572-577": {
+  "added": "2026-11-08",
+  "cited": 0,
+  "ids": {
+   "doi": "10.17586/2220-8054-2026-17-5-572-577",
+   "openalex": "W7225417348"
+  },
+  "key": "doi:10.17586/2220-8054-2026-17-5-572-577",
+  "peer_reviewed": true,
+  "primary": "inverse-problems",
+  "published": "2026-11-04",
+  "related": [],
+  "score": 7.9,
+  "seen": 1,
+  "source": "openalex",
+  "title": "Dynamic inverse problem for a doubly infinite discrete Schrödinger operator"
+ },
+ "doi:10.17586/2220-8054-2026-17-5-647-654": {
+  "added": "2026-11-08",
+  "cited": 0,
+  "ids": {
+   "doi": "10.17586/2220-8054-2026-17-5-647-654",
+   "openalex": "W7225395974"
+  },
+  "key": "doi:10.17586/2220-8054-2026-17-5-647-654",
+  "peer_reviewed": true,
+  "primary": "dye-sensitized-solar-cells",
+  "published": "2026-11-04",
+  "related": [],
+  "score": 10.89,
+  "seen": 1,
+  "source": "openalex",
+  "title": "Solar-driven water splitting using dye-sensitized solar cells and earth-abundant Fe-CoNiPt electrocatalysts"
+ },
+ "doi:10.17586/2220-8054-2026-17-5-682-688": {
+  "added": "2026-11-08",
+  "cited": 0,
+  "ids": {
+   "doi": "10.17586/2220-8054-2026-17-5-682-688",
+   "openalex": "W7225395412"
+  },
+  "key": "doi:10.17586/2220-8054-2026-17-5-682-688",
+  "peer_reviewed": true,
+  "primary": "composite-materials",
+  "published": "2026-11-04",
+  "related": [],
+  "score": 7.9,
+  "seen": 1,
+  "source": "openalex",
+  "title": "Stokes phosphors in the KF-YF3 system for the development of composite materials for anti-counterfeiting"
+ },
  "doi:10.17587/mau.27.568-576": {
   "added": "2026-11-08",
   "cited": 0,
@@ -30513,23 +30564,6 @@
   "seen": 1,
   "source": "openalex",
   "title": "How Will the Food and Drug Administration Regulate Generative AI–Enabled Medical Devices?"
- },
- "doi:10.2196/89445": {
-  "added": "2026-11-08",
-  "cited": 0,
-  "ids": {
-   "doi": "10.2196/89445",
-   "openalex": "W7225099113"
-  },
-  "key": "doi:10.2196/89445",
-  "peer_reviewed": true,
-  "primary": "large-language-models",
-  "published": "2026-11-02",
-  "related": [],
-  "score": 10.61,
-  "seen": 1,
-  "source": "openalex",
-  "title": "Use of Large Language Models for Automated Short-Answer Question Grading in Second-Cycle Medical Education: Performance and Consistency Evaluation Study"
  },
  "doi:10.2196/94249": {
   "added": "2026-11-08",
@@ -31550,6 +31584,23 @@
   "seen": 1,
   "source": "openalex",
   "title": "Artificial intelligence for non-invasive imaging diagnosis of basal cell carcinoma: A systematic review"
+ },
+ "doi:10.30589/pgr.v10i3.1436": {
+  "added": "2026-11-08",
+  "cited": 0,
+  "ids": {
+   "doi": "10.30589/pgr.v10i3.1436",
+   "openalex": "W7225407480"
+  },
+  "key": "doi:10.30589/pgr.v10i3.1436",
+  "peer_reviewed": true,
+  "primary": "electric-vehicles",
+  "published": "2026-11-04",
+  "related": [],
+  "score": 10.7,
+  "seen": 1,
+  "source": "openalex",
+  "title": "The Paradox of Electric Vehicle Policy in Indonesia A Systems Perspective Analysis"
  },
  "doi:10.30606/rjti.v5i3.4772": {
   "added": "2026-11-08",
@@ -42477,6 +42528,23 @@
   "source": "openalex",
   "title": "A Lightweight Convolutional Neural Network for High-Accuracy Autism Spectrum Disorder Detection from Facial Images"
  },
+ "doi:10.38042/biotechstudies.157689": {
+  "added": "2026-11-08",
+  "cited": 0,
+  "ids": {
+   "doi": "10.38042/biotechstudies.157689",
+   "openalex": "W7225415802"
+  },
+  "key": "doi:10.38042/biotechstudies.157689",
+  "peer_reviewed": true,
+  "primary": "molecular-docking",
+  "published": "2026-11-04",
+  "related": [],
+  "score": 7.9,
+  "seen": 1,
+  "source": "openalex",
+  "title": "Molecular docking and in-vivo study of gonadotropin-releasing hormone (GnRH) of Cypriniformes, Siluriformes, and Anabantiformes for aquaculture applications"
+ },
  "doi:10.38124/ijisrt/26oct012": {
   "added": "2026-11-08",
   "cited": 0,
@@ -45516,6 +45584,25 @@
   "source": "openalex",
   "title": "Design and User Evaluation of a Mobile-Based Virtual Reality Application for English Vocabulary Learning in Elementary Students"
  },
+ "doi:10.62051/ijepes.v5n3.02": {
+  "added": "2026-11-08",
+  "cited": 0,
+  "ids": {
+   "doi": "10.62051/ijepes.v5n3.02",
+   "openalex": "W7225398091"
+  },
+  "key": "doi:10.62051/ijepes.v5n3.02",
+  "peer_reviewed": true,
+  "primary": "electric-vehicles",
+  "published": "2026-11-04",
+  "related": [
+   "reinforcement-learning"
+  ],
+  "score": 7.9,
+  "seen": 1,
+  "source": "openalex",
+  "title": "Battery Health-Aware Multi-Objective Reinforcement Learning for Electric Vehicle Energy Consumption Optimization"
+ },
  "doi:10.62132/ijdt.v9i4.424": {
   "added": "2026-11-08",
   "cited": 0,
@@ -46165,6 +46252,23 @@
   "source": "openalex",
   "title": "Uncovering disease progression trajectories across multiple timescales with hybrid ODE-mixture models"
  },
+ "doi:10.64898/2026.10.29.762989": {
+  "added": "2026-11-08",
+  "cited": 0,
+  "ids": {
+   "doi": "10.64898/2026.10.29.762989",
+   "openalex": "W7225233592"
+  },
+  "key": "doi:10.64898/2026.10.29.762989",
+  "peer_reviewed": false,
+  "primary": "transcriptomics",
+  "published": "2026-11-04",
+  "related": [],
+  "score": 8.55,
+  "seen": 1,
+  "source": "openalex",
+  "title": "Differential Gene Expression and Functional Enrichment Analysis of Breast Tumor and Normal Tissue RNA-seq Data: A Reanalysis of GEO Dataset GSE210787"
+ },
  "doi:10.64898/2026.10.30.26366925": {
   "added": "2026-11-08",
   "cited": 0,
@@ -46477,6 +46581,25 @@
   "source": "openalex",
   "title": "Biosensor-guided genome-wide CRISPR screens enable cis , cis -muconic acid overproduction in yeast"
  },
+ "doi:10.64898/2026.10.31.763278": {
+  "added": "2026-11-08",
+  "cited": 0,
+  "ids": {
+   "doi": "10.64898/2026.10.31.763278",
+   "openalex": "W7225224935"
+  },
+  "key": "doi:10.64898/2026.10.31.763278",
+  "peer_reviewed": false,
+  "primary": "convolutional-neural-networks",
+  "published": "2026-11-04",
+  "related": [
+   "image-segmentation"
+  ],
+  "score": 7.64,
+  "seen": 1,
+  "source": "openalex",
+  "title": "Automated Segmentation of the Hypothalamus: Associations of Age and Socioeconomic Status with Subunit Volumes in Cognitively Healthy Adults"
+ },
  "doi:10.64898/2026.10.31.763296": {
   "added": "2026-11-08",
   "cited": 0,
@@ -46510,6 +46633,40 @@
   "seen": 1,
   "source": "openalex",
   "title": "FedEpitope: Parameter-Efficient Federated Protein Language Models for Linear B-Cell Epitope Prediction"
+ },
+ "doi:10.64898/2026.10.31.763346": {
+  "added": "2026-11-08",
+  "cited": 0,
+  "ids": {
+   "doi": "10.64898/2026.10.31.763346",
+   "openalex": "W7225270430"
+  },
+  "key": "doi:10.64898/2026.10.31.763346",
+  "peer_reviewed": false,
+  "primary": "flow-cytometry",
+  "published": "2026-11-04",
+  "related": [],
+  "score": 10.3,
+  "seen": 1,
+  "source": "openalex",
+  "title": "Deep phenomics of human PBMCs using a 31-marker spectral flow cytometry panel"
+ },
+ "doi:10.64898/2026.10.31.763364": {
+  "added": "2026-11-08",
+  "cited": 0,
+  "ids": {
+   "doi": "10.64898/2026.10.31.763364",
+   "openalex": "W7225257582"
+  },
+  "key": "doi:10.64898/2026.10.31.763364",
+  "peer_reviewed": false,
+  "primary": "convolutional-neural-networks",
+  "published": "2026-11-04",
+  "related": [],
+  "score": 9.56,
+  "seen": 1,
+  "source": "openalex",
+  "title": "2D U-NET Deep Learning Architecture for Atherosclerotic Lesion Segmentation and Quantification"
  },
  "doi:10.64898/2026.10.31.763384": {
   "added": "2026-11-08",
@@ -46566,6 +46723,44 @@
   "source": "openalex",
   "title": "Simulating the dynamics of gene regulatory systems at cellular scale"
  },
+ "doi:10.64898/2026.11.01.763464": {
+  "added": "2026-11-08",
+  "cited": 0,
+  "ids": {
+   "doi": "10.64898/2026.11.01.763464",
+   "openalex": "W7225263373"
+  },
+  "key": "doi:10.64898/2026.11.01.763464",
+  "peer_reviewed": false,
+  "primary": "dna-methylation",
+  "published": "2026-11-04",
+  "related": [
+   "hidden-markov-models"
+  ],
+  "score": 7.66,
+  "seen": 1,
+  "source": "openalex",
+  "title": "The Segmentome: a novel representation of the DNA methylome identified by a Bayesian HMM framework"
+ },
+ "doi:10.64898/2026.11.01.763494": {
+  "added": "2026-11-08",
+  "cited": 0,
+  "ids": {
+   "doi": "10.64898/2026.11.01.763494",
+   "openalex": "W7225274719"
+  },
+  "key": "doi:10.64898/2026.11.01.763494",
+  "peer_reviewed": false,
+  "primary": "multi-omics",
+  "published": "2026-11-04",
+  "related": [
+   "transfer-learning"
+  ],
+  "score": 8.7,
+  "seen": 1,
+  "source": "openalex",
+  "title": "Layer-Specific Source-Anchored Transfer Learning for Multi-Omics Survival Prediction in Younger Breast Cancer Patients"
+ },
  "doi:10.64898/2026.11.01.763496": {
   "added": "2026-11-08",
   "cited": 0,
@@ -46601,6 +46796,23 @@
   "seen": 1,
   "source": "openalex",
   "title": "Quantum Dot-Based Non-invasive Monitoring of Sinusoidal Endothelial Scavenger Function in Steatohepatitis"
+ },
+ "doi:10.64898/2026.11.01.763512": {
+  "added": "2026-11-08",
+  "cited": 0,
+  "ids": {
+   "doi": "10.64898/2026.11.01.763512",
+   "openalex": "W7225236056"
+  },
+  "key": "doi:10.64898/2026.11.01.763512",
+  "peer_reviewed": false,
+  "primary": "vision-language-models",
+  "published": "2026-11-04",
+  "related": [],
+  "score": 8.19,
+  "seen": 1,
+  "source": "openalex",
+  "title": "Vision-language representations link food perception to subjective valuation"
  },
  "doi:10.64898/2026.11.01.763546": {
   "added": "2026-11-08",
@@ -46670,6 +46882,43 @@
   "source": "openalex",
   "title": "Pathology foundation-model embeddings reveal a morphological landscape of breast lesions beyond diagnostic categories"
  },
+ "doi:10.64898/2026.11.02.763225": {
+  "added": "2026-11-08",
+  "cited": 0,
+  "ids": {
+   "doi": "10.64898/2026.11.02.763225",
+   "openalex": "W7225231686"
+  },
+  "key": "doi:10.64898/2026.11.02.763225",
+  "peer_reviewed": false,
+  "primary": "spatial-transcriptomics",
+  "published": "2026-11-04",
+  "related": [
+   "rna-biology",
+   "transcriptomics"
+  ],
+  "score": 7.5,
+  "seen": 1,
+  "source": "openalex",
+  "title": "Single-probe, high-yield spatial mapping of diverse short RNA motifs"
+ },
+ "doi:10.64898/2026.11.02.763593": {
+  "added": "2026-11-08",
+  "cited": 0,
+  "ids": {
+   "doi": "10.64898/2026.11.02.763593",
+   "openalex": "W7225274404"
+  },
+  "key": "doi:10.64898/2026.11.02.763593",
+  "peer_reviewed": false,
+  "primary": "protein-language-models",
+  "published": "2026-11-04",
+  "related": [],
+  "score": 13.6,
+  "seen": 1,
+  "source": "openalex",
+  "title": "Omics-scale decoding of protein N-glycosylation using protein language model embeddings"
+ },
  "doi:10.64898/2026.11.02.763635": {
   "added": "2026-11-08",
   "cited": 0,
@@ -46689,6 +46938,40 @@
   "source": "openalex",
   "title": "GENOME ASSEMBLIES FOR 28 PHAEOSPHAERIACEAE ISOLATES FROM CANADA"
  },
+ "doi:10.64898/2026.11.02.763642": {
+  "added": "2026-11-08",
+  "cited": 0,
+  "ids": {
+   "doi": "10.64898/2026.11.02.763642",
+   "openalex": "W7225233767"
+  },
+  "key": "doi:10.64898/2026.11.02.763642",
+  "peer_reviewed": false,
+  "primary": "genome-assembly",
+  "published": "2026-11-04",
+  "related": [],
+  "score": 10.3,
+  "seen": 1,
+  "source": "openalex",
+  "title": "A chromosome-level genome assembly of an endangered large carnivore, the wolverine, Gulo gulo gulo (Linnaeus, 1758)"
+ },
+ "doi:10.64898/2026.11.02.763643": {
+  "added": "2026-11-08",
+  "cited": 0,
+  "ids": {
+   "doi": "10.64898/2026.11.02.763643",
+   "openalex": "W7225258036"
+  },
+  "key": "doi:10.64898/2026.11.02.763643",
+  "peer_reviewed": false,
+  "primary": "genome-assembly",
+  "published": "2026-11-04",
+  "related": [],
+  "score": 8.7,
+  "seen": 1,
+  "source": "openalex",
+  "title": "GeneFamHunter: annotation-independent recovery of divergent and tandemly arrayed gene-family members from genome assemblies"
+ },
  "doi:10.64898/2026.11.02.763720": {
   "added": "2026-11-08",
   "cited": 0,
@@ -46705,6 +46988,23 @@
   "seen": 1,
   "source": "openalex",
   "title": "A domain-general basal ganglia mechanism for inhibitory control during language comprehension"
+ },
+ "doi:10.64898/2026.11.02.763792": {
+  "added": "2026-11-08",
+  "cited": 0,
+  "ids": {
+   "doi": "10.64898/2026.11.02.763792",
+   "openalex": "W7225229104"
+  },
+  "key": "doi:10.64898/2026.11.02.763792",
+  "peer_reviewed": false,
+  "primary": "genome-assembly",
+  "published": "2026-11-04",
+  "related": [],
+  "score": 10.9,
+  "seen": 1,
+  "source": "openalex",
+  "title": "Four genome assemblies of new wild Gossypium hirsutum accessions from the Yucatán Peninsula, the center of domestication"
  },
  "doi:10.64898/2026.11.03.26367148": {
   "added": "2026-11-08",
@@ -46725,6 +47025,59 @@
   "source": "openalex",
   "title": "Community health workers’ experiences with a digital clinical decision support system for longitudinal hypertension and diabetes care in rural Lesotho: a mixed-"
  },
+ "doi:10.64898/2026.11.03.26367160": {
+  "added": "2026-11-08",
+  "cited": 0,
+  "ids": {
+   "doi": "10.64898/2026.11.03.26367160",
+   "openalex": "W7225275529"
+  },
+  "key": "doi:10.64898/2026.11.03.26367160",
+  "peer_reviewed": false,
+  "primary": "large-language-models",
+  "published": "2026-11-04",
+  "related": [],
+  "score": 15.06,
+  "seen": 1,
+  "source": "openalex",
+  "title": "A Reproducible Decomposed Large Language Model Pipeline for Structured Abstraction of Multimodal Neuroimaging Reports: Development and Independent Validation in"
+ },
+ "doi:10.64898/2026.11.03.26367200": {
+  "added": "2026-11-08",
+  "cited": 0,
+  "ids": {
+   "doi": "10.64898/2026.11.03.26367200",
+   "openalex": "W7225311810"
+  },
+  "key": "doi:10.64898/2026.11.03.26367200",
+  "peer_reviewed": false,
+  "primary": "brain-computer-interfaces",
+  "published": "2026-11-04",
+  "related": [],
+  "score": 9.2,
+  "seen": 1,
+  "source": "openalex",
+  "title": "False-Positive Calls of Reimplemented Published Analyses for Covert Command-Following on Electroencephalograms Recorded Without Study Commands"
+ },
+ "doi:10.64898/2026.11.03.763103": {
+  "added": "2026-11-08",
+  "cited": 0,
+  "ids": {
+   "doi": "10.64898/2026.11.03.763103",
+   "openalex": "W7225242813"
+  },
+  "key": "doi:10.64898/2026.11.03.763103",
+  "peer_reviewed": false,
+  "primary": "transcranial-magnetic-stimulation",
+  "published": "2026-11-04",
+  "related": [
+   "electroencephalography"
+  ],
+  "score": 10.33,
+  "seen": 1,
+  "source": "openalex",
+  "title": "Matching Corticospinal and Cortical Excitability along the motor cortex: TMS-EMG-EEG study"
+ },
  "doi:10.64898/2026.11.03.763565": {
   "added": "2026-11-08",
   "cited": 0,
@@ -46744,6 +47097,23 @@
   "source": "openalex",
   "title": "Wearable Estimation of Knee Joint Contact Forces: SiMPLeSENSE, a Simulated-IMU Pipeline Validated Against In Vivo Loads"
  },
+ "doi:10.64898/2026.11.03.763626": {
+  "added": "2026-11-08",
+  "cited": 0,
+  "ids": {
+   "doi": "10.64898/2026.11.03.763626",
+   "openalex": "W7225270411"
+  },
+  "key": "doi:10.64898/2026.11.03.763626",
+  "peer_reviewed": false,
+  "primary": "genome-assembly",
+  "published": "2026-11-04",
+  "related": [],
+  "score": 10.3,
+  "seen": 1,
+  "source": "openalex",
+  "title": "De novo genome assembly of the floating-hook moss Warnstorfia fluitans"
+ },
  "doi:10.64898/2026.11.03.763718": {
   "added": "2026-11-08",
   "cited": 0,
@@ -46760,6 +47130,42 @@
   "seen": 1,
   "source": "openalex",
   "title": "ADRA2B genetic polymorphism modulates vagus nerve stimulation response"
+ },
+ "doi:10.64898/2026.11.03.763780": {
+  "added": "2026-11-08",
+  "cited": 0,
+  "ids": {
+   "doi": "10.64898/2026.11.03.763780",
+   "openalex": "W7225231947"
+  },
+  "key": "doi:10.64898/2026.11.03.763780",
+  "peer_reviewed": false,
+  "primary": "long-read-sequencing",
+  "published": "2026-11-04",
+  "related": [],
+  "score": 10.3,
+  "seen": 1,
+  "source": "openalex",
+  "title": "Leveraging short and long-read sequencing to comprehensively characterize alternatively polyadenylated and alternatively spliced transcripts"
+ },
+ "doi:10.64898/2026.11.03.763890": {
+  "added": "2026-11-08",
+  "cited": 0,
+  "ids": {
+   "doi": "10.64898/2026.11.03.763890",
+   "openalex": "W7225269217"
+  },
+  "key": "doi:10.64898/2026.11.03.763890",
+  "peer_reviewed": false,
+  "primary": "fragment-based-drug-discovery",
+  "published": "2026-11-04",
+  "related": [
+   "cryo-electron-microscopy"
+  ],
+  "score": 7.5,
+  "seen": 1,
+  "source": "openalex",
+  "title": "Facilitating the identification of cryo-EM hit matter in drug discovery with Astex-Faro"
  },
  "doi:10.64898/2026.11.03.763914": {
   "added": "2026-11-08",
@@ -46778,6 +47184,62 @@
   "source": "openalex",
   "title": "Loss of cell-identity DNA methylation tracks division history, not DNA damage"
  },
+ "doi:10.64898/2026.11.03.763917": {
+  "added": "2026-11-08",
+  "cited": 0,
+  "ids": {
+   "doi": "10.64898/2026.11.03.763917",
+   "openalex": "W7225249267"
+  },
+  "key": "doi:10.64898/2026.11.03.763917",
+  "peer_reviewed": false,
+  "primary": "gene-drives",
+  "published": "2026-11-04",
+  "related": [
+   "agent-based-modeling",
+   "bayesian-optimization"
+  ],
+  "score": 8.4,
+  "seen": 1,
+  "source": "openalex",
+  "title": "Ecology of gene drives: Organism fitness under larval competition determines gene drive performance"
+ },
+ "doi:10.64898/2026.11.03.763930": {
+  "added": "2026-11-08",
+  "cited": 0,
+  "ids": {
+   "doi": "10.64898/2026.11.03.763930",
+   "openalex": "W7225269133"
+  },
+  "key": "doi:10.64898/2026.11.03.763930",
+  "peer_reviewed": false,
+  "primary": "crispr-cas9",
+  "published": "2026-11-04",
+  "related": [
+   "nanopore-sequencing"
+  ],
+  "score": 10.7,
+  "seen": 1,
+  "source": "openalex",
+  "title": "An integrated workflow for dual-guide CRISPR-Cas9 targeting and amplicon-based genotyping of Pla2g6 in primary mouse bone marrow-derived macrophages"
+ },
+ "doi:10.64898/2026.11.03.763959": {
+  "added": "2026-11-08",
+  "cited": 0,
+  "ids": {
+   "doi": "10.64898/2026.11.03.763959",
+   "openalex": "W7225260230"
+  },
+  "key": "doi:10.64898/2026.11.03.763959",
+  "peer_reviewed": false,
+  "primary": "metabolic-engineering",
+  "published": "2026-11-04",
+  "related": [],
+  "score": 10.3,
+  "seen": 1,
+  "source": "openalex",
+  "title": "Metabolic engineering of Saccharomyces cerevisiae for improved polyphosphate production"
+ },
  "doi:10.64898/2026.11.03.764008": {
   "added": "2026-11-08",
   "cited": 0,
@@ -46794,6 +47256,76 @@
   "seen": 1,
   "source": "openalex",
   "title": "A protein language model for domain, functional site, and variant effect prediction"
+ },
+ "doi:10.64898/2026.11.03.764063": {
+  "added": "2026-11-08",
+  "cited": 0,
+  "ids": {
+   "doi": "10.64898/2026.11.03.764063",
+   "openalex": "W7225266052"
+  },
+  "key": "doi:10.64898/2026.11.03.764063",
+  "peer_reviewed": false,
+  "primary": "long-read-sequencing",
+  "published": "2026-11-04",
+  "related": [],
+  "score": 8.1,
+  "seen": 1,
+  "source": "openalex",
+  "title": "Long read sequencing reveals changes in measured isoform structure and abundance due to RNA processing"
+ },
+ "doi:10.64898/2026.11.03.764120": {
+  "added": "2026-11-08",
+  "cited": 0,
+  "ids": {
+   "doi": "10.64898/2026.11.03.764120",
+   "openalex": "W7225240390"
+  },
+  "key": "doi:10.64898/2026.11.03.764120",
+  "peer_reviewed": false,
+  "primary": "single-cell-analysis",
+  "published": "2026-11-04",
+  "related": [],
+  "score": 10.3,
+  "seen": 1,
+  "source": "openalex",
+  "title": "brisc: a multithreaded CPU toolkit for single-cell analysis"
+ },
+ "doi:10.64898/2026.11.03.764126": {
+  "added": "2026-11-08",
+  "cited": 0,
+  "ids": {
+   "doi": "10.64898/2026.11.03.764126",
+   "openalex": "W7225273126"
+  },
+  "key": "doi:10.64898/2026.11.03.764126",
+  "peer_reviewed": false,
+  "primary": "spatial-transcriptomics",
+  "published": "2026-11-04",
+  "related": [
+   "transcriptomics"
+  ],
+  "score": 11.9,
+  "seen": 1,
+  "source": "openalex",
+  "title": "Unified cell segmentation for spatial transcriptomics via transcript reassignment"
+ },
+ "doi:10.64898/2026.11.04.26362534": {
+  "added": "2026-11-08",
+  "cited": 0,
+  "ids": {
+   "doi": "10.64898/2026.11.04.26362534",
+   "openalex": "W7225297668"
+  },
+  "key": "doi:10.64898/2026.11.04.26362534",
+  "peer_reviewed": false,
+  "primary": "pose-estimation",
+  "published": "2026-11-04",
+  "related": [],
+  "score": 10.94,
+  "seen": 1,
+  "source": "openalex",
+  "title": "An Edge-AI Pose-Estimation Platform for Real-Time Posture and Posture-Transition Monitoring: A Feasibility Study for Pre-Emptive Fall-Risk Alerting in Elderly a"
  },
  "doi:10.64898/2026.11.04.26366993": {
   "added": "2026-11-08",
@@ -48436,6 +48968,22 @@
   "source": "openalex",
   "title": "Solar Energy Transition in a Pilgrimage City: A Document-Based Assessment of Renewable Energy Planning and Tourism Growth in Ayodhya, India"
  },
+ "title:aclimateadaptivesmartirrigationsystem|2026": {
+  "added": "2026-11-08",
+  "cited": 0,
+  "ids": {
+   "openalex": "W7225439720"
+  },
+  "key": "title:aclimateadaptivesmartirrigationsystem|2026",
+  "peer_reviewed": true,
+  "primary": "smart-irrigation",
+  "published": "2026-11-04",
+  "related": [],
+  "score": 8.7,
+  "seen": 1,
+  "source": "openalex",
+  "title": "A Climate-Adaptive Smart Irrigation System"
+ },
  "title:aconceptualframeworktoexplaintheroleofbuildinginformationmodelinginsmartcities|2026": {
   "added": "2026-11-08",
   "cited": 0,
@@ -48498,9 +49046,25 @@
   "published": "2026-11-04",
   "related": [],
   "score": 11.1,
-  "seen": 2,
+  "seen": 3,
   "source": "openalex",
   "title": "A MODEL FOR THE USE OF ELECTRONIC LEARNING RESOURCES AND DIGITAL PLATFORMS IN THE DEVELOPMENT OF COMPUTER SCIENCE EDUCATION"
+ },
+ "title:amultiaspectstrategicanalysisofelectricvehicletransitioninindonesiausingswotapproach|2026": {
+  "added": "2026-11-08",
+  "cited": 0,
+  "ids": {
+   "openalex": "W7225442403"
+  },
+  "key": "title:amultiaspectstrategicanalysisofelectricvehicletransitioninindonesiausingswotapproach|2026",
+  "peer_reviewed": true,
+  "primary": "electric-vehicles",
+  "published": "2026-11-04",
+  "related": [],
+  "score": 9.9,
+  "seen": 1,
+  "source": "openalex",
+  "title": "A Multi-Aspect Strategic Analysis of Electric Vehicle Transition in Indonesia Using SWOT Approach"
  },
  "title:analisissentimendanpreprocessingdataulasanaplikasiaccessbykaimenggunakanmetodescrapingdannaturallanguageprocessing|2026": {
   "added": "2026-11-08",
@@ -48533,7 +49097,7 @@
    "density-functional-theory"
   ],
   "score": 8.52,
-  "seen": 2,
+  "seen": 3,
   "source": "openalex",
   "title": "Artificial Intelligence-Assisted Engineering of Nanocomposite Corrosion Protection Materials: A Critical Review of Machine Learning, Molecular Simulation, and E"
  },
@@ -48570,7 +49134,7 @@
   "published": "2026-11-04",
   "related": [],
   "score": 10.3,
-  "seen": 2,
+  "seen": 3,
   "source": "openalex",
   "title": "ARTIFICIAL INTELLIGENCE IN COMBATING FINANCIAL FRAUD: PHISHING DETECTION AND PAYMENT CARD SECURITY"
  },
@@ -48589,6 +49153,24 @@
   "seen": 1,
   "source": "openalex",
   "title": "การพฒนาระบบสกดองคความรจากตำรายาอสานโบราณโดยใชเทคนคการรจำชอเฉพาะแบบ Bi-LSTMs"
+ },
+ "title:blockchainbaseddigitaldiplomaverificationmechanismusingsmartcontractsandtheinterplanetaryfilesystemipfs|2026": {
+  "added": "2026-11-08",
+  "cited": 0,
+  "ids": {
+   "openalex": "W7225438704"
+  },
+  "key": "title:blockchainbaseddigitaldiplomaverificationmechanismusingsmartcontractsandtheinterplanetaryfilesystemipfs|2026",
+  "peer_reviewed": true,
+  "primary": "smart-contracts",
+  "published": "2026-11-04",
+  "related": [
+   "file-systems"
+  ],
+  "score": 9.3,
+  "seen": 1,
+  "source": "openalex",
+  "title": "Blockchain-Based Digital Diploma Verification Mechanism Using Smart Contracts and the Interplanetary File System (IPFS)"
  },
  "title:blockchainforsecuresharingofpatientmedicationrecordsamongproviders|2026": {
   "added": "2026-11-08",
@@ -48626,6 +49208,22 @@
   "source": "openalex",
   "title": "BRAIN TUMOR DETECTION USING DEEP LEARNING"
  },
+ "title:designandfpgaimplementationofaquantizedyoloacceleratorforlowlatencyedgeobjectdetection|2026": {
+  "added": "2026-11-08",
+  "cited": 0,
+  "ids": {
+   "openalex": "W7225447304"
+  },
+  "key": "title:designandfpgaimplementationofaquantizedyoloacceleratorforlowlatencyedgeobjectdetection|2026",
+  "peer_reviewed": true,
+  "primary": "object-detection",
+  "published": "2026-11-04",
+  "related": [],
+  "score": 8.94,
+  "seen": 1,
+  "source": "openalex",
+  "title": "Design and FPGA Implementation of a Quantized YOLO Accelerator for Low-Latency Edge Object Detection"
+ },
  "title:digitaltwinframeworksforsmbinventoryanddemandoptimization|2026": {
   "added": "2026-11-08",
   "cited": 0,
@@ -48659,6 +49257,42 @@
   "seen": 1,
   "source": "openalex",
   "title": "Edge Computing Approaches for Low-Latency Web Applications on AWS CloudFront"
+ },
+ "title:energyefficientsolarpoweredwirelesssensornetworkforsmartagriculture|2026": {
+  "added": "2026-11-08",
+  "cited": 0,
+  "ids": {
+   "openalex": "W7225435376"
+  },
+  "key": "title:energyefficientsolarpoweredwirelesssensornetworkforsmartagriculture|2026",
+  "peer_reviewed": true,
+  "primary": "wireless-sensor-networks",
+  "published": "2026-11-04",
+  "related": [],
+  "score": 14.24,
+  "seen": 1,
+  "source": "openalex",
+  "title": "Energy-efficient Solar-powered Wireless Sensor Network for Smart Agriculture"
+ },
+ "title:gainenhancementofmetamaterialinspireddgsbaseduwbantennaforwirelesscommunication|2026": {
+  "added": "2026-11-08",
+  "cited": 0,
+  "ids": {
+   "openalex": "W7225442725"
+  },
+  "key": "title:gainenhancementofmetamaterialinspireddgsbaseduwbantennaforwirelesscommunication|2026",
+  "peer_reviewed": true,
+  "primary": "wireless-communications",
+  "published": "2026-11-04",
+  "related": [
+   "antennas",
+   "electrical-and-electronic-engineering",
+   "metamaterials"
+  ],
+  "score": 7.9,
+  "seen": 1,
+  "source": "openalex",
+  "title": "Gain Enhancement of Metamaterial Inspired-DGS based UWB Antenna for Wireless Communication"
  },
  "title:hierarchicalclusteringkabupatenkotadisumateraberdasarkanfaktorfaktoryangberhubungandenganindekspembangunanmanusia|2026": {
   "added": "2026-11-08",
@@ -48758,6 +49392,22 @@
   "source": "openalex",
   "title": "Menyetir Masa Depan, Mengerem Hambatan: Sisi Lain Euforia EV (Electric Vehicle)"
  },
+ "title:methodologyforusinginteractiveandinnovativemethodsinteachingcomputerscience|2026": {
+  "added": "2026-11-08",
+  "cited": 0,
+  "ids": {
+   "openalex": "W7225370011"
+  },
+  "key": "title:methodologyforusinginteractiveandinnovativemethodsinteachingcomputerscience|2026",
+  "peer_reviewed": true,
+  "primary": "computer-science",
+  "published": "2026-11-04",
+  "related": [],
+  "score": 12.3,
+  "seen": 1,
+  "source": "openalex",
+  "title": "METHODOLOGY FOR USING INTERACTIVE AND INNOVATIVE METHODS IN TEACHING COMPUTER SCIENCE"
+ },
  "title:modernmethodsforautomatingtechnologicalprocessesinthefoodindustry|2026": {
   "added": "2026-11-08",
   "cited": 0,
@@ -48810,7 +49460,7 @@
    "deep-learning"
   ],
   "score": 11.82,
-  "seen": 2,
+  "seen": 3,
   "source": "openalex",
   "title": "Nonlinear Control Systems in Smart Grids: A Deep Learning and Fractional Calculus Framework"
  },
@@ -48829,6 +49479,22 @@
   "seen": 1,
   "source": "openalex",
   "title": "PRACTICAL APPLICATION OF ENGINEERING AND COMPUTER GRAPHICS SOFTWARE"
+ },
+ "title:quantumforensicsincybercrimeinvestigationanddigitalforensicsfromdigitalfootprintstostrategicdecisionmaking|2026": {
+  "added": "2026-11-08",
+  "cited": 0,
+  "ids": {
+   "openalex": "W7225435142"
+  },
+  "key": "title:quantumforensicsincybercrimeinvestigationanddigitalforensicsfromdigitalfootprintstostrategicdecisionmaking|2026",
+  "peer_reviewed": true,
+  "primary": "digital-forensics",
+  "published": "2026-11-04",
+  "related": [],
+  "score": 7.9,
+  "seen": 1,
+  "source": "openalex",
+  "title": "Quantum Forensics in Cybercrime Investigation and Digital Forensics: From Digital Footprints to Strategic Decision-Making"
  },
  "title:recentadvancesinmedicalresearchclinicaldiagnosisandevidencebasedtreatmentapproaches|2026": {
   "added": "2026-11-08",

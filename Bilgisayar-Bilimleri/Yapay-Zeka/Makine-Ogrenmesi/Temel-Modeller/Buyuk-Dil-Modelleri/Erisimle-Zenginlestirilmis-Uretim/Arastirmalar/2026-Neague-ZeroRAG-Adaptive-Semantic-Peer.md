@@ -26,7 +26,7 @@ collected_at: 2026-11-07
 last_checked_at: 2026-11-07
 content_verified: false
 identifier_verified: not_found
-retraction_checked: 2026-11-07
+retraction_checked: 2026-11-08
 ---
 
 # ZeroRAG: Adaptive Semantic Peer Routing for Decentralized Retrieval-Augmented Generation

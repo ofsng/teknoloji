@@ -898,7 +898,7 @@ Ana disiplinler:
 
 ## Biyoloji ve Biyoteknoloji
 
-- [Biyoloji ve Biyoteknoloji](Biyoloji-ve-Biyoteknoloji/_index.md) — *Biology and Biotechnology*
+- [Biyoloji ve Biyoteknoloji](Biyoloji-ve-Biyoteknoloji/_index.md) — *Biology and Biotechnology* `[içerik: ai_quotes_sourced]`
   - [Bitki Biyolojisi](Biyoloji-ve-Biyoteknoloji/Bitki-Biyolojisi/_index.md) — *Plant Biology*
   - [Biyoenformatik ve Hesaplamalı Biyoloji](Biyoloji-ve-Biyoteknoloji/Biyoenformatik-ve-Hesaplamali-Biyoloji/_index.md) — *Bioinformatics and Computational Biology*
     - [Biyolojik Veritabanları](Biyoloji-ve-Biyoteknoloji/Biyoenformatik-ve-Hesaplamali-Biyoloji/Biyolojik-Veritabanlari/_index.md) — *Biological Databases*

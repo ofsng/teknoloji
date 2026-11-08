@@ -14,8 +14,9 @@ classification_refs: ["OECD-FORD:1.6", "OECD-FORD:2.9", "arXiv:q-bio", "MeSH"]
 content_verified: false
 created: 2026-11-05
 layout: 2
-content_status: scope_note
-content_sources: []
+content_status: ai_quotes_sourced
+content_sources: ["10.1146/annurev.arplant.043008.092035"]
+last_maintained: 2026-11-08
 ---
 
 # Biyoloji ve Biyoteknoloji (Biology and Biotechnology)
@@ -34,7 +35,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 
 ## 3. Tarihçe
 
-_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+- “Metabolomics now plays a significant role in fundamental plant biology and applied biotechnology.” [1]
+
+<sub>Bu bölümde yalnızca kaynaklardan birebir alıntılar vardır (yerel dil modeli seçti, doğrulayıcı kaynak özetinde geçtiğini denetledi). Türkçe özet bekliyor; insan onayı yok.</sub>
 
 ## 4. Temel kavramlar
 
@@ -87,7 +90,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 
 ## 11. Açık problemler
 
-_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+- “Systems biology driven by metabolome data will aid in deciphering the secrets of plant cell systems and their application to biotechnology.” [1]
+
+<sub>Bu bölümde yalnızca kaynaklardan birebir alıntılar vardır (yerel dil modeli seçti, doğrulayıcı kaynak özetinde geçtiğini denetledi). Türkçe özet bekliyor; insan onayı yok.</sub>
 
 ## 12. Önemli araştırmalar
 
@@ -112,4 +117,5 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 
 ## 14. Kaynaklar
 
-_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+1. Kazuki Saito vd. (2009). *Metabolomics for Functional Genomics, Systems Biology, and Biotechnology*. Annual Review of Plant Biology. https://doi.org/10.1146/annurev.arplant.043008.092035 — hakemli
+

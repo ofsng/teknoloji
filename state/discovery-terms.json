@@ -5126,6 +5126,39 @@
    "mechanical-engineering": 1
   }
  },
+ "blockchain enabled artificial intelligence system": {
+  "acronyms": [
+   "BCAIS"
+  ],
+  "authors": [
+   "Gofurjanov Ibrokhimjon Ilkhomjon Ugli"
+  ],
+  "display": {
+   "Blockchain-Enabled Artificial Intelligence System": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-04",
+    "id": "title:blockchainenabledartificialintelligencesystemforrealtimethreatdetectioniniotnetworks|2026",
+    "title": "Blockchain-Enabled Artificial Intelligence System for Real-Time Threat Detection in IoT Networks",
+    "url": "https://iirjet.org/index.php/home/article/view/468"
+   }
+  ],
+  "first_seen": "2026-11-08",
+  "last_seen": "2026-11-08",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "title:blockchainenabledartificialintelligencesystemforrealtimethreatdetectioniniotnetworks|2026"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "artificial-intelligence": 1
+  }
+ },
  "body adiposity index": {
   "acronyms": [
    "BAI"
@@ -5180,11 +5213,12 @@
    "Hidekazu Takahashi",
    "Daniela Gomes Chicre Oliveira",
    "Zikang Xu",
-   "Hang Yu"
+   "Hang Yu",
+   "Kara Wegermann"
   ],
   "display": {
    "Body mass index": 1,
-   "body mass index": 16
+   "body mass index": 17
   },
   "examples": [
    {
@@ -5246,7 +5280,8 @@
    "doi:10.1177/00031348261507569",
    "doi:10.3390/s26216996",
    "doi:10.1186/s12902-026-02720-1",
-   "doi:10.1007/s11357-026-02627-8"
+   "doi:10.1007/s11357-026-02627-8",
+   "doi:10.1093/ofid/ofag729"
   ],
   "sources": [
    "openalex"
@@ -5257,6 +5292,7 @@
    "computed-tomography": 1,
    "ct-image-reconstruction": 1,
    "data-integration": 1,
+   "elastography": 1,
    "electronic-health-records": 2,
    "force-feedback": 1,
    "infectious-diseases": 2,
@@ -5274,11 +5310,12 @@
   ],
   "authors": [
    "Frhaan M. Zahrawi",
-   "Reyhane Norouziasl"
+   "Reyhane Norouziasl",
+   "Kara Wegermann"
   ],
   "display": {
    "Body roundness index": 1,
-   "body roundness index": 1
+   "body roundness index": 2
   },
   "examples": [
    {
@@ -5292,6 +5329,12 @@
     "id": "doi:10.1038/s41598-026-76931-w",
     "title": "Dietary patterns derived by RRR and PCA in relation to insulin resistance and adiposity: a cross-sectional study",
     "url": "https://doi.org/10.1038/s41598-026-76931-w"
+   },
+   {
+    "date": "2026-11-04",
+    "id": "doi:10.1093/ofid/ofag729",
+    "title": "Simple Adiposity Measures Discriminate MASLD by Transient Elastography in People with HIV: Results from a US Multicenter Cohort",
+    "url": "https://doi.org/10.1093/ofid/ofag729"
    }
   ],
   "first_seen": "2026-11-08",
@@ -5301,13 +5344,14 @@
   ],
   "papers": [
    "doi:10.3390/livers6060115",
-   "doi:10.1038/s41598-026-76931-w"
+   "doi:10.1038/s41598-026-76931-w",
+   "doi:10.1093/ofid/ofag729"
   ],
   "sources": [
    "openalex"
   ],
   "techs": {
-   "elastography": 1,
+   "elastography": 2,
    "principal-component-analysis": 1
   }
  },
@@ -15325,6 +15369,39 @@
    "genetic-testing": 1
   }
  },
+ "dyesensitized solar cell": {
+  "acronyms": [
+   "DSSC"
+  ],
+  "authors": [
+   "Anna B. Nikolskaia"
+  ],
+  "display": {
+   "dyesensitized solar cell": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-04",
+    "id": "doi:10.17586/2220-8054-2026-17-5-647-654",
+    "title": "Solar-driven water splitting using dye-sensitized solar cells and earth-abundant Fe-CoNiPt electrocatalysts",
+    "url": "https://doi.org/10.17586/2220-8054-2026-17-5-647-654"
+   }
+  ],
+  "first_seen": "2026-11-08",
+  "last_seen": "2026-11-08",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "doi:10.17586/2220-8054-2026-17-5-647-654"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "dye-sensitized-solar-cells": 1
+  }
+ },
  "dynamic arithmetic optimization algorithm": {
   "acronyms": [
    "DAOA"
@@ -23045,10 +23122,11 @@
    "Hemalatha  T",
    "Jagarlamudi Sai Divya Sri",
    "Ammar Auda",
-   "M. M. Omar"
+   "M. M. Omar",
+   "Muhammadjonov M.M."
   ],
   "display": {
-   "Google Earth Engine": 7
+   "Google Earth Engine": 8
   },
   "examples": [
    {
@@ -23100,14 +23178,15 @@
    "doi:10.62441/actainnovations.vi.3053",
    "doi:10.14719/pst.17573",
    "doi:10.1007/s12518-026-00826-8",
-   "doi:10.1080/22797254.2026.2758461"
+   "doi:10.1080/22797254.2026.2758461",
+   "title:sentinel2suniyyoldoshtasvirlarivagoogleearthengineplatformasiyordamidapaxtadalalaridasugorishchastotasinimasofaviyaniqlashsirdaryoviloyatimisolida2026yil|2026"
   ],
   "sources": [
    "openalex"
   ],
   "techs": {
    "machine-learning": 3,
-   "remote-sensing": 3,
+   "remote-sensing": 4,
    "synthetic-aperture-radar": 1
   }
  },
@@ -28656,10 +28735,13 @@
    "IPFS"
   ],
   "authors": [
-   "Amira Faiza Benkara Mostefa"
+   "Amira Faiza Benkara Mostefa",
+   "Mukhamad Diva Mahardika Awaludin",
+   "Precious Bamiyo Metiboba"
   ],
   "display": {
-   "InterPlanetary File System": 1
+   "InterPlanetary File System": 1,
+   "Interplanetary File System": 2
   },
   "examples": [
    {
@@ -28667,6 +28749,18 @@
     "id": "doi:10.3389/fbloc.2026.1947022",
     "title": "Blockchain-based PKI infrastructure for efficient management of medical prescriptions",
     "url": "https://doi.org/10.3389/fbloc.2026.1947022"
+   },
+   {
+    "date": "2026-11-04",
+    "id": "title:blockchainbaseddigitaldiplomaverificationmechanismusingsmartcontractsandtheinterplanetaryfilesystemipfs|2026",
+    "title": "Blockchain-Based Digital Diploma Verification Mechanism Using Smart Contracts and the Interplanetary File System (IPFS)",
+    "url": "https://journal.takaza.id/index.php/ambidextrous/article/view/933"
+   },
+   {
+    "date": "2026-11-04",
+    "id": "title:secureelectronicvotersdataenrolmentandmanagementschemeusingcryptographysteganographyandblockchaintechnologiesaproofofconcept|2026",
+    "title": "Secure Electronic Voters’ Data Enrolment and Management Scheme Using Cryptography, Steganography and Blockchain Technologies: A Proof-of-Concept",
+    "url": "http://ijict.oauife.edu.ng/index.php/IJICT/article/view/39"
    }
   ],
   "first_seen": "2026-11-08",
@@ -28675,13 +28769,17 @@
    "2026-11"
   ],
   "papers": [
-   "doi:10.3389/fbloc.2026.1947022"
+   "doi:10.3389/fbloc.2026.1947022",
+   "title:blockchainbaseddigitaldiplomaverificationmechanismusingsmartcontractsandtheinterplanetaryfilesystemipfs|2026",
+   "title:secureelectronicvotersdataenrolmentandmanagementschemeusingcryptographysteganographyandblockchaintechnologiesaproofofconcept|2026"
   ],
   "sources": [
    "openalex"
   ],
   "techs": {
-   "public-key-infrastructure": 1
+   "public-key-infrastructure": 1,
+   "smart-contracts": 1,
+   "steganography": 1
   }
  },
  "intestinal stem cell": {
@@ -51469,6 +51567,39 @@
    "electrical-and-electronic-engineering": 1
   }
  },
+ "solar powered wireless sensor network": {
+  "acronyms": [
+   "SP-WSN"
+  ],
+  "authors": [
+   "Balqis Nabilah Binti Ramanizan"
+  ],
+  "display": {
+   "Solar-Powered Wireless Sensor Network": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-04",
+    "id": "title:energyefficientsolarpoweredwirelesssensornetworkforsmartagriculture|2026",
+    "title": "Energy-efficient Solar-powered Wireless Sensor Network for Smart Agriculture",
+    "url": "https://iirjet.org/index.php/home/article/view/471"
+   }
+  ],
+  "first_seen": "2026-11-08",
+  "last_seen": "2026-11-08",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "title:energyefficientsolarpoweredwirelesssensornetworkforsmartagriculture|2026"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "wireless-sensor-networks": 1
+  }
+ },
  "solid oxide cell": {
   "acronyms": [
    "SOC"
@@ -57719,6 +57850,39 @@
    "artificial-intelligence": 1
   }
  },
+ "unified soil classification system": {
+  "acronyms": [
+   "USCS"
+  ],
+  "authors": [
+   "Divine Odibeze Ezeajughu"
+  ],
+  "display": {
+   "Unified Soil Classification System": 1
+  },
+  "examples": [
+   {
+    "date": "2026-11-04",
+    "id": "title:geologicalandgeotechnicalcharacterisationofshalederivedmaterialsandtheirengineeringimplicationsinugwuajiandenvironssoutheasternnigeria|2026",
+    "title": "GEOLOGICAL AND GEOTECHNICAL CHARACTERISATION OF SHALE-DERIVED MATERIALS AND THEIR ENGINEERING IMPLICATIONS IN UGWUAJI AND ENVIRONS, SOUTHEASTERN NIGERIA",
+    "url": "http://sfjesgs.com/index.php/SFJESGS/article/view/762"
+   }
+  ],
+  "first_seen": "2026-11-08",
+  "last_seen": "2026-11-08",
+  "months": [
+   "2026-11"
+  ],
+  "papers": [
+   "title:geologicalandgeotechnicalcharacterisationofshalederivedmaterialsandtheirengineeringimplicationsinugwuajiandenvironssoutheasternnigeria|2026"
+  ],
+  "sources": [
+   "openalex"
+  ],
+  "techs": {
+   "structural-engineering": 1
+  }
+ },
  "unitized regenerative fuel cell": {
   "acronyms": [
    "URFC"
@@ -58804,10 +58968,11 @@
    "VAI"
   ],
   "authors": [
-   "Reyhane Norouziasl"
+   "Reyhane Norouziasl",
+   "Kara Wegermann"
   ],
   "display": {
-   "visceral adiposity index": 1
+   "visceral adiposity index": 2
   },
   "examples": [
    {
@@ -58815,6 +58980,12 @@
     "id": "doi:10.1038/s41598-026-76931-w",
     "title": "Dietary patterns derived by RRR and PCA in relation to insulin resistance and adiposity: a cross-sectional study",
     "url": "https://doi.org/10.1038/s41598-026-76931-w"
+   },
+   {
+    "date": "2026-11-04",
+    "id": "doi:10.1093/ofid/ofag729",
+    "title": "Simple Adiposity Measures Discriminate MASLD by Transient Elastography in People with HIV: Results from a US Multicenter Cohort",
+    "url": "https://doi.org/10.1093/ofid/ofag729"
    }
   ],
   "first_seen": "2026-11-08",
@@ -58823,12 +58994,14 @@
    "2026-11"
   ],
   "papers": [
-   "doi:10.1038/s41598-026-76931-w"
+   "doi:10.1038/s41598-026-76931-w",
+   "doi:10.1093/ofid/ofag729"
   ],
   "sources": [
    "openalex"
   ],
   "techs": {
+   "elastography": 1,
    "principal-component-analysis": 1
   }
  },

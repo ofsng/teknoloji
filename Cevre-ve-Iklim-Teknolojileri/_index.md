@@ -16,6 +16,7 @@ created: 2026-11-05
 layout: 2
 content_status: scope_note
 content_sources: []
+maintain_skip_until: 2026-12-08
 ---
 
 # Çevre ve İklim Teknolojileri (Environmental and Climate Technologies)

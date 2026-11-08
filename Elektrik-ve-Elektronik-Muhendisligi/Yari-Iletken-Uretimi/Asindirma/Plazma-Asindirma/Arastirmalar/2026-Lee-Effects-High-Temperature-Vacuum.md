@@ -26,7 +26,7 @@ collected_at: 2026-11-07
 last_checked_at: 2026-11-07
 content_verified: false
 identifier_verified: crossref
-retraction_checked: 2026-11-07
+retraction_checked: 2026-11-08
 ---
 
 # Effects of High-Temperature Vacuum Annealing on the Microstructure, Mechanical Properties, and Plasma Etching Resistance of Bulk CVD-SiC

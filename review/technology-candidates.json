@@ -436,6 +436,7 @@
     "computed-tomography": 1,
     "ct-image-reconstruction": 1,
     "data-integration": 1,
+    "elastography": 1,
     "electronic-health-records": 2,
     "force-feedback": 1,
     "infectious-diseases": 2,
@@ -484,9 +485,9 @@
      "url": "https://doi.org/10.1186/s12879-026-14583-x"
     }
    ],
-   "first_authors": 17,
+   "first_authors": 18,
    "months": 1,
-   "papers": 17,
+   "papers": 18,
    "sources": [
     "openalex"
    ]
@@ -1296,7 +1297,8 @@
    ]
   },
   "key": "group relative policy optimization",
-  "literature_count": null,
+  "literature_checked": "2026-11-08",
+  "literature_count": 2014,
   "notes": [],
   "overlaps": [
    {
@@ -1397,7 +1399,8 @@
    ]
   },
   "key": "healthy control",
-  "literature_count": null,
+  "literature_checked": "2026-11-08",
+  "literature_count": 385414,
   "notes": [],
   "overlaps": [
    {
@@ -1493,7 +1496,8 @@
    ]
   },
   "key": "mesenchymal stem cell",
-  "literature_count": null,
+  "literature_checked": "2026-11-08",
+  "literature_count": 125076,
   "notes": [],
   "overlaps": [
    {
@@ -1685,7 +1689,8 @@
    ]
   },
   "key": "neural network",
-  "literature_count": null,
+  "literature_checked": "2026-11-08",
+  "literature_count": 2029055,
   "notes": [],
   "overlaps": [
    {
@@ -1774,7 +1779,8 @@
    ]
   },
   "key": "normalized difference vegetation index",
-  "literature_count": null,
+  "literature_checked": "2026-11-08",
+  "literature_count": 35781,
   "notes": [],
   "overlaps": [
    {

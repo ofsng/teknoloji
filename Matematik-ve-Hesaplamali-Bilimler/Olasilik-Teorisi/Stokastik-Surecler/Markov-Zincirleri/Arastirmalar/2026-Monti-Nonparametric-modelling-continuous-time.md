@@ -26,7 +26,7 @@ collected_at: 2026-11-07
 last_checked_at: 2026-11-08
 content_verified: false
 identifier_verified: crossref
-retraction_checked: 2026-11-07
+retraction_checked: 2026-11-08
 ---
 
 # Nonparametric modelling of continuous-time Markov chains with scalable exact and approximate gradients
