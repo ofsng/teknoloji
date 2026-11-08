@@ -67,19 +67,31 @@ jobs:
           key: llm-${{ env.LLAMA_BUILD }}-${{ env.MODEL_SHA256 }}
 
       - name: Yerel LLM sunucusu (llama.cpp, SHA-256 doğrulamalı)
+        id: llm
         if: env.KB_LLM_PROVIDER == 'local'
+        # LLM yalnızca bilgi bakımı içindir: başlamazsa araştırma toplama yine çalışmalı
+        continue-on-error: true
         run: |
           mkdir -p ~/llm && cd ~/llm
-          [ -f model.gguf ] || curl -fsSL -o model.gguf "$MODEL_URL"
-          echo "$MODEL_SHA256  model.gguf" | sha256sum -c -
-          [ -f llama.tar.gz ] || curl -fsSL -o llama.tar.gz "https://github.com/ggml-org/llama.cpp/releases/download/${LLAMA_BUILD}/llama-${LLAMA_BUILD}-bin-ubuntu-x64.tar.gz"
-          echo "$LLAMA_SHA256  llama.tar.gz" | sha256sum -c -
+          # önbellekteki dosya doğrulanamazsa (yarım/bozuk) silinip yeniden indirilir
+          fetch() { f=$1; sum=$2; url=$3
+            if [ -f "$f" ] && echo "$sum  $f" | sha256sum -c - >/dev/null 2>&1; then echo "$f: önbellekten (OK)"; return 0; fi
+            rm -f "$f"; curl -fsSL --retry 5 --retry-delay 10 --retry-all-errors -o "$f" "$url"
+            echo "$sum  $f" | sha256sum -c -; }
+          fetch model.gguf "$MODEL_SHA256" "$MODEL_URL"
+          fetch llama.tar.gz "$LLAMA_SHA256" "https://github.com/ggml-org/llama.cpp/releases/download/${LLAMA_BUILD}/llama-${LLAMA_BUILD}-bin-ubuntu-x64.tar.gz"
           rm -rf bin && mkdir bin && tar -xzf llama.tar.gz -C bin
           SERVER=$(find ~/llm/bin -name llama-server -type f | head -1)
           LD_LIBRARY_PATH="$(dirname "$SERVER")" nohup "$SERVER" -m ~/llm/model.gguf -c 12288 -t "$(nproc)" \
             --host 127.0.0.1 --port 8080 --jinja --reasoning-budget 0 > "$RUNNER_TEMP/llama.log" 2>&1 &
           for i in $(seq 1 120); do curl -fs http://127.0.0.1:8080/health >/dev/null && break; sleep 2; done
           curl -fs http://127.0.0.1:8080/health || { echo "::warning::Yerel LLM başlamadı; bakım adımı atlanacak"; echo "KB_LLM_PROVIDER=none" >> "$GITHUB_ENV"; }
+
+      - name: Yerel LLM başlamadıysa bakımı kapat
+        if: env.KB_LLM_PROVIDER == 'local' && steps.llm.outcome == 'failure'
+        run: |
+          echo "::warning::Yerel LLM başlatılamadı; bu çalışmada bilgi bakımı atlanıyor, toplama sürüyor."
+          echo "KB_LLM_PROVIDER=none" >> "$GITHUB_ENV"
 
       - name: Otomasyon dalını hazırla (önceki birleşmemiş çalışmalar korunur)
         run: |

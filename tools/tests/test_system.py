@@ -576,6 +576,9 @@ class TestWorkflowSafety(unittest.TestCase):
         self.assertNotRegex(text, r"git push[^\n]*\bmain\b")
         self.assertIn("kb.py check", text)
         self.assertIn("unittest", text)
+        llm_step = text.split("Yerel LLM sunucusu")[1].split("- name:")[0]
+        self.assertIn("continue-on-error: true", llm_step, "LLM adımı başarısız olsa da toplama sürmeli")
+        self.assertIn("--retry", text)
 
 
 class TestRealRepository(unittest.TestCase):
