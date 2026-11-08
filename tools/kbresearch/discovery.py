@@ -123,7 +123,10 @@ class Discovery:
     # -- kanıt biriktirme
     def observe(self, rec, cls):
         today = self.cfg.today.isoformat()
-        pid = sorted(R.strong_keys(rec) or R.keys(rec))[0]
+        ks = sorted(R.strong_keys(rec) or R.keys(rec))
+        if not ks:  # DOI, arXiv ve başlığı olmayan kayıt: kanıt olarak izlenemez
+            return
+        pid = ks[0]
         first_author = (rec.get("authors") or ["?"])[0]
         month = (rec.get("published_date") or today)[:7]
         # Kaynak: metinde tanımlanan kısaltmalar. Kaynak anahtar sözcükleri (ör. OpenAlex keywords) çoğunlukla
