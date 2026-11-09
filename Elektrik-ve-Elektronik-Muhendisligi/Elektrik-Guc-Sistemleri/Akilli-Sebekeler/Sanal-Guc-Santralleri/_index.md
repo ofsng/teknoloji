@@ -75,7 +75,10 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **2**.
+
+- [Hierarchical Reinforcement Learning for Degradation-Aware and Coordinated Control of Virtual Power Plants](Arastirmalar/2026-Arjun-Hierarchical-Reinforcement-Learning-for.md) — Arjun vd. (2026) · *Industrial & Engineering Chemistry Research* · hakemli
+- [Resource Modeling, Market Participation, and Coordinated Operation of Virtual Power Plants: A Review](Arastirmalar/2026-Li-Resource-Modeling-Market-Participation.md) — Li vd. (2026) · *Energies* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -83,7 +86,10 @@ Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
-_Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini göstermez; ön baskılar hakemli değildir._
+Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
+
+- [Hierarchical Reinforcement Learning for Degradation-Aware and Coordinated Control of Virtual Power Plants](Arastirmalar/2026-Arjun-Hierarchical-Reinforcement-Learning-for.md) — Arjun vd. (2026) · *Industrial & Engineering Chemistry Research* · hakemli
+- [Resource Modeling, Market Participation, and Coordinated Operation of Virtual Power Plants: A Review](Arastirmalar/2026-Li-Resource-Modeling-Market-Participation.md) — Li vd. (2026) · *Energies* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

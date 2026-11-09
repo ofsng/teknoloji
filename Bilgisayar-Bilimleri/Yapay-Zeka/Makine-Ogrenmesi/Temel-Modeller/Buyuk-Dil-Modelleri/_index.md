@@ -85,7 +85,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **8**, alt teknolojiler dahil: **16**.
+Arşivdeki kayıtlar — bu düğüm: **8**, alt teknolojiler dahil: **17**.
 
 - [How Well Can Large Language Models Impersonate Individual Authors? A Comparative Evaluation](Arastirmalar/2026-Gupta-How-Well-Can-Large.md) — Gupta vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [AdSteer: Native Advertising in Large Language Model Generation](Arastirmalar/2026-Lin-AdSteer-Native-Advertising-Large.md) — Lin vd. (2026) · *arXiv* · ön baskı / hakemsiz

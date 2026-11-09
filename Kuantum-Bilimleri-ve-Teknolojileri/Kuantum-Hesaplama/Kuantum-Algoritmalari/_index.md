@@ -83,7 +83,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **3**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -94,6 +94,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
 - [A Variational Quantum Algorithm for Multi-Skill Project Scheduling](Varyasyonel-Kuantum-Algoritmalari/Arastirmalar/2026-Martinez-Variational-Quantum-Algorithm-for.md) — Martinez vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [Quantum Error Mitigation Simulates General Non-Hermitian Dynamics](Kuantum-Hata-Azaltma/Arastirmalar/2026-Kuji-Quantum-Error-Mitigation-Simulates.md) — Kuji vd. (2026) · *arXiv* · ön baskı / hakemsiz
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

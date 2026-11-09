@@ -94,7 +94,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **4**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **5**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -104,6 +104,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Gene Regulatory Networks that Support Multi-fate Cellular Decisions](Biyoenformatik-ve-Hesaplamali-Biyoloji/Sistem-Biyolojisi/Gen-Duzenleyici-Aglar/Arastirmalar/2026-BV-Gene-Regulatory-Networks-that.md) — BV vd. (2026) · *Bulletin of Mathematical Biology* · hakemli
 - [Human induced pluripotent stem cell ‐derived cortical neurons from monozygotic twins with the Gα o1 K278del mutation reveal disease mechanisms relevant to GNAO1 ‐related encephalopathy](Kok-Hucre-Biyolojisi/Induklenmis-Pluripotent-Kok-Hucreler/Arastirmalar/2026-Gonzalez-Human-induced-pluripotent-stem.md) — González vd. (2026) · *Epilepsia* · hakemli
 - [Protocol for generating nociceptor-enriched peripheral sensory neurons from human induced pluripotent stem cells](Kok-Hucre-Biyolojisi/Induklenmis-Pluripotent-Kok-Hucreler/Arastirmalar/2026-Ghazanfar-Protocol-for-generating-nociceptor.md) — Ghazanfar vd. (2026) · *STAR Protocols* · hakemli
 - [Naïve culture environments differentially shape human endogenous retrovirus-K expression and transcriptional remodeling following transient naïve treatment of human induced pluripotent stem cells](Kok-Hucre-Biyolojisi/Induklenmis-Pluripotent-Kok-Hucreler/Arastirmalar/2026-Ma-Naive-culture-environments-differentially.md) — Ma vd. (2026) · *Frontiers in Cellular and Infection Microbiology* · hakemli

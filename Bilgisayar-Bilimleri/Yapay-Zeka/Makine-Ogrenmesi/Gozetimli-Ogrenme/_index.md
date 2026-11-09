@@ -80,7 +80,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **2**.
 
 - [Automatic Evaluation of Open-Ended Mathematics Questions with Machine Learning](Arastirmalar/2026-KARACA-Automatic-Evaluation-Open-Ended.md) — KARACA vd. (2026) · *International Journal of Technology in Education and Science* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -93,6 +93,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
 - [Automatic Evaluation of Open-Ended Mathematics Questions with Machine Learning](Arastirmalar/2026-KARACA-Automatic-Evaluation-Open-Ended.md) — KARACA vd. (2026) · *International Journal of Technology in Education and Science* · hakemli
+- [Comparative Performance of Naïve Bayes and Support Vector Machine Algorithms for Machine Learning-Based Spam Email Detection](Destek-Vektor-Makineleri/Arastirmalar/2026-Apriyanti-Comparative-Performance-Naive-Bayes.md) — Apriyanti vd. (2026) · *TeIKa Jurnal Teknologi Informasi dan Komunikasi* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

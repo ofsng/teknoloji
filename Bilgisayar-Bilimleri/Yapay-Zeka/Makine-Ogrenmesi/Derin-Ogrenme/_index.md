@@ -91,7 +91,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **7**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **9**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -101,10 +101,12 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Cognitive Cybersecurity via Bio-Inspired Intelligence: A Starling Flock Optimized Spiking Neural Network for Resilient Mobile Threat Detection](Ateslemeli-Sinir-Aglari/Arastirmalar/2026-Thiruselvaraj-Cognitive-Cybersecurity-via-Bio.md) — Thiruselvaraj vd. (2026) · *Acta Technica Jaurinensis* · hakemli
 - [Leakage-free evaluation of residual graph convolutional networks for network intrusion detection](Cizge-Sinir-Aglari/Cizge-Evrisimli-Aglar/Arastirmalar/2026-Iqbal-Leakage-free-evaluation-residual.md) — Iqbal (2026) · *arXiv* · ön baskı / hakemsiz
 - [Efficient quantum convolutional neural networks for image classification: overcoming hardware constraints](Evrisimli-Sinir-Aglari/Arastirmalar/2026-Roseler-Efficient-quantum-convolutional-neural.md) — Röseler vd. (2026) · *Quantum Machine Intelligence* · hakemli · atıf: 10
 - [SWAP-INR: Implicit Neural Representation with Switchable Attention Paths for Time-varying Multivariate Scientific Data Compression](Ortuk-Sinirsel-Temsiller/Arastirmalar/2026-Son-SWAP-INR-Implicit-Neural.md) — Son vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [DSIN: dynamic system-empowered implicit neural representation for medical image compression](Ortuk-Sinirsel-Temsiller/Arastirmalar/2026-Song-DSIN-dynamic-system-empowered.md) — Song vd. (2026) · *Communications Engineering* · hakemli
+- [EEG emotion recognition based on masked generative adversarial networks and neural architecture search](Sinir-Mimarisi-Arama/Arastirmalar/2026-Zhu-EEG-emotion-recognition-based.md) — Zhu vd. (2026) · *User Modeling and User-Adapted Interaction* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

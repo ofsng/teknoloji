@@ -169,5 +169,50 @@
    "vagus-nerve-stimulation": 1,
    "water-quality-monitoring": 1
   }
+ },
+ "2026-11-09": {
+  "archived": 40,
+  "backfill": 0,
+  "by_source": {
+   "openalex": 40
+  },
+  "llm_calls": 3,
+  "llm_usd": 0.0,
+  "per_tech": {
+   "3d-computer-vision": 1,
+   "air-quality-monitoring": 2,
+   "artificial-intelligence": 1,
+   "association-rule-mining": 1,
+   "atomic-layer-etching": 2,
+   "brain-computer-interfaces": 2,
+   "chemical-vapor-deposition": 1,
+   "compressed-air-energy-storage": 1,
+   "design-for-additive-manufacturing": 1,
+   "direct-preference-optimization": 1,
+   "electromagnetic-compatibility": 1,
+   "electron-beam-lithography": 1,
+   "field-effect-transistors": 1,
+   "gene-regulatory-networks": 1,
+   "high-temperature-superconductors": 1,
+   "high-throughput-screening": 1,
+   "industrial-internet-of-things": 2,
+   "industry-4-0": 1,
+   "internet-of-things": 1,
+   "metal-oxide-nanoparticles": 1,
+   "nanoparticles": 1,
+   "neural-architecture-search": 1,
+   "ocean-alkalinity-enhancement": 1,
+   "power-quality": 2,
+   "quantum-error-mitigation": 1,
+   "quantum-key-distribution": 1,
+   "safe-learning-control": 1,
+   "sentiment-analysis": 1,
+   "spiking-neural-networks": 1,
+   "support-vector-machines": 1,
+   "thermal-energy-storage": 1,
+   "van-der-waals-heterostructures": 1,
+   "vertical-axis-wind-turbines": 1,
+   "virtual-power-plants": 2
+  }
  }
 }

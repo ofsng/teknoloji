@@ -87,7 +87,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **11**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **12**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -97,6 +97,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [High-Throughput Screening and Fragment-Based Approach for Flavivirus Antiviral Discovery](Eczacilik-Bilimleri/Ilac-Kesfi/Yuksek-Verimli-Tarama/Arastirmalar/2026-Casarin-High-Throughput-Screening-and.md) — Casarin vd. (2026) · *Microorganisms* · hakemli
 - [Classical Machine Learning-Based Approaches for Medical Image Analysis and Computer-Aided Diagnosis](Tibbi-Goruntuleme/Tibbi-Goruntu-Analizi/Bilgisayar-Destekli-Teshis/Arastirmalar/2026-Cincar-Classical-Machine-Learning-Based.md) — Cincar vd. (2026) · *Technium Romanian Journal of Applied Sciences and Technology* · hakemli
 - [Effectiveness of a novel mobile health application in educating first-time complete denture wearers: a prospective randomized controlled clinical study](Dijital-Saglik/Mobil-Saglik/Arastirmalar/2026-Sooda-Effectiveness-novel-mobile-health.md) — Sooda vd. (2026) · *BMC Oral Health* · hakemli
 - [Mentorship for electronic health record quality improvement in Nigeria: A practice framework](Dijital-Saglik/Saglik-Bilisimi/Elektronik-Saglik-Kayitlari/Arastirmalar/2026-Popoola-Mentorship-for-electronic-health.md) — Popoola (2026) · *Innovation in Health for Society* · hakemli
@@ -104,7 +105,6 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [CAR-T cell therapy in hematology malignancies: breaking barriers, engineering the future](Ileri-Tedaviler/Hucre-Tedavisi/CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Alvizo-Baez-CAR-cell-therapy-hematology.md) — Alvizo-Báez vd. (2026) · *Frontiers in Immunology* · hakemli
 - [Peptide-functionalized biomaterials as emerging platforms to enhance CAR-NK cell therapy in solid tumors](Ileri-Tedaviler/Hucre-Tedavisi/NK-Hucre-Tedavisi/Arastirmalar/2026-Shokoohi-Peptide-functionalized-biomaterials-eme.md) — Shokoohi vd. (2026) · *Discover Materials* · hakemli
 - [Mapping the evidence on implementation of clinical decision support systems in nurses' reverse triage decisions during disaster surges: A scoping review with a proposed conceptual framework](Dijital-Saglik/Saglik-Bilisimi/Klinik-Karar-Destek-Sistemleri/Arastirmalar/2026-Salasa-Mapping-the-evidence-implementation.md) — Salasa vd. (2026) · *International Emergency Nursing* · hakemli
-- [Quadruple co-culture vascular models of haematological malignancy CAR T cell therapy for nonclinical safety and efficacy studies](Ileri-Tedaviler/Hucre-Tedavisi/CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Lund-Quadruple-culture-vascular-models.md) — Lund vd. (2026) · *Frontiers in Immunology* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

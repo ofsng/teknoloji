@@ -90,7 +90,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **6**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **8**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -100,9 +100,11 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Design for additive manufacturing. The application to the AEC industry](Eklemeli-Imalat/Eklemeli-Imalat-icin-Tasarim/Arastirmalar/2026-Cruz-Design-for-additive-manufacturing.md) — Cruz vd. (2026) · *The Design Journal* · hakemli
 - [Microstructure evolution and mechanical performance optimization of 30CrMnSiNi2A steel processed by laser powder bed fusion combined with heat treatment](Eklemeli-Imalat/Toz-Yatagi-Fuzyonu/Lazer-Toz-Yatagi-Fuzyonu/Arastirmalar/2026-Wang-Microstructure-evolution-and-mechanical.md) — Wang vd. (2026) · *Materials Science and Technology* · hakemli
 - [Metal Additive Manufacturing of Engineering Alloys: Process–Material Interactions, Defect Formation, Property Optimization and a Decision-Making Framework](Eklemeli-Imalat/Arastirmalar/2026-Rocha-Metal-Additive-Manufacturing-Engineering.md) — Rocha vd. (2026) · *Journal of Mechanical Engineering and Manufacturing* · hakemli
 - [Synergistic Effects of Carbon/Nitrogen Content and Laser Powder Bed Fusion Parameters on the Hot Cracking Behavior and Microstructural Evolution of a Ni–Co‐Based Superalloy](Eklemeli-Imalat/Toz-Yatagi-Fuzyonu/Lazer-Toz-Yatagi-Fuzyonu/Arastirmalar/2026-Yu-Synergistic-Effects-Carbon-Nitrogen.md) — Yu vd. (2026) · *Advanced Engineering Materials* · hakemli
+- [Smart Manufacturing of Industrial Fire Detection and Suppression Equipment: An Industry 4.0 Transformation Framework for Saudi Arabia](Endustri-4-0/Arastirmalar/2026-Jilani-Smart-Manufacturing-Industrial-Fire.md) — Jilani vd. (2026) · *Global Academic Journal of Economics and Business* · hakemli
 - [Comprehensive Review on Additive Manufacturing of Plastic and Composite Parts for Aerospace by Powder Bed Fusion](Eklemeli-Imalat/Toz-Yatagi-Fuzyonu/Arastirmalar/2026-Patrizii-Comprehensive-Review-Additive-Manufactu.md) — Patrizii vd. (2026) · *Powders* · hakemli
 - [EdgeTwin as a Deployment-Aware Edge AI Digital Twin for Predictive Maintenance and Visual Anomaly Detection in SME Smart Manufacturing](Endustri-4-0/Kestirimci-Bakim/Arastirmalar/2026-KAFANTOGIAS-EdgeTwin-Deployment-Aware-Edge.md) — KAFANTOGIAS (2026) · *Journal of Information and Computing* · hakemli
 - [Digital Twins for Decision Support in Production Planning and Control: A Conceptual Framework and Research Directions](Endustri-Muhendisligi/Uretim-Planlama-ve-Kontrol/Arastirmalar/2026-Ragazzini-Digital-Twins-for-Decision.md) — Ragazzini vd. (2026) · *Applied Sciences* · hakemli

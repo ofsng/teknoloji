@@ -80,7 +80,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **2**.
+
+- [Recent Strategies in Electron Transport Layers Based on Metal Oxide Nanoparticles for Quantum Dot Light Emitting Diodes](Arastirmalar/2026-Kim-Recent-Strategies-Electron-Transport.md) — Kim vd. (2026) · *Inorganics* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -88,7 +90,10 @@ Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
-_Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini göstermez; ön baskılar hakemli değildir._
+Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
+
+- [Recent Strategies in Electron Transport Layers Based on Metal Oxide Nanoparticles for Quantum Dot Light Emitting Diodes](Arastirmalar/2026-Kim-Recent-Strategies-Electron-Transport.md) — Kim vd. (2026) · *Inorganics* · hakemli
+- [A review of the biogenic fabrication of metal oxide nanoparticles using phytochemical reducing and stabilizing agents across diverse systems](Metal-Oksit-Nanoparcaciklar/Arastirmalar/2026-Porkalai-review-the-biogenic-fabrication.md) — Porkalai vd. (2026) · *Discover Chemistry.* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

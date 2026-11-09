@@ -85,7 +85,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **4**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **5**.
 
 - [Metal Additive Manufacturing of Engineering Alloys: Process–Material Interactions, Defect Formation, Property Optimization and a Decision-Making Framework](Arastirmalar/2026-Rocha-Metal-Additive-Manufacturing-Engineering.md) — Rocha vd. (2026) · *Journal of Mechanical Engineering and Manufacturing* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -97,6 +97,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Design for additive manufacturing. The application to the AEC industry](Eklemeli-Imalat-icin-Tasarim/Arastirmalar/2026-Cruz-Design-for-additive-manufacturing.md) — Cruz vd. (2026) · *The Design Journal* · hakemli
 - [Microstructure evolution and mechanical performance optimization of 30CrMnSiNi2A steel processed by laser powder bed fusion combined with heat treatment](Toz-Yatagi-Fuzyonu/Lazer-Toz-Yatagi-Fuzyonu/Arastirmalar/2026-Wang-Microstructure-evolution-and-mechanical.md) — Wang vd. (2026) · *Materials Science and Technology* · hakemli
 - [Metal Additive Manufacturing of Engineering Alloys: Process–Material Interactions, Defect Formation, Property Optimization and a Decision-Making Framework](Arastirmalar/2026-Rocha-Metal-Additive-Manufacturing-Engineering.md) — Rocha vd. (2026) · *Journal of Mechanical Engineering and Manufacturing* · hakemli
 - [Synergistic Effects of Carbon/Nitrogen Content and Laser Powder Bed Fusion Parameters on the Hot Cracking Behavior and Microstructural Evolution of a Ni–Co‐Based Superalloy](Toz-Yatagi-Fuzyonu/Lazer-Toz-Yatagi-Fuzyonu/Arastirmalar/2026-Yu-Synergistic-Effects-Carbon-Nitrogen.md) — Yu vd. (2026) · *Advanced Engineering Materials* · hakemli

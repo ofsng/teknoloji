@@ -79,7 +79,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **3**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -89,6 +89,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Aerodynamic Design and Numerical Assessment of a 1.5 kW Helical Vertical-Axis Wind Turbine Using DMST and Three-Dimensional CFD](Dikey-Eksenli-Ruzgar-Turbinleri/Arastirmalar/2026-Valdovinos-Aerodynamic-Design-and-Numerical.md) — Valdovinos vd. (2026) · *Eng—Advances in Engineering* · hakemli
 - [Fabrication, Transportation, and Installation of Fixed and Floating Offshore Wind Turbines: A State of the Art Review](Deniz-Ustu-Ruzgar/Yuzer-Deniz-Ustu-Ruzgar/Arastirmalar/2026-Hermanto-Fabrication-Transportation-and-Installa.md) — Hermanto vd. (2026) · *Maritime Park Journal of Maritime Technology and Society* · hakemli
 - [Improving the Efficiency of Horizontal-Axis Wind Turbines Using High-Lift Devices](Yatay-Eksenli-Ruzgar-Turbinleri/Arastirmalar/2026-M-Improving-the-Efficiency-Horizontal.md) — M vd. (2026) · *Semarak Engineering Journal* · hakemli
 <!-- AUTO:RECENT:END -->

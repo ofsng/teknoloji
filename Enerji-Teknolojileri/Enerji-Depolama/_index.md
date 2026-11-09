@@ -79,7 +79,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -87,7 +87,10 @@ Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
-_Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini göstermez; ön baskılar hakemli değildir._
+Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
+
+- [Capacity optimisation configuration of air–electricity–hydrogen hybrid energy storage systems incorporating advanced adiabatic compressed air energy storage](Mekanik-Enerji-Depolama/Basincli-Hava-Enerji-Depolama/Arastirmalar/2026-Zhang-Capacity-optimisation-configuration-airele.md) — Zhang vd. (2026) · *Energy Reports* · hakemli
+- [Recent Advances in Solar Still Technology: Design, Performance Enhancement, and Thermal Energy Storage.](Isil-Enerji-Depolama/Arastirmalar/2026-AlKhafaji-Recent-Advances-Solar-Still.md) — Al‐Khafaji vd. (2026) · *Journal of Science and Engineering Applications* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar
