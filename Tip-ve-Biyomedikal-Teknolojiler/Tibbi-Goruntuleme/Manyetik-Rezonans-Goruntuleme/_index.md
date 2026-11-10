@@ -79,7 +79,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **1**.
+
+- [Magnetic Resonance Imaging in the Preoperative Assessment of Anal Fistula: Diagnostic Performance and Comparison of the St. James and Garg Classifications](Arastirmalar/2026-Hung-Magnetic-Resonance-Imaging-the.md) — Hung vd. (2026) · *Journal of Coloproctology* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -87,7 +89,9 @@ Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
-_Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini göstermez; ön baskılar hakemli değildir._
+Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
+
+- [Magnetic Resonance Imaging in the Preoperative Assessment of Anal Fistula: Diagnostic Performance and Comparison of the St. James and Garg Classifications](Arastirmalar/2026-Hung-Magnetic-Resonance-Imaging-the.md) — Hung vd. (2026) · *Journal of Coloproctology* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

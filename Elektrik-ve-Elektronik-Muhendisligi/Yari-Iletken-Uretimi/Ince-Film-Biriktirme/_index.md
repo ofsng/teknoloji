@@ -81,7 +81,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -92,6 +92,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
 - [Aerosol‐Assisted Chemical Vapor Deposition of Mixed Phase Tin Phosphide Thin Films and Their Anode Performance for Sodium‐Ion Batteries](Kimyasal-Buhar-Biriktirme/Arastirmalar/2026-Fan-AerosolAssisted-Chemical-Vapor-Deposition.md) — Fan vd. (2026) · *ChemSusChem* · hakemli
+- [Tailored waveform biasing for precise ion energy control during plasma-enhanced atomic layer deposition of nitrides](Atomik-Katman-Biriktirme/Arastirmalar/2026-Jong-Tailored-waveform-biasing-for.md) — Jong vd. (2026) · *Applied Physics Letters* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

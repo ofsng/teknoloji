@@ -1362,6 +1362,75 @@
   "url": "https://arxiv.org/abs/2611.04137"
  },
  {
+  "added": "2026-11-10",
+  "arxiv": "2611.11085",
+  "candidates": [
+   [
+    "model-based-reinforcement-learning",
+    7.26
+   ],
+   [
+    "intermediate-representations",
+    3.1
+   ],
+   [
+    "robot-manipulation",
+    3.1
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.11085",
+   "title:objectworldscalingobjectcentricworldmodelswithalargescale3dfullobjectflowdataset|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Generative world modeling from large-scale visual data offers a promising path toward scalable robot manipulation. This calls for an intermediate representation that can be supervised at scale and remains actionable for downstream control. We propose 3D full-object flow, an object-centric motion representation that assigns dense 3D trajectories to points across the complete surface of a target object, including its occluded regions. By extending visible-surface object flow to the full object geometry, this representation makes complete object motion explicit and applies uniformly to both rigid and deformable objects. To realize the potential of this representation at scale, we introduce a 1210-hour full-object flow dataset that addresses the scarcity of large-scale supervision for complete 3D object motion. The dataset integrates diverse real-world videos and physical simulations, with a scalable annotation pipeline for recovering full-object motion from real-world observations and quality metrics for systematically assessing annotation quality. We then train a world model that takes an image and a task description as input and predicts dense full-object flow over the reconstructed object geometry. Experiments show reliable annotation quality, data-scalable flow prediction, and effective downstream manipulation across novel scenes and robot embodiments. Project website with additional results and videos: https://nus-lins-lab.github.io/ObjectWorld/.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.11085",
+   "authors": [
+    "Haonan Chen",
+    "Sicheng Isabella Lu",
+    "Haitian Li",
+    "Jiajin Wu",
+    "Hexiang Wei",
+    "Jiawei Zhang",
+    "Xin Fei",
+    "Yiwen Hou",
+    "Chenrui Tie",
+    "Chongkai Gao",
+    "Sheng Wang",
+    "Lin Shao"
+   ],
+   "categories": [
+    "arXiv:cs.RO"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-08",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.11085"
+   ],
+   "title": "ObjectWorld: Scaling Object-Centric World Models with A Large-Scale 3D Full-Object Flow Dataset",
+   "topics": [],
+   "updated_date": "2026-11-08",
+   "url": "https://arxiv.org/abs/2611.11085"
+  },
+  "score": 7.26,
+  "seen": 1,
+  "suggested": "model-based-reinforcement-learning",
+  "title": "ObjectWorld: Scaling Object-Centric World Models with A Large-Scale 3D Full-Object Flow Dataset",
+  "url": "https://arxiv.org/abs/2611.11085"
+ },
+ {
   "added": "2026-11-09",
   "arxiv": "2607.08816",
   "candidates": [
@@ -1509,6 +1578,138 @@
   "suggested": "gravitational-waves",
   "title": "Impact of gaps on noise and signal parameter inference",
   "url": "https://doi.org/10.1103/bycd-9qhq"
+ },
+ {
+  "added": "2026-11-10",
+  "arxiv": "2610.15798",
+  "candidates": [
+   [
+    "atomic-layer-deposition",
+    6.74
+   ],
+   [
+    "water-electrolysis",
+    1.2
+   ],
+   [
+    "gas-lasers",
+    0.45
+   ],
+   [
+    "bearings",
+    0.26
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2610.15798",
+   "title:ionomerfreeiridiumanodeswithlowloadingforzerogapelectrolyzersviadirectatomiclayerdeposition|2026"
+  ],
+  "reason": "backlog'dan: güven düştü (taksonomi değişmiş olabilir)",
+  "record": {
+   "abstract": "Proton exchange membrane water electrolysis (PEMWE) is among the most promising techniques to provide hydrogen as both energy carrier and feedstock for the chemical industry, due to its compatibility with intermittent renewable electricity sources. However, a major bottleneck in scaling up PEMWE is the limited supply of the anode catalyst Ir. This work shows a novel approach to tailoring ionomer-free catalyst layers based on custom-made microporous substrates and two different atomic layer deposition (ALD) processes, both using Ir(EtCp)(CHD) precursor. Thermal ALD using O3 as counter-reactant yields mostly metallic Ir/IrOx and an electrode Ir loading of 0.21 mg/cm2. The PEMWE cell-level performance is comparable to a commercial catalyst-coated membrane anode despite 7x lower loading, and is maintained over an accelerated durability test equivalent to 600 h of intermittent operation. Moreover, using a low-loading ALD-made cathode, the total platinum group metal loading is only 0.24 mg/cm2. Plasma-enhanced ALD reduces the Ir loading to 0.04 mg/cm2 by tailoring the catalyst distribution, however, yields lower-activity IrO2. Finally, direct ALD catalyst deposition needs no ionomer-bearing ink. The anodes are therefore compatible with various membrane materials, as demonstrated in a CO2 electrolysis experiment with an anion exchange membrane.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2610.15798",
+   "authors": [
+    "Peter M. Piechulla",
+    "Iris Blommestein",
+    "Anne van Gerven",
+    "Henri Pelzer",
+    "Ezgi Demiröz",
+    "Jonas Englhard",
+    "Mingliang Chen",
+    "Julien Bachmann",
+    "J. Ruud van Ommen"
+   ],
+   "categories": [
+    "arXiv:cond-mat.mtrl-sci"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-10-11",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2610.15798"
+   ],
+   "title": "Ionomer-free Iridium Anodes with Low Loading for Zero-gap Electrolyzers via Direct Atomic Layer Deposition",
+   "topics": [],
+   "updated_date": "2026-10-11",
+   "url": "https://arxiv.org/abs/2610.15798"
+  },
+  "score": 6.74,
+  "seen": 1,
+  "suggested": "atomic-layer-deposition",
+  "title": "Ionomer-free Iridium Anodes with Low Loading for Zero-gap Electrolyzers via Direct Atomic Layer Deposition",
+  "url": "https://arxiv.org/abs/2610.15798"
+ },
+ {
+  "added": "2026-11-10",
+  "arxiv": "2603.17469",
+  "candidates": [
+   [
+    "hidden-markov-models",
+    6.74
+   ],
+   [
+    "partial-differential-equations",
+    3.7
+   ],
+   [
+    "automatic-differentiation",
+    1.2
+   ],
+   [
+    "ecology",
+    0.26
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2603.17469",
+   "title:fastandscalableinferenceinhiddenmarkovmodelswithgaussianfields|2026"
+  ],
+  "reason": "backlog'dan: güven düştü (taksonomi değişmiş olabilir)",
+  "record": {
+   "abstract": "Hidden Markov models (HMMs) are powerful tools for analysing time series data that depend on discrete underlying but unobserved states. As such, they have gained prominence across numerous empirical disciplines, in particular ecology, medicine, and economics. However, the increasing complexity of empirical data is often accompanied by additional latent structure such as spatial effects, temporal trends, or measurement perturbations. Gaussian fields provide an attractive building block for incorporating such structured latent variation into HMMs. Fast inference methods for Gaussian fields have emerged through the stochastic partial differential equation (SPDE) approach. Due to their sparse representation, these integrate well with novel frequentist estimation methods for random-effects models via the use of automatic differentiation and the Laplace approximation. Scaling to high dimensions requires tools such as (R)TMB to exploit sparsity in the Hessian w.r.t. the latent variables - a property satisfied by SPDE fields but violated by the HMM likelihood. We present a modified forward algorithm to compute the HMM likelihood, constructing sparsity in the Hessian and consequently enabling fast and scalable inference. We demonstrate the practical feasibility and the usefulness through simulations and two case studies exploring the detection of stellar flares as well as modelling the movement of lions.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2603.17469",
+   "authors": [
+    "Jan-Ole Fischer"
+   ],
+   "categories": [
+    "arXiv:stat.ME"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-03-18",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2603.17469"
+   ],
+   "title": "Fast and scalable inference in hidden Markov models with Gaussian fields",
+   "topics": [],
+   "updated_date": "2026-03-18",
+   "url": "https://arxiv.org/abs/2603.17469"
+  },
+  "score": 6.74,
+  "seen": 1,
+  "suggested": "hidden-markov-models",
+  "title": "Fast and scalable inference in hidden Markov models with Gaussian fields",
+  "url": "https://arxiv.org/abs/2603.17469"
  },
  {
   "added": "2026-11-09",
@@ -2228,6 +2429,272 @@
   "suggested": "robot-control",
   "title": "Online Hamilton-Jacobi Reachability Onboard the Robot Control Loop: A Real-Time GPU Solver for Safety-Critical Autonomy",
   "url": "https://arxiv.org/abs/2611.04096"
+ },
+ {
+  "added": "2026-11-10",
+  "arxiv": "2611.11027",
+  "candidates": [
+   [
+    "language-modeling",
+    6.3
+   ],
+   [
+    "large-language-models",
+    3.7
+   ],
+   [
+    "tokenization",
+    2.9
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.11027",
+   "title:motomixtureoftokenizerstowardsfairmultilinguallanguagemodeling|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Large language models rely on a single tokenizer that is chosen at training time and fixed thereafter. Most tokenizers are trained on English-dominant corpora, making them under-serve morphologically rich and non-Latin-script languages, where they can produce fragmented representations, longer sequence lengths, and reduced information density during training. We propose Mixture of Tokenizers MoTo, a modular tokenization framework that trains dedicated per-language BPE tokenizers and composes them into a unified superset vocabulary, where tokens shared across languages are deduplicated into a common ID space. Each tokenizer maintains its own normalization policy, pre-tokenization rules, and vocabulary budget. Despite allocating significantly fewer entries to English, MoTo retains English performance while delivering consistent gains across 18 out of 21 typologically diverse languages spanning six scripts, with improvements most pronounced on morphologically complex and non-Latin-script languages that are systematically underserved by English-dominant tokenizer design. Our results suggest that modular subword tokenization is a practical and extensible alternative to monolithic tokenization for multilingual parity.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.11027",
+   "authors": [
+    "Gül Sena Altıntaş",
+    "Colin Raffel"
+   ],
+   "categories": [
+    "arXiv:cs.CL",
+    "arXiv:cs.LG"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-08",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.11027"
+   ],
+   "title": "MoTo: Mixture of Tokenizers Towards Fair Multilingual Language Modeling",
+   "topics": [],
+   "updated_date": "2026-11-08",
+   "url": "https://arxiv.org/abs/2611.11027"
+  },
+  "score": 6.3,
+  "seen": 1,
+  "suggested": "language-modeling",
+  "title": "MoTo: Mixture of Tokenizers Towards Fair Multilingual Language Modeling",
+  "url": "https://arxiv.org/abs/2611.11027"
+ },
+ {
+  "added": "2026-11-10",
+  "arxiv": "2611.11058",
+  "candidates": [
+   [
+    "vision-transformers",
+    6.3
+   ],
+   [
+    "tokenization",
+    4.47
+   ],
+   [
+    "power-transformers",
+    0.79
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.11058",
+   "title:differentiablevirtualslotpartitioningforadaptivetokenizationinvisiontransformers|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Adaptive tokenization aims to reduce the compute spent on uninformative image regions while preserving accuracy. Existing work relies on (i) fixed or frozen scoring rules, which cannot be trained toward the task loss, or (ii) discrete masks trained with straight-through estimators, which yield noisy gradients, while fully differentiable alternatives instead leave the pre-trained regular grid. We revisit adaptive tokenization from a regular-grid perspective and ask: can a two-scale quadtree be learned end-to-end without deleting a single token during training? We show that one coarse token and its four fine children can be made the two endpoints of a single continuous interpolation. We introduce Differentiable Virtual-Slot Partitioning (\\dvsp{}), which keeps four \\emph{virtual slots} per $2{\\times}2$ region and blends their token features and attention mass with a single weight $α$, exactly reproducing the discrete grid at $α\\in \\{0,1\\}$. On COCO detection with EVA-02-B, \\dvsp{} retains $97.9\\%$ of dense Box AP while removing $64.2\\%$ of visual tokens, giving a $1.61\\times$ end-to-end speedup, and it outperforms entropy-based APT, DART, and uniform lower-resolution dense adaptation at matched budgets; these gains depend on the conserved attention mass, whose removal costs $1.59$ Box AP. On a frozen Segmenter it also improves Cityscapes mIoU, and on frozen DeiT backbones it exceeds entropy selection at identical per-image token counts.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.11058",
+   "authors": [
+    "Gaoxiang He",
+    "Bin Zhu",
+    "Bo Xie",
+    "Xiaotong Yu",
+    "Yi Chen",
+    "Hongfei Yan"
+   ],
+   "categories": [
+    "arXiv:cs.CV"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-08",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.11058"
+   ],
+   "title": "Differentiable Virtual-Slot Partitioning for Adaptive Tokenization in Vision Transformers",
+   "topics": [],
+   "updated_date": "2026-11-08",
+   "url": "https://arxiv.org/abs/2611.11058"
+  },
+  "score": 6.3,
+  "seen": 1,
+  "suggested": "vision-transformers",
+  "title": "Differentiable Virtual-Slot Partitioning for Adaptive Tokenization in Vision Transformers",
+  "url": "https://arxiv.org/abs/2611.11058"
+ },
+ {
+  "added": "2026-11-10",
+  "arxiv": "2611.11084",
+  "candidates": [
+   [
+    "quantum-computing",
+    6.3
+   ],
+   [
+    "molecular-dynamics-simulation",
+    4.95
+   ],
+   [
+    "qubit-technologies",
+    4.86
+   ],
+   [
+    "hartree-fock-and-post-hartree-fock-methods",
+    1.35
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.11084",
+   "title:towardslargescaleabinitiomoleculardynamicssimulationwithefficientsamplingbasedquantumcomputingalgorithms|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Ab initio molecular dynamics (AIMD) requires the calculation of highly accurate electronic-structure energies and nuclear forces at every time step, which can quickly become computationally expensive. Sample-based quantum diagonalization offers a route to such calculations on quantum hardware, but its use in AIMD simulations has so far been limited to active spaces of about 20 qubits. In these spaces, exact diagonalization is tractable, and the quantum circuits are typically built from standard coupled-cluster amplitudes. Here, we introduce SqDRIFT-AIMD, which combines randomized sample-based Krylov quantum diagonalization (SqDRIFT) with analytical nuclear gradients. With SqDRIFT-AIMD, we obtain more accurate ground-state energies than the conventional coupled-cluster singles and doubles (CCSD) driven AIMD simulation for the $40$-qubit active space. We apply SqDRIFT-AIMD to study the dynamics of proton transfer in the Zundel cation, using circuits executed on IBM Heron r3 quantum processors. SqDRIFT energies fall below CCSD across the $40$-qubit double-well PES and stay within a few m$E_\\text{h}$ of CCSD at 52 qubits. The $40$-qubit SqDRIFT-AIMD trajectory tracks the SHCI-driven proton transfer to within $1.33$ mÅ and exhibits excellent total energy conservation, with a standard deviation of only $0.245$ m$E_\\text{h}$. These results extend quantum-centric AIMD to active spaces beyond the reach of exact diagonalization.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.11084",
+   "authors": [
+    "Ankit Khandelwal",
+    "Nirmal M R",
+    "Aaryav Mishra",
+    "Debasmita Bhoumik",
+    "Dhinakaran Vinayagamurthy",
+    "M Girish Chandra"
+   ],
+   "categories": [
+    "arXiv:quant-ph"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-08",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.11084"
+   ],
+   "title": "Towards large-scale ab initio Molecular Dynamics Simulation with Efficient Sampling-based Quantum Computing Algorithms",
+   "topics": [],
+   "updated_date": "2026-11-08",
+   "url": "https://arxiv.org/abs/2611.11084"
+  },
+  "score": 6.3,
+  "seen": 1,
+  "suggested": "quantum-computing",
+  "title": "Towards large-scale ab initio Molecular Dynamics Simulation with Efficient Sampling-based Quantum Computing Algorithms",
+  "url": "https://arxiv.org/abs/2611.11084"
+ },
+ {
+  "added": "2026-11-10",
+  "arxiv": "2611.11090",
+  "candidates": [
+   [
+    "robot-control",
+    6.3
+   ],
+   [
+    "interior-point-methods",
+    3.5
+   ],
+   [
+    "linear-algebra",
+    2.49
+   ],
+   [
+    "nonlinear-programming",
+    2.35
+   ],
+   [
+    "natural-language-processing",
+    2.1
+   ],
+   [
+    "algebra",
+    1.1
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.11090",
+   "title:largescalehierarchicaldecisionmakinginrobotcontrolviaadmm|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Sparse hierarchical nonlinear programming (SH-NLP) based on the $\\ell_0$-norm provides a powerful framework for integrated, efficient hierarchical decision-making in robot kinematic control, for example in the presence of a large set of possible end-effector candidate locations. While Sequential Sparse Hierarchical Quadratic Programming (S-SHQP) with interior-point method based SHQP sub-problem solvers exploit the hierarchical, sparse structure of such problems, they are less amenable to effective warm-starting between subsequent, coherent control steps. In this work, we formulate an Alternating Direction Method of Multipliers (ADMM) to efficiently solve related SHQP sub-problems. We introduce efficient substitutions for auxiliary variables representing $\\ell_0$-norm surrogates. The solver efficiently handles separable decision functions by evaluating linear algebra expressions in the appropriate order. Results in large-scale kinematic and dynamic control show reduced computation times of up to 23.5% compared with a structure-exploiting interior-point method in low- to moderate-accuracy regimes. Furthermore, hierarchical decision-making is extended to whole-body dynamic control for humanoid walking, where the need for high-accuracy solutions is highlighted.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.11090",
+   "authors": [
+    "Kai Pfeiffer",
+    "Jia Wang",
+    "Gordon Owusu Boateng",
+    "Yuquan Wang",
+    "Vincent Bonnet",
+    "Abderrahmane Kheddar"
+   ],
+   "categories": [
+    "arXiv:cs.RO",
+    "arXiv:math.OC"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-08",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.11090"
+   ],
+   "title": "Large-Scale Hierarchical Decision-Making in Robot Control via ADMM",
+   "topics": [],
+   "updated_date": "2026-11-08",
+   "url": "https://arxiv.org/abs/2611.11090"
+  },
+  "score": 6.3,
+  "seen": 1,
+  "suggested": "robot-control",
+  "title": "Large-Scale Hierarchical Decision-Making in Robot Control via ADMM",
+  "url": "https://arxiv.org/abs/2611.11090"
  },
  {
   "added": "2026-11-05",
@@ -9856,521 +10323,5 @@
   "suggested": "actuators",
   "title": "Simulation Modeling and Control of an Elastic Shaping Antagonistic Variable Stiffness Actuator",
   "url": "https://arxiv.org/abs/2611.07504"
- },
- {
-  "added": "2026-11-08",
-  "arxiv": null,
-  "candidates": [
-   [
-    "food-drying-and-dehydration",
-    3.73
-   ],
-   [
-    "scanning-electron-microscopy",
-    2.13
-   ],
-   [
-    "polymerase-chain-reaction",
-    2.1
-   ],
-   [
-    "electron-microscopy",
-    1.2
-   ],
-   [
-    "magnetic-resonance-spectroscopy",
-    0.45
-   ],
-   [
-    "analysis",
-    0.33
-   ]
-  ],
-  "confidence": "medium",
-  "doi": "10.22037/afb.v13i1.53254",
-  "keys": [
-   "doi:10.22037/afb.v13i1.53254",
-   "title:survivaloffreeandalginatepullulanmicroencapsulatedlacticaseibacillusrhamnosusgginsoftgoatcheeseduringrefrigeratedstorageandsimulatedinvitrodigestion|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "Background and Aim: Probiotic cultures often lose viability during processing and storage, which limits their use in functional dairy products. This study compared the survival of free and alginate/pullulan-microencapsulated Lacticaseibacillus rhamnosus GG ATCC 53103 (LGG) in soft goat cheese during refrigerated storage and simulated in vitro digestion. Methods: Goat milk was pasteurized at 85 °C for 10 s, inoculated with a commercial starter culture and rennet and then held at 30 °C ±1 for 15 h. The curd was salted with 1% (ww-1) NaCl and stored at 4 °C for 30 d. The LGG was added as free cells or in alginate/pullulan microcapsules and three independently made batches were assessed. Free cells were mixed with trehalose (20% of cell mass) as a cryoprotectant before freeze-drying. Microcapsules were assessed using optical and scanning electron microscopy. A modified two-stage in vitro digestion model was used to investigate bacterial survival during simulated gastrointestinal digestion. Results and Conclusion: Presumptive LGG counts on MRS agar decreased during storage in the two cheeses, but the decrease was smaller in the cheese containing microcapsules. On Day 30, counts were 8.01 ±0.16 log CFU·g-1 for encapsulated cells and 6.22 ±0.05 log CFU·g-1 for free cells, corresponding to losses of 0.61 and 2.39 log units, respectively. The difference between treatments at this time point was significant (adjusted p < 0.05). After the intestinal phase of simulated digestion, counts were 7.96 ±0.06 log CFU·g-1 for encapsulated cells and 6.12 ±0.07 log CFU·g-1 for the free cells. Under the conditions assessed, alginate/pullulan microencapsulation improved the retention of culturable LGG in soft goat cheese during refrigerated storage and simulated gastrointestinal digestion. INTRODUCTION Within the past few decades, consumers have shown increasing interests in functional foods, which may offer health benefits in addition to basic nutrition [1,2]. Probiotic foods are a major group within this category. They contain live microorganisms that confer a health benefit on the host when administered in adequate quantities [3]. Probiotic bacteria have been shown to help maintain the balance of the intestinal microbiota, support immune function and prevent gastrointestinal disorders [3–5]. Dairy products are widely used to deliver probiotic cultures to consumers because they suit these organisms well and are technologically convenient [6–8]. Industrial use of probiotics is limited by two requirements. Enough viable cells must persist through processing and storage and the cells must survive passage through the gastrointestinal tract (GIT) [9–11]. A probiotic product must include enough viable cells until the end of its shelf life. There is, however, no single minimum count that holds for every strain and every health outcome. The quantity the product delivers should match the dose that is shown effective for that particular strain and the intended benefit [9]. In the GIT, viability decreases by low gastric pH, bile salts and digestive enzymes. During processing and storage, it decreases by heating, oxygen exposure, osmotic stress, dehydration and prolonged refrigeration [10–12]. Goat milk is not an inherently poor matrix for probiotic cultures: its nutrient composition may support their survival. Its casein profile and physicochemical characteristics, however, can affect fermentation, curd formation, texture and the viability of individual strains [13–15]. Thus, probiotic survival needs assessment for each strain-matrix combination. Freeze-drying, spray-drying and microencapsulation have been developed to improve probiotic survival. Microencapsulation is generally addressed as the most promising technique. The capsule wall shields cells from adverse conditions and may allow targeted delivery and controlled release in the intestines [16,17]. How well it acts depends on the wall material, encapsulation method, particle size and strain as well as processing and storage conditions [17]. Most current studies use natural biopolymers such as alginate, pectin, chitosan, starch, plant gums and dairy and plant proteins. Prebiotic ingredients, including inulin, fructooligosaccharides, galactooligo-saccharides and resistant starch, can be added to the matrix. Such a formulation should be called synbiotic only if the host microorganisms or the coadministered strain select-ively use the substrate and the combination has been shown to confer a health benefit [18,19]. Goat cheese has been studied as a probiotic carrier because of its nutritional value and its physicochemical composition [13,20]. Studies with free and microen-capsulated strains of Lactobacillus, Lacticaseibacillus and Bifidobacterium show that adding probiotics can change the physicochemical, textural and sensory characteristics of goat cheese. The direction and size of these changes depend on the strain, encapsulation system, cheese formulation and storage conditions [20–22]. In a previous study on goat cheese, microencapsulated probiotics survived refrigerated storage better than that free cells did [21,22]. Lopes et al. [21] detected that microencapsulated L. acidophilus La-05 in spreadable goat Ricotta tolerated simulated gastrointestinal digestion better. A few studies, however, have directly compared free and microen-capsulated L. rhamnosus GG (LGG) in soft goat cheeses. Microencapsulation of probiotics has been studied extensively [16,17]; however, most of this studies were carried out in model systems rather than in fermented foods. For goat cheese, published data concern majorly other strains or other wall materials [20–22] and the current study detected a few reports on L. rhamnosus GG (LGG) in soft goat cheese [20–24]. The authors’ previous results showed that an alginate/pullulan matrix protects LGG when the capsules were assessed [23]. However, this effect was preserved after the capsules were added to an acid-rennet goat cheese. To the authors’ best knowledge, free and encapsulated LGG have rarely been compared in similar cheeses during cold storage and then simulated digestion [20–24]. Such a comparison is needed, since cells that survive storage may be lost in the gastric or intestinal phase and the cheese matrix may change viability and release [16,17]. In this study, LGG was encapsulated in algin-ate/pullulan (without a bacterial cellulose coating) and added to soft goat cheese from acid-rennet coagulation. Cheeses with free and encapsulated LGG were prepared from a similar formulation in three independent batches. Viable counts were assessed at 4 °C within 30 d and the stored cheeses were then subjected to a modified two-stage in vitro digestion (gastric phase followed by intestinal phase). The authors asked if encapsulation gives LGG a survival advantage in this cheese, first during storage and then under simulated gastrointestinal conditions. This study aimed to compare the viability of free and alginate/pullulan-microencapsulated LGG in soft goat cheese made by acid-rennet coagulation at 4 °C within 30 d of storage. The study also assessed cell survival in a modified two-stage in vitro digestion model. MATERIALS AND METHODS 2.1. Materials The L. rhamnosus GG ATCC 53103 (LGG) was pur-chased from the American Type Culture Collection (ATCC, USA). De Man-Rogosa-Sharpe (MRS) broth and MRS agar were purchased from Titan Biotech, India. Goat milk was purchased from a private farm in Talgar, Almaty Region, Kazakhstan. The commercial starter culture BIOCHEM MSY-910, Italy, was used for cheese manu-facture. According to the manufacturer, the starter culture contained Lactococcus lactis subsp. cremoris, L. lactis subsp. lactis, L. lactis subsp. lactis biovar diacetylactis, Leuconostoc mesenteroides subsp. cremoris and Strepto-coccus thermophilus. Strain-level identification and culture collection accession numbers for these starter micro-organisms were not provided by the manufacturer. Sodium alginate was purchased from Sigma-Aldrich, Germany, and calcium chloride (CaCl₂) was purchased from Fisher Scientific, Canada. Pullulan, trehalose, sodium chloride (NaCl), sodium citrate, vancomycin, hydrochloric acid (HCl), sodium hydroxide (NaOH), pepsin, pancreatin and bile salts were purchased from AppliChem, Germany. Sterile distilled water (DW) and sterile saline solution were used through the experimental procedures where needed. Liquid rennet (18,000 IMCU·ml⁻¹) was purchased from Poleznaya Partiya, Russia, and used for acid-rennet coagulation during cheese manufacture. For molecular analyses, PureLink genomic DNA mini kit was purchased from Invitrogen, Thermo Fisher Scientific, USA. Poly-merase chain reaction (PCR) amplification was carried out using 2× Taq Mix (PCR Master Mix; Sisco Research Labo-ratories, India). The LGG-F (5′-CGCCC-TTAACAGC-AGTCTTCAAAT-3′) and LGG-R (5′-ACGCGCCCTCC-GTATGCTTAAACC-3′) primers were used for the detec-tion of the LGG-associated markers. Nuclease-free water was used for preparation of PCR mixtures. For electro-phoretic analysis, agarose gels were prepared in TAE buffer and 100-bp DNA ladder was used as the molecular size marker. Ethidium bromide (EtBr) was purchased from Thermo Scientific, USA, and used for the visualization of PCR products. 2.2. Cultivation of the Probiotic Strain The L. rhamnosus GG ATCC 53103 is one of the most extensively studied probiotic strains. The authors chose it because its survival under processing stresses and gastro-intestinal conditions was well documented [10,11,24,25]. The LGG was grown in MRS broth (Titan Biotech, India). Viable counts were assessed by plating on MRS agar and incubating at 37 °C for 48 h and expressed as colony-forming units (CFU). 2.3. Physicochemical Analysis of Goat Milk Goat milk was purchased from a local farm in Talgar, Almaty Region, Kazakhstan, and analyzed raw and after pasteurization at 75 °C for 15 s or 85 °C for 10 s. Fat, protein, lactose, total solids and solids-no",
-   "abstract_license": "cc-by-nc",
-   "arxiv": null,
-   "authors": [
-    "Malika Abdulzhanova",
-    "Tolganay Turar",
-    "Aruzhan Zhumabayeva"
-   ],
-   "categories": [
-    "OpenAlex-field:Agricultural and Biological Sciences"
-   ],
-   "cited_by_count": 0,
-   "doi": "10.22037/afb.v13i1.53254",
-   "is_retracted": false,
-   "keywords": [],
-   "language": "en",
-   "oa_created": "2026-11-07",
-   "peer_reviewed": true,
-   "publication": "Applied food biotechnology",
-   "publication_type": "article",
-   "published_date": "2026-11-04",
-   "related_versions": [],
-   "source_ids": [
-    "openalex:W7225375647"
-   ],
-   "title": "Survival of Free and Alginate/Pullulan-microencapsulated Lacti-caseibacillus Rhamnosus GG in Soft Goat Cheese During Refrigerated Storage and Simulated in vitro Digestion",
-   "topics": [
-    "Probiotics and Fermented Foods",
-    "Food Science"
-   ],
-   "updated_date": "2026-11-07",
-   "url": "https://doi.org/10.22037/afb.v13i1.53254"
-  },
-  "score": 3.73,
-  "seen": 1,
-  "suggested": "food-drying-and-dehydration",
-  "title": "Survival of Free and Alginate/Pullulan-microencapsulated Lacti-caseibacillus Rhamnosus GG in Soft Goat Cheese During Refrigerated Storage and Simulated in vitro Digestion",
-  "url": "https://doi.org/10.22037/afb.v13i1.53254"
- },
- {
-  "added": "2026-11-05",
-  "arxiv": "2611.04382",
-  "candidates": [
-   [
-    "llm-inference-optimization",
-    4.4
-   ],
-   [
-    "large-language-models",
-    4.24
-   ],
-   [
-    "model-serving",
-    3.1
-   ],
-   [
-    "lossless-compression",
-    3.1
-   ],
-   [
-    "quantization",
-    1.85
-   ],
-   [
-    "optimization",
-    0.26
-   ]
-  ],
-  "confidence": "medium",
-  "doi": null,
-  "keys": [
-   "arxiv:2611.04382",
-   "title:beyondcompressionratiohighthroughputkvcompressionfordisaggregatedllmserving|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "KV cache compression reduces the communication volume of disaggregated large language model serving, but its practical benefit depends not only on compression ratio and model quality, but also on how efficiently the compression pipeline executes. This requirement becomes increasingly important as modern serving systems adopt high-bandwidth interconnects, where inefficient compression can offset a substantial portion of the saved communication time. This paper presents FastKVComp, a high-throughput KV cache compression data path built on top of KVServe. FastKVComp improves compression execution in two complementary ways. First, it fuses the distribution transformation and low-bit quantization stages into a KVaware TileLang kernel, eliminating intermediate tensor materialization and redundant memory accesses. Second, it replaces the original lossless compression backend with an open, extensible, and searchable backend based on LC, enabling high-performance compression operator pipelines. The fused kernel achieves up to 5.9x speedup, while the new lossless backend increases compression throughput from below 90 GB/s to over 500 GB/s. Across the evaluated workloads, FastKVComp reduces job completion time by up to 2.04x. End-to-end evaluation shows that these optimizations allow KV compression to retain meaningful communication benefits under modern high-bandwidth network.",
-   "abstract_license": "cc0-1.0 (arxiv metadata)",
-   "arxiv": "2611.04382",
-   "authors": [
-    "Junhong Wu",
-    "Zedong Liu",
-    "Xinyang Ma",
-    "Yuhan Chen",
-    "Guangming Tan",
-    "Dingwen Tao"
-   ],
-   "categories": [
-    "arXiv:cs.DC"
-   ],
-   "cited_by_count": null,
-   "doi": null,
-   "is_retracted": null,
-   "keywords": [],
-   "language": "en",
-   "peer_reviewed": false,
-   "publication": "arXiv",
-   "publication_type": "preprint",
-   "published_date": "2026-11-03",
-   "related_versions": [],
-   "source_ids": [
-    "arxiv:2611.04382"
-   ],
-   "title": "Beyond Compression Ratio: High-Throughput KV Compression for Disaggregated LLM Serving",
-   "topics": [],
-   "updated_date": "2026-11-04",
-   "url": "https://arxiv.org/abs/2611.04382"
-  },
-  "score": 4.4,
-  "seen": 2,
-  "suggested": "llm-inference-optimization",
-  "title": "Beyond Compression Ratio: High-Throughput KV Compression for Disaggregated LLM Serving",
-  "url": "https://arxiv.org/abs/2611.04382"
- },
- {
-  "added": "2026-11-08",
-  "arxiv": null,
-  "candidates": [
-   [
-    "condensed-matter-physics",
-    3.7
-   ],
-   [
-    "computational-physics",
-    3.1
-   ]
-  ],
-  "confidence": "medium",
-  "doi": "10.17586/2220-8054-2026-17-5-560-571",
-  "keys": [
-   "doi:10.17586/2220-8054-2026-17-5-560-571",
-   "title:fixedpointsandstabilityofanoperatorforthesosmodelwithcompetinginteractionsonthebinarytree|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "We study the fixed points and stability of a nonlinear operator associated with the three-state SOS model with one-level competing interactions on the binary Cayley tree. We provide an exact characterization of the parameter regions corresponding to one through seven positive fixed points of the associated nonlinear operator. For the physically relevant case in which the competing interaction coincides with the nearest-neighbour interaction, we determine the critical values separating different phase transition regimes and obtain a complete classification of the positive fixed points. We further investigate their local stability by analyzing the eigenvalues of the Jacobian matrix and classify the fixed points as attracting, repelling, or saddle. The analytical results are complemented by phase portraits illustrating the qualitative dynamics of the nonlinear operator.",
-   "abstract_license": "other-oa",
-   "arxiv": null,
-   "authors": [
-    "Muzaffar Muhammadjanovich Rahmatullaev",
-    "Obid Sh. Karshiboev"
-   ],
-   "categories": [
-    "OpenAlex-field:Physics and Astronomy"
-   ],
-   "cited_by_count": 0,
-   "doi": "10.17586/2220-8054-2026-17-5-560-571",
-   "is_retracted": false,
-   "keywords": [],
-   "language": "en",
-   "oa_created": "2026-11-07",
-   "peer_reviewed": true,
-   "publication": "Nanosystems Physics Chemistry Mathematics",
-   "publication_type": "article",
-   "published_date": "2026-11-04",
-   "related_versions": [],
-   "source_ids": [
-    "openalex:W7225390743"
-   ],
-   "title": "Fixed points and stability of an operator for the SOS model with competing interactions on the binary tree",
-   "topics": [
-    "Theoretical and Computational Physics",
-    "Condensed Matter Physics"
-   ],
-   "updated_date": "2026-11-07",
-   "url": "https://doi.org/10.17586/2220-8054-2026-17-5-560-571"
-  },
-  "score": 3.7,
-  "seen": 1,
-  "suggested": "physics",
-  "title": "Fixed points and stability of an operator for the SOS model with competing interactions on the binary tree",
-  "url": "https://doi.org/10.17586/2220-8054-2026-17-5-560-571"
- },
- {
-  "added": "2026-11-07",
-  "arxiv": "2611.07408",
-  "candidates": [
-   [
-    "llm-reasoning-methods",
-    4.36
-   ],
-   [
-    "large-language-models",
-    3.7
-   ],
-   [
-    "scene-understanding",
-    3.1
-   ],
-   [
-    "optimization",
-    0.26
-   ]
-  ],
-  "confidence": "medium",
-  "doi": "10.1145/3767308.3835827",
-  "keys": [
-   "arxiv:2611.07408",
-   "doi:10.1145/3767308.3835827",
-   "title:psgagentenhancingmllmsdynamicvisualperceptionforpanopticscenegraphgenerationviaagenticreasoning|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "Panoptic Scene Graph generation (PSG) requires holistic yet fine-grained reasoning over complex relations among objects. However, current Multimodal Large Language Models (MLLMs) applied to PSG suffer from a perception bottleneck: they function as static observers limited by fixed-resolution views. As a result, models often overlook critical relations involving small or peripheral objects and struggle to differentiate ambiguous predicates in complex scenes. To address these limitations, we propose PSGAgent, an agentic framework that enhances visual perception for PSG through a think-act-observe loop. PSGAgent allows MLLMs to dynamically refine their visual perception using two tools: a Region Zoom-In Tool for local exploration of small or boundary relations and a Visual Highlight Tool for relation-focused segmentation that filters out irrelevant contextual noise. To optimize decision-making, we construct a two-stage training pipeline. First, we create a high-quality, error-aware Multimodal Chain-of-Thought (M-CoT) dataset that provides robust supervision for cold-start learning. Then, we design a novel hierarchical reward mechanism integrated with Group Sequence Policy Optimization (GSPO) to enable strategic and adaptive tool usage. Extensive experiments on the PSG benchmark show that PSGAgent achieves SOTA performance, demonstrating strong capability in both holistic and fine-grained scene understanding.",
-   "abstract_license": "cc0-1.0 (arxiv metadata)",
-   "arxiv": "2611.07408",
-   "authors": [
-    "Qingyun Liu",
-    "Yuankun Liu",
-    "Jiaye Feng",
-    "Jie Huang",
-    "Zonghong Dai",
-    "Haochen Li",
-    "Jingkun Wang",
-    "Weiping Li",
-    "Tong Mo"
-   ],
-   "categories": [
-    "arXiv:cs.CV",
-    "arXiv:cs.AI"
-   ],
-   "cited_by_count": null,
-   "doi": "10.1145/3767308.3835827",
-   "is_retracted": null,
-   "keywords": [],
-   "language": "en",
-   "peer_reviewed": null,
-   "publication": "arXiv",
-   "publication_type": "preprint",
-   "published_date": "2026-11-05",
-   "related_versions": [
-    {
-     "doi": "10.1145/3767308.3835827",
-     "relation": "published_version",
-     "source": "arxiv"
-    }
-   ],
-   "source_ids": [
-    "arxiv:2611.07408"
-   ],
-   "title": "PSGAgent: Enhancing MLLMs' Dynamic Visual Perception for Panoptic Scene Graph Generation via Agentic Reasoning",
-   "topics": [],
-   "updated_date": "2026-11-05",
-   "url": "https://arxiv.org/abs/2611.07408"
-  },
-  "score": 4.36,
-  "seen": 2,
-  "suggested": "llm-reasoning-methods",
-  "title": "PSGAgent: Enhancing MLLMs' Dynamic Visual Perception for Panoptic Scene Graph Generation via Agentic Reasoning",
-  "url": "https://arxiv.org/abs/2611.07408"
- },
- {
-  "added": "2026-11-08",
-  "arxiv": null,
-  "candidates": [
-   [
-    "machine-learning",
-    3.3
-   ],
-   [
-    "computed-tomography",
-    3.1
-   ],
-   [
-    "support-vector-machines",
-    2.97
-   ],
-   [
-    "gradient-boosting",
-    2.52
-   ],
-   [
-    "computational-fluid-dynamics",
-    1.79
-   ],
-   [
-    "fluid-dynamics",
-    1.2
-   ]
-  ],
-  "confidence": "medium",
-  "doi": null,
-  "keys": [
-   "title:aienhancedhemodynamicmodellingforpredictingpostendovascularcomplicationsincomplexaneurysmrepairs|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "EVAR has come to be regarded as a major minimally invasive surgery to cure complex aneurysms yet problematic postoperative issues like endoleaks, graft migration, thrombosis, and expansion of the aneurysm sac remain clinical issues. This report suggests an AI-boosted haemodynamic model to predict the occurrence of post-endovascular complications by incorporating patient-specific vascular imaging, computational fluid dynamics (CFD) and machine learning in its predictive algorithms. The introduced methodology involves the use of the computed tomography angiography (CTA) information, three-dimensional vascular tree reconstruction and parameters of hemodynamics, which include: the wall shear stress, oscillatory shear index, pressure gradient and blood flow velocity. The methodology incorporates four machine learning algorithms such as: Random Forest, Extreme Gradient Boosting (XGBoost), Support Vector Machine and Artificial Neural Network, which may help to perform predictive analysis. The experimentally achieved results as an example illustrate that XGBoost reaches the highest classification accuracy (93.6%) and ROC-AUC (0.96). This means that this algorithm can be applied for identification of the risk of postoperative complications. Also, the influence of the wall shear stress and pressure gradient is illustrated with the feature importance analysis. The presented framework is expected to be a promising computation technique to achieve the stratification of risks, postoperative monitoring and medical decision-making in an individual way. Further validation using multicenter clinical data sets should be performed to test the reliability and practicality of this approach in aneurysms treatment.",
-   "abstract_license": null,
-   "arxiv": null,
-   "authors": [
-    "Suresh Palarimath"
-   ],
-   "categories": [
-    "OpenAlex-field:Medicine"
-   ],
-   "cited_by_count": 0,
-   "doi": null,
-   "is_retracted": false,
-   "keywords": [
-    "endovascular aneurysm repair",
-    "postoperative complications",
-    "endoleak",
-    "graft migration",
-    "aneurysm sac enlargement",
-    "wall shear stress",
-    "oscillatory shear index",
-    "pressure gradient",
-    "blood flow velocity",
-    "CT angiography",
-    "XGBoost",
-    "risk stratification",
-    "machine learning prediction"
-   ],
-   "language": "en",
-   "oa_created": "2026-11-06",
-   "peer_reviewed": true,
-   "publication": "Journal of chemical health risks",
-   "publication_type": "article",
-   "published_date": "2026-11-04",
-   "related_versions": [],
-   "source_ids": [
-    "openalex:W7225349799"
-   ],
-   "title": "AI-Enhanced Hemodynamic Modelling for Predicting Post-Endovascular Complications in Complex Aneurysm Repairs",
-   "topics": [
-    "Aortic aneurysm repair treatments",
-    "Surgery"
-   ],
-   "updated_date": "2026-11-07",
-   "url": "https://jchr.org/index.php/JCHR/article/view/17789"
-  },
-  "score": 3.3,
-  "seen": 2,
-  "suggested": "machine-learning",
-  "title": "AI-Enhanced Hemodynamic Modelling for Predicting Post-Endovascular Complications in Complex Aneurysm Repairs",
-  "url": "https://jchr.org/index.php/JCHR/article/view/17789"
- },
- {
-  "added": "2026-11-08",
-  "arxiv": null,
-  "candidates": [
-   [
-    "mathematical-physics",
-    3.5
-   ],
-   [
-    "spectral-theory",
-    3.1
-   ],
-   [
-    "translation",
-    0.33
-   ]
-  ],
-  "confidence": "medium",
-  "doi": "10.17586/2220-8054-2026-17-5-537-546",
-  "keys": [
-   "doi:10.17586/2220-8054-2026-17-5-537-546",
-   "title:feshbachinducedbindingoftwononinteractingbosonscoupledtoastructurelessmolecularchannelonthetwodimensionallattice|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "We study a translation-invariant two-channel Hamiltonian on the two-dimensional lattice Z 2 describing two identical spinless bosons with no direct boson–boson interaction, coupled through an on-site association/dissociation term of strength γ ∈ R to a structureless molecular channel of fixed scalar internal energy E 0 ∈ R. The model is a 2 × 2 block operator matrix; it is translation invariant and admits a fiber decomposition over the total quasi-momentum k ∈ T 2 , whose fibers H γ (k) act on C ⊕ L 2,e (T 2 ). The perturbation distinguishing H γ (k) from the free operator has rank at most two, so the essential spectrum of each fiber is [ϵ min (k), ϵ max (k)], equal to [0, 16] at k = 0, independently of E 0 and γ. For the distinguished fiber H γ (0), we determine the discrete spectrum completely and uniformly in the coupling: when γ = 0, the channels decouple and the only discrete eigenvalue is the bare molecular level E 0 , present exactly when E 0 ∈/ [0, 16]; whereas for every γ ̸= 0 and every E 0 ∈ R, the operator has exactly two simple discrete eigenvalues, one strictly below and one strictly above the two-boson continuum [0, 16]. In two dimensions, the logarithmic singularity of the lattice Green’s function at the spectral edges makes both bound states appear for arbitrarily weak coupling, the binding energies being exponentially small when E 0 lies inside the continuum and only algebraically small (up to a logarithm) when E 0 sits at a band edge. The model is a rigorous lattice realization of Feshbach-induced binding produced by interchannel coupling alone.",
-   "abstract_license": "other-oa",
-   "arxiv": null,
-   "authors": [
-    "Asomiddin Tulkinovich Boltaev"
-   ],
-   "categories": [
-    "OpenAlex-field:Mathematics"
-   ],
-   "cited_by_count": 0,
-   "doi": "10.17586/2220-8054-2026-17-5-537-546",
-   "is_retracted": false,
-   "keywords": [],
-   "language": "en",
-   "oa_created": "2026-11-07",
-   "peer_reviewed": true,
-   "publication": "Nanosystems Physics Chemistry Mathematics",
-   "publication_type": "article",
-   "published_date": "2026-11-04",
-   "related_versions": [],
-   "source_ids": [
-    "openalex:W7225393196"
-   ],
-   "title": "Feshbach-induced binding of two non-interacting bosons coupled to a structureless molecular channel on the two-dimensional lattice",
-   "topics": [
-    "Spectral Theory in Mathematical Physics",
-    "Mathematical Physics"
-   ],
-   "updated_date": "2026-11-07",
-   "url": "https://doi.org/10.17586/2220-8054-2026-17-5-537-546"
-  },
-  "score": 3.5,
-  "seen": 1,
-  "suggested": "mathematical-physics",
-  "title": "Feshbach-induced binding of two non-interacting bosons coupled to a structureless molecular channel on the two-dimensional lattice",
-  "url": "https://doi.org/10.17586/2220-8054-2026-17-5-537-546"
- },
- {
-  "added": "2026-11-08",
-  "arxiv": null,
-  "candidates": [
-   [
-    "pharmaceutical-sciences",
-    3.1
-   ],
-   [
-    "metabolism",
-    0.66
-   ],
-   [
-    "physiology",
-    0.26
-   ],
-   [
-    "nanotechnology",
-    0.26
-   ]
-  ],
-  "confidence": "medium",
-  "doi": null,
-  "keys": [
-   "title:buccaldrugdeliverysystem|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "The buccal drug delivery system is a sophisticated and promising method for delivering medications for both local and systemic therapeutic effects via the buccal mucosa, the inner lining of the cheek. It provides an alternative to traditional oral drug delivery by lessening the effects of hepatic first-pass metabolism and gastrointestinal degradation for appropriate medications. This strategy may increase patient compliance, provide regulated medication release, improve drug bioavailability, and give a practical, non-invasive way to administer drugs. The buccal mucosa's morphology and physiology, drug absorption mechanisms, and the contribution of mucoadhesion to better drug delivery and retention are the main topics of this review. The interaction between mucoadhesive formulations and the mucosal surface is explained by a variety of mucoadhesion theories, such as electronic, adsorption, diffusion, wetting, mechanical, and fracture theories. The significance of natural, semisynthetic, and synthetic mucoadhesive polymers in creating successful buccal formulations is also highlighted in the review. The preparation techniques and formulation elements of various dosage forms, including buccal tablets, films, patches, gels, and wafers, are explained. Additionally, the functions of various excipients and permeation enhancers in enhancing drug transport via the buccal mucosa are investigated. Mucoadhesive strength, swelling index, surface pH, drug content, in vitro drug release, ex vivo permeability, stability, and other crucial evaluation parameters are also covered. Recent developments in nanotechnology, fastdissolving films, nanocarriers, and three-dimensional printing have opened up new possibilities for designing patient-friendly dosage forms and enhancing medication delivery efficacy. However, during formulation creation, issues such salivary secretion, mucosal barrier characteristics, limited absorption area, formulation acceptability, and possible irritation must be taken into account. As a whole, The buccal drug delivery system is an important pharmaceutical strategy that may enhance patient convenience, medication bioavailability, and therapeutic efficacy. The creation of buccal drug delivery formulations that are safer, more effective, and clinically useful may be facilitated by more research and technical developments.",
-   "abstract_license": "cc-by-nc-nd",
-   "arxiv": null,
-   "authors": [
-    "Mr. Sai Santosh Rathod,  Shweta Annaso Gaikwad, Dhanashri Chandrakant Chorage, Swaraj Vijay Kadam, Rajwardhan Sampatrao Jagtap"
-   ],
-   "categories": [
-    "OpenAlex-field:Pharmacology, Toxicology and Pharmaceutics"
-   ],
-   "cited_by_count": 0,
-   "doi": null,
-   "is_retracted": false,
-   "keywords": [
-    "buccal drug delivery",
-    "buccal mucosa",
-    "mucoadhesion",
-    "mucoadhesive polymers",
-    "buccal tablets",
-    "buccal films",
-    "buccal patches",
-    "penetration enhancers",
-    "drug bioavailability",
-    "first-pass metabolism",
-    "nanocarriers",
-    "fast dissolving films",
-    "three-dimensional printing"
-   ],
-   "language": "en",
-   "oa_created": "2026-11-06",
-   "peer_reviewed": true,
-   "publication": "International Journal of Pharmacy with Medical Sciences",
-   "publication_type": "article",
-   "published_date": "2026-11-04",
-   "related_versions": [],
-   "source_ids": [
-    "openalex:W7225353932"
-   ],
-   "title": "BUCCAL DRUG DELIVERY SYSTEM",
-   "topics": [
-    "Advanced Drug Delivery Systems",
-    "Pharmaceutical Science"
-   ],
-   "updated_date": "2026-11-07",
-   "url": "https://ijpams.com/journal/index.php/ijpams/article/view/225"
-  },
-  "score": 3.1,
-  "seen": 2,
-  "suggested": "pharmaceutical-sciences",
-  "title": "BUCCAL DRUG DELIVERY SYSTEM",
-  "url": "https://ijpams.com/journal/index.php/ijpams/article/view/225"
  }
 ]

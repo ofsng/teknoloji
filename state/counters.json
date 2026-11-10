@@ -214,5 +214,48 @@
    "vertical-axis-wind-turbines": 1,
    "virtual-power-plants": 2
   }
+ },
+ "2026-11-10": {
+  "archived": 40,
+  "backfill": 0,
+  "by_source": {
+   "openalex": 40
+  },
+  "llm_calls": 1,
+  "llm_usd": 0.0,
+  "per_tech": {
+   "4d-printing": 1,
+   "atomic-layer-deposition": 1,
+   "bayesian-neural-networks": 1,
+   "concentrated-solar-power": 1,
+   "density-functional-theory": 1,
+   "directed-energy-deposition": 1,
+   "dna-methylation": 1,
+   "fiber-bragg-grating-sensors": 1,
+   "friction-stir-welding": 3,
+   "genome-wide-association-studies": 1,
+   "graph-attention-networks": 2,
+   "graph-neural-networks": 1,
+   "heat-transfer": 1,
+   "hollow-core-fibers": 1,
+   "image-segmentation": 1,
+   "intrusion-detection-systems": 3,
+   "life-cycle-assessment": 3,
+   "light-emitting-diodes": 1,
+   "magnetic-resonance-imaging": 1,
+   "magnetic-tunnel-junctions": 1,
+   "multimodal-foundation-models": 1,
+   "physical-layer-security": 1,
+   "reconfigurable-intelligent-surfaces": 1,
+   "recurrent-neural-networks": 1,
+   "selective-laser-sintering": 1,
+   "series-elastic-actuators": 1,
+   "software-defined-networking": 2,
+   "spintronics": 1,
+   "sustainable-aviation-fuels": 1,
+   "text-to-image-generation": 1,
+   "user-centered-design": 1,
+   "ventricular-assist-devices": 1
+  }
  }
 }

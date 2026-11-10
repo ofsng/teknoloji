@@ -75,7 +75,10 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **2**.
+
+- [An Explainable Graph Attention Network for Indirect Prompt Injection Detection in RAG Systems](Arastirmalar/2026-Rudrani-Explainable-Graph-Attention-Network.md) — Rudrani vd. (2026) · *International Journal for Research in Applied Science and Engineering Technology* · hakemli
+- [MedClassNet: a novel NLP framework for automated disease classification from clinical text using transformer and graph attention networks](Arastirmalar/2026-Shivahare-MedClassNet-novel-NLP-framework.md) — Shivahare vd. (2026) · *Scientific Reports* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -83,7 +86,10 @@ Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
-_Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini göstermez; ön baskılar hakemli değildir._
+Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
+
+- [An Explainable Graph Attention Network for Indirect Prompt Injection Detection in RAG Systems](Arastirmalar/2026-Rudrani-Explainable-Graph-Attention-Network.md) — Rudrani vd. (2026) · *International Journal for Research in Applied Science and Engineering Technology* · hakemli
+- [MedClassNet: a novel NLP framework for automated disease classification from clinical text using transformer and graph attention networks](Arastirmalar/2026-Shivahare-MedClassNet-novel-NLP-framework.md) — Shivahare vd. (2026) · *Scientific Reports* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

@@ -85,7 +85,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **5**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **8**.
 
 - [Metal Additive Manufacturing of Engineering Alloys: Process–Material Interactions, Defect Formation, Property Optimization and a Decision-Making Framework](Arastirmalar/2026-Rocha-Metal-Additive-Manufacturing-Engineering.md) — Rocha vd. (2026) · *Journal of Mechanical Engineering and Manufacturing* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -97,8 +97,11 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Justification of 4D printing over 3D printing for IoT and mechatronics applications using fuzzy analytical hierarchy process](4B-Baski/Arastirmalar/2026-Kumari-Justification-printing-over-printing.md) — Kumari vd. (2026) · *Journal of Intelligent & Fuzzy Systems* · hakemli
+- [A review of the selective laser sintering technology for bio-based nylon 11](Toz-Yatagi-Fuzyonu/Secici-Lazer-Sinterleme/Arastirmalar/2026-Wang-review-the-selective-laser.md) — Wang (2026) · *International Journal of Research in Engineering and Science* · hakemli
 - [Design for additive manufacturing. The application to the AEC industry](Eklemeli-Imalat-icin-Tasarim/Arastirmalar/2026-Cruz-Design-for-additive-manufacturing.md) — Cruz vd. (2026) · *The Design Journal* · hakemli
 - [Microstructure evolution and mechanical performance optimization of 30CrMnSiNi2A steel processed by laser powder bed fusion combined with heat treatment](Toz-Yatagi-Fuzyonu/Lazer-Toz-Yatagi-Fuzyonu/Arastirmalar/2026-Wang-Microstructure-evolution-and-mechanical.md) — Wang vd. (2026) · *Materials Science and Technology* · hakemli
+- [Thermal behavior and microstructure control of Ti6Al4V alloy in laser directed energy deposition using synchronous gas cooling strategy](Yonlendirilmis-Enerji-Biriktirme/Arastirmalar/2026-Zhang-Thermal-behavior-and-microstructure.md) — Zhang vd. (2026) · *Thermal Science and Engineering Progress* · hakemli
 - [Metal Additive Manufacturing of Engineering Alloys: Process–Material Interactions, Defect Formation, Property Optimization and a Decision-Making Framework](Arastirmalar/2026-Rocha-Metal-Additive-Manufacturing-Engineering.md) — Rocha vd. (2026) · *Journal of Mechanical Engineering and Manufacturing* · hakemli
 - [Synergistic Effects of Carbon/Nitrogen Content and Laser Powder Bed Fusion Parameters on the Hot Cracking Behavior and Microstructural Evolution of a Ni–Co‐Based Superalloy](Toz-Yatagi-Fuzyonu/Lazer-Toz-Yatagi-Fuzyonu/Arastirmalar/2026-Yu-Synergistic-Effects-Carbon-Nitrogen.md) — Yu vd. (2026) · *Advanced Engineering Materials* · hakemli
 - [Comprehensive Review on Additive Manufacturing of Plastic and Composite Parts for Aerospace by Powder Bed Fusion](Toz-Yatagi-Fuzyonu/Arastirmalar/2026-Patrizii-Comprehensive-Review-Additive-Manufactu.md) — Patrizii vd. (2026) · *Powders* · hakemli

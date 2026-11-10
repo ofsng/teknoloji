@@ -81,7 +81,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **5**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **7**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -92,9 +92,11 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
 - [Aerodynamic Design and Numerical Assessment of a 1.5 kW Helical Vertical-Axis Wind Turbine Using DMST and Three-Dimensional CFD](Ruzgar-Enerjisi/Dikey-Eksenli-Ruzgar-Turbinleri/Arastirmalar/2026-Valdovinos-Aerodynamic-Design-and-Numerical.md) — Valdovinos vd. (2026) · *Eng—Advances in Engineering* · hakemli
+- [Improved Biomass Production via Enhanced Inorganic Carbon Availability Using Crystalline Calcium Silicate Hydrate in a Marine Oleaginous Diatom Cultivation for Sustainable Aviation Fuel Production](Biyoenerji/Biyoyakitlar/Surdurulebilir-Havacilik-Yakitlari/Arastirmalar/2026-Murata-Improved-Biomass-Production-via.md) — Murata vd. (2026) · *ACS Sustainable Chemistry & Engineering* · hakemli
 - [Evaluation of a Dye-Sensitized Solar Cell (DSSC) device based on Agaricus bisporus extract](Gunes-Enerjisi/Fotovoltaik/Boya-Duyarli-Gunes-Hucreleri/Arastirmalar/2026-Zavala-Barba-Evaluation-Dye-Sensitized-Solar.md) — Zavala-Barba vd. (2026) · *ECORFAN Journal Republic of Guatemala* · hakemli
 - [Fabrication, Transportation, and Installation of Fixed and Floating Offshore Wind Turbines: A State of the Art Review](Ruzgar-Enerjisi/Deniz-Ustu-Ruzgar/Yuzer-Deniz-Ustu-Ruzgar/Arastirmalar/2026-Hermanto-Fabrication-Transportation-and-Installa.md) — Hermanto vd. (2026) · *Maritime Park Journal of Maritime Technology and Society* · hakemli
 - [Improving the Efficiency of Horizontal-Axis Wind Turbines Using High-Lift Devices](Ruzgar-Enerjisi/Yatay-Eksenli-Ruzgar-Turbinleri/Arastirmalar/2026-M-Improving-the-Efficiency-Horizontal.md) — M vd. (2026) · *Semarak Engineering Journal* · hakemli
+- [Techno-Economic Assessment of Dish/Stirling Concentrated Solar Power Systems in Saudi Arabia: New Path to Sustainability](Gunes-Enerjisi/Yogunlastirilmis-Gunes-Enerjisi/Arastirmalar/2026-Zayed-Techno-Economic-Assessment-Dish.md) — Zayed vd. (2026) · *Solar* · hakemli
 - [Dynamic Performance Assessment of a PEMFC-Assisted Ground Source Heat Pump System with Cascade Waste Heat Recovery in Severe Cold Regions](Jeotermal-Enerji/Toprak-Kaynakli-Isi-Pompalari/Arastirmalar/2026-Qi-Dynamic-Performance-Assessment-PEMFC.md) — Qi vd. (2026) · *Processes* · hakemli
 <!-- AUTO:RECENT:END -->
 
