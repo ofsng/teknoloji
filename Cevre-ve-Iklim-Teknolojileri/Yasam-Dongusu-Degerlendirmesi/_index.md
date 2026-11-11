@@ -75,7 +75,11 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **3**, alt teknolojiler dahil: **3**.
+
+- [A Comparative Environmental Life Cycle Assessment of Dynamically Wound FRP Reinforcing Bars for Additively Manufactured Concrete Structures](Arastirmalar/2026-Albrecht-Comparative-Environmental-Life-Cycle.md) — Albrecht vd. (2026) · *Sustainability* · hakemli
+- [China's urban rail transit carbon peak: when and how – a dynamic life cycle assessment](Arastirmalar/2026-Huang-China-urban-rail-transit.md) — Huang vd. (2026) · *Proceedings of the Institution of Civil Engineers - Engineering Sustainability* · hakemli
+- [Mathematical unification of methods for hybrid life cycle assessment](Arastirmalar/2026-Weinold-Mathematical-unification-methods-for.md) — Weinold vd. (2026) · *Journal of Industrial Ecology* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -83,7 +87,11 @@ Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
-_Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini göstermez; ön baskılar hakemli değildir._
+Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
+
+- [Mathematical unification of methods for hybrid life cycle assessment](Arastirmalar/2026-Weinold-Mathematical-unification-methods-for.md) — Weinold vd. (2026) · *Journal of Industrial Ecology* · hakemli
+- [China's urban rail transit carbon peak: when and how – a dynamic life cycle assessment](Arastirmalar/2026-Huang-China-urban-rail-transit.md) — Huang vd. (2026) · *Proceedings of the Institution of Civil Engineers - Engineering Sustainability* · hakemli
+- [A Comparative Environmental Life Cycle Assessment of Dynamically Wound FRP Reinforcing Bars for Additively Manufactured Concrete Structures](Arastirmalar/2026-Albrecht-Comparative-Environmental-Life-Cycle.md) — Albrecht vd. (2026) · *Sustainability* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

@@ -85,7 +85,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **4**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **6**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -95,10 +95,12 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Slow-Shot-Based Routing Selection for Optical Satellite Networks with Dynamical Optical Inter-Satellite Links](Uydu-Haberlesmesi/Uydular-Arasi-Baglantilar/Arastirmalar/2026-Wang-Slow-Shot-Based-Routing.md) — Wang vd. (2026) · *Electronics* · hakemli
 - [Vertical Segmented Waveguide-Enabled Pinching Antenna (V-SWAN)-Assisted EDMA-NOMA Integrated Sensing and Communication Systems](Kablosuz-Haberlesme/Butunlesik-Algilama-ve-Haberlesme/Arastirmalar/2026-Hari-Vertical-Segmented-Waveguide-Enabled.md) — Hari vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [Adaptive scrambling-based hadamard transform for peak-to-average power ratio reduction in sixth-generation orthogonal time-frequency space waveforms](Haberlesme-Kurami/Modulasyon/Cok-Tasiyicili-Modulasyon/Dik-Zaman-Frekans-Uzayi/Arastirmalar/2026-Kumar-Adaptive-scrambling-based-hadamard.md) — Kumar vd. (2026) · *PeerJ Computer Science* · hakemli
 - [Performance analysis of dual-IRS-assisted NOMA for underwater visible light communication in turbulent channels](Kablosuz-Haberlesme/Gorunur-Isik-Haberlesmesi/Arastirmalar/2026-Praharsha-Performance-analysis-dual-IRS.md) — Praharsha vd. (2026) · *Scientific Reports* · hakemli
 - [Neuromorphic Camera for Multi-Target Pointing Acquisition and Tracking in Free Space Optical Communication](Optik-Haberlesme/Serbest-Uzay-Optik-Haberlesme/Arastirmalar/2026-Nardo-Neuromorphic-Camera-for-Multi.md) — Nardo vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [Spatial SWIPT multiplexing and physical layer security enabled by near-field focusing and wavefront precoding](Kablosuz-Haberlesme/Fiziksel-Katman-Guvenligi/Arastirmalar/2026-Ayestaran-Spatial-SWIPT-multiplexing-and.md) — Ayestarán (2026) · *Physical Communication* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

@@ -90,7 +90,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **60**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **90**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -100,14 +100,14 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
-- [SoK: Post-Quantum Cryptography (PQC) Integration in Software Development: Approaches, Gaps, and Future Directions](Kriptografi/Kuantum-Sonrasi-Kriptografi/Arastirmalar/2026-N-SoK-Post-Quantum-Cryptography.md) — N. vd. (2026) · *arXiv* · ön baskı / hakemsiz
-- [SEER: A Scalable Event-Driven Runtime for Parallel Execution of Multi-Agent Reinforcement Learning Environments](Yapay-Zeka/Makine-Ogrenmesi/Pekistirmeli-Ogrenme/Cok-Etmenli-Pekistirmeli-Ogrenme/Arastirmalar/2026-Su-SEER-Scalable-Event-Driven.md) — Su vd. (2026) · *arXiv* · ön baskı / hakemsiz
-- [FedReason: Large Language Models as Weight-Space Meta-Aggregators for Heterogeneous Federated Learning](Yapay-Zeka/Makine-Ogrenmesi/Temel-Modeller/Buyuk-Dil-Modelleri/Arastirmalar/2026-Ruzbahani-FedReason-Large-Language-Models.md) — Ruzbahani vd. (2026) · *arXiv* · ön baskı / hakemsiz
-- [Benchmarking Large Language Models on Heterogeneous Cognitive and Biomedical Knowledge Graphs: The Role of Graph Grounding in Multi-Hop Reasoning and Hallucination Mitigation](Yapay-Zeka/Makine-Ogrenmesi/Temel-Modeller/Buyuk-Dil-Modelleri/Arastirmalar/2026-Sarabadani-Benchmarking-Large-Language-Models.md) — Sarabadani vd. (2026) · *arXiv* · ön baskı / hakemsiz
-- [Encoding and Propagation of Grammatical Number in Large Language Models](Yapay-Zeka/Makine-Ogrenmesi/Temel-Modeller/Buyuk-Dil-Modelleri/Arastirmalar/2026-Solinsky-Encoding-and-Propagation-Grammatical.md) — Solinsky vd. (2026) · *arXiv* · ön baskı / hakemsiz
-- [When, Where, How: Active In-Context Learning for Tabular Foundation Models](Yapay-Zeka/Makine-Ogrenmesi/Temel-Modeller/Buyuk-Dil-Modelleri/Baglam-Ici-Ogrenme/Arastirmalar/2026-Frey-When-Where-How-Active.md) — Frey (2026) · *arXiv* · ön baskı / hakemsiz
-- [CacheGraft: Enhancing Retrieval-Augmented Generation via Latent-Space Document Enrichment](Yapay-Zeka/Makine-Ogrenmesi/Temel-Modeller/Buyuk-Dil-Modelleri/Erisimle-Zenginlestirilmis-Uretim/Arastirmalar/2026-Lakshman-CacheGraft-Enhancing-Retrieval-Augmente.md) — Lakshman vd. (2026) · *arXiv* · ön baskı / hakemsiz
-- [ZeroRAG: Adaptive Semantic Peer Routing for Decentralized Retrieval-Augmented Generation](Yapay-Zeka/Makine-Ogrenmesi/Temel-Modeller/Buyuk-Dil-Modelleri/Erisimle-Zenginlestirilmis-Uretim/Arastirmalar/2026-Neague-ZeroRAG-Adaptive-Semantic-Peer.md) — Neague vd. (2026) · *arXiv*
+- [DreamLander: A 6-DOF World Model based Reinforcement Learning Planetary Lander](Yapay-Zeka/Makine-Ogrenmesi/Pekistirmeli-Ogrenme/Model-Tabanli-Pekistirmeli-Ogrenme/Arastirmalar/2026-Nehma-DreamLander-DOF-World-Model.md) — Nehma vd. (2026) · *Nehma, G.M., Quinn, P., Tiwari, M., & Riano-Rios, C. (2026). DreamLander: A 6-DOF World Model Based Reinforcement Learning Planetary Lander. AIAA SCITECH 2026 Forum* · hakemli
+- [Deep Q-network path planning with stratified sampling and prioritized replay](Yapay-Zeka/Makine-Ogrenmesi/Pekistirmeli-Ogrenme/Deger-Tabanli-Yontemler/Derin-Q-Aglari/Arastirmalar/2026-Zhang-Deep-network-path-planning.md) — Zhang vd. (2026) · *Future Technology* · hakemli
+- [Rancang Bangun Sistem E-Commerce Koperasi Desa Merah Putih Silian Satu Berbasis Website dengan Fitur Rekomendasi Produk Menggunakan Algoritma Content-Based Filtering](Veritabanlari-ve-Bilgi-Sistemleri/Bilgi-Erisimi/Oneri-Sistemleri/Icerik-Tabanli-Filtreleme/Arastirmalar/2026-Meteng-Rancang-Bangun-Sistem-Commerce.md) — Meteng vd. (2026) · *Jurnal JTIK (Jurnal Teknologi Informasi dan Komunikasi)* · hakemli
+- [Quantum Graph Neural Network for Financial Fraud Detection](Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Cizge-Sinir-Aglari/Arastirmalar/2026-Jyothirmayi-Quantum-Graph-Neural-Network.md) — Jyothirmayi (2026) · *International Journal of Advanced Scientific Innovation* · hakemli
+- [Adaptive confidence-aware deep authentication framework for secure industrial Internet of Things](Bilgisayar-Aglari/Nesnelerin-Interneti/Endustriyel-Nesnelerin-Interneti/Arastirmalar/2026-Kalyanakumar-Adaptive-confidence-aware-deep.md) — Kalyanakumar vd. (2026) · *Scientific Reports* · hakemli
+- [Fuzzy-clustering–based multi-scale intrusion detection for the industrial internet of things](Bilgisayar-Aglari/Nesnelerin-Interneti/Endustriyel-Nesnelerin-Interneti/Arastirmalar/2026-Yang-Fuzzy-clusteringbased-multi-scale.md) — Yang vd. (2026) · *PLoS ONE* · hakemli
+- [Posterior-Mean Conversion of a Variational Bayesian Neural Network for Fixed-Point RTL Evaluation: An MNIST Case Study](Yapay-Zeka/Makine-Ogrenmesi/Bayesci-Makine-Ogrenmesi/Bayesci-Sinir-Aglari/Arastirmalar/2026-Ramesh-Posterior-Mean-Conversion-Variational.md) — Ramesh vd. (2026) · *Engineering Research Express* · hakemli
+- [Quantifying multi-lesion detection and localization in whole-body FDG PET/CT with a multimodal foundation model](Yapay-Zeka/Makine-Ogrenmesi/Temel-Modeller/Cok-Kipli-Temel-Modeller/Arastirmalar/2026-Liu-Quantifying-multi-lesion-detection.md) — Liu vd. (2026) · *Physics in Medicine and Biology* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

@@ -90,7 +90,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -100,6 +100,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Numerical Investigation of Feedback Path Selection for Envelope Shaping in Fixed-Wing UAVs](Insansiz-Hava-Araclari/Sabit-Kanatli-IHA-lar/Arastirmalar/2026-Cao-Numerical-Investigation-Feedback-Path.md) — Cao vd. (2026) · *Applied Sciences* · hakemli
 - [In Situ Resource Utilization for Agriculture on Mars: Quantifying the Effects of Black Soldier Fly Frass Amendment on Pea Growth in Martian Regolith Simulant](Uzay-Kesif-Teknolojileri/Yerinde-Kaynak-Kullanimi/Arastirmalar/2026-Mendoza-Situ-Resource-Utilization-for.md) — Mendoza vd. (2026) · *New Space* · hakemli
 <!-- AUTO:RECENT:END -->
 

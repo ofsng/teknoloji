@@ -90,7 +90,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **4**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -100,6 +100,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [A review of medical image segmentation research based on bibliometrics](Goruntu-Bolutleme/Arastirmalar/2026-Li-review-medical-image-segmentation.md) — Li vd. (2026) · *Technology and Health Care* · hakemli
 - [Shape-Based Maritime Man-Made Object Detection Using Deep Learning Fusion-Based Neural Network and Region-Based Methods](Nesne-Tespiti/Arastirmalar/2026-Suzdalev-Shape-Based-Maritime-Man.md) — Suzdalev vd. (2026) · *Machines* · hakemli
 - [Implementasi Optical Character Recognition dan Algoritma Pencocokan pada Validasi Dokumen Penyumpahan Advokat](Optik-Karakter-Tanima/Arastirmalar/2026-Hilma-Implementasi-Optical-Character-Recognition.md) — Hilma vd. (2026) · *MASALIQ* · hakemli
 <!-- AUTO:RECENT:END -->

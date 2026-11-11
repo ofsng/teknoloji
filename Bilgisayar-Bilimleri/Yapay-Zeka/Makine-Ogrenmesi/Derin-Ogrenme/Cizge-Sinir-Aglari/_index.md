@@ -78,7 +78,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **4**.
+
+- [Quantum Graph Neural Network for Financial Fraud Detection](Arastirmalar/2026-Jyothirmayi-Quantum-Graph-Neural-Network.md) — Jyothirmayi (2026) · *International Journal of Advanced Scientific Innovation* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -88,6 +90,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Quantum Graph Neural Network for Financial Fraud Detection](Arastirmalar/2026-Jyothirmayi-Quantum-Graph-Neural-Network.md) — Jyothirmayi (2026) · *International Journal of Advanced Scientific Innovation* · hakemli
+- [An Explainable Graph Attention Network for Indirect Prompt Injection Detection in RAG Systems](Cizge-Dikkat-Aglari/Arastirmalar/2026-Rudrani-Explainable-Graph-Attention-Network.md) — Rudrani vd. (2026) · *International Journal for Research in Applied Science and Engineering Technology* · hakemli
+- [MedClassNet: a novel NLP framework for automated disease classification from clinical text using transformer and graph attention networks](Cizge-Dikkat-Aglari/Arastirmalar/2026-Shivahare-MedClassNet-novel-NLP-framework.md) — Shivahare vd. (2026) · *Scientific Reports* · hakemli
 - [Leakage-free evaluation of residual graph convolutional networks for network intrusion detection](Cizge-Evrisimli-Aglar/Arastirmalar/2026-Iqbal-Leakage-free-evaluation-residual.md) — Iqbal (2026) · *arXiv* · ön baskı / hakemsiz
 <!-- AUTO:RECENT:END -->
 

@@ -87,7 +87,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **5**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **18**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -97,11 +97,14 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Hierarchical Reinforcement Learning for Degradation-Aware and Coordinated Control of Virtual Power Plants](Elektrik-Guc-Sistemleri/Akilli-Sebekeler/Sanal-Guc-Santralleri/Arastirmalar/2026-Arjun-Hierarchical-Reinforcement-Learning-for.md) — Arjun vd. (2026) · *Industrial & Engineering Chemistry Research* · hakemli
+- [Enhanced electron-beam lithography to reduce the frequency scatter of 200–400 GHz superconducting microstrip resonators for on-chip filterbank spectrometers](Yari-Iletken-Uretimi/Litografi/Elektron-Demeti-Litografisi/Arastirmalar/2026-Scholtenhuis-Enhanced-electron-beam-lithography.md) — Scholtenhuis vd. (2026) · *APL Engineering Physics* · hakemli · atıf: 1
+- [Intelligent Unified Power Quality Conditioner with Reactive Power Sharing for Improving DC-Link Voltage and Power Quality](Elektrik-Guc-Sistemleri/Guc-Kalitesi/Arastirmalar/2026-Tan-Intelligent-Unified-Power-Quality.md) — Tan vd. (2026) · *Energies* · hakemli
 - [Localized Trap-State Engineering of Subthreshold Swing in Amorphous In–Ga–O Thin-Film Transistors via Vertically Positioned Sn δ-Doping](Elektronik-Cihazlar/Alan-Etkili-Transistorler/Ince-Film-Transistorler/Arastirmalar/2026-Lee-Localized-Trap-State-Engineering.md) — Lee vd. (2026) · *ACS Applied Materials & Interfaces* · hakemli
-- [Virtual Microphone Array for Direction-of-Arrival Estimation Based on Fiber-Optic Position Sensing](Sinyal-Isleme/Dizi-Sinyal-Isleme/Gelis-Yonu-Kestirimi/Arastirmalar/2026-Schwarze-Virtual-Microphone-Array-for.md) — Schwarze vd. (2026) · *arXiv* · ön baskı / hakemsiz
-- [Effects of High-Temperature Vacuum Annealing on the Microstructure, Mechanical Properties, and Plasma Etching Resistance of Bulk CVD-SiC](Yari-Iletken-Uretimi/Asindirma/Plazma-Asindirma/Arastirmalar/2026-Lee-Effects-High-Temperature-Vacuum.md) — Lee vd. (2026) · *Micromachines* · hakemli
-- [Sustainable and secure thin-film transistor platform with integrated optical–acoustic anticounterfeiting features for smart electronics](Elektronik-Cihazlar/Alan-Etkili-Transistorler/Ince-Film-Transistorler/Arastirmalar/2026-Biswas-Sustainable-and-secure-thin.md) — Biswas vd. (2026) · *Discover Applied Sciences* · hakemli
-- [Effect of Vacuum Annealing Temperature on Optoelectrical Performance of IGZTO Films and Thin-Film Transistors](Elektronik-Cihazlar/Alan-Etkili-Transistorler/Ince-Film-Transistorler/Arastirmalar/2026-Cao-Effect-Vacuum-Annealing-Temperature.md) — Cao vd. (2026) · *Materials* · hakemli
+- [Non‐Conductive Inductive Power Transfer Charging Gun of Electric Vehicle](Guc-Elektronigi/Kablosuz-Guc-Aktarimi/Enduktif-Guc-Aktarimi/Arastirmalar/2026-Saurav-NonConductive-Inductive-Power-Transfer.md) — Saurav vd. (2026) · *International Journal of Circuit Theory and Applications* · hakemli
+- [Aerosol‐Assisted Chemical Vapor Deposition of Mixed Phase Tin Phosphide Thin Films and Their Anode Performance for Sodium‐Ion Batteries](Yari-Iletken-Uretimi/Ince-Film-Biriktirme/Kimyasal-Buhar-Biriktirme/Arastirmalar/2026-Fan-AerosolAssisted-Chemical-Vapor-Deposition.md) — Fan vd. (2026) · *ChemSusChem* · hakemli
+- [Resource Modeling, Market Participation, and Coordinated Operation of Virtual Power Plants: A Review](Elektrik-Guc-Sistemleri/Akilli-Sebekeler/Sanal-Guc-Santralleri/Arastirmalar/2026-Li-Resource-Modeling-Market-Participation.md) — Li vd. (2026) · *Energies* · hakemli
+- [Novel Type-2 SOGI PLL and Cuckoo search optimization based adaptive controllers for performance improvement of UPQC for power quality improvement](Elektrik-Guc-Sistemleri/Guc-Kalitesi/Arastirmalar/2026-Pavankumar-Novel-Type-SOGI-PLL.md) — Pavankumar vd. (2026) · *International Journal of Emerging Electric Power Systems* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

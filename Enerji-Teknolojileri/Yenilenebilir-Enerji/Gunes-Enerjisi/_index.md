@@ -78,7 +78,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **3**.
+
+- [Solar Energy Transition in a Pilgrimage City: A Document-Based Assessment of Renewable Energy Planning and Tourism Growth in Ayodhya, India](Arastirmalar/2026-Kumar-Solar-Energy-Transition-Pilgrimage.md) — Kumar vd. (2026) · *Physical Science International Journal* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -88,7 +90,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Solar Energy Transition in a Pilgrimage City: A Document-Based Assessment of Renewable Energy Planning and Tourism Growth in Ayodhya, India](Arastirmalar/2026-Kumar-Solar-Energy-Transition-Pilgrimage.md) — Kumar vd. (2026) · *Physical Science International Journal* · hakemli
 - [Evaluation of a Dye-Sensitized Solar Cell (DSSC) device based on Agaricus bisporus extract](Fotovoltaik/Boya-Duyarli-Gunes-Hucreleri/Arastirmalar/2026-Zavala-Barba-Evaluation-Dye-Sensitized-Solar.md) — Zavala-Barba vd. (2026) · *ECORFAN Journal Republic of Guatemala* · hakemli
+- [Techno-Economic Assessment of Dish/Stirling Concentrated Solar Power Systems in Saudi Arabia: New Path to Sustainability](Yogunlastirilmis-Gunes-Enerjisi/Arastirmalar/2026-Zayed-Techno-Economic-Assessment-Dish.md) — Zayed vd. (2026) · *Solar* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

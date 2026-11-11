@@ -86,7 +86,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **3**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -94,7 +94,10 @@ Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
-_Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini göstermez; ön baskılar hakemli değildir._
+Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
+
+- [DNA methylation and Polycomb-mediated repression at plant transposable elements: Antagonism, cooperation and a continuum of epigenetic silencing states](Epigenetik/DNA-Metilasyonu/Arastirmalar/2026-Hure-DNA-methylation-and-Polycomb.md) — Hure vd. (2026) · *Current Opinion in Plant Biology* · hakemli
+- [Adjusting for medication status in genome-wide association studies](Insan-Genetigi/Genom-Boyu-Iliskilendirme-Calismalari/Arastirmalar/2026-Chong-Adjusting-for-medication-status.md) — Chong vd. (2026) · *PLoS Genetics* · hakemli · atıf: 2
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

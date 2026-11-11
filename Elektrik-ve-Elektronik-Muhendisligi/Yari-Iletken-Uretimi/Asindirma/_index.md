@@ -77,7 +77,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **3**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -87,6 +87,8 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Mechanistic Origins of Atomic-Scale Control in Plasma-Thermal Atomic-Layer Etching of Nickel](Atomik-Katman-Asindirma/Arastirmalar/2026-Dinari-Mechanistic-Origins-Atomic-Scale.md) — Dinari vd. (2026) · *The Journal of Physical Chemistry C* · hakemli
+- [Composition-Dependent Atomic Layer Etching of Multicomponent Oxide Semiconductors with Preserved Electrical Performance](Atomik-Katman-Asindirma/Arastirmalar/2026-Kim-Composition-Dependent-Atomic-Layer.md) — Kim vd. (2026) · *ACS Applied Materials & Interfaces* · hakemli
 - [Effects of High-Temperature Vacuum Annealing on the Microstructure, Mechanical Properties, and Plasma Etching Resistance of Bulk CVD-SiC](Plazma-Asindirma/Arastirmalar/2026-Lee-Effects-High-Temperature-Vacuum.md) — Lee vd. (2026) · *Micromachines* · hakemli
 <!-- AUTO:RECENT:END -->
 

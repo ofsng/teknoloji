@@ -75,7 +75,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **1**.
+
+- [Hybrid optical frequency comb source for 9.6 Tbit/s DWDM transmission over standard fiber](Arastirmalar/2026-Sharma-Hybrid-optical-frequency-comb.md) — Sharma vd. (2026) · *Journal of Optics* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -83,7 +85,9 @@ Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
-_Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini göstermez; ön baskılar hakemli değildir._
+Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
+
+- [Hybrid optical frequency comb source for 9.6 Tbit/s DWDM transmission over standard fiber](Arastirmalar/2026-Sharma-Hybrid-optical-frequency-comb.md) — Sharma vd. (2026) · *Journal of Optics* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

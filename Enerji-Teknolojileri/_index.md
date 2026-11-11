@@ -84,7 +84,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **7**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **14**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -94,13 +94,14 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Capacity optimisation configuration of air–electricity–hydrogen hybrid energy storage systems incorporating advanced adiabatic compressed air energy storage](Enerji-Depolama/Mekanik-Enerji-Depolama/Basincli-Hava-Enerji-Depolama/Arastirmalar/2026-Zhang-Capacity-optimisation-configuration-airele.md) — Zhang vd. (2026) · *Energy Reports* · hakemli
+- [Aerodynamic Design and Numerical Assessment of a 1.5 kW Helical Vertical-Axis Wind Turbine Using DMST and Three-Dimensional CFD](Yenilenebilir-Enerji/Ruzgar-Enerjisi/Dikey-Eksenli-Ruzgar-Turbinleri/Arastirmalar/2026-Valdovinos-Aerodynamic-Design-and-Numerical.md) — Valdovinos vd. (2026) · *Eng—Advances in Engineering* · hakemli
 - [Industrial energy efficiency starts with the team that operates the plant rather than with the purchase of new equipment](Enerji-Verimliligi/Endustriyel-Enerji-Verimliligi/Arastirmalar/2026-Santos-Industrial-energy-efficiency-starts.md) — Santos (2026) · *RCMOS - Revista Científica Multidisciplinar O Saber* · hakemli
 - [Comparative Exergoeconomic Analysis of Hybrid Systems Integrating Chemical Looping Combustion and Solid Oxide Fuel Cell for Low-Carbon Methanol and Power Cogeneration](Hidrojen-Teknolojileri/Yakit-Hucreleri/Kati-Oksit-Yakit-Hucreleri/Arastirmalar/2026-Hao-Comparative-Exergoeconomic-Analysis-Hybrid.md) — Hao vd. (2026) · *ACS Sustainable Chemistry & Engineering* · hakemli
+- [Improved Biomass Production via Enhanced Inorganic Carbon Availability Using Crystalline Calcium Silicate Hydrate in a Marine Oleaginous Diatom Cultivation for Sustainable Aviation Fuel Production](Yenilenebilir-Enerji/Biyoenerji/Biyoyakitlar/Surdurulebilir-Havacilik-Yakitlari/Arastirmalar/2026-Murata-Improved-Biomass-Production-via.md) — Murata vd. (2026) · *ACS Sustainable Chemistry & Engineering* · hakemli
+- [Solar Energy Transition in a Pilgrimage City: A Document-Based Assessment of Renewable Energy Planning and Tourism Growth in Ayodhya, India](Yenilenebilir-Enerji/Gunes-Enerjisi/Arastirmalar/2026-Kumar-Solar-Energy-Transition-Pilgrimage.md) — Kumar vd. (2026) · *Physical Science International Journal* · hakemli
 - [Evaluation of a Dye-Sensitized Solar Cell (DSSC) device based on Agaricus bisporus extract](Yenilenebilir-Enerji/Gunes-Enerjisi/Fotovoltaik/Boya-Duyarli-Gunes-Hucreleri/Arastirmalar/2026-Zavala-Barba-Evaluation-Dye-Sensitized-Solar.md) — Zavala-Barba vd. (2026) · *ECORFAN Journal Republic of Guatemala* · hakemli
 - [Fabrication, Transportation, and Installation of Fixed and Floating Offshore Wind Turbines: A State of the Art Review](Yenilenebilir-Enerji/Ruzgar-Enerjisi/Deniz-Ustu-Ruzgar/Yuzer-Deniz-Ustu-Ruzgar/Arastirmalar/2026-Hermanto-Fabrication-Transportation-and-Installa.md) — Hermanto vd. (2026) · *Maritime Park Journal of Maritime Technology and Society* · hakemli
-- [Titanium-Based Binary (TiN/316L) and Ternary Nitride (TiAL(x:y)N/316L) Coatings Systems for Proton Exchange Membrane Fuel Cell Metallic Bipolar Plates](Hidrojen-Teknolojileri/Yakit-Hucreleri/Proton-Degisim-Membranli-Yakit-Hucreleri/Arastirmalar/2026-Arafat-Titanium-Based-Binary-TiN.md) — Arafat vd. (2026) · *Journal of Manufacturing and Materials Processing* · hakemli
-- [Improving the Efficiency of Horizontal-Axis Wind Turbines Using High-Lift Devices](Yenilenebilir-Enerji/Ruzgar-Enerjisi/Yatay-Eksenli-Ruzgar-Turbinleri/Arastirmalar/2026-M-Improving-the-Efficiency-Horizontal.md) — M vd. (2026) · *Semarak Engineering Journal* · hakemli
-- [Dynamic Performance Assessment of a PEMFC-Assisted Ground Source Heat Pump System with Cascade Waste Heat Recovery in Severe Cold Regions](Yenilenebilir-Enerji/Jeotermal-Enerji/Toprak-Kaynakli-Isi-Pompalari/Arastirmalar/2026-Qi-Dynamic-Performance-Assessment-PEMFC.md) — Qi vd. (2026) · *Processes* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar
