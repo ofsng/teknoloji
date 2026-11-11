@@ -96,7 +96,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **53**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **58**.
+
+- [Improving the Methodological, Information and Software Technology Support for Statistics Using the Analytical Capabilities of Artificial Intelligence and Machine Learning](Arastirmalar/2026-Khoroshilov-Improving-the-Methodological-Informa.md) — Khoroshilov vd. (2026) · *Statistics and Economics* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -106,14 +108,14 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [DreamLander: A 6-DOF World Model based Reinforcement Learning Planetary Lander](Pekistirmeli-Ogrenme/Model-Tabanli-Pekistirmeli-Ogrenme/Arastirmalar/2026-Nehma-DreamLander-DOF-World-Model.md) — Nehma vd. (2026) · *Nehma, G.M., Quinn, P., Tiwari, M., & Riano-Rios, C. (2026). DreamLander: A 6-DOF World Model Based Reinforcement Learning Planetary Lander. AIAA SCITECH 2026 Forum* · hakemli
+- [Deep Q-network path planning with stratified sampling and prioritized replay](Pekistirmeli-Ogrenme/Deger-Tabanli-Yontemler/Derin-Q-Aglari/Arastirmalar/2026-Zhang-Deep-network-path-planning.md) — Zhang vd. (2026) · *Future Technology* · hakemli
 - [Quantum Graph Neural Network for Financial Fraud Detection](Derin-Ogrenme/Cizge-Sinir-Aglari/Arastirmalar/2026-Jyothirmayi-Quantum-Graph-Neural-Network.md) — Jyothirmayi (2026) · *International Journal of Advanced Scientific Innovation* · hakemli
 - [Posterior-Mean Conversion of a Variational Bayesian Neural Network for Fixed-Point RTL Evaluation: An MNIST Case Study](Bayesci-Makine-Ogrenmesi/Bayesci-Sinir-Aglari/Arastirmalar/2026-Ramesh-Posterior-Mean-Conversion-Variational.md) — Ramesh vd. (2026) · *Engineering Research Express* · hakemli
 - [Quantifying multi-lesion detection and localization in whole-body FDG PET/CT with a multimodal foundation model](Temel-Modeller/Cok-Kipli-Temel-Modeller/Arastirmalar/2026-Liu-Quantifying-multi-lesion-detection.md) — Liu vd. (2026) · *Physics in Medicine and Biology* · hakemli
 - [Assessing gender–object association bias in text-to-image generation](Temel-Modeller/Cok-Kipli-Temel-Modeller/Metinden-Goruntu-Uretimi/Arastirmalar/2026-SONG-Assessing-genderobject-association-bias.md) — SONG vd. (2026) · *Multimedia Tools and Applications* · hakemli
-- [SEER: A Scalable Event-Driven Runtime for Parallel Execution of Multi-Agent Reinforcement Learning Environments](Pekistirmeli-Ogrenme/Cok-Etmenli-Pekistirmeli-Ogrenme/Arastirmalar/2026-Su-SEER-Scalable-Event-Driven.md) — Su vd. (2026) · *arXiv* · ön baskı / hakemsiz
-- [FedReason: Large Language Models as Weight-Space Meta-Aggregators for Heterogeneous Federated Learning](Temel-Modeller/Buyuk-Dil-Modelleri/Arastirmalar/2026-Ruzbahani-FedReason-Large-Language-Models.md) — Ruzbahani vd. (2026) · *arXiv* · ön baskı / hakemsiz
-- [Benchmarking Large Language Models on Heterogeneous Cognitive and Biomedical Knowledge Graphs: The Role of Graph Grounding in Multi-Hop Reasoning and Hallucination Mitigation](Temel-Modeller/Buyuk-Dil-Modelleri/Arastirmalar/2026-Sarabadani-Benchmarking-Large-Language-Models.md) — Sarabadani vd. (2026) · *arXiv* · ön baskı / hakemsiz
-- [Encoding and Propagation of Grammatical Number in Large Language Models](Temel-Modeller/Buyuk-Dil-Modelleri/Arastirmalar/2026-Solinsky-Encoding-and-Propagation-Grammatical.md) — Solinsky vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [Improving the Methodological, Information and Software Technology Support for Statistics Using the Analytical Capabilities of Artificial Intelligence and Machine Learning](Arastirmalar/2026-Khoroshilov-Improving-the-Methodological-Informa.md) — Khoroshilov vd. (2026) · *Statistics and Economics* · hakemli
+- [AME-Net++: adaptive mixture-of-experts for intelligent intraoperative 3D reconstruction](Derin-Ogrenme/Mixture-of-Experts/Arastirmalar/2026-Liu-AME-Net-adaptive-mixture.md) — Liu vd. (2026) · *Intelligence & Robotics* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

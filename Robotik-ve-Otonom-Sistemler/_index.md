@@ -89,7 +89,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **4**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **5**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -103,6 +103,7 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [Reflection-Robust Stereo Visual-Inertial Odometry via Kalman-Filtered Ground-Height Estimation](Robot-Algilama/Eszamanli-Konum-Belirleme-ve-Haritalama/Gorsel-Ataletsel-Odometri/Arastirmalar/2026-Hwang-Reflection-Robust-Stereo-Visual.md) — Hwang vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [Online Adaptation to Latent Physical Properties for Learning from Demonstration](Robot-Ogrenmesi/Gosterimden-Ogrenme/Arastirmalar/2026-Kajitsuka-Online-Adaptation-Latent-Physical.md) — Kajitsuka vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [A human-centric large language model interface for monitoring and control of autonomous mobile robots via digital twins in industry 5.0](Robot-Turleri/Mobil-Robotlar/Otonom-Mobil-Robotlar/Arastirmalar/2026-Pitel-human-centric-large-language.md) — Piteľ vd. (2026) · *Production & Manufacturing Research* · hakemli
+- [A Unified Whole-Body Control Method for 3D Target Visual Tracking with a Mobile Manipulator](Robot-Kontrolu/Tum-Govde-Kontrolu/Arastirmalar/2026-Guo-Unified-Whole-Body-Control.md) — Guo vd. (2026) · *Machines* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

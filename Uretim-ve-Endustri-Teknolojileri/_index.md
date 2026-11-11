@@ -90,7 +90,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **14**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **16**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -104,10 +104,10 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [A review of the selective laser sintering technology for bio-based nylon 11](Eklemeli-Imalat/Toz-Yatagi-Fuzyonu/Secici-Lazer-Sinterleme/Arastirmalar/2026-Wang-review-the-selective-laser.md) — Wang (2026) · *International Journal of Research in Engineering and Science* · hakemli
 - [Friction stir welding and additive friction stir deposition of high entropy alloys: A review](Birlestirme-Surecleri/Kaynak/Surtunme-Karistirma-Kaynagi/Arastirmalar/2026-Korganci-Friction-stir-welding-and.md) — Korgancı vd. (2026) · *Materials Science and Technology* · hakemli
 - [Design for additive manufacturing. The application to the AEC industry](Eklemeli-Imalat/Eklemeli-Imalat-icin-Tasarim/Arastirmalar/2026-Cruz-Design-for-additive-manufacturing.md) — Cruz vd. (2026) · *The Design Journal* · hakemli
+- [Explainable artificial intelligence for laser powder bed fusion alloys: breaking the formability–performance trade-off via collaborative control](Eklemeli-Imalat/Toz-Yatagi-Fuzyonu/Lazer-Toz-Yatagi-Fuzyonu/Arastirmalar/2026-Liu-Explainable-artificial-intelligence-for.md) — Liu vd. (2026) · *Advanced Materials Joining* · hakemli
+- [Multi-Response Process-Thickness-Property Optimization of Thin-Walled AlSi10Mg Alloy Fabricated by Laser Powder Bed Fusion](Eklemeli-Imalat/Toz-Yatagi-Fuzyonu/Lazer-Toz-Yatagi-Fuzyonu/Arastirmalar/2026-Majeed-Multi-Response-Process-Thickness.md) — Majeed vd. (2026) · *Journal of Manufacturing and Materials Processing* · hakemli
 - [Exploration of friction stir welding butted thin sheet NiTi with AA6061, AA2024, and AA7075](Birlestirme-Surecleri/Kaynak/Surtunme-Karistirma-Kaynagi/Arastirmalar/2026-Terry-Exploration-friction-stir-welding.md) — Terry vd. (2026) · *Advanced Materials Joining* · hakemli
 - [Microstructure evolution and mechanical performance optimization of 30CrMnSiNi2A steel processed by laser powder bed fusion combined with heat treatment](Eklemeli-Imalat/Toz-Yatagi-Fuzyonu/Lazer-Toz-Yatagi-Fuzyonu/Arastirmalar/2026-Wang-Microstructure-evolution-and-mechanical.md) — Wang vd. (2026) · *Materials Science and Technology* · hakemli
-- [Thermal behavior and microstructure control of Ti6Al4V alloy in laser directed energy deposition using synchronous gas cooling strategy](Eklemeli-Imalat/Yonlendirilmis-Enerji-Biriktirme/Arastirmalar/2026-Zhang-Thermal-behavior-and-microstructure.md) — Zhang vd. (2026) · *Thermal Science and Engineering Progress* · hakemli
-- [THERMO-MECHANICAL FINITE ELEMENT ANALYSIS OF COMPRESSIVE AXIAL PRESTRESS IN FRICTION STIR WELDING OF DISSIMILAR AA6061-T6 AND AA5083-H111 ALLOYS](Birlestirme-Surecleri/Kaynak/Surtunme-Karistirma-Kaynagi/Arastirmalar/2026-Palde-THERMO-MECHANICAL-FINITE-ELEMENT.md) — Palde vd. (2026) · *Acta Innovations* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

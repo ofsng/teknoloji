@@ -80,7 +80,10 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **3**.
+
+- [Perspectives for building a computational drug discovery program in resource-limited settings](Arastirmalar/2026-Betow-Perspectives-for-building-computational.md) — Betow vd. (2026) · *Frontiers in Drug Discovery* · hakemli
+- [From Generative Molecular Design to Agentic Artificial Intelligence in Drug Discovery](Arastirmalar/2026-Mastropietro-From-Generative-Molecular-Design.md) — Mastropietro vd. (2026) · *ChemMedChem* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -91,6 +94,8 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
 - [High-Throughput Screening and Fragment-Based Approach for Flavivirus Antiviral Discovery](Yuksek-Verimli-Tarama/Arastirmalar/2026-Casarin-High-Throughput-Screening-and.md) — Casarin vd. (2026) · *Microorganisms* · hakemli
+- [From Generative Molecular Design to Agentic Artificial Intelligence in Drug Discovery](Arastirmalar/2026-Mastropietro-From-Generative-Molecular-Design.md) — Mastropietro vd. (2026) · *ChemMedChem* · hakemli
+- [Perspectives for building a computational drug discovery program in resource-limited settings](Arastirmalar/2026-Betow-Perspectives-for-building-computational.md) — Betow vd. (2026) · *Frontiers in Drug Discovery* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

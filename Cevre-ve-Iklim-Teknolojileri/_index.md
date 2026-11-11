@@ -86,7 +86,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **13**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **14**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -103,7 +103,7 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [Machine Learning-Based Prediction and Interpretation of Aluminum and Iron Coagulant Dosages in Drinking Water Treatment](Su-Aritma/Icme-Suyu-Aritma/Arastirmalar/2026-Lian-Machine-Learning-Based-Prediction.md) — Lian vd. (2026) · *Sustainability* · hakemli
 - [China's urban rail transit carbon peak: when and how – a dynamic life cycle assessment](Yasam-Dongusu-Degerlendirmesi/Arastirmalar/2026-Huang-China-urban-rail-transit.md) — Huang vd. (2026) · *Proceedings of the Institution of Civil Engineers - Engineering Sustainability* · hakemli
 - [Enhanced Rock Weathering for Carbon Dioxide Removal: An Integrated Review of Potential, Challenges, and Pathways to Scalable and Sustainable Implementation](Karbon-Yonetimi/Karbondioksit-Giderimi/Hizlandirilmis-Kaya-Ayrismasi/Arastirmalar/2026-Moges-Enhanced-Rock-Weathering-for.md) — Moges vd. (2026) · *Energy & Fuels* · hakemli
-- [A Comparative Environmental Life Cycle Assessment of Dynamically Wound FRP Reinforcing Bars for Additively Manufactured Concrete Structures](Yasam-Dongusu-Degerlendirmesi/Arastirmalar/2026-Albrecht-Comparative-Environmental-Life-Cycle.md) — Albrecht vd. (2026) · *Sustainability* · hakemli
+- [Degradation and Mineralization of Ibuprofen Using Electrochemical Advanced Oxidation Processes Combined with Ozone](Su-Aritma/Ileri-Oksidasyon-Surecleri/Arastirmalar/2026-Homma-Degradation-and-Mineralization-Ibuprofen.md) — Homma vd. (2026) · *Ozone Science and Engineering* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

@@ -87,7 +87,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **14**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **20**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -97,14 +97,14 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Diagnostic Efficacy of Magnetic Resonance Spectroscopy at Perilesional Edema of Neoplastic Brain Lesion for Detection of Glioma](Tibbi-Goruntuleme/Manyetik-Rezonans-Goruntuleme/Manyetik-Rezonans-Spektroskopisi/Arastirmalar/2026-Kamal-Diagnostic-Efficacy-Magnetic-Resonance.md) — Kamal vd. (2026) · *Journal of National Institute of Neurosciences Bangladesh* · hakemli
 - [Long-Term Outcomes After Left Ventricular Assist Device Exchange: Survival Rates and Postoperative Complications](Biyomedikal-Muhendisligi/Yapay-Organlar/Ventrikul-Destek-Cihazlari/Arastirmalar/2026-Kagawa-Long-Term-Outcomes-After.md) — Kagawa vd. (2026) · *Journal of Surgical Research* · hakemli
 - [High-Throughput Screening and Fragment-Based Approach for Flavivirus Antiviral Discovery](Eczacilik-Bilimleri/Ilac-Kesfi/Yuksek-Verimli-Tarama/Arastirmalar/2026-Casarin-High-Throughput-Screening-and.md) — Casarin vd. (2026) · *Microorganisms* · hakemli
+- [From Generative Molecular Design to Agentic Artificial Intelligence in Drug Discovery](Eczacilik-Bilimleri/Ilac-Kesfi/Arastirmalar/2026-Mastropietro-From-Generative-Molecular-Design.md) — Mastropietro vd. (2026) · *ChemMedChem* · hakemli
 - [Classical Machine Learning-Based Approaches for Medical Image Analysis and Computer-Aided Diagnosis](Tibbi-Goruntuleme/Tibbi-Goruntu-Analizi/Bilgisayar-Destekli-Teshis/Arastirmalar/2026-Cincar-Classical-Machine-Learning-Based.md) — Cincar vd. (2026) · *Technium Romanian Journal of Applied Sciences and Technology* · hakemli
 - [Effectiveness of a novel mobile health application in educating first-time complete denture wearers: a prospective randomized controlled clinical study](Dijital-Saglik/Mobil-Saglik/Arastirmalar/2026-Sooda-Effectiveness-novel-mobile-health.md) — Sooda vd. (2026) · *BMC Oral Health* · hakemli
 - [Mentorship for electronic health record quality improvement in Nigeria: A practice framework](Dijital-Saglik/Saglik-Bilisimi/Elektronik-Saglik-Kayitlari/Arastirmalar/2026-Popoola-Mentorship-for-electronic-health.md) — Popoola (2026) · *Innovation in Health for Society* · hakemli
 - [Retrospective study of the clinical value of genetic testing in the diagnosis and treatment of lung squamous cell carcinoma](Klinik-Teshis/Molekuler-Teshis/Genetik-Test/Arastirmalar/2026-Fang-Retrospective-study-the-clinical.md) — Fang vd. (2026) · *Discover Oncology* · hakemli
-- [Magnetic Resonance Imaging in the Preoperative Assessment of Anal Fistula: Diagnostic Performance and Comparison of the St. James and Garg Classifications](Tibbi-Goruntuleme/Manyetik-Rezonans-Goruntuleme/Arastirmalar/2026-Hung-Magnetic-Resonance-Imaging-the.md) — Hung vd. (2026) · *Journal of Coloproctology* · hakemli
-- [CAR-T cell therapy in hematology malignancies: breaking barriers, engineering the future](Ileri-Tedaviler/Hucre-Tedavisi/CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Alvizo-Baez-CAR-cell-therapy-hematology.md) — Alvizo-Báez vd. (2026) · *Frontiers in Immunology* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

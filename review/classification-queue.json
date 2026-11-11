@@ -409,6 +409,76 @@
   "url": "https://houghtonstreetreview.com/index.php/index/article/view/2998"
  },
  {
+  "added": "2026-11-11",
+  "arxiv": "2611.11793",
+  "candidates": [
+   [
+    "vision-transformers",
+    8.54
+   ],
+   [
+    "foundation-models",
+    7.9
+   ],
+   [
+    "decision-analysis",
+    3.6
+   ],
+   [
+    "deep-learning",
+    3.1
+   ],
+   [
+    "magnetic-resonance-imaging",
+    1.8
+   ],
+   [
+    "power-transformers",
+    1.05
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.11793",
+   "title:benchmarkingcnnsvisiontransformersandfoundationmodelsforexplainablebraintumormriclassificationcalibrationdecisionanalysisandexternalvalidation|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Deep learning models for brain tumor MRI classification are usually compared by accuracy alone, on public datasets whose independence is rarely checked. We benchmarked six architectures: two convolutional networks (EfficientNetV2-M and ConvNeXt-V2-Tiny), two vision transformers (Swin-V2-S and ViT-L/16), and two foundation models (DINOv2-L and MedSigLIP-448), for four-class classification of 7,216 public MRI images. We assessed accuracy, calibration, explainability, ensembles, and decision curves, with every fitted quantity estimated on validation data only. Pixel-verified duplicate screening showed that 36% of the test images had a near-duplicate in the training data. Test accuracy ranged from 94.5% to 95.6%, with no pairwise difference after Holm correction, and fell to 90.3% to 91.7% on the 773 test images free of duplicates and shared patients. Ensembles did not outperform the best single model. Attribution maps passed a model-randomization test but localized expert-annotated tumors poorly. On 1,675 external BDNeuro-MRI images that did not duplicate the training data, accuracy ranged from 77.6% (MedSigLIP-448) to 95.0% (ViT-L/16), and 12 of 15 pairwise differences were significant. Internal accuracy on this public collection therefore did not distinguish the architectures, whereas the duplicate-filtered external test did.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.11793",
+   "authors": [
+    "Akwasi Asare"
+   ],
+   "categories": [
+    "arXiv:cs.CV"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-09",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.11793"
+   ],
+   "title": "Benchmarking CNNs, Vision Transformers, and Foundation Models for Explainable Brain Tumor MRI Classification: Calibration, Decision Analysis, and External Validation",
+   "topics": [],
+   "updated_date": "2026-11-09",
+   "url": "https://arxiv.org/abs/2611.11793"
+  },
+  "score": 8.54,
+  "seen": 1,
+  "suggested": "vision-transformers",
+  "title": "Benchmarking CNNs, Vision Transformers, and Foundation Models for Explainable Brain Tumor MRI Classification: Calibration, Decision Analysis, and External Validation",
+  "url": "https://arxiv.org/abs/2611.11793"
+ },
+ {
   "added": "2026-11-05",
   "arxiv": "2611.04269",
   "candidates": [
@@ -535,6 +605,79 @@
   "suggested": "dark-matter",
   "title": "Scale-Invariant Three-Component Dark Matter and Gravitational Wave Signals",
   "url": "https://arxiv.org/abs/2611.07509"
+ },
+ {
+  "added": "2026-11-11",
+  "arxiv": "2611.11755",
+  "candidates": [
+   [
+    "robot-motion-planning",
+    8.1
+   ],
+   [
+    "motion-planning",
+    7.9
+   ],
+   [
+    "model-predictive-control",
+    3.13
+   ],
+   [
+    "safe-learning-control",
+    2.73
+   ],
+   [
+    "secure-multi-party-computation",
+    2.1
+   ],
+   [
+    "optimization",
+    0.26
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.11755",
+   "title:graphsparsedistributedpredictivecontrolformultirobotmotionplanningvianedgeconsensusadmm|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "This paper presents a distributed model predictive control (MPC) architecture for collision-avoiding motion planning of planar robots with double-integrator dynamics. To reduce coordination demands, a time-varying predicted conflict graph selects relevant pairwise interactions. The associated collision-avoidance constraints are convexified once per MPC update using warm-start trajectories, yielding a fixed convex quadratic program (QP). The resulting QP is then decomposed using an edge-consensus formulation of the alternating direction method of multipliers (ADMM), enabling parallel robot-local optimization and independent closed-form projections onto separating half-spaces. Execution is selectively supervised by a centralized high-order control barrier function (HOCBF) QP when the distributed candidate does not satisfy the direct-execution conditions. Evaluated in C++ simulations involving 8, 16, and 32 robots, the proposed architecture achieves collision-free execution and substantially improves computational scalability while maintaining task-level performance comparable to a centralized complete-graph baseline.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.11755",
+   "authors": [
+    "Josep Borras-Borras",
+    "Pablo Segovia",
+    "Carlos Ocampo-Martinez"
+   ],
+   "categories": [
+    "arXiv:cs.RO",
+    "arXiv:eess.SY"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-09",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.11755"
+   ],
+   "title": "Graph-Sparse Distributed Predictive Control for Multi-Robot Motion Planning vianEdge-Consensus ADMM",
+   "topics": [],
+   "updated_date": "2026-11-09",
+   "url": "https://arxiv.org/abs/2611.11755"
+  },
+  "score": 8.1,
+  "seen": 1,
+  "suggested": "robot-motion-planning",
+  "title": "Graph-Sparse Distributed Predictive Control for Multi-Robot Motion Planning vianEdge-Consensus ADMM",
+  "url": "https://arxiv.org/abs/2611.11755"
  },
  {
   "added": "2026-11-08",
@@ -675,6 +818,78 @@
   "suggested": "supervised-learning",
   "title": "When Does Hybrid Fraud Screening Earn Its Alerts? A Budget-Constrained Comparison of Rules, Anomaly Detection, and Supervised Learning",
   "url": "https://doi.org/10.54691/r98yg421"
+ },
+ {
+  "added": "2026-11-11",
+  "arxiv": "2611.11718",
+  "candidates": [
+   [
+    "reinforcement-learning",
+    7.9
+   ],
+   [
+    "soft-robotics",
+    7.9
+   ],
+   [
+    "recurrent-neural-networks",
+    3.88
+   ],
+   [
+    "ordinary-differential-equations",
+    2.95
+   ],
+   [
+    "power-transformers",
+    0.26
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.11718",
+   "title:acceleratedreinforcementlearningforsoftroboticshoursinsteadofyears|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Reinforcement learning (RL) requires large amounts of interaction data or a reliable simulator, both hard to obtain for nonlinear soft robotic hardware. Recent work shows that a time-scale separation inherent to soft robot dynamics justifies their reduction to low-dimensional invariant manifolds, known as adiabatic spectral submanifolds (aSSMs). We demonstrate that an aSSM-reduced model, a simple polynomial ordinary differential equation learned purely from pre-collected data, can serve as an RL training environment. On a pneumatically actuated soft arm, we train a trajectory-tracking policy in 3 hours on a six-dimensional aSSM-reduced model and deploy it without fine-tuning, whereas reproducing this policy training extrapolates to 3 years of hardware interaction. Our policy tracks dynamic targets with 40% lower error than otherwise identical policies trained on a 4.8-million-parameter recurrent neural network (RNN) or a 1.7-million-parameter transformer, which take 13 and 100 hours to identify, against 5 minutes for our mathematically justified 6,924-parameter model.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.11718",
+   "authors": [
+    "Roshan S. Kaundinya",
+    "Hehui Zheng",
+    "Robert K. Katzschmann",
+    "George Haller"
+   ],
+   "categories": [
+    "arXiv:cs.RO",
+    "arXiv:cs.AI",
+    "arXiv:cs.LG",
+    "arXiv:math.DS"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-09",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.11718"
+   ],
+   "title": "Accelerated Reinforcement Learning for Soft Robotics: Hours Instead of Years",
+   "topics": [],
+   "updated_date": "2026-11-09",
+   "url": "https://arxiv.org/abs/2611.11718"
+  },
+  "score": 7.9,
+  "seen": 1,
+  "suggested": "reinforcement-learning",
+  "title": "Accelerated Reinforcement Learning for Soft Robotics: Hours Instead of Years",
+  "url": "https://arxiv.org/abs/2611.11718"
  },
  {
   "added": "2026-11-09",
@@ -1580,6 +1795,72 @@
   "url": "https://doi.org/10.1103/bycd-9qhq"
  },
  {
+  "added": "2026-11-11",
+  "arxiv": "2611.11761",
+  "candidates": [
+   [
+    "llm-inference-optimization",
+    6.78
+   ],
+   [
+    "large-language-models",
+    3.9
+   ],
+   [
+    "translation",
+    0.79
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.11761",
+   "title:bridgekvlargemodelprefillandsmallmodeldecodingforllminferenceviakvcachetranslation|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "LLM inference has two phases with different bottlenecks: LLM prefill runs once per request and is compute-intensive. Decoding repeats for every output token and is limited by memory bandwidth. To address the challenges associated with this issue, different solutions have been proposed. All of these solutions use the same model for both prefill and decode phases. We propose BridgeKV, which uses a larger model for prefill and a smaller model of the same family for decoding. A lightweight KV-stitching module translates the larger model's prompt cache into the smaller model's cache layout. It handles differences in cache shape and representation through learned local layer mixing and separate nonlinear maps for keys and values. With both models frozen, we train the module to align their caches and make the smaller model follow the larger model's next-token predictions. A second training stage adds low-rank adapters when further task adaptation is needed. Across six model pairs and five datasets, BridgeKV outperforms fine-tuned small-model baselines with matched trainable parameter budgets in all 30 settings. It closes up to 80% of the quality gap to using the larger model for both phases. On one A40 GPU, Llama-3.1-Instruct-8B to Llama-3.2-Instruct-1B achieves 3.0X faster requests than the larger model alone, with latency close to the smaller model alone. BridgeKV can improve the hardware and system solutions that separate prefill and decode phases across GPUs. A separate serving simulation models request arrivals, queues, and cache transfer. For Llama-3.1-Instruct-70B to Llama-3.2-Instruct-1B, it predicts up to 33.86X faster requests and 27.5X lower energy use than using the larger model for both prefill and decode phases.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.11761",
+   "authors": [
+    "Payman Behnam",
+    "Debopam Sanyal",
+    "Pranav Ponnusamy",
+    "Kusum Meda Ravi",
+    "Pranav Sastry",
+    "Mani Chandana Bandaru",
+    "Alind Khare",
+    "Myungjin Lee",
+    "Alexey Tumanov"
+   ],
+   "categories": [
+    "arXiv:cs.CL"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-09",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.11761"
+   ],
+   "title": "BridgeKV: Large-Model Prefill and Small-Model Decoding for LLM Inference via KV Cache Translation",
+   "topics": [],
+   "updated_date": "2026-11-09",
+   "url": "https://arxiv.org/abs/2611.11761"
+  },
+  "score": 6.78,
+  "seen": 1,
+  "suggested": "llm-inference-optimization",
+  "title": "BridgeKV: Large-Model Prefill and Small-Model Decoding for LLM Inference via KV Cache Translation",
+  "url": "https://arxiv.org/abs/2611.11761"
+ },
+ {
   "added": "2026-11-10",
   "arxiv": "2610.15798",
   "candidates": [
@@ -1712,6 +1993,78 @@
   "url": "https://arxiv.org/abs/2603.17469"
  },
  {
+  "added": "2026-11-11",
+  "arxiv": "2611.11726",
+  "candidates": [
+   [
+    "electronic-health-records",
+    6.74
+   ],
+   [
+    "dark-matter",
+    3.6
+   ],
+   [
+    "physiology",
+    1.25
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.11726",
+   "title:thedarkmatterofclinicaldataanidentificationlimitondisentanglingphysiologyfromcareprocessinelectronichealthrecords|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Representations learned from electronic health record (EHR) data encode patient physiology together with the clinical process that decides what is measured, when, and for whom. We formalize the data-generating process with latent physiology, ordering intent, laboratory values that exist only when measured, a learned representation, and clinical environments, and analyze two strategies for undoing this entanglement. First, no division of the information carried by laboratory \"value\" and \"ordering\" channels is identified from a single dataset: when ordering depends on the analyte, its distribution among untested patients is not recoverable, and a sentinel code for the undefined recorded value makes it carry all the entropy of the ordering indicator, fixing partial information decomposition (PID) for every redundancy measure satisfying the Williams-Beer axioms and invariant under injective re-encoding. Second, cross-site invariance of representation-conditional outcomes is a falsifiable implication of biological invariance taken jointly with exclusion and representation-sufficiency conditions, but not an identification strategy: we construct observationally equivalent models that disagree about biological invariance, whether the invariance test fails or passes. For binary physiology this happens exactly when case mix differs, the representation is lossy, and physiology affects the outcome. A worked example yields a 9.6-percentage-point cross-site gap under an unchanged biological mechanism. Tests performed for every patient remove the ordering gate, and measured tests can restore identification: biological invariance is identified when a test exactly summarizes outcome-relevant physiology, or, for binary physiology, when two tests with independent errors are available at sites with different case mix. Cross-site analyses should be reported as tests of a stated joint hypothesis.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.11726",
+   "authors": [
+    "Mohammad Shahin",
+    "Krittaphas Chaisutyakorn",
+    "Dimitrios Proios",
+    "David Restrepo",
+    "Vishala Mishra",
+    "Boya Zhang",
+    "Aadarsh Sivaraman",
+    "Sparsh Roy",
+    "Benet Fité Abril",
+    "Tina Yen-Ting Chen",
+    "Hyunjung Gloria Kwak",
+    "Andre Kurepa Waschka",
+    "Vinayak Mathur",
+    "Leo Anthony Celi"
+   ],
+   "categories": [
+    "arXiv:cs.LG",
+    "arXiv:stat.ME"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-09",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.11726"
+   ],
+   "title": "The Dark Matter of Clinical Data: An Identification Limit on Disentangling Physiology from Care Process in electronic health records",
+   "topics": [],
+   "updated_date": "2026-11-09",
+   "url": "https://arxiv.org/abs/2611.11726"
+  },
+  "score": 6.74,
+  "seen": 1,
+  "suggested": "electronic-health-records",
+  "title": "The Dark Matter of Clinical Data: An Identification Limit on Disentangling Physiology from Care Process in electronic health records",
+  "url": "https://arxiv.org/abs/2611.11726"
+ },
+ {
   "added": "2026-11-09",
   "arxiv": "2606.21439",
   "candidates": [
@@ -1785,6 +2138,73 @@
   "suggested": "gravitational-waves",
   "title": "Relativistic effects in extreme-mass-ratio inspirals within scalar clouds: Eccentric and inclined orbits",
   "url": "https://doi.org/10.1103/r6ys-4mhk"
+ },
+ {
+  "added": "2026-11-11",
+  "arxiv": "2611.11768",
+  "candidates": [
+   [
+    "quantum-imaging",
+    6.73
+   ],
+   [
+    "super-resolution",
+    5.7
+   ],
+   [
+    "lithography",
+    0.26
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.11768",
+   "title:superresolutionquantumimagingviamultiphotoncorrelation|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "The resolution of conventional imaging is fundamentally constrained by the diffraction limit. Here we demonstrate that this limit can be overcome using classical thermal light, through the correlation of multiphoton subsystems. By resolving the photon numbers detected in the two arms of a Hanbury Brown-Twiss interferometer, the correlation function exhibits a narrowed peak or dip whose width is tunable via the average photon number. Temporal and spatial super-resolution enhancements up to 11.8-fold and 5.1-fold, respectively, are experimentally achieved. As a proof-of-principle experiment, a double-pinhole that is completely unresolved by standard ghost imaging becomes clearly distinguishable via the correlation of two-photon versus zero-photon. The principle of this super-resolution imaging can be interpreted as a combination of classical super-resolution imaging and quantum super-resolution imaging. This work provides a versatile platform for super-resolution imaging and lithography, and opens a new avenue for exploring the boundary between classical and nonclassical phenomena.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.11768",
+   "authors": [
+    "Yu Gu",
+    "Yiqi Song",
+    "Meixue Chen",
+    "Yuchen He",
+    "Hui Chen",
+    "Huaibin Zheng",
+    "Yu Zhou",
+    "Fuli Li",
+    "Zhuo Xu",
+    "Jianbin Liu"
+   ],
+   "categories": [
+    "arXiv:quant-ph"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-09",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.11768"
+   ],
+   "title": "Super-resolution quantum imaging via multiphoton correlation",
+   "topics": [],
+   "updated_date": "2026-11-09",
+   "url": "https://arxiv.org/abs/2611.11768"
+  },
+  "score": 6.73,
+  "seen": 1,
+  "suggested": "quantum-imaging",
+  "title": "Super-resolution quantum imaging via multiphoton correlation",
+  "url": "https://arxiv.org/abs/2611.11768"
  },
  {
   "added": "2026-11-08",
@@ -2695,6 +3115,125 @@
   "suggested": "robot-control",
   "title": "Large-Scale Hierarchical Decision-Making in Robot Control via ADMM",
   "url": "https://arxiv.org/abs/2611.11090"
+ },
+ {
+  "added": "2026-11-11",
+  "arxiv": "2611.11731",
+  "candidates": [
+   [
+    "string-theory",
+    6.3
+   ],
+   [
+    "quantum-field-theory",
+    3.7
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.11731",
+   "title:thetertiaryinvariantanddiscretegreenschwarzcouplingsinheteroticstringtheory|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "The tertiary invariant is a recently introduced pairing between two-dimensional $\\mathcal{N}=(0,1)$ supersymmetric quantum field theories, motivated by topological modular forms. We evaluate it directly from its definition for the sigma models on $\\mathrm{Sp}(2)$ and $\\mathrm{SU}(3)$ with unit $H$-flux, paired with the internal theories of the non-supersymmetric $\\mathfrak{so}(16)\\oplus\\mathfrak{so}(16)$ heterotic string and of the near-horizon region of the non-supersymmetric heterotic 6-brane, respectively. Regarding the target spaces as $S^3$ bundles over spheres, we fill in every fiber with a four-disk carrying a gauge instanton and reduce the invariant to the index of a Dirac operator on the base. We find nonzero values of order three and two, which determine the Green-Schwarz couplings of the two theories on $\\mathrm{Sp}(2)$ and $\\mathrm{SU}(3)$, respectively. The former, a $\\mathbb{Z}_{3}$-valued discrete topological term of the $\\mathfrak{so}(16)\\oplus\\mathfrak{so}(16)$ theory, was previously studied through anomaly inflow to NS5-branes. Our computation, which uses only the worldsheet theories, agrees exactly with that result and thus confirms the anomaly inflow.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.11731",
+   "authors": [
+    "Hiroki Wada",
+    "Kazuya Yonekura"
+   ],
+   "categories": [
+    "arXiv:hep-th"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-09",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.11731"
+   ],
+   "title": "The tertiary invariant and discrete Green-Schwarz couplings in heterotic string theory",
+   "topics": [],
+   "updated_date": "2026-11-09",
+   "url": "https://arxiv.org/abs/2611.11731"
+  },
+  "score": 6.3,
+  "seen": 1,
+  "suggested": "string-theory",
+  "title": "The tertiary invariant and discrete Green-Schwarz couplings in heterotic string theory",
+  "url": "https://arxiv.org/abs/2611.11731"
+ },
+ {
+  "added": "2026-11-11",
+  "arxiv": "2611.11770",
+  "candidates": [
+   [
+    "pose-estimation",
+    6.3
+   ],
+   [
+    "structure-from-motion",
+    3.7
+   ],
+   [
+    "translation",
+    0.46
+   ],
+   [
+    "optimization",
+    0.33
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.11770",
+   "title:towardsrotationonlyimaginggeometrymultiviewposeestimation|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Global structure-from-motion (SfM) commonly refines relative poses on individual image pairs and then estimates global rotations by rotation averaging. Pairwise refinement does not explicitly combine feature-level constraints with multi-view consistency during rotation initialization. We introduce Global Rotations from Aggregated Matches (GRAM), which estimates global rotations directly from initial relative rotations and inlier matches by minimizing edge-wise rotation-only algebraic residuals. GRAM replaces two-view relative-pose optimization and rotation averaging with a single stage. We further extend rotation- only imaging geometry to multiple views and develop Multi-view Optimization with Rotation-only Reprojection Error (MORE) for nonlinear global rotation refinement. Analytical Rotation-guided Translation (ART) derives locally scaled triplet translations from Linear Global Translation (LiGT) constraints and recovers global translations using weighted least squares. Synthetic and real-world experiments demonstrate the accuracy, robustness, and efficiency of the proposed methods.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.11770",
+   "authors": [
+    "Xinrui Li",
+    "Qi Cai",
+    "Yuanxin Wu"
+   ],
+   "categories": [
+    "arXiv:cs.CV"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-09",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.11770"
+   ],
+   "title": "Towards Rotation-Only Imaging Geometry: Multi-View Pose Estimation",
+   "topics": [],
+   "updated_date": "2026-11-09",
+   "url": "https://arxiv.org/abs/2611.11770"
+  },
+  "score": 6.3,
+  "seen": 1,
+  "suggested": "pose-estimation",
+  "title": "Towards Rotation-Only Imaging Geometry: Multi-View Pose Estimation",
+  "url": "https://arxiv.org/abs/2611.11770"
  },
  {
   "added": "2026-11-05",
@@ -7986,6 +8525,67 @@
   "url": "https://arxiv.org/abs/2611.07725"
  },
  {
+  "added": "2026-11-11",
+  "arxiv": "2611.11732",
+  "candidates": [
+   [
+    "particle-filtering",
+    5.1
+   ],
+   [
+    "diffusion-models",
+    3.74
+   ],
+   [
+    "generative-models",
+    3.1
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.11732",
+   "title:particlefilteringwithgenerativetrajectorymodelsforstateestimationandcontrol|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Generative models can support both state estimation and control in robotics. For control, a common approach is to use the model as a policy that directly samples actions conditioned on observation histories. However, models that jointly represent states, actions, and observations can also predict how the robot state and its environment evolve. We investigate whether these predictions can improve state estimation and control through a change in inference procedure, without modifying the pretrained model. To this end, we use particle filtering to maintain competing hypotheses about state histories. A single pretrained diffusion model generates these hypotheses along with their predicted observations and associated action proposals. As new measurements arrive, particles are reweighted according to how well their predicted observations match the measurements. While particle filtering conventionally uses these weights only for state estimation, we also use them to guide action selection, favoring proposals associated with hypotheses that better explain the observations. Simulation experiments in partially observed navigation and vision-based manipulation demonstrate improvements in both state estimation and task performance compared to action generation without filtering, using the same pretrained model and no additional test-time information.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.11732",
+   "authors": [
+    "Lukas Lao Beyer",
+    "Samvit Das",
+    "Sertac Karaman"
+   ],
+   "categories": [
+    "arXiv:cs.RO",
+    "arXiv:cs.LG"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-09",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.11732"
+   ],
+   "title": "Particle Filtering with Generative Trajectory Models for State Estimation and Control",
+   "topics": [],
+   "updated_date": "2026-11-09",
+   "url": "https://arxiv.org/abs/2611.11732"
+  },
+  "score": 5.1,
+  "seen": 1,
+  "suggested": "particle-filtering",
+  "title": "Particle Filtering with Generative Trajectory Models for State Estimation and Control",
+  "url": "https://arxiv.org/abs/2611.11732"
+ },
+ {
   "added": "2026-11-09",
   "arxiv": null,
   "candidates": [
@@ -9734,594 +10334,5 @@
   "suggested": "isothermal-amplification",
   "title": "Application of CRISPR Based Diagnostics for Rapid and Specific Detection of Emerging Pathogens",
   "url": "https://jchr.org/index.php/JCHR/article/view/17790"
- },
- {
-  "added": "2026-11-05",
-  "arxiv": "2611.04224",
-  "candidates": [
-   [
-    "leo-satellite-constellations",
-    4.54
-   ],
-   [
-    "satellite-communications",
-    3.1
-   ],
-   [
-    "deep-learning",
-    1.2
-   ],
-   [
-    "meta-learning",
-    1.2
-   ]
-  ],
-  "confidence": "medium",
-  "doi": null,
-  "keys": [
-   "arxiv:2611.04224",
-   "title:towardgeneralizedleochannelpredictionarapidadaptationtimefrequencymambaframework|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "Accurate channel state information (CSI) prediction is pivotal for enhancing system capacity in low Earth orbit (LEO) satellite-terrestrial communications within the sixth-generation vision of global ubiquitous connectivity. However, the extreme mobility of LEO satellites, coupled with significant propagation delays, induces severe channel aging. Existing deep learning (DL) methods often struggle with non-stationary dynamics or generalize poorly across diverse global geographies. To address these challenges, we design the Evo-TFMamba, which is an evolutionary framework integrating time-frequency selective Mamba blocks with meta-learning for generalized CSI prediction. Experimental results demonstrate that the proposed Evo-TFMamba performs adaptive prediction according to the geographic coverage of LEO satellites. Meanwhile, it significantly enhances the model's generalization ability, particularly when faced with unseen channel environments in LEO satellite communication.",
-   "abstract_license": "cc0-1.0 (arxiv metadata)",
-   "arxiv": "2611.04224",
-   "authors": [
-    "Yunxin Geng",
-    "Yun Zhao",
-    "Weiwei Jiang",
-    "Shengfeng Wang",
-    "Haotian Liu",
-    "Zhiqing Wei"
-   ],
-   "categories": [
-    "arXiv:eess.SP"
-   ],
-   "cited_by_count": null,
-   "doi": null,
-   "is_retracted": null,
-   "keywords": [],
-   "language": "en",
-   "peer_reviewed": false,
-   "publication": "arXiv",
-   "publication_type": "preprint",
-   "published_date": "2026-11-03",
-   "related_versions": [],
-   "source_ids": [
-    "arxiv:2611.04224"
-   ],
-   "title": "Toward Generalized LEO Channel Prediction: A Rapid Adaptation Time-Frequency Mamba Framework",
-   "topics": [],
-   "updated_date": "2026-11-03",
-   "url": "https://arxiv.org/abs/2611.04224"
-  },
-  "score": 4.54,
-  "seen": 2,
-  "suggested": "leo-satellite-constellations",
-  "title": "Toward Generalized LEO Channel Prediction: A Rapid Adaptation Time-Frequency Mamba Framework",
-  "url": "https://arxiv.org/abs/2611.04224"
- },
- {
-  "added": "2026-11-05",
-  "arxiv": "2611.04338",
-  "candidates": [
-   [
-    "large-language-models",
-    4.54
-   ],
-   [
-    "machine-learning",
-    3.1
-   ]
-  ],
-  "confidence": "medium",
-  "doi": null,
-  "keys": [
-   "arxiv:2611.04338",
-   "title:patchingtheprotocolataxonomyofpreregistrationrepairsinllmproposerexperiments|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "Pre-registration is increasingly proposed as a trust mechanism for machine-learning research involving LLM-generated content, but its canonical form assumes a frozen protocol can be executed unchanged. Software-intensive studies violate this assumption: the protocol is partly implemented, and implementations carry defects. We report a three-case study of protocol repairs (\"patches\") from a program where an LLM proposes executable rules that a programmatic verifier gates, across production scheduling, incentive design, and task assignment. Each protocol required exactly one defect-repair patch: three events in total. None modified a numbered judgment criterion, its threshold, or the scoring rule, and none altered already collected data; two changed pre-registered design parameters before any data were collected, each with a recorded rationale. We propose a two-axis taxonomy of patches (defect class: environmental / feasibility / correctness, x timing: pre-data / post-data), introduce a verifiable non-impact claim for post-data repairs, and distill a nine-item checklist; all nine items were exercised by at least one patch event -- an observation of use, not a validation of sufficiency. The credibility of verifier-bound, LLM-proposer studies depends less on whether patches occur than on whether they are auditable.",
-   "abstract_license": "cc0-1.0 (arxiv metadata)",
-   "arxiv": "2611.04338",
-   "authors": [
-    "Peter Chen",
-    "Ni Zhang",
-    "Siyuan Zhang"
-   ],
-   "categories": [
-    "arXiv:cs.AI",
-    "arXiv:cs.SE"
-   ],
-   "cited_by_count": null,
-   "doi": null,
-   "is_retracted": null,
-   "keywords": [],
-   "language": "en",
-   "peer_reviewed": false,
-   "publication": "arXiv",
-   "publication_type": "preprint",
-   "published_date": "2026-11-03",
-   "related_versions": [],
-   "source_ids": [
-    "arxiv:2611.04338"
-   ],
-   "title": "Patching the Protocol: A Taxonomy of Pre-Registration Repairs in LLM-Proposer Experiments",
-   "topics": [],
-   "updated_date": "2026-11-03",
-   "url": "https://arxiv.org/abs/2611.04338"
-  },
-  "score": 4.54,
-  "seen": 2,
-  "suggested": "large-language-models",
-  "title": "Patching the Protocol: A Taxonomy of Pre-Registration Repairs in LLM-Proposer Experiments",
-  "url": "https://arxiv.org/abs/2611.04338"
- },
- {
-  "added": "2026-11-05",
-  "arxiv": "2611.04411",
-  "candidates": [
-   [
-    "smart-contract-virtual-machines",
-    4.54
-   ],
-   [
-    "smart-contracts",
-    3.1
-   ]
-  ],
-  "confidence": "medium",
-  "doi": "10.5281/zenodo.23758032",
-  "keys": [
-   "arxiv:2611.04411",
-   "doi:10.5281/zenodo.23758032",
-   "title:txbenchabenchmarkofattacktransactionsandevidencebackednegativesonsevenevmchains|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "Researchers evaluate detectors of malicious smart-contract transactions on datasets that each paper assembles anew. Their positives come from incident trackers, whose citations mix attacks with setup steps and transactions that never ran, or from a detector's own output, which makes the evaluation circular; their negatives are ordinary transactions. A shared benchmark needs positives whose own execution shows the attack and negatives that use the attacks' mechanisms, with no detector deciding either label. We present TxBench, a benchmark of attack transactions and evidence-backed negatives on seven EVM chains, with the five-step pipeline that builds it. The pipeline collects every transaction that BlockSec's incident library or the EVM Hack Registry cites, maps its weakness to OWASP's SCWE taxonomy, and rebuilds its execution from free data sources. A cited transaction qualifies as a valid TxBench attack only if it extracts value from others during execution, is consistent with all verified source claims, and is independently linked to the reported incident by corroborating evidence. Negative examples are sampled from each chain's traffic near the attacks and retained only when positive evidence confirms their legitimacy. Of 1,850 cited transactions, TxBench accepts 1,012 attacks from 602 incidents, worth USD 868.1 million: 846 contract exploits and 166 key compromises. A blind review under rules fixed in advance confirms 98 of 100 sampled attacks (97.7% weighted) and all 100 sampled negatives. As baselines, four zero-shot LLMs reading anonymized traces are precise but find at most 0.43 of the attacks and no key compromise, leaving ample room for better detectors.",
-   "abstract_license": "cc0-1.0 (arxiv metadata)",
-   "arxiv": "2611.04411",
-   "authors": [
-    "Tamer Abdelaziz",
-    "karim Ali"
-   ],
-   "categories": [
-    "arXiv:cs.CR"
-   ],
-   "cited_by_count": null,
-   "doi": "10.5281/zenodo.23758032",
-   "is_retracted": null,
-   "keywords": [],
-   "language": "en",
-   "peer_reviewed": null,
-   "publication": "arXiv",
-   "publication_type": "preprint",
-   "published_date": "2026-11-03",
-   "related_versions": [
-    {
-     "doi": "10.5281/zenodo.23758032",
-     "relation": "published_version",
-     "source": "arxiv"
-    }
-   ],
-   "source_ids": [
-    "arxiv:2611.04411"
-   ],
-   "title": "TxBench: A Benchmark of Attack Transactions and Evidence-Backed Negatives on Seven EVM Chains",
-   "topics": [],
-   "updated_date": "2026-11-03",
-   "url": "https://arxiv.org/abs/2611.04411"
-  },
-  "score": 4.54,
-  "seen": 2,
-  "suggested": "smart-contract-virtual-machines",
-  "title": "TxBench: A Benchmark of Attack Transactions and Evidence-Backed Negatives on Seven EVM Chains",
-  "url": "https://arxiv.org/abs/2611.04411"
- },
- {
-  "added": "2026-11-05",
-  "arxiv": "2611.04488",
-  "candidates": [
-   [
-    "fully-homomorphic-encryption",
-    4.52
-   ],
-   [
-    "large-language-models",
-    3.7
-   ],
-   [
-    "homomorphic-encryption",
-    3.1
-   ],
-   [
-    "decoder-only-transformers",
-    2.1
-   ],
-   [
-    "bootstrap",
-    0.52
-   ],
-   [
-    "optimization",
-    0.26
-   ]
-  ],
-  "confidence": "medium",
-  "doi": null,
-  "keys": [
-   "arxiv:2611.04488",
-   "title:perseusafullstacksystemforhomomorphicmodelinference|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "Large Language Models (LLMs) have made it exceptionally convenient for users to send their private data to model providers, which process them in plaintext. Fully Homomorphic Encryption (FHE) promises to secure remote inference by computing directly on encrypted data, yet it has remained prohibitively slow. The effort to make it practical remains fragmented, with most existing frameworks being closed-source, which keeps progress from compounding. We present Perseus, a free and open Python software library that supports the full stack of encrypted model inference, from the cryptographic backend and data packing, to encrypted nonlinearities and end-to-end model execution. Perseus ships with built-in novel optimizations, one at each level of the stack: in-kernel regeneration of key-switching keys at the (i) backend level, a complex variant of Cachemir packing at the (ii) data level, and a state-of-the-art bootstrap placer that is both packing- and magnitude-aware at the (iii) model level. Perseus achieves state-of-the-art latency across multiple models and modalities, within $3\\%$ of the plaintext models' accuracy and perplexity. Remarkably, it is $3.96\\times$ faster at single-token decoding than any other implementation on Llama-3-8B. We initiate, for the first time, a public speedrun on encrypted GPT-2, so that progress can compound.",
-   "abstract_license": "cc0-1.0 (arxiv metadata)",
-   "arxiv": "2611.04488",
-   "authors": [
-    "Alessandro Zirilli",
-    "Davide Marincione",
-    "Evgenios M. Kornaropoulos",
-    "Giuseppe Ateniese",
-    "Emanuele Rodolà"
-   ],
-   "categories": [
-    "arXiv:cs.CR",
-    "arXiv:cs.AI"
-   ],
-   "cited_by_count": null,
-   "doi": null,
-   "is_retracted": null,
-   "keywords": [],
-   "language": "en",
-   "peer_reviewed": false,
-   "publication": "arXiv",
-   "publication_type": "preprint",
-   "published_date": "2026-11-03",
-   "related_versions": [],
-   "source_ids": [
-    "arxiv:2611.04488"
-   ],
-   "title": "Perseus: A Full-Stack System for Homomorphic Model Inference",
-   "topics": [],
-   "updated_date": "2026-11-03",
-   "url": "https://arxiv.org/abs/2611.04488"
-  },
-  "score": 4.52,
-  "seen": 2,
-  "suggested": "fully-homomorphic-encryption",
-  "title": "Perseus: A Full-Stack System for Homomorphic Model Inference",
-  "url": "https://arxiv.org/abs/2611.04488"
- },
- {
-  "added": "2026-11-07",
-  "arxiv": "2611.07410",
-  "candidates": [
-   [
-    "graph-neural-networks",
-    4.52
-   ],
-   [
-    "deep-learning",
-    3.1
-   ],
-   [
-    "analysis",
-    0.26
-   ]
-  ],
-  "confidence": "medium",
-  "doi": null,
-  "keys": [
-   "arxiv:2611.07410",
-   "title:spectralsymmetryfingerprintsinequivariantrepresentations|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "Symmetry governs the organization of physical structures, while symmetry breaking reveals their transformations. In geometric deep learning, symmetry imposes rank constraints on equivariant representations, limiting the expressive capacity of equivariant graph neural networks (GNNs). Here we show that these constraints can instead be exploited: the singular-value spectra of equivariant representations provide a unified fingerprint of structural symmetry. We introduce spectral symmetry fingerprints (SymFP), which enable discrete point-group identification through rank-template matching and continuous symmetry analysis by quantifying spectral energy beyond target rank constraints. SymFP is orientation invariant and architecture agnostic, enabling a parameter-free GNN implementation. Its spectra can be reused across multiple target groups, and the resulting leakage scores satisfy subgroup monotonicity. Across synthetic structures, molecules, coordination complexes and large biological assemblies, SymFP accurately identifies point groups, tracks controlled symmetry breaking and reveals local and degree-resolved symmetry changes that can be obscured by global geometric measures. These results establish the spectral structure of equivariant representations as a general framework for characterizing symmetry across physical systems.",
-   "abstract_license": "cc0-1.0 (arxiv metadata)",
-   "arxiv": "2611.07410",
-   "authors": [
-    "Jiacheng Cen",
-    "Anyi Li",
-    "Ning Lin",
-    "Zihe Wang",
-    "Ji-Rong Wen",
-    "Wenbing Huang"
-   ],
-   "categories": [
-    "arXiv:cs.LG",
-    "arXiv:cond-mat.mtrl-sci",
-    "arXiv:math-ph",
-    "arXiv:physics.chem-ph"
-   ],
-   "cited_by_count": null,
-   "doi": null,
-   "is_retracted": null,
-   "keywords": [],
-   "language": "en",
-   "peer_reviewed": false,
-   "publication": "arXiv",
-   "publication_type": "preprint",
-   "published_date": "2026-11-05",
-   "related_versions": [],
-   "source_ids": [
-    "arxiv:2611.07410"
-   ],
-   "title": "Spectral symmetry fingerprints in equivariant representations",
-   "topics": [],
-   "updated_date": "2026-11-05",
-   "url": "https://arxiv.org/abs/2611.07410"
-  },
-  "score": 4.52,
-  "seen": 2,
-  "suggested": "graph-neural-networks",
-  "title": "Spectral symmetry fingerprints in equivariant representations",
-  "url": "https://arxiv.org/abs/2611.07410"
- },
- {
-  "added": "2026-11-07",
-  "arxiv": "2611.07688",
-  "candidates": [
-   [
-    "high-voltage-direct-current",
-    4.48
-   ],
-   [
-    "voltage-source-converter-hvdc",
-    3.29
-   ],
-   [
-    "power-electronics",
-    3.1
-   ],
-   [
-    "energy-efficiency",
-    1.2
-   ]
-  ],
-  "confidence": "medium",
-  "doi": null,
-  "keys": [
-   "arxiv:2611.07688",
-   "title:acosteffectivesubmodulewithfaultblockingcapabilityformodularmultilevelconverters|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "Modular multilevel converter (MMC) has become an attractive technology for high-power electronics applications thanks to its high energy efficiency, high power rating, high modularity, flexible scalability, and superior output waveform quality. It has attracted considerable research attention, and numerous submodule (SM) variants have been developed for different objectives. Among them, the half-bridge SM (HBSM) is the most widely adopted thanks to its simplicity, but it cannot interrupt DC-side short-circuit currents. Various SM topologies with fault-blocking capability have been proposed. These SM topologies contain additional switches and passive components compared to the HBSM, leading to higher capital and operating costs. Aiming at these issue, an SM topology capable to block DC-side fault-currents with a reduced component count is proposed in this paper. The proposed SM includes two variants, one employs only two fully-controlled switches. An operation and control scheme for the proposed SM are also developed and presented in the paper. The functionality of the proposed SM is validated by experiment, and the value of the SM is demonstrated through a test simulation for an high-voltage direct-current (HVDC) transmission system.",
-   "abstract_license": "cc0-1.0 (arxiv metadata)",
-   "arxiv": "2611.07688",
-   "authors": [
-    "Yu Liu",
-    "Shengbo Zhang"
-   ],
-   "categories": [
-    "arXiv:eess.SY"
-   ],
-   "cited_by_count": null,
-   "doi": null,
-   "is_retracted": null,
-   "keywords": [],
-   "language": "en",
-   "peer_reviewed": false,
-   "publication": "arXiv",
-   "publication_type": "preprint",
-   "published_date": "2026-11-05",
-   "related_versions": [],
-   "source_ids": [
-    "arxiv:2611.07688"
-   ],
-   "title": "A Cost-Effective Submodule with Fault-Blocking Capability for Modular Multilevel Converters",
-   "topics": [],
-   "updated_date": "2026-11-05",
-   "url": "https://arxiv.org/abs/2611.07688"
-  },
-  "score": 4.48,
-  "seen": 2,
-  "suggested": "high-voltage-direct-current",
-  "title": "A Cost-Effective Submodule with Fault-Blocking Capability for Modular Multilevel Converters",
-  "url": "https://arxiv.org/abs/2611.07688"
- },
- {
-  "added": "2026-11-07",
-  "arxiv": "2611.07726",
-  "candidates": [
-   [
-    "monte-carlo-tree-search",
-    4.48
-   ]
-  ],
-  "confidence": "medium",
-  "doi": "10.1109/icee70628.2026.11710769",
-  "keys": [
-   "arxiv:2611.07726",
-   "doi:10.1109/icee70628.2026.11710769",
-   "title:dualarmtabletoprearrangementwithmovablestackingandgapawarepushtransfers|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "Object rearrangement in cluttered tabletop scenes is challenging, especially in wide workspaces where dual-arm systems improve coverage and efficiency. Limited free space often necessitates buffering, while objects near or across the shared reachability region of the manipulators must be transferred under careful coordination to avoid inter-arm collisions. Conventional inter-arm transfer typically relies on a fixed handoff configuration, which constrains where and how objects are exchanged, enforces spatiotemporal synchronization of the arms, and reduces flexibility in dense layouts. This paper presents a dual-arm rearrangement framework that combines movable stacking with Gap-Aware Push Transfer for asynchronous cross-boundary exchange. The method scans the shared boundary to identify collision-free transfer gaps, places an object near a selected crossing point, and then pushes it into the receiving workspace without requiring simultaneous interaction between the two arms. A joint Monte Carlo Tree Search (MCTS)-based planner coordinates both manipulators while reasoning over buffering and transfer decisions, and execution cost is used after planning to assess the resulting plan. Experiments show that the proposed method shortens joint execution sequences and becomes increasingly advantageous over a fixed handoff baseline as scene density increases, achieving lower execution cost in denser scenes while remaining competitive in lighter ones.",
-   "abstract_license": "cc0-1.0 (arxiv metadata)",
-   "arxiv": "2611.07726",
-   "authors": [
-    "Mohammadreza Firoozalizadeh",
-    "Zakiye Rostamirad",
-    "Arman Barghi",
-    "Ahmad Kalhor",
-    "Mohammadreza Nayeri",
-    "Mehdi Tale Masouleh"
-   ],
-   "categories": [
-    "arXiv:cs.RO"
-   ],
-   "cited_by_count": null,
-   "doi": "10.1109/icee70628.2026.11710769",
-   "is_retracted": null,
-   "keywords": [],
-   "language": "en",
-   "peer_reviewed": null,
-   "publication": "2026 34th International Conference on Electrical Engineering (ICEE), 2026",
-   "publication_type": "preprint",
-   "published_date": "2026-11-05",
-   "related_versions": [
-    {
-     "doi": "10.1109/icee70628.2026.11710769",
-     "journal_ref": "2026 34th International Conference on Electrical Engineering (ICEE), 2026",
-     "relation": "published_version",
-     "source": "arxiv"
-    }
-   ],
-   "source_ids": [
-    "arxiv:2611.07726"
-   ],
-   "title": "Dual-Arm Tabletop Rearrangement with Movable Stacking and Gap-Aware Push Transfers",
-   "topics": [],
-   "updated_date": "2026-11-05",
-   "url": "https://arxiv.org/abs/2611.07726"
-  },
-  "score": 4.48,
-  "seen": 2,
-  "suggested": "monte-carlo-tree-search",
-  "title": "Dual-Arm Tabletop Rearrangement with Movable Stacking and Gap-Aware Push Transfers",
-  "url": "https://arxiv.org/abs/2611.07726"
- },
- {
-  "added": "2026-11-05",
-  "arxiv": "2611.04347",
-  "candidates": [
-   [
-    "altermagnetism",
-    4.47
-   ]
-  ],
-  "confidence": "medium",
-  "doi": "10.1103/7dmx-h9h3",
-  "keys": [
-   "arxiv:2611.04347",
-   "doi:10.1103/7dmx-h9h3",
-   "title:altermagnetisminducedhigherordertopologicaldiracsemimetalsintwodimensionalnonsymmorphicsystems|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "We propose an altermagnetism-induced route to a two-dimensional higher-order topological Dirac semimetal in a trilayer nonsymmorphic Dirac system. Interlayer hybridization preserves the nonsymmorphic bulk Dirac crossings and generates helical edge states in the trilayer phase. Introducing outer-layer $d$-wave altermagnetic order gaps the helical edge states, while only the symmetry-protected Dirac crossing at high-symmetry point $M$ remains gapless. The resulting phase hosts a surviving bulk Dirac point, gapped edge spectra, and corner states. An exact layer-space decomposition further reveals that these features arise from the coexistence of a gapless Dirac sector and a gapped $\\mathbb{Z}_2$ topological sector. Our results establish altermagnetism as an effective mechanism for engineering higher-order topological Dirac semimetals in two-dimensional nonsymmorphic systems.",
-   "abstract_license": "cc0-1.0 (arxiv metadata)",
-   "arxiv": "2611.04347",
-   "authors": [
-    "Lizhou Liu",
-    "Cheng-Ming Miao",
-    "Ying-Tao Zhang",
-    "Qing-Feng Sun"
-   ],
-   "categories": [
-    "arXiv:cond-mat.mes-hall"
-   ],
-   "cited_by_count": null,
-   "doi": "10.1103/7dmx-h9h3",
-   "is_retracted": null,
-   "keywords": [],
-   "language": "en",
-   "peer_reviewed": null,
-   "publication": "Phys. Rev. B 114, 285401 (2026)",
-   "publication_type": "preprint",
-   "published_date": "2026-11-03",
-   "related_versions": [
-    {
-     "doi": "10.1103/7dmx-h9h3",
-     "journal_ref": "Phys. Rev. B 114, 285401 (2026)",
-     "relation": "published_version",
-     "source": "arxiv"
-    }
-   ],
-   "source_ids": [
-    "arxiv:2611.04347"
-   ],
-   "title": "Altermagnetism-induced higher-order topological Dirac semimetals in two-dimensional nonsymmorphic systems",
-   "topics": [],
-   "updated_date": "2026-11-03",
-   "url": "https://arxiv.org/abs/2611.04347"
-  },
-  "score": 4.47,
-  "seen": 2,
-  "suggested": "altermagnetism",
-  "title": "Altermagnetism-induced higher-order topological Dirac semimetals in two-dimensional nonsymmorphic systems",
-  "url": "https://arxiv.org/abs/2611.04347"
- },
- {
-  "added": "2026-11-07",
-  "arxiv": "2611.07504",
-  "candidates": [
-   [
-    "actuators",
-    4.47
-   ],
-   [
-    "sliding-mode-control",
-    4.34
-   ],
-   [
-    "feedback-linearization",
-    3.74
-   ],
-   [
-    "kalman-filtering",
-    3.1
-   ],
-   [
-    "nonlinear-control",
-    3.1
-   ],
-   [
-    "robust-control",
-    3.1
-   ]
-  ],
-  "confidence": "medium",
-  "doi": null,
-  "keys": [
-   "arxiv:2611.07504",
-   "title:simulationmodelingandcontrolofanelasticshapingantagonisticvariablestiffnessactuator|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "Position--stiffness regulation of antagonistic variable stiffness actuators (VSAs) involves coupled nonlinear dynamics, parameter uncertainty, and feedback states that are not directly measured. This paper addresses this challenge through a simulation-based workflow that integrates elastic shaping, model verification, and layered nonlinear control. This study builds on a previously developed actuator comprising two crossed four-bar compliant transmission elastic units. Its optimized elastic mapping provides the structural basis, with an ADAMS torque-curve root mean square error (RMSE) of $2.57\\,\\mathrm{N\\!\\cdot\\!mm}$ against the target. A control-oriented analytical model is implemented in Simulink and compared with the independently executed ADAMS model under matched inputs. The maximum joint-angle RMSE across the tested cases is $4.66\\times10^{-3}\\,\\mathrm{rad}$. A layered controller combines extended Kalman filtering for state reconstruction, feedback linearization for nominal decoupling, and adaptive sliding-mode control for residual compensation. At the end of the nominal simulation, the joint-angle error is approximately $3.14\\times10^{-5}\\,\\mathrm{rad}$. The stiffness error is $3.07\\,\\mathrm{N\\!\\cdot\\!mm/rad}$ relative to a target of $50\\,\\mathrm{N\\!\\cdot\\!mm/rad}$. Parameter-variation and ablation tests assess tracking performance and the effects of the controller modules within the evaluated conditions. The resulting workflow links structural-response modeling, state estimation, and robust control assessment, supporting repeatable comparisons beyond nominal tracking alone.",
-   "abstract_license": "cc0-1.0 (arxiv metadata)",
-   "arxiv": "2611.07504",
-   "authors": [
-    "Yuanlong Ji",
-    "Ruizhe Jiang",
-    "Dongrun Jin",
-    "Xiangyu Xie",
-    "Junheng Lin",
-    "Xingbang Yang"
-   ],
-   "categories": [
-    "arXiv:eess.SY"
-   ],
-   "cited_by_count": null,
-   "doi": null,
-   "is_retracted": null,
-   "keywords": [],
-   "language": "en",
-   "peer_reviewed": false,
-   "publication": "arXiv",
-   "publication_type": "preprint",
-   "published_date": "2026-11-05",
-   "related_versions": [],
-   "source_ids": [
-    "arxiv:2611.07504"
-   ],
-   "title": "Simulation Modeling and Control of an Elastic Shaping Antagonistic Variable Stiffness Actuator",
-   "topics": [],
-   "updated_date": "2026-11-05",
-   "url": "https://arxiv.org/abs/2611.07504"
-  },
-  "score": 4.47,
-  "seen": 2,
-  "suggested": "actuators",
-  "title": "Simulation Modeling and Control of an Elastic Shaping Antagonistic Variable Stiffness Actuator",
-  "url": "https://arxiv.org/abs/2611.07504"
  }
 ]

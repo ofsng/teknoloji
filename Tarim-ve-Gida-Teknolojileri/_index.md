@@ -83,7 +83,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **4**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -91,7 +91,12 @@ Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
-_Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini göstermez; ön baskılar hakemli değildir._
+Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
+
+- [Predatory Heteropteran Bugs as Potential Tools in Integrated Pest Management: A Review](Agronomi/Bitki-Koruma/Entegre-Zararli-Yonetimi/Arastirmalar/2026-Joshi-Predatory-Heteropteran-Bugs-Potential.md) — Joshi vd. (2026) · *Annual Research & Review in Biology* · hakemli
+- [Circular Economy in Animal Nutrition: Feed Valorisation, Precision Livestock Farming, and Sustainability](Hayvan-Bilimi/Hassas-Hayvancilik/Arastirmalar/2026-Papatsiros-Circular-Economy-Animal-Nutrition.md) — Papatsiros vd. (2026) · *Sci* · hakemli
+- [Integrating physiological indicators and Precision Livestock Farming to support European animal welfare frameworks: a systematic review](Hayvan-Bilimi/Hassas-Hayvancilik/Arastirmalar/2026-Pastorelli-Integrating-physiological-indicators.md) — Pastorelli vd. (2026) · *Veterinary Quarterly* · hakemli
+- [Storage- and disorder-related metabolic changes in Chinese cabbage (Brassica rapa subsp. pekinensis) under modified atmosphere packaging and conventional storage by 1H NMR-based metabolomics](Gida-Bilimi-ve-Teknolojisi/Gida-Muhafazasi/Modifiye-Atmosfer-Ambalajlama/Arastirmalar/2026-Seong-Storage-and-disorder-related.md) — Seong vd. (2026) · *Postharvest Biology and Technology* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

@@ -79,7 +79,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **3**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **4**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -89,6 +89,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Fabrication of a Cellulolytic Enzyme Cocktail Immobilised on Magnetic Multi-walled Carbon Nanotubes: Catalytic Kinetics and Reusability](Karbon-Nanotupler/Cok-Duvarli-Karbon-Nanotupler/Arastirmalar/2026-Low-Fabrication-Cellulolytic-Enzyme-Cocktail.md) — Low vd. (2026) · *Chemical and Biochemical Engineering Quarterly* · hakemli
 - [Coplanar Capacitive Sensor Film from Nata de Coco-Reduced Graphene Oxide- Gelatin for Eco-Friendly Intelligent Food Packaging](Grafen/Grafen-Oksit/Arastirmalar/2026-Selvakumar-Coplanar-Capacitive-Sensor-Film.md) — Selvakumar vd. (2026) · *Journal of Packaging Technology and Research* · hakemli · atıf: 1
 - [Two-Photon Excitation Microscopy of Individual Single-Walled Carbon Nanotubes](Karbon-Nanotupler/Tek-Duvarli-Karbon-Nanotupler/Arastirmalar/2026-Akhtar-Two-Photon-Excitation-Microscopy.md) — Akhtar vd. (2026) · *The Journal of Physical Chemistry Letters* · hakemli
 - [Thermal transport and expansion behavior of vertically aligned single-walled carbon nanotube block reinforced copper matrix composites by finite element simulation](Karbon-Nanotupler/Tek-Duvarli-Karbon-Nanotupler/Arastirmalar/2026-Li-Thermal-transport-and-expansion.md) — Li vd. (2026) · *Materials Today Communications* · hakemli

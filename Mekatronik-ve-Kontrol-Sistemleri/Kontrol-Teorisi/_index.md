@@ -86,7 +86,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **6**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -96,7 +96,11 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Research on a novel stability control method of distributed drive electric vehicles based on neural network adaptive terminal sliding mode control](Dogrusal-Olmayan-Kontrol/Kayan-Kipli-Kontrol/Arastirmalar/2026-Liu-Research-novel-stability-control.md) — Liu vd. (2026) · *Engineering Research Express* · hakemli
 - [Distributed Robust Model Predictive Control for Optimal Consensus of Unknown Multiagent Systems with Event-Triggered Communication](Optimal-Kontrol/Model-Ongorulu-Kontrol/Arastirmalar/2026-Jia-Distributed-Robust-Model-Predictive.md) — Jia vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [Integral Sliding Mode Control Enhanced by an Adaptive Double-Power Reaching Law for UAV Systems](Dogrusal-Olmayan-Kontrol/Kayan-Kipli-Kontrol/Arastirmalar/2026-Jaisumroum-Integral-Sliding-Mode-Control.md) — Jaisumroum vd. (2026) · *Unmanned Systems* · hakemli
+- [Two‐dimensional iterative learning linear quadratic regulator control for batch processes based on reference trajectory learning scheme](Optimal-Kontrol/Dogrusal-Karesel-Duzenleyici/Arastirmalar/2026-Li-Twodimensional-iterative-learning-linear.md) — Li vd. (2026) · *The Canadian Journal of Chemical Engineering* · hakemli
+- [Design, Modeling, and Experimental Validation of a Novel Flexible-Joint Robotic Manipulator using Adaptive Sliding Mode Control](Dogrusal-Olmayan-Kontrol/Kayan-Kipli-Kontrol/Arastirmalar/2026-Abdalihkwa-Design-Modeling-and-Experimental.md) — Abdalihkwa vd. (2026) · *Revista Cultura Científica* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

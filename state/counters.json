@@ -257,5 +257,50 @@
    "user-centered-design": 1,
    "ventricular-assist-devices": 1
   }
+ },
+ "2026-11-11": {
+  "archived": 40,
+  "backfill": 0,
+  "by_source": {
+   "arxiv": 1,
+   "openalex": 39
+  },
+  "llm_calls": 0,
+  "llm_usd": 0.0,
+  "per_tech": {
+   "advanced-oxidation-processes": 1,
+   "antibody-drug-conjugates": 1,
+   "cancer-immunotherapy": 2,
+   "content-based-filtering": 1,
+   "coordinate-measuring-machines": 1,
+   "decision-trees": 1,
+   "deep-q-networks": 1,
+   "drug-discovery": 2,
+   "fire-safety-engineering": 1,
+   "fixed-wing-uavs": 1,
+   "ground-penetrating-radar": 2,
+   "inductive-power-transfer": 1,
+   "integrated-pest-management": 1,
+   "inter-satellite-links": 1,
+   "laser-powder-bed-fusion": 2,
+   "linear-quadratic-regulator": 1,
+   "low-field-mri": 1,
+   "machine-learning": 1,
+   "magnetic-resonance-spectroscopy": 1,
+   "mixture-of-experts": 1,
+   "model-based-reinforcement-learning": 1,
+   "modified-atmosphere-packaging": 1,
+   "molten-salt-reactors": 1,
+   "multi-omics": 1,
+   "multi-walled-carbon-nanotubes": 1,
+   "optical-frequency-combs": 1,
+   "ordinary-differential-equations": 1,
+   "precision-livestock-farming": 2,
+   "sliding-mode-control": 3,
+   "solar-energy": 1,
+   "superconducting-magnetic-energy-storage": 1,
+   "water-distribution-systems": 1,
+   "whole-body-control": 1
+  }
  }
 }

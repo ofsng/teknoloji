@@ -84,7 +84,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **6**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **7**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -94,6 +94,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Fabrication of a Cellulolytic Enzyme Cocktail Immobilised on Magnetic Multi-walled Carbon Nanotubes: Catalytic Kinetics and Reusability](Nanomalzemeler/Karbon-Nanomalzemeler/Karbon-Nanotupler/Cok-Duvarli-Karbon-Nanotupler/Arastirmalar/2026-Low-Fabrication-Cellulolytic-Enzyme-Cocktail.md) — Low vd. (2026) · *Chemical and Biochemical Engineering Quarterly* · hakemli
 - [Recent Strategies in Electron Transport Layers Based on Metal Oxide Nanoparticles for Quantum Dot Light Emitting Diodes](Nanomalzemeler/Nanoparcaciklar/Arastirmalar/2026-Kim-Recent-Strategies-Electron-Transport.md) — Kim vd. (2026) · *Inorganics* · hakemli
 - [Engineered Dielectric Response of Liquid-Filled Interfacial Bubbles in van der Waals Heterostructures](Nanomalzemeler/Iki-Boyutlu-Malzemeler/Van-der-Waals-Heteroyapilari/Arastirmalar/2026-Park-Engineered-Dielectric-Response-Liquid.md) — Park vd. (2026) · *ACS Applied Materials & Interfaces* · hakemli
 - [Coplanar Capacitive Sensor Film from Nata de Coco-Reduced Graphene Oxide- Gelatin for Eco-Friendly Intelligent Food Packaging](Nanomalzemeler/Karbon-Nanomalzemeler/Grafen/Grafen-Oksit/Arastirmalar/2026-Selvakumar-Coplanar-Capacitive-Sensor-Film.md) — Selvakumar vd. (2026) · *Journal of Packaging Technology and Research* · hakemli · atıf: 1

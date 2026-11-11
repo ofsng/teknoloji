@@ -85,7 +85,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **10**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **12**.
 
 - [Reinforcement Learning Control of Nonlinear Dynamical Systems: A Dynamics-Oriented Scoping Review](Arastirmalar/2026-Gu-Reinforcement-Learning-Control-Nonlinear.md) — Gu vd. (2026) · *AI* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -97,14 +97,14 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [DreamLander: A 6-DOF World Model based Reinforcement Learning Planetary Lander](Model-Tabanli-Pekistirmeli-Ogrenme/Arastirmalar/2026-Nehma-DreamLander-DOF-World-Model.md) — Nehma vd. (2026) · *Nehma, G.M., Quinn, P., Tiwari, M., & Riano-Rios, C. (2026). DreamLander: A 6-DOF World Model Based Reinforcement Learning Planetary Lander. AIAA SCITECH 2026 Forum* · hakemli
+- [Deep Q-network path planning with stratified sampling and prioritized replay](Deger-Tabanli-Yontemler/Derin-Q-Aglari/Arastirmalar/2026-Zhang-Deep-network-path-planning.md) — Zhang vd. (2026) · *Future Technology* · hakemli
 - [SEER: A Scalable Event-Driven Runtime for Parallel Execution of Multi-Agent Reinforcement Learning Environments](Cok-Etmenli-Pekistirmeli-Ogrenme/Arastirmalar/2026-Su-SEER-Scalable-Event-Driven.md) — Su vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [Reinforcement Learning Control of Nonlinear Dynamical Systems: A Dynamics-Oriented Scoping Review](Arastirmalar/2026-Gu-Reinforcement-Learning-Control-Nonlinear.md) — Gu vd. (2026) · *AI* · hakemli
 - [H^2MARL: Hierarchical Heterogeneous Multi-agent Reinforcement Learning for Humanoid Robot Control](Cok-Etmenli-Pekistirmeli-Ogrenme/Arastirmalar/2026-Hu-2MARL-Hierarchical-Heterogeneous-Multi.md) — Hu vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [Regulating Autonomous Mobility-on-Demand Operators with Fixed and Adaptive Penalties: A Multi-Agent Reinforcement Learning Approach](Cok-Etmenli-Pekistirmeli-Ogrenme/Arastirmalar/2026-Kugler-Regulating-Autonomous-Mobility-Demand.md) — Kügler vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [Cooperative Multi-Agent Reinforcement Learning via Epigraph-Form Guided Exploration](Cok-Etmenli-Pekistirmeli-Ogrenme/Arastirmalar/2026-Son-Cooperative-Multi-Agent-Reinforcement.md) — Son vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [Ratio-Constrained Offline Reinforcement Learning: Consensus-Gated Policy Improvement via Critic Gradient Agreement](Cevrimdisi-Pekistirmeli-Ogrenme/Arastirmalar/2026-Gao-Ratio-Constrained-Offline-Reinforcement.md) — Gao (2026) · *Symmetry* · hakemli
-- [JHiMA-WebRL: A Joint Hierarchical Multi-Agent Reinforcement Learning Framework for Long-Horizon Web Tasks](Cok-Etmenli-Pekistirmeli-Ogrenme/Arastirmalar/2026-Mondal-JHiMA-WebRL-Joint-Hierarchical.md) — Mondal vd. (2026) · *arXiv* · ön baskı / hakemsiz
-- [Safeguarding Multi-Agent Reinforcement Learning for Connected and Automated Vehicles with Recursively Feasible Control Barrier Functions](Cok-Etmenli-Pekistirmeli-Ogrenme/Arastirmalar/2026-Xu-Safeguarding-Multi-Agent-Reinforcement.md) — Xu vd. (2026) · *arXiv* · ön baskı / hakemsiz
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar
