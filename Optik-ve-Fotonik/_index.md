@@ -96,7 +96,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **3**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **6**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -106,9 +106,12 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Dynamic electrical control of on-chip second-harmonic generation with ferroelectric NbOBr2](Dogrusal-Olmayan-Optik/Harmonik-Uretimi/Arastirmalar/2026-Gong-Dynamic-electrical-control-chip.md) — Gong vd. (2026) · *Nature Nanotechnology* · hakemli · atıf: 4
+- [Transient epitaxial dynamics and cascade continuity in long-duration terahertz quantum cascade laser growth](Lazerler/Yari-Iletken-Lazerler/Kuantum-Kaskad-Lazerler/Arastirmalar/2026-Li-Transient-epitaxial-dynamics-and.md) — Li vd. (2026) · *Journal of Applied Physics* · hakemli
 - [Simulation of Electron Trapping in Polymer Light-Emitting Diodes](Isik-Kaynaklari/Isik-Yayan-Diyotlar/Arastirmalar/2026-Paltidis-Simulation-Electron-Trapping-Polymer.md) — Paltidis vd. (2026) · *ACS Omega* · hakemli
 - [Hybrid optical frequency comb source for 9.6 Tbit/s DWDM transmission over standard fiber](Lazerler/Optik-Frekans-Taraklari/Arastirmalar/2026-Sharma-Hybrid-optical-frequency-comb.md) — Sharma vd. (2026) · *Journal of Optics* · hakemli
 - [(OFC 2026) When Less is More: Emerging Network-Wide Use Cases for Hollow-Core Fibers in Optical Networks (Invited)](Optik-Fiberler/Oyuk-Cekirdekli-Fiberler/Arastirmalar/2026-Ibrahimi-OFC-2026-When-Less.md) — Ibrahimi vd. (2026) · *Journal of Optical Communications and Networking* · hakemli
+- [Segment-chirped periodically poled lithium niobate waveguides for broadband supercontinuum generation](Dogrusal-Olmayan-Optik/Superkontinuum-Uretimi/Arastirmalar/2026-Li-Segment-chirped-periodically-poled.md) — Li vd. (2026) · *arXiv* · ön baskı / hakemsiz
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

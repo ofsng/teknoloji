@@ -79,7 +79,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **15**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **16**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -89,6 +89,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Clinical Translation of Optically Pumped Magnetometer-Based Magnetoencephalography: Current Evidence, Implementation Challenges, and Future Pathways](Kuantum-Algilama-ve-Metroloji/Kuantum-Manyetometri/Optik-Pompali-Manyetometreler/Arastirmalar/2026-Peng-Clinical-Translation-Optically-Pumped.md) — Peng vd. (2026) · *Brain Sciences* · hakemli
 - [A Variational Quantum Algorithm for Multi-Skill Project Scheduling](Kuantum-Hesaplama/Kuantum-Algoritmalari/Varyasyonel-Kuantum-Algoritmalari/Arastirmalar/2026-Martinez-Variational-Quantum-Algorithm-for.md) — Martinez vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [Remote Adiabatic Controlled-Z Gate between Distant Superconducting Qubits](Kuantum-Hesaplama/Kubit-Teknolojileri/Superiletken-Kubitler/Arastirmalar/2026-Xu-Remote-Adiabatic-Controlled-Gate.md) — Xu vd. (2026) · *Chinese Physics B* · hakemli · atıf: 1
 - [Scalable entanglement distribution framework for hybrid quantum networks](Kuantum-Iletisimi/Kuantum-Aglari/Arastirmalar/2026-Zhao-Scalable-entanglement-distribution-framewor.md) — Zhao vd. (2026) · *Physical Review A* · hakemli
@@ -96,7 +97,6 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [Trinetra.Q: Statistical and Behavioral Detection of Attacks on the Quantum-Error-Correction Layer and Classical Control Stack of Quantum Computing Systems](Kuantum-Hesaplama/Kuantum-Hata-Duzeltme/Arastirmalar/2026-Sipani-Trinetra-Statistical-and-Behavioral.md) — Sipani (2026) · *arXiv* · ön baskı / hakemsiz
 - [Tensor network representations for intrinsically mixed-state topological orders](Kuantum-Hesaplama/Kuantum-Yazilimi/Kuantum-Devre-Benzetimi/Tensor-Aglari/Arastirmalar/2026-Aldossari-Tensor-network-representations-for.md) — Aldossari vd. (2026) · *PRX Quantum* · hakemli · atıf: 2
 - [Decoy-state quantum key distribution with a leaky Mach-Zehnder receiver](Kuantum-Iletisimi/Kuantum-Anahtar-Dagitimi/Arastirmalar/2026-Mizusawa-Decoy-state-quantum-key.md) — Mizusawa vd. (2026) · *arXiv* · ön baskı / hakemsiz
-- [Tensor-network methodology for real-space super-moiré excitons](Kuantum-Hesaplama/Kuantum-Yazilimi/Kuantum-Devre-Benzetimi/Tensor-Aglari/Arastirmalar/2026-Moustaj-Tensor-network-methodology-for.md) — Moustaj vd. (2026) · *SciPost Physics* · hakemli · atıf: 3
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

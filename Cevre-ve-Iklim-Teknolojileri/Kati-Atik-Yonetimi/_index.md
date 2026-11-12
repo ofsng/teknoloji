@@ -79,7 +79,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **2**.
 
 - [Urban Solid Waste Management in Bengaluru and Indore: A Comparative Analysis](Arastirmalar/2026-Biju-Urban-Solid-Waste-Management.md) — Biju vd. (2026) · *International Journal of Interdisciplinary Approaches in Psychology* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -91,6 +91,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Occurrence, Bioaccumulation, and Biomagnification of Organophosphate Flame Retardants in Aquatic and Terrestrial Food Chains from a Former E-Waste Recycling Region, South China](Geri-Donusum-Teknolojileri/Elektronik-Atik-Geri-Donusumu/Arastirmalar/2026-Liu-Occurrence-Bioaccumulation-and-Biomagnificat.md) — Liu vd. (2026) · *Toxics* · hakemli
 - [Urban Solid Waste Management in Bengaluru and Indore: A Comparative Analysis](Arastirmalar/2026-Biju-Urban-Solid-Waste-Management.md) — Biju vd. (2026) · *International Journal of Interdisciplinary Approaches in Psychology* · hakemli
 <!-- AUTO:RECENT:END -->
 

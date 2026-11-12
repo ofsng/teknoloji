@@ -84,7 +84,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **7**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **9**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -94,13 +94,14 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Field-Deployable and Ultrasensitive Surface-Enhanced Raman Spectroscopy for Waterborne Arsenic Monitoring Based on Headspace Formation of Arsenic–Silver Nanocomposites](Nanofotonik/Plazmonik/Yuzey-Guclendirmeli-Raman-Spektroskopisi/Arastirmalar/2026-Chen-Field-Deployable-and-Ultrasensitive.md) — Chen vd. (2026) · *ACS Sensors* · hakemli
+- [Deep-Learning-Empowered Gold Nanoparticle Dimer-Assisted Hyperbolic Metamaterial Surface Plasmon Resonance Fiber-Optic Sensor for Ultrasensitive Mercury Ion Detection](Nanofotonik/Plazmonik/Yuzey-Plazmon-Rezonansi/Arastirmalar/2026-Li-Deep-Learning-Empowered-Gold.md) — Li vd. (2026) · *ACS Applied Materials & Interfaces* · hakemli
 - [Fabrication of a Cellulolytic Enzyme Cocktail Immobilised on Magnetic Multi-walled Carbon Nanotubes: Catalytic Kinetics and Reusability](Nanomalzemeler/Karbon-Nanomalzemeler/Karbon-Nanotupler/Cok-Duvarli-Karbon-Nanotupler/Arastirmalar/2026-Low-Fabrication-Cellulolytic-Enzyme-Cocktail.md) — Low vd. (2026) · *Chemical and Biochemical Engineering Quarterly* · hakemli
 - [Recent Strategies in Electron Transport Layers Based on Metal Oxide Nanoparticles for Quantum Dot Light Emitting Diodes](Nanomalzemeler/Nanoparcaciklar/Arastirmalar/2026-Kim-Recent-Strategies-Electron-Transport.md) — Kim vd. (2026) · *Inorganics* · hakemli
 - [Engineered Dielectric Response of Liquid-Filled Interfacial Bubbles in van der Waals Heterostructures](Nanomalzemeler/Iki-Boyutlu-Malzemeler/Van-der-Waals-Heteroyapilari/Arastirmalar/2026-Park-Engineered-Dielectric-Response-Liquid.md) — Park vd. (2026) · *ACS Applied Materials & Interfaces* · hakemli
 - [Coplanar Capacitive Sensor Film from Nata de Coco-Reduced Graphene Oxide- Gelatin for Eco-Friendly Intelligent Food Packaging](Nanomalzemeler/Karbon-Nanomalzemeler/Grafen/Grafen-Oksit/Arastirmalar/2026-Selvakumar-Coplanar-Capacitive-Sensor-Film.md) — Selvakumar vd. (2026) · *Journal of Packaging Technology and Research* · hakemli · atıf: 1
 - [Two-Photon Excitation Microscopy of Individual Single-Walled Carbon Nanotubes](Nanomalzemeler/Karbon-Nanomalzemeler/Karbon-Nanotupler/Tek-Duvarli-Karbon-Nanotupler/Arastirmalar/2026-Akhtar-Two-Photon-Excitation-Microscopy.md) — Akhtar vd. (2026) · *The Journal of Physical Chemistry Letters* · hakemli
 - [Thermal transport and expansion behavior of vertically aligned single-walled carbon nanotube block reinforced copper matrix composites by finite element simulation](Nanomalzemeler/Karbon-Nanomalzemeler/Karbon-Nanotupler/Tek-Duvarli-Karbon-Nanotupler/Arastirmalar/2026-Li-Thermal-transport-and-expansion.md) — Li vd. (2026) · *Materials Today Communications* · hakemli
-- [A review of the biogenic fabrication of metal oxide nanoparticles using phytochemical reducing and stabilizing agents across diverse systems](Nanomalzemeler/Nanoparcaciklar/Metal-Oksit-Nanoparcaciklar/Arastirmalar/2026-Porkalai-review-the-biogenic-fabrication.md) — Porkalai vd. (2026) · *Discover Chemistry.* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

@@ -83,7 +83,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **5**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **6**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -97,6 +97,7 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [Classical Machine Learning-Based Approaches for Medical Image Analysis and Computer-Aided Diagnosis](Tibbi-Goruntu-Analizi/Bilgisayar-Destekli-Teshis/Arastirmalar/2026-Cincar-Classical-Machine-Learning-Based.md) — Cincar vd. (2026) · *Technium Romanian Journal of Applied Sciences and Technology* · hakemli
 - [Magnetic Resonance Imaging in the Preoperative Assessment of Anal Fistula: Diagnostic Performance and Comparison of the St. James and Garg Classifications](Manyetik-Rezonans-Goruntuleme/Arastirmalar/2026-Hung-Magnetic-Resonance-Imaging-the.md) — Hung vd. (2026) · *Journal of Coloproctology* · hakemli
 - [Integrating Regulatory Planning and Metrology into Open-Source Medical Device Research: A Proposed Practice-Informed Framework from the A4IM Low-Field MRI Project](Manyetik-Rezonans-Goruntuleme/Dusuk-Alan-MRG/Arastirmalar/2026-Hanusova-Integrating-Regulatory-Planning-and.md) — Hanušová vd. (2026) · *Bioengineering* · hakemli
+- [Pathogen-specific positron emission tomography for Enterobacterales bone infection](Nukleer-Tip-Goruntuleme/Pozitron-Emisyon-Tomografisi/Arastirmalar/2026-Gordon-Pathogen-specific-positron-emission.md) — Gordon vd. (2026) · *Bone and Joint Research* · hakemli
 - [Multi-class classification of central and non-central geographic atrophy using optical coherence tomography](Optik-Tibbi-Goruntuleme/Optik-Koherens-Tomografi/Arastirmalar/2026-Siraz-Multi-class-classification-central.md) — Siraz vd. (2026) · *Experimental Biology and Medicine* · hakemli · atıf: 1
 <!-- AUTO:RECENT:END -->
 

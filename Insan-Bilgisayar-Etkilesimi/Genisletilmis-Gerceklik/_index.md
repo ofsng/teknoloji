@@ -78,7 +78,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **3**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -88,6 +88,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Tracing Efficiency in Peri-Personal Space Using Transparent Head-Mounted Displays: A Comparison with Conventional Displays](Basa-Takilan-Ekranlar/Arastirmalar/2026-Strelkov-Tracing-Efficiency-Peri-Personal.md) — Strelkov vd. (2026) · *International Journal of Human-Computer Interaction* · hakemli
 - [The Impact of Virtual and Augmented Reality on Modern Software Applications](Artirilmis-Gerceklik/Arastirmalar/2026-Shrivastav-The-Impact-Virtual-and.md) — Shrivastav (2026) · *Global Journal of Innovative Research Perspectives (GJIRP)* · hakemli
 - [Ageing, Digital Literacy, and Interaction Modality in Immersive Virtual Reality: Psychomotor Performance, Cognitive Flexibility, and Their Associations with Processing Speed](Sanal-Gerceklik/Arastirmalar/2026-Kourtesis-Ageing-Digital-Literacy-and.md) — Kourtesis vd. (2026) · *Virtual Worlds* · hakemli
 <!-- AUTO:RECENT:END -->

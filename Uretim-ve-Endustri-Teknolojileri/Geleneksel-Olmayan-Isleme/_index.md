@@ -79,7 +79,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -87,7 +87,10 @@ Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
-_Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini göstermez; ön baskılar hakemli değildir._
+Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
+
+- [Feasibility of an SLA-Printed Copper-Plated Electrode for Electrical Discharge Machining: Fabrication, Structural Heterogeneity, and Behavior in Machining](Elektro-Erozyon-Isleme/Arastirmalar/2026-Antipov-Feasibility-SLA-Printed-Copper.md) — Antipov vd. (2026) · *Journal of Manufacturing and Materials Processing* · hakemli
+- [Data-driven knowledge transfer and optimization for sustainable wire electrical discharge machining considering workpiece thickness effects and data scarcity](Elektro-Erozyon-Isleme/Arastirmalar/2026-Afridi-Data-driven-knowledge-transfer.md) — Afridi vd. (2026) · *Engineering Applications of Artificial Intelligence* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

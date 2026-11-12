@@ -302,5 +302,55 @@
    "water-distribution-systems": 1,
    "whole-body-control": 1
   }
+ },
+ "2026-11-12": {
+  "archived": 40,
+  "backfill": 0,
+  "by_source": {
+   "openalex": 40
+  },
+  "llm_calls": 0,
+  "llm_usd": 0.0,
+  "per_tech": {
+   "3d-nand": 1,
+   "active-filters": 1,
+   "building-information-modeling": 1,
+   "car-t-cell-therapy": 1,
+   "cell-cycle": 1,
+   "continual-learning": 1,
+   "depth-estimation": 1,
+   "digital-to-analog-converters": 1,
+   "distributed-acoustic-sensing": 1,
+   "distributed-ledger-technologies": 1,
+   "divide-and-conquer": 1,
+   "e-waste-recycling": 1,
+   "earth-system-models": 1,
+   "electrical-discharge-machining": 2,
+   "fan-out-wafer-level-packaging": 1,
+   "few-shot-learning": 1,
+   "global-illumination": 1,
+   "harmonic-generation": 1,
+   "head-mounted-displays": 1,
+   "high-bandwidth-memory": 1,
+   "high-entropy-alloys": 1,
+   "hybrid-electric-vehicles": 1,
+   "information-extraction": 1,
+   "intelligent-transportation-systems": 1,
+   "knowledge-graphs": 1,
+   "multilevel-inverters": 1,
+   "optically-pumped-magnetometers": 1,
+   "permissioned-blockchains": 1,
+   "positron-emission-tomography": 1,
+   "quantum-cascade-lasers": 1,
+   "small-modular-reactors": 1,
+   "step-growth-polymerization": 1,
+   "supercontinuum-generation": 1,
+   "surface-enhanced-raman-spectroscopy": 1,
+   "surface-plasmon-resonance": 1,
+   "text-to-video-generation": 1,
+   "unmanned-aerial-vehicles": 1,
+   "vat-photopolymerization": 1,
+   "wireless-power-transfer": 1
+  }
  }
 }

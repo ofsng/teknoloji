@@ -77,7 +77,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **2**.
+
+- [Three-Phase-Input Inductive Wireless Power Transfer System for Rectifier-Output Voltage Ripple Reduction](Arastirmalar/2026-Deng-Three-Phase-Input-Inductive.md) — Deng vd. (2026) · *Electronics* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -87,6 +89,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Three-Phase-Input Inductive Wireless Power Transfer System for Rectifier-Output Voltage Ripple Reduction](Arastirmalar/2026-Deng-Three-Phase-Input-Inductive.md) — Deng vd. (2026) · *Electronics* · hakemli
 - [Non‐Conductive Inductive Power Transfer Charging Gun of Electric Vehicle](Enduktif-Guc-Aktarimi/Arastirmalar/2026-Saurav-NonConductive-Inductive-Power-Transfer.md) — Saurav vd. (2026) · *International Journal of Circuit Theory and Applications* · hakemli
 <!-- AUTO:RECENT:END -->
 

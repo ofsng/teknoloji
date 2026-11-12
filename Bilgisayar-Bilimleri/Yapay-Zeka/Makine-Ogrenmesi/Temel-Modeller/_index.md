@@ -77,7 +77,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **24**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **25**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -87,6 +87,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [TokenDial: Continuous Attribute Control for Text-to-Video Generation in Visual Dial Space](Cok-Kipli-Temel-Modeller/Metinden-Video-Uretimi/Arastirmalar/2026-Liu-TokenDial-Continuous-Attribute-Control.md) — Liu vd. (2026) · *ACM Transactions on Graphics* · hakemli · atıf: 2
 - [Quantifying multi-lesion detection and localization in whole-body FDG PET/CT with a multimodal foundation model](Cok-Kipli-Temel-Modeller/Arastirmalar/2026-Liu-Quantifying-multi-lesion-detection.md) — Liu vd. (2026) · *Physics in Medicine and Biology* · hakemli
 - [Assessing gender–object association bias in text-to-image generation](Cok-Kipli-Temel-Modeller/Metinden-Goruntu-Uretimi/Arastirmalar/2026-SONG-Assessing-genderobject-association-bias.md) — SONG vd. (2026) · *Multimedia Tools and Applications* · hakemli
 - [FedReason: Large Language Models as Weight-Space Meta-Aggregators for Heterogeneous Federated Learning](Buyuk-Dil-Modelleri/Arastirmalar/2026-Ruzbahani-FedReason-Large-Language-Models.md) — Ruzbahani vd. (2026) · *arXiv* · ön baskı / hakemsiz
@@ -94,7 +95,6 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [Encoding and Propagation of Grammatical Number in Large Language Models](Buyuk-Dil-Modelleri/Arastirmalar/2026-Solinsky-Encoding-and-Propagation-Grammatical.md) — Solinsky vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [When, Where, How: Active In-Context Learning for Tabular Foundation Models](Buyuk-Dil-Modelleri/Baglam-Ici-Ogrenme/Arastirmalar/2026-Frey-When-Where-How-Active.md) — Frey (2026) · *arXiv* · ön baskı / hakemsiz
 - [CacheGraft: Enhancing Retrieval-Augmented Generation via Latent-Space Document Enrichment](Buyuk-Dil-Modelleri/Erisimle-Zenginlestirilmis-Uretim/Arastirmalar/2026-Lakshman-CacheGraft-Enhancing-Retrieval-Augmente.md) — Lakshman vd. (2026) · *arXiv* · ön baskı / hakemsiz
-- [ZeroRAG: Adaptive Semantic Peer Routing for Decentralized Retrieval-Augmented Generation](Buyuk-Dil-Modelleri/Erisimle-Zenginlestirilmis-Uretim/Arastirmalar/2026-Neague-ZeroRAG-Adaptive-Semantic-Peer.md) — Neague vd. (2026) · *arXiv*
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

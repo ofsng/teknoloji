@@ -78,7 +78,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **3**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -88,6 +88,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Distributed acoustic sensing for marine mammal monitoring](Sismoloji/Dagitik-Akustik-Algilama/Arastirmalar/2026-Bouffaut-Distributed-acoustic-sensing-for.md) — Bouffaut (2026) · *Methods in Ecology and Evolution* · hakemli · atıf: 1
 - [Ground-Penetrating Radar Evaluation for Detecting Subsurface Defects in Reinforced Concrete Slabs through Controlled Laboratory Investigation](Arama-Jeofizigi/Yere-Nufuz-Eden-Radar/Arastirmalar/2026-Hedjazi-Ground-Penetrating-Radar-Evaluation.md) — Hedjazi vd. (2026) · *Transportation Research Record Journal of the Transportation Research Board* · hakemli
 - [YOLO vs. diffusion networks for underground pipe detection: a case study using ground penetrating radar data](Arama-Jeofizigi/Yere-Nufuz-Eden-Radar/Arastirmalar/2026-Senousy-YOLO-diffusion-networks-for.md) — Senousy vd. (2026) · *Scientific Reports* · hakemli
 <!-- AUTO:RECENT:END -->

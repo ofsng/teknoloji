@@ -84,7 +84,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **3**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **4**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -95,6 +95,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
 - [Urban digital twins and digital twinning as a continuing planning practice](Akilli-Sehirler/Kentsel-Dijital-Ikizler/Arastirmalar/2026-Almulhim-Urban-digital-twins-and.md) — Almulhim vd. (2026) · *Frontiers in Sustainable Cities* · hakemli
+- [A conceptual framework to explain the role of building information modeling in smart cities](Insaat-Teknolojileri/Yapi-Bilgi-Modellemesi/Arastirmalar/2026-conceptual-framework-explain-the.md) — بخش vd. (2026) · *مجله حکمرانی و شهر هوشمند* · hakemli
 - [A Proposed Methodological Framework for Data-Driven Deep Learning Surrogate Modelling of Non-Revenue Water Prediction and Operational Control in Small-Sized Municipal Water Distribution Systems](Su-Kaynaklari-Muhendisligi/Su-Dagitim-Sistemleri/Arastirmalar/2026-Petro-Hernandez-Proposed-Methodological-Framewor.md) — Petro-Hernández vd. (2026) · *Algorithms* · hakemli
 - [Decision making under uncertainty in fire safety engineering: An industrial Battery Energy Storage System Round Robin Study](Yapi-Fizigi/Yangin-Guvenligi-Muhendisligi/Arastirmalar/2026-Funk-Decision-making-under-uncertainty.md) — Funk vd. (2026) · *Journal of Loss Prevention in the Process Industries* · hakemli
 <!-- AUTO:RECENT:END -->

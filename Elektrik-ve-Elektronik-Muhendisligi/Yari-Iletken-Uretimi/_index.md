@@ -87,7 +87,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **6**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **7**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -97,6 +97,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Effect of thermomechanical properties of epoxy molding compound on the reliability of fan-out wafer-level packaging](Ileri-Paketleme/Fan-Out-Pul-Duzeyinde-Paketleme/Arastirmalar/2026-Kang-Effect-thermomechanical-properties-epoxy.md) — Kang vd. (2026) · *Journal of Adhesion Science and Technology* · hakemli
 - [Enhanced electron-beam lithography to reduce the frequency scatter of 200–400 GHz superconducting microstrip resonators for on-chip filterbank spectrometers](Litografi/Elektron-Demeti-Litografisi/Arastirmalar/2026-Scholtenhuis-Enhanced-electron-beam-lithography.md) — Scholtenhuis vd. (2026) · *APL Engineering Physics* · hakemli · atıf: 1
 - [Aerosol‐Assisted Chemical Vapor Deposition of Mixed Phase Tin Phosphide Thin Films and Their Anode Performance for Sodium‐Ion Batteries](Ince-Film-Biriktirme/Kimyasal-Buhar-Biriktirme/Arastirmalar/2026-Fan-AerosolAssisted-Chemical-Vapor-Deposition.md) — Fan vd. (2026) · *ChemSusChem* · hakemli
 - [Mechanistic Origins of Atomic-Scale Control in Plasma-Thermal Atomic-Layer Etching of Nickel](Asindirma/Atomik-Katman-Asindirma/Arastirmalar/2026-Dinari-Mechanistic-Origins-Atomic-Scale.md) — Dinari vd. (2026) · *The Journal of Physical Chemistry C* · hakemli

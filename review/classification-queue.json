@@ -1646,6 +1646,73 @@
   "url": "https://arxiv.org/abs/2611.11085"
  },
  {
+  "added": "2026-11-12",
+  "arxiv": "2611.13447",
+  "candidates": [
+   [
+    "hexagonal-boron-nitride",
+    7.26
+   ],
+   [
+    "two-dimensional-materials",
+    1.65
+   ],
+   [
+    "analysis",
+    0.26
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.13447",
+   "title:doublequantumenhancedcoherentcontrolandmagneticsensingofspindefectsinhexagonalboronnitride|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "The negatively charged boron vacancy ($V_{\\mathrm{B}}^{-}$) in hexagonal boron nitride (hBN) is a promising spin defect for quantum sensing in two-dimensional material systems. Previous hBN experiments have mainly exploited the two spin-triplet ground-state single-quantum transitions separately. Here we implement a double-quantum driving scheme based on simultaneous resonant microwave excitation of both ground-state single-quantum transitions, establishing coherent control of the $Δm_s=2$ manifold in a $V_{\\mathrm{B}}^{-}$ ensemble. We compare the resulting double-quantum response with the corresponding single-quantum protocol under identical experimental conditions. The double-quantum protocol enhances the optical readout contrast and yields a 2.6-fold signal-to-noise improvement in AC magnetometry. We further use the double-quantum relaxation channel as a differential probe of electric-field and strain noise, showing that the present data are compatible with correlated-surface or volume-distributed fluctuations, while short-range uncorrelated surface-noise models are disfavored within the assumptions of our analysis. These results establish double-quantum coherent control and frequency-resolved AC magnetometry in hBN spin ensembles, and identify the sample-dependent measurements needed to determine the microscopic origin of the dominant relaxation channels.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.13447",
+   "authors": [
+    "Shihao Ru",
+    "Abdullah Rasmita",
+    "Jiakai Chen",
+    "Yuzhe Yang",
+    "Xiaodan Lyu",
+    "Robert Cernansky",
+    "Edwin Hang Tong Teo",
+    "Jesús Zúñiga-Pérez",
+    "Fedor Jelezko",
+    "Weibo Gao"
+   ],
+   "categories": [
+    "arXiv:quant-ph"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-10",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.13447"
+   ],
+   "title": "Double-quantum enhanced coherent control and magnetic sensing of spin defects in hexagonal boron nitride",
+   "topics": [],
+   "updated_date": "2026-11-10",
+   "url": "https://arxiv.org/abs/2611.13447"
+  },
+  "score": 7.26,
+  "seen": 1,
+  "suggested": "hexagonal-boron-nitride",
+  "title": "Double-quantum enhanced coherent control and magnetic sensing of spin defects in hexagonal boron nitride",
+  "url": "https://arxiv.org/abs/2611.13447"
+ },
+ {
   "added": "2026-11-09",
   "arxiv": "2607.08816",
   "candidates": [
@@ -2205,6 +2272,62 @@
   "suggested": "quantum-imaging",
   "title": "Super-resolution quantum imaging via multiphoton correlation",
   "url": "https://arxiv.org/abs/2611.11768"
+ },
+ {
+  "added": "2026-11-12",
+  "arxiv": "2611.13463",
+  "candidates": [
+   [
+    "finite-volume-method",
+    6.6
+   ],
+   [
+    "parametric-curves-and-surfaces",
+    1.8
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.13463",
+   "title:anurbsenhancedhighorderfinitevolumemethodforcompressiblelaminarboundarylayersoncurveddomainswithhybridmeshes|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "High-fidelity simulation of compressible laminar boundary layers on curved domains requires physical wall boundary treatment and geometric representation compatible with high-order reconstruction, since viscous shear stresses and conductive heat fluxes are concentrated in a thin near-wall region. Conventional high-order methods often suffer from loss of accuracy near curved walls or require complicated wall treatments. To address these issues, in this paper, we develop a NURBS-enhanced $k$-exact finite-volume method for the steady compressible Navier--Stokes equations on hybrid meshes. To incorporate physical wall conditions into the high-order discretization, we develop a wall boundary treatment that employs sequential reconstruction without requiring the reconstruction variables to coincide with those used to prescribe the boundary conditions. The NURBS-based boundary representation is used to obtain a high-order accurate description of curved boundaries, and the diffusive generalized Riemann problem (dGRP) viscous flux is employed to enhance numerical robustness. A variety of numerical examples are provided to demonstrate the high-order accuracy and effectiveness of the proposed method.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.13463",
+   "authors": [
+    "Yisu Li",
+    "Xucheng Meng",
+    "Guanghui Hu"
+   ],
+   "categories": [
+    "arXiv:physics.comp-ph"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-10",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.13463"
+   ],
+   "title": "A NURBS-enhanced high-order finite-volume method for compressible laminar boundary layers on curved domains with hybrid meshes",
+   "topics": [],
+   "updated_date": "2026-11-10",
+   "url": "https://arxiv.org/abs/2611.13463"
+  },
+  "score": 6.6,
+  "seen": 1,
+  "suggested": "finite-volume-method",
+  "title": "A NURBS-enhanced high-order finite-volume method for compressible laminar boundary layers on curved domains with hybrid meshes",
+  "url": "https://arxiv.org/abs/2611.13463"
  },
  {
   "added": "2026-11-08",
@@ -3236,6 +3359,116 @@
   "url": "https://arxiv.org/abs/2611.11770"
  },
  {
+  "added": "2026-11-12",
+  "arxiv": "2611.13402",
+  "candidates": [
+   [
+    "foundation-models",
+    6.3
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.13402",
+   "title:livingconstitutionsparticipatoryalignmentforsovereignfoundationmodels|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "In Constitutional AI, a plain-text \"constitution\" encodes values and gets incorporated into a model via post-training. However, the procedure for creating such a constitution poses significant challenges: who contributes, who decides which norms are included, and to what extent must the process be participatory or democratic? These challenges can be paralyzing. Yet, we argue that taking action is essential: without a deliberate constitution, sovereign models would risk misalignment or default to norms set by frontier model providers. We propose treating the development of a constitution as an evolving, participatory process akin to citizen science, iteratively drafted, tested, and refined. We therefore formulate five desirable principles: iterative, modular, justifiable, positional, and legitimate. We further argue that such a document must remain responsive not only over time but across the people it governs, and propose that provisions be marked as settled, contested, or underdetermined, so that durable disagreement is recorded in the constitution rather than resolved away. Empirically, we show via agent-based modelling that proposed process for maintaining living constitutions is robust against 50% bad actors among citizens - assuming a share of 75% participants with good intent in the deliberative body. This indicates that the proposed process tolerates a substantial share of adversarial participants.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.13402",
+   "authors": [
+    "Stine Lyngsø Beltoft",
+    "Jonas Vistrup",
+    "Peter Schneider-Kamp",
+    "Lukas Galke Poech"
+   ],
+   "categories": [
+    "arXiv:cs.AI"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-10",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.13402"
+   ],
+   "title": "Living constitutions: Participatory alignment for sovereign foundation models",
+   "topics": [],
+   "updated_date": "2026-11-10",
+   "url": "https://arxiv.org/abs/2611.13402"
+  },
+  "score": 6.3,
+  "seen": 1,
+  "suggested": "foundation-models",
+  "title": "Living constitutions: Participatory alignment for sovereign foundation models",
+  "url": "https://arxiv.org/abs/2611.13402"
+ },
+ {
+  "added": "2026-11-12",
+  "arxiv": "2611.13438",
+  "candidates": [
+   [
+    "topological-insulators",
+    6.3
+   ],
+   [
+    "altermagnetism",
+    2.2
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.13438",
+   "title:geometryselectivehigherordertopologicalinsulatorsinducedbydxyaltermagnet|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "We show that proximity to a $d_{xy}$-wave altermagnet provides an effective route to engineering boundary-geometry-dependent higher-order topological phases. The boundary geometry plays a crucial role in determining the topological properties: axis-aligned edge states remain gapless, whereas diagonal edges acquire effective masses with alternating signs, giving rise to four corner modes localized at the mass domain walls. By projecting onto the edge-state subspace, we derive the effective edge Hamiltonians for different boundary geometries. Furthermore, $π$-flux defects introduced under periodic boundary conditions yield zero-energy bound states localized at the flux cores, providing complementary evidence for nontrivial topology without physical boundaries. The interplay between the Zeeman field and the altermagnetic order drives a topological transition through the closing and reopening of the edge gap, while the bulk gap remains open. These findings highlight the crucial role of boundary geometry in higher-order topology and establish proximity-induced $d_{xy}$-wave altermagnetism as a route to engineering higher-order topological phases.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.13438",
+   "authors": [
+    "Siyuan Cheng",
+    "Yuee Xie",
+    "Xiaosen Yang",
+    "Yuanping Chen"
+   ],
+   "categories": [
+    "arXiv:cond-mat.mes-hall"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-10",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.13438"
+   ],
+   "title": "Geometry-Selective Higher-order topological insulators induced by $d_{xy}$ altermagnet",
+   "topics": [],
+   "updated_date": "2026-11-10",
+   "url": "https://arxiv.org/abs/2611.13438"
+  },
+  "score": 6.3,
+  "seen": 1,
+  "suggested": "topological-insulators",
+  "title": "Geometry-Selective Higher-order topological insulators induced by $d_{xy}$ altermagnet",
+  "url": "https://arxiv.org/abs/2611.13438"
+ },
+ {
   "added": "2026-11-05",
   "arxiv": "2611.04499",
   "candidates": [
@@ -3458,6 +3691,67 @@
   "suggested": "astronomy-and-astrophysics",
   "title": "An (in)complete NIRSpec census of Balmer absorption in Type 1 AGN – radiation-driven outflows in little red dots, quasars and variable stars",
   "url": "https://doi.org/10.1093/mnras/stag2131"
+ },
+ {
+  "added": "2026-11-12",
+  "arxiv": "2611.13442",
+  "candidates": [
+   [
+    "llm-inference-optimization",
+    6.06
+   ],
+   [
+    "large-language-models",
+    2.1
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.13442",
+   "title:foresparkjointdraftandverificationbudgetschedulingforparallelspeculativedecoding|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Parallel drafters accelerate LLM decoding by proposing a whole block of draft tokens in a single forward pass, making them attractive for LLM serving. Recent systems optimize goodput (i.e., accepted tokens per second) because rejected drafts steal compute from other requests. However, these systems control only how many tokens are verified, so every request still drafts a full block. At high serving load, we find that drafting consumes up to 40% of step time, of which a majority is discarded because it is never verified. Yet, draft-length control from autoregressive drafters does not carry over, because a parallel drafter commits to its length before its single pass. Moreover, draft and verification lengths are coupled across the batch, so they must be selected jointly for every request while keeping the decision computationally cheap at every step. In this paper, we propose work-conserving speculation (WCS), a design that jointly allocates draft and verification budgets per request in LLM serving, and present ForeSpark as its prototype. ForeSpark realizes WCS with (i) a context-aware pre-draft estimator that predicts acceptance for every candidate length from the target model's context features, (ii) a lightweight joint draft-verify scheduler that selects both lengths through a global sort, and (iii) a post-draft budget distribution that spends verification on the most promising tokens. Implemented on vLLM, ForeSpark improves throughput by up to 1.77x over the state-of-the-art DSpark and by 2.49x over autoregressive decoding at a matched per-request generation rate, without changing the output distribution. It also tolerates higher load, sustaining up to 1.51x the request rate of DSpark under latency service level objectives (SLOs).",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.13442",
+   "authors": [
+    "Jaeyong Song",
+    "Daniel Wang",
+    "Pratyush Patel",
+    "Jonny Kong",
+    "Preyas Shah",
+    "Shobhit Kanaujia"
+   ],
+   "categories": [
+    "arXiv:cs.DC",
+    "arXiv:cs.AI",
+    "arXiv:cs.LG"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-10",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.13442"
+   ],
+   "title": "ForeSpark: Joint Draft and Verification Budget Scheduling for Parallel Speculative Decoding",
+   "topics": [],
+   "updated_date": "2026-11-10",
+   "url": "https://arxiv.org/abs/2611.13442"
+  },
+  "score": 6.06,
+  "seen": 1,
+  "suggested": "llm-inference-optimization",
+  "title": "ForeSpark: Joint Draft and Verification Budget Scheduling for Parallel Speculative Decoding",
+  "url": "https://arxiv.org/abs/2611.13442"
  },
  {
   "added": "2026-11-06",
@@ -6542,6 +6836,97 @@
   "suggested": "high-voltage-direct-current",
   "title": "Data-driven current control of modular multilevel converter-based HVDC transmission system",
   "url": "https://arxiv.org/abs/2611.07734"
+ },
+ {
+  "added": "2026-11-12",
+  "arxiv": "2611.13436",
+  "candidates": [
+   [
+    "plasma-wakefield-acceleration",
+    4.34
+   ],
+   [
+    "free-electron-lasers",
+    4.34
+   ],
+   [
+    "particle-physics",
+    3.48
+   ],
+   [
+    "accelerator-physics",
+    3.1
+   ],
+   [
+    "high-power-lasers",
+    1.78
+   ],
+   [
+    "light-sources",
+    1.2
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.13436",
+   "title:compactplasmabasedextremecompressionofrelativisticelectronbeams|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Accelerated particle beams are essential tools of modern science and technology with applications ranging from medicine [1], to light sources [2], to high-energy physics [3]. Over time, as accelerator-based experiments become more sophisticated and probe natural phenomena with greater temporal resolution, there is an increasing demand on beam parameters, in particular on bunch duration. Experiments have been proposed that require beams with 1-2 orders of magnitude shorter durations than what is possible with current state-of-the-art technology. However, state-of-the-art temporal bunch compressors force a trade-off between how short an electron bunch can be made and how well its transverse quality survives the strong bending magnets required to do so -- a limitation that stands as a grand challenge for accelerator physics to-date [4]. In this experiment, we demonstrate a new, compact compression technique for generating ultrashort, high-peak-current electron bunches that circumvents this trade-off using plasma wakefield acceleration. Just as chirped pulse amplification unlocked ultrashort, high-power laser pulses and the technologies that followed from them, here we demonstrate an analogous chirp-and-compress strategy applied to relativistic electron beams by using the extreme electric fields of a plasma wakefield in place of a stretcher-amplifier, thereby unlocking the path to ultrashort, extremely high-current electron beams. We demonstrate the first application of this plasma-compressed bunch using it to drive single-microbunch free electron lasing at optical wavelengths in a single, meter-scale undulator module, producing radiation pulses roughly four orders of magnitude more energetic than the first beam-driven, plasma-based free electron laser demonstration at the same accelerator facility [5, 6].",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.13436",
+   "authors": [
+    "Rafi Hessami",
+    "Kelly K Swanson",
+    "Mario Galletti",
+    "Livio Verra",
+    "Angelo Biagioni",
+    "Lucio Crincoli",
+    "Mariano Carpanese",
+    "Martina Del Giorno",
+    "Francesco Demurtas",
+    "Giacomo Griseri",
+    "Valerio Lollo",
+    "Michele Opromolla",
+    "Federico Nguyen",
+    "Gianmarco Parise",
+    "Alberto Petralia",
+    "Gilles J Silvi",
+    "Federica Stocchi",
+    "Marco Zottola",
+    "Agostino Marinelli",
+    "Riccardo Pompili",
+    "Claudio Emma"
+   ],
+   "categories": [
+    "arXiv:physics.acc-ph",
+    "arXiv:physics.plasm-ph"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-10",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.13436"
+   ],
+   "title": "Compact plasma-based extreme compression of relativistic electron beams",
+   "topics": [],
+   "updated_date": "2026-11-10",
+   "url": "https://arxiv.org/abs/2611.13436"
+  },
+  "score": 5.27,
+  "seen": 1,
+  "suggested": "accelerator-physics",
+  "title": "Compact plasma-based extreme compression of relativistic electron beams",
+  "url": "https://arxiv.org/abs/2611.13436"
  },
  {
   "added": "2026-11-06",
@@ -9933,406 +10318,5 @@
   "suggested": "convolutional-neural-networks",
   "title": "DR-LiteNet: A Lightweight Explainable Hybrid CNN Framework for Imbalanced Diabetic Retinopathy Grading via Adaptive SMOTE Fusion",
   "url": "https://arxiv.org/abs/2611.04405"
- },
- {
-  "added": "2026-11-05",
-  "arxiv": "2611.04518",
-  "candidates": [
-   [
-    "large-language-models",
-    4.56
-   ],
-   [
-    "underwater-robots",
-    3.9
-   ],
-   [
-    "robot-software-and-middleware",
-    2.1
-   ],
-   [
-    "underwater-vehicles",
-    1.2
-   ],
-   [
-    "linear-programming",
-    1.2
-   ]
-  ],
-  "confidence": "medium",
-  "doi": null,
-  "keys": [
-   "arxiv:2611.04518",
-   "title:llmassistedplanningwithdistributedonboardbehaviourtreeexecutionformultiauvmissions|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "Coordinating autonomous underwater vehicles requires translating operator intent into feasible assignments while preserving autonomous execution when communication is limited. We present a hierarchical framework that couples Large Language Model (LLM) interpretation of natural-language mission instructions with Mixed-Integer Linear Programming (MILP) and distributed Behaviour Tree (BT) execution. The LLM extracts assignment and ordering constraints, which the MILP optimizer combines with vehicle capabilities and temporal requirements. A BT-LLM Bridge distributes the resulting allocations to onboard BT Mission Managers. Per-vehicle Robotic Agents assess local faults and request selective replanning, allowing unaffected vehicles to continue their assigned tasks. Evaluation in a ROS-based AUV simulator compares Qwen-3-8B and Llama-3.1-8B on constraint extraction and tests recovery from sensor degradation and critical vehicle faults. Qwen-3-8B provides more accurate constraint extraction, and all tasks are completed in the tested failure scenarios. These simulation results support the feasibility of combining language-based mission specification with structured allocation and distributed execution.",
-   "abstract_license": "cc0-1.0 (arxiv metadata)",
-   "arxiv": "2611.04518",
-   "authors": [
-    "Ehsan Khorrambakht",
-    "Cristiano Caissutti",
-    "Andrea Munafo",
-    "Andrea Caiti"
-   ],
-   "categories": [
-    "arXiv:cs.RO"
-   ],
-   "cited_by_count": null,
-   "doi": null,
-   "is_retracted": null,
-   "keywords": [],
-   "language": "en",
-   "peer_reviewed": false,
-   "publication": "arXiv",
-   "publication_type": "preprint",
-   "published_date": "2026-11-03",
-   "related_versions": [],
-   "source_ids": [
-    "arxiv:2611.04518"
-   ],
-   "title": "LLM-Assisted Planning with Distributed Onboard Behaviour Tree Execution for Multi-AUV Missions",
-   "topics": [],
-   "updated_date": "2026-11-03",
-   "url": "https://arxiv.org/abs/2611.04518"
-  },
-  "score": 4.56,
-  "seen": 2,
-  "suggested": "large-language-models",
-  "title": "LLM-Assisted Planning with Distributed Onboard Behaviour Tree Execution for Multi-AUV Missions",
-  "url": "https://arxiv.org/abs/2611.04518"
- },
- {
-  "added": "2026-11-05",
-  "arxiv": "2611.04546",
-  "candidates": [
-   [
-    "large-language-models",
-    4.56
-   ]
-  ],
-  "confidence": "medium",
-  "doi": null,
-  "keys": [
-   "arxiv:2611.04546",
-   "title:arellmassistantsregulatoryreadyanswersfromregenolds2026euaiactqveachallenge|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "Large language model (LLM) assistants are increasingly proposed for regulatory affairs, yet their reliability in regulatory tasks remains unclear. We introduce the EU AI Act Q&A Benchmark, an expert-curated benchmark of 110 open-ended questions about the EU AI Act (Regulation (EU) 2024/1689). Each question comes with an exemplary answer, question-specific correctness criteria, and expected references. Evaluation measures answer correctness, reference quality, conciseness, tone, and latency, with a multi-turn ``hard mode'' testing responses to simulated user pushback. We also present the results of the 2026 EU AI Act Q&A Challenge, based on the benchmark, where three off-the-shelf baselines and five purpose-built assistants (from four commercial developers and one academic entrant) were tested. Only two of the five submitted assistants consistently outperformed the baselines; one achieved high scores across all evaluated metrics. These results show that specialist development alone does not guarantee better performance and highlight the critical importance of LLM assistant evaluation in regulatory affairs. The benchmark code is openly available at https://github.com/regenold-GmbH/eu-ai-act-benchmark-2026/.",
-   "abstract_license": "cc0-1.0 (arxiv metadata)",
-   "arxiv": "2611.04546",
-   "authors": [
-    "Marco Virgolin",
-    "Thomas Haszprunar",
-    "Maximilian Regenold"
-   ],
-   "categories": [
-    "arXiv:cs.AI",
-    "arXiv:cs.MA"
-   ],
-   "cited_by_count": null,
-   "doi": null,
-   "is_retracted": null,
-   "keywords": [],
-   "language": "en",
-   "peer_reviewed": false,
-   "publication": "arXiv",
-   "publication_type": "preprint",
-   "published_date": "2026-11-03",
-   "related_versions": [],
-   "source_ids": [
-    "arxiv:2611.04546"
-   ],
-   "title": "Are LLM Assistants Regulatory Ready? Answers from regenold's 2026 EU AI Act Q&A Challenge",
-   "topics": [],
-   "updated_date": "2026-11-03",
-   "url": "https://arxiv.org/abs/2611.04546"
-  },
-  "score": 4.56,
-  "seen": 2,
-  "suggested": "large-language-models",
-  "title": "Are LLM Assistants Regulatory Ready? Answers from regenold's 2026 EU AI Act Q&A Challenge",
-  "url": "https://arxiv.org/abs/2611.04546"
- },
- {
-  "added": "2026-11-07",
-  "arxiv": "2611.07375",
-  "candidates": [
-   [
-    "direct-preference-optimization",
-    4.56
-   ],
-   [
-    "optimization",
-    0.26
-   ],
-   [
-    "statistics",
-    0.26
-   ]
-  ],
-  "confidence": "medium",
-  "doi": null,
-  "keys": [
-   "arxiv:2611.07375",
-   "title:whenscoresconflictwithpreferencesprealignmentdiagnosisandadaptivecorrectionofconstraintdriftindpo|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "Direct Preference Optimization (DPO) is increasingly used in settings where pairwise preferences coexist with pointwise criteria such as response length, answer correctness, or safety scores. When the two disagree, standard DPO treats pairs whose preferred output scores worse on the pointwise criterion (conflict pairs) in the same way as the remaining (matching) pairs. We characterize a systematic failure mode, constraint drift: for sufficiently small updates, conflict pairs tend to increase constraint cost while matching pairs tend to repair it, and the net change depends on their balance. This balance yields a closed-form pre-alignment diagnostic, $ρ^{*}_{\\mathrm{eq}}$, computable from dataset statistics, that indicates whether a dataset is self-correcting or requires intervention. Building on this diagnostic, we propose Conflict-aware DPO (CoDPO), which down-weights conflict pairs with a strength set from $ρ^{*}_{\\mathrm{eq}}$ rather than tuned, and adds an adaptive margin shift that addresses residual drift during training. Empirically, drift grows monotonically with conflict exposure on the conflict-dominated domains, and the intervention decision given by $ρ^{*}_{\\mathrm{eq}}$ matches the observed drift on every domain, including one that it identifies as self-correcting. On all four domains of the main comparison, CoDPO reduces drift while largely preserving the preference learning of vanilla DPO. Compared with hard filtering and recent constrained and multi-objective baselines, CoDPO also achieves a more favorable drift-preference trade-off.",
-   "abstract_license": "cc0-1.0 (arxiv metadata)",
-   "arxiv": "2611.07375",
-   "authors": [
-    "Ping Liu",
-    "Yan Yan"
-   ],
-   "categories": [
-    "arXiv:cs.LG"
-   ],
-   "cited_by_count": null,
-   "doi": null,
-   "is_retracted": null,
-   "keywords": [],
-   "language": "en",
-   "peer_reviewed": false,
-   "publication": "arXiv",
-   "publication_type": "preprint",
-   "published_date": "2026-11-05",
-   "related_versions": [],
-   "source_ids": [
-    "arxiv:2611.07375"
-   ],
-   "title": "When Scores Conflict with Preferences: Pre-Alignment Diagnosis and Adaptive Correction of Constraint Drift in DPO",
-   "topics": [],
-   "updated_date": "2026-11-05",
-   "url": "https://arxiv.org/abs/2611.07375"
-  },
-  "score": 4.56,
-  "seen": 2,
-  "suggested": "direct-preference-optimization",
-  "title": "When Scores Conflict with Preferences: Pre-Alignment Diagnosis and Adaptive Correction of Constraint Drift in DPO",
-  "url": "https://arxiv.org/abs/2611.07375"
- },
- {
-  "added": "2026-11-07",
-  "arxiv": "2611.07486",
-  "candidates": [
-   [
-    "large-language-models",
-    4.56
-   ],
-   [
-    "malware-analysis",
-    3.1
-   ],
-   [
-    "analysis",
-    0.33
-   ]
-  ],
-  "confidence": "medium",
-  "doi": null,
-  "keys": [
-   "arxiv:2611.07486",
-   "title:mevinceknowledgeconstrainedllmreasoningfortechniqueidentificationfrommalwarereports|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "Mapping behavioral intelligence in malware analysis reports to ATT&CK techniques supports threat analysis and defense, but reliable identification remains challenging. Supporting evidence is often scattered across long, heterogeneous reports, while closely related techniques share behavioral cues and differ only in subtle but decisive details. While large language models (LLMs) can use external knowledge to interpret reports, they may assign techniques based on plausible associations rather than sufficient evidence. We present MEvince, a knowledge-constrained LLM reasoning framework for report-level malware technique identification. Its core is a shared behavioral representation connecting report observations to technique definitions. This representation is built through agentic mining of technique documentation and supports two online stages: 1) primitive-guided extraction uses behavioral primitives to structure LLM-extracted observations, link them to source passages, and group dispersed evidence; 2) evidence-aligned retrieval matches this evidence to technique profiles through the same concepts, retaining likely candidates and confusable alternatives for LLM comparison of distinguishing behaviors. Controls at both stages validate evidence references and check technique-specific requirements. The representation also supports adaptation without parameter updates, where offline agentic audits diagnose concept weaknesses and refine extraction or retrieval policies. We evaluate MEvince against 11 baselines spanning four method families using a dataset of 610 public malware reports referenced by MITRE ATT&CK. MEvince improves exact-ID F1 over the strongest baseline by 17.4%, and its concept-guided retrieval increases gold-label candidate coverage from 31.6% to 47.9%. With a small adaptation set, offline refinement yields further gains and outperforms baselines that update model parameters.",
-   "abstract_license": "cc0-1.0 (arxiv metadata)",
-   "arxiv": "2611.07486",
-   "authors": [
-    "Hongyu She",
-    "Yiling He",
-    "Mengda Xie",
-    "Yiping Liu",
-    "Xingzhi Qian",
-    "Zhan Qin",
-    "Lorenzo Cavallaro"
-   ],
-   "categories": [
-    "arXiv:cs.CR",
-    "arXiv:cs.CL",
-    "arXiv:cs.IR"
-   ],
-   "cited_by_count": null,
-   "doi": null,
-   "is_retracted": null,
-   "keywords": [],
-   "language": "en",
-   "peer_reviewed": false,
-   "publication": "arXiv",
-   "publication_type": "preprint",
-   "published_date": "2026-11-05",
-   "related_versions": [],
-   "source_ids": [
-    "arxiv:2611.07486"
-   ],
-   "title": "MEvince: Knowledge-Constrained LLM Reasoning for Technique Identification from Malware Reports",
-   "topics": [],
-   "updated_date": "2026-11-05",
-   "url": "https://arxiv.org/abs/2611.07486"
-  },
-  "score": 4.56,
-  "seen": 2,
-  "suggested": "large-language-models",
-  "title": "MEvince: Knowledge-Constrained LLM Reasoning for Technique Identification from Malware Reports",
-  "url": "https://arxiv.org/abs/2611.07486"
- },
- {
-  "added": "2026-11-07",
-  "arxiv": "2611.07588",
-  "candidates": [
-   [
-    "large-language-models",
-    4.56
-   ],
-   [
-    "collaborative-filtering",
-    3.1
-   ],
-   [
-    "reinforcement-learning",
-    3.1
-   ]
-  ],
-  "confidence": "medium",
-  "doi": null,
-  "keys": [
-   "arxiv:2611.07588",
-   "title:whatgetshackedinacollaborativerewardforllmrecommendersthepartthatdoesnotdependontheuser|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "Collaborative-filtering (CF) scores provide graded, personalized rewards for training large language model (LLM) recommenders through reinforcement learning. However, these rewards can cause exposure collapse: even though the CF model itself produces diverse top recommendations across users, an LLM optimized with its rewards concentrates on fewer items. We decompose each score into an item-mean component, the item's average CF score across user histories, and a residual component, the current user's score deviation from the average. Through controlled interventions, we identify the item-mean component as a contributor to exposure collapse. Accordingly, we propose two reward corrections: per-item centering removes each item's estimated mean score, while per-item standardization further rescales the residual using its estimated standard deviation. Experiments on two datasets with two identifier schemes show that both corrections substantially improve catalog coverage and exposure evenness. Compared with training on the uncorrected CF reward, our corrections increase the number of distinct items ranked first across users by up to $9.8\\times$, while maintaining comparable ranking accuracy. Code is available at https://anonymous.4open.science/r/LLM4Rec-CF-Bias-27EF/.",
-   "abstract_license": "cc0-1.0 (arxiv metadata)",
-   "arxiv": "2611.07588",
-   "authors": [
-    "Zhuangsheng Li",
-    "Liang Dong",
-    "Yu Wu",
-    "Dailin Li",
-    "Yu Xia",
-    "Yunhan C. Zhang",
-    "Rui Cai",
-    "Yi Wu",
-    "Julian McAuley"
-   ],
-   "categories": [
-    "arXiv:cs.IR"
-   ],
-   "cited_by_count": null,
-   "doi": null,
-   "is_retracted": null,
-   "keywords": [],
-   "language": "en",
-   "peer_reviewed": false,
-   "publication": "arXiv",
-   "publication_type": "preprint",
-   "published_date": "2026-11-05",
-   "related_versions": [],
-   "source_ids": [
-    "arxiv:2611.07588"
-   ],
-   "title": "What Gets Hacked in a Collaborative Reward for LLM Recommenders: The Part That Does Not Depend on the User",
-   "topics": [],
-   "updated_date": "2026-11-05",
-   "url": "https://arxiv.org/abs/2611.07588"
-  },
-  "score": 4.56,
-  "seen": 2,
-  "suggested": "large-language-models",
-  "title": "What Gets Hacked in a Collaborative Reward for LLM Recommenders: The Part That Does Not Depend on the User",
-  "url": "https://arxiv.org/abs/2611.07588"
- },
- {
-  "added": "2026-11-08",
-  "arxiv": null,
-  "candidates": [
-   [
-    "isothermal-amplification",
-    3.85
-   ],
-   [
-    "polymerase-chain-reaction",
-    1.79
-   ],
-   [
-    "infectious-diseases",
-    1.2
-   ],
-   [
-    "molecular-diagnostics",
-    1.2
-   ],
-   [
-    "biomedical-engineering",
-    1.2
-   ],
-   [
-    "biosensors",
-    0.74
-   ]
-  ],
-  "confidence": "medium",
-  "doi": null,
-  "keys": [
-   "title:applicationofcrisprbaseddiagnosticsforrapidandspecificdetectionofemergingpathogens|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "The emergence and reappearance of infectious pathogens have prompted the need for developing diagnostic technologies that are quick, accurate, and reliable. Conventional technologies for pathogen detection such as polymerase chain reaction (PCR) and reverse transcription PCR (RT-PCR) provide accurate pathogen detection, but they may require sophisticated equipment, labor and time. This paper explores the application of CRISPR-based diagnostic tools as a quick, selective and efficient method for pathogen detection. This paper applies secondary research in examining the scientific literature on CRISPR-based diagnostics, particularly, Cas12 and Cas13, and their applications in infectious disease diagnosis. One gets attracted to the SHERLOCK and DETECTR systems which make use of programmable recognition of nucleic acids and collateral cleavage to generate detectable signals. These results indicate the utility of the CRISPR diagnostics for detecting viral and bacterial pathogens, including SARS-CoV-2, dengue, Newcastle disease viruses and antimicrobial resistant bacteria. Moreover, the ability to integrate into isothermal amplification methods, such as the recombinase polymerase amplification (RPA), is useful in increasing efficiency of the diagnostic tests as well as their portability. There are, however, a number of challenges related to sensitivity, sample processing, stability of the reagents, standardization and validation. The authors note that CRISPR diagnostics provide an important complement to traditional molecular diagnostics.",
-   "abstract_license": null,
-   "arxiv": null,
-   "authors": [
-    "Kisan Dnyandeo Thete"
-   ],
-   "categories": [
-    "OpenAlex-field:Engineering"
-   ],
-   "cited_by_count": 0,
-   "doi": null,
-   "is_retracted": false,
-   "keywords": [
-    "CRISPR-based diagnostics",
-    "Cas12",
-    "Cas13",
-    "SHERLOCK",
-    "DETECTR",
-    "collateral cleavage",
-    "nucleic acid detection",
-    "SARS-CoV-2",
-    "dengue virus",
-    "Newcastle disease virus",
-    "antimicrobial resistance",
-    "recombinase polymerase amplification",
-    "isothermal amplification",
-    "point-of-care testing"
-   ],
-   "language": "en",
-   "oa_created": "2026-11-06",
-   "peer_reviewed": true,
-   "publication": "Journal of chemical health risks",
-   "publication_type": "article",
-   "published_date": "2026-11-04",
-   "related_versions": [],
-   "source_ids": [
-    "openalex:W7225373424"
-   ],
-   "title": "Application of CRISPR Based Diagnostics for Rapid and Specific Detection of Emerging Pathogens",
-   "topics": [
-    "Biosensors and Analytical Detection",
-    "Biomedical Engineering"
-   ],
-   "updated_date": "2026-11-07",
-   "url": "https://jchr.org/index.php/JCHR/article/view/17790"
-  },
-  "score": 3.85,
-  "seen": 1,
-  "suggested": "isothermal-amplification",
-  "title": "Application of CRISPR Based Diagnostics for Rapid and Specific Detection of Emerging Pathogens",
-  "url": "https://jchr.org/index.php/JCHR/article/view/17790"
  }
 ]

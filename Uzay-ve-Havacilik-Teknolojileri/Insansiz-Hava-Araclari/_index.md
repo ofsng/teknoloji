@@ -79,7 +79,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **2**.
+
+- [A Comprehensive Review on Next Generation Unmanned Aerial Vehicles: Hydrogen Fuel Cell Technology](Arastirmalar/2026-Sahin-Comprehensive-Review-Next-Generation.md) — Şahin vd. (2026) · *Drones* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -89,6 +91,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [A Comprehensive Review on Next Generation Unmanned Aerial Vehicles: Hydrogen Fuel Cell Technology](Arastirmalar/2026-Sahin-Comprehensive-Review-Next-Generation.md) — Şahin vd. (2026) · *Drones* · hakemli
 - [Numerical Investigation of Feedback Path Selection for Envelope Shaping in Fixed-Wing UAVs](Sabit-Kanatli-IHA-lar/Arastirmalar/2026-Cao-Numerical-Investigation-Feedback-Path.md) — Cao vd. (2026) · *Applied Sciences* · hakemli
 <!-- AUTO:RECENT:END -->
 

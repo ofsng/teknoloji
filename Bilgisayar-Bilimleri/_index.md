@@ -90,7 +90,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **90**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **100**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -100,14 +100,14 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Divide-and-conquer neural-network surrogates for quantum sampling: Accelerating Markov-chain Monte Carlo in large-scale constrained optimization problems](Algoritmalar-ve-Veri-Yapilari/Algoritma-Tasarim-Paradigmalari/Bol-ve-Yonet/Arastirmalar/2026-Kawamata-Divide-and-conquer-neural.md) — Kawamata vd. (2026) · *Physical Review Applied* · hakemli · atıf: 2
+- [Path-Traced Inverse Rendering with Global Illumination in 3D Gaussian Fields](Bilgisayar-Grafikleri/Goruntu-Olusturma/Kuresel-Aydinlatma/Arastirmalar/2026-Zhu-Path-Traced-Inverse-Rendering.md) — Zhu vd. (2026) · *ACM Transactions on Graphics* · hakemli · atıf: 2
+- [A Systematic Literature Review of Blockchain and Distributed Ledger Technology for the Detection and Prevention of Phishing Attacks](Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Arastirmalar/2026-Odianosen-Systematic-Literature-Review-Blockchai.md) — Odianosen vd. (2026) · *Iconic Research and Engineering Journals* · hakemli
+- [Generating interesting scientific ideas using knowledge graphs and LLMs: Evaluations with 100 research group leaders](Veritabanlari-ve-Bilgi-Sistemleri/Bilgi-Cizgeleri/Arastirmalar/2026-Gu-Generating-interesting-scientific-ideas.md) — Gu vd. (2026) · *Proceedings of the National Academy of Sciences* · hakemli · atıf: 65
+- [Marigold V2: Revisiting Diffusion Transformers for Monocular Depth Estimation](Yapay-Zeka/Bilgisayarli-Goru/3B-Bilgisayarli-Goru/Derinlik-Kestirimi/Arastirmalar/2026-Pavlovic-Marigold-Revisiting-Diffusion-Transform.md) — Pavlovic vd. (2026) · *ACM Transactions on Graphics* · hakemli · atıf: 4
+- [AI-Based Voice to Form Filling System: A Review of Speech Recognition, Information Extraction and Intelligent Form Automation](Yapay-Zeka/Dogal-Dil-Isleme/Bilgi-Cikarimi/Arastirmalar/2026-Sakhare-Based-Voice-Form-Filling.md) — Sakhare vd. (2026) · *International Journal of Creative and Open Research in Engineering and Management* · hakemli
+- [Few-Shot Learning for Ransomware Detection: A Narrative Review of Machine Learning, Deep Learning and Siamese Neural Network Approaches](Yapay-Zeka/Makine-Ogrenmesi/Aktarim-Ogrenmesi/Az-Ornekle-Ogrenme/Arastirmalar/2026-Bello-Few-Shot-Learning-for.md) — Bello vd. (2026) · *FUDMA Journal of Sciences* · hakemli
 - [DreamLander: A 6-DOF World Model based Reinforcement Learning Planetary Lander](Yapay-Zeka/Makine-Ogrenmesi/Pekistirmeli-Ogrenme/Model-Tabanli-Pekistirmeli-Ogrenme/Arastirmalar/2026-Nehma-DreamLander-DOF-World-Model.md) — Nehma vd. (2026) · *Nehma, G.M., Quinn, P., Tiwari, M., & Riano-Rios, C. (2026). DreamLander: A 6-DOF World Model Based Reinforcement Learning Planetary Lander. AIAA SCITECH 2026 Forum* · hakemli
-- [Deep Q-network path planning with stratified sampling and prioritized replay](Yapay-Zeka/Makine-Ogrenmesi/Pekistirmeli-Ogrenme/Deger-Tabanli-Yontemler/Derin-Q-Aglari/Arastirmalar/2026-Zhang-Deep-network-path-planning.md) — Zhang vd. (2026) · *Future Technology* · hakemli
-- [Rancang Bangun Sistem E-Commerce Koperasi Desa Merah Putih Silian Satu Berbasis Website dengan Fitur Rekomendasi Produk Menggunakan Algoritma Content-Based Filtering](Veritabanlari-ve-Bilgi-Sistemleri/Bilgi-Erisimi/Oneri-Sistemleri/Icerik-Tabanli-Filtreleme/Arastirmalar/2026-Meteng-Rancang-Bangun-Sistem-Commerce.md) — Meteng vd. (2026) · *Jurnal JTIK (Jurnal Teknologi Informasi dan Komunikasi)* · hakemli
-- [Quantum Graph Neural Network for Financial Fraud Detection](Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Cizge-Sinir-Aglari/Arastirmalar/2026-Jyothirmayi-Quantum-Graph-Neural-Network.md) — Jyothirmayi (2026) · *International Journal of Advanced Scientific Innovation* · hakemli
-- [Adaptive confidence-aware deep authentication framework for secure industrial Internet of Things](Bilgisayar-Aglari/Nesnelerin-Interneti/Endustriyel-Nesnelerin-Interneti/Arastirmalar/2026-Kalyanakumar-Adaptive-confidence-aware-deep.md) — Kalyanakumar vd. (2026) · *Scientific Reports* · hakemli
-- [Fuzzy-clustering–based multi-scale intrusion detection for the industrial internet of things](Bilgisayar-Aglari/Nesnelerin-Interneti/Endustriyel-Nesnelerin-Interneti/Arastirmalar/2026-Yang-Fuzzy-clusteringbased-multi-scale.md) — Yang vd. (2026) · *PLoS ONE* · hakemli
-- [Posterior-Mean Conversion of a Variational Bayesian Neural Network for Fixed-Point RTL Evaluation: An MNIST Case Study](Yapay-Zeka/Makine-Ogrenmesi/Bayesci-Makine-Ogrenmesi/Bayesci-Sinir-Aglari/Arastirmalar/2026-Ramesh-Posterior-Mean-Conversion-Variational.md) — Ramesh vd. (2026) · *Engineering Research Express* · hakemli
-- [Quantifying multi-lesion detection and localization in whole-body FDG PET/CT with a multimodal foundation model](Yapay-Zeka/Makine-Ogrenmesi/Temel-Modeller/Cok-Kipli-Temel-Modeller/Arastirmalar/2026-Liu-Quantifying-multi-lesion-detection.md) — Liu vd. (2026) · *Physics in Medicine and Biology* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

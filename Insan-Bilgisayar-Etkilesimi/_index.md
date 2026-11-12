@@ -88,7 +88,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **5**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **6**.
 
 - [Human-Computer Interaction Insights from Web Portals in Consumer Banking](Arastirmalar/2026-Shrivastav-Human-Computer-Interaction-Insights.md) — Shrivastav (2026) · *International Journal of Medical Research And Innovation in Applied Science (IJMRIAS)* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -101,6 +101,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
 - [User-Centered Design of Interactive Recommender Systems for Cancer Patients and Caregivers](Etkilesim-Tasarimi/Kullanici-Merkezli-Tasarim/Arastirmalar/2026-Brusilovsky-User-Centered-Design-Interactive.md) — Brusilovsky vd. (2026) · *ACM Transactions on Recommender Systems* · hakemli
+- [Tracing Efficiency in Peri-Personal Space Using Transparent Head-Mounted Displays: A Comparison with Conventional Displays](Genisletilmis-Gerceklik/Basa-Takilan-Ekranlar/Arastirmalar/2026-Strelkov-Tracing-Efficiency-Peri-Personal.md) — Strelkov vd. (2026) · *International Journal of Human-Computer Interaction* · hakemli
 - [Human-Computer Interaction Insights from Web Portals in Consumer Banking](Arastirmalar/2026-Shrivastav-Human-Computer-Interaction-Insights.md) — Shrivastav (2026) · *International Journal of Medical Research And Innovation in Applied Science (IJMRIAS)* · hakemli
 - [The Impact of Virtual and Augmented Reality on Modern Software Applications](Genisletilmis-Gerceklik/Artirilmis-Gerceklik/Arastirmalar/2026-Shrivastav-The-Impact-Virtual-and.md) — Shrivastav (2026) · *Global Journal of Innovative Research Perspectives (GJIRP)* · hakemli
 - [Ageing, Digital Literacy, and Interaction Modality in Immersive Virtual Reality: Psychomotor Performance, Cognitive Flexibility, and Their Associations with Processing Speed](Genisletilmis-Gerceklik/Sanal-Gerceklik/Arastirmalar/2026-Kourtesis-Ageing-Digital-Literacy-and.md) — Kourtesis vd. (2026) · *Virtual Worlds* · hakemli

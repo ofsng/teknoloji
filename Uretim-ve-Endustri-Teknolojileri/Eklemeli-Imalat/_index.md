@@ -85,7 +85,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **10**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **11**.
 
 - [Metal Additive Manufacturing of Engineering Alloys: Process–Material Interactions, Defect Formation, Property Optimization and a Decision-Making Framework](Arastirmalar/2026-Rocha-Metal-Additive-Manufacturing-Engineering.md) — Rocha vd. (2026) · *Journal of Mechanical Engineering and Manufacturing* · hakemli
 <!-- AUTO:RESEARCH:END -->

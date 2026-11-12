@@ -84,7 +84,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -95,6 +95,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
 - [Anomalous thermal and elastic properties of an epitaxial NiTi film exhibiting R-phase](Sekil-Hafizali-Alasimlar/Arastirmalar/2026-Repcek-Anomalous-thermal-and-elastic.md) — Repček vd. (2026) · *Smart Materials and Structures* · hakemli
+- [Phase prediction of high-entropy alloys via transfer learning with domain adaptation and oversampling](Yuksek-Entropili-Alasimlar/Arastirmalar/2026-Wen-Phase-prediction-high-entropy.md) — Wen vd. (2026) · *Materials & Design* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar
