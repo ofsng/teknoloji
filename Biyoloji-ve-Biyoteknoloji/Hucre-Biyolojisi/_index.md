@@ -80,7 +80,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -91,6 +91,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
 - [Human REXO4 is Required for Cell Cycle Progression](Hucre-Dongusu/Arastirmalar/2026-Abdusamad-Human-REXO4-Required-for.md) — Abdusamad vd. (2026) · *Molecular Biology of the Cell* · hakemli · atıf: 2
+- [Single-Cell Analysis of the Microbiota-Gut-Brain Axis Mechanism: A Proposal in Exploring Diet Intervention in Fecal Microbiome Transplantation Mice](Tek-Hucre-Analizi/Arastirmalar/2026-Cui-Single-Cell-Analysis-the.md) — Cui vd. (2026) · *Theoretical and Natural Science* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

@@ -76,7 +76,10 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **2**.
+
+- [Cases of tick-borne encephalitis identified by metagenomic next-generation sequencing, China](Arastirmalar/2026-Zhang-Cases-tick-borne-encephalitis.md) — Zhang vd. (2026) · *ASM Case Reports* · hakemli
+- [Metagenomic next-generation sequencing as an adjunctive diagnostic tool for Clonorchis sinensis infection: a case report](Arastirmalar/2026-Zhang-Metagenomic-next-generation-sequencing.md) — Zhang vd. (2026) · *Future Microbiology* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -84,7 +87,10 @@ Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
-_Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini göstermez; ön baskılar hakemli değildir._
+Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
+
+- [Cases of tick-borne encephalitis identified by metagenomic next-generation sequencing, China](Arastirmalar/2026-Zhang-Cases-tick-borne-encephalitis.md) — Zhang vd. (2026) · *ASM Case Reports* · hakemli
+- [Metagenomic next-generation sequencing as an adjunctive diagnostic tool for Clonorchis sinensis infection: a case report](Arastirmalar/2026-Zhang-Metagenomic-next-generation-sequencing.md) — Zhang vd. (2026) · *Future Microbiology* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

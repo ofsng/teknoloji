@@ -94,7 +94,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **10**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **18**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -104,14 +104,14 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [peleke-1: A Suite of Protein Language Models Fine-Tuned for Targeted Antibody Sequence Generation](Biyoenformatik-ve-Hesaplamali-Biyoloji/Protein-Dil-Modelleri/Arastirmalar/2026-Santolla-peleke-Suite-Protein-Language.md) — Santolla vd. (2026) · *Viral Immunology* · hakemli · atıf: 1
+- [Spatial transcriptomics reveals organizational properties of the mouse spinal cord and alterations in neuropathic pain](Genetik-ve-Genomik/DNA-Dizileme/Uzamsal-Transkriptomik/Arastirmalar/2026-Wang-Spatial-transcriptomics-reveals-organizatio.md) — Wang vd. (2026) · *Proceedings of the National Academy of Sciences* · hakemli · atıf: 9
+- [BCL2 Facilitates Naïve Pluripotency and an 8C ‐Like State in Human Embryonic Stem Cells](Kok-Hucre-Biyolojisi/Embriyonik-Kok-Hucreler/Arastirmalar/2026-Lu-BCL2-Facilitates-Naive-Pluripotency.md) — Lu vd. (2026) · *Cell Proliferation* · hakemli
 - [Gene Regulatory Networks that Support Multi-fate Cellular Decisions](Biyoenformatik-ve-Hesaplamali-Biyoloji/Sistem-Biyolojisi/Gen-Duzenleyici-Aglar/Arastirmalar/2026-BV-Gene-Regulatory-Networks-that.md) — BV vd. (2026) · *Bulletin of Mathematical Biology* · hakemli
+- [Stability and Pluripotency Status of Human Embryonic Stem Cell Lines Following Long-Term Cryopreservation](Kok-Hucre-Biyolojisi/Embriyonik-Kok-Hucreler/Arastirmalar/2026-Kim-Stability-and-Pluripotency-Status.md) — Kim vd. (2026) · *Tissue Engineering and Regenerative Medicine* · hakemli
 - [DNA methylation and Polycomb-mediated repression at plant transposable elements: Antagonism, cooperation and a continuum of epigenetic silencing states](Genetik-ve-Genomik/Epigenetik/DNA-Metilasyonu/Arastirmalar/2026-Hure-DNA-methylation-and-Polycomb.md) — Hure vd. (2026) · *Current Opinion in Plant Biology* · hakemli
 - [Human REXO4 is Required for Cell Cycle Progression](Hucre-Biyolojisi/Hucre-Dongusu/Arastirmalar/2026-Abdusamad-Human-REXO4-Required-for.md) — Abdusamad vd. (2026) · *Molecular Biology of the Cell* · hakemli · atıf: 2
 - [Antibody-drug conjugates: unpacking toxicity profiles and optimized designs for enhanced safety and antitumor efficacy](Immunoloji/Antikor-Muhendisligi/Antikor-Ilac-Konjugatlari/Arastirmalar/2026-Yin-Antibody-drug-conjugates-unpacking.md) — Yin vd. (2026) · *Signal Transduction and Targeted Therapy* · hakemli
-- [Human induced pluripotent stem cell ‐derived cortical neurons from monozygotic twins with the Gα o1 K278del mutation reveal disease mechanisms relevant to GNAO1 ‐related encephalopathy](Kok-Hucre-Biyolojisi/Induklenmis-Pluripotent-Kok-Hucreler/Arastirmalar/2026-Gonzalez-Human-induced-pluripotent-stem.md) — González vd. (2026) · *Epilepsia* · hakemli
-- [Protocol for generating nociceptor-enriched peripheral sensory neurons from human induced pluripotent stem cells](Kok-Hucre-Biyolojisi/Induklenmis-Pluripotent-Kok-Hucreler/Arastirmalar/2026-Ghazanfar-Protocol-for-generating-nociceptor.md) — Ghazanfar vd. (2026) · *STAR Protocols* · hakemli
-- [Naïve culture environments differentially shape human endogenous retrovirus-K expression and transcriptional remodeling following transient naïve treatment of human induced pluripotent stem cells](Kok-Hucre-Biyolojisi/Induklenmis-Pluripotent-Kok-Hucreler/Arastirmalar/2026-Ma-Naive-culture-environments-differentially.md) — Ma vd. (2026) · *Frontiers in Cellular and Infection Microbiology* · hakemli
-- [Beyond Structural Classification: A 4S+G Functional Framework for Non-Coding RNA Biology in Cancer and Its Therapeutic Implications](Molekuler-Biyoloji/Gen-Ifadesi-ve-Duzenlenmesi/RNA-Biyolojisi/Kodlamayan-RNA/Arastirmalar/2026-Xu-Beyond-Structural-Classification-Functional.md) — Xu vd. (2026) · *Biomolecules* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

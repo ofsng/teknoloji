@@ -85,7 +85,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **3**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **4**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -95,6 +95,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [The Expanding Battlefield of Microarchitectural Vulnerabilities: A Survey on Defining and Reducing the Timing Side-Channel Attack Surface through Vulnerability Assessment and Simulation](Sistem-Guvenligi/Donanim-Guvenligi/Yan-Kanal-Saldirilari/Arastirmalar/2026-Khan-The-Expanding-Battlefield-Microarchitectura.md) — Khan vd. (2026) · *ACM Computing Surveys* · hakemli
 - [Toward deployment-oriented benchmarking of intrusion detection systems: integrating threshold dynamics, distribution shift, and interpretability into comparative model evaluation](Ag-Guvenligi/Saldiri-Tespit-Sistemleri/Arastirmalar/2026-Farmani-Toward-deployment-oriented-benchmarking.md) — Farmani vd. (2026) · *Scientific Reports* · hakemli
 - [Building a supervised–unsupervised ensemble for intrusion detection systems using model calibration and decision fusion](Ag-Guvenligi/Saldiri-Tespit-Sistemleri/Arastirmalar/2026-Vazquez-Building-supervisedunsupervised-ensemble.md) — Vázquez vd. (2026) · *Computer Networks* · hakemli
 - [Anomali Deteksi Log Trafic Sistem Keamanan Jaringan Menggunakan Intrusion Detection System (Ids) Berbasis Snort Pada Web Server](Ag-Guvenligi/Saldiri-Tespit-Sistemleri/Arastirmalar/2026-Febrianto-Anomali-Deteksi-Log-Trafic.md) — Febrianto vd. (2026) · *SMARTICS Journal* · hakemli

@@ -78,7 +78,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -88,6 +88,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Rotating-Wave and Secular Approximations for Open Quantum Systems](Acik-Kuantum-Sistemleri/Arastirmalar/2026-Burgarth-Rotating-Wave-and-Secular.md) — Burgarth vd. (2026) · *Quantum* · hakemli · atıf: 1
 - [Irreversibility of quantum field theory in de Sitter: The C, F and A theorems](Kuantum-Alan-Teorisi/Arastirmalar/2026-Abate-Irreversibility-quantum-field-theory.md) — Abate vd. (2026) · *SciPost Physics* · hakemli · atıf: 7
 <!-- AUTO:RECENT:END -->
 

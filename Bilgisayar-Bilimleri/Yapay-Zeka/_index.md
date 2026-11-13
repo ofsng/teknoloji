@@ -91,7 +91,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **73**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **76**.
 
 - [Artificial Intelligence Changes Cognition Systems](Arastirmalar/2026-Vorozhikhin-Artificial-Intelligence-Changes-Cogn.md) — Vorozhikhin vd. (2026) · *Statistics and Economics* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -103,6 +103,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Machine Translation: Evolution, Multilingual Models, Evaluation, and Challenges](Dogal-Dil-Isleme/Makine-Cevirisi/Arastirmalar/2026-Sivakumar-Machine-Translation-Evolution-Multilin.md) — Sivakumar vd. (2026) · *Indian Journal of Computer Science and Technology* · hakemli
 - [Marigold V2: Revisiting Diffusion Transformers for Monocular Depth Estimation](Bilgisayarli-Goru/3B-Bilgisayarli-Goru/Derinlik-Kestirimi/Arastirmalar/2026-Pavlovic-Marigold-Revisiting-Diffusion-Transform.md) — Pavlovic vd. (2026) · *ACM Transactions on Graphics* · hakemli · atıf: 4
 - [AI-Based Voice to Form Filling System: A Review of Speech Recognition, Information Extraction and Intelligent Form Automation](Dogal-Dil-Isleme/Bilgi-Cikarimi/Arastirmalar/2026-Sakhare-Based-Voice-Form-Filling.md) — Sakhare vd. (2026) · *International Journal of Creative and Open Research in Engineering and Management* · hakemli
 - [Few-Shot Learning for Ransomware Detection: A Narrative Review of Machine Learning, Deep Learning and Siamese Neural Network Approaches](Makine-Ogrenmesi/Aktarim-Ogrenmesi/Az-Ornekle-Ogrenme/Arastirmalar/2026-Bello-Few-Shot-Learning-for.md) — Bello vd. (2026) · *FUDMA Journal of Sciences* · hakemli
@@ -110,7 +111,6 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [TokenDial: Continuous Attribute Control for Text-to-Video Generation in Visual Dial Space](Makine-Ogrenmesi/Temel-Modeller/Cok-Kipli-Temel-Modeller/Metinden-Video-Uretimi/Arastirmalar/2026-Liu-TokenDial-Continuous-Attribute-Control.md) — Liu vd. (2026) · *ACM Transactions on Graphics* · hakemli · atıf: 2
 - [Deep Q-network path planning with stratified sampling and prioritized replay](Makine-Ogrenmesi/Pekistirmeli-Ogrenme/Deger-Tabanli-Yontemler/Derin-Q-Aglari/Arastirmalar/2026-Zhang-Deep-network-path-planning.md) — Zhang vd. (2026) · *Future Technology* · hakemli
 - [Quantum Graph Neural Network for Financial Fraud Detection](Makine-Ogrenmesi/Derin-Ogrenme/Cizge-Sinir-Aglari/Arastirmalar/2026-Jyothirmayi-Quantum-Graph-Neural-Network.md) — Jyothirmayi (2026) · *International Journal of Advanced Scientific Innovation* · hakemli
-- [Posterior-Mean Conversion of a Variational Bayesian Neural Network for Fixed-Point RTL Evaluation: An MNIST Case Study](Makine-Ogrenmesi/Bayesci-Makine-Ogrenmesi/Bayesci-Sinir-Aglari/Arastirmalar/2026-Ramesh-Posterior-Mean-Conversion-Variational.md) — Ramesh vd. (2026) · *Engineering Research Express* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

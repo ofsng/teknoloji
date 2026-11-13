@@ -96,7 +96,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **61**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **63**.
 
 - [Improving the Methodological, Information and Software Technology Support for Statistics Using the Analytical Capabilities of Artificial Intelligence and Machine Learning](Arastirmalar/2026-Khoroshilov-Improving-the-Methodological-Informa.md) — Khoroshilov vd. (2026) · *Statistics and Economics* · hakemli
 <!-- AUTO:RESEARCH:END -->

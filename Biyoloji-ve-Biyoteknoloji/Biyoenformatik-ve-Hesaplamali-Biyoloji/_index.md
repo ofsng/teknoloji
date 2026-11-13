@@ -81,7 +81,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -91,6 +91,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [peleke-1: A Suite of Protein Language Models Fine-Tuned for Targeted Antibody Sequence Generation](Protein-Dil-Modelleri/Arastirmalar/2026-Santolla-peleke-Suite-Protein-Language.md) — Santolla vd. (2026) · *Viral Immunology* · hakemli · atıf: 1
 - [Gene Regulatory Networks that Support Multi-fate Cellular Decisions](Sistem-Biyolojisi/Gen-Duzenleyici-Aglar/Arastirmalar/2026-BV-Gene-Regulatory-Networks-that.md) — BV vd. (2026) · *Bulletin of Mathematical Biology* · hakemli
 <!-- AUTO:RECENT:END -->
 

@@ -86,7 +86,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **3**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **6**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -96,7 +96,10 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Spatial transcriptomics reveals organizational properties of the mouse spinal cord and alterations in neuropathic pain](DNA-Dizileme/Uzamsal-Transkriptomik/Arastirmalar/2026-Wang-Spatial-transcriptomics-reveals-organizatio.md) — Wang vd. (2026) · *Proceedings of the National Academy of Sciences* · hakemli · atıf: 9
 - [DNA methylation and Polycomb-mediated repression at plant transposable elements: Antagonism, cooperation and a continuum of epigenetic silencing states](Epigenetik/DNA-Metilasyonu/Arastirmalar/2026-Hure-DNA-methylation-and-Polycomb.md) — Hure vd. (2026) · *Current Opinion in Plant Biology* · hakemli
+- [Cases of tick-borne encephalitis identified by metagenomic next-generation sequencing, China](DNA-Dizileme/Yeni-Nesil-Dizileme/Arastirmalar/2026-Zhang-Cases-tick-borne-encephalitis.md) — Zhang vd. (2026) · *ASM Case Reports* · hakemli
+- [Metagenomic next-generation sequencing as an adjunctive diagnostic tool for Clonorchis sinensis infection: a case report](DNA-Dizileme/Yeni-Nesil-Dizileme/Arastirmalar/2026-Zhang-Metagenomic-next-generation-sequencing.md) — Zhang vd. (2026) · *Future Microbiology* · hakemli
 - [Adjusting for medication status in genome-wide association studies](Insan-Genetigi/Genom-Boyu-Iliskilendirme-Calismalari/Arastirmalar/2026-Chong-Adjusting-for-medication-status.md) — Chong vd. (2026) · *PLoS Genetics* · hakemli · atıf: 2
 <!-- AUTO:RECENT:END -->
 

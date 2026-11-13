@@ -79,7 +79,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **3**.
 
 - [Cross layer plausibility-based trust assessment for Sybil attack detection in Intelligent Transportation Systems](Arastirmalar/2026-Lone-Cross-layer-plausibility-based.md) — Lone vd. (2026) · *Journal of Intelligent Transportation Systems* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -91,6 +91,8 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Federated Reinforcement Learning for Traffic Signal Control: Aggregation Strategies under Intersection-Level Heterogeneity](Trafik-Sinyal-Kontrolu/Arastirmalar/2026-Tang-Federated-Reinforcement-Learning-for.md) — Tang (2026) · *Applied and Computational Engineering* · hakemli
+- [A Type-2 Fuzzy Traffic Signal Control Method based on Short-Term Traffic Flow Prediction Using LSTM](Trafik-Sinyal-Kontrolu/Arastirmalar/2026-Yunrui-Type-Fuzzy-Traffic-Signal.md) — Yunrui vd. (2026) · *Journal of Imaging Science and Technology* · hakemli
 - [Cross layer plausibility-based trust assessment for Sybil attack detection in Intelligent Transportation Systems](Arastirmalar/2026-Lone-Cross-layer-plausibility-based.md) — Lone vd. (2026) · *Journal of Intelligent Transportation Systems* · hakemli
 <!-- AUTO:RECENT:END -->
 

@@ -93,7 +93,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **18**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **20**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -103,14 +103,14 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Rotating-Wave and Secular Approximations for Open Quantum Systems](Kuantum-Mekanigi/Acik-Kuantum-Sistemleri/Arastirmalar/2026-Burgarth-Rotating-Wave-and-Secular.md) — Burgarth vd. (2026) · *Quantum* · hakemli · atıf: 1
+- [Semiclassical picture of the Heisenberg spin glass in two dimensions](Yogun-Madde-Fizigi/Duzensiz-Sistemler/Arastirmalar/2026-Bracci-Testasecca-Semiclassical-picture-the-Heis.md) — Bracci-Testasecca vd. (2026) · *Physical review. B./Physical review. B* · hakemli · atıf: 4
 - [Exploring Chemical Concepts and Reactivity from Conceptual Density Functional Theory in Excited States via the ΔSCF Approach](Hesaplamali-Fizik/Yogunluk-Fonksiyoneli-Teorisi/Arastirmalar/2026-Wang-Exploring-Chemical-Concepts-and.md) — Wang vd. (2026) · *Journal of Chemical Theory and Computation* · hakemli
-- [High precision timing of seven binary millisecond pulsars with the European Pulsar Timing Array](Genel-Gorelilik-ve-Kutlecekim/Kutlecekim-Dalgalari/Pulsar-Zamanlama-Dizileri/Arastirmalar/2026-Liu-High-precision-timing-seven.md) — Liu vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [High precision timing of seven binary millisecond pulsars with the European Pulsar Timing Array](Genel-Gorelilik-ve-Kutlecekim/Kutlecekim-Dalgalari/Pulsar-Zamanlama-Dizileri/Arastirmalar/2026-Liu-High-precision-timing-seven.md) — Liu vd. (2026) · *Astronomy and Astrophysics* · hakemli
 - [Ion‐Modulated All‑Van Der Waals Spin–Orbit Torque Magnetic Tunnel Junctions With Multilevel Switching](Yogun-Madde-Fizigi/Manyetizma/Spintronik/Manyetik-Tunel-Eklemleri/Arastirmalar/2026-Tian-IonModulated-AllVan-Der-Waals.md) — Tian vd. (2026) · *Advanced Functional Materials* · hakemli
 - [Anisotropic response in bilayer graphene for light dark matter detection](Astronomi-ve-Astrofizik/Kozmoloji/Karanlik-Madde/Arastirmalar/2026-Sherpa-Anisotropic-response-bilayer-graphene.md) — Sherpa vd. (2026) · *Physical review. D/Physical review. D.* · hakemli · atıf: 3
 - [Three-dimensional wave optics for weak-field lensing of gravitational waves](Genel-Gorelilik-ve-Kutlecekim/Kutlecekim-Dalgalari/Arastirmalar/2026-Carrillo-Gonzalez-Three-dimensional-wave-optics.md) — Carrillo-González vd. (2026) · *Monthly Notices of the Royal Astronomical Society* · hakemli · atıf: 1
 - [Exorcising ghosts with gravitational waves](Genel-Gorelilik-ve-Kutlecekim/Kutlecekim-Dalgalari/Arastirmalar/2026-Lambiase-Exorcising-ghosts-with-gravitational.md) — Lambiase vd. (2026) · *Physical Review Letters* · hakemli · atıf: 5
-- [Bayesian nonparametric estimation of correlated gravitational wave detector network noise using matrix-gamma process priors](Genel-Gorelilik-ve-Kutlecekim/Kutlecekim-Dalgalari/Arastirmalar/2026-Liu-Bayesian-nonparametric-estimation-correlated.md) — Liu vd. (2026) · *Physical review. D/Physical review. D.* · hakemli · atıf: 2
-- [High-transformer-ratio plasma-based afterburner for extending X-ray free-electron laser photon energies to $\gtrsim$50 keV](Hizlandirici-Fizigi/Serbest-Elektron-Lazerleri/Arastirmalar/2026-Han-High-transformer-ratio-plasma.md) — Han vd. (2026) · *arXiv* · ön baskı / hakemsiz
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

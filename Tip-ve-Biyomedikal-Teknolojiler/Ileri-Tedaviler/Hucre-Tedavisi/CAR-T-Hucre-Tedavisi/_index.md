@@ -75,10 +75,12 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **4**, alt teknolojiler dahil: **4**.
+Arşivdeki kayıtlar — bu düğüm: **6**, alt teknolojiler dahil: **6**.
 
 - [CAR-T cell therapy in hematology malignancies: breaking barriers, engineering the future](Arastirmalar/2026-Alvizo-Baez-CAR-cell-therapy-hematology.md) — Alvizo-Báez vd. (2026) · *Frontiers in Immunology* · hakemli
 - [Quadruple co-culture vascular models of haematological malignancy CAR T cell therapy for nonclinical safety and efficacy studies](Arastirmalar/2026-Lund-Quadruple-culture-vascular-models.md) — Lund vd. (2026) · *Frontiers in Immunology* · hakemli
+- [Clinical and Mechanistic Insights into Non-ICANS Neurotoxicity Following BCMA CAR T-Cell Therapy](Arastirmalar/2026-Mueller-Jensen-Clinical-and-Mechanistic-Insights.md) — Mueller-Jensen vd. (2026) · *Neurology* · hakemli
+- [Miv-cel CD19 CAR T-Cell Therapy Shows Efficacy and Safety in Stiff Person Syndrome in a Pivotal, Multicenter, Phase 2 Study (KYSA-8)](Arastirmalar/2026-Piquet-Miv-cel-CD19-CAR.md) — Piquet vd. (2026) · *Neurology* · hakemli
 - [Prognostic factors and response monitoring after CD19-directed CAR T-cell therapy in diffuse large B-cell lymphoma: a time-resolved review](Arastirmalar/2026-Su-Prognostic-factors-and-response.md) — Su vd. (2026) · *Journal of Translational Medicine* · hakemli
 - [Optimizing infusion methods to enhance the efficacy of CAR-T cell therapy for solid tumors](Arastirmalar/2026-Xue-Optimizing-infusion-methods-enhance.md) — Xue vd. (2026) · *BMC Cancer* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -90,6 +92,8 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Clinical and Mechanistic Insights into Non-ICANS Neurotoxicity Following BCMA CAR T-Cell Therapy](Arastirmalar/2026-Mueller-Jensen-Clinical-and-Mechanistic-Insights.md) — Mueller-Jensen vd. (2026) · *Neurology* · hakemli
+- [Miv-cel CD19 CAR T-Cell Therapy Shows Efficacy and Safety in Stiff Person Syndrome in a Pivotal, Multicenter, Phase 2 Study (KYSA-8)](Arastirmalar/2026-Piquet-Miv-cel-CD19-CAR.md) — Piquet vd. (2026) · *Neurology* · hakemli
 - [Optimizing infusion methods to enhance the efficacy of CAR-T cell therapy for solid tumors](Arastirmalar/2026-Xue-Optimizing-infusion-methods-enhance.md) — Xue vd. (2026) · *BMC Cancer* · hakemli
 - [CAR-T cell therapy in hematology malignancies: breaking barriers, engineering the future](Arastirmalar/2026-Alvizo-Baez-CAR-cell-therapy-hematology.md) — Alvizo-Báez vd. (2026) · *Frontiers in Immunology* · hakemli
 - [Quadruple co-culture vascular models of haematological malignancy CAR T cell therapy for nonclinical safety and efficacy studies](Arastirmalar/2026-Lund-Quadruple-culture-vascular-models.md) — Lund vd. (2026) · *Frontiers in Immunology* · hakemli

@@ -82,7 +82,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **7**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **11**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -92,13 +92,14 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Reflective, water-permeable diatomite masks enhancing output voltage of water-floating single-walled carbon nanotube thermoelectric generators](Karbon-Nanomalzemeler/Karbon-Nanotupler/Tek-Duvarli-Karbon-Nanotupler/Arastirmalar/2026-Ochiai-Reflective-water-permeable-diatomite.md) — Ochiai vd. (2026) · *Scientific Reports* · hakemli
+- [Examining the Effect of Hexagonal Boron Nitride on Morphological and Chemical Properties of Biopolymers Using Dual-Beam Methodology](Iki-Boyutlu-Malzemeler/Altigen-Bor-Nitrur/Arastirmalar/2026-Camic-Examining-the-Effect-Hexagonal.md) — Camic (2026) · *Kocaeli Journal of Science and Engineering* · hakemli
+- [Reversible Electric-Field-Induced Changes in the Thermal Resistance of Hexagonal Boron Nitride](Iki-Boyutlu-Malzemeler/Altigen-Bor-Nitrur/Arastirmalar/2026-Schaeffer-Reversible-Electric-Field-Induced.md) — Schaeffer vd. (2026) · *Nano Letters* · hakemli
 - [Fabrication of a Cellulolytic Enzyme Cocktail Immobilised on Magnetic Multi-walled Carbon Nanotubes: Catalytic Kinetics and Reusability](Karbon-Nanomalzemeler/Karbon-Nanotupler/Cok-Duvarli-Karbon-Nanotupler/Arastirmalar/2026-Low-Fabrication-Cellulolytic-Enzyme-Cocktail.md) — Low vd. (2026) · *Chemical and Biochemical Engineering Quarterly* · hakemli
 - [Recent Strategies in Electron Transport Layers Based on Metal Oxide Nanoparticles for Quantum Dot Light Emitting Diodes](Nanoparcaciklar/Arastirmalar/2026-Kim-Recent-Strategies-Electron-Transport.md) — Kim vd. (2026) · *Inorganics* · hakemli
 - [Engineered Dielectric Response of Liquid-Filled Interfacial Bubbles in van der Waals Heterostructures](Iki-Boyutlu-Malzemeler/Van-der-Waals-Heteroyapilari/Arastirmalar/2026-Park-Engineered-Dielectric-Response-Liquid.md) — Park vd. (2026) · *ACS Applied Materials & Interfaces* · hakemli
 - [Coplanar Capacitive Sensor Film from Nata de Coco-Reduced Graphene Oxide- Gelatin for Eco-Friendly Intelligent Food Packaging](Karbon-Nanomalzemeler/Grafen/Grafen-Oksit/Arastirmalar/2026-Selvakumar-Coplanar-Capacitive-Sensor-Film.md) — Selvakumar vd. (2026) · *Journal of Packaging Technology and Research* · hakemli · atıf: 1
-- [Two-Photon Excitation Microscopy of Individual Single-Walled Carbon Nanotubes](Karbon-Nanomalzemeler/Karbon-Nanotupler/Tek-Duvarli-Karbon-Nanotupler/Arastirmalar/2026-Akhtar-Two-Photon-Excitation-Microscopy.md) — Akhtar vd. (2026) · *The Journal of Physical Chemistry Letters* · hakemli
-- [Thermal transport and expansion behavior of vertically aligned single-walled carbon nanotube block reinforced copper matrix composites by finite element simulation](Karbon-Nanomalzemeler/Karbon-Nanotupler/Tek-Duvarli-Karbon-Nanotupler/Arastirmalar/2026-Li-Thermal-transport-and-expansion.md) — Li vd. (2026) · *Materials Today Communications* · hakemli
-- [A review of the biogenic fabrication of metal oxide nanoparticles using phytochemical reducing and stabilizing agents across diverse systems](Nanoparcaciklar/Metal-Oksit-Nanoparcaciklar/Arastirmalar/2026-Porkalai-review-the-biogenic-fabrication.md) — Porkalai vd. (2026) · *Discover Chemistry.* · hakemli
+- [Class-Selective Spin Activity of Two Spectrally Distinct Color Centers in Oxygen-Annealed Hexagonal Boron Nitride](Iki-Boyutlu-Malzemeler/Altigen-Bor-Nitrur/Arastirmalar/2026-Liu-Class-Selective-Spin-Activity.md) — Liu vd. (2026) · *ACS Photonics* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

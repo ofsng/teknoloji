@@ -5,25 +5,25 @@ authors: ["K. Liu", "A. Chalumeau", "H. Hu", "S. Chen", "L. Guillemot", "J. Jang
 year: 2026
 published_date: 2026-11-05
 updated_date: 2026-11-05
-doi:
+doi: 10.1051/0004-6361/202662612
 arxiv: 2611.07363
 url: https://arxiv.org/abs/2611.07363
-publication: arXiv
-publication_type: preprint
-peer_reviewed: false
+publication: "Astronomy and Astrophysics"
+publication_type: article
+peer_reviewed: true
 primary_technology: pulsar-timing-arrays
 related_technologies: []
 classification_confidence: high
 classification_method: deterministic
 keywords: []
-source_ids: ["arxiv:2611.07363"]
-cited_by_count:
+source_ids: ["arxiv:2611.07363", "openalex:W7225394255"]
+cited_by_count: 0
 content_status: abstract_only
 abstract_license: "cc0-1.0 (arxiv metadata)"
 retraction_status: none_reported
-related_versions: []
+related_versions: [{"relation": "preprint", "arxiv": "2611.07363", "source": "merge"}]
 collected_at: 2026-11-07
-last_checked_at: 2026-11-07
+last_checked_at: 2026-11-13
 content_verified: false
 identifier_verified: arxiv
 ---
@@ -68,5 +68,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 
 ## 9. Kaynaklar
 
+- DOI: https://doi.org/10.1051/0004-6361/202662612
 - arXiv: https://arxiv.org/abs/2611.07363
-- Metadata kaynakları: arxiv:2611.07363 (toplama: 2026-11-07)
+- OpenAlex: https://openalex.org/W7225394255
+- Ön baskı sürümü: https://arxiv.org/abs/2611.07363
+- Metadata kaynakları: arxiv:2611.07363, openalex:W7225394255 (toplama: 2026-11-07)
+

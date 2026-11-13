@@ -79,7 +79,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **4**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **5**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -89,6 +89,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Reflective, water-permeable diatomite masks enhancing output voltage of water-floating single-walled carbon nanotube thermoelectric generators](Karbon-Nanotupler/Tek-Duvarli-Karbon-Nanotupler/Arastirmalar/2026-Ochiai-Reflective-water-permeable-diatomite.md) — Ochiai vd. (2026) · *Scientific Reports* · hakemli
 - [Fabrication of a Cellulolytic Enzyme Cocktail Immobilised on Magnetic Multi-walled Carbon Nanotubes: Catalytic Kinetics and Reusability](Karbon-Nanotupler/Cok-Duvarli-Karbon-Nanotupler/Arastirmalar/2026-Low-Fabrication-Cellulolytic-Enzyme-Cocktail.md) — Low vd. (2026) · *Chemical and Biochemical Engineering Quarterly* · hakemli
 - [Coplanar Capacitive Sensor Film from Nata de Coco-Reduced Graphene Oxide- Gelatin for Eco-Friendly Intelligent Food Packaging](Grafen/Grafen-Oksit/Arastirmalar/2026-Selvakumar-Coplanar-Capacitive-Sensor-Film.md) — Selvakumar vd. (2026) · *Journal of Packaging Technology and Research* · hakemli · atıf: 1
 - [Two-Photon Excitation Microscopy of Individual Single-Walled Carbon Nanotubes](Karbon-Nanotupler/Tek-Duvarli-Karbon-Nanotupler/Arastirmalar/2026-Akhtar-Two-Photon-Excitation-Microscopy.md) — Akhtar vd. (2026) · *The Journal of Physical Chemistry Letters* · hakemli

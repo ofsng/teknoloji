@@ -96,7 +96,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **6**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **7**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -106,6 +106,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Mapping the High-Field Response of Superconducting Nanowire Single-Photon Detectors](Fotodedektorler/Superiletken-Nanotel-Tek-Foton-Dedektorleri/Arastirmalar/2026-Agarwal-Mapping-the-High-Field.md) — Agarwal vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [Dynamic electrical control of on-chip second-harmonic generation with ferroelectric NbOBr2](Dogrusal-Olmayan-Optik/Harmonik-Uretimi/Arastirmalar/2026-Gong-Dynamic-electrical-control-chip.md) — Gong vd. (2026) · *Nature Nanotechnology* · hakemli · atıf: 4
 - [Transient epitaxial dynamics and cascade continuity in long-duration terahertz quantum cascade laser growth](Lazerler/Yari-Iletken-Lazerler/Kuantum-Kaskad-Lazerler/Arastirmalar/2026-Li-Transient-epitaxial-dynamics-and.md) — Li vd. (2026) · *Journal of Applied Physics* · hakemli
 - [Simulation of Electron Trapping in Polymer Light-Emitting Diodes](Isik-Kaynaklari/Isik-Yayan-Diyotlar/Arastirmalar/2026-Paltidis-Simulation-Electron-Trapping-Polymer.md) — Paltidis vd. (2026) · *ACS Omega* · hakemli

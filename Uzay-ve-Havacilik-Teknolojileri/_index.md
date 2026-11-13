@@ -90,7 +90,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **3**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **4**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -102,6 +102,7 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 
 - [A Comprehensive Review on Next Generation Unmanned Aerial Vehicles: Hydrogen Fuel Cell Technology](Insansiz-Hava-Araclari/Arastirmalar/2026-Sahin-Comprehensive-Review-Next-Generation.md) — Şahin vd. (2026) · *Drones* · hakemli
 - [Numerical Investigation of Feedback Path Selection for Envelope Shaping in Fixed-Wing UAVs](Insansiz-Hava-Araclari/Sabit-Kanatli-IHA-lar/Arastirmalar/2026-Cao-Numerical-Investigation-Feedback-Path.md) — Cao vd. (2026) · *Applied Sciences* · hakemli
+- [Graded-Compliance Metal-Packaged FBG Strain Sensor for Cryogenic Strain Measurement of Reusable Launch Vehicles](Uzay-Itkisi/Yeniden-Kullanilabilir-Firlatma-Araclari/Arastirmalar/2026-Sun-Graded-Compliance-Metal-Packaged.md) — Sun vd. (2026) · *Aerospace* · hakemli
 - [In Situ Resource Utilization for Agriculture on Mars: Quantifying the Effects of Black Soldier Fly Frass Amendment on Pea Growth in Martian Regolith Simulant](Uzay-Kesif-Teknolojileri/Yerinde-Kaynak-Kullanimi/Arastirmalar/2026-Mendoza-Situ-Resource-Utilization-for.md) — Mendoza vd. (2026) · *New Space* · hakemli
 <!-- AUTO:RECENT:END -->
 

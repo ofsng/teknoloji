@@ -79,7 +79,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **3**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -87,7 +87,11 @@ Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
-_Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini göstermez; ön baskılar hakemli değildir._
+Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
+
+- [Spatial transcriptomics reveals organizational properties of the mouse spinal cord and alterations in neuropathic pain](Uzamsal-Transkriptomik/Arastirmalar/2026-Wang-Spatial-transcriptomics-reveals-organizatio.md) — Wang vd. (2026) · *Proceedings of the National Academy of Sciences* · hakemli · atıf: 9
+- [Cases of tick-borne encephalitis identified by metagenomic next-generation sequencing, China](Yeni-Nesil-Dizileme/Arastirmalar/2026-Zhang-Cases-tick-borne-encephalitis.md) — Zhang vd. (2026) · *ASM Case Reports* · hakemli
+- [Metagenomic next-generation sequencing as an adjunctive diagnostic tool for Clonorchis sinensis infection: a case report](Yeni-Nesil-Dizileme/Arastirmalar/2026-Zhang-Metagenomic-next-generation-sequencing.md) — Zhang vd. (2026) · *Future Microbiology* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar
