@@ -90,7 +90,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **105**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **114**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -100,14 +100,14 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Multi-Armed Bandit-Based Model Selection for Incremental Phishing Detection: An Empirical Study of Accuracy, Cost, and Concept Drift](Yapay-Zeka/Makine-Ogrenmesi/Pekistirmeli-Ogrenme/Cok-Kollu-Haydutlar/Arastirmalar/2026-Al-Tarawneh-Multi-Armed-Bandit-Based.md) — Al-Tarawneh vd. (2026) · *Information* · hakemli
 - [Machine Translation: Evolution, Multilingual Models, Evaluation, and Challenges](Yapay-Zeka/Dogal-Dil-Isleme/Makine-Cevirisi/Arastirmalar/2026-Sivakumar-Machine-Translation-Evolution-Multilin.md) — Sivakumar vd. (2026) · *Indian Journal of Computer Science and Technology* · hakemli
 - [Divide-and-conquer neural-network surrogates for quantum sampling: Accelerating Markov-chain Monte Carlo in large-scale constrained optimization problems](Algoritmalar-ve-Veri-Yapilari/Algoritma-Tasarim-Paradigmalari/Bol-ve-Yonet/Arastirmalar/2026-Kawamata-Divide-and-conquer-neural.md) — Kawamata vd. (2026) · *Physical Review Applied* · hakemli · atıf: 2
 - [Path-Traced Inverse Rendering with Global Illumination in 3D Gaussian Fields](Bilgisayar-Grafikleri/Goruntu-Olusturma/Kuresel-Aydinlatma/Arastirmalar/2026-Zhu-Path-Traced-Inverse-Rendering.md) — Zhu vd. (2026) · *ACM Transactions on Graphics* · hakemli · atıf: 2
 - [The Expanding Battlefield of Microarchitectural Vulnerabilities: A Survey on Defining and Reducing the Timing Side-Channel Attack Surface through Vulnerability Assessment and Simulation](Bilgisayar-Guvenligi/Sistem-Guvenligi/Donanim-Guvenligi/Yan-Kanal-Saldirilari/Arastirmalar/2026-Khan-The-Expanding-Battlefield-Microarchitectura.md) — Khan vd. (2026) · *ACM Computing Surveys* · hakemli
 - [A Systematic Literature Review of Blockchain and Distributed Ledger Technology for the Detection and Prevention of Phishing Attacks](Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Arastirmalar/2026-Odianosen-Systematic-Literature-Review-Blockchai.md) — Odianosen vd. (2026) · *Iconic Research and Engineering Journals* · hakemli
 - [Generating interesting scientific ideas using knowledge graphs and LLMs: Evaluations with 100 research group leaders](Veritabanlari-ve-Bilgi-Sistemleri/Bilgi-Cizgeleri/Arastirmalar/2026-Gu-Generating-interesting-scientific-ideas.md) — Gu vd. (2026) · *Proceedings of the National Academy of Sciences* · hakemli · atıf: 65
-- [Marigold V2: Revisiting Diffusion Transformers for Monocular Depth Estimation](Yapay-Zeka/Bilgisayarli-Goru/3B-Bilgisayarli-Goru/Derinlik-Kestirimi/Arastirmalar/2026-Pavlovic-Marigold-Revisiting-Diffusion-Transform.md) — Pavlovic vd. (2026) · *ACM Transactions on Graphics* · hakemli · atıf: 4
-- [AI-Based Voice to Form Filling System: A Review of Speech Recognition, Information Extraction and Intelligent Form Automation](Yapay-Zeka/Dogal-Dil-Isleme/Bilgi-Cikarimi/Arastirmalar/2026-Sakhare-Based-Voice-Form-Filling.md) — Sakhare vd. (2026) · *International Journal of Creative and Open Research in Engineering and Management* · hakemli
+- [Pyramidal inhibitory lightweight autoassociative reconstruction for cost-constrained visual anomaly detection](Veritabanlari-ve-Bilgi-Sistemleri/Veri-Madenciligi/Anomali-Tespiti/Arastirmalar/2026-Fernandes-Pyramidal-inhibitory-lightweight-autoa.md) — Fernandes (2026) · *Discover Artificial Intelligence* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

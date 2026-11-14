@@ -77,7 +77,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **3**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -87,6 +87,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Nonlinear model predictive control for lateral path tracking of intelligent vehicles considering model uncertainties](Model-Ongorulu-Kontrol/Dogrusal-Olmayan-MPC/Arastirmalar/2026-Fan-Nonlinear-model-predictive-control.md) — Fan vd. (2026) · *Proceedings of the Institution of Mechanical Engineers Part D Journal of Automobile Engineering* · hakemli
 - [Distributed Robust Model Predictive Control for Optimal Consensus of Unknown Multiagent Systems with Event-Triggered Communication](Model-Ongorulu-Kontrol/Arastirmalar/2026-Jia-Distributed-Robust-Model-Predictive.md) — Jia vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [Two‐dimensional iterative learning linear quadratic regulator control for batch processes based on reference trajectory learning scheme](Dogrusal-Karesel-Duzenleyici/Arastirmalar/2026-Li-Twodimensional-iterative-learning-linear.md) — Li vd. (2026) · *The Canadian Journal of Chemical Engineering* · hakemli
 <!-- AUTO:RECENT:END -->

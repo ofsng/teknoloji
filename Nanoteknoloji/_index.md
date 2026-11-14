@@ -84,7 +84,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **13**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **15**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -101,7 +101,7 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [Reversible Electric-Field-Induced Changes in the Thermal Resistance of Hexagonal Boron Nitride](Nanomalzemeler/Iki-Boyutlu-Malzemeler/Altigen-Bor-Nitrur/Arastirmalar/2026-Schaeffer-Reversible-Electric-Field-Induced.md) — Schaeffer vd. (2026) · *Nano Letters* · hakemli
 - [Fabrication of a Cellulolytic Enzyme Cocktail Immobilised on Magnetic Multi-walled Carbon Nanotubes: Catalytic Kinetics and Reusability](Nanomalzemeler/Karbon-Nanomalzemeler/Karbon-Nanotupler/Cok-Duvarli-Karbon-Nanotupler/Arastirmalar/2026-Low-Fabrication-Cellulolytic-Enzyme-Cocktail.md) — Low vd. (2026) · *Chemical and Biochemical Engineering Quarterly* · hakemli
 - [Recent Strategies in Electron Transport Layers Based on Metal Oxide Nanoparticles for Quantum Dot Light Emitting Diodes](Nanomalzemeler/Nanoparcaciklar/Arastirmalar/2026-Kim-Recent-Strategies-Electron-Transport.md) — Kim vd. (2026) · *Inorganics* · hakemli
-- [Engineered Dielectric Response of Liquid-Filled Interfacial Bubbles in van der Waals Heterostructures](Nanomalzemeler/Iki-Boyutlu-Malzemeler/Van-der-Waals-Heteroyapilari/Arastirmalar/2026-Park-Engineered-Dielectric-Response-Liquid.md) — Park vd. (2026) · *ACS Applied Materials & Interfaces* · hakemli
+- [Resting-cell biocatalysis as a platform for cadmium sulfide quantum dot biosynthesis](Nanomalzemeler/Nanoparcaciklar/Kuantum-Noktalar/Arastirmalar/2026-SerranoPelejero-Resting-cell-biocatalysis-platfo.md) — Serrano‐Pelejero vd. (2026) · *Frontiers in Microbiology* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

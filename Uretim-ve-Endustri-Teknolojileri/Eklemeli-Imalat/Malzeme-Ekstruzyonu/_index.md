@@ -75,7 +75,10 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **2**.
+
+- [Analysis of interfacial force interaction in the internal polymer flow in the hot end of material extrusion additive manufacturing](Arastirmalar/2026-Nzebuka-Analysis-interfacial-force-interaction.md) — Nzebuka vd. (2026) · *The International Journal of Advanced Manufacturing Technology* · hakemli
+- [Development of anisotropic sintering analytical model and numerical simulation for stainless steel 316 L fabricated by material extrusion additive manufacturing](Arastirmalar/2026-You-Development-anisotropic-sintering-analytical.md) — You vd. (2026) · *Materials & Design* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -83,7 +86,10 @@ Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
-_Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini göstermez; ön baskılar hakemli değildir._
+Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
+
+- [Analysis of interfacial force interaction in the internal polymer flow in the hot end of material extrusion additive manufacturing](Arastirmalar/2026-Nzebuka-Analysis-interfacial-force-interaction.md) — Nzebuka vd. (2026) · *The International Journal of Advanced Manufacturing Technology* · hakemli
+- [Development of anisotropic sintering analytical model and numerical simulation for stainless steel 316 L fabricated by material extrusion additive manufacturing](Arastirmalar/2026-You-Development-anisotropic-sintering-analytical.md) — You vd. (2026) · *Materials & Design* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

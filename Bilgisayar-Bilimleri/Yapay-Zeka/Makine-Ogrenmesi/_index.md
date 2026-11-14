@@ -96,7 +96,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **63**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **68**.
 
 - [Improving the Methodological, Information and Software Technology Support for Statistics Using the Analytical Capabilities of Artificial Intelligence and Machine Learning](Arastirmalar/2026-Khoroshilov-Improving-the-Methodological-Informa.md) — Khoroshilov vd. (2026) · *Statistics and Economics* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -108,14 +108,14 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Multi-Armed Bandit-Based Model Selection for Incremental Phishing Detection: An Empirical Study of Accuracy, Cost, and Concept Drift](Pekistirmeli-Ogrenme/Cok-Kollu-Haydutlar/Arastirmalar/2026-Al-Tarawneh-Multi-Armed-Bandit-Based.md) — Al-Tarawneh vd. (2026) · *Information* · hakemli
 - [Few-Shot Learning for Ransomware Detection: A Narrative Review of Machine Learning, Deep Learning and Siamese Neural Network Approaches](Aktarim-Ogrenmesi/Az-Ornekle-Ogrenme/Arastirmalar/2026-Bello-Few-Shot-Learning-for.md) — Bello vd. (2026) · *FUDMA Journal of Sciences* · hakemli
+- [Community benchmarking of generative models for privacy-preserving synthetic bulk RNA-seq data generation](Derin-Ogrenme/Uretken-Modeller/Arastirmalar/2026-Ozturk-Community-benchmarking-generative-models.md) — Öztürk vd. (2026) · *Genome biology* · hakemli · atıf: 3
 - [DreamLander: A 6-DOF World Model based Reinforcement Learning Planetary Lander](Pekistirmeli-Ogrenme/Model-Tabanli-Pekistirmeli-Ogrenme/Arastirmalar/2026-Nehma-DreamLander-DOF-World-Model.md) — Nehma vd. (2026) · *Nehma, G.M., Quinn, P., Tiwari, M., & Riano-Rios, C. (2026). DreamLander: A 6-DOF World Model Based Reinforcement Learning Planetary Lander. AIAA SCITECH 2026 Forum* · hakemli
 - [TokenDial: Continuous Attribute Control for Text-to-Video Generation in Visual Dial Space](Temel-Modeller/Cok-Kipli-Temel-Modeller/Metinden-Video-Uretimi/Arastirmalar/2026-Liu-TokenDial-Continuous-Attribute-Control.md) — Liu vd. (2026) · *ACM Transactions on Graphics* · hakemli · atıf: 2
 - [Deep Q-network path planning with stratified sampling and prioritized replay](Pekistirmeli-Ogrenme/Deger-Tabanli-Yontemler/Derin-Q-Aglari/Arastirmalar/2026-Zhang-Deep-network-path-planning.md) — Zhang vd. (2026) · *Future Technology* · hakemli
 - [Quantum Graph Neural Network for Financial Fraud Detection](Derin-Ogrenme/Cizge-Sinir-Aglari/Arastirmalar/2026-Jyothirmayi-Quantum-Graph-Neural-Network.md) — Jyothirmayi (2026) · *International Journal of Advanced Scientific Innovation* · hakemli
 - [Posterior-Mean Conversion of a Variational Bayesian Neural Network for Fixed-Point RTL Evaluation: An MNIST Case Study](Bayesci-Makine-Ogrenmesi/Bayesci-Sinir-Aglari/Arastirmalar/2026-Ramesh-Posterior-Mean-Conversion-Variational.md) — Ramesh vd. (2026) · *Engineering Research Express* · hakemli
-- [Quantifying multi-lesion detection and localization in whole-body FDG PET/CT with a multimodal foundation model](Temel-Modeller/Cok-Kipli-Temel-Modeller/Arastirmalar/2026-Liu-Quantifying-multi-lesion-detection.md) — Liu vd. (2026) · *Physics in Medicine and Biology* · hakemli
-- [Assessing gender–object association bias in text-to-image generation](Temel-Modeller/Cok-Kipli-Temel-Modeller/Metinden-Goruntu-Uretimi/Arastirmalar/2026-SONG-Assessing-genderobject-association-bias.md) — SONG vd. (2026) · *Multimedia Tools and Applications* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

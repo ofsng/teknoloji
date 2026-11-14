@@ -75,7 +75,10 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **2**.
+
+- [Face Recognition Based Attendance System](Arastirmalar/2026-Grewal-Face-Recognition-Based-Attendance.md) — Grewal vd. (2026) · *International Scientific Journal of Engineering and Management* · hakemli
+- [Attendance Monitoring Using Multiple Face Recognition for Students](Arastirmalar/2026-Krupa-Attendance-Monitoring-Using-Multiple.md) — Krupa vd. (2026) · *International Journal of Advanced Research in Science Communication and Technology* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -83,7 +86,10 @@ Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
-_Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini göstermez; ön baskılar hakemli değildir._
+Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
+
+- [Attendance Monitoring Using Multiple Face Recognition for Students](Arastirmalar/2026-Krupa-Attendance-Monitoring-Using-Multiple.md) — Krupa vd. (2026) · *International Journal of Advanced Research in Science Communication and Technology* · hakemli
+- [Face Recognition Based Attendance System](Arastirmalar/2026-Grewal-Face-Recognition-Based-Attendance.md) — Grewal vd. (2026) · *International Scientific Journal of Engineering and Management* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

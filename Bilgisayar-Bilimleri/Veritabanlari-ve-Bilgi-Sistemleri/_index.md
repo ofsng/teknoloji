@@ -90,7 +90,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **4**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **5**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -101,6 +101,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
 - [Generating interesting scientific ideas using knowledge graphs and LLMs: Evaluations with 100 research group leaders](Bilgi-Cizgeleri/Arastirmalar/2026-Gu-Generating-interesting-scientific-ideas.md) — Gu vd. (2026) · *Proceedings of the National Academy of Sciences* · hakemli · atıf: 65
+- [Pyramidal inhibitory lightweight autoassociative reconstruction for cost-constrained visual anomaly detection](Veri-Madenciligi/Anomali-Tespiti/Arastirmalar/2026-Fernandes-Pyramidal-inhibitory-lightweight-autoa.md) — Fernandes (2026) · *Discover Artificial Intelligence* · hakemli
 - [Rancang Bangun Sistem E-Commerce Koperasi Desa Merah Putih Silian Satu Berbasis Website dengan Fitur Rekomendasi Produk Menggunakan Algoritma Content-Based Filtering](Bilgi-Erisimi/Oneri-Sistemleri/Icerik-Tabanli-Filtreleme/Arastirmalar/2026-Meteng-Rancang-Bangun-Sistem-Commerce.md) — Meteng vd. (2026) · *Jurnal JTIK (Jurnal Teknologi Informasi dan Komunikasi)* · hakemli
 - [A Leakage-Controlled Prefix-Based Association Rule Mining and Ranking Framework for Predictive Process Monitoring](Veri-Madenciligi/Birliktelik-Kurali-Madenciligi/Arastirmalar/2026-Algazairi-Leakage-Controlled-Prefix-Based.md) — Algazairi vd. (2026) · *Al-Farooq Journal of Sciences* · hakemli
 - [Interpretable Early Termination of Web Navigation Agents via Closed Sequential Pattern Mining](Veri-Madenciligi/Sirali-Oruntu-Madenciligi/Arastirmalar/2026-Talavera-Interpretable-Early-Termination-Web.md) — Talavera vd. (2026) · *arXiv* · ön baskı / hakemsiz

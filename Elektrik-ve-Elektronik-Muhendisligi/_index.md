@@ -87,7 +87,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **23**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **26**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -97,14 +97,14 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Phase-Locked Loop Bandwidth Design and Partial Compensation Strategy for PMSM Position Estimation Based on Embedded Linear Hall Sensors](Entegre-Devre-Tasarimi/Analog-Entegre-Devre-Tasarimi/Faz-Kilitlemeli-Donguler/Arastirmalar/2026-Zhao-Phase-Locked-Loop-Bandwidth.md) — Zhao vd. (2026) · *Sensors* · hakemli
+- [Artificial Intelligence-Assisted Multi-Objective Design and Dynamic Validation of High-Efficiency Solid-State Transformers for Electric Vehicle Integration](Guc-Elektronigi/Kati-Hal-Transformatorleri/Arastirmalar/2026-Asiegbu-Artificial-Intelligence-Assisted-Multi.md) — Asiegbu vd. (2026) · *World Electric Vehicle Journal* · hakemli
+- [Full-Speed-Range Sensorless Direct Torque Control of a Two-Level Interior Permanent Magnet Synchronous Motor Drive Using Hybrid High-Frequency Injection Model Reference Adaptive Control Estimation](Guc-Elektronigi/Motor-Suruculer/Dogrudan-Moment-Kontrolu/Arastirmalar/2026-Choudhary-Full-Speed-Range-Sensorless.md) — Choudhary vd. (2026) · *Energies* · hakemli
 - [A data-efficient PINN-Bayesian optimization framework for state variable active filter design](Devre-Teorisi/Filtre-Tasarimi/Aktif-Filtreler/Arastirmalar/2026-Manimegalai-data-efficient-PINN-Bayesian.md) — Manimegalai vd. (2026) · *Engineering Science and Technology an International Journal* · hakemli
 - [Implementation of Radio Frequency Digital to Analog Converter Design for Satellite Telecommunication System](Entegre-Devre-Tasarimi/Analog-Entegre-Devre-Tasarimi/Veri-Donusturuculer/Sayisal-Analog-Donusturuculer/Arastirmalar/2026-Khaing-Implementation-Radio-Frequency-Digital.md) — Khaing vd. (2026) · *International Journal For Multidisciplinary Research* · hakemli
 - [Improving the performance of grid-connected photovoltaic systems using a novel SPO-SHE-PWM algorithm with an AHB multilevel inverter](Guc-Elektronigi/Eviriciler/Cok-Seviyeli-Eviriciler/Arastirmalar/2026-Kahlane-Improving-the-performance-grid.md) — Kahlane vd. (2026) · *International Journal of Electronics* · hakemli
 - [Effect of thermomechanical properties of epoxy molding compound on the reliability of fan-out wafer-level packaging](Yari-Iletken-Uretimi/Ileri-Paketleme/Fan-Out-Pul-Duzeyinde-Paketleme/Arastirmalar/2026-Kang-Effect-thermomechanical-properties-epoxy.md) — Kang vd. (2026) · *Journal of Adhesion Science and Technology* · hakemli
 - [Three-Phase-Input Inductive Wireless Power Transfer System for Rectifier-Output Voltage Ripple Reduction](Guc-Elektronigi/Kablosuz-Guc-Aktarimi/Arastirmalar/2026-Deng-Three-Phase-Input-Inductive.md) — Deng vd. (2026) · *Electronics* · hakemli
-- [Hierarchical Reinforcement Learning for Degradation-Aware and Coordinated Control of Virtual Power Plants](Elektrik-Guc-Sistemleri/Akilli-Sebekeler/Sanal-Guc-Santralleri/Arastirmalar/2026-Arjun-Hierarchical-Reinforcement-Learning-for.md) — Arjun vd. (2026) · *Industrial & Engineering Chemistry Research* · hakemli
-- [Enhanced electron-beam lithography to reduce the frequency scatter of 200–400 GHz superconducting microstrip resonators for on-chip filterbank spectrometers](Yari-Iletken-Uretimi/Litografi/Elektron-Demeti-Litografisi/Arastirmalar/2026-Scholtenhuis-Enhanced-electron-beam-lithography.md) — Scholtenhuis vd. (2026) · *APL Engineering Physics* · hakemli · atıf: 1
-- [Intelligent Unified Power Quality Conditioner with Reactive Power Sharing for Improving DC-Link Voltage and Power Quality](Elektrik-Guc-Sistemleri/Guc-Kalitesi/Arastirmalar/2026-Tan-Intelligent-Unified-Power-Quality.md) — Tan vd. (2026) · *Energies* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

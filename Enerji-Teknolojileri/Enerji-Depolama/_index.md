@@ -79,7 +79,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **3**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **4**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -90,6 +90,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
 - [Capacity optimisation configuration of air–electricity–hydrogen hybrid energy storage systems incorporating advanced adiabatic compressed air energy storage](Mekanik-Enerji-Depolama/Basincli-Hava-Enerji-Depolama/Arastirmalar/2026-Zhang-Capacity-optimisation-configuration-airele.md) — Zhang vd. (2026) · *Energy Reports* · hakemli
+- [The Technology of Lithium-Ion Batteries: An Alternative and Future Option to Meet Pakistan’s Energy Demands](Elektrokimyasal-Enerji-Depolama/Lityum-Iyon-Bataryalar/Arastirmalar/2026-Hussain-The-Technology-Lithium-Ion.md) — Hussain vd. (2026) · *The Nucleus* · hakemli
 - [Recent Advances in Solar Still Technology: Design, Performance Enhancement, and Thermal Energy Storage.](Isil-Enerji-Depolama/Arastirmalar/2026-AlKhafaji-Recent-Advances-Solar-Still.md) — Al‐Khafaji vd. (2026) · *Journal of Science and Engineering Applications* · hakemli
 - [Computation of stability delay margins of microgrids with implementation of two types of superconducting magnetic energy storage systems](Superiletken-Manyetik-Enerji-Depolama/Arastirmalar/2026-Shakor-Computation-stability-delay-margins.md) — Shakor vd. (2026) · *Energy Reports* · hakemli
 <!-- AUTO:RECENT:END -->

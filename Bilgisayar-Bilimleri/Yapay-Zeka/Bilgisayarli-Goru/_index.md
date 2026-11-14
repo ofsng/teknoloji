@@ -90,7 +90,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **5**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **7**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -103,7 +103,9 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [Marigold V2: Revisiting Diffusion Transformers for Monocular Depth Estimation](3B-Bilgisayarli-Goru/Derinlik-Kestirimi/Arastirmalar/2026-Pavlovic-Marigold-Revisiting-Diffusion-Transform.md) — Pavlovic vd. (2026) · *ACM Transactions on Graphics* · hakemli · atıf: 4
 - [A review of medical image segmentation research based on bibliometrics](Goruntu-Bolutleme/Arastirmalar/2026-Li-review-medical-image-segmentation.md) — Li vd. (2026) · *Technology and Health Care* · hakemli
 - [Shape-Based Maritime Man-Made Object Detection Using Deep Learning Fusion-Based Neural Network and Region-Based Methods](Nesne-Tespiti/Arastirmalar/2026-Suzdalev-Shape-Based-Maritime-Man.md) — Suzdalev vd. (2026) · *Machines* · hakemli
+- [Attendance Monitoring Using Multiple Face Recognition for Students](Yuz-Tanima/Arastirmalar/2026-Krupa-Attendance-Monitoring-Using-Multiple.md) — Krupa vd. (2026) · *International Journal of Advanced Research in Science Communication and Technology* · hakemli
 - [Implementasi Optical Character Recognition dan Algoritma Pencocokan pada Validasi Dokumen Penyumpahan Advokat](Optik-Karakter-Tanima/Arastirmalar/2026-Hilma-Implementasi-Optical-Character-Recognition.md) — Hilma vd. (2026) · *MASALIQ* · hakemli
+- [Face Recognition Based Attendance System](Yuz-Tanima/Arastirmalar/2026-Grewal-Face-Recognition-Based-Attendance.md) — Grewal vd. (2026) · *International Scientific Journal of Engineering and Management* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

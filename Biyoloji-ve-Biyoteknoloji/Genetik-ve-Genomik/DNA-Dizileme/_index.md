@@ -79,7 +79,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **3**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **4**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -89,6 +89,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Long-read sequencing of the Amami rabbit mitochondrial genome reveals extensive tandem repeats in the D-loop region overlooked in previous assemblies](Uzun-Okuma-Dizileme/Arastirmalar/2026-Aoto-Long-read-sequencing-the.md) — Aoto vd. (2026) · *Scientific Reports* · hakemli
 - [Spatial transcriptomics reveals organizational properties of the mouse spinal cord and alterations in neuropathic pain](Uzamsal-Transkriptomik/Arastirmalar/2026-Wang-Spatial-transcriptomics-reveals-organizatio.md) — Wang vd. (2026) · *Proceedings of the National Academy of Sciences* · hakemli · atıf: 9
 - [Cases of tick-borne encephalitis identified by metagenomic next-generation sequencing, China](Yeni-Nesil-Dizileme/Arastirmalar/2026-Zhang-Cases-tick-borne-encephalitis.md) — Zhang vd. (2026) · *ASM Case Reports* · hakemli
 - [Metagenomic next-generation sequencing as an adjunctive diagnostic tool for Clonorchis sinensis infection: a case report](Yeni-Nesil-Dizileme/Arastirmalar/2026-Zhang-Metagenomic-next-generation-sequencing.md) — Zhang vd. (2026) · *Future Microbiology* · hakemli

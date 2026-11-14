@@ -78,7 +78,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **8**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **9**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -88,6 +88,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Beyond ICANS: Cellular and Molecular Mechanisms Linking CAR T-Cell Therapy to Long-Term Neurocognitive Outcomes](Hucre-Tedavisi/CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Fleischer-Beyond-ICANS-Cellular-and.md) — Fleischer vd. (2026) · *Cells* · hakemli
 - [Clinical and Mechanistic Insights into Non-ICANS Neurotoxicity Following BCMA CAR T-Cell Therapy](Hucre-Tedavisi/CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Mueller-Jensen-Clinical-and-Mechanistic-Insights.md) — Mueller-Jensen vd. (2026) · *Neurology* · hakemli
 - [Miv-cel CD19 CAR T-Cell Therapy Shows Efficacy and Safety in Stiff Person Syndrome in a Pivotal, Multicenter, Phase 2 Study (KYSA-8)](Hucre-Tedavisi/CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Piquet-Miv-cel-CD19-CAR.md) — Piquet vd. (2026) · *Neurology* · hakemli
 - [Optimizing infusion methods to enhance the efficacy of CAR-T cell therapy for solid tumors](Hucre-Tedavisi/CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Xue-Optimizing-infusion-methods-enhance.md) — Xue vd. (2026) · *BMC Cancer* · hakemli
@@ -95,7 +96,6 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [Peptide-functionalized biomaterials as emerging platforms to enhance CAR-NK cell therapy in solid tumors](Hucre-Tedavisi/NK-Hucre-Tedavisi/Arastirmalar/2026-Shokoohi-Peptide-functionalized-biomaterials-eme.md) — Shokoohi vd. (2026) · *Discover Materials* · hakemli
 - [Quadruple co-culture vascular models of haematological malignancy CAR T cell therapy for nonclinical safety and efficacy studies](Hucre-Tedavisi/CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Lund-Quadruple-culture-vascular-models.md) — Lund vd. (2026) · *Frontiers in Immunology* · hakemli
 - [Prognostic factors and response monitoring after CD19-directed CAR T-cell therapy in diffuse large B-cell lymphoma: a time-resolved review](Hucre-Tedavisi/CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Su-Prognostic-factors-and-response.md) — Su vd. (2026) · *Journal of Translational Medicine* · hakemli
-- [Tendinopathy: Current Concepts in Pathophysiology, Clinical Presentation, and Management – An Updated Review](Hucre-Tedavisi/Kok-Hucre-Tedavisi/Arastirmalar/2026-Saklani-Tendinopathy-Current-Concepts-Pathophysi.md) — Saklani vd. (2026) · *International Journal of Drug Delivery Technology* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

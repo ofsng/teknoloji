@@ -84,7 +84,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **4**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **6**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -97,6 +97,8 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [Semiclassical picture of the Heisenberg spin glass in two dimensions](Duzensiz-Sistemler/Arastirmalar/2026-Bracci-Testasecca-Semiclassical-picture-the-Heis.md) — Bracci-Testasecca vd. (2026) · *Physical review. B./Physical review. B* · hakemli · atıf: 4
 - [Ion‐Modulated All‑Van Der Waals Spin–Orbit Torque Magnetic Tunnel Junctions With Multilevel Switching](Manyetizma/Spintronik/Manyetik-Tunel-Eklemleri/Arastirmalar/2026-Tian-IonModulated-AllVan-Der-Waals.md) — Tian vd. (2026) · *Advanced Functional Materials* · hakemli
 - [Robust power-law computing for edge intelligence using spin-orbit torque magnetic tunnel junctions](Manyetizma/Spintronik/Arastirmalar/2026-Xiong-Robust-power-law-computing.md) — Xiong vd. (2026) · *Applied Physics Reviews* · hakemli
+- [Cooper quartets and fractional vortices in frustrated Josephson junction dice arrays](Superiletkenlik/Josephson-Eklemleri/Arastirmalar/2026-Weerda-Cooper-quartets-and-fractional.md) — Weerda vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [Interplay of superconductivity and ferromagnetism in ferromagnetic semiconductor-based Josephson junctions](Superiletkenlik/Josephson-Eklemleri/Arastirmalar/2026-Hara-Interplay-superconductivity-and-ferromagnet.md) — Hara vd. (2026) · *arXiv* · ön baskı / hakemsiz
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

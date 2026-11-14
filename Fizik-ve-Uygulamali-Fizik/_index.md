@@ -93,7 +93,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **20**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **24**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -103,6 +103,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [BCAT: A Block Causal Transformer for PDE Foundation Models for Fluid Dynamics](Akiskanlar-Dinamigi/Arastirmalar/2026-Liu-BCAT-Block-Causal-Transformer.md) — Liu vd. (2026) · *Journal of Artificial Intelligence Research* · hakemli · atıf: 21
 - [Rotating-Wave and Secular Approximations for Open Quantum Systems](Kuantum-Mekanigi/Acik-Kuantum-Sistemleri/Arastirmalar/2026-Burgarth-Rotating-Wave-and-Secular.md) — Burgarth vd. (2026) · *Quantum* · hakemli · atıf: 1
 - [Semiclassical picture of the Heisenberg spin glass in two dimensions](Yogun-Madde-Fizigi/Duzensiz-Sistemler/Arastirmalar/2026-Bracci-Testasecca-Semiclassical-picture-the-Heis.md) — Bracci-Testasecca vd. (2026) · *Physical review. B./Physical review. B* · hakemli · atıf: 4
 - [Exploring Chemical Concepts and Reactivity from Conceptual Density Functional Theory in Excited States via the ΔSCF Approach](Hesaplamali-Fizik/Yogunluk-Fonksiyoneli-Teorisi/Arastirmalar/2026-Wang-Exploring-Chemical-Concepts-and.md) — Wang vd. (2026) · *Journal of Chemical Theory and Computation* · hakemli
@@ -110,7 +111,6 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [Ion‐Modulated All‑Van Der Waals Spin–Orbit Torque Magnetic Tunnel Junctions With Multilevel Switching](Yogun-Madde-Fizigi/Manyetizma/Spintronik/Manyetik-Tunel-Eklemleri/Arastirmalar/2026-Tian-IonModulated-AllVan-Der-Waals.md) — Tian vd. (2026) · *Advanced Functional Materials* · hakemli
 - [Anisotropic response in bilayer graphene for light dark matter detection](Astronomi-ve-Astrofizik/Kozmoloji/Karanlik-Madde/Arastirmalar/2026-Sherpa-Anisotropic-response-bilayer-graphene.md) — Sherpa vd. (2026) · *Physical review. D/Physical review. D.* · hakemli · atıf: 3
 - [Three-dimensional wave optics for weak-field lensing of gravitational waves](Genel-Gorelilik-ve-Kutlecekim/Kutlecekim-Dalgalari/Arastirmalar/2026-Carrillo-Gonzalez-Three-dimensional-wave-optics.md) — Carrillo-González vd. (2026) · *Monthly Notices of the Royal Astronomical Society* · hakemli · atıf: 1
-- [Exorcising ghosts with gravitational waves](Genel-Gorelilik-ve-Kutlecekim/Kutlecekim-Dalgalari/Arastirmalar/2026-Lambiase-Exorcising-ghosts-with-gravitational.md) — Lambiase vd. (2026) · *Physical Review Letters* · hakemli · atıf: 5
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

@@ -26,6 +26,7 @@ collected_at: 2026-11-07
 last_checked_at: 2026-11-13
 content_verified: false
 identifier_verified: arxiv
+retraction_checked: 2026-11-14
 ---
 
 # High precision timing of seven binary millisecond pulsars with the European Pulsar Timing Array

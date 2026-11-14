@@ -83,7 +83,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **5**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **6**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -93,6 +93,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Ammonia excretion dynamics of the silverside (Basilichthys microlepidotus) during the juvenile-to-adult grow-out phase, under different body sizes and stocking densities in a recirculating aquaculture system (RAS)](Su-Urunleri/Devridaimli-Su-Urunleri-Sistemleri/Arastirmalar/2026-Mendez-Ammonia-excretion-dynamics-the.md) — Mendez vd. (2026) · *Latin American Journal of Aquatic Research* · hakemli
 - [From Setpoints to System Dynamics: Integrating Light, CO2 and Fertigation in Controlled-Environment Agriculture](Kontrollu-Ortam-Tarimi/Arastirmalar/2026-Phaugat-From-Setpoints-System-Dynamics.md) — Phaugat vd. (2026) · *International Journal of Molecular Sciences* · hakemli
 - [Predatory Heteropteran Bugs as Potential Tools in Integrated Pest Management: A Review](Agronomi/Bitki-Koruma/Entegre-Zararli-Yonetimi/Arastirmalar/2026-Joshi-Predatory-Heteropteran-Bugs-Potential.md) — Joshi vd. (2026) · *Annual Research & Review in Biology* · hakemli
 - [Circular Economy in Animal Nutrition: Feed Valorisation, Precision Livestock Farming, and Sustainability](Hayvan-Bilimi/Hassas-Hayvancilik/Arastirmalar/2026-Papatsiros-Circular-Economy-Animal-Nutrition.md) — Papatsiros vd. (2026) · *Sci* · hakemli

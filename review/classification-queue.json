@@ -119,6 +119,92 @@
   "url": "https://arxiv.org/abs/2611.04574"
  },
  {
+  "added": "2026-11-14",
+  "arxiv": "2602.07491",
+  "candidates": [
+   [
+    "knowledge-graphs",
+    6.9
+   ],
+   [
+    "llm-based-agents",
+    5.85
+   ],
+   [
+    "large-language-models",
+    4.61
+   ],
+   [
+    "multi-agent-systems",
+    2.48
+   ],
+   [
+    "machine-learning",
+    1.2
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.1021/acsmaterialsau.6c00100",
+  "keys": [
+   "arxiv:2602.07491",
+   "doi:10.1021/acsmaterialsau.6c00100",
+   "title:graphagentsknowledgegraphguidedagenticaiforcrossdomainmaterialsdesign|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Abstract Large language models (LLMs) promise to accelerate discovery by reasoning across the ever-expanding landscape of scientific knowledge. Yet, as the reservoir of knowledge grows, the challenge is no longer access to information but rather the ability to connect it in meaningful, domain-spanning ways. In materials science, where discoveries and new hypotheses emerge from bridging insights across disciplines and demand the integration of concepts from molecular chemistry to mechanical performance, this challenge is especially acute. Neither human researchers nor single-agent LLMs can contend with this torrent of information, with the latter often producing brittle reasoning and hallucinations. To address this bottleneck, we introduce a multiagent framework guided by large-scale knowledge graphs to address the urgent challenge of finding sustainable substitutes for per- and polyfluoroalkyl substances (PFAS), a class of synthetic chemicals widely used in industrial and consumer applications that are the subject of increasing regulatory scrutiny due to concerns raised in scientific literature and evolving policy efforts to ban certain PFAS compounds. Agents in the framework specialize in problem decomposition, evidence retrieval, design parameter extraction, and graph traversal, uncovering latent connections across distinct pockets of scientific knowledge that support downstream hypothesis generation for PFAS-free materials. Our ablation studies show that the full multiagent pipeline outperforms single-shot prompting, underscoring the value of distributed specialization and relational reasoning. We show that by tailoring graph traversal strategies, the system can alternate between exploitative searches that focus hypothesis generation on domain-critical outcomes and exploratory searches that surface emergent cross-connections in the broader network. Shown through the exemplar of biomedical tubing, the framework generates sustainable material alternatives to PFAS-based tubing that balance tribological performance, thermal stability, chemical resistance, and biocompatibility. This work establishes a framework that combines knowledge graphs with multiagent reasoning to expand the materials design space and reveal interdisciplinary connections. We showcase several initial PFAS-free design candidates to demonstrate the approach.",
+   "abstract_license": "cc-by-nc-nd",
+   "arxiv": "2602.07491",
+   "authors": [
+    "Isabella Stewart",
+    "Tarjei Paule Hage",
+    "Yu-Chuan Hsu",
+    "Markus J. Buehler"
+   ],
+   "categories": [
+    "OpenAlex-field:Materials Science"
+   ],
+   "cited_by_count": 14,
+   "doi": "10.1021/acsmaterialsau.6c00100",
+   "is_retracted": false,
+   "keywords": [
+    "multi-agent systems",
+    "knowledge graphs",
+    "agentic AI",
+    "materials design",
+    "per- and polyfluoroalkyl substances",
+    "hypothesis generation",
+    "tribological properties",
+    "chemical resistance",
+    "biocompatibility",
+    "thermal stability",
+    "large language models"
+   ],
+   "language": "en",
+   "oa_created": "2026-02-11",
+   "peer_reviewed": true,
+   "publication": "ACS Materials Au",
+   "publication_type": "article",
+   "published_date": "2026-11-11",
+   "related_versions": [],
+   "source_ids": [
+    "openalex:W7128530100"
+   ],
+   "title": "GraphAgents: Knowledge Graph-Guided Agentic AI for Cross-Domain Materials Design",
+   "topics": [
+    "Machine Learning in Materials Science",
+    "Materials Chemistry"
+   ],
+   "updated_date": "2026-11-13",
+   "url": "https://doi.org/10.1021/acsmaterialsau.6c00100"
+  },
+  "score": 6.9,
+  "seen": 1,
+  "suggested": "knowledge-graphs",
+  "title": "GraphAgents: Knowledge Graph-Guided Agentic AI for Cross-Domain Materials Design",
+  "url": "https://doi.org/10.1021/acsmaterialsau.6c00100"
+ },
+ {
   "added": "2026-11-09",
   "arxiv": "2510.24833",
   "candidates": [
@@ -192,6 +278,89 @@
   "suggested": "quantum-gravity",
   "title": "Gravitational dressing: from the crossed product to more general algebraic and mathematical structure",
   "url": "https://doi.org/10.1007/jhep11(2026)056"
+ },
+ {
+  "added": "2026-11-14",
+  "arxiv": "2509.05734",
+  "candidates": [
+   [
+    "quantum-error-correction",
+    7.0
+   ],
+   [
+    "molecular-physics",
+    3.1
+   ],
+   [
+    "oscillators",
+    1.57
+   ],
+   [
+    "reservoir-engineering",
+    1.2
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.1126/sciadv.aee5380",
+  "keys": [
+   "arxiv:2509.05734",
+   "doi:10.1126/sciadv.aee5380",
+   "title:nonlinearcoolingandcontrolofamechanicalquantumharmonicoscillator|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Nonlinearities are a key feature allowing nonclassical control of quantum harmonic oscillators. However, when nonlinearities are strong, designing protocols for control is often difficult, placing a barrier to exploiting these properties fully. In this work, using a single trapped-ion oscillator operated in the strongly nonlinear regime of the atom-light interaction, we show how to generate localized multi (two, three, four, and five)-component Schrödinger's cat manifolds using a novel form of nonlinear reservoir engineering. We then specifically select Hamiltonians which allow us to perform measurements on these state manifolds. Our work demonstrates the experimental use of high-order nonlinear processes for control of nonclassical states of a quantum harmonic oscillator, opening up a new toolbox which can be applied to bosonic quantum error correction, computation, and sensing.",
+   "abstract_license": "cc-by",
+   "arxiv": "2509.05734",
+   "authors": [
+    "Matteo Simoni",
+    "Ivan Rojkov",
+    "M. Mazzanti",
+    "Wojciech Adamczyk",
+    "A. Ferk",
+    "Pavel Hrmo",
+    "Shreyans Jain",
+    "Tobias Sägesser",
+    "Daniel Kienzler",
+    "Jonathan Home"
+   ],
+   "categories": [
+    "OpenAlex-field:Physics and Astronomy"
+   ],
+   "cited_by_count": 8,
+   "doi": "10.1126/sciadv.aee5380",
+   "is_retracted": false,
+   "keywords": [
+    "quantum harmonic oscillator",
+    "Schrödinger cat states",
+    "atom-light interaction",
+    "nonclassical states",
+    "quantum error correction",
+    "quantum sensing"
+   ],
+   "language": "en",
+   "oa_created": "2025-10-11",
+   "peer_reviewed": true,
+   "publication": "Science Advances",
+   "publication_type": "article",
+   "published_date": "2026-11-11",
+   "related_versions": [],
+   "source_ids": [
+    "openalex:W4415059609"
+   ],
+   "title": "Nonlinear cooling and control of a mechanical quantum harmonic oscillator",
+   "topics": [
+    "Mechanical and Optical Resonators",
+    "Atomic and Molecular Physics, and Optics"
+   ],
+   "updated_date": "2026-11-13",
+   "url": "https://doi.org/10.1126/sciadv.aee5380"
+  },
+  "score": 7.0,
+  "seen": 1,
+  "suggested": "quantum-error-correction",
+  "title": "Nonlinear cooling and control of a mechanical quantum harmonic oscillator",
+  "url": "https://doi.org/10.1126/sciadv.aee5380"
  },
  {
   "added": "2026-11-09",
@@ -330,6 +499,94 @@
   "suggested": "object-detection",
   "title": "Annotator-Free Object Detection via Foundation Model Collaboration",
   "url": "https://arxiv.org/abs/2611.06195"
+ },
+ {
+  "added": "2026-11-14",
+  "arxiv": null,
+  "candidates": [
+   [
+    "quantum-dots",
+    6.9
+   ],
+   [
+    "quantum-computing",
+    5.9
+   ],
+   [
+    "quantum-electrodynamics",
+    4.08
+   ],
+   [
+    "molecular-physics",
+    3.1
+   ],
+   [
+    "nonlinear-optics",
+    3.1
+   ],
+   [
+    "nanowires",
+    1.44
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.1038/s41467-026-78984-x",
+  "keys": [
+   "doi:10.1038/s41467-026-78984-x",
+   "title:singlephotonreflectionfromaquantumdotinawaveguide|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Abstract Single-atom waveguide-QED systems have emerged as a leading platform for demonstrating non-linear optics in the few-photon regime. Devices with such non-linear behavior are necessary for developing deterministic gates for photonic quantum computing. Artificial atoms coupled to nanophotonic or superconducting waveguides can be used to engineer highly efficient light-matter interfaces for such non-linear interactions, where every photon in the system interacts with the quantum emitter. However, it has been a challenge to access the reflection port of the waveguide due to the inability of rejecting stray electromagnetic fields that do not interact with the artificial atom. Here, we show coherent reflection of single photons from a semiconductor quantum dot strongly coupled to the fundamental waveguide mode of a nanowire. We utilize the tapered end of the nanowire for ideal mode-matching in a vertical geometry, enabled by the extinction technique developed. This mode-matching allows for efficient transfer of photons from the input to the reflection port while having all interacted with the quantum dot. Such a high-efficiency scalable photonic platform opens up applications in few-photon quantum nonlinear optics and has been proposed for creating key resource states for universal photon-based quantum computing.",
+   "abstract_license": "cc-by",
+   "arxiv": null,
+   "authors": [
+    "Tarun Patel",
+    "Matteo P. Pennacchietti",
+    "Sayan Gangopadhyay",
+    "Dan Dalacu",
+    "Philip J. Poole",
+    "Stephen Hughes",
+    "Michael E. Reimer"
+   ],
+   "categories": [
+    "OpenAlex-field:Physics and Astronomy"
+   ],
+   "cited_by_count": 3,
+   "doi": "10.1038/s41467-026-78984-x",
+   "is_retracted": false,
+   "keywords": [
+    "quantum dots",
+    "nanowire waveguides",
+    "waveguide quantum electrodynamics",
+    "strong coupling",
+    "mode matching",
+    "photonic quantum computing",
+    "light-matter interface"
+   ],
+   "language": "en",
+   "oa_created": "2026-04-02",
+   "peer_reviewed": true,
+   "publication": "Nature Communications",
+   "publication_type": "article",
+   "published_date": "2026-11-11",
+   "related_versions": [],
+   "source_ids": [
+    "openalex:W7147178982"
+   ],
+   "title": "Single photon reflection from a quantum dot in a waveguide",
+   "topics": [
+    "Semiconductor Quantum Structures and Devices",
+    "Atomic and Molecular Physics, and Optics"
+   ],
+   "updated_date": "2026-11-13",
+   "url": "https://doi.org/10.1038/s41467-026-78984-x"
+  },
+  "score": 6.9,
+  "seen": 1,
+  "suggested": "quantum-dots",
+  "title": "Single photon reflection from a quantum dot in a waveguide",
+  "url": "https://doi.org/10.1038/s41467-026-78984-x"
  },
  {
   "added": "2026-11-08",
@@ -754,6 +1011,201 @@
   "url": "https://jchr.org/index.php/JCHR/article/view/17792"
  },
  {
+  "added": "2026-11-14",
+  "arxiv": null,
+  "candidates": [
+   [
+    "precision-medicine",
+    5.5
+   ],
+   [
+    "electronic-health-records",
+    3.7
+   ],
+   [
+    "pharmacogenomics",
+    3.28
+   ],
+   [
+    "pharmacology",
+    1.85
+   ],
+   [
+    "metabolism",
+    0.66
+   ],
+   [
+    "translation",
+    0.26
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.1126/scitranslmed.adt8040",
+  "keys": [
+   "doi:10.1126/scitranslmed.adt8040",
+   "title:frequencyofpharmacogenomicvariationandmedicationexposuresamongparticipantsintheallofusresearchprogram|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Pharmacogenomics promises improved outcomes through individualized prescribing. However, the lack of diversity in pharmacogenomics studies impedes clinical translation and the application of precision medicine across populations. We evaluated the frequencies of variants in 16 pharmacogenes ( ABCG2 , CACNA1S , CYP2D6 , CYP2C Cluster , CYP2C19 , CYP2C9 , CYP3A5 , CYP4F2 , DPYD , G6PD , NUDT15 , RYR1 , SLCO1B1 , TPMT , UGT1A1 , and VKORC1 ) and predicted phenotypes and medication exposures using whole-genome sequencing and electronic health record data from nearly 100,000 All of Us Research Program participants. We report that 100% of participants carried at least one pharmacogenomic variant and nearly all (99.5%) had a predicted phenotype with prescribing recommendations. Clinical impact was high with 24.4% of participants having both an actionable phenotype for these pharmacogenes and a prior exposure to an impacted medication with pharmacogenomic prescribing guidance. Importantly, we report thousands of previously unrecognized pharmacogene variants and hundreds of alleles and predicted phenotypes that deviate from known frequencies across populations or were previously unreported, especially in the Americas and African ancestry groups.",
+   "abstract_license": null,
+   "arxiv": null,
+   "authors": [
+    "Andrew Haddad",
+    "Aparna Radhakrishnan",
+    "Sean R. McGee",
+    "Joshua D. Smith",
+    "Jason H. Karnes",
+    "Eric Venner",
+    "Marsha M. Wheeler",
+    "Karynne Patterson",
+    "Kimberly Walker",
+    "Divya Kalra",
+    "Sara E. Kalla",
+    "Qiaoyan Wang",
+    "Kathleen Polkowski",
+    "Richard A. Gibbs",
+    "Gail Pairitz Jarvik",
+    "Janeth I. Sanchez",
+    "Anjene Musick Addington",
+    "Andrea H. Ramirez",
+    "Joshua C. Denny",
+    "Philip E. Empey",
+    "Dmitry Abramov",
+    "Brian Ahmedani",
+    "Habib Ahsan",
+    "Hoda Anton-Culver",
+    "Maria Argos",
+    "Dave W. Arnold",
+    "Brisa Aschebook-Kilfoy",
+    "Katie Baca-Motes",
+    "Catherine Balthazar",
+    "Laura Bartlett",
+    "Gillian Bartlett‐Esquilant",
+    "Melissa Basford",
+    "Leland Baskin",
+    "Mark Begale",
+    "Eric Boerwinkle",
+    "Ingrid Bonilla-Mercado",
+    "Alexander Borowsky",
+    "Amaryllis Silva Boschetti",
+    "Matthew Breeden",
+    "Brad Bryan",
+    "Jessica Burke",
+    "Elizabeth Burnside",
+    "Lisa Cadmus-Bertram",
+    "Librada Callender",
+    "Roberta Carlin",
+    "Olveen Carrasquillo",
+    "Suchitra Chandrasekaran",
+    "Alexander Charney",
+    "Mine Cicek",
+    "Cheryl Clark",
+    "Elizabeth Cohn",
+    "Vivian Colón‐López",
+    "Alejandro Comellas",
+    "Karl Cooper",
+    "Linda Cottler",
+    "Errol Crook",
+    "Elizabeth Culler",
+    "Martha Daviglus",
+    "Kathy DeerInWater",
+    "Liliana Lombardi Desa",
+    "Jacob Ditsch",
+    "Kim Doheny",
+    "Charles Drum",
+    "Milton Eder",
+    "Mark Edmunds",
+    "Evan Eichler",
+    "Leslie Eiland",
+    "Kim Enard",
+    "Rachel Everhart",
+    "Adolph Falcon",
+    "Dorothy Farrar-Edwards",
+    "Becky Fein",
+    "Zeno Frano",
+    "Yuri Fresko",
+    "Gretchen Funk",
+    "Stacey Gabriel",
+    "Marie Gantz",
+    "Michael Garrett",
+    "Ali G. Gharavi",
+    "Richard A. Gibbs",
+    "David Glazer",
+    "Marc Goodman",
+    "Philip Greenland",
+    "Allen Greiner",
+    "Richard Grucza",
+    "Lourdes Guerrios‐Rivera",
+    "Aditi Gupta",
+    "Sandra Halverson",
+    "Eileen Handberg",
+    "Paul Harris",
+    "Scott Joseph Hebbring",
+    "Robert Hiatt",
+    "Joyce Ho",
+    "William R. Hogan",
+    "Beverly Wilson Holmes",
+    "Laura Horne",
+    "George Hripcsak",
+    "Priscilla Igho–Pemu",
+    "Rosario Isasi",
+    "Jessica Isom"
+   ],
+   "categories": [
+    "OpenAlex-field:Pharmacology, Toxicology and Pharmaceutics"
+   ],
+   "cited_by_count": 18,
+   "doi": "10.1126/scitranslmed.adt8040",
+   "is_retracted": false,
+   "keywords": [
+    "pharmacogenomics",
+    "drug metabolism genes",
+    "drug exposure",
+    "All of Us",
+    "precision medicine",
+    "underrepresented groups",
+    "CYP2C19",
+    "CYP2C9",
+    "CYP3A5",
+    "CYP2D6",
+    "thiopurine S-methyltransferase",
+    "UGT1A1",
+    "VKORC1",
+    "glucose-6-phosphate dehydrogenase",
+    "dihydropyrimidine dehydrogenase",
+    "NUDT15",
+    "RyR1",
+    "SLCO1B1",
+    "CACNA1S",
+    "ABCG2",
+    "allele frequency"
+   ],
+   "language": "en",
+   "oa_created": "2024-06-14",
+   "peer_reviewed": true,
+   "publication": "Science Translational Medicine",
+   "publication_type": "article",
+   "published_date": "2026-11-11",
+   "related_versions": [],
+   "source_ids": [
+    "openalex:W4399627910"
+   ],
+   "title": "Frequency of pharmacogenomic variation and medication exposures among participants in the All of Us Research Program",
+   "topics": [
+    "Pharmacogenetics and Drug Metabolism",
+    "Pharmacology"
+   ],
+   "updated_date": "2026-11-13",
+   "url": "https://doi.org/10.1126/scitranslmed.adt8040"
+  },
+  "score": 5.5,
+  "seen": 1,
+  "suggested": "precision-medicine",
+  "title": "Frequency of pharmacogenomic variation and medication exposures among participants in the All of Us Research Program",
+  "url": "https://doi.org/10.1126/scitranslmed.adt8040"
+ },
+ {
   "added": "2026-11-08",
   "arxiv": null,
   "candidates": [
@@ -890,6 +1342,79 @@
   "suggested": "reinforcement-learning",
   "title": "Accelerated Reinforcement Learning for Soft Robotics: Hours Instead of Years",
   "url": "https://arxiv.org/abs/2611.11718"
+ },
+ {
+  "added": "2026-11-14",
+  "arxiv": "2511.17433",
+  "candidates": [
+   [
+    "power-system-protection",
+    5.92
+   ],
+   [
+    "electrical-and-electronic-engineering",
+    4.3
+   ],
+   [
+    "optimization",
+    0.26
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.1016/j.apenergy.2026.129216",
+  "keys": [
+   "arxiv:2511.17433",
+   "doi:10.1016/j.apenergy.2026.129216",
+   "title:theiberianblackoutablackswanoragrayrhinoaprotectionawaredynamicvoltagesecurityassessment|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "On 28 April 2025, the Iberian power system collapsed after a rapid voltage rise that led to widespread generation disconnections and loss of synchronism. The final report of the ENTSO-E Expert Panel attributes the blackout to several interacting factors including ineffective voltage control, fixed power factor operation, misaligned protection settings, manual shunt reactor switching, and limited observability. These factors raise a general question: given the current state, can the next trip, ramp, topology action, or shunt switching raise the voltages measured by overvoltage relays above their settings before voltage controls respond? We answer this with a protection-aware dynamic voltage security assessment. For each candidate event, the method computes the voltage at every overvoltage relay over the relay time window from a dynamic model of the network, its controls, and its relays. It predicts which relays trip after a first trip, identifies assets whose relay or measurement data are insufficient for a safety conclusion, and, when one exists, computes a minimum-cost fast reactive power action that keeps all relay voltages below their settings. Case studies on four benchmark systems and a 2000-bus system that reproduces the mechanism of the Iberian blackout show that the method flagged every event that caused a secondary trip within the relay window, never declared safe a plant that tripped within that window, and, on the benchmarks, found fast reactive power actions that prevented the trips within the relay window whenever it judged such actions feasible. These results were validated with nonlinear time-domain simulations. The implementation code and a visual guide of this work are publicly available.",
+   "abstract_license": "cc-by",
+   "arxiv": "2511.17433",
+   "authors": [
+    "Abdallah Alalem Albustami",
+    "Ahmad Taha"
+   ],
+   "categories": [
+    "OpenAlex-field:Engineering"
+   ],
+   "cited_by_count": 5,
+   "doi": "10.1016/j.apenergy.2026.129216",
+   "is_retracted": false,
+   "keywords": [
+    "protection setting",
+    "reactive power control",
+    "voltage regulation",
+    "power system protection",
+    "voltage rise",
+    "black swan events",
+    "power system observability",
+    "loss of synchronism"
+   ],
+   "language": "en",
+   "oa_created": "2026-05-22",
+   "peer_reviewed": true,
+   "publication": "Applied Energy",
+   "publication_type": "article",
+   "published_date": "2026-11-11",
+   "related_versions": [],
+   "source_ids": [
+    "openalex:W7161943337"
+   ],
+   "title": "The Iberian blackout: A black swan or a gray rhino? A protection-aware dynamic voltage security assessment",
+   "topics": [
+    "Power System Optimization and Stability",
+    "Electrical and Electronic Engineering"
+   ],
+   "updated_date": "2026-11-13",
+   "url": "https://doi.org/10.1016/j.apenergy.2026.129216"
+  },
+  "score": 5.92,
+  "seen": 1,
+  "suggested": "power-system-protection",
+  "title": "The Iberian blackout: A black swan or a gray rhino? A protection-aware dynamic voltage security assessment",
+  "url": "https://doi.org/10.1016/j.apenergy.2026.129216"
  },
  {
   "added": "2026-11-09",
@@ -1435,6 +1960,230 @@
   "url": "https://doi.org/10.55043/agroteknika.v9i4.768"
  },
  {
+  "added": "2026-11-14",
+  "arxiv": "2509.14203",
+  "candidates": [
+   [
+    "robust-control",
+    5.5
+   ],
+   [
+    "dynamic-programming",
+    4.5
+   ],
+   [
+    "optimal-control",
+    3.1
+   ],
+   [
+    "operations-research",
+    1.2
+   ],
+   [
+    "analysis",
+    0.26
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.1287/opre.2025.2498",
+  "keys": [
+   "arxiv:2509.14203",
+   "doi:10.1287/opre.2025.2498",
+   "title:bellmanoptimalityofaveragerewardrobustmarkovdecisionprocesseswithaconstantgain|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Learning and optimal control under robust Markov decision processes (MDPs) have received increasing attention, yet most existing theory, algorithms, and applications focus on finite-horizon or discounted models. Long-run average-reward formulations, while natural in many operations research and management contexts, remain underexplored. This is primarily because the dynamic programming foundations are technically challenging and only partially understood, with several fundamental questions remaining open. This paper steps toward a general framework for average-reward robust MDPs by analyzing the constant-gain setting. We study the average-reward robust control problem with possible information asymmetries between the controller and an S-rectangular adversary. Our analysis centers on the constant-gain robust Bellman equation, examining both the existence of solutions and their relationship to the optimal average reward. Specifically, we identify when solutions to the robust Bellman equation characterize the optimal average reward and stationary policies, and we provide one-sided weak communication conditions ensuring solutions' existence. These findings expand the dynamic programming theory for average-reward robust MDPs and lay a foundation for robust dynamic decision making under long-run average criteria in operational environments.",
+   "abstract_license": null,
+   "arxiv": "2509.14203",
+   "authors": [
+    "Shengbo Wang",
+    "Nian Si"
+   ],
+   "categories": [
+    "OpenAlex-field:Engineering"
+   ],
+   "cited_by_count": 7,
+   "doi": "10.1287/opre.2025.2498",
+   "is_retracted": false,
+   "keywords": [
+    "robust Markov decision processes",
+    "stationary policies",
+    "information asymmetry",
+    "existence of solutions",
+    "dynamic programming",
+    "robust control"
+   ],
+   "language": "en",
+   "oa_created": "2025-10-10",
+   "peer_reviewed": true,
+   "publication": "Operations Research",
+   "publication_type": "article",
+   "published_date": "2026-11-11",
+   "related_versions": [],
+   "source_ids": [
+    "openalex:W4416248894"
+   ],
+   "title": "Bellman Optimality of Average-Reward Robust Markov Decision Processes with a Constant Gain",
+   "topics": [
+    "Adaptive Dynamic Programming Control",
+    "Control and Systems Engineering"
+   ],
+   "updated_date": "2026-11-13",
+   "url": "https://doi.org/10.1287/opre.2025.2498"
+  },
+  "score": 5.5,
+  "seen": 1,
+  "suggested": "robust-control",
+  "title": "Bellman Optimality of Average-Reward Robust Markov Decision Processes with a Constant Gain",
+  "url": "https://doi.org/10.1287/opre.2025.2498"
+ },
+ {
+  "added": "2026-11-14",
+  "arxiv": "1505.07152",
+  "candidates": [
+   [
+    "neutral-atom-qubits",
+    5.82
+   ],
+   [
+    "molecular-physics",
+    3.1
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.1088/1361-6455/aebb7c",
+  "keys": [
+   "arxiv:1505.07152",
+   "doi:10.1088/1361-6455/aebb7c",
+   "title:tuninglongrangeinteractionsinsrrydbergatomstheeffectofseriesperturbations|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Abstract We investigate the effect of series perturbation on the second-order dipole-dipole interactions between strontium atoms in the 5 s n s ( 1 S 0 ) and 5 s n p ( 1 P 1 ) Rydberg states as a means of engineering long-range interactions between atoms. The series perturbation in these atoms enables modifying the strength and the sign of the interaction by varying the principal quantum number n of the Rydberg electron. We utilize experimentally available data to estimate the importance of perturber states, and find that the van der Waals interaction between two strontium atoms in the 5 s n p ( 1 P 1 ) states shows strong peaks that deviate from the anticipated hydrogenic n 11 scaling. We identify this to be the result of the perturbation of 5 s n d ( 1 D 2 ) intermediate states by the 4 d 2 ( 1 D 2 ) and 4 d n ′ s ( 1 D 2 ) states in the n < 20 range. This demonstrates that divalent atoms offer a unique advantage for generating substantially stronger or weaker inter-atomic interactions than those that can be achieved using alkali metal atoms. This is due to the highly perturbed spectra of divalent atoms and other multivalent atoms that can persist up to high",
+   "abstract_license": "cc-by",
+   "arxiv": "1505.07152",
+   "authors": [
+    "Türker Topçu",
+    "Andrei Derevianko"
+   ],
+   "categories": [
+    "OpenAlex-field:Physics and Astronomy"
+   ],
+   "cited_by_count": 3,
+   "doi": "10.1088/1361-6455/aebb7c",
+   "is_retracted": false,
+   "keywords": [
+    "long-range interactions",
+    "dipole-dipole interaction",
+    "van der Waals interactions",
+    "Rydberg blockade",
+    "intermediate state"
+   ],
+   "language": "en",
+   "oa_created": "2022-09-21",
+   "peer_reviewed": true,
+   "publication": "Journal of Physics B Atomic Molecular and Optical Physics",
+   "publication_type": "article",
+   "published_date": "2026-11-11",
+   "related_versions": [],
+   "source_ids": [
+    "openalex:W4296563520"
+   ],
+   "title": "Tuning long-range interactions in Sr Rydberg atoms: the effect of series perturbations",
+   "topics": [
+    "Cold Atom Physics and Bose-Einstein Condensates",
+    "Atomic and Molecular Physics, and Optics"
+   ],
+   "updated_date": "2026-11-13",
+   "url": "https://doi.org/10.1088/1361-6455/aebb7c"
+  },
+  "score": 5.82,
+  "seen": 1,
+  "suggested": "neutral-atom-qubits",
+  "title": "Tuning long-range interactions in Sr Rydberg atoms: the effect of series perturbations",
+  "url": "https://doi.org/10.1088/1361-6455/aebb7c"
+ },
+ {
+  "added": "2026-11-14",
+  "arxiv": "2604.00745",
+  "candidates": [
+   [
+    "quantum-simulation",
+    5.5
+   ],
+   [
+    "molecular-physics",
+    3.1
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.1038/s41467-026-79032-4",
+  "keys": [
+   "arxiv:2604.00745",
+   "doi:10.1038/s41467-026-79032-4",
+   "title:probingtopologicaledgestatesinamolecularsyntheticdimension|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Abstract Synthetic dimensions, where additional spatial dimensions are encoded within the internal states of a quantum system, allow the realisation of phenomena usually inaccessible in experiments. Ultracold polar molecules are an ideal platform for synthetic dimensions, providing large Hilbert spaces of long-lived rotational and hyperfine states that can be linked with microwave fields to simulate tunnelling. Here, we realise a one-dimensional synthetic lattice using the rotational states of ultracold RbCs molecules and investigate the topological properties of the Su-Schrieffer-Heeger model. We spectroscopically probe the system using an auxiliary rotational state and study the time dynamics after deterministic state preparation. We demonstrate long coherence times, reaching ~ 500 tunnelling periods even for lattices spanning eight rotational states. Using full site-resolved readout over long evolution times, we study the robustness of topologically protected edge states against perturbations that preserve or break chiral symmetry. These results establish ultracold molecules as a powerful platform for quantum simulation using synthetic dimensions.",
+   "abstract_license": "cc-by",
+   "arxiv": "2604.00745",
+   "authors": [
+    "Adarsh P. Raghuram",
+    "Francesca M. Blondell",
+    "Jonathan M. Mortlock",
+    "Benjamin Maddox",
+    "Sohail Dasgupta",
+    "Holly A. J. Middleton-Spencer",
+    "Kaden R. A. Hazzard",
+    "Hannah M. Price",
+    "Philip D. Gregory",
+    "Simon L. Cornish"
+   ],
+   "categories": [
+    "OpenAlex-field:Physics and Astronomy"
+   ],
+   "cited_by_count": 6,
+   "doi": "10.1038/s41467-026-79032-4",
+   "is_retracted": false,
+   "keywords": [
+    "synthetic dimensions",
+    "topological edge states",
+    "Su-Schrieffer-Heeger model",
+    "ultracold polar molecules",
+    "RbCs molecules",
+    "rotational states",
+    "chiral symmetry",
+    "coherence time",
+    "quantum simulation",
+    "topological protection"
+   ],
+   "language": "en",
+   "oa_created": "2026-04-03",
+   "peer_reviewed": true,
+   "publication": "Nature Communications",
+   "publication_type": "article",
+   "published_date": "2026-11-11",
+   "related_versions": [],
+   "source_ids": [
+    "openalex:W7148612857"
+   ],
+   "title": "Probing topological edge states in a molecular synthetic dimension",
+   "topics": [
+    "Cold Atom Physics and Bose-Einstein Condensates",
+    "Atomic and Molecular Physics, and Optics"
+   ],
+   "updated_date": "2026-11-13",
+   "url": "https://doi.org/10.1038/s41467-026-79032-4"
+  },
+  "score": 5.5,
+  "seen": 1,
+  "suggested": "quantum-simulation",
+  "title": "Probing topological edge states in a molecular synthetic dimension",
+  "url": "https://doi.org/10.1038/s41467-026-79032-4"
+ },
+ {
   "added": "2026-11-08",
   "arxiv": null,
   "candidates": [
@@ -1767,6 +2516,72 @@
   "suggested": "temporal-difference-learning",
   "title": "Understanding the Asymptotic Transience of Q-Learning via Distributional Expansion",
   "url": "https://arxiv.org/abs/2611.14926"
+ },
+ {
+  "added": "2026-11-14",
+  "arxiv": "2601.06345",
+  "candidates": [
+   [
+    "neutral-atom-qubits",
+    7.23
+   ],
+   [
+    "metrology",
+    0.26
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2601.06345",
+   "title:controllingrydbergatompolaritoninteractionsfromexceptionalpointstofastreadout|2026"
+  ],
+  "reason": "backlog'dan: güven düştü (taksonomi değişmiş olabilir)",
+  "record": {
+   "abstract": "Rydberg atoms represent a platform underpinning many recent developments in quantum computation, simulation, sensing, and metrology. They further facilitate optical nonlinearity at the single-photon level when coupled to photons propagating in atomic clouds, which form collective atomic excitations called Rydberg polaritons, strongly interacting with each other. Here, we experimentally explore interactions between a Rydberg polariton in an atomic ensemble and a single, adjacent, Rydberg atom. We discover three different regimes of quantum dynamics corresponding to polariton blockade, coherent exchange, and probabilistic hopping, which are defined by their distinct transmission characteristics, with a transition through an exceptional point occurring between blockade and coherent exchange. We investigate the applications of such interactions for fast, non-destructive detection of Rydberg atoms and present proof-of-principle demonstrations for their potential application in nonlinear photonic networks.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2601.06345",
+   "authors": [
+    "Tamara Šumarac",
+    "Emily H. Qiu",
+    "Shai Tsesses",
+    "Peiran Niu",
+    "Adrian J. Menssen",
+    "Wenchao Xu",
+    "Valentin Walther",
+    "Uroš Delić",
+    "Soonwon Choi",
+    "Mikhail D. Lukin",
+    "Vladan Vuletić"
+   ],
+   "categories": [
+    "arXiv:physics.atom-ph",
+    "arXiv:cond-mat.quant-gas",
+    "arXiv:quant-ph"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-01-09",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2601.06345"
+   ],
+   "title": "Controlling Rydberg atom-polariton interactions: from exceptional points to fast readout",
+   "topics": [],
+   "updated_date": "2026-01-09",
+   "url": "https://arxiv.org/abs/2601.06345"
+  },
+  "score": 7.23,
+  "seen": 1,
+  "suggested": "neutral-atom-qubits",
+  "title": "Controlling Rydberg atom-polariton interactions: from exceptional points to fast readout",
+  "url": "https://arxiv.org/abs/2601.06345"
  },
  {
   "added": "2026-11-09",
@@ -2263,6 +3078,75 @@
   "url": "https://doi.org/10.1103/r6ys-4mhk"
  },
  {
+  "added": "2026-11-14",
+  "arxiv": "2406.07861",
+  "candidates": [
+   [
+    "cosmic-microwave-background",
+    4.76
+   ],
+   [
+    "astronomy-and-astrophysics",
+    3.7
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.3847/2041-8213/aebb26",
+  "keys": [
+   "arxiv:2406.07861",
+   "doi:10.3847/2041-8213/aebb26",
+   "title:ameasurementofco32lineemissionfromebossgalaxiesatz05usingplanckdata|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Abstract Line intensity mapping (LIM) is a novel observational technique in astrophysics that utilizes the integrated emission from multiple atomic and molecular transition lines from galaxies to probe the complex physics of galaxy formation and evolution, as well as the large-scale structure of the Universe. Modeling multiple line luminosities of galaxies with varying masses or their host halo masses poses significant uncertainty due to the lack of observational data across a wide redshift range and the intricate nature of astrophysical processes, making them challenging to model analytically or in simulations. While future experiments aim to measure multiple line intensities up to z ∼ 8 across a wide volume using tomographic methods, we leverage publicly available datasets from the cosmic microwave background (CMB) experiment Planck and the galaxy survey eBOSS to constrain the CO(3–2) emission from galaxies. We stack galaxies on the Planck CO(2–1) map and measure galaxy-correlated emission at z ∼ 0.5. Its interpretation as CO(3–2) depends on the continuum model, spectral response, and background treatment, which turns into the signal detection confidence between 2.2 σ and 3.4 σ . Our findings demonstrate that stacking methods are already viable with existing observations from CMB experiments and galaxy surveys, and are complementary to traditional LIM experiments.",
+   "abstract_license": "cc-by",
+   "arxiv": "2406.07861",
+   "authors": [
+    "Anirban Roy",
+    "Nicholas Battaglia",
+    "Anthony R. Pullen"
+   ],
+   "categories": [
+    "OpenAlex-field:Physics and Astronomy"
+   ],
+   "cited_by_count": 6,
+   "doi": "10.3847/2041-8213/aebb26",
+   "is_retracted": false,
+   "keywords": [
+    "CO(3-2) emission",
+    "line intensity mapping",
+    "galaxy stacking",
+    "galaxy formation and evolution",
+    "large-scale structure",
+    "continuum model",
+    "spectral response"
+   ],
+   "language": "en",
+   "oa_created": "2024-06-14",
+   "peer_reviewed": true,
+   "publication": "The Astrophysical Journal Letters",
+   "publication_type": "article",
+   "published_date": "2026-11-11",
+   "related_versions": [],
+   "source_ids": [
+    "openalex:W4399657358"
+   ],
+   "title": "A Measurement of CO(3–2) Line Emission from eBOSS Galaxies at z ∼ 0.5 Using Planck Data",
+   "topics": [
+    "Galaxies: Formation, Evolution, Phenomena",
+    "Astronomy and Astrophysics"
+   ],
+   "updated_date": "2026-11-13",
+   "url": "https://doi.org/10.3847/2041-8213/aebb26"
+  },
+  "score": 4.76,
+  "seen": 1,
+  "suggested": "cosmic-microwave-background",
+  "title": "A Measurement of CO(3–2) Line Emission from eBOSS Galaxies at z ∼ 0.5 Using Planck Data",
+  "url": "https://doi.org/10.3847/2041-8213/aebb26"
+ },
+ {
   "added": "2026-11-11",
   "arxiv": "2611.11768",
   "candidates": [
@@ -2384,6 +3268,165 @@
   "suggested": "finite-volume-method",
   "title": "A NURBS-enhanced high-order finite-volume method for compressible laminar boundary layers on curved domains with hybrid meshes",
   "url": "https://arxiv.org/abs/2611.13463"
+ },
+ {
+  "added": "2026-11-14",
+  "arxiv": "2504.07099",
+  "candidates": [
+   [
+    "time-series-analysis",
+    6.6
+   ],
+   [
+    "deep-learning",
+    3.74
+   ],
+   [
+    "neural-operators",
+    3.1
+   ],
+   [
+    "data-structures",
+    3.1
+   ],
+   [
+    "machine-learning",
+    3.1
+   ],
+   [
+    "fourier-analysis",
+    1.7
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2504.07099",
+   "title:timeseriesanalysisinfrequencydomainasurveyofopenchallengesopportunitiesandbenchmarks|2025"
+  ],
+  "reason": "backlog'dan: güven düştü (taksonomi değişmiş olabilir)",
+  "record": {
+   "abstract": "Frequency-domain analysis has emerged as a powerful paradigm for time series analysis, offering unique advantages over traditional time-domain approaches while introducing new theoretical and practical challenges. This survey provides a comprehensive examination of spectral methods from classical Fourier analysis to modern neural operators, systematically summarizing three open challenges in current research: (1) causal structure preservation during spectral transformations, (2) uncertainty quantification in learned frequency representations, and (3) topology-aware analysis for non-Euclidean data structures. Through rigorous reviewing of over 100 studies, we develop a unified taxonomy that bridges conventional spectral techniques with cutting-edge machine learning approaches, while establishing standardized benchmarks for performance evaluation. Our work identifies key knowledge gaps in the field, particularly in geometric deep learning and quantum-enhanced spectral analysis. The survey offers practitioners a systematic framework for method selection and implementation, while charting promising directions for future research in this rapidly evolving domain.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2504.07099",
+   "authors": [
+    "Qianru Zhang",
+    "Yuting Sun",
+    "Honggang Wen",
+    "Peng Yang",
+    "Xinzhu Li",
+    "Ming Li",
+    "Kwok-Yan Lam",
+    "Siu-Ming Yiu",
+    "Hongzhi Yin"
+   ],
+   "categories": [
+    "arXiv:cs.CE",
+    "arXiv:cs.LG"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2025-02-12",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2504.07099"
+   ],
+   "title": "Time Series Analysis in Frequency Domain: A Survey of Open Challenges, Opportunities and Benchmarks",
+   "topics": [],
+   "updated_date": "2026-09-11",
+   "url": "https://arxiv.org/abs/2504.07099"
+  },
+  "score": 6.6,
+  "seen": 1,
+  "suggested": "time-series-analysis",
+  "title": "Time Series Analysis in Frequency Domain: A Survey of Open Challenges, Opportunities and Benchmarks",
+  "url": "https://arxiv.org/abs/2504.07099"
+ },
+ {
+  "added": "2026-11-14",
+  "arxiv": null,
+  "candidates": [
+   [
+    "electrical-and-electronic-engineering",
+    4.3
+   ],
+   [
+    "energy-storage",
+    3.0
+   ],
+   [
+    "flow-batteries",
+    2.4
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.1038/s41586-026-11282-0",
+  "keys": [
+   "doi:10.1038/s41586-026-11282-0",
+   "title:nonhalogenaqueouselectrolytesforfourelectroniodineconversion|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Abstract Accessing reversible four-electron iodine redox chemistry in aqueous metal–iodine batteries offers a promising route towards high-energy aqueous energy storage, but has conventionally relied on highly concentrated, corrosive halogen-containing electrolytes to stabilize reactive hypervalent iodine cations through interhalogen complexation 1–9 . Here we show a kosmotropic anion–polar anion–nucleophilic species (Nuc) electrolyte framework that harnesses anionic chemistry to coordinate the interfacial microenvironment and molecular interactions, enabling reversible four-electron iodine conversion in halogen-free aqueous electrolytes. Polar anions establish a water-deficient, anion-enriched interfacial microenvironment, whereas kosmotropic anions regulate water–Nuc interactions to increase the availability of Nuc for stabilizing hypervalent iodine cations through Nuc–I + –Nuc halogen bonds. This electrolyte framework is validated across diverse Nuc and in both aqueous Zn–I 2 and Al–I 2 batteries. Moving beyond conventional interhalogen stabilization, these findings establish a distinct electrolyte chemistry framework and represent a mechanistic shift for reversible multi-electron iodine chemistry in aqueous environments.",
+   "abstract_license": "cc-by",
+   "arxiv": null,
+   "authors": [
+    "Guanjie He",
+    "Haobo Dong",
+    "Yuhang Dai",
+    "Jingyu Wang",
+    "Jie Chen",
+    "Jiyang Liu",
+    "Jianrui Feng",
+    "Yunpeng Zhong",
+    "Yunpeng Zhong",
+    "Wei Zhang",
+    "Hang Yang",
+    "Zhe Cui",
+    "Guanjie He"
+   ],
+   "categories": [
+    "OpenAlex-field:Engineering"
+   ],
+   "cited_by_count": 11,
+   "doi": "10.1038/s41586-026-11282-0",
+   "is_retracted": false,
+   "keywords": [
+    "kosmotropic anions",
+    "nucleophilic anions",
+    "halogen bonding",
+    "interfacial microenvironment",
+    "aqueous energy storage"
+   ],
+   "language": "en",
+   "oa_created": "2025-10-10",
+   "peer_reviewed": true,
+   "publication": "Nature",
+   "publication_type": "article",
+   "published_date": "2026-11-11",
+   "related_versions": [],
+   "source_ids": [
+    "openalex:W4410835161"
+   ],
+   "title": "Non-halogen aqueous electrolytes for four-electron iodine conversion",
+   "topics": [
+    "Aqueous and Flow Batteries",
+    "Electrical and Electronic Engineering"
+   ],
+   "updated_date": "2026-11-13",
+   "url": "https://doi.org/10.1038/s41586-026-11282-0"
+  },
+  "score": 4.3,
+  "seen": 1,
+  "suggested": "electrical-and-electronic-engineering",
+  "title": "Non-halogen aqueous electrolytes for four-electron iodine conversion",
+  "url": "https://doi.org/10.1038/s41586-026-11282-0"
  },
  {
   "added": "2026-11-08",
@@ -3752,6 +4795,166 @@
   "url": "https://arxiv.org/abs/2611.14918"
  },
  {
+  "added": "2026-11-14",
+  "arxiv": null,
+  "candidates": [
+   [
+    "cellular-and-molecular-neuroscience",
+    4.3
+   ],
+   [
+    "neuropharmacology",
+    2.2
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.1038/s41467-026-78702-7",
+  "keys": [
+   "doi:10.1038/s41467-026-78702-7",
+   "title:experiencemodifiesthesynaptomearchitectureinthedevelopingandadultmousebrain|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Synaptome architecture describes the spatiotemporal distribution of highly diverse excitatory synapses throughout the brain. Whether and how this architecture is impacted by experience and sensory input is unknown. We found that environmental enrichment and monocular visual deprivation drive large-scale reconfiguration of excitatory synapse populations in more than one hundred regions of the mouse brain. Different experiences modify distinct subsets of synapse types and subtypes, with patterns aligned with protein turnover rates and connectome architecture. Similarity in experience-dependent reconfiguration during development and adulthood indicates shared mechanisms of synaptome adaptation across the lifespan. Our findings support a population-selection model in which experiences drive adaptation by selectively modifying synapse types and subtypes distributed across the brain. Experience-driven reconfiguration of synaptome architecture shares features with the response to aging, sleep deprivation, brain injury and genetic mutations, supporting a unifying principle of brain adaptation.",
+   "abstract_license": "cc-by",
+   "arxiv": null,
+   "authors": [
+    "Hanan Woods",
+    "Ülkü Günar",
+    "Sarah Catherine Gillard",
+    "Beverley Notman",
+    "Kunhao Yuan",
+    "Digin Dominic",
+    "Emily Robson",
+    "Gabor Varga",
+    "Noboru H. Komiyama",
+    "Zhen Qiu",
+    "Frank Sengpiel",
+    "Seth G. N. Grant"
+   ],
+   "categories": [
+    "OpenAlex-field:Neuroscience"
+   ],
+   "cited_by_count": 6,
+   "doi": "10.1038/s41467-026-78702-7",
+   "is_retracted": false,
+   "keywords": [
+    "excitatory synapses",
+    "environmental enrichment",
+    "experience-dependent plasticity",
+    "protein turnover",
+    "brain development",
+    "adult brain",
+    "brain adaptation",
+    "mouse brain"
+   ],
+   "language": "en",
+   "oa_created": "2026-10-15",
+   "peer_reviewed": true,
+   "publication": "Nature Communications",
+   "publication_type": "article",
+   "published_date": "2026-11-11",
+   "related_versions": [],
+   "source_ids": [
+    "openalex:W7221846626"
+   ],
+   "title": "Experience modifies the synaptome architecture in the developing and adult mouse brain",
+   "topics": [
+    "Neuroscience and Neuropharmacology Research",
+    "Cellular and Molecular Neuroscience"
+   ],
+   "updated_date": "2026-11-13",
+   "url": "https://doi.org/10.1038/s41467-026-78702-7"
+  },
+  "score": 4.3,
+  "seen": 1,
+  "suggested": "cellular-and-molecular-neuroscience",
+  "title": "Experience modifies the synaptome architecture in the developing and adult mouse brain",
+  "url": "https://doi.org/10.1038/s41467-026-78702-7"
+ },
+ {
+  "added": "2026-11-14",
+  "arxiv": "2512.01507",
+  "candidates": [
+   [
+    "large-language-models",
+    4.46
+   ],
+   [
+    "organic-chemistry",
+    3.6
+   ],
+   [
+    "drug-discovery",
+    3.5
+   ],
+   [
+    "clustering",
+    0.26
+   ],
+   [
+    "analysis",
+    0.26
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.1021/acs.jcim.6c01688",
+  "keys": [
+   "arxiv:2512.01507",
+   "doi:10.1021/acs.jcim.6c01688",
+   "title:synthstrategyextractingandformalizinglatentstrategicinsightsfromllmsinorganicchemistry|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Modern computer-assisted synthesis planning (CASP) systems show promise at generating chemically valid reaction steps but struggle to incorporate strategic considerations such as convergent assembly, protecting-group minimization, and optimal ring-forming sequences. We introduce a methodology that leverages Large Language Models (LLMs) to distill synthetic knowledge into code. Our system analyzes synthesis routes and translates strategic principles into executable Python functions representing diverse strategic and tactical rules, such as strategic functional group interconversions, protecting strategies and ring construction features. We validate the use of LLM-as-a-judge in this domain, demonstrating their efficacy in evaluating synthesis-specific code generation. By formalizing this knowledge as verifiable code rather than simple heuristics, we create testable, interpretable representations of synthetic strategy. We release the complete codebase and the USPTO-ST data set─synthesis routes annotated with strategic tags. This framework unlocks a novel capability for CASP: natural language-based route retrieval, achieving 74.5% Top-3 accuracy on our benchmark. We further validate our library through temporal analysis of historical trends and chemically intuitive route clustering that offers more granular partitioning than common previous methods. This work bridges the tactical-strategic divide in CASP, enabling specification, search, and evaluation of routes by strategic criteria rather than structure alone.",
+   "abstract_license": "cc-by",
+   "arxiv": "2512.01507",
+   "authors": [
+    "D. M. Armstrong",
+    "Zlatko Jončev",
+    "Andres M Bran",
+    "Xuan Vu Nguyen",
+    "Théo A. Neukomm",
+    "Philippe Schwaller"
+   ],
+   "categories": [
+    "OpenAlex-field:Pharmacology, Toxicology and Pharmaceutics"
+   ],
+   "cited_by_count": 4,
+   "doi": "10.1021/acs.jcim.6c01688",
+   "is_retracted": false,
+   "keywords": [
+    "large language models",
+    "LLM-as-a-judge",
+    "protecting groups",
+    "convergent synthesis",
+    "functional group interconversion"
+   ],
+   "language": "en",
+   "oa_created": "2025-12-03",
+   "peer_reviewed": true,
+   "publication": "Journal of Chemical Information and Modeling",
+   "publication_type": "article",
+   "published_date": "2026-11-11",
+   "related_versions": [],
+   "source_ids": [
+    "openalex:W4416965058"
+   ],
+   "title": "SynthStrategy: Extracting and Formalizing Latent Strategic Insights from LLMs in Organic Chemistry",
+   "topics": [
+    "Computational Drug Discovery Methods",
+    "Drug Discovery"
+   ],
+   "updated_date": "2026-11-13",
+   "url": "https://doi.org/10.1021/acs.jcim.6c01688"
+  },
+  "score": 4.46,
+  "seen": 1,
+  "suggested": "large-language-models",
+  "title": "SynthStrategy: Extracting and Formalizing Latent Strategic Insights from LLMs in Organic Chemistry",
+  "url": "https://doi.org/10.1021/acs.jcim.6c01688"
+ },
+ {
   "added": "2026-11-05",
   "arxiv": "2611.04499",
   "candidates": [
@@ -3820,6 +5023,95 @@
   "suggested": "nonlinear-model-predictive-control",
   "title": "Supervised Residual NMPC in Force-Disturbed Quadrotors",
   "url": "https://arxiv.org/abs/2611.04499"
+ },
+ {
+  "added": "2026-11-14",
+  "arxiv": "2411.01417",
+  "candidates": [
+   [
+    "electrical-and-electronic-engineering",
+    4.3
+   ],
+   [
+    "statics-and-dynamics",
+    3.7
+   ],
+   [
+    "convolutional-neural-networks",
+    2.48
+   ],
+   [
+    "computer-integrated-manufacturing",
+    2.1
+   ],
+   [
+    "quantization",
+    0.75
+   ],
+   [
+    "sram",
+    0.52
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.1145/3860531",
+  "keys": [
+   "arxiv:2411.01417",
+   "doi:10.1145/3860531",
+   "title:bfimnaabitfluidinmemoryneuralarchitectureforneuralnetworkacceleration|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Mixed-precision quantization, which assigns precisions per-layer, per-network, per-channel, or per-parameter, is gaining traction for efficient Neural Network (NN) realization with higher throughput and lower energy. Unlike conventional fixed-precision accelerators, BF-IMNA advances the mixed-precision design space through an AP-based in-memory implementation. We present BF-IMNA, a bit fluid IMC accelerator for end-to-end Convolutional NN inference supporting static and dynamic mixed-precision without run-time reconfiguration overhead. At its heart are Associative Processors (APs), bit-serial word-parallel SIMD-like engines. We evaluate ImageNet inference with AlexNet, VGG16, and ResNet50 across SRAM and ReRAM CAM cells, mixed-precision configurations, and supply voltages. To demonstrate bit fluidity, we apply HAWQ-V3's published ResNet18 schedules to the BF-IMNA cost model and pair them with HAWQ-V3's published accuracies and model sizes. The results reveal an accuracy–Energy-Delay Product trade-off. The high-latency point is \\(1.16\\) points below INT8 accuracy with \\(1.13\\times\\) better EDP, while the low-latency point has \\(1.91\\times\\) better EDP and a \\(45.5\\%\\) smaller model at a \\(3.00\\) -point accuracy reduction. At 500-MHz, true-batch-one comparison, BitFusion provides lower absolute energy and latency, while BF-IMNA provides lower average power at all five operating points, \\(2106\\times\\) greater on-chip weight capacity ( \\(32.8\\times\\) per unit modeled area), and larger relative energy reductions at aggressive INT4 and low-latency HAWQ points.",
+   "abstract_license": null,
+   "arxiv": "2411.01417",
+   "authors": [
+    "Mariam Rakka",
+    "Rachid Karami",
+    "Ahmed M. Eltawil",
+    "Mohammed E. Fouda",
+    "Fadi J Kurdahi"
+   ],
+   "categories": [
+    "OpenAlex-field:Engineering"
+   ],
+   "cited_by_count": 5,
+   "doi": "10.1145/3860531",
+   "is_retracted": false,
+   "keywords": [
+    "in-memory computing",
+    "mixed-precision quantization",
+    "associative processors",
+    "convolutional neural network inference",
+    "neural network accelerators",
+    "INT4 quantization",
+    "AlexNet",
+    "VGG16",
+    "ResNet50"
+   ],
+   "language": "en",
+   "oa_created": "2024-11-14",
+   "peer_reviewed": true,
+   "publication": "ACM Journal on Emerging Technologies in Computing Systems",
+   "publication_type": "article",
+   "published_date": "2026-11-11",
+   "related_versions": [],
+   "source_ids": [
+    "openalex:W4404352529"
+   ],
+   "title": "BF-IMNA: A Bit Fluid In-Memory Neural Architecture for Neural Network Acceleration",
+   "topics": [
+    "Advanced Memory and Neural Computing",
+    "Electrical and Electronic Engineering"
+   ],
+   "updated_date": "2026-11-13",
+   "url": "https://doi.org/10.1145/3860531"
+  },
+  "score": 4.3,
+  "seen": 1,
+  "suggested": "electrical-and-electronic-engineering",
+  "title": "BF-IMNA: A Bit Fluid In-Memory Neural Architecture for Neural Network Acceleration",
+  "url": "https://doi.org/10.1145/3860531"
  },
  {
   "added": "2026-11-06",
@@ -4653,6 +5945,83 @@
   "suggested": "nanoparticles",
   "title": "Influence analysis of the energy and structural properties of silver nanoparticles on their elastic characteristics",
   "url": "https://doi.org/10.17586/2220-8054-2026-17-5-610-620"
+ },
+ {
+  "added": "2026-11-14",
+  "arxiv": "2605.25473",
+  "candidates": [
+   [
+    "quantum-field-theory",
+    4.12
+   ],
+   [
+    "number-theory",
+    3.1
+   ],
+   [
+    "algebra",
+    2.81
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.1007/jhep11(2026)101",
+  "keys": [
+   "arxiv:2605.25473",
+   "doi:10.1007/jhep11(2026)101",
+   "title:thediagrammarofquantummagnusian|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "A bstract The logarithm of the time-evolution operator has been termed Magnusian, on account of the fact that its expansion describes the Magnus series. The diagrammatic expansion and computation of the classical Magnusian have been completely established in terms of tree graphs and their Hopf algebra. Recent works initiated extensions into quantum field theory, revealing general structures of loop expansions while finding intriguing relations between different diagrams. In this work, we advance the loop expansion further by providing an efficient diagrammatic algorithm to calculate the weight factor of each graph in the quantum Magnusian, known as the Murua coefficient. This is achieved by incorporating two complementary perspectives on the Magnusian at the same time: the color basis and the black-and-white basis. We extract the Murua coefficients from the Magnus series by utilizing these two bases while implementing an exponentiated Wick contraction. In turn, we identify the loop-level extension of Murua’s recursive formula. Eventually, we establish a set of edge-contraction rules which facilitate a direct recursive computation of the Murua coefficients at the purely diagrammatic level, without referencing or directly manipulating the underlying Magnus expansion. This shows that the matrix elements of the quantum Magnusian can be computed from graph manipulations alone.",
+   "abstract_license": "cc-by",
+   "arxiv": "2605.25473",
+   "authors": [
+    "Li Guo",
+    "Joon-Hwi Kim",
+    "Jung-Wook Kim",
+    "Sungsoo Kim",
+    "Sangmin Lee",
+    "Jian-Rong Li"
+   ],
+   "categories": [
+    "OpenAlex-field:Mathematics"
+   ],
+   "cited_by_count": 3,
+   "doi": "10.1007/jhep11(2026)101",
+   "is_retracted": false,
+   "keywords": [
+    "evolution operator",
+    "loop expansion",
+    "diagrammatic expansion",
+    "tree graphs",
+    "Hopf algebras",
+    "Wick contractions",
+    "recursive formula",
+    "quantum field theory"
+   ],
+   "language": "en",
+   "oa_created": "2026-05-27",
+   "peer_reviewed": true,
+   "publication": "Journal of High Energy Physics",
+   "publication_type": "article",
+   "published_date": "2026-11-11",
+   "related_versions": [],
+   "source_ids": [
+    "openalex:W7162411777"
+   ],
+   "title": "The diagrammar of quantum Magnusian",
+   "topics": [
+    "Advanced Topics in Algebra",
+    "Algebra and Number Theory"
+   ],
+   "updated_date": "2026-11-13",
+   "url": "https://doi.org/10.1007/jhep11(2026)101"
+  },
+  "score": 4.12,
+  "seen": 1,
+  "suggested": "quantum-field-theory",
+  "title": "The diagrammar of quantum Magnusian",
+  "url": "https://doi.org/10.1007/jhep11(2026)101"
  },
  {
   "added": "2026-11-09",
@@ -5642,6 +7011,90 @@
   "url": "https://doi.org/10.1002/acn3.70563"
  },
  {
+  "added": "2026-11-14",
+  "arxiv": "2606.14671",
+  "candidates": [
+   [
+    "astronomy-and-astrophysics",
+    3.7
+   ],
+   [
+    "analysis",
+    0.26
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.1093/mnras/stag2176",
+  "keys": [
+   "arxiv:2606.14671",
+   "doi:10.1093/mnras/stag2176",
+   "title:fromthesanzoomtojwstpredictingionizingphotonescapeandtheriseofuvbrightreionizationsources|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Abstract Understanding the sources and evolution of cosmic reionization remains a central challenge in astrophysics, with the escape of ionizing Lyman-continuum (LyC) photons from early galaxies representing a major uncertainty. In this work, we use more than 35,000 galaxy realisations from the thesan-zoom cosmological radiation-hydrodynamic simulations to identify indirect diagnostics of the LyC photon escape fraction (fesc) and the LyC photon escape rate ($\\dot{N}_\\mathrm{ion,esc}$) across the redshift range z = 3 − 16. We train random forest regression models using these diagnostics to predict both quantities. We present four models: two trained with the full set of simulation-derived indicators to predict fesc and $\\dot{N}_\\mathrm{ion,esc}$, and two restricted to observables accessible to JWST photometric surveys. We find the 10-to-100 Myr star-formation rate ratio (SFR10/SFR100) and the gas-to-stellar mass ratio (Mgas/M*) to be the strongest diagnostics of fesc, suggesting a strong relationship between ionizing photon escape and gas clearing through bursty star formation. In contrast, rest-frame UV (1500 Å) absolute magnitude (MUV) dominates $\\dot{N}_\\mathrm{ion,esc}$ prediction. Motivated by the strong predictive power of MUV, we combine observed UV luminosity functions with derived $\\dot{N}_\\mathrm{ion,esc} - M_\\mathrm{UV}$ relations to construct histories of reionization. These are consistent with observational constraints, avoiding the recently reported crisis in the ionizing photon budget. Our analysis suggests that the bulk of reionization occurred rapidly after z ≈ 8, driven by UV-bright galaxies, with the MUV < −17 populations providing the dominant contribution.",
+   "abstract_license": "cc-by",
+   "arxiv": "2606.14671",
+   "authors": [
+    "Zebedee Summerfield",
+    "William McClymont",
+    "Sandro Tacchella",
+    "Aaron Smith",
+    "Rahul Kannan",
+    "Enrico Garaldi",
+    "Ewald Puchwein",
+    "Xuejian Shen",
+    "Josh Borrow",
+    "A. Lola Danhaive",
+    "Laura C. Keating",
+    "Gabriel Maheson",
+    "P. Mehrotra",
+    "Charlotte Simmonds",
+    "Amanda Stoffers",
+    "Mark Vogelsberger",
+    "Oliver Zier"
+   ],
+   "categories": [
+    "OpenAlex-field:Physics and Astronomy"
+   ],
+   "cited_by_count": 5,
+   "doi": "10.1093/mnras/stag2176",
+   "is_retracted": false,
+   "keywords": [
+    "cosmic reionization",
+    "ionizing photon escape fraction",
+    "UV-bright galaxies",
+    "random forest regression",
+    "gas-to-stellar mass ratio",
+    "UV luminosity function",
+    "reionization history",
+    "ionizing photon budget"
+   ],
+   "language": "en",
+   "oa_created": "2026-06-16",
+   "peer_reviewed": true,
+   "publication": "Monthly Notices of the Royal Astronomical Society",
+   "publication_type": "article",
+   "published_date": "2026-11-11",
+   "related_versions": [],
+   "source_ids": [
+    "openalex:W7164853185"
+   ],
+   "title": "From thesan-zoom to JWST: Predicting ionizing photon escape and the rise of UV-bright reionization sources",
+   "topics": [
+    "Galaxies: Formation, Evolution, Phenomena",
+    "Astronomy and Astrophysics"
+   ],
+   "updated_date": "2026-11-13",
+   "url": "https://doi.org/10.1093/mnras/stag2176"
+  },
+  "score": 3.7,
+  "seen": 1,
+  "suggested": "astronomy-and-astrophysics",
+  "title": "From thesan-zoom to JWST: Predicting ionizing photon escape and the rise of UV-bright reionization sources",
+  "url": "https://doi.org/10.1093/mnras/stag2176"
+ },
+ {
   "added": "2026-11-07",
   "arxiv": "2611.07465",
   "candidates": [
@@ -5833,6 +7286,72 @@
   "url": "https://arxiv.org/abs/2611.05781"
  },
  {
+  "added": "2026-11-14",
+  "arxiv": "2411.14442",
+  "candidates": [
+   [
+    "artificial-intelligence",
+    3.1
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.1007/s43681-026-01492-7",
+  "keys": [
+   "arxiv:2411.14442",
+   "doi:10.1007/s43681-026-01492-7",
+   "title:aiethicsbydesignimplementingcustomizableguardrailsforresponsibleaidevelopment|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "This paper explores the development of an ethical guardrail framework for AI systems, emphasizing the importance of customizable guardrails that align with diverse user values and underlying ethics. We address the challenges of AI ethics by proposing a structure that integrates rules, policies, and AI assistants to ensure responsible AI behavior, while comparing the proposed framework to the existing state-of-the-art guardrails. By focusing on practical mechanisms for implementing ethical standards, we aim to enhance transparency, user autonomy, and continuous improvement in AI systems. Our approach accommodates ethical pluralism, offering a flexible and adaptable solution for the evolving landscape of AI governance. The paper concludes with strategies for resolving conflicts between ethical directives, underscoring the present and future need for robust, nuanced and context-aware AI systems.",
+   "abstract_license": null,
+   "arxiv": "2411.14442",
+   "authors": [
+    "Kristina Šekrst",
+    "Jeremy McHugh",
+    "Jonathan Rodriguez Cefalù"
+   ],
+   "categories": [
+    "OpenAlex-field:Computer Science"
+   ],
+   "cited_by_count": 17,
+   "doi": "10.1007/s43681-026-01492-7",
+   "is_retracted": false,
+   "keywords": [
+    "ethical guardrails",
+    "responsible AI development",
+    "moral pluralism",
+    "AI governance",
+    "AI assistants",
+    "user autonomy",
+    "transparency",
+    "ethical conflict resolution"
+   ],
+   "language": "en",
+   "oa_created": "2024-11-29",
+   "peer_reviewed": true,
+   "publication": "AI and Ethics",
+   "publication_type": "article",
+   "published_date": "2026-11-11",
+   "related_versions": [],
+   "source_ids": [
+    "openalex:W4404834751"
+   ],
+   "title": "AI ethics by design: implementing customizable guardrails for responsible AI development",
+   "topics": [
+    "Ethics and Social Impacts of AI",
+    "Artificial Intelligence"
+   ],
+   "updated_date": "2026-11-13",
+   "url": "https://doi.org/10.1007/s43681-026-01492-7"
+  },
+  "score": 3.1,
+  "seen": 1,
+  "suggested": "artificial-intelligence",
+  "title": "AI ethics by design: implementing customizable guardrails for responsible AI development",
+  "url": "https://doi.org/10.1007/s43681-026-01492-7"
+ },
+ {
   "added": "2026-11-08",
   "arxiv": null,
   "candidates": [
@@ -5961,6 +7480,66 @@
   "url": "https://doi.org/10.1112/mtk.70138"
  },
  {
+  "added": "2026-11-14",
+  "arxiv": "2105.14541",
+  "candidates": [
+   [
+    "mathematical-physics",
+    3.1
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.1007/s00039-026-00759-9",
+  "keys": [
+   "arxiv:2105.14541",
+   "doi:10.1007/s00039-026-00759-9",
+   "title:zimmersconjecturefornonuniformlatticesescapeofmassandgrowthofcocycles|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "We establish finiteness of low-dimensional actions of lattices in higher-rank semisimple Lie groups and establish Zimmer’s conjecture for many such groups. This builds on previous work of the authors handling the case of actions by cocompact lattices and of actions by $\\operatorname{SL}(n,\\mathbb{Z})$ . While the results are not sharp in all cases, they do dramatically improve all known results. The key difficulty overcome in this paper concerns escape of mass when taking limits of sequences of measures. Due to a need to control Lyapunov exponents for unbounded cocycles when taking such limits, quantitative controls on the concentration of mass at infinity are need and novel techniques are introduced to avoid “escape of Lyapunov exponent.”",
+   "abstract_license": "cc-by-nc-nd",
+   "arxiv": "2105.14541",
+   "authors": [
+    "Aaron Brown",
+    "David Fisher",
+    "Sebastián Hurtado"
+   ],
+   "categories": [
+    "OpenAlex-field:Mathematics"
+   ],
+   "cited_by_count": 16,
+   "doi": "10.1007/s00039-026-00759-9",
+   "is_retracted": false,
+   "keywords": [
+    "non-uniform lattices",
+    "Lyapunov exponents"
+   ],
+   "language": "en",
+   "oa_created": "2022-07-25",
+   "peer_reviewed": true,
+   "publication": "Geometric and Functional Analysis",
+   "publication_type": "article",
+   "published_date": "2026-11-11",
+   "related_versions": [],
+   "source_ids": [
+    "openalex:W4287163521"
+   ],
+   "title": "Zimmer’s Conjecture for Non-uniform Lattices: Escape of Mass and Growth of Cocycles",
+   "topics": [
+    "Mathematical Dynamics and Fractals",
+    "Mathematical Physics"
+   ],
+   "updated_date": "2026-11-13",
+   "url": "https://doi.org/10.1007/s00039-026-00759-9"
+  },
+  "score": 3.1,
+  "seen": 1,
+  "suggested": "mathematical-physics",
+  "title": "Zimmer’s Conjecture for Non-uniform Lattices: Escape of Mass and Growth of Cocycles",
+  "url": "https://doi.org/10.1007/s00039-026-00759-9"
+ },
+ {
   "added": "2026-11-09",
   "arxiv": "2605.30513",
   "candidates": [
@@ -6040,6 +7619,83 @@
   "url": "https://doi.org/10.3847/1538-4357/aeb09c"
  },
  {
+  "added": "2026-11-14",
+  "arxiv": "2510.02432",
+  "candidates": [
+   [
+    "astronomy-and-astrophysics",
+    3.7
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.33232/001c.175199",
+  "keys": [
+   "arxiv:2510.02432",
+   "doi:10.33232/001c.175199",
+   "title:theentanglingofsupernovafeedbackimpactswithcoarseningsimulationresolution|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "It is often understood that supernova (SN) feedback in galaxies is responsible for regulating star formation (SF) and generating gaseous outflows. However, a detailed look at the small-scale effects of SNe on the interstellar medium (ISM) in simulations shows that the macroscopic processes of SF suppression and outflow generation proceed in distinct channels. We demonstrate this finding in two independent simulations of isolated dwarf galaxies with very high (m_gas ~ Msun) numerical resolution, LYRA and RIGEL. Our findings suggest that the macroscopic effect of a given SN on the galaxy is best predicted by its local density. Outflows are primarily linked to SNe in diffuse regions expanding to their cooling radii on large (~kpc) scales, while dense SF regions are disrupted in a localized (~pc) manner. However, these separate feedback channels are only distinguishable at very high resolutions capable of following mass scales ^2 . When averaging on coarser scales, ISM densities are greatly mis-estimated, and variations between different SF and SNe-affected regions are severely washed out. It therefore cannot be self-consistently determined, from coarse-resolution information alone , (1) whether a SN tends to contribute to outflows or direct SF suppression, and (2) the rate of SF in a given region. In particular, commonly used parameters in coarse-resolution (subgrid) models, such as the SN cooling radius and SF density threshold, may require more detailed treatments informed by high-resolution studies.",
+   "abstract_license": "cc-by",
+   "arxiv": "2510.02432",
+   "authors": [
+    "Eric Zhang",
+    "Laura V. Sales",
+    "Thales A. Gutcke",
+    "Yunwei Deng",
+    "Hui Li",
+    "Rüdiger Pakmor",
+    "Federico Marinacci",
+    "Volker Springel",
+    "Mark Vogelsberger",
+    "Paul Torrey",
+    "Boyuan Liu",
+    "Rahul Kannan",
+    "Aaron C. T. Smith",
+    "Greg L. Bryan"
+   ],
+   "categories": [
+    "OpenAlex-field:Physics and Astronomy"
+   ],
+   "cited_by_count": 4,
+   "doi": "10.33232/001c.175199",
+   "is_retracted": false,
+   "keywords": [
+    "supernova feedback",
+    "star formation regulation",
+    "galactic outflows",
+    "interstellar medium",
+    "dwarf galaxies",
+    "resolution dependence",
+    "subgrid-scale modeling",
+    "star formation suppression"
+   ],
+   "language": "en",
+   "oa_created": "2025-10-10",
+   "peer_reviewed": true,
+   "publication": "The Open Journal of Astrophysics",
+   "publication_type": "article",
+   "published_date": "2026-11-11",
+   "related_versions": [],
+   "source_ids": [
+    "openalex:W4415981265"
+   ],
+   "title": "The Entangling of Supernova Feedback Impacts with Coarsening Simulation Resolution",
+   "topics": [
+    "Galaxies: Formation, Evolution, Phenomena",
+    "Astronomy and Astrophysics"
+   ],
+   "updated_date": "2026-11-13",
+   "url": "https://doi.org/10.33232/001c.175199"
+  },
+  "score": 3.7,
+  "seen": 1,
+  "suggested": "astronomy-and-astrophysics",
+  "title": "The Entangling of Supernova Feedback Impacts with Coarsening Simulation Resolution",
+  "url": "https://doi.org/10.33232/001c.175199"
+ },
+ {
   "added": "2026-11-07",
   "arxiv": "2611.07444",
   "candidates": [
@@ -6101,6 +7757,72 @@
   "suggested": "long-short-term-memory",
   "title": "Two-stage residual learning for calibrated uncertainty in solar irradiance forecasts",
   "url": "https://arxiv.org/abs/2611.07444"
+ },
+ {
+  "added": "2026-11-14",
+  "arxiv": "2505.22340",
+  "candidates": [
+   [
+    "molecular-physics",
+    3.1
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.1007/s00222-026-01459-9",
+  "keys": [
+   "arxiv:2505.22340",
+   "doi:10.1007/s00222-026-01459-9",
+   "title:thehuangyangconjectureforthelowdensityfermigas|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Abstract Our work establishes a three-term asymptotic expansion of the ground state energy of a dilute gas of spin $1/2$ 1 / 2 fermions with repulsive short-range interactions, validating a formula predicted by Huang and Yang in 1957. The formula is universal in the sense that it holds for a large class of interaction potentials and depends on those only via their scattering length. We have recently proved an upper bound on the ground state energy of the desired form, and the present work completes the program by proving the matching lower bound.",
+   "abstract_license": "cc-by",
+   "arxiv": "2505.22340",
+   "authors": [
+    "Emanuela L. Giacomelli",
+    "Christian Hainzl",
+    "Phan Thành Nam",
+    "Robert Seiringer"
+   ],
+   "categories": [
+    "OpenAlex-field:Physics and Astronomy"
+   ],
+   "cited_by_count": 13,
+   "doi": "10.1007/s00222-026-01459-9",
+   "is_retracted": false,
+   "keywords": [
+    "ground state energy",
+    "spin-1/2 fermions",
+    "asymptotic expansion",
+    "scattering length",
+    "lower bounds",
+    "upper bounds",
+    "dilute quantum gases"
+   ],
+   "language": "en",
+   "oa_created": "2025-10-10",
+   "peer_reviewed": true,
+   "publication": "Inventiones mathematicae",
+   "publication_type": "article",
+   "published_date": "2026-11-11",
+   "related_versions": [],
+   "source_ids": [
+    "openalex:W4416048293"
+   ],
+   "title": "The Huang–Yang conjecture for the low-density Fermi gas",
+   "topics": [
+    "Cold Atom Physics and Bose-Einstein Condensates",
+    "Atomic and Molecular Physics, and Optics"
+   ],
+   "updated_date": "2026-11-13",
+   "url": "https://doi.org/10.1007/s00222-026-01459-9"
+  },
+  "score": 3.1,
+  "seen": 1,
+  "suggested": "molecular-physics",
+  "title": "The Huang–Yang conjecture for the low-density Fermi gas",
+  "url": "https://doi.org/10.1007/s00222-026-01459-9"
  },
  {
   "added": "2026-11-05",
@@ -6437,6 +8159,88 @@
   "url": "https://arxiv.org/abs/2611.07674"
  },
  {
+  "added": "2026-11-14",
+  "arxiv": "2511.18108",
+  "candidates": [
+   [
+    "metamaterials",
+    3.69
+   ],
+   [
+    "mechanical-engineering",
+    3.1
+   ],
+   [
+    "network-science",
+    1.8
+   ],
+   [
+    "acoustics",
+    0.39
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.1038/s41586-026-11191-2",
+  "keys": [
+   "arxiv:2511.18108",
+   "doi:10.1038/s41586-026-11191-2",
+   "title:scalerichnetworkbasedmetamaterials|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Materials, at their essence, are networks defined by homogeneity: uniform bonds, fixed thicknesses and discrete length scales. Mechanical metamaterials, while representing structurally more diverse microstructures, remain defined by the homogeneity of their unit cells, pore sizes or repeating features1,2. In contrast, as network science has revealed, real-world and biological systems—from the Internet to the brain—derive their function from broad, multiscale variability in connectivity and link length3–6. Here we introduce scale-rich metamaterials, a design framework that embeds network heterogeneity into mechanical metamaterials, achieving orders-of-magnitude heterogeneity in ligament lengths, thicknesses and connectivity. Governed by only two parameters, scale-rich networks span orders of magnitude in structural features, overcoming previous constraints in metamaterial design. Translating these network models into physically realizable materials, we use simulations and experiments to show that scale-rich metamaterials exhibit properties inaccessible to traditional single-scale systems, including highly tunable elastic anisotropy, delocalized nonlinear deformation with high energy absorption, enhanced energy dissipation under dynamic loading and programmable elastic-wave control. This network-based framework establishes a minimal and universal model for engineering multifunctional materials whose mechanical behaviour emerges directly from scale diversity, and also opens avenues of enquiry for network science itself. A network-science-based framework that embeds network heterogeneity into mechanical metamaterials is used to produce scale-rich metamaterials that exhibit properties inaccessible to traditional single-scale systems.",
+   "abstract_license": "cc-by-nc-nd",
+   "arxiv": "2511.18108",
+   "authors": [
+    "Csaba Both",
+    "Andrew Y. Chen",
+    "Ting-Ting Gao",
+    "M. N. Mooij",
+    "Mohammad Charara",
+    "Jayna Wadhwa",
+    "Carlos M. Portela",
+    "Albert-Ĺaszló Barabási"
+   ],
+   "categories": [
+    "OpenAlex-field:Engineering"
+   ],
+   "cited_by_count": 3,
+   "doi": "10.1038/s41586-026-11191-2",
+   "is_retracted": false,
+   "keywords": [
+    "mechanical metamaterials",
+    "network heterogeneity",
+    "elastic anisotropy",
+    "energy absorption",
+    "nonlinear deformation",
+    "acoustic wave control",
+    "tunable materials"
+   ],
+   "language": "en",
+   "oa_created": "2025-11-27",
+   "peer_reviewed": true,
+   "publication": "Nature",
+   "publication_type": "article",
+   "published_date": "2026-11-11",
+   "related_versions": [],
+   "source_ids": [
+    "openalex:W7106663053"
+   ],
+   "title": "Scale-rich network-based metamaterials",
+   "topics": [
+    "Advanced Materials and Mechanics",
+    "Mechanical Engineering"
+   ],
+   "updated_date": "2026-11-13",
+   "url": "https://doi.org/10.1038/s41586-026-11191-2"
+  },
+  "score": 3.69,
+  "seen": 1,
+  "suggested": "metamaterials",
+  "title": "Scale-rich network-based metamaterials",
+  "url": "https://doi.org/10.1038/s41586-026-11191-2"
+ },
+ {
   "added": "2026-11-09",
   "arxiv": "2404.17529",
   "candidates": [
@@ -6505,6 +8309,95 @@
   "suggested": "algebraic-topology",
   "title": "Kaledin classes and formality criteria",
   "url": "https://doi.org/10.1016/j.aim.2026.111376"
+ },
+ {
+  "added": "2026-11-14",
+  "arxiv": "2604.03229",
+  "candidates": [
+   [
+    "integrated-photonics",
+    5.38
+   ],
+   [
+    "optical-lattice-clocks",
+    2.13
+   ],
+   [
+    "laser-cooling-and-trapping",
+    2.1
+   ],
+   [
+    "particle-in-cell-simulation",
+    2.1
+   ],
+   [
+    "laser-stabilization",
+    1.38
+   ],
+   [
+    "atomic-clocks",
+    1.2
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2604.03229",
+   "title:ascalableinfrastructureforstrontiumopticalclockswithintegratedphotonics|2026"
+  ],
+  "reason": "backlog'dan: güven düştü (taksonomi değişmiş olabilir)",
+  "record": {
+   "abstract": "Optical atomic clocks provide exceptionally accurate and precise signals for timekeeping and precision measurements, but they require high-power, free-space laser configurations that limit scalability. We introduce and explore a scalable infrastructure for strontium (Sr) optical-lattice clocks that incorporates co-design of atomic-beam slowing and a magneto-optical trap (MOT) from an effusion source, generation of complex, three-dimensional free-space laser configurations with a photonic integrated circuit (PIC) and metasurface (MS) optics, and laser stabilization to a frequency-comb supercontinuum generated with integrated nonlinear photonics. With these elements, we realize MOTs of all stable strontium isotopes ($^{84}$Sr, $^{86}$Sr, $^{87}$Sr, $^{88}$Sr) with populations commensurate with natural abundances, demonstrating precise beam control and robustness. Access to laser-cooled alkaline-earth atoms with scalable integrated photonics enables system engineering for optical clocks, quantum sensing, and quantum information, and our experiments demonstrate extensible technologies that advance toward a Sr optical clock largely free of bulk optics.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2604.03229",
+   "authors": [
+    "Zheng Luo",
+    "Travis C. Briles",
+    "Zachary L. Newman",
+    "Aidan R. Jones",
+    "Andrew R. Ferdinand",
+    "Sindhu Jammi",
+    "Grisha Spektor",
+    "David R. Carlson",
+    "Akash Rakholia",
+    "Dan Sheredy",
+    "Parth Patel",
+    "Martin M. Boyd",
+    "Chad Ropp",
+    "Daron Westly",
+    "Vladimir A. Aksyuk",
+    "Wenqi Zhu",
+    "Junyeob Song",
+    "Amit Agrawal",
+    "Scott B. Papp"
+   ],
+   "categories": [
+    "arXiv:physics.app-ph",
+    "arXiv:physics.atom-ph"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-04-03",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2604.03229"
+   ],
+   "title": "A scalable infrastructure for strontium optical clocks with integrated photonics",
+   "topics": [],
+   "updated_date": "2026-04-03",
+   "url": "https://arxiv.org/abs/2604.03229"
+  },
+  "score": 5.38,
+  "seen": 1,
+  "suggested": "integrated-photonics",
+  "title": "A scalable infrastructure for strontium optical clocks with integrated photonics",
+  "url": "https://arxiv.org/abs/2604.03229"
  },
  {
   "added": "2026-11-09",
@@ -6660,6 +8553,157 @@
   "suggested": "particle-physics",
   "title": "The entanglement wedge polygon",
   "url": "https://doi.org/10.1007/jhep11(2026)071"
+ },
+ {
+  "added": "2026-11-14",
+  "arxiv": "2603.29443",
+  "candidates": [
+   [
+    "particle-physics",
+    3.48
+   ],
+   [
+    "holography",
+    2.38
+   ],
+   [
+    "tunneling",
+    0.26
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.1007/jhep11(2026)114",
+  "keys": [
+   "arxiv:2603.29443",
+   "doi:10.1007/jhep11(2026)114",
+   "title:cosmologicalbrickwallsvequantumchaoticdynamicsofdesitterhorizons|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "A bstract Originally proposed by ’t Hooft, the brick wall model has recently reemerged as a useful framework for probing quantum aspects of horizon physics, particularly in the context of holography. In this paper, we apply it to asymptotically de Sitter spacetimes. We compute the normal modes of a massless scalar field in pure de Sitter space and in the Schwarzschild-de Sitter black hole, and analyze the resulting single-particle spectra using the level-spacing distribution, the spectral form factor, and Krylov complexity. In pure de Sitter, the spectrum exhibits clear long-range signatures of chaos despite not obeying a conventional Wigner-Dyson level-spacing distribution. The Schwarzschild-de Sitter case is qualitatively richer: in the WKB regime, where tunneling between the two classically allowed regions is exponentially suppressed, the presence of both an event horizon and a cosmological horizon gives rise to two independent near-horizon sectors, so that the full spectrum is the superposition of two subsequences. As a result, the combined level-spacing distribution develops a nonzero value at s = 0 even when spectral correlations remain. Nevertheless, for sufficiently small stretched-horizon fluctuations, the superposed spectrum still exhibits an approximately linear ramp in the spectral form factor and a pronounced peak in Krylov complexity. Our results show that the absence of strict level repulsion should not, by itself, be taken as evidence against chaos, and that the spectral form factor and Krylov complexity provide sharper diagnostics of the underlying chaotic dynamics.",
+   "abstract_license": "cc-by",
+   "arxiv": "2603.29443",
+   "authors": [
+    "José Manuel Domínguez Begines",
+    "Suman Das",
+    "Hyun-Sik Jeong",
+    "Juan F. Pedraza"
+   ],
+   "categories": [
+    "OpenAlex-field:Physics and Astronomy"
+   ],
+   "cited_by_count": 5,
+   "doi": "10.1007/jhep11(2026)114",
+   "is_retracted": false,
+   "keywords": [
+    "brick wall model",
+    "de Sitter space",
+    "Schwarzschild-de Sitter black hole",
+    "quantum chaos",
+    "de Sitter horizon",
+    "cosmological horizon",
+    "event horizon",
+    "massless scalar field",
+    "normal modes",
+    "level spacing distribution",
+    "spectral form factor",
+    "Krylov complexity",
+    "holography",
+    "WKB approximation",
+    "level repulsion"
+   ],
+   "language": "en",
+   "oa_created": "2026-04-02",
+   "peer_reviewed": true,
+   "publication": "Journal of High Energy Physics",
+   "publication_type": "article",
+   "published_date": "2026-11-11",
+   "related_versions": [],
+   "source_ids": [
+    "openalex:W7147109510"
+   ],
+   "title": "Cosmological brick walls & quantum chaotic dynamics of de Sitter horizons",
+   "topics": [
+    "Black Holes and Theoretical Physics",
+    "Nuclear and High Energy Physics"
+   ],
+   "updated_date": "2026-11-13",
+   "url": "https://doi.org/10.1007/jhep11(2026)114"
+  },
+  "score": 3.48,
+  "seen": 1,
+  "suggested": "particle-physics",
+  "title": "Cosmological brick walls & quantum chaotic dynamics of de Sitter horizons",
+  "url": "https://doi.org/10.1007/jhep11(2026)114"
+ },
+ {
+  "added": "2026-11-14",
+  "arxiv": "2604.22918",
+  "candidates": [
+   [
+    "particle-physics",
+    3.48
+   ],
+   [
+    "cosmology",
+    2.51
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.1007/jhep11(2026)100",
+  "keys": [
+   "arxiv:2604.22918",
+   "doi:10.1007/jhep11(2026)100",
+   "title:kinematicflowforbananaloopsandunparticles|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "A bstract We extend kinematic flow to a class of momentum-integrated loop-level cosmological correlators: banana loops of conformally coupled scalars in power-law cosmologies and, in de Sitter, banana loops containing arbitrary mixtures of massless and conformally coupled scalars. Exploiting their dual description as tree-level exchanges of unparticles, we show that the associated correlators are described by a finite set of master integrals obeying a first-order system of differential equations. The corresponding basis is constructed from tubings of marked graphs and is distinguished by the appearance of nested tubes and an arborescence ordering of the vertices. We derive the connection matrices from four combinatorial rules — activation, merger, swap, and copy. The last two are unique to unparticle exchanges: they induce richer mixing among basis functions and introduce new kinematic letters. Our framework extends systematically to arbitrarily complicated configurations, including necklace diagrams, and establishes unparticle exchange as a distinct class of kinematic flow.",
+   "abstract_license": "cc-by",
+   "arxiv": "2604.22918",
+   "authors": [
+    "Tom Westerdijk",
+    "Chen Yang"
+   ],
+   "categories": [
+    "OpenAlex-field:Physics and Astronomy"
+   ],
+   "cited_by_count": 5,
+   "doi": "10.1007/jhep11(2026)100",
+   "is_retracted": false,
+   "keywords": [
+    "conformally coupled scalar",
+    "power-law cosmology",
+    "de Sitter cosmology",
+    "cosmological correlators",
+    "master integrals",
+    "marked graphs",
+    "connection matrix",
+    "loop integrals"
+   ],
+   "language": "en",
+   "oa_created": "2026-04-29",
+   "peer_reviewed": true,
+   "publication": "Journal of High Energy Physics",
+   "publication_type": "article",
+   "published_date": "2026-11-11",
+   "related_versions": [],
+   "source_ids": [
+    "openalex:W7156645048"
+   ],
+   "title": "Kinematic flow for banana loops and unparticles",
+   "topics": [
+    "Black Holes and Theoretical Physics",
+    "Nuclear and High Energy Physics"
+   ],
+   "updated_date": "2026-11-13",
+   "url": "https://doi.org/10.1007/jhep11(2026)100"
+  },
+  "score": 3.48,
+  "seen": 1,
+  "suggested": "particle-physics",
+  "title": "Kinematic flow for banana loops and unparticles",
+  "url": "https://doi.org/10.1007/jhep11(2026)100"
  },
  {
   "added": "2026-11-08",
@@ -7233,6 +9277,165 @@
   "suggested": "high-voltage-direct-current",
   "title": "Data-driven current control of modular multilevel converter-based HVDC transmission system",
   "url": "https://arxiv.org/abs/2611.07734"
+ },
+ {
+  "added": "2026-11-14",
+  "arxiv": null,
+  "candidates": [
+   [
+    "turbulence",
+    3.51
+   ],
+   [
+    "atmospheric-sciences",
+    3.1
+   ],
+   [
+    "temperature-sensors",
+    1.2
+   ],
+   [
+    "lidar",
+    0.52
+   ],
+   [
+    "calibration",
+    0.26
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.5194/essd-18-8229-2026",
+  "keys": [
+   "doi:10.5194/essd-18-8229-2026",
+   "title:themaestroturbulencedatasetderivedfromthesafireatr42aircraft|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "The MAESTRO airborne field campaign took place between 10 August and 10 September 2024 over the North Atlantic tropical ocean near the Cabo Verde Islands. Its goal was to investigate the processes that control the mesoscale organization of clouds with a payload of probes and sensors, as well as vertically and horizontally-pointing radars and lidars. A particular attention was given to the role of coherent structures in the boundary layer. This focus motivated the acquisition of high-resolution measurements of temperature and water vapor to capture turbulence dynamics in the subcloud layer. To achieve this, six hygrometers and four temperature sensors were deployed, including a new fast-rate hygrometer called FAST-WAVE. This article describes the turbulence dataset, prepared on the basis of these measurements. It consists of 25 Hz segmented time series of calibrated water vapor mixing ratio, temperature, and three-dimensional wind taken with an air speed of approximately 100 m s −1 , relative to the aircraft, their corresponding fluctuations, as well as statistical moments, covariance, and integral length scales. In total, 40 h of stabilized legs data were gathered in a wide range of mesoscale contexts and local cloud conditions, with nearly 13 h consisting of high-quality boundary-layer samples. This paper describes the methodological choices required to obtain the dataset, including calibrations, and corrections applied to the original measurements. The collection of NetCDF files composing this dataset is publicly available on the AERIS website (https://doi.org/10.25326/812#v7.0, Jaffeux and Lothon, 2025; see also https://maestro.aeris-data.fr/overview/, last access: 9 June 2026).",
+   "abstract_license": "cc-by",
+   "arxiv": null,
+   "authors": [
+    "Louis Jaffeux",
+    "Marie Lothon",
+    "Fleur Couvreux",
+    "Dominique Bouniol",
+    "Grégoire Cayez",
+    "Lilian Joly",
+    "Jérémie Burgalat",
+    "Cyrille De Saint Leger",
+    "Hubert Bellec",
+    "O. Henry",
+    "Dyaa Chbib",
+    "Tetyana Jiang",
+    "Gilles Vergez",
+    "Sandrine Bony"
+   ],
+   "categories": [
+    "OpenAlex-field:Earth and Planetary Sciences"
+   ],
+   "cited_by_count": 4,
+   "doi": "10.5194/essd-18-8229-2026",
+   "is_retracted": false,
+   "keywords": [
+    "atmospheric turbulence",
+    "subcloud layer",
+    "boundary layer",
+    "coherent structures",
+    "water vapor mixing ratio",
+    "temperature fluctuations",
+    "wind fluctuations",
+    "integral length scale",
+    "tropical oceans",
+    "Cape Verde",
+    "North Atlantic"
+   ],
+   "language": "en",
+   "oa_created": "2025-11-25",
+   "peer_reviewed": true,
+   "publication": "Earth system science data",
+   "publication_type": "article",
+   "published_date": "2026-11-11",
+   "related_versions": [],
+   "source_ids": [
+    "openalex:W4416768631"
+   ],
+   "title": "The MAESTRO turbulence dataset derived from the SAFIRE ATR42 aircraft",
+   "topics": [
+    "Meteorological Phenomena and Simulations",
+    "Atmospheric Science"
+   ],
+   "updated_date": "2026-11-13",
+   "url": "https://doi.org/10.5194/essd-18-8229-2026"
+  },
+  "score": 3.51,
+  "seen": 1,
+  "suggested": "turbulence",
+  "title": "The MAESTRO turbulence dataset derived from the SAFIRE ATR42 aircraft",
+  "url": "https://doi.org/10.5194/essd-18-8229-2026"
+ },
+ {
+  "added": "2026-11-14",
+  "arxiv": "2604.15260",
+  "candidates": [
+   [
+    "particle-physics",
+    3.48
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.1007/jhep11(2026)104",
+  "keys": [
+   "arxiv:2604.15260",
+   "doi:10.1007/jhep11(2026)104",
+   "title:tamingthearetakisinstabilityextremalblackholeswithmultidegeneratehorizons|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "A bstract Stationary black hole geometries with non-degenerate Cauchy horizons are classically unstable due to mass inflation. At extremality, mass inflation is absent, but a different dynamical instability arises: the Aretakis instability. In this work, we investigate the properties of degenerate horizons and their associated Aretakis instabilities. By studying examples with increasingly higher-order horizon degeneracy, we show that the Aretakis instability weakens as the degree of degeneracy grows. Motivated by these results, we propose a new black hole geometry characterized by an infinitely degenerate horizon, which we argue is stable under Aretakis-type perturbations and may therefore provide a concrete realization of a “graveyard” end state for these objects.",
+   "abstract_license": "cc-by",
+   "arxiv": "2604.15260",
+   "authors": [
+    "Shreyansh Agrawal",
+    "Panagiotis Charalambous",
+    "Laura Donnay",
+    "Stefano Liberati",
+    "Giulio Neri"
+   ],
+   "categories": [
+    "OpenAlex-field:Physics and Astronomy"
+   ],
+   "cited_by_count": 4,
+   "doi": "10.1007/jhep11(2026)104",
+   "is_retracted": false,
+   "keywords": [
+    "extremal black holes",
+    "degenerate horizons",
+    "mass inflation",
+    "black hole stability"
+   ],
+   "language": "en",
+   "oa_created": "2026-04-18",
+   "peer_reviewed": true,
+   "publication": "Journal of High Energy Physics",
+   "publication_type": "article",
+   "published_date": "2026-11-11",
+   "related_versions": [],
+   "source_ids": [
+    "openalex:W7154723334"
+   ],
+   "title": "Taming the Aretakis instability: extremal black holes with multi-degenerate horizons",
+   "topics": [
+    "Black Holes and Theoretical Physics",
+    "Nuclear and High Energy Physics"
+   ],
+   "updated_date": "2026-11-13",
+   "url": "https://doi.org/10.1007/jhep11(2026)104"
+  },
+  "score": 3.48,
+  "seen": 1,
+  "suggested": "particle-physics",
+  "title": "Taming the Aretakis instability: extremal black holes with multi-degenerate horizons",
+  "url": "https://doi.org/10.1007/jhep11(2026)104"
  },
  {
   "added": "2026-11-12",
@@ -8435,1850 +10638,5 @@
   "suggested": "neural-operators",
   "title": "Unsupervised Neural Operators for Rotating Relativistic Stars: High-Fidelity Equation of State Inference and Pulsar Spin Evolution at Scale",
   "url": "https://arxiv.org/abs/2611.05790"
- },
- {
-  "added": "2026-11-06",
-  "arxiv": "2611.05876",
-  "candidates": [
-   [
-    "neural-operators",
-    4.8
-   ],
-   [
-    "message-passing",
-    3.1
-   ],
-   [
-    "finite-difference-method",
-    1.65
-   ],
-   [
-    "partial-differential-equations",
-    1.65
-   ],
-   [
-    "material-extrusion",
-    0.45
-   ],
-   [
-    "conduction",
-    0.26
-   ]
-  ],
-  "confidence": "medium",
-  "doi": "10.1515/tp-2026-0133",
-  "keys": [
-   "arxiv:2611.05876",
-   "doi:10.1515/tp-2026-0133",
-   "title:migonetamultipleinputgraphneuraloperatorwithsolverfreediscretemanufacturedsolutiontraining|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "Surrogate modeling of transport requires operators that capture the combined influence of spatially distributed sources and Dirichlet and Neumann boundary conditions, together with training datasets that can be generated at low computational cost. This work presents MIGONet, a multiple-input graph neural operator, and a discrete method of manufactured solutions (MMS) that trains it without solving a partial differential equation, using steady heat conduction as the model problem. In the discrete MMS procedure, temperature fields are prescribed a priori, and the source terms and Dirichlet or Neumann boundary data are evaluated with the same discrete operators as the reference finite-difference method (FDM), so every training sample satisfies the discrete governing equations by construction. Because the boundary data are derived from each field, a Dirichlet or Neumann condition can be assigned to every boundary segment of every sample, and the boundary specification becomes an operator input. MIGONet supplies representations of the complete source field and boundary data to every node before local message passing. On the rectangular domain, it is compared with a version without the complete-source encoder (MIGONet-local) and with the multiple-input operator network MIONet, using the same training data. MIGONet achieves mean relative temperature errors of 10.31% and 10.64% for curved-wire and Gaussian-spot heating, compared with 45.97% and 48.34% for MIONet and 72.25% and 67.82% for MIGONet-local. For 10,000 samples, discrete MMS reduces data-generation time from 486.65 s to 3.15 s relative to matched iterative FDM labeling. Separately trained MIGONet models are also evaluated on L-shaped, disc-shaped, and ring-shaped domains.",
-   "abstract_license": "cc0-1.0 (arxiv metadata)",
-   "arxiv": "2611.05876",
-   "authors": [
-    "Muhammad Hasnain",
-    "N. K. Anand",
-    "Arun Srinivasa"
-   ],
-   "categories": [
-    "arXiv:cs.LG"
-   ],
-   "cited_by_count": null,
-   "doi": "10.1515/tp-2026-0133",
-   "is_retracted": null,
-   "keywords": [],
-   "language": "en",
-   "peer_reviewed": null,
-   "publication": "arXiv",
-   "publication_type": "preprint",
-   "published_date": "2026-11-04",
-   "related_versions": [
-    {
-     "doi": "10.1515/tp-2026-0133",
-     "relation": "published_version",
-     "source": "arxiv"
-    }
-   ],
-   "source_ids": [
-    "arxiv:2611.05876"
-   ],
-   "title": "MIGONet: a multiple-input graph neural operator with solver-free discrete manufactured-solution training",
-   "topics": [],
-   "updated_date": "2026-11-04",
-   "url": "https://arxiv.org/abs/2611.05876"
-  },
-  "score": 4.8,
-  "seen": 2,
-  "suggested": "neural-operators",
-  "title": "MIGONet: a multiple-input graph neural operator with solver-free discrete manufactured-solution training",
-  "url": "https://arxiv.org/abs/2611.05876"
- },
- {
-  "added": "2026-11-06",
-  "arxiv": "2611.05939",
-  "candidates": [
-   [
-    "energy-storage",
-    4.8
-   ],
-   [
-    "supercapacitors",
-    2.45
-   ],
-   [
-    "storage-systems",
-    1.2
-   ]
-  ],
-  "confidence": "medium",
-  "doi": null,
-  "keys": [
-   "arxiv:2611.05939",
-   "title:adaptivegridmodeawarehybridenergystoragecontrolforaidatacenteroscillationmitigation|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "Oscillatory power components in AI data-center demand can produce large frequency deviations when they coincide with vulnerable grid modes. Mode-aware hybrid energy storage systems (HESSs) can selectively suppress these components, but their effectiveness degrades when the grid mode changes while the control target remains fixed. This paper proposes a closed-loop grid-mode-adaptive HESS control framework that integrates measurement-based modal identification with mode-selective control. A sliding-window N4SID estimator identifies the local grid dynamics from grid-side power and frequency measurements, and the resulting natural-frequency estimate is used to retune the modal suppression branch assigned to the supercapacitor. The framework is evaluated under a grid-mode shift from 0.50 to 1.35Hz while maintaining equal physical damping and approximately equal load excitation at both frequencies. Compared with the fixed-target controller, the adaptive method reduces the post-change grid-side modal power component from 8.78 to 2.02MW, corresponding to a 76.94% reduction, and substantially lowers the resulting frequency deviation.",
-   "abstract_license": "cc0-1.0 (arxiv metadata)",
-   "arxiv": "2611.05939",
-   "authors": [
-    "Quang Manh Hoang",
-    "Sina Mohammadi",
-    "Phi Long Nguyen",
-    "Wencong Su",
-    "Van-Hai Bui"
-   ],
-   "categories": [
-    "arXiv:eess.SY"
-   ],
-   "cited_by_count": null,
-   "doi": null,
-   "is_retracted": null,
-   "keywords": [],
-   "language": "en",
-   "peer_reviewed": false,
-   "publication": "arXiv",
-   "publication_type": "preprint",
-   "published_date": "2026-11-04",
-   "related_versions": [],
-   "source_ids": [
-    "arxiv:2611.05939"
-   ],
-   "title": "Adaptive Grid-Mode-Aware Hybrid Energy Storage Control for AI Data Center Oscillation Mitigation",
-   "topics": [],
-   "updated_date": "2026-11-04",
-   "url": "https://arxiv.org/abs/2611.05939"
-  },
-  "score": 4.8,
-  "seen": 2,
-  "suggested": "energy-storage",
-  "title": "Adaptive Grid-Mode-Aware Hybrid Energy Storage Control for AI Data Center Oscillation Mitigation",
-  "url": "https://arxiv.org/abs/2611.05939"
- },
- {
-  "added": "2026-11-06",
-  "arxiv": "2611.06109",
-  "candidates": [
-   [
-    "machine-learning",
-    4.8
-   ],
-   [
-    "air-traffic-management",
-    0.45
-   ]
-  ],
-  "confidence": "medium",
-  "doi": null,
-  "keys": [
-   "arxiv:2611.06109",
-   "title:subtleenergycorrectionsreshapecondensedphasepropertypredictionsfromamachinelearninginteratomicpotential|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "Accurate reproduction of electronic-structure labels by machine-learning interatomic potentials does not necessarily ensure reliable condensed-phase properties. We investigate the effects of basis-set superposition error (BSSE) and an explicit Axilrod-Teller-Muto (ATM) three-body dispersion contribution on molecular-liquid predictions. Starting from MACELES-OFF, we fine-tune a baseline potential at the $ω$B97M-V/def2-TZVPD level. A separate branch learns counterpoise (CP) energy and force corrections with the baseline frozen, while a D4-parametrized ATM term is added during molecular-dynamics inference. Mean atom-normalized CP and ATM contributions are 0.222 and 0.205 meV/atom, respectively, for the analyzed SPICE2 configurations from OMol25. We compare baseline, CP-only, ATM-only, and CP + ATM variants for 39 organic liquids. Relative to baseline, the mean system-wise density changes are -1.17%, -10.38%, and -11.93% for CP-only, ATM-only, and CP + ATM, respectively; the corresponding enthalpy-of-vaporization changes are -2.79%, -14.74%, and -18.32%. For the 11 liquids with experimental self-diffusion data, the mean self-diffusion changes are +17.66%, +203.02%, and +230.36%. Both corrections thus lower density and enthalpy of vaporization while increasing molecular mobility on average. ATM dominates these changes, while CP provides a smaller contribution; their combination yields the largest average shifts. These results show that corrections with sub-meV/atom mean values on the analyzed configurations can substantially reshape the predicted structural, thermodynamic, and transport properties of molecular liquids.",
-   "abstract_license": "cc0-1.0 (arxiv metadata)",
-   "arxiv": "2611.06109",
-   "authors": [
-    "Haihui Wang",
-    "Xinyan Wang",
-    "Jiashu Liang",
-    "Yuanheng Wang",
-    "Chang Han",
-    "Wen Yan",
-    "Tianze Zheng",
-    "Kuang Yu"
-   ],
-   "categories": [
-    "arXiv:physics.chem-ph"
-   ],
-   "cited_by_count": null,
-   "doi": null,
-   "is_retracted": null,
-   "keywords": [],
-   "language": "en",
-   "peer_reviewed": false,
-   "publication": "arXiv",
-   "publication_type": "preprint",
-   "published_date": "2026-11-04",
-   "related_versions": [],
-   "source_ids": [
-    "arxiv:2611.06109"
-   ],
-   "title": "Subtle Energy Corrections Reshape Condensed-Phase Property Predictions from a Machine-Learning Interatomic Potential",
-   "topics": [],
-   "updated_date": "2026-11-04",
-   "url": "https://arxiv.org/abs/2611.06109"
-  },
-  "score": 4.8,
-  "seen": 2,
-  "suggested": "machine-learning",
-  "title": "Subtle Energy Corrections Reshape Condensed-Phase Property Predictions from a Machine-Learning Interatomic Potential",
-  "url": "https://arxiv.org/abs/2611.06109"
- },
- {
-  "added": "2026-11-06",
-  "arxiv": "2611.06114",
-  "candidates": [
-   [
-    "ray-tracing",
-    4.8
-   ]
-  ],
-  "confidence": "medium",
-  "doi": null,
-  "keys": [
-   "arxiv:2611.06114",
-   "title:firstraytracingsimulationsofmodeconversionusingmetaplecticgeometricaloptics|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "Advanced scenarios of radiofrequency power deposition into magnetically confined fusion plasmas, particularly those using electron Bernstein waves, involve linear mode conversion (energy transfer between separate dispersion branches) in regions where the waves experience reflection. Full-wave simulations of this conversion are time-consuming, and geometrical-optics (GO) modeling is problematic because it is typically restricted to single waves and leads to spurious singularities at cutoffs. Here, we report the first reduced simulations that overcome these limitations without resorting to approximate analytical formulas for the conversion efficiency. The algorithm is based on the recently developed metaplectic geometrical optics (MGO), which eliminates GO's spurious singularities by metaplectic transformations, provided that the symplectic curvature of the rays $R^{-1}$ is small. To prove the concept, we simulate one-dimensional O--X mode conversion caused by the plasma-density gradient near the critical density, a problem for which an approximate analytical solution is available and can be compared with. Numerical MGO demonstrates good agreement with said theory. This opens a way for fast and accurate ray-tracing modeling of any linear mode conversion at $R^{-1} \\ll 1$.",
-   "abstract_license": "cc0-1.0 (arxiv metadata)",
-   "arxiv": "2611.06114",
-   "authors": [
-    "Rui Kai Lee",
-    "Valerian H. Hall-Chen",
-    "I. Y. Dodin"
-   ],
-   "categories": [
-    "arXiv:physics.plasm-ph"
-   ],
-   "cited_by_count": null,
-   "doi": null,
-   "is_retracted": null,
-   "keywords": [],
-   "language": "en",
-   "peer_reviewed": false,
-   "publication": "arXiv",
-   "publication_type": "preprint",
-   "published_date": "2026-11-04",
-   "related_versions": [],
-   "source_ids": [
-    "arxiv:2611.06114"
-   ],
-   "title": "First ray-tracing simulations of mode conversion using metaplectic geometrical optics",
-   "topics": [],
-   "updated_date": "2026-11-04",
-   "url": "https://arxiv.org/abs/2611.06114"
-  },
-  "score": 4.8,
-  "seen": 2,
-  "suggested": "ray-tracing",
-  "title": "First ray-tracing simulations of mode conversion using metaplectic geometrical optics",
-  "url": "https://arxiv.org/abs/2611.06114"
- },
- {
-  "added": "2026-11-06",
-  "arxiv": "2611.06115",
-  "candidates": [
-   [
-    "gas-turbines",
-    4.8
-   ]
-  ],
-  "confidence": "medium",
-  "doi": null,
-  "keys": [
-   "arxiv:2611.06115",
-   "title:temporarygasturbinespoweringausaidatacentercreatedacrossstateairpollutionhotspot|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "Data centers increasingly use on-site gas turbines that regulators can treat as temporary. Two satellites show the fleet powering SpaceXAI's Colossus 2 raised local nitrogen dioxide columns by about half as it expanded, the most anomalous increase among 656 urban locations nationwide since 2020. Mississippi authorized the fleet, but two-thirds of the hotspot's 116,000 mostly Black residents live in Tennessee, and the hotspot contains no regulatory nitrogen dioxide monitor. The fleet causes an estimated four premature deaths yearly, valued at $49 million, over 80% outside Mississippi and nearly all from units without selective catalytic reduction. On new turbines, this control's benefits exceed costs over the service life, but not over temporary stays or for in-state damages alone. Standards following the equipment could recover these benefits.",
-   "abstract_license": "cc0-1.0 (arxiv metadata)",
-   "arxiv": "2611.06115",
-   "authors": [
-    "Will W. Qiang",
-    "Bo Huang",
-    "Xingjian Liu",
-    "Harry F. Lee"
-   ],
-   "categories": [
-    "arXiv:physics.soc-ph",
-    "arXiv:physics.ao-ph"
-   ],
-   "cited_by_count": null,
-   "doi": null,
-   "is_retracted": null,
-   "keywords": [],
-   "language": "en",
-   "peer_reviewed": false,
-   "publication": "arXiv",
-   "publication_type": "preprint",
-   "published_date": "2026-11-04",
-   "related_versions": [],
-   "source_ids": [
-    "arxiv:2611.06115"
-   ],
-   "title": "Temporary gas turbines powering a US AI data center created a cross-state air pollution hotspot",
-   "topics": [],
-   "updated_date": "2026-11-04",
-   "url": "https://arxiv.org/abs/2611.06115"
-  },
-  "score": 4.8,
-  "seen": 2,
-  "suggested": "gas-turbines",
-  "title": "Temporary gas turbines powering a US AI data center created a cross-state air pollution hotspot",
-  "url": "https://arxiv.org/abs/2611.06115"
- },
- {
-  "added": "2026-11-06",
-  "arxiv": "2611.06145",
-  "candidates": [
-   [
-    "electric-vehicles",
-    4.8
-   ],
-   [
-    "power-transformers",
-    1.85
-   ]
-  ],
-  "confidence": "medium",
-  "doi": null,
-  "keys": [
-   "arxiv:2611.06145",
-   "title:analyzingsimultaneouschargingfactorsofelectricvehiclesusingmontecarlosimulationacasestudyinphuquoccityvietnam|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "This study estimates the simultaneous charging factor (SCF) of electric vehicles (EVs) in Phu Quoc City, Vietnam, using a Monte Carlo simulation. Three planning scenarios (2030, 2035, and 2040) are developed from population-based EV uptake assumptions and vehicle-specific charging probability profiles over 24 hours, reflecting distinct operating patterns of motorbikes, cars, taxis, and buses. For each vehicle class and scenario, 1,000 simulation runs are performed to compute SCF and its uncertainty, reported via 95% confidence intervals. Results indicate that SCF decreases as EV penetration increases, implying more temporally dispersed charging demand and a reduced likelihood of extreme coincidence. For electric buses, SCF declines from 0.76 (2030) to 0.59 (2040), and other vehicle groups show similarly decreasing trends across the horizon. These SCF estimates provide practical inputs for grid-aware charging infrastructure planning, including diversity factors for sizing distribution transformers and feeders, identifying peak-hour stress, and informing demand management measures such as time of use tariffs and basic smart charging controls.",
-   "abstract_license": "cc0-1.0 (arxiv metadata)",
-   "arxiv": "2611.06145",
-   "authors": [
-    "Tien Khai Nguyen",
-    "Trong Nghia Le"
-   ],
-   "categories": [
-    "arXiv:eess.SY"
-   ],
-   "cited_by_count": null,
-   "doi": null,
-   "is_retracted": null,
-   "keywords": [],
-   "language": "en",
-   "peer_reviewed": false,
-   "publication": "arXiv",
-   "publication_type": "preprint",
-   "published_date": "2026-11-04",
-   "related_versions": [],
-   "source_ids": [
-    "arxiv:2611.06145"
-   ],
-   "title": "Analyzing Simultaneous Charging Factors of Electric Vehicles Using Monte Carlo Simulation: A Case Study in Phu Quoc City, Vietnam",
-   "topics": [],
-   "updated_date": "2026-11-04",
-   "url": "https://arxiv.org/abs/2611.06145"
-  },
-  "score": 4.8,
-  "seen": 2,
-  "suggested": "electric-vehicles",
-  "title": "Analyzing Simultaneous Charging Factors of Electric Vehicles Using Monte Carlo Simulation: A Case Study in Phu Quoc City, Vietnam",
-  "url": "https://arxiv.org/abs/2611.06145"
- },
- {
-  "added": "2026-11-06",
-  "arxiv": "2611.06962",
-  "candidates": [
-   [
-    "inverse-problems",
-    4.8
-   ],
-   [
-    "interactive-theorem-proving",
-    2.94
-   ],
-   [
-    "functional-analysis",
-    1.3
-   ],
-   [
-    "analysis",
-    0.26
-   ]
-  ],
-  "confidence": "medium",
-  "doi": null,
-  "keys": [
-   "arxiv:2611.06962",
-   "title:formalizinginverseproblemsintheageofaipossibilitiespitfallsandaninvitation|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "Proof assistants such as Lean check mathematical proofs down to the axioms, and AI agents have recently made writing such proofs cheap. We describe AutoIP, a Lean library in which classical linear regularization theory, together with the functional analysis it rests on, has been autoformalized by AI agents. A machine-checked proof certifies only the formal statement it proves, so the remaining human task is to confirm that each formal statement says what was intended. We organize the library around this task: a reviewer compares the formal statements with their natural-language counterparts and never needs to read a proof. Our experience is that the risks lie in the statements rather than in the proofs, and that simple automated tests on the statements can expose problems even in the established literature. We illustrate this with a textbook theorem whose hypothesis is more restrictive than asserted. We invite the inverse problems community to extend and build on the library.",
-   "abstract_license": "cc0-1.0 (arxiv metadata)",
-   "arxiv": "2611.06962",
-   "authors": [
-    "Christian Clason",
-    "Tapio Helin",
-    "Medet Nursultanov",
-    "Lauri Oksanen"
-   ],
-   "categories": [
-    "arXiv:cs.AI"
-   ],
-   "cited_by_count": null,
-   "doi": null,
-   "is_retracted": null,
-   "keywords": [],
-   "language": "en",
-   "peer_reviewed": false,
-   "publication": "arXiv",
-   "publication_type": "preprint",
-   "published_date": "2026-11-04",
-   "related_versions": [],
-   "source_ids": [
-    "arxiv:2611.06962"
-   ],
-   "title": "Formalizing inverse problems in the age of AI: possibilities, pitfalls, and an invitation",
-   "topics": [],
-   "updated_date": "2026-11-04",
-   "url": "https://arxiv.org/abs/2611.06962"
-  },
-  "score": 4.8,
-  "seen": 2,
-  "suggested": "inverse-problems",
-  "title": "Formalizing inverse problems in the age of AI: possibilities, pitfalls, and an invitation",
-  "url": "https://arxiv.org/abs/2611.06962"
- },
- {
-  "added": "2026-11-06",
-  "arxiv": "2611.06146",
-  "candidates": [
-   [
-    "energy-storage",
-    4.8
-   ],
-   [
-    "microgrids",
-    2.38
-   ],
-   [
-    "storage-systems",
-    1.2
-   ]
-  ],
-  "confidence": "medium",
-  "doi": null,
-  "keys": [
-   "arxiv:2611.06146",
-   "title:multiperiodbilevelcoordinationofprimaryandsecondaryfrequencyregulationforgridformingbatteryenergystorage|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "We study the coordination of primary and secondary frequency regulation by grid-forming battery energy storage systems in islanded microgrids. We formulate the coordination as a multi-period bilevel program, in which the upper level schedules secondary regulation setpoints and each lower level computes primary regulation decisions. Using the lower-level Karush-Kuhn-Tucker conditions, we obtain an exact single-level reformulation with complementarity constraints. To address the numerical difficulties introduced by these constraints, we develop a continuation method that couples the complementarity relaxation parameter with the interior-point barrier parameter and warm-starts successive stages. Under the stated boundedness assumptions and with vanishing subproblem residuals, we prove that every accumulation point is feasible and satisfies a first-order stationarity condition for the reformulated problem (C-stationarity). Numerical results for an islanded microgrid show that the proposed method reduces solution time by 89.3% and peak frequency deviation by 0.53% relative to conventional Scholtes relaxation.",
-   "abstract_license": "cc0-1.0 (arxiv metadata)",
-   "arxiv": "2611.06146",
-   "authors": [
-    "Wenju Shang",
-    "Liangliang Hao",
-    "Jiangliang Jin",
-    "Yunjian Xu"
-   ],
-   "categories": [
-    "arXiv:eess.SY"
-   ],
-   "cited_by_count": null,
-   "doi": null,
-   "is_retracted": null,
-   "keywords": [],
-   "language": "en",
-   "peer_reviewed": false,
-   "publication": "arXiv",
-   "publication_type": "preprint",
-   "published_date": "2026-11-04",
-   "related_versions": [],
-   "source_ids": [
-    "arxiv:2611.06146"
-   ],
-   "title": "Multi-Period Bilevel Coordination of Primary and Secondary Frequency Regulation for Grid-Forming Battery Energy Storage",
-   "topics": [],
-   "updated_date": "2026-11-04",
-   "url": "https://arxiv.org/abs/2611.06146"
-  },
-  "score": 4.8,
-  "seen": 2,
-  "suggested": "energy-storage",
-  "title": "Multi-Period Bilevel Coordination of Primary and Secondary Frequency Regulation for Grid-Forming Battery Energy Storage",
-  "url": "https://arxiv.org/abs/2611.06146"
- },
- {
-  "added": "2026-11-06",
-  "arxiv": "2611.06207",
-  "candidates": [
-   [
-    "molecular-docking",
-    4.8
-   ],
-   [
-    "real-time-graphics-pipelines",
-    2.94
-   ],
-   [
-    "gpu-computing",
-    2.1
-   ],
-   [
-    "optimization",
-    1.05
-   ]
-  ],
-  "confidence": "medium",
-  "doi": null,
-  "keys": [
-   "arxiv:2611.06207",
-   "title:performanceportabilityofoutofkerneloptimizationsongpusamoleculardockingcasestudy|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "Achieving performance portability is challenging for irregular scientific applications built as repeated multi-kernel GPU pipelines, because throughput depends on out-of-kernel decisions as much as on kernel efficiency. Using molecular docking as a representative case study, we propose an out-of-kernel tuning methodology that treats batching policy, worker concurrency, and per-worker memory allocation as explicit optimization parameters, replacing backend-dependent occupancy-driven choices with a more portable execution strategy based on explicit resource bounds. We implement this methodology in the muDock mini-app under a manager/worker execution model where multiple host workers share a GPU through independent streams. We then evaluate the methodology on NVIDIA, AMD, and Intel GPUs across CUDA, HIP, and SYCL implementations. Across all evaluated platform/backend pairs, the memory-bounded formulation exceeds the peak throughput of the occupancy-guided baseline. The fully tuned methodology improves the end-to-end throughput on all tested configurations, achieving an average speedup of 1.53x over the baseline.",
-   "abstract_license": "cc0-1.0 (arxiv metadata)",
-   "arxiv": "2611.06207",
-   "authors": [
-    "Gianmarco Accordi",
-    "Leonardo Beltrame",
-    "Theresa Pollinger",
-    "Jens Domke",
-    "Davide Gadioli",
-    "Gianluca Palermo"
-   ],
-   "categories": [
-    "arXiv:cs.DC",
-    "arXiv:cs.PF"
-   ],
-   "cited_by_count": null,
-   "doi": null,
-   "is_retracted": null,
-   "keywords": [],
-   "language": "en",
-   "peer_reviewed": false,
-   "publication": "arXiv",
-   "publication_type": "preprint",
-   "published_date": "2026-11-04",
-   "related_versions": [],
-   "source_ids": [
-    "arxiv:2611.06207"
-   ],
-   "title": "Performance Portability of Out-of-Kernel Optimizations on GPUs: A Molecular Docking Case Study",
-   "topics": [],
-   "updated_date": "2026-11-04",
-   "url": "https://arxiv.org/abs/2611.06207"
-  },
-  "score": 4.8,
-  "seen": 2,
-  "suggested": "molecular-docking",
-  "title": "Performance Portability of Out-of-Kernel Optimizations on GPUs: A Molecular Docking Case Study",
-  "url": "https://arxiv.org/abs/2611.06207"
- },
- {
-  "added": "2026-11-07",
-  "arxiv": "2611.07311",
-  "candidates": [
-   [
-    "ray-tracing",
-    4.8
-   ],
-   [
-    "orthogonal-time-frequency-space",
-    4.48
-   ],
-   [
-    "channel-modeling",
-    3.1
-   ]
-  ],
-  "confidence": "medium",
-  "doi": null,
-  "keys": [
-   "arxiv:2611.07311",
-   "title:anovelbvhaccelerateddynamicraytracingchannelmodelforvehicularcommunicationsystems|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "Accurate and efficient channel modeling is critical for evaluating the sixth-generation (6G) networks, while dynamic ray-tracing (DRT) remains bottlenecked by its reliance on channel coherence time. To address this limitation, this paper proposes a novel bounding volume hierarchy-accelerated DRT (BVH-DRT), which introduces a mechanism shift from a time-driven update in DRT to a spatial-driven update. The proposed channel model clusters complex scatterers using the BVH method as pre-processing to establish a geometric coherence distance guided by transceiver kinematics, so that the ray update intervals in BVH-DRT can be autonomously adjusted to reduce the complexity. Furthermore, the non-stationary channel impulse responses are generated to evaluate delay-Doppler (DD) domain waveforms, including orthogonal time frequency space (OTFS) and orthogonal delay-Doppler division multiplexing (ODDM). Validations in vehicle-to-vehicle (V2V) scenarios demonstrate that BVH-DRT achieves spatial-temporal consistency with measurements and commercial software while significantly enhancing computational efficiency. Additionally, bit error rate (BER) evaluation highlights the severe impact of high-dynamic channels on waveform performance. The proposed framework is important for designing reliable communications and robust sensing in 6G networks.",
-   "abstract_license": "cc0-1.0 (arxiv metadata)",
-   "arxiv": "2611.07311",
-   "authors": [
-    "Songjiang Yang",
-    "Cheng-Xiang Wang",
-    "Yinghua Wang",
-    "Chen Wang",
-    "Jie Huang",
-    "Yunfei Chen"
-   ],
-   "categories": [
-    "arXiv:eess.SP"
-   ],
-   "cited_by_count": null,
-   "doi": null,
-   "is_retracted": null,
-   "keywords": [],
-   "language": "en",
-   "peer_reviewed": false,
-   "publication": "arXiv",
-   "publication_type": "preprint",
-   "published_date": "2026-11-05",
-   "related_versions": [],
-   "source_ids": [
-    "arxiv:2611.07311"
-   ],
-   "title": "A Novel BVH-accelerated Dynamic Ray-Tracing Channel Model for Vehicular Communication Systems",
-   "topics": [],
-   "updated_date": "2026-11-05",
-   "url": "https://arxiv.org/abs/2611.07311"
-  },
-  "score": 4.8,
-  "seen": 2,
-  "suggested": "ray-tracing",
-  "title": "A Novel BVH-accelerated Dynamic Ray-Tracing Channel Model for Vehicular Communication Systems",
-  "url": "https://arxiv.org/abs/2611.07311"
- },
- {
-  "added": "2026-11-07",
-  "arxiv": "2611.07357",
-  "candidates": [
-   [
-    "computed-tomography",
-    4.8
-   ],
-   [
-    "ct-image-reconstruction",
-    3.27
-   ],
-   [
-    "deep-learning",
-    1.2
-   ]
-  ],
-  "confidence": "medium",
-  "doi": null,
-  "keys": [
-   "arxiv:2611.07357",
-   "title:evaluationofimagenoisefromcomputedtomographyinanorganspecificanthropomorphicphantom|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "Computed tomography (CT) is used ubiquitously for diagnostic imaging, with novel iterative reconstructions such as hybrid iterative reconstruction with partial model-based component (ASiR-V) and deep learning image reconstruction (DLIR) increasingly utilized. In conjunction, CT vendors have developed a noise index (NI) to reduce radiation dose during protocol development. However, it is unclear how these reconstruction algorithms reduce noise as NI changes, particularly across multiple organs. The goal of this study was to utilize an anthropomorphic phantom to evaluate image noise against the prescribed NI across different organs, determine if DLIR reduces image noise compared to ASiR-V, and use this relationship to determine the maximum volume CT dose index (CTDIvol) reduction at equivalent noise levels. Repeat images were acquired on a GE HealthCare Revolution Apex CT scanner across NI values in an anthropomorphic adult-sized phantom from Kyoto Kagaku with ASiR-V and DLIR. Organs-of-interest were contoured using TotalSegmentator in 3D Slicer. The correlation between the CTDIvol and NI was determined. The standard deviation of the difference in the repeat images was used as a noise metric (NM), correlated with NI, used to determine the NI at equivalent NM between ASiR-V and DLIR, then applied to determine the dose reduction and difference in NM. The relationship between NI and the resulting CTDIvol was found to be proportional to a power law of exponent -2.23. The maximum potential absolute dose reduction from using DLIR was found in the liver at 1.3 mGy with an NI of 7.9. Across all organs, the relative dose reduction increased, the NM-to-NI ratio decreased, and the noise reduction increased across NI. The relationship between image noise and the prescribed NI differed between ASiR-V and DLIR and varied by organ, with model-based dose reductions of up to 1.3 mGy in the liver.",
-   "abstract_license": "cc0-1.0 (arxiv metadata)",
-   "arxiv": "2611.07357",
-   "authors": [
-    "Lucas McCullum",
-    "Mojtaba Zarei",
-    "Andy Tsai",
-    "Michael J. Callahan",
-    "Peng Sun",
-    "Da Zhang"
-   ],
-   "categories": [
-    "arXiv:physics.med-ph"
-   ],
-   "cited_by_count": null,
-   "doi": null,
-   "is_retracted": null,
-   "keywords": [],
-   "language": "en",
-   "peer_reviewed": false,
-   "publication": "arXiv",
-   "publication_type": "preprint",
-   "published_date": "2026-11-05",
-   "related_versions": [],
-   "source_ids": [
-    "arxiv:2611.07357"
-   ],
-   "title": "Evaluation of Image Noise from Computed Tomography in an Organ-Specific Anthropomorphic Phantom",
-   "topics": [],
-   "updated_date": "2026-11-05",
-   "url": "https://arxiv.org/abs/2611.07357"
-  },
-  "score": 4.8,
-  "seen": 2,
-  "suggested": "computed-tomography",
-  "title": "Evaluation of Image Noise from Computed Tomography in an Organ-Specific Anthropomorphic Phantom",
-  "url": "https://arxiv.org/abs/2611.07357"
- },
- {
-  "added": "2026-11-07",
-  "arxiv": "2611.07433",
-  "candidates": [
-   [
-    "deep-learning",
-    4.8
-   ],
-   [
-    "x-ray-imaging",
-    1.65
-   ],
-   [
-    "3d-reconstruction",
-    1.2
-   ],
-   [
-    "remote-sensing",
-    1.2
-   ],
-   [
-    "space-weather",
-    1.2
-   ]
-  ],
-  "confidence": "medium",
-  "doi": null,
-  "keys": [
-   "arxiv:2611.07433",
-   "title:mpdualnetadualbranchdeeplearningapproachformagnetopauseboundarydetectionusingsimulatedsxiimages|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "The Earth's magnetopause is a key boundary governing solar wind-magnetosphere coupling. The Solar wind Magnetosphere Ionosphere Link Explorer (SMILE) mission will provide global soft X-ray imaging of the magnetosphere through solar wind charge exchange (SWCX) emission, offering a new opportunity for remote sensing of magnetopause dynamics. However, the limited field of view (FOV) and variable observation geometry of the Soft X-ray Imager (SXI) pose challenges for reliable magnetopause detection. In this study, we develop MP-DualNet, an end-to-end dual-branch deep learning framework for automated magnetopause detection from simulated SXI observations. The framework jointly performs coarse localization to determine magnetopause visibility and relative position within the FOV, and fine-scale boundary localization through pixel-level segmentation. The model is trained and evaluated using line-of-sight magnetopause envelope maps derived from global hybrid simulations under different solar wind and interplanetary magnetic field conditions. The results demonstrate stable and consistent performance, with a classification accuracy exceeding 0.94 and a segmentation IoU above 0.97. For the test set, the mean absolute angular displacement from the reference boundary was 0.488 degrees. The model maintains robust performance across a wide range of noise levels and generalizes well, as demonstrated by its application to an independent storm event. These results indicate that MP-DualNet provides a reliable and generalizable approach for magnetopause detection in SXI observations, supporting future 3D reconstruction and space weather studies in the context of the SMILE mission.",
-   "abstract_license": "cc0-1.0 (arxiv metadata)",
-   "arxiv": "2611.07433",
-   "authors": [
-    "Cheng Zhong",
-    "Zhongwei Yang",
-    "Tianran Sun",
-    "Chengyan Huang",
-    "Jiajia Liu",
-    "Jingnan Guo",
-    "Yuming Wang",
-    "Chi Wang"
-   ],
-   "categories": [
-    "arXiv:astro-ph.SR",
-    "arXiv:astro-ph.IM"
-   ],
-   "cited_by_count": null,
-   "doi": null,
-   "is_retracted": null,
-   "keywords": [],
-   "language": "en",
-   "peer_reviewed": false,
-   "publication": "arXiv",
-   "publication_type": "preprint",
-   "published_date": "2026-11-05",
-   "related_versions": [],
-   "source_ids": [
-    "arxiv:2611.07433"
-   ],
-   "title": "MP-DualNet: A Dual-Branch Deep Learning Approach for Magnetopause Boundary Detection Using Simulated SXI Images",
-   "topics": [],
-   "updated_date": "2026-11-05",
-   "url": "https://arxiv.org/abs/2611.07433"
-  },
-  "score": 4.8,
-  "seen": 2,
-  "suggested": "deep-learning",
-  "title": "MP-DualNet: A Dual-Branch Deep Learning Approach for Magnetopause Boundary Detection Using Simulated SXI Images",
-  "url": "https://arxiv.org/abs/2611.07433"
- },
- {
-  "added": "2026-11-07",
-  "arxiv": "2611.07531",
-  "candidates": [
-   [
-    "reinforcement-learning",
-    4.8
-   ]
-  ],
-  "confidence": "medium",
-  "doi": "10.1103/4xnp-dsn4",
-  "keys": [
-   "arxiv:2611.07531",
-   "doi:10.1103/4xnp-dsn4",
-   "title:autotaxisofarunandtumbleagentviareinforcementlearning|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "We study the run-tumble motion of a single autochemotactic agent that secretes and senses chemical cues using a reinforcement learning (RL) framework. In a chemical environment that changes dynamically via secretion, diffusion, and degradation of attractant chemicals, we study the effectiveness of RL for a successful navigation strategy. We show that RL enhances chemotactic performance. Starting from a random initial position, the probability of finding the agent in the favorable region (near the attractant peak) increases faster with time and reaches a higher value in the long time limit when RL is used, compared to the case when the agent performs usual run-tumble chemotaxis without using RL. We also characterize the chemotactic performance of the agent by varying different parameters like rates of secretion, degradation, and diffusion. Importantly, we observe a non-monotonic dependence of the chemotactic performance on the learning and exploration rates, indicating the existence of an optimal RL strategy for the most efficient navigation. We explain these observations as a result of the interplay between the pre-existing attractant environment and the agent-generated attractant profile.",
-   "abstract_license": "cc0-1.0 (arxiv metadata)",
-   "arxiv": "2611.07531",
-   "authors": [
-    "Ramesh Pramanik",
-    "Shradha Mishra",
-    "Sakuntala Chatterjee"
-   ],
-   "categories": [
-    "arXiv:q-bio.CB",
-    "arXiv:cond-mat.stat-mech"
-   ],
-   "cited_by_count": null,
-   "doi": "10.1103/4xnp-dsn4",
-   "is_retracted": null,
-   "keywords": [],
-   "language": "en",
-   "peer_reviewed": null,
-   "publication": "Physical Review E 114, 054402 (2026)",
-   "publication_type": "preprint",
-   "published_date": "2026-11-05",
-   "related_versions": [
-    {
-     "doi": "10.1103/4xnp-dsn4",
-     "journal_ref": "Physical Review E 114, 054402 (2026)",
-     "relation": "published_version",
-     "source": "arxiv"
-    }
-   ],
-   "source_ids": [
-    "arxiv:2611.07531"
-   ],
-   "title": "Autotaxis of a Run-and-Tumble Agent via Reinforcement Learning",
-   "topics": [],
-   "updated_date": "2026-11-05",
-   "url": "https://arxiv.org/abs/2611.07531"
-  },
-  "score": 4.8,
-  "seen": 2,
-  "suggested": "reinforcement-learning",
-  "title": "Autotaxis of a Run-and-Tumble Agent via Reinforcement Learning",
-  "url": "https://arxiv.org/abs/2611.07531"
- },
- {
-  "added": "2026-11-07",
-  "arxiv": "2611.07725",
-  "candidates": [
-   [
-    "liquid-crystals",
-    4.8
-   ]
-  ],
-  "confidence": "medium",
-  "doi": null,
-  "keys": [
-   "arxiv:2611.07725",
-   "title:globalexistenceofsolutionstothe2dcompressiblenematicliquidcrystalflowswithlargeinitialdataandvacuum|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "For periodic initial data that allow vacuum, we establish the global-in-time existence of solutions to the 2D compressible nematic liquid crystal flows, under the condition that the bulk viscosity coefficient is sufficiently large and a geometric angular constraint is imposed on the initial direction field. Our results remain valid for arbitrarily large initial energy. Furthermore, under appropriate additional assumptions imposed on the pressure, we also establish the uniqueness of the constructed solutions.",
-   "abstract_license": "cc0-1.0 (arxiv metadata)",
-   "arxiv": "2611.07725",
-   "authors": [
-    "Qiao Liu",
-    "Qingkui Ma",
-    "Fuyi Xu"
-   ],
-   "categories": [
-    "arXiv:math.AP"
-   ],
-   "cited_by_count": null,
-   "doi": null,
-   "is_retracted": null,
-   "keywords": [],
-   "language": "en",
-   "peer_reviewed": false,
-   "publication": "arXiv",
-   "publication_type": "preprint",
-   "published_date": "2026-11-05",
-   "related_versions": [],
-   "source_ids": [
-    "arxiv:2611.07725"
-   ],
-   "title": "Global existence of solutions to the 2D compressible nematic liquid crystal flows with large initial data and vacuum",
-   "topics": [],
-   "updated_date": "2026-11-05",
-   "url": "https://arxiv.org/abs/2611.07725"
-  },
-  "score": 4.8,
-  "seen": 2,
-  "suggested": "liquid-crystals",
-  "title": "Global existence of solutions to the 2D compressible nematic liquid crystal flows with large initial data and vacuum",
-  "url": "https://arxiv.org/abs/2611.07725"
- },
- {
-  "added": "2026-11-11",
-  "arxiv": "2611.11732",
-  "candidates": [
-   [
-    "particle-filtering",
-    5.1
-   ],
-   [
-    "diffusion-models",
-    3.74
-   ],
-   [
-    "generative-models",
-    3.1
-   ]
-  ],
-  "confidence": "medium",
-  "doi": null,
-  "keys": [
-   "arxiv:2611.11732",
-   "title:particlefilteringwithgenerativetrajectorymodelsforstateestimationandcontrol|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "Generative models can support both state estimation and control in robotics. For control, a common approach is to use the model as a policy that directly samples actions conditioned on observation histories. However, models that jointly represent states, actions, and observations can also predict how the robot state and its environment evolve. We investigate whether these predictions can improve state estimation and control through a change in inference procedure, without modifying the pretrained model. To this end, we use particle filtering to maintain competing hypotheses about state histories. A single pretrained diffusion model generates these hypotheses along with their predicted observations and associated action proposals. As new measurements arrive, particles are reweighted according to how well their predicted observations match the measurements. While particle filtering conventionally uses these weights only for state estimation, we also use them to guide action selection, favoring proposals associated with hypotheses that better explain the observations. Simulation experiments in partially observed navigation and vision-based manipulation demonstrate improvements in both state estimation and task performance compared to action generation without filtering, using the same pretrained model and no additional test-time information.",
-   "abstract_license": "cc0-1.0 (arxiv metadata)",
-   "arxiv": "2611.11732",
-   "authors": [
-    "Lukas Lao Beyer",
-    "Samvit Das",
-    "Sertac Karaman"
-   ],
-   "categories": [
-    "arXiv:cs.RO",
-    "arXiv:cs.LG"
-   ],
-   "cited_by_count": null,
-   "doi": null,
-   "is_retracted": null,
-   "keywords": [],
-   "language": "en",
-   "peer_reviewed": false,
-   "publication": "arXiv",
-   "publication_type": "preprint",
-   "published_date": "2026-11-09",
-   "related_versions": [],
-   "source_ids": [
-    "arxiv:2611.11732"
-   ],
-   "title": "Particle Filtering with Generative Trajectory Models for State Estimation and Control",
-   "topics": [],
-   "updated_date": "2026-11-09",
-   "url": "https://arxiv.org/abs/2611.11732"
-  },
-  "score": 5.1,
-  "seen": 1,
-  "suggested": "particle-filtering",
-  "title": "Particle Filtering with Generative Trajectory Models for State Estimation and Control",
-  "url": "https://arxiv.org/abs/2611.11732"
- },
- {
-  "added": "2026-11-09",
-  "arxiv": null,
-  "candidates": [
-   [
-    "sequence-alignment",
-    3.1
-   ],
-   [
-    "molecular-biology",
-    3.1
-   ],
-   [
-    "structural-biology",
-    3.1
-   ]
-  ],
-  "confidence": "medium",
-  "doi": "10.1002/qub2.70062",
-  "keys": [
-   "doi:10.1002/qub2.70062",
-   "title:predictingthealternativeconformationofaknownproteinstructurebasedonthedistogramofalphafold2|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "Abstract AlphaFold2 (AF2) has become one of the most established and leading tools for predicting protein structures, although it often favors a single conformation. While it has been shown that sampling different conformations is possible by manipulating the multiple sequence alignment (MSA), the potential for multi‐state information within a standard AF2 prediction remains underexplored. In this work, we demonstrate that even with a deep MSA, AF2 predictions encode structural heterogeneity. Specifically, we observe that the predicted residue–residue distance distributions often exhibit multiple probability peaks before recycling, suggesting the presence of alternative states. We derive state‐specific distance restraints by fitting and separating these multi‐peak distributions. These restraints are then incorporated into Rosetta as energy terms to model large‐scale conformational transitions. Across multiple protein systems undergoing diverse types of conformational changes, our method effectively samples alternative conformations starting from an input conformation, producing models comparable to those from existing approaches. Our findings highlight a previously underutilized feature of AF2 predictions and offer a novel strategy to take advantage of these insights to study conformational flexibility and dynamics in proteins. This work broadens the applicability of AF2 in structural biology and the modeling of multi‐state protein systems.",
-   "abstract_license": "cc-by",
-   "arxiv": null,
-   "authors": [
-    "Jiaxuan Li",
-    "Zefeng Zhu",
-    "Chen Song"
-   ],
-   "categories": [
-    "OpenAlex-field:Biochemistry, Genetics and Molecular Biology"
-   ],
-   "cited_by_count": 6,
-   "doi": "10.1002/qub2.70062",
-   "is_retracted": false,
-   "keywords": [
-    "AlphaFold2",
-    "conformational heterogeneity",
-    "conformational change",
-    "protein flexibility",
-    "protein dynamics"
-   ],
-   "language": "en",
-   "oa_created": "2024-06-11",
-   "peer_reviewed": true,
-   "publication": "Quantitative Biology",
-   "publication_type": "article",
-   "published_date": "2026-11-06",
-   "related_versions": [],
-   "source_ids": [
-    "openalex:W4399506076"
-   ],
-   "title": "Predicting the alternative conformation of a known protein structure based on the distogram of AlphaFold2",
-   "topics": [
-    "Protein Structure and Dynamics",
-    "Molecular Biology"
-   ],
-   "updated_date": "2026-11-08",
-   "url": "https://doi.org/10.1002/qub2.70062"
-  },
-  "score": 3.1,
-  "seen": 1,
-  "suggested": "sequence-alignment",
-  "title": "Predicting the alternative conformation of a known protein structure based on the distogram of AlphaFold2",
-  "url": "https://doi.org/10.1002/qub2.70062"
- },
- {
-  "added": "2026-11-09",
-  "arxiv": "2407.09454",
-  "candidates": [
-   [
-    "molecular-physics",
-    3.1
-   ],
-   [
-    "plasmonics",
-    1.9
-   ],
-   [
-    "spectroscopy",
-    1.31
-   ],
-   [
-    "nanoantennas",
-    0.79
-   ],
-   [
-    "antennas",
-    0.46
-   ],
-   [
-    "optimization",
-    0.26
-   ]
-  ],
-  "confidence": "medium",
-  "doi": "10.1002/nap2.70348",
-  "keys": [
-   "arxiv:2407.09454",
-   "doi:10.1002/nap2.70348",
-   "title:plasmoniclightningrodeffect|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "ABSTRACT The plasmonic lightning‐rod effect refers to the formation of a strong electric near field of localized surface plasmons at the sharp features of plasmonic antennas. Although this effect is intuitively utilized in the design and optimization of plasmonic antennas, the relation between the magnitude of the electric field and the local curvature of the plasmonic antenna has not yet been rigorously established. Here, we provide such a study. We design sets of plasmonic antennas that allow us to isolate the role of the local curvature from other effects influencing the field. The electric near field is inspected by electron energy‐loss spectroscopy and electrodynamic simulations. We confirm the existence of the plasmonic lightning‐rod effect, demonstrate its decoupling from concurrent effects influencing the field, and establish its quantitative description, showing that its strength can be interpreted as comparable to that of the electrostatic lightning‐rod effect. We also provide a simple empirical formula for the spatial dependence of the field, which includes the effective radius of curvature significantly smaller than the geometrical radius.",
-   "abstract_license": "cc-by",
-   "arxiv": "2407.09454",
-   "authors": [
-    "Vlastimil Křápek",
-    "Rostislav Řepa",
-    "Michael Foltýn",
-    "Tomáš Šikola",
-    "Michal Horák"
-   ],
-   "categories": [
-    "OpenAlex-field:Physics and Astronomy"
-   ],
-   "cited_by_count": 6,
-   "doi": "10.1002/nap2.70348",
-   "is_retracted": false,
-   "keywords": [
-    "localized surface plasmons",
-    "plasmonic nanoantennas",
-    "local curvature",
-    "radius of curvature",
-    "electron energy loss spectroscopy",
-    "electrodynamic simulation"
-   ],
-   "language": "en",
-   "oa_created": "2024-07-16",
-   "peer_reviewed": true,
-   "publication": "Nanophotonics",
-   "publication_type": "article",
-   "published_date": "2026-11-06",
-   "related_versions": [],
-   "source_ids": [
-    "openalex:W4400668549"
-   ],
-   "title": "Plasmonic Lightning‐Rod Effect",
-   "topics": [
-    "Plasmonic and Surface Plasmon Research",
-    "Atomic and Molecular Physics, and Optics"
-   ],
-   "updated_date": "2026-11-08",
-   "url": "https://doi.org/10.1002/nap2.70348"
-  },
-  "score": 3.1,
-  "seen": 1,
-  "suggested": "molecular-physics",
-  "title": "Plasmonic Lightning‐Rod Effect",
-  "url": "https://doi.org/10.1002/nap2.70348"
- },
- {
-  "added": "2026-11-06",
-  "arxiv": "2611.06170",
-  "candidates": [
-   [
-    "retrieval-augmented-generation",
-    4.76
-   ],
-   [
-    "large-language-models",
-    3.7
-   ],
-   [
-    "tokenization",
-    2.55
-   ],
-   [
-    "analysis",
-    0.26
-   ]
-  ],
-  "confidence": "medium",
-  "doi": null,
-  "keys": [
-   "arxiv:2611.06170",
-   "title:assameselme2banopenweightassameselanguagemodelforefficientconsumergradedeployment|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "While Large Language Models (LLMs) excel in high-resource languages, their performance often degrades in low-resource languages due to tokenization inefficiencies, generative instability, and linguistic interference. This paper presents AssameseLM-E2B and its instruction-tuned variant, AssameseLM-E2B-it, a 2-billion-parameter model adapted specifically for low resource Assamese language. Built upon the Gemma-4 architecture, the model incorporates an expanded byte-level BPE vocabulary to reduce tokenization overhead by nearly 500% compared with multilingual 2B--3B baselines. We employ a parameter-efficient Continual Pre-Training (CPT) pipeline with Hybrid LoRA, followed by Supervised Fine-Tuning (SFT) on a balanced, multi-domain dataset to enhance instruction-following and Retrieval-Augmented Generation (RAG) capabilities. Evaluation demonstrates a Bits-per-Byte (BPB) score of 0.7488 on FLORES-200, alongside an overall RAG score of 96.7% and 100% refusal accuracy on adversarial unanswerable prompts. Comparative analysis reveals significant limitations in general-purpose baselines, including receptive-productive decoupling, generative degradation on Romanized Assamese, and unintended Bengali script assimilation. These results demonstrate the potential of parameter-efficient adaptation for developing capable, locally deployable language models for low-resource languages under constrained computational resources.",
-   "abstract_license": "cc0-1.0 (arxiv metadata)",
-   "arxiv": "2611.06170",
-   "authors": [
-    "Pragyan Phukan"
-   ],
-   "categories": [
-    "arXiv:cs.CL",
-    "arXiv:cs.AI",
-    "arXiv:cs.LG"
-   ],
-   "cited_by_count": null,
-   "doi": null,
-   "is_retracted": null,
-   "keywords": [],
-   "language": "en",
-   "peer_reviewed": false,
-   "publication": "arXiv",
-   "publication_type": "preprint",
-   "published_date": "2026-11-04",
-   "related_versions": [],
-   "source_ids": [
-    "arxiv:2611.06170"
-   ],
-   "title": "AssameseLM-E2B: An Open-Weight Assamese Language Model for Efficient Consumer-Grade Deployment",
-   "topics": [],
-   "updated_date": "2026-11-04",
-   "url": "https://arxiv.org/abs/2611.06170"
-  },
-  "score": 4.76,
-  "seen": 2,
-  "suggested": "retrieval-augmented-generation",
-  "title": "AssameseLM-E2B: An Open-Weight Assamese Language Model for Efficient Consumer-Grade Deployment",
-  "url": "https://arxiv.org/abs/2611.06170"
- },
- {
-  "added": "2026-11-08",
-  "arxiv": null,
-  "candidates": [
-   [
-    "animal-nutrition",
-    3.74
-   ],
-   [
-    "cell-signaling",
-    3.1
-   ],
-   [
-    "animal-science",
-    3.1
-   ],
-   [
-    "molecular-biology",
-    3.1
-   ],
-   [
-    "transcriptomics",
-    2.2
-   ],
-   [
-    "proteomics",
-    2.2
-   ]
-  ],
-  "confidence": "medium",
-  "doi": null,
-  "keys": [
-   "title:larginineanditseffectsonproductiveperformanceinbirds|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "The L-arginine is essential amino acid for birds because they have limited ability to produce enough endogenous L-arginine. In addition to its role in protein synthesis, arginine serves as a precursor of polyamines, creatine, proline, other bioactive metabolites, and nitric oxide, which are involved in growth, immune function, antioxidant defense, integrity of the intestine, reproduction, and cell signaling. The purpose of this review was to critically appraise the present understanding on the metabolism, physiological role and application of l-arginine supplementation to the nutrition of various types of poultry especially broiler chickens, laying hens, breeder flocks and Japanese quail. Therefore, experimental studies have shown that providing sufficient levels of arginine in the diet is crucial for optimum growth performance, feed efficiency, skeletal muscle development, reproductive performance and immune competence. These beneficial effects are most clearly demonstrated when nutrients are added at times of high growth rate, heat stress, oxidative stress, immune challenge, or when dietary arginine is low. However, excessive supplementation beyond the physiological requirement does not always result in an increase in productive performance and can influence the amino acid balance, especially when the level is increased with lysine. Recent studies in molecular biology have shown that arginine affects several signaling pathways such as nitric oxide synthase, mechanistic target of rapamycin (mTOR), phosphoinositide 3-kinase/protein kinase B (PI3K/Akt), and polyamine biosynthesis, which in turn impact nutrient utilization, intestinal development, cellular proliferation, and stress adaptation. Further, emerging evidence indicates that arginine regulates gut microbiota and gut host–microbe interaction, which opens the possibilities for gut health and disease resistance. However, this is achieved while there is great variation within published studies ranging from species of birds, genotype, age, diet, environmental factors and experimental design. Future studies should combine transcriptomics, proteomics, metabolomics and microbiome studies with standardized dose-response studies to clarify precise nutritional recommendations for various poultry production systems. In conclusion, L-arginine is not just an amino acid that is essential to poultry but a multifunctional nutritional regulator that has considerable potential to enhance poultry health, welfare and productivity when fed at the correct dietary level.",
-   "abstract_license": "cc-by",
-   "arxiv": null,
-   "authors": [
-    "Ibrahim Adnan Al Taee",
-    "Tireza Sargon Safar",
-    "Gashbin S. Mohammad",
-    "Sabir T. Sabir",
-    "Mohammed KH. Taha",
-    "Abdulrahman A. Ibrahim",
-    "Ahmed Sami Shaker"
-   ],
-   "categories": [
-    "OpenAlex-field:Agricultural and Biological Sciences"
-   ],
-   "cited_by_count": 0,
-   "doi": null,
-   "is_retracted": false,
-   "keywords": [
-    "L-arginine",
-    "arginine supplementation",
-    "poultry nutrition",
-    "broiler chickens",
-    "laying hens",
-    "breeder flocks",
-    "Japanese quail",
-    "growth performance",
-    "feed efficiency",
-    "reproductive performance",
-    "immunocompetence",
-    "nitric oxide",
-    "polyamine biosynthesis",
-    "mTOR signaling",
-    "PI3K/Akt signaling",
-    "gut microbiota",
-    "gut health",
-    "heat stress",
-    "oxidative stress",
-    "amino acid balance",
-    "lysine"
-   ],
-   "language": "en",
-   "oa_created": "2026-11-06",
-   "peer_reviewed": true,
-   "publication": "Manuscripts on the Evolution of Medicine and Natural Sciences",
-   "publication_type": "article",
-   "published_date": "2026-11-04",
-   "related_versions": [],
-   "source_ids": [
-    "openalex:W7225360267"
-   ],
-   "title": "L-ARGININE AND ITS EFFECTS ON PRODUCTIVE PERFORMANCE IN BIRDS",
-   "topics": [
-    "Animal Nutrition and Physiology",
-    "Animal Science and Zoology"
-   ],
-   "updated_date": "2026-11-07",
-   "url": "https://manuscriptology.org/index.php/EMNS/article/view/1081"
-  },
-  "score": 3.74,
-  "seen": 2,
-  "suggested": "animal-nutrition",
-  "title": "L-ARGININE AND ITS EFFECTS ON PRODUCTIVE PERFORMANCE IN BIRDS",
-  "url": "https://manuscriptology.org/index.php/EMNS/article/view/1081"
- },
- {
-  "added": "2026-11-07",
-  "arxiv": "2611.07354",
-  "candidates": [
-   [
-    "physically-based-rendering",
-    4.73
-   ],
-   [
-    "diffusion-models",
-    3.5
-   ],
-   [
-    "texture-synthesis",
-    3.1
-   ],
-   [
-    "rendering",
-    1.94
-   ]
-  ],
-  "confidence": "medium",
-  "doi": "10.1145/3842521",
-  "keys": [
-   "arxiv:2611.07354",
-   "doi:10.1145/3842521",
-   "title:mikumaterialinvarianceandknowledgeunificationforpbrgeneration|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "High-quality material generation for physically based rendering (PBR) remains challenging because datasets and synthesis pipelines lack standardized representations. Differences in material definitions, rendering conventions, and parameterizations lead to unstable and physically implausible results. We propose MIKU, a unified framework for standardized PBR asset representation and physically consistent material generation across diverse 3D content domains. Its core is a unified processing pipeline that standardizes the workflow from data preprocessing to final texture synthesis, maintaining consistent geometry and texture representations. A normalization scheme harmonizes heterogeneous material parameterizations in a common representation space, enabling robust cross-dataset training and inference. Building on this formulation, we train a novel physically aware diffusion model for PBR texture generation within a two-stage multi-view synthesis framework. First, geometry-aware albedo generation synthesizes multi-view albedo maps under explicit geometric guidance to ensure cross-view appearance consistency. Second, metallic-roughness generation uses the diffusion model to predict physically plausible roughness and metallic maps conditioned on the generated albedo and unified representation. Trained end-to-end on standardized data, the model learns to generate materials that respect category-level material priors and semantic part boundaries. By decoupling representation standardization from appearance synthesis, MIKU substantially improves material generation stability and physical consistency. Extensive experiments demonstrate state-of-the-art texture quality and semantic consistency across object parts, advancing automated material generation for 3D content creation.",
-   "abstract_license": "cc0-1.0 (arxiv metadata)",
-   "arxiv": "2611.07354",
-   "authors": [
-    "Yajie Bao",
-    "Jiaye Fu",
-    "Youtian Lin",
-    "Shuang Wu",
-    "Jiachen Qian",
-    "Feihu Zhang",
-    "Xun Cao",
-    "Yao Yao"
-   ],
-   "categories": [
-    "arXiv:cs.CV"
-   ],
-   "cited_by_count": null,
-   "doi": "10.1145/3842521",
-   "is_retracted": null,
-   "keywords": [],
-   "language": "en",
-   "peer_reviewed": null,
-   "publication": "arXiv",
-   "publication_type": "preprint",
-   "published_date": "2026-11-05",
-   "related_versions": [
-    {
-     "doi": "10.1145/3842521",
-     "relation": "published_version",
-     "source": "arxiv"
-    }
-   ],
-   "source_ids": [
-    "arxiv:2611.07354"
-   ],
-   "title": "MIKU: Material Invariance and Knowledge Unification for PBR Generation",
-   "topics": [],
-   "updated_date": "2026-11-05",
-   "url": "https://arxiv.org/abs/2611.07354"
-  },
-  "score": 4.73,
-  "seen": 2,
-  "suggested": "physically-based-rendering",
-  "title": "MIKU: Material Invariance and Knowledge Unification for PBR Generation",
-  "url": "https://arxiv.org/abs/2611.07354"
- },
- {
-  "added": "2026-11-09",
-  "arxiv": "2511.04997",
-  "candidates": [
-   [
-    "artificial-intelligence",
-    3.1
-   ],
-   [
-    "analysis",
-    1.12
-   ],
-   [
-    "intelligent-transportation-systems",
-    0.45
-   ]
-  ],
-  "confidence": "medium",
-  "doi": "10.1080/19345747.2026.2736856",
-  "keys": [
-   "arxiv:2511.04997",
-   "doi:10.1080/19345747.2026.2736856",
-   "title:dointelligenttutoringsystemsbenefitk12studentsametaanalysisandevaluationofheterogeneityoftreatmenteffectsintheus|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "To expand the use of intelligent tutoring systems (ITS) in K-12 schools, it is essential to understand the conditions under which they are most beneficial. Using Campbell’s validity typology and the MUTOS framework, this study reviews threats to the internal and external validity of a sample of ITS studies. The meta-analysis evaluated heterogeneity in ITS effects across 18 studies in U.S. K-12 schools. The sample included 79 effect sizes across 11 ITS. Overall, ITS had a significant positive effect size on learning outcomes (g = 0.274, SE = 0.011, p = 0.001). Sensitivity analyses showed robustness to publication bias. Effect sizes were similar across elementary and middle schools but were lower in studies that included rural schools and studies with low differential attrition. A MetaForest analysis showed that providing worked-out examples, intervention duration, intervention condition, learning outcome type, and immediate measurement were the most important moderators of treatment effects.",
-   "abstract_license": null,
-   "arxiv": "2511.04997",
-   "authors": [
-    "Walter L. Leite",
-    "Huibin Zhang",
-    "Shibani Rana",
-    "Yide Hao",
-    "Amber H. Busch",
-    "Lingchen Kong",
-    "Huan Kuang"
-   ],
-   "categories": [
-    "OpenAlex-field:Computer Science"
-   ],
-   "cited_by_count": 5,
-   "doi": "10.1080/19345747.2026.2736856",
-   "is_retracted": false,
-   "keywords": [
-    "intelligent tutoring systems",
-    "K-12 education",
-    "treatment effect heterogeneity",
-    "worked examples",
-    "intervention duration",
-    "low-achieving students",
-    "rural schools",
-    "elementary and middle schools",
-    "learning outcomes",
-    "treatment moderators"
-   ],
-   "language": "en",
-   "oa_created": "2025-11-11",
-   "peer_reviewed": true,
-   "publication": "Journal of Research on Educational Effectiveness",
-   "publication_type": "review",
-   "published_date": "2026-11-06",
-   "related_versions": [],
-   "source_ids": [
-    "openalex:W7104706616"
-   ],
-   "title": "Do Intelligent Tutoring Systems Benefit K-12 Students? A Meta-Analysis and Evaluation of Heterogeneity of Treatment Effects in the U.S.",
-   "topics": [
-    "Intelligent Tutoring Systems and Adaptive Learning",
-    "Artificial Intelligence"
-   ],
-   "updated_date": "2026-11-08",
-   "url": "https://doi.org/10.1080/19345747.2026.2736856"
-  },
-  "score": 3.1,
-  "seen": 1,
-  "suggested": "artificial-intelligence",
-  "title": "Do Intelligent Tutoring Systems Benefit K-12 Students? A Meta-Analysis and Evaluation of Heterogeneity of Treatment Effects in the U.S.",
-  "url": "https://doi.org/10.1080/19345747.2026.2736856"
- },
- {
-  "added": "2026-11-09",
-  "arxiv": "2504.13669",
-  "candidates": [
-   [
-    "parameterized-complexity",
-    3.1
-   ],
-   [
-    "approximation-algorithms",
-    3.1
-   ],
-   [
-    "graph-theory",
-    1.2
-   ],
-   [
-    "optimization",
-    0.26
-   ]
-  ],
-  "confidence": "medium",
-  "doi": "10.1145/3859480",
-  "keys": [
-   "arxiv:2504.13669",
-   "doi:10.1145/3859480",
-   "title:broadcastingunderstructuralrestrictions|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "In the Telephone Broadcast problem we are given a graph G = ( V , E ) with a designated source vertex s ∈ V . Our goal is to transmit a message, which is initially known only to s , to all vertices of the graph by using a process where in each round an informed vertex may transmit the message to one of its uninformed neighbors. The optimization objective is to minimize the number of rounds. Following up on several recent works, we investigate the structurally parameterized complexity of Telephone Broadcast . In particular, we first strengthen existing NP-hardness results by showing that the problem remains NP-complete on graphs of bounded tree-depth and also on cactus graphs which are one vertex deletion away from being path forests. Motivated by this (severe) hardness, we study several other parameterizations of the problem and obtain FPT algorithms parameterized by vertex integrity (generalizing a recent FPT algorithm parameterized by vertex cover by Fomin, Fraigniaud, and Golovach [TCS 2024]) and by distance to clique, as well as FPT approximation algorithms parameterized by clique-cover and cluster vertex deletion. Furthermore, we obtain structural results that relate the length of the optimal broadcast protocol of a graph G with its pathwidth and tree-depth. By presenting a substantial improvement over the best previously known bound for pathwidth (Aminian, Kamali, Seyed-Javadi, and Sumedha [ICALP 2025]) we exponentially improve the approximation ratio achievable in polynomial time on graphs of bounded pathwidth from \\(\\mathcal {O}(4^\\mathrm{pw}) \\) to \\(\\mathcal {O}(\\mathrm{pw}) \\) .",
-   "abstract_license": "cc-by",
-   "arxiv": "2504.13669",
-   "authors": [
-    "Yudai Egami",
-    "Tatsuya Gima",
-    "Tesshu Hanaka",
-    "Yasuaki Kobayashi",
-    "Michael Lampis",
-    "Valia Mitsou",
-    "Edouard Nemery",
-    "Yota Otachi",
-    "Manolis Vasilakis",
-    "Daniel Vaz"
-   ],
-   "categories": [
-    "OpenAlex-field:Computer Science"
-   ],
-   "cited_by_count": 5,
-   "doi": "10.1145/3859480",
-   "is_retracted": false,
-   "keywords": [
-    "broadcast scheduling",
-    "structural parameterization",
-    "NP-completeness",
-    "tree depth",
-    "cactus graphs",
-    "clique cover",
-    "pathwidth"
-   ],
-   "language": "en",
-   "oa_created": "2025-11-15",
-   "peer_reviewed": true,
-   "publication": "ACM Transactions on Computation Theory",
-   "publication_type": "article",
-   "published_date": "2026-11-06",
-   "related_versions": [],
-   "source_ids": [
-    "openalex:W7105760941"
-   ],
-   "title": "Broadcasting Under Structural Restrictions",
-   "topics": [
-    "Advanced Graph Theory Research",
-    "Computational Theory and Mathematics"
-   ],
-   "updated_date": "2026-11-08",
-   "url": "https://doi.org/10.1145/3859480"
-  },
-  "score": 3.1,
-  "seen": 1,
-  "suggested": "parameterized-complexity",
-  "title": "Broadcasting Under Structural Restrictions",
-  "url": "https://doi.org/10.1145/3859480"
- },
- {
-  "added": "2026-11-07",
-  "arxiv": "2611.07540",
-  "candidates": [
-   [
-    "vision-language-models",
-    4.66
-   ],
-   [
-    "multimodal-foundation-models",
-    3.9
-   ]
-  ],
-  "confidence": "medium",
-  "doi": null,
-  "keys": [
-   "arxiv:2611.07540",
-   "title:actionconditionedvlmmonitoringforautonomousvehiclesemanticanomalies|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "We study action-conditioned monitoring of autonomous-vehicle behavior in semantically unusual driving scenes. The target is whether the executed ego action is appropriate for the scene: the same scene can admit both normal and anomalous behavior, so visual unusualness alone does not determine the monitoring label. A Vision-Language Model (VLM) first predicts the scene-required action from an outcome-hidden video window; the monitor then compares that expectation with the realized ego-motion trajectory under an explicit compatibility rule. To study this monitoring task, we contribute a six-field taxonomy of 112 paired scenarios spanning both failure polarities (42 derived from documented incidents), a generated video corpus with estimated trajectories, and an exploratory two-stage monitor on that corpus. On 235 clips from 15 scenario families, the two-stage protocol with a fixed T-2.5 s window obtains 83.0% accuracy and anomaly recall 0.773, versus 74.5% and 0.536 for a single-stage video-only baseline; specificity is 0.880 versus 0.928.",
-   "abstract_license": "cc0-1.0 (arxiv metadata)",
-   "arxiv": "2611.07540",
-   "authors": [
-    "Daniel Adejumo",
-    "Omkar Ankalkope",
-    "Kunal Runwal",
-    "Aliasghar Arab"
-   ],
-   "categories": [
-    "arXiv:cs.CV",
-    "arXiv:cs.AI"
-   ],
-   "cited_by_count": null,
-   "doi": null,
-   "is_retracted": null,
-   "keywords": [],
-   "language": "en",
-   "peer_reviewed": false,
-   "publication": "arXiv",
-   "publication_type": "preprint",
-   "published_date": "2026-11-05",
-   "related_versions": [],
-   "source_ids": [
-    "arxiv:2611.07540"
-   ],
-   "title": "Action-Conditioned VLM Monitoring for Autonomous Vehicle Semantic Anomalies",
-   "topics": [],
-   "updated_date": "2026-11-05",
-   "url": "https://arxiv.org/abs/2611.07540"
-  },
-  "score": 4.66,
-  "seen": 2,
-  "suggested": "vision-language-models",
-  "title": "Action-Conditioned VLM Monitoring for Autonomous Vehicle Semantic Anomalies",
-  "url": "https://arxiv.org/abs/2611.07540"
- },
- {
-  "added": "2026-11-08",
-  "arxiv": null,
-  "candidates": [
-   [
-    "graphene-oxide",
-    3.66
-   ],
-   [
-    "infectious-diseases",
-    3.3
-   ],
-   [
-    "analytical-chemistry",
-    3.1
-   ],
-   [
-    "carbon-nanotubes",
-    3.0
-   ],
-   [
-    "graphene",
-    1.64
-   ],
-   [
-    "molecular-diagnostics",
-    1.5
-   ]
-  ],
-  "confidence": "medium",
-  "doi": null,
-  "keys": [
-   "title:applicationofcrisprassistedchemiresistiveandelectrochemicalsensornetworksforhighfidelitydetectionofrnadnapathogensignatures|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "The acute-onset nature of infectious diseases has increased the need to have superior, sensitive as well as fast technologies of detecting pathogens. The standard molecular diagnostic methods usually involve complex laboratory facilities, dedicated equipment, and expertise, which pose a difficulty in applications of point-of-care assays. This work explores how CRISPR-assisted chemiresistive and electrochemical sensor networks can be used to detect RNA/DNA pathogen signatures with high fidelity. This paper examines the utilization of molecular recognition techniques CRISPR-Cas12 and CRISPR-Cas13 in the advanced electrical sensing systems. Graphene, reduced graphene oxide, carbon nanotubes and functionalised electrodes are among those technologies that have been proposed for conversion of molecular recognition event into electrical signals. In order to analyze sensors' performance and measure their sensitivity and specificity, accuracy, re-producibility and response time a computational platform analysis using Python programming, statistics and machine learning techniques is provided. Comparative analysis highlights the possible advantages of combining chemiresistive and electrochemical measurement technologies in order to improve the reliability of diagnostics and develop multiplex pathogen detection system. The results suggest the potential of developing small, cost-effective and automated diagnostic tools. However, the stability of sensors should be optimized and the sensors should be developed and validated experimentally. In sum, the suggested integration provides an excellent perspective in the area of technology that will enable the development of molecular diagnostics, infectious disease surveillance, and point-of-care pathogen detection.",
-   "abstract_license": null,
-   "arxiv": null,
-   "authors": [
-    "Tarun Ghosh"
-   ],
-   "categories": [
-    "OpenAlex-field:Chemistry"
-   ],
-   "cited_by_count": 0,
-   "doi": null,
-   "is_retracted": false,
-   "keywords": [
-    "CRISPR-Cas12",
-    "CRISPR-Cas13",
-    "chemiresistive sensors",
-    "electrochemical sensor",
-    "pathogen detection",
-    "point-of-care testing",
-    "multiplex pathogen detection",
-    "graphene",
-    "reduced graphene oxide",
-    "carbon nanotubes",
-    "functionalized electrodes",
-    "infectious disease surveillance",
-    "molecular diagnosis",
-    "sensor stability"
-   ],
-   "language": "en",
-   "oa_created": "2026-11-06",
-   "peer_reviewed": true,
-   "publication": "Journal of chemical health risks",
-   "publication_type": "article",
-   "published_date": "2026-11-04",
-   "related_versions": [],
-   "source_ids": [
-    "openalex:W7225351152"
-   ],
-   "title": "Application of CRISPR-Assisted Chemiresistive and Electrochemical Sensor Networks for High-Fidelity Detection of RNA/DNA Pathogen Signatures",
-   "topics": [
-    "Electrochemical sensors and biosensors",
-    "Analytical Chemistry"
-   ],
-   "updated_date": "2026-11-07",
-   "url": "https://jchr.org/index.php/JCHR/article/view/17791"
-  },
-  "score": 3.66,
-  "seen": 2,
-  "suggested": "graphene-oxide",
-  "title": "Application of CRISPR-Assisted Chemiresistive and Electrochemical Sensor Networks for High-Fidelity Detection of RNA/DNA Pathogen Signatures",
-  "url": "https://jchr.org/index.php/JCHR/article/view/17791"
- },
- {
-  "added": "2026-11-07",
-  "arxiv": "2611.07523",
-  "candidates": [
-   [
-    "tokenization",
-    4.65
-   ],
-   [
-    "large-language-models",
-    3.9
-   ],
-   [
-    "recommender-systems",
-    3.1
-   ]
-  ],
-  "confidence": "medium",
-  "doi": null,
-  "keys": [
-   "arxiv:2611.07523",
-   "title:optstoptimizingsemantictokenizationforllmenhancedrecommendation|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "Semantic information can enrich the identifiers and structured fields used by recommender systems. Semantic tokenization provides a structured representation of this information by converting LLM-derived user profiles into discrete tokens. In the common two-stage pipeline, the tokenizer is trained before the recommender. Its token assignments are then treated as fixed input features during recommendation training. As a result, the downstream recommender can learn how to use the assigned indices, but it cannot revise the semantic partition that produced them. Making this partition task-aware is difficult because nearest-code assignment is discrete, and unconstrained adaptation may also distort the geometry learned during pretraining. Moreover, a fixed token depth exposes the same semantic resolution to every interaction. We thus propose OptST (Optimizing Semantic Tokenization), which makes a pretrained tokenizer responsive to downstream recommendation. To revise token assignments without directly updating the pretrained encoder or base codebooks, OptST learns a low-rank deformation whose drift is limited by an anchor regularizer. Recommendation supervision reaches this transformation through a straight-through estimator, while prediction retains hard nearest-code assignments. Beyond adapting the assignments themselves, OptST selects an interaction-conditioned prefix to control how much residual detail is exposed to the recommender. Experiments on four public datasets show that OptST achieves the highest AUC among conventional and LLM-enhanced baselines. Its improvements also persist across different recommendation backbones. These results establish task-aware semantic tokenization as an effective interface between LLM-derived profiles and downstream recommendation models.",
-   "abstract_license": "cc0-1.0 (arxiv metadata)",
-   "arxiv": "2611.07523",
-   "authors": [
-    "Hanchong Chen",
-    "Jie Liu",
-    "Fuyuan Lyu",
-    "Dugang Liu",
-    "Lingjie Li",
-    "Xiuqiang He",
-    "Xing Tang"
-   ],
-   "categories": [
-    "arXiv:cs.IR"
-   ],
-   "cited_by_count": null,
-   "doi": null,
-   "is_retracted": null,
-   "keywords": [],
-   "language": "en",
-   "peer_reviewed": false,
-   "publication": "arXiv",
-   "publication_type": "preprint",
-   "published_date": "2026-11-05",
-   "related_versions": [],
-   "source_ids": [
-    "arxiv:2611.07523"
-   ],
-   "title": "OptST: Optimizing Semantic Tokenization for LLM-Enhanced Recommendation",
-   "topics": [],
-   "updated_date": "2026-11-05",
-   "url": "https://arxiv.org/abs/2611.07523"
-  },
-  "score": 4.65,
-  "seen": 2,
-  "suggested": "tokenization",
-  "title": "OptST: Optimizing Semantic Tokenization for LLM-Enhanced Recommendation",
-  "url": "https://arxiv.org/abs/2611.07523"
- },
- {
-  "added": "2026-11-07",
-  "arxiv": "2611.07735",
-  "candidates": [
-   [
-    "in-context-learning",
-    4.65
-   ],
-   [
-    "large-language-models",
-    3.88
-   ],
-   [
-    "llm-based-agents",
-    3.7
-   ],
-   [
-    "calibration",
-    0.46
-   ]
-  ],
-  "confidence": "medium",
-  "doi": "10.18653/2026.wnut-1.7",
-  "keys": [
-   "arxiv:2611.07735",
-   "doi:10.18653/2026.wnut-1.7",
-   "title:evaluatingtokenprobabilitiesasconfidenceestimatorsinhumanbehaviorsimulationsacasestudyinluxembourgishnextlikeprediction|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "As large language models (LLMs) are increasingly used to simulate human behavior, their operational validity is typically assessed through accuracy alone, implicitly treating human behavior as deterministic. We argue that on noisy digital trace data, a model's performance depends not only on predicting the correct outcome but on its calibration. We present a case study testing whether the token probabilities of open-weight LLMs can serve as confidence estimates in a Next Like Prediction task: predicting how a user of the Luxembourgish news platform RTL.lu rates a comment, conditioned on their prior interactions. Evaluating Ministral 3 (3B, 8B), we find that, with in-context learning only, the tested models are overconfident and are outperformed on accuracy and calibration by a simple statistical baseline. Accuracy and calibration do not move together: scaling from 3B to 8B improves accuracy while degrading calibration, and longer behavioral histories raise accuracy while confidence declines. Task-specific supervised fine-tuning acts as an effective calibration intervention, reducing Expected Calibration Error from 0.2 to 0.006 while improving accuracy from 0.536 to 0.758. We conclude that confidence estimation should be evaluated alongside accuracy to improve validity when using LLM-based agents.",
-   "abstract_license": "cc0-1.0 (arxiv metadata)",
-   "arxiv": "2611.07735",
-   "authors": [
-    "Nils Schwager",
-    "Simon Münker",
-    "Alistair Plum",
-    "Achim Rettinger"
-   ],
-   "categories": [
-    "arXiv:cs.CL",
-    "arXiv:cs.AI"
-   ],
-   "cited_by_count": null,
-   "doi": "10.18653/2026.wnut-1.7",
-   "is_retracted": null,
-   "keywords": [],
-   "language": "en",
-   "peer_reviewed": null,
-   "publication": "Proceedings of the 11th Workshop on Natural User-generated Text (W-NUT), 2026",
-   "publication_type": "preprint",
-   "published_date": "2026-11-05",
-   "related_versions": [
-    {
-     "doi": "10.18653/2026.wnut-1.7",
-     "journal_ref": "Proceedings of the 11th Workshop on Natural User-generated Text (W-NUT), 2026",
-     "relation": "published_version",
-     "source": "arxiv"
-    }
-   ],
-   "source_ids": [
-    "arxiv:2611.07735"
-   ],
-   "title": "Evaluating Token Probabilities as Confidence Estimators in Human Behavior Simulations: A Case Study in Luxembourgish Next Like Prediction",
-   "topics": [],
-   "updated_date": "2026-11-05",
-   "url": "https://arxiv.org/abs/2611.07735"
-  },
-  "score": 4.65,
-  "seen": 2,
-  "suggested": "in-context-learning",
-  "title": "Evaluating Token Probabilities as Confidence Estimators in Human Behavior Simulations: A Case Study in Luxembourgish Next Like Prediction",
-  "url": "https://arxiv.org/abs/2611.07735"
- },
- {
-  "added": "2026-11-09",
-  "arxiv": "2604.02420",
-  "candidates": [
-   [
-    "molecular-physics",
-    3.1
-   ],
-   [
-    "cryptography",
-    0.26
-   ]
-  ],
-  "confidence": "medium",
-  "doi": "10.22331/q-2026-11-06-2260",
-  "keys": [
-   "arxiv:2604.02420",
-   "doi:10.22331/q-2026-11-06-2260",
-   "title:boundingtheentanglementofastatefromitsspectrum|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "We introduce a framework to upper bound the entanglement content of a bipartite quantum state from its spectrum alone. Using linear maps and their inverses, we derive rigorous constraints on the maximal entanglement that can be activated under global unitary transformations. We use as entanglement quantifiers the negativity and the Schmidt number; however, our framework is general and applies to any other entanglement measure. Our approach yields compact analytical sufficient criteria for bounding the entanglement of full-rank states in arbitrary dimensions and reveals new spectral constraints on Schmidt number witnesses.",
-   "abstract_license": "cc-by",
-   "arxiv": "2604.02420",
-   "authors": [
-    "Jofre Abellanet-Vidal",
-    "Guillem Müller-Rigat",
-    "Albert Rico",
-    "Anna Sanpera"
-   ],
-   "categories": [
-    "OpenAlex-field:Physics and Astronomy"
-   ],
-   "cited_by_count": 4,
-   "doi": "10.22331/q-2026-11-06-2260",
-   "is_retracted": false,
-   "keywords": [
-    "entanglement bounds",
-    "bipartite quantum states",
-    "negativity",
-    "Schmidt number",
-    "linear maps",
-    "entanglement measures"
-   ],
-   "language": "en",
-   "oa_created": "2026-04-07",
-   "peer_reviewed": true,
-   "publication": "Quantum",
-   "publication_type": "article",
-   "published_date": "2026-11-06",
-   "related_versions": [],
-   "source_ids": [
-    "openalex:W7150752760"
-   ],
-   "title": "Bounding the entanglement of a state from its spectrum",
-   "topics": [
-    "Quantum Information and Cryptography",
-    "Atomic and Molecular Physics, and Optics"
-   ],
-   "updated_date": "2026-11-08",
-   "url": "https://doi.org/10.22331/q-2026-11-06-2260"
-  },
-  "score": 3.1,
-  "seen": 1,
-  "suggested": "molecular-physics",
-  "title": "Bounding the entanglement of a state from its spectrum",
-  "url": "https://doi.org/10.22331/q-2026-11-06-2260"
  }
 ]
