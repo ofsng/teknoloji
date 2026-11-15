@@ -77,7 +77,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **53**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **50**.
 
 - [A Systematic Literature Review of Blockchain and Distributed Ledger Technology for the Detection and Prevention of Phishing Attacks](Arastirmalar/2026-Odianosen-Systematic-Literature-Review-Blockchai.md) — Odianosen vd. (2026) · *Iconic Research and Engineering Journals* · hakemli
 <!-- AUTO:RESEARCH:END -->

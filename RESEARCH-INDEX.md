@@ -2,13 +2,13 @@
 
 > Bu dosya `python3 tools/kb.py reindex` tarafından otomatik üretilir. Elle düzenlemeyin.
 
-Toplam kayıt: **550**
+Toplam kayıt: **545**
 
 ## Disipline göre
 
 | Disiplin | Kayıt |
 |---|---|
-| [Bilgisayar Bilimleri](Bilgisayar-Bilimleri/_index.md) | 232 |
+| [Bilgisayar Bilimleri](Bilgisayar-Bilimleri/_index.md) | 227 |
 | [Elektrik ve Elektronik Mühendisliği](Elektrik-ve-Elektronik-Muhendisligi/_index.md) | 33 |
 | [Tıp ve Biyomedikal Teknolojiler](Tip-ve-Biyomedikal-Teknolojiler/_index.md) | 32 |
 | [Fizik ve Uygulamalı Fizik](Fizik-ve-Uygulamali-Fizik/_index.md) | 24 |
@@ -45,7 +45,7 @@ Toplam kayıt: **550**
 | [2026](research-index/2026.md) | 441 |
 | [2025](research-index/2025.md) | 19 |
 | [2024](research-index/2024.md) | 16 |
-| [2023](research-index/2023.md) | 16 |
+| [2023](research-index/2023.md) | 14 |
 | [2022](research-index/2022.md) | 8 |
 | [2021](research-index/2021.md) | 7 |
 | [2020](research-index/2020.md) | 6 |
@@ -58,10 +58,9 @@ Toplam kayıt: **550**
 | [2010](research-index/2010.md) | 2 |
 | [2009](research-index/2009.md) | 2 |
 | [2007](research-index/2007.md) | 3 |
-| [2006](research-index/2006.md) | 2 |
+| [2006](research-index/2006.md) | 1 |
 | [2003](research-index/2003.md) | 2 |
 | [2002](research-index/2002.md) | 3 |
-| [2001](research-index/2001.md) | 1 |
 | [2000](research-index/2000.md) | 1 |
 | [1999](research-index/1999.md) | 1 |
 | [1997](research-index/1997.md) | 1 |
@@ -69,7 +68,6 @@ Toplam kayıt: **550**
 | [1994](research-index/1994.md) | 1 |
 | [1993](research-index/1993.md) | 1 |
 | [1991](research-index/1991.md) | 1 |
-| [1977](research-index/1977.md) | 1 |
 
 ## Son eklenen 50 kayıt
 
@@ -80,7 +78,6 @@ Toplam kayıt: **550**
 | 1994-08-01 | [Multicast routing extensions for OSPF](Bilgisayar-Bilimleri/Bilgisayar-Aglari/Ag-Protokolleri/Ag-Katmani-Protokolleri/Yonlendirme-Protokolleri/Cok-Noktaya-Yayin-Yonlendirme/Arastirmalar/1994-Moy-Multicast-routing-extensions-for.md) | `doi:10.1145/179606.179654` | [Çok Noktaya Yayın Yönlendirme](Bilgisayar-Bilimleri/Bilgisayar-Aglari/Ag-Protokolleri/Ag-Katmani-Protokolleri/Yonlendirme-Protokolleri/Cok-Noktaya-Yayin-Yonlendirme/_index.md) | hakemli |
 | 2003-01-01 | [A Review of Multicast Routing Algorithm](Bilgisayar-Bilimleri/Bilgisayar-Aglari/Ag-Protokolleri/Ag-Katmani-Protokolleri/Yonlendirme-Protokolleri/Cok-Noktaya-Yayin-Yonlendirme/Arastirmalar/2003-Liu-Review-Multicast-Routing-Algorithm.md) | `kb:2003-liu-1fb6bbab` | [Çok Noktaya Yayın Yönlendirme](Bilgisayar-Bilimleri/Bilgisayar-Aglari/Ag-Protokolleri/Ag-Katmani-Protokolleri/Yonlendirme-Protokolleri/Cok-Noktaya-Yayin-Yonlendirme/_index.md) | hakemli |
 | 2009-04-04 | [VoIP Performance over Different Interior Gateway Protocols](Bilgisayar-Bilimleri/Bilgisayar-Aglari/Ag-Protokolleri/Ag-Katmani-Protokolleri/Yonlendirme-Protokolleri/Ic-Ag-Gecidi-Protokolleri/Arastirmalar/2009-Che-VoIP-Performance-over-Different.md) | `doi:10.54039/ijcnis.v1i1.6` | [İç Ağ Geçidi Protokolleri](Bilgisayar-Bilimleri/Bilgisayar-Aglari/Ag-Protokolleri/Ag-Katmani-Protokolleri/Yonlendirme-Protokolleri/Ic-Ag-Gecidi-Protokolleri/_index.md) | hakemli |
-| 2023-03-17 | [Studi Komparasi Kinerja Interior Gateway Protocol Berbasis Distance Vector dan Link State](Bilgisayar-Bilimleri/Bilgisayar-Aglari/Ag-Protokolleri/Ag-Katmani-Protokolleri/Yonlendirme-Protokolleri/Ic-Ag-Gecidi-Protokolleri/Arastirmalar/2023-Ramadhani-Studi-Komparasi-Kinerja-Interior.md) | `doi:10.32528/elkom.v5i1.7993` | [İç Ağ Geçidi Protokolleri](Bilgisayar-Bilimleri/Bilgisayar-Aglari/Ag-Protokolleri/Ag-Katmani-Protokolleri/Yonlendirme-Protokolleri/Ic-Ag-Gecidi-Protokolleri/_index.md) | hakemli |
 | 2024-10-01 | [A Comparative Analysis of Interior Gateway Protocols in Large-Scale Enterprise Topologies](Bilgisayar-Bilimleri/Bilgisayar-Aglari/Ag-Protokolleri/Ag-Katmani-Protokolleri/Yonlendirme-Protokolleri/Ic-Ag-Gecidi-Protokolleri/Arastirmalar/2024-Taha-Comparative-Analysis-Interior-Gateway.md) | `doi:10.55708/js0311005` | [İç Ağ Geçidi Protokolleri](Bilgisayar-Bilimleri/Bilgisayar-Aglari/Ag-Protokolleri/Ag-Katmani-Protokolleri/Yonlendirme-Protokolleri/Ic-Ag-Gecidi-Protokolleri/_index.md) | hakemli |
 | 2007-12-01 | [Avoiding Transient Loops During the Convergence of Link-State Routing Protocols](Bilgisayar-Bilimleri/Bilgisayar-Aglari/Ag-Protokolleri/Ag-Katmani-Protokolleri/Yonlendirme-Protokolleri/Ic-Ag-Gecidi-Protokolleri/Baglanti-Durumu-Yonlendirme/Arastirmalar/2007-Francois-Avoiding-Transient-Loops-During.md) | `doi:10.1109/tnet.2007.902686` | [Bağlantı Durumu Yönlendirme](Bilgisayar-Bilimleri/Bilgisayar-Aglari/Ag-Protokolleri/Ag-Katmani-Protokolleri/Yonlendirme-Protokolleri/Ic-Ag-Gecidi-Protokolleri/Baglanti-Durumu-Yonlendirme/_index.md) | hakemli |
 | 2009-01-01 | [The Birth of Link-State Routing](Bilgisayar-Bilimleri/Bilgisayar-Aglari/Ag-Protokolleri/Ag-Katmani-Protokolleri/Yonlendirme-Protokolleri/Ic-Ag-Gecidi-Protokolleri/Baglanti-Durumu-Yonlendirme/Arastirmalar/2009-McQuillan-The-Birth-Link-State.md) | `doi:10.1109/mahc.2009.17` | [Bağlantı Durumu Yönlendirme](Bilgisayar-Bilimleri/Bilgisayar-Aglari/Ag-Protokolleri/Ag-Katmani-Protokolleri/Yonlendirme-Protokolleri/Ic-Ag-Gecidi-Protokolleri/Baglanti-Durumu-Yonlendirme/_index.md) | hakemli |
@@ -125,3 +122,4 @@ Toplam kayıt: **550**
 | 2023-06-06 | [Blockchain Merkle Tree](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Blokzincir-Veri-Yapilari/Merkle-Agaclari/Arastirmalar/2023-Bo-riboyevna-Blockchain-Merkle-Tree.md) | `doi:10.31149/ijhcs.v5i5.4468` | [Merkle Ağaçları](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Blokzincir-Veri-Yapilari/Merkle-Agaclari/_index.md) | hakemli |
 | 2024-03-29 | [VADIA-Verkle Tree-based Approach for Dealing Data Integrity Attacks in Opportunistic Mobile Social Networks](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Blokzincir-Veri-Yapilari/Verkle-Agaclari/Arastirmalar/2024-Lakshmi-VADIA-Verkle-Tree-based.md) | `doi:10.58346/jowua.2024.i1.011` | [Verkle Ağaçları](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Blokzincir-Veri-Yapilari/Verkle-Agaclari/_index.md) | hakemli |
 | 2025-01-01 | [Polynomial Commitment in a Verkle Tree Based on a Non-Positional Polynomial Notation](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Blokzincir-Veri-Yapilari/Verkle-Agaclari/Arastirmalar/2025-Algazy-Polynomial-Commitment-Verkle-Tree.md) | `doi:10.32604/cmc.2025.065085` | [Verkle Ağaçları](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Blokzincir-Veri-Yapilari/Verkle-Agaclari/_index.md) | hakemli |
+| 2021-09-14 | [Methods of security analysis for Nakamoto consensus](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Konsensus-Mekanizmalari/Nakamoto-Konsensusu/Arastirmalar/2021-Methods-security-analysis-for.md) | `doi:10.1360/ssi-2021-0225` | [Nakamoto Konsensüsü](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Konsensus-Mekanizmalari/Nakamoto-Konsensusu/_index.md) | hakemli |

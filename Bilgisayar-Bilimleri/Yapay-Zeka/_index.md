@@ -91,7 +91,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **115**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **114**.
 
 - [Artificial Intelligence Changes Cognition Systems](Arastirmalar/2026-Vorozhikhin-Artificial-Intelligence-Changes-Cogn.md) — Vorozhikhin vd. (2026) · *Statistics and Economics* · hakemli
 <!-- AUTO:RESEARCH:END -->

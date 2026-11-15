@@ -90,7 +90,7 @@ Ana disiplinler:
           - [IPv6](Bilgisayar-Bilimleri/Bilgisayar-Aglari/Ag-Protokolleri/Ag-Katmani-Protokolleri/Internet-Protokolu/IPv6/_index.md) `[1 araştırma]`
         - [Yönlendirme Protokolleri](Bilgisayar-Bilimleri/Bilgisayar-Aglari/Ag-Protokolleri/Ag-Katmani-Protokolleri/Yonlendirme-Protokolleri/_index.md) — *Routing Protocols*
           - [Çok Noktaya Yayın Yönlendirme](Bilgisayar-Bilimleri/Bilgisayar-Aglari/Ag-Protokolleri/Ag-Katmani-Protokolleri/Yonlendirme-Protokolleri/Cok-Noktaya-Yayin-Yonlendirme/_index.md) — *Multicast Routing* `[3 araştırma]`
-          - [İç Ağ Geçidi Protokolleri](Bilgisayar-Bilimleri/Bilgisayar-Aglari/Ag-Protokolleri/Ag-Katmani-Protokolleri/Yonlendirme-Protokolleri/Ic-Ag-Gecidi-Protokolleri/_index.md) — *Interior Gateway Protocols* `[3 araştırma]`
+          - [İç Ağ Geçidi Protokolleri](Bilgisayar-Bilimleri/Bilgisayar-Aglari/Ag-Protokolleri/Ag-Katmani-Protokolleri/Yonlendirme-Protokolleri/Ic-Ag-Gecidi-Protokolleri/_index.md) — *Interior Gateway Protocols* `[2 araştırma]`
             - [Bağlantı Durumu Yönlendirme](Bilgisayar-Bilimleri/Bilgisayar-Aglari/Ag-Protokolleri/Ag-Katmani-Protokolleri/Yonlendirme-Protokolleri/Ic-Ag-Gecidi-Protokolleri/Baglanti-Durumu-Yonlendirme/_index.md) — *Link-State Routing* `[3 araştırma]`
             - [Uzaklık Vektörü Yönlendirme](Bilgisayar-Bilimleri/Bilgisayar-Aglari/Ag-Protokolleri/Ag-Katmani-Protokolleri/Yonlendirme-Protokolleri/Ic-Ag-Gecidi-Protokolleri/Uzaklik-Vektoru-Yonlendirme/_index.md) — *Distance-Vector Routing* `[3 araştırma]`
           - [Segment Yönlendirme](Bilgisayar-Bilimleri/Bilgisayar-Aglari/Ag-Protokolleri/Ag-Katmani-Protokolleri/Yonlendirme-Protokolleri/Segment-Yonlendirme/_index.md) — *Segment Routing* `[3 araştırma]`
@@ -263,7 +263,7 @@ Ana disiplinler:
           - [Hisse İspatı](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Konsensus-Mekanizmalari/Proof-of-Stake/_index.md) — *Proof of Stake* `[3 araştırma]`
             - [BFT Tarzı Hisse İspatı](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Konsensus-Mekanizmalari/Proof-of-Stake/BFT-Tabanli-Proof-of-Stake/_index.md) — *BFT-Style Proof of Stake*
             - [Yetkilendirilmiş Hisse İspatı](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Konsensus-Mekanizmalari/Proof-of-Stake/Delegated-Proof-of-Stake/_index.md) — *Delegated Proof of Stake* `[3 araştırma]`
-          - [İş İspatı](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Konsensus-Mekanizmalari/Proof-of-Work/_index.md) — *Proof of Work* `[3 araştırma]`
+          - [İş İspatı](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Konsensus-Mekanizmalari/Proof-of-Work/_index.md) — *Proof of Work* `[2 araştırma]`
           - [Nakamoto Konsensüsü](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Konsensus-Mekanizmalari/Nakamoto-Konsensusu/_index.md) — *Nakamoto Consensus* `[3 araştırma]`
           - [Yetki İspatı](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Konsensus-Mekanizmalari/Proof-of-Authority/_index.md) — *Proof of Authority* `[3 araştırma]`
         - [Blokzincirler Arası Birlikte Çalışabilirlik](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Birlikte-Calisabilirlik/_index.md) — *Blockchain Interoperability*
@@ -272,7 +272,7 @@ Ana disiplinler:
         - [Blokzincir Madencilik Donanımı](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Madencilik-Donanimi/_index.md) — *Blockchain Mining Hardware*
         - [Blokzincir Ölçeklendirme](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Olceklendirme/_index.md) — *Blockchain Scalability*
           - [Blokzincir Parçalama](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Olceklendirme/Sharding/_index.md) — *Blockchain Sharding* `[3 araştırma]`
-          - [Katman-2 Protokolleri](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Olceklendirme/Katman-2/_index.md) — *Layer-2 Protocols* `[3 araştırma]`
+          - [Katman-2 Protokolleri](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Olceklendirme/Katman-2/_index.md) — *Layer-2 Protocols* `[1 araştırma]`
             - [Ödeme ve Durum Kanalları](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Olceklendirme/Katman-2/Durum-Kanallari/_index.md) — *Payment Channels and State Channels*
             - [Plasma Zincirleri](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Olceklendirme/Katman-2/Plasma-Zincirleri/_index.md) — *Plasma Chains*
             - [Rollup'lar](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Olceklendirme/Katman-2/Rollups/_index.md) — *Rollups* `[1 araştırma]`
@@ -839,7 +839,7 @@ Ana disiplinler:
             - [İnsan Geri Bildiriminden Pekiştirmeli Öğrenme](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Temel-Modeller/Buyuk-Dil-Modelleri/LLM-Hizalama/Insan-Geri-Bildiriminden-Pekistirmeli-Ogrenme/_index.md) — *Reinforcement Learning from Human Feedback* `[5 araştırma]`
             - [Talimat İnce Ayarı](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Temel-Modeller/Buyuk-Dil-Modelleri/LLM-Hizalama/Talimat-Ince-Ayari/_index.md) — *Instruction Tuning* `[3 araştırma]`
           - [LLM Ön Eğitimi](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Temel-Modeller/Buyuk-Dil-Modelleri/LLM-On-Egitimi/_index.md) — *LLM Pretraining*
-            - [Ölçekleme Yasaları](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Temel-Modeller/Buyuk-Dil-Modelleri/LLM-On-Egitimi/Olcekleme-Yasalari/_index.md) — *Scaling Laws* `[2 araştırma]`
+            - [Ölçekleme Yasaları](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Temel-Modeller/Buyuk-Dil-Modelleri/LLM-On-Egitimi/Olcekleme-Yasalari/_index.md) — *Scaling Laws* `[1 araştırma]`
           - [Parametre Verimli İnce Ayar](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Temel-Modeller/Buyuk-Dil-Modelleri/Parametre-Verimli-Ince-Ayar/_index.md) — *Parameter-Efficient Fine-Tuning* `[1 araştırma]`
           - [Uzun Bağlam Modelleme](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Temel-Modeller/Buyuk-Dil-Modelleri/Uzun-Baglam-Modelleme/_index.md) — *Long-Context Modeling* `[emerging]`
         - [Çok Kipli Temel Modeller](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Temel-Modeller/Cok-Kipli-Temel-Modeller/_index.md) — *Multimodal Foundation Models* `[emerging, 1 araştırma]`

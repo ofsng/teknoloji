@@ -75,10 +75,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **2**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **1**.
 
 - [Explaining neural scaling laws](Arastirmalar/2024-Bahri-Explaining-neural-scaling-laws.md) — Bahri vd. (2024) · *Proceedings of the National Academy of Sciences* · hakemli · atıf: 438
-- [Scaling laws for plasma confinement](Arastirmalar/1977-Connor-Scaling-laws-for-plasma.md) — Connor vd. (1977) · *Nuclear Fusion* · hakemli · atıf: 336
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler

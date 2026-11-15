@@ -76,10 +76,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **3**, alt teknolojiler dahil: **9**.
+Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **8**.
 
 - [VoIP Performance over Different Interior Gateway Protocols](Arastirmalar/2009-Che-VoIP-Performance-over-Different.md) — Che vd. (2009) · *International Journal of Computer Network and Information Security* · hakemli · atıf: 24
-- [Studi Komparasi Kinerja Interior Gateway Protocol Berbasis Distance Vector dan Link State](Arastirmalar/2023-Ramadhani-Studi-Komparasi-Kinerja-Interior.md) — Ramadhani vd. (2023) · *Jurnal Teknik Elektro dan Komputasi (ELKOM)* · hakemli · atıf: 2
 - [A Comparative Analysis of Interior Gateway Protocols in Large-Scale Enterprise Topologies](Arastirmalar/2024-Taha-Comparative-Analysis-Interior-Gateway.md) — Taha vd. (2024) · *Journal of Engineering Research and Sciences* · hakemli
 <!-- AUTO:RESEARCH:END -->
 

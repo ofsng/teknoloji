@@ -77,10 +77,8 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **3**, alt teknolojiler dahil: **11**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **9**.
 
-- [A Flexible mmWave Layer 2 Protocol Implementation for Integrated Access and Backhaul Architecture](Arastirmalar/2023-Verdecia-Pena-Flexible-mmWave-Layer-Protocol.md) — Verdecia-Peña vd. (2023) · *IEEE Access* · hakemli · atıf: 5
-- [An Analysis of ATM Adapter Layer 2 Protocol Architecture](Arastirmalar/2001-Jun-neng-Analysis-ATM-Adapter-Layer.md) — Jun-neng (2001) · *Journal of Chongqing University of Posts and Telecommunications* · hakemli
 - [A Global Blockchain-IoT Architecture Integrating Layer-2 Protocols](Arastirmalar/2026-Aghroud-Global-Blockchain-IoT-Architecture.md) — Aghroud vd. (2026) · *Engineering Technology & Applied Science Research* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
