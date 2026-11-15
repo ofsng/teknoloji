@@ -83,7 +83,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **3**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -94,6 +94,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
 - [Transient epitaxial dynamics and cascade continuity in long-duration terahertz quantum cascade laser growth](Yari-Iletken-Lazerler/Kuantum-Kaskad-Lazerler/Arastirmalar/2026-Li-Transient-epitaxial-dynamics-and.md) — Li vd. (2026) · *Journal of Applied Physics* · hakemli
+- [Pulse symmetry modulation in BBO/Cr 4+ :YAG doubly Q-switched Nd:YAG laser](Kati-Hal-Lazerleri/Arastirmalar/2026-Shan-Pulse-symmetry-modulation-BBO.md) — Shan vd. (2026) · *Journal of Optics* · hakemli
 - [Hybrid optical frequency comb source for 9.6 Tbit/s DWDM transmission over standard fiber](Optik-Frekans-Taraklari/Arastirmalar/2026-Sharma-Hybrid-optical-frequency-comb.md) — Sharma vd. (2026) · *Journal of Optics* · hakemli
 <!-- AUTO:RECENT:END -->
 

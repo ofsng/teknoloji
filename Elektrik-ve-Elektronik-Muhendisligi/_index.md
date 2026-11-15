@@ -87,7 +87,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **26**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **33**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -97,14 +97,14 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [A blockchain-secured multi-agent GNN–XGBoost framework for intelligent energy coordination in IoT-enabled sustainable smart grids](Elektrik-Guc-Sistemleri/Akilli-Sebekeler/Arastirmalar/2026-Kommerla-blockchain-secured-multi-agent.md) — Kommerla vd. (2026) · *Scientific Reports* · hakemli
+- [Alternating Methods for Large-Scale AC Optimal Power Flow with Unit Commitment](Elektrik-Guc-Sistemleri/Elektrik-Piyasalari/Arastirmalar/2026-Brun-Alternating-Methods-for-Large.md) — Brun vd. (2026) · *Operations Research* · hakemli · atıf: 3
+- [Phased Array Antenna Surface Deformation Reconstruction Based on Modal Low-Rank Correction and Gaussian Process Data Migration](Elektromanyetik/Antenler/Faz-Dizili-Antenler/Arastirmalar/2026-Yan-Phased-Array-Antenna-Surface.md) — Yan vd. (2026) · *Micromachines* · hakemli
+- [A flexible language model-assisted electronic design automation framework](Entegre-Devre-Tasarimi/Elektronik-Tasarim-Otomasyonu/Arastirmalar/2026-Sestito-flexible-language-model-assisted.md) — Sestito vd. (2026) · *Scientific Reports* · hakemli · atıf: 4
+- [Design and Simulation of a Bidirectional Two-Stage DC/DC Converter with Partial Switch Sharing for Vehicle-to-Vehicle Charging Applications](Guc-Elektronigi/DA-DA-Donusturuculer/Arastirmalar/2026-Kagan-Design-and-Simulation-Bidirectional.md) — Kağan vd. (2026) · *International journal of engineering inventions.* · hakemli
+- [Digital twin–guided graph-transformer with meta-reinforcement learning for real-time adaptive cyber-attack mitigation in smart grids](Elektrik-Guc-Sistemleri/Akilli-Sebekeler/Arastirmalar/2026-Manogaran-Digital-twinguided-graph-transformer.md) — Manogaran vd. (2026) · *Scientific Reports* · hakemli
 - [Phase-Locked Loop Bandwidth Design and Partial Compensation Strategy for PMSM Position Estimation Based on Embedded Linear Hall Sensors](Entegre-Devre-Tasarimi/Analog-Entegre-Devre-Tasarimi/Faz-Kilitlemeli-Donguler/Arastirmalar/2026-Zhao-Phase-Locked-Loop-Bandwidth.md) — Zhao vd. (2026) · *Sensors* · hakemli
 - [Artificial Intelligence-Assisted Multi-Objective Design and Dynamic Validation of High-Efficiency Solid-State Transformers for Electric Vehicle Integration](Guc-Elektronigi/Kati-Hal-Transformatorleri/Arastirmalar/2026-Asiegbu-Artificial-Intelligence-Assisted-Multi.md) — Asiegbu vd. (2026) · *World Electric Vehicle Journal* · hakemli
-- [Full-Speed-Range Sensorless Direct Torque Control of a Two-Level Interior Permanent Magnet Synchronous Motor Drive Using Hybrid High-Frequency Injection Model Reference Adaptive Control Estimation](Guc-Elektronigi/Motor-Suruculer/Dogrudan-Moment-Kontrolu/Arastirmalar/2026-Choudhary-Full-Speed-Range-Sensorless.md) — Choudhary vd. (2026) · *Energies* · hakemli
-- [A data-efficient PINN-Bayesian optimization framework for state variable active filter design](Devre-Teorisi/Filtre-Tasarimi/Aktif-Filtreler/Arastirmalar/2026-Manimegalai-data-efficient-PINN-Bayesian.md) — Manimegalai vd. (2026) · *Engineering Science and Technology an International Journal* · hakemli
-- [Implementation of Radio Frequency Digital to Analog Converter Design for Satellite Telecommunication System](Entegre-Devre-Tasarimi/Analog-Entegre-Devre-Tasarimi/Veri-Donusturuculer/Sayisal-Analog-Donusturuculer/Arastirmalar/2026-Khaing-Implementation-Radio-Frequency-Digital.md) — Khaing vd. (2026) · *International Journal For Multidisciplinary Research* · hakemli
-- [Improving the performance of grid-connected photovoltaic systems using a novel SPO-SHE-PWM algorithm with an AHB multilevel inverter](Guc-Elektronigi/Eviriciler/Cok-Seviyeli-Eviriciler/Arastirmalar/2026-Kahlane-Improving-the-performance-grid.md) — Kahlane vd. (2026) · *International Journal of Electronics* · hakemli
-- [Effect of thermomechanical properties of epoxy molding compound on the reliability of fan-out wafer-level packaging](Yari-Iletken-Uretimi/Ileri-Paketleme/Fan-Out-Pul-Duzeyinde-Paketleme/Arastirmalar/2026-Kang-Effect-thermomechanical-properties-epoxy.md) — Kang vd. (2026) · *Journal of Adhesion Science and Technology* · hakemli
-- [Three-Phase-Input Inductive Wireless Power Transfer System for Rectifier-Output Voltage Ripple Reduction](Guc-Elektronigi/Kablosuz-Guc-Aktarimi/Arastirmalar/2026-Deng-Three-Phase-Input-Inductive.md) — Deng vd. (2026) · *Electronics* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

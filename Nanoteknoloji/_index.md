@@ -84,7 +84,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **15**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **17**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -99,9 +99,9 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [Deep-Learning-Empowered Gold Nanoparticle Dimer-Assisted Hyperbolic Metamaterial Surface Plasmon Resonance Fiber-Optic Sensor for Ultrasensitive Mercury Ion Detection](Nanofotonik/Plazmonik/Yuzey-Plazmon-Rezonansi/Arastirmalar/2026-Li-Deep-Learning-Empowered-Gold.md) — Li vd. (2026) · *ACS Applied Materials & Interfaces* · hakemli
 - [Examining the Effect of Hexagonal Boron Nitride on Morphological and Chemical Properties of Biopolymers Using Dual-Beam Methodology](Nanomalzemeler/Iki-Boyutlu-Malzemeler/Altigen-Bor-Nitrur/Arastirmalar/2026-Camic-Examining-the-Effect-Hexagonal.md) — Camic (2026) · *Kocaeli Journal of Science and Engineering* · hakemli
 - [Reversible Electric-Field-Induced Changes in the Thermal Resistance of Hexagonal Boron Nitride](Nanomalzemeler/Iki-Boyutlu-Malzemeler/Altigen-Bor-Nitrur/Arastirmalar/2026-Schaeffer-Reversible-Electric-Field-Induced.md) — Schaeffer vd. (2026) · *Nano Letters* · hakemli
+- [Antiambipolar and Bidirectional Photoresponse in Ternary van der Waals Heterostructure Transistors](Nanomalzemeler/Iki-Boyutlu-Malzemeler/Van-der-Waals-Heteroyapilari/Arastirmalar/2026-Han-Antiambipolar-and-Bidirectional-Photorespons.md) — Han vd. (2026) · *ACS Nano* · hakemli
 - [Fabrication of a Cellulolytic Enzyme Cocktail Immobilised on Magnetic Multi-walled Carbon Nanotubes: Catalytic Kinetics and Reusability](Nanomalzemeler/Karbon-Nanomalzemeler/Karbon-Nanotupler/Cok-Duvarli-Karbon-Nanotupler/Arastirmalar/2026-Low-Fabrication-Cellulolytic-Enzyme-Cocktail.md) — Low vd. (2026) · *Chemical and Biochemical Engineering Quarterly* · hakemli
 - [Recent Strategies in Electron Transport Layers Based on Metal Oxide Nanoparticles for Quantum Dot Light Emitting Diodes](Nanomalzemeler/Nanoparcaciklar/Arastirmalar/2026-Kim-Recent-Strategies-Electron-Transport.md) — Kim vd. (2026) · *Inorganics* · hakemli
-- [Resting-cell biocatalysis as a platform for cadmium sulfide quantum dot biosynthesis](Nanomalzemeler/Nanoparcaciklar/Kuantum-Noktalar/Arastirmalar/2026-SerranoPelejero-Resting-cell-biocatalysis-platfo.md) — Serrano‐Pelejero vd. (2026) · *Frontiers in Microbiology* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

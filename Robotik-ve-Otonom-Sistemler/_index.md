@@ -89,7 +89,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **5**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **6**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -99,6 +99,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [MXene-PS-Based Soft Actuator with Deformation Reversal Capability through Time-Sequence Difference of Asymmetric Water Absorption Kinetics](Robot-Turleri/Yumusak-Robotik/Yumusak-Eyleyiciler/Arastirmalar/2026-Chen-MXene-Based-Soft-Actuator.md) — Chen vd. (2026) · *ACS Nano* · hakemli
 - [LumiTac: Compact, High-Rate Six-Axis Optical Tactile Sensing for Human-Robot Interaction](Insan-Robot-Etkilesimi/Arastirmalar/2026-Wu-LumiTac-Compact-High-Rate.md) — Wu vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [Reflection-Robust Stereo Visual-Inertial Odometry via Kalman-Filtered Ground-Height Estimation](Robot-Algilama/Eszamanli-Konum-Belirleme-ve-Haritalama/Gorsel-Ataletsel-Odometri/Arastirmalar/2026-Hwang-Reflection-Robust-Stereo-Visual.md) — Hwang vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [Online Adaptation to Latent Physical Properties for Learning from Demonstration](Robot-Ogrenmesi/Gosterimden-Ogrenme/Arastirmalar/2026-Kajitsuka-Online-Adaptation-Latent-Physical.md) — Kajitsuka vd. (2026) · *arXiv* · ön baskı / hakemsiz

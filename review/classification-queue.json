@@ -1,5 +1,79 @@
 [
  {
+  "added": "2026-11-15",
+  "arxiv": "2611.16151",
+  "candidates": [
+   [
+    "fault-injection-attacks",
+    10.85
+   ],
+   [
+    "temporal-difference-learning",
+    9.62
+   ],
+   [
+    "machine-learning-systems",
+    4.34
+   ],
+   [
+    "reinforcement-learning",
+    3.74
+   ],
+   [
+    "machine-learning",
+    3.1
+   ],
+   [
+    "analysis",
+    1.12
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.16151",
+   "title:faultinjectionattacksonqlearninganalysisvulnerabilitiesandcountermeasures|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Hardware fault injection attacks threaten machine learning systems, yet their impact on reinforcement learning (RL) has received little attention despite the use of RL in safety-critical applications. This paper presents a security analysis of Q-Learning implementations under voltage and clock glitching attacks on a ChipWhisperer platform, evaluating five variants: Standard, Robust, Resilient, Linear, and Deep Q-Learning. In standard Q-Table implementations, faults corrupt reward computation, action selection, and Q-value updates during learning, and change the selected action during inference. Robust Q-Learning does not prevent these attacks: NaN and infinite values injected during learning persist in the Q-table, and its greedy policy uses the same code as standard Q-Learning. This paper also evaluates a Resilient Q-Learning variant that applies triple modular redundancy with majority voting. It corrects corruption of a single Q-table copy, but inputs shared by the copies, such as the reward, and the voting code itself remain outside its protection. The analysis extends to Linear and Deep Q-Learning, where faults corrupt stored weights during learning and change actions during inference. Moving beyond benchmark environments, this work evaluates an online traffic light controller in a microscopic traffic simulator, where a single injected infinite value degrades accumulated vehicle waiting time by 148x while corrupting under 4% of the Q-table, and where triple modular redundancy corrected the faults injected in our tests, although glitching could still halt the device. Altogether, this work provides a basis for understanding and securing RL deployments against fault injection attacks.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.16151",
+   "authors": [
+    "Tom Slooff",
+    "Anthony Etim",
+    "Jiaqi Yu",
+    "Francesco Regazzoni",
+    "Jakub Szefer"
+   ],
+   "categories": [
+    "arXiv:cs.CR"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-12",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.16151"
+   ],
+   "title": "Fault Injection Attacks on Q-Learning: Analysis, Vulnerabilities, and Countermeasures",
+   "topics": [],
+   "updated_date": "2026-11-12",
+   "url": "https://arxiv.org/abs/2611.16151"
+  },
+  "score": 10.85,
+  "seen": 1,
+  "suggested": "fault-injection-attacks",
+  "title": "Fault Injection Attacks on Q-Learning: Analysis, Vulnerabilities, and Countermeasures",
+  "url": "https://arxiv.org/abs/2611.16151"
+ },
+ {
   "added": "2026-11-07",
   "arxiv": "2611.07277",
   "candidates": [
@@ -361,6 +435,79 @@
   "suggested": "quantum-error-correction",
   "title": "Nonlinear cooling and control of a mechanical quantum harmonic oscillator",
   "url": "https://doi.org/10.1126/sciadv.aee5380"
+ },
+ {
+  "added": "2026-11-15",
+  "arxiv": "2611.16184",
+  "candidates": [
+   [
+    "anomaly-detection",
+    8.7
+   ],
+   [
+    "flow-matching",
+    8.54
+   ],
+   [
+    "generative-models",
+    3.1
+   ],
+   [
+    "computer-aided-diagnosis",
+    1.8
+   ],
+   [
+    "computer-aided-design",
+    1.8
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.16184",
+   "title:flowcadflowmatchingforcontextualanomalydetectionandexplanationintabulardata|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Contextual anomaly detection in tabular data aims to identify objects whose behavior is unexpected under their contextual conditions. In data-engineering pipelines, this task screens table rows whose measurements violate context-dependent integrity relationships. Most existing approaches rely on either shallow conditional models with limited distributional expressiveness or localized estimators that require per-context modeling, making it difficult to capture complex conditional relationships and scale to high-dimensional settings. We propose Flow-CAD, a new framework for contextual anomaly detection based on Flow Matching. Flow-CAD learns a single global and amortized conditional generative model that flexibly represents behavioral distributions conditioned on context, without assuming simple parametric forms or retraining local models. To enable robust and interpretable anomaly scoring, we introduce a scale-normalized and truncated residual energy derived from the learned conditional flow, which stabilizes anomaly scores, mitigates domination by extreme deviations, and supports feature-wise attribution. We further provide theoretical insights showing that the proposed residual-based anomaly score is stable under velocity estimation error, and that its Monte Carlo estimator satisfies concentration bounds. Experiments on 20 benchmark datasets with 13 competitors demonstrate that Flow-CAD has the best average rank for PR AUC, ROC AUC, and P@n, highlighting its effectiveness and practicality for contextual anomaly detection in tabular data. We provide the source code at https://github.com/ZhongLIFR/FlowCAD.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.16184",
+   "authors": [
+    "Zhong Li",
+    "Qi Huang",
+    "Yuhang Wang",
+    "Yang Cao",
+    "Thomas Bäck",
+    "Niki van Stein",
+    "Matthijs van Leeuwen",
+    "Lincen Yang"
+   ],
+   "categories": [
+    "arXiv:cs.LG"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-12",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.16184"
+   ],
+   "title": "Flow-CAD: Flow Matching for Contextual Anomaly Detection and Explanation in Tabular Data",
+   "topics": [],
+   "updated_date": "2026-11-12",
+   "url": "https://arxiv.org/abs/2611.16184"
+  },
+  "score": 8.7,
+  "seen": 1,
+  "suggested": "anomaly-detection",
+  "title": "Flow-CAD: Flow Matching for Contextual Anomaly Detection and Explanation in Tabular Data",
+  "url": "https://arxiv.org/abs/2611.16184"
  },
  {
   "added": "2026-11-09",
@@ -2184,6 +2331,76 @@
   "url": "https://doi.org/10.1038/s41467-026-79032-4"
  },
  {
+  "added": "2026-11-15",
+  "arxiv": "2611.16210",
+  "candidates": [
+   [
+    "medical-image-segmentation",
+    7.43
+   ],
+   [
+    "image-segmentation",
+    5.4
+   ],
+   [
+    "representation-learning",
+    4.8
+   ],
+   [
+    "continual-learning",
+    1.35
+   ],
+   [
+    "deep-learning",
+    1.2
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.16210",
+   "title:fgcarlfisherguidedcontinuouslyadaptiverepresentationlearningformedicalimagesegmentation|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Deep learning (DL) has achieved remarkable success in medical image segmentation by learning data-driven representations from large-scale annotated datasets. However, medical images are often collected independently across clinical sites, resulting in substantial domain shifts due to differences in imaging modalities, acquisition protocols, and intensity distributions. Meanwhile, segmentation classes may vary across sites due to differences in annotation standards, leading to class shifts. These evolving domains and class definitions can substantially degrade segmentation performance on newly encountered data, while sequential adaptation may cause catastrophic forgetting of knowledge acquired from previously encountered domains and classes. Existing incremental learning methods for medical image segmentation primarily address either domain shifts or class shifts, with these two settings largely investigated independently. This separation leaves a critical gap in developing a unified approach that can simultaneously adapt to evolving domains and newly introduced classes while retaining previously acquired knowledge. To address this challenge, we propose Fisher-Guided Continuously Adaptive Representation Learning, a unified framework for domain- and class-incremental 3D volumetric medical image segmentation. FGCARL comprises two key components: Mutual Adaptive Instance Representation (MAIR), which adaptively aligns feature distributions across sequentially encountered domains through bidirectional normalization and denormalization, and Fisher-Guided Knowledge Retention (FGKR), which selectively preserves parameters important for previously learned domains and classes through Fisher-guided regularization. Experimental results demonstrate that FGCARL consistently outperformed state-of-the-art methods, effectively adapting to domain and class shifts while mitigating catastrophic forgetting.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.16210",
+   "authors": [
+    "Xiaobing Yu",
+    "Jin Yang",
+    "Peijie Qiu",
+    "Weiwei Ma",
+    "Xiaofeng Liu"
+   ],
+   "categories": [
+    "arXiv:eess.IV"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-12",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.16210"
+   ],
+   "title": "FGCARL: Fisher-Guided Continuously Adaptive Representation Learning for Medical Image Segmentation",
+   "topics": [],
+   "updated_date": "2026-11-12",
+   "url": "https://arxiv.org/abs/2611.16210"
+  },
+  "score": 7.43,
+  "seen": 1,
+  "suggested": "medical-image-segmentation",
+  "title": "FGCARL: Fisher-Guided Continuously Adaptive Representation Learning for Medical Image Segmentation",
+  "url": "https://arxiv.org/abs/2611.16210"
+ },
+ {
   "added": "2026-11-08",
   "arxiv": null,
   "candidates": [
@@ -2582,6 +2799,88 @@
   "suggested": "neutral-atom-qubits",
   "title": "Controlling Rydberg atom-polariton interactions: from exceptional points to fast readout",
   "url": "https://arxiv.org/abs/2601.06345"
+ },
+ {
+  "added": "2026-11-15",
+  "arxiv": "2601.03942",
+  "candidates": [
+   [
+    "semiconductor-spin-qubits",
+    7.15
+   ],
+   [
+    "quantum-error-correction",
+    3.59
+   ],
+   [
+    "quantum-compilation",
+    2.83
+   ],
+   [
+    "quantum-computing",
+    2.35
+   ],
+   [
+    "quantum-dots",
+    1.5
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.1038/s41467-026-78805-1",
+  "keys": [
+   "arxiv:2601.03942",
+   "doi:10.1038/s41467-026-78805-1",
+   "title:conveyormodeelectronshuttlingthroughatjunctioninsisige|2026"
+  ],
+  "reason": "backlog'dan: güven düştü (taksonomi değişmiş olabilir)",
+  "record": {
+   "abstract": "Conveyor-mode shuttling in gated Si/SiGe devices enables adiabatic transfer of single electrons, electron patterns and spin qubits confined in quantum dots across several microns with a scalable number of signal lines. To realize their full potential, linear shuttle lanes must connect into a two-dimensional grid with controllable routing. We introduce a T-junction device linking two independently driven shuttle lanes. Electron routing across the junction requires no extra control lines beyond the four channels per conveyor belt. We measure an inter-lane charge transfer fidelity of $F = 100.0000000^{+0}_{-9\\times 10^{-7}}\\,\\%$ at an instantaneous electron velocity of $270\\,\\mathrm{mm}\\,\\mathrm{s}^{-1}$. The filling of 54 quantum dots is controlled by simple atomic pulses, allowing us to swap electron patterns, laying the groundwork for a native spin-qubit SWAP gate. This T-junction establishes a path towards scalable, two-dimensional quantum computing architectures with flexible spin qubit routing for quantum error correction.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2601.03942",
+   "authors": [
+    "Max Beer",
+    "Ran Xue",
+    "Lennart Deda",
+    "Stefan Trellenkamp",
+    "Jhih-Sian Tu",
+    "Paul Surrey",
+    "Inga Seidler",
+    "Hendrik Bluhm",
+    "Lars R. Schreiber"
+   ],
+   "categories": [
+    "arXiv:cond-mat.mes-hall",
+    "arXiv:quant-ph"
+   ],
+   "cited_by_count": null,
+   "doi": "10.1038/s41467-026-78805-1",
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": null,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-01-07",
+   "related_versions": [
+    {
+     "doi": "10.1038/s41467-026-78805-1",
+     "relation": "published_version",
+     "source": "arxiv"
+    }
+   ],
+   "source_ids": [
+    "arxiv:2601.03942"
+   ],
+   "title": "Conveyor-mode electron shuttling through a T-junction in Si/SiGe",
+   "topics": [],
+   "updated_date": "2026-01-07",
+   "url": "https://arxiv.org/abs/2601.03942"
+  },
+  "score": 7.15,
+  "seen": 1,
+  "suggested": "semiconductor-spin-qubits",
+  "title": "Conveyor-mode electron shuttling through a T-junction in Si/SiGe",
+  "url": "https://arxiv.org/abs/2601.03942"
  },
  {
   "added": "2026-11-09",
@@ -3001,6 +3300,82 @@
   "suggested": "electronic-health-records",
   "title": "The Dark Matter of Clinical Data: An Identification Limit on Disentangling Physiology from Care Process in electronic health records",
   "url": "https://arxiv.org/abs/2611.11726"
+ },
+ {
+  "added": "2026-11-15",
+  "arxiv": "2412.15713",
+  "candidates": [
+   [
+    "structural-health-monitoring",
+    6.74
+   ],
+   [
+    "statics-and-dynamics",
+    1.65
+   ],
+   [
+    "anomaly-detection",
+    1.2
+   ],
+   [
+    "prestressed-concrete",
+    1.2
+   ],
+   [
+    "temperature-sensors",
+    1.2
+   ],
+   [
+    "accelerometers",
+    0.52
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2412.15713",
+   "title:datasetofloadtestsandstructuralhealthmonitoringofaconcreteboxgirderbridge|2024"
+  ],
+  "reason": "backlog'dan: güven düştü (taksonomi değişmiş olabilir)",
+  "record": {
+   "abstract": "Static and dynamic load tests were conducted on an anonymized in-service prestressed concrete box girder bridge constructed in 1972 and designed for Bridge Class~30 according to DIN~1072. The bridge is instrumented as part of the DTEC-SHM research initiative with a permanent structural health monitoring system comprising 128 sensors, including accelerometers, strain sensors, inclinometers, displacement transducers, embedded temperature sensors, and weather stations. The test program includes long-term static loading with stepwise added masses of 680 kg, 1420 kg, and 2160 kg, short-term static truck parking positions, and repeated dynamic truck crossings under loaded and unloaded vehicle configurations. The short-term static tests used a loaded truck of 21250 kg parked at three bridge positions, while the dynamic tests used loaded and unloaded truck configurations of 21250 kg and 12340 kg at speeds up to 13.9 m/s. The published load-test data are available on Zenodo in HDF5 format and include synchronized measurements from the monitoring system, temporary laser sensors used for vehicle-position and passage-time validation, and derived tracked eigenfrequency time series from the reference and long-term static-load-test period. The bridge geometry, sensor layout, acquisition system, load cases, truck geometry, and data hierarchy are documented to support reuse of the data. Plausibility checks are presented for the main response quantities, including laser-based validation of parking positions and passage windows, vibration spectra and tracked modal parameters, and repeatable strain and displacement response profiles under crawl-speed truck passages. The data set addresses the scarcity of publicly available full-scale bridge load-test data and supports applications such as finite element model calibration, neutral-axis tracking, influence-line extraction, and data-driven anomaly detection.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2412.15713",
+   "authors": [
+    "Martin Koehncke",
+    "Yogi Jaelani",
+    "Alexander Mendler",
+    "Lizzie Neumann",
+    "Philipp Wittenberg",
+    "Alina Rode-Klemm",
+    "Sylvia Kessler"
+   ],
+   "categories": [
+    "arXiv:stat.AP"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2024-12-20",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2412.15713"
+   ],
+   "title": "Data Set of Load Tests and Structural Health Monitoring of a concrete Box Girder bridge",
+   "topics": [],
+   "updated_date": "2026-08-10",
+   "url": "https://arxiv.org/abs/2412.15713"
+  },
+  "score": 6.74,
+  "seen": 1,
+  "suggested": "structural-health-monitoring",
+  "title": "Data Set of Load Tests and Structural Health Monitoring of a concrete Box Girder bridge",
+  "url": "https://arxiv.org/abs/2412.15713"
  },
  {
   "added": "2026-11-09",
@@ -9995,6 +10370,66 @@
   "url": "https://arxiv.org/abs/2611.07607"
  },
  {
+  "added": "2026-11-15",
+  "arxiv": "2611.16177",
+  "candidates": [
+   [
+    "orthogonal-time-frequency-space",
+    5.16
+   ],
+   [
+    "modulation",
+    1.85
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.16177",
+   "title:realtimelowcomplexityzakotfswithsuperimposedspreadpilotsongpus|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Orthogonal time frequency space (OTFS) modulation offers robust performance under high-mobility scenarios. Spread pilots distribute pilot energy across the delay-Doppler grid and are superimposed with data symbols, enabling full-grid resource utilization. However, pilot-data separation challenges the design of the real-time receiver pipeline: cross-ambiguity in channel sensing incurs high computational complexity, and pilot-data interference cancellation requires repeated processing through turbo iterations. Leveraging the chirp structure of OTFS spread pilots, we reduce cross-ambiguity to a single 2D IFFT with element-wise chirp operations, achieving over 7000x speedup compared to partially vectorized direct evaluation on GPUs at a frame size of (M, N)=(2053, 31). Our real-time GPU baseband processing pipeline for OTFS with superimposed spread pilots supports (M, N)=(2053, 31) with one turbo iteration within a 1.03 ms latency budget. We further show that larger frames increase processing gain, allowing lower pilot power and near-converged bit error rate (BER) after one turbo iteration.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.16177",
+   "authors": [
+    "Chung-Hsuan Tung",
+    "Junyao Zheng",
+    "Vineetha Yogesh",
+    "Mudasir Ahmad Sheikh",
+    "Danish Nisar",
+    "Robert Calderbank",
+    "Tingjun Chen"
+   ],
+   "categories": [
+    "arXiv:eess.SP"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-12",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.16177"
+   ],
+   "title": "Real-Time Low-Complexity Zak-OTFS with Superimposed Spread Pilots on GPUs",
+   "topics": [],
+   "updated_date": "2026-11-12",
+   "url": "https://arxiv.org/abs/2611.16177"
+  },
+  "score": 5.16,
+  "seen": 1,
+  "suggested": "orthogonal-time-frequency-space",
+  "title": "Real-Time Low-Complexity Zak-OTFS with Superimposed Spread Pilots on GPUs",
+  "url": "https://arxiv.org/abs/2611.16177"
+ },
+ {
   "added": "2026-11-09",
   "arxiv": "2605.04161",
   "candidates": [
@@ -10246,397 +10681,5 @@
   "suggested": "machine-learning",
   "title": "Multi-Fidelity Machine Learning for Predicting Startup Stress Growth and Strain Hardening in Wormlike Micellar Solutions",
   "url": "https://arxiv.org/abs/2611.04115"
- },
- {
-  "added": "2026-11-05",
-  "arxiv": "2611.04251",
-  "candidates": [
-   [
-    "topology-optimization",
-    4.8
-   ],
-   [
-    "acoustics",
-    2.9
-   ],
-   [
-    "non-destructive-testing",
-    1.65
-   ],
-   [
-    "wave-propagation",
-    1.2
-   ],
-   [
-    "optimization",
-    1.12
-   ],
-   [
-    "holography",
-    1.12
-   ]
-  ],
-  "confidence": "medium",
-  "doi": null,
-  "keys": [
-   "arxiv:2611.04251",
-   "title:differentiabletopologyoptimizationforhighfidelityacousticholographybeyondthethinelementapproximation|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "Acoustic holography in the megahertz range can impact applications from manufacturing and non-destructive testing to transcranial ultrasound. Designing lens topologies for complex holograms in the sub-megahertz to low-megahertz regime most relevant to transcranial therapy is difficult because wave propagation through an acoustically thick lens cannot be ignored. Here we show that the heterogeneous angular spectrum approach (HASA), which admits in-plane varying speed-of-sound maps and supports rapid differentiable optimization with the Adam optimizer, can generate three-dimensional lens topologies directly. With it we quantify the failure of the thin-element approximation (TEA) at these frequencies, where lenses enter an acoustically thick regime (thickness L much greater than the wavelength) governed by refractive walk-off, and we introduce a dimensionless refractive walk-off number Nw that defines a frequency-dependent operating regime. Topology optimization outperformed TEA-based design in all 45 configurations tested, with the largest structural gains at or below 1 MHz; for high-numerical-aperture designs the fidelity at 1 MHz matched that at 2 MHz, while structural similarity was highest at 0.5 MHz. The sub-megahertz to low-megahertz window is therefore a favorable operating regime for high-fidelity transcranial holography rather than one to be avoided. Free-field hydrophone measurements of 3D-printed lenses reproduced the designed patterns, and because the framework also accounts for aberration in heterogeneous media, patient-specific lenses corrected skull-induced aberration in simulation and ex vivo experiment, generalized across skull segments, and shaped volumetric beams through the human skull. Together these results provide a framework for designing simple, economical, and high-performance ultrasound systems.",
-   "abstract_license": "cc0-1.0 (arxiv metadata)",
-   "arxiv": "2611.04251",
-   "authors": [
-    "Pradosh Pritam Dash",
-    "Costas D. Arvanitis"
-   ],
-   "categories": [
-    "arXiv:physics.app-ph"
-   ],
-   "cited_by_count": null,
-   "doi": null,
-   "is_retracted": null,
-   "keywords": [],
-   "language": "en",
-   "peer_reviewed": false,
-   "publication": "arXiv",
-   "publication_type": "preprint",
-   "published_date": "2026-11-03",
-   "related_versions": [],
-   "source_ids": [
-    "arxiv:2611.04251"
-   ],
-   "title": "Differentiable topology optimization for high-fidelity acoustic holography beyond the thin-element approximation",
-   "topics": [],
-   "updated_date": "2026-11-03",
-   "url": "https://arxiv.org/abs/2611.04251"
-  },
-  "score": 4.8,
-  "seen": 2,
-  "suggested": "topology-optimization",
-  "title": "Differentiable topology optimization for high-fidelity acoustic holography beyond the thin-element approximation",
-  "url": "https://arxiv.org/abs/2611.04251"
- },
- {
-  "added": "2026-11-05",
-  "arxiv": "2611.04369",
-  "candidates": [
-   [
-    "open-ran",
-    4.8
-   ],
-   [
-    "long-short-term-memory",
-    4.48
-   ],
-   [
-    "variational-autoencoders",
-    3.28
-   ],
-   [
-    "ensemble-methods",
-    3.1
-   ],
-   [
-    "autoencoders",
-    2.38
-   ],
-   [
-    "scanning-electron-microscopy",
-    0.45
-   ]
-  ],
-  "confidence": "medium",
-  "doi": null,
-  "keys": [
-   "arxiv:2611.04369",
-   "title:benchmarkingunsupervisedjammingdetectionin5gopenran|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "Radio Frequency (RF) jamming threatens fifth-generation (5G) networks. Open Radio Access Network (Open RAN) telemetry enables jamming detection without dedicated spectrum monitoring equipment, but labeled attack data are rarely available across deployments, motivating unsupervised detectors. Comparing such detectors across algorithmic families, however, remains difficult without ground-truth labels. This paper benchmarks statistical and reconstruction-based unsupervised jamming detectors using a symmetric evaluation interface that combines detection confidence and temporal interval coherence into a detector-independent composite score. We compare a Statistical Ensemble Method (SEM) detector against Vanilla, Long Short-Term Memory (LSTM), and Variational Autoencoder (VAE) baselines on Key Performance Indicator (KPI) telemetry from ten heterogeneous 5G environments with fixed and variable jamming bursts and dynamic jammer gains. Under leave-one-out (LOO) evaluation, SEM achieves a mean composite score of 0.906, compared with 0.688 for the best autoencoder (AE) per fold. Ground-truth validation yields a mean F1-score of 0.918 for SEM, compared with 0.521 for the best AE variant. The composite ranks SEM first in all environments, consistent with F1 rankings. However, in both within-trace and cross-trace evaluation, it fails for detectors that flag far fewer samples than the jamming prevalence, indicating that rankings are reliable only when detection rate matches the expected prevalence.",
-   "abstract_license": "cc0-1.0 (arxiv metadata)",
-   "arxiv": "2611.04369",
-   "authors": [
-    "Sneihil Gopal",
-    "Fernando J. Cintron",
-    "Richard A. Rouil"
-   ],
-   "categories": [
-    "arXiv:cs.AI",
-    "arXiv:cs.LG"
-   ],
-   "cited_by_count": null,
-   "doi": null,
-   "is_retracted": null,
-   "keywords": [],
-   "language": "en",
-   "peer_reviewed": false,
-   "publication": "arXiv",
-   "publication_type": "preprint",
-   "published_date": "2026-11-03",
-   "related_versions": [],
-   "source_ids": [
-    "arxiv:2611.04369"
-   ],
-   "title": "Benchmarking Unsupervised Jamming Detection in 5G Open RAN",
-   "topics": [],
-   "updated_date": "2026-11-03",
-   "url": "https://arxiv.org/abs/2611.04369"
-  },
-  "score": 4.8,
-  "seen": 2,
-  "suggested": "open-ran",
-  "title": "Benchmarking Unsupervised Jamming Detection in 5G Open RAN",
-  "url": "https://arxiv.org/abs/2611.04369"
- },
- {
-  "added": "2026-11-05",
-  "arxiv": "2611.04389",
-  "candidates": [
-   [
-    "neural-operators",
-    4.8
-   ],
-   [
-    "cosmic-microwave-background",
-    2.95
-   ]
-  ],
-  "confidence": "medium",
-  "doi": null,
-  "keys": [
-   "arxiv:2611.04389",
-   "title:spinsphericalfourierneuraloperatorsefficientequivariantlearningforvectorandspinfieldsonthesphere|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "Many fields of physical interest on the sphere, such as wind, the polarisation of the cosmic microwave background and the shear of weak gravitational lensing, are spin fields, whose values change phase when the local frame rotates. We extend spherical Fourier neural operators (SFNOs) to fields of any spin, through lifted spherical convolutions that are exactly rotationally equivariant. Lifting spin fields to Mackey functions on the rotation group provides the conceptual framework, while computation is performed exactly and efficiently through their harmonic representation and by appealing to sampling theorems on the sphere and rotation group. We construct spin SFNOs (S$^2$FNOs) from these building blocks. We demonstrate empirically that rotational equivariance holds to machine precision for these layers. We achieve state-of-the-art performance on existing benchmarks, and introduce new benchmarks on which spin-aware models outperform their scalar counterparts.",
-   "abstract_license": "cc0-1.0 (arxiv metadata)",
-   "arxiv": "2611.04389",
-   "authors": [
-    "Kevin Mulder",
-    "Matthew A. Price",
-    "Eirini Leftaki",
-    "Jason D. McEwen"
-   ],
-   "categories": [
-    "arXiv:cs.CV",
-    "arXiv:astro-ph.IM",
-    "arXiv:cs.LG"
-   ],
-   "cited_by_count": null,
-   "doi": null,
-   "is_retracted": null,
-   "keywords": [],
-   "language": "en",
-   "peer_reviewed": false,
-   "publication": "arXiv",
-   "publication_type": "preprint",
-   "published_date": "2026-11-03",
-   "related_versions": [],
-   "source_ids": [
-    "arxiv:2611.04389"
-   ],
-   "title": "Spin Spherical Fourier Neural Operators: Efficient Equivariant Learning for Vector and Spin Fields on the Sphere",
-   "topics": [],
-   "updated_date": "2026-11-03",
-   "url": "https://arxiv.org/abs/2611.04389"
-  },
-  "score": 4.8,
-  "seen": 2,
-  "suggested": "neural-operators",
-  "title": "Spin Spherical Fourier Neural Operators: Efficient Equivariant Learning for Vector and Spin Fields on the Sphere",
-  "url": "https://arxiv.org/abs/2611.04389"
- },
- {
-  "added": "2026-11-05",
-  "arxiv": "2611.04433",
-  "candidates": [
-   [
-    "reinforcement-learning",
-    4.8
-   ],
-   [
-    "antennas",
-    3.16
-   ],
-   [
-    "design-for-testability",
-    2.1
-   ],
-   [
-    "spatial-statistics",
-    1.33
-   ],
-   [
-    "attention-mechanisms",
-    1.2
-   ],
-   [
-    "optimization",
-    1.05
-   ]
-  ],
-  "confidence": "medium",
-  "doi": null,
-  "keys": [
-   "arxiv:2611.04433",
-   "title:movableantennaaidedrobustwirelesstransmissionfrommodelbasedoptimizationtoscalablereinforcementlearning|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "This paper investigates robust joint antenna positioning and precoding for multiuser movable antenna (MA) systems under imperfect channel state information (CSI). First, we identify the mismatch between the spatial statistics of densely sampled MA channels and the discrete Fourier transform (DFT) basis used for conventional robust precoding. To address this, we develop a novel discrete prolate spheroidal sequence (DPSS)-based a posteriori channel model. By exploiting the spatial covariance structure of MA channels, this model is better suited to modeling MA channel uncertainty. Building on this model, we develop an efficient iterative algorithm for robust joint antenna positioning and precoding to maximize the expected sum rate. By transforming the coupled optimization of antenna positioning and precoding at each iteration into direct comparisons of closed-form scores, we design a low-complexity position replacement scheme that effectively reuses matrix computations across candidate sets. To further improve efficiency and scalability, we exploit the inherent tensor equivariance (TE) of the problem to develop a reinforcement learning framework. To explicitly account for channel uncertainty, we develop novel pairwise user-interaction and CSI-conditioned equivariant attention mechanisms to encode channel statistics and adaptively fuse them with the available CSI. We further introduce distance-biased spatial attention to incorporate the geometry of candidate positions into attention weighting, thereby enhancing spatial feature learning. Simulation results show that the proposed methods improve sum-rate performance while reducing online runtime under imperfect CSI. These methods also achieve near-optimal performance under perfect CSI, closely matching the exhaustive-search method. Moreover, the learning framework generalizes across different numbers of users and MAs without retraining.",
-   "abstract_license": "cc0-1.0 (arxiv metadata)",
-   "arxiv": "2611.04433",
-   "authors": [
-    "Jinshuo Zhang",
-    "Yafei Wang",
-    "Hongwei Hou",
-    "Wenjin Wang",
-    "Shi Jin",
-    "Symeon Chatzinotas",
-    "Björn Ottersten"
-   ],
-   "categories": [
-    "arXiv:eess.SP"
-   ],
-   "cited_by_count": null,
-   "doi": null,
-   "is_retracted": null,
-   "keywords": [],
-   "language": "en",
-   "peer_reviewed": false,
-   "publication": "arXiv",
-   "publication_type": "preprint",
-   "published_date": "2026-11-03",
-   "related_versions": [],
-   "source_ids": [
-    "arxiv:2611.04433"
-   ],
-   "title": "Movable Antenna Aided Robust Wireless Transmission: From Model-Based Optimization to Scalable Reinforcement Learning",
-   "topics": [],
-   "updated_date": "2026-11-03",
-   "url": "https://arxiv.org/abs/2611.04433"
-  },
-  "score": 4.8,
-  "seen": 2,
-  "suggested": "reinforcement-learning",
-  "title": "Movable Antenna Aided Robust Wireless Transmission: From Model-Based Optimization to Scalable Reinforcement Learning",
-  "url": "https://arxiv.org/abs/2611.04433"
- },
- {
-  "added": "2026-11-05",
-  "arxiv": "2611.04558",
-  "candidates": [
-   [
-    "machine-learning",
-    4.8
-   ],
-   [
-    "molecular-dynamics-simulation",
-    1.65
-   ]
-  ],
-  "confidence": "medium",
-  "doi": null,
-  "keys": [
-   "arxiv:2611.04558",
-   "title:machinelearningmoleculardynamicsrevealsgrotthusstransportinconcentratedelectrolytes|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "Proton transfer is responsible for the anomalous high conductivity in acidic or basic aqueous solutions. Yet, the contribution of the proton transfer mechanism to the conductivity of concentrated aqueous solutions is unknown. In this work, we compute the transport properties of KOH(aq) systems with different concentrations, using Molecular Dynamics simulations with a Machine Learning Interatomic Potential (MLIP), which includes proton transfer. We quantify the contribution of the proton transfer mechanism to the diffusivities of hydroxide ions and water molecules, and the ionic conductivity and transport numbers of the electrolytes. The contribution is substantial at lower concentrations, but diminishes at very high concentrations.",
-   "abstract_license": "cc0-1.0 (arxiv metadata)",
-   "arxiv": "2611.04558",
-   "authors": [
-    "Øystein Gullbrekken",
-    "Sondre Kvalvåg Schnell"
-   ],
-   "categories": [
-    "arXiv:physics.chem-ph",
-    "arXiv:cond-mat.other"
-   ],
-   "cited_by_count": null,
-   "doi": null,
-   "is_retracted": null,
-   "keywords": [],
-   "language": "en",
-   "peer_reviewed": false,
-   "publication": "arXiv",
-   "publication_type": "preprint",
-   "published_date": "2026-11-03",
-   "related_versions": [],
-   "source_ids": [
-    "arxiv:2611.04558"
-   ],
-   "title": "Machine-Learning Molecular Dynamics Reveals Grotthuss Transport in Concentrated Electrolytes",
-   "topics": [],
-   "updated_date": "2026-11-03",
-   "url": "https://arxiv.org/abs/2611.04558"
-  },
-  "score": 4.8,
-  "seen": 2,
-  "suggested": "machine-learning",
-  "title": "Machine-Learning Molecular Dynamics Reveals Grotthuss Transport in Concentrated Electrolytes",
-  "url": "https://arxiv.org/abs/2611.04558"
- },
- {
-  "added": "2026-11-06",
-  "arxiv": "2611.05790",
-  "candidates": [
-   [
-    "neural-operators",
-    4.8
-   ],
-   [
-    "partial-differential-equations",
-    2.06
-   ]
-  ],
-  "confidence": "medium",
-  "doi": null,
-  "keys": [
-   "arxiv:2611.05790",
-   "title:unsupervisedneuraloperatorsforrotatingrelativisticstarshighfidelityequationofstateinferenceandpulsarspinevolutionatscale|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "Observed populations of rotating neutron stars~(NSs) with millisecond-order periods are powerful probes of fundamental physics. Mass-radius measurements inform poorly constrained properties of degenerate nuclear matter, whereas high-fidelity population synthesis connects unknowns in NS formation and binary evolution to large radio-timing surveys. However, repeated structure calculations are prohibitive due to the computational cost of solving the highly coupled partial differential equations of axisymmetric general relativistic hydrostatic equilibrium that govern rotating NS interiors. Non-rotating calculations or approximate rotational corrections can bias equation of state inference and limit the fidelity of population synthesis in tracing the evolutionary history of progenitors and propagating equation of state uncertainties. In this \\textit{Letter}, we develop physics-informed neural operators that can solve the axisymmetric problem with high accuracy and negligible computational cost. \\textit{Our solvers are trained in a fully unsupervised setting, with the training objective informed solely by the partial differential equations, and achieve a $10^3\\times$ speed-up with negligible accuracy loss}. These solvers enable scalable EoS inference that self-consistently accounts for rotation and repeated stellar-structure calculations during binary evolution, making spin predictions that account for rotational structure and EoS uncertainties computationally accessible to population synthesis.",
-   "abstract_license": "cc0-1.0 (arxiv metadata)",
-   "arxiv": "2611.05790",
-   "authors": [
-    "Anarya Ray"
-   ],
-   "categories": [
-    "arXiv:astro-ph.HE",
-    "arXiv:cs.AI",
-    "arXiv:cs.LG",
-    "arXiv:gr-qc"
-   ],
-   "cited_by_count": null,
-   "doi": null,
-   "is_retracted": null,
-   "keywords": [],
-   "language": "en",
-   "peer_reviewed": false,
-   "publication": "arXiv",
-   "publication_type": "preprint",
-   "published_date": "2026-11-04",
-   "related_versions": [],
-   "source_ids": [
-    "arxiv:2611.05790"
-   ],
-   "title": "Unsupervised Neural Operators for Rotating Relativistic Stars: High-Fidelity Equation of State Inference and Pulsar Spin Evolution at Scale",
-   "topics": [],
-   "updated_date": "2026-11-04",
-   "url": "https://arxiv.org/abs/2611.05790"
-  },
-  "score": 4.8,
-  "seen": 2,
-  "suggested": "neural-operators",
-  "title": "Unsupervised Neural Operators for Rotating Relativistic Stars: High-Fidelity Equation of State Inference and Pulsar Spin Evolution at Scale",
-  "url": "https://arxiv.org/abs/2611.05790"
  }
 ]

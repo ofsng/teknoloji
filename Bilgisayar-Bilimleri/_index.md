@@ -90,7 +90,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **114**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **125**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -100,14 +100,14 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Reinforcement Learning to Rank Using Coarse-grained Rewards](Veritabanlari-ve-Bilgi-Sistemleri/Bilgi-Erisimi/Siralamayi-Ogrenme/Arastirmalar/2026-Tu-Reinforcement-Learning-Rank-Using.md) — Tu vd. (2026) · *ACM Transactions on Information Systems* · hakemli · atıf: 7
+- [Motorcycle Rider Face Detection: An Experiment with R-CNN and Faster R-CNN](Yapay-Zeka/Bilgisayarli-Goru/Nesne-Tespiti/Iki-Asamali-Dedektorler/Arastirmalar/2026-Muhaqiqin-Motorcycle-Rider-Face-Detection.md) — Muhaqiqin vd. (2026) · *Journal of Artificial Intelligence and Technology Information (JAITI)* · hakemli
+- [Securing Agentic AI Enterprise Workflows Against Prompt Injection Tool Poisoning Memory Manipulation and Excessive Agency Threats](Yapay-Zeka/Cok-Etmenli-Sistemler/LLM-Tabanli-Etmenler/Arastirmalar/2026-Nwakamma-Securing-Agentic-Enterprise-Workflows.md) — Nwakamma (2026) · *WORLD JOURNAL OF INNOVATION AND MODERN TECHNOLOGY* · hakemli · atıf: 18
+- [Stein discrepancy for unsupervised domain adaptation](Yapay-Zeka/Makine-Ogrenmesi/Aktarim-Ogrenmesi/Alan-Uyarlama/Arastirmalar/2026-Seeger-Stein-discrepancy-for-unsupervised.md) — Seeger vd. (2026) · *Statistics and Computing* · hakemli · atıf: 1
+- [Applying ranked set sampling to Gaussian mixture models of Glasgow Coma Scale scores in intracerebral hemorrhage](Yapay-Zeka/Makine-Ogrenmesi/Gozetimsiz-Ogrenme/Kumeleme/Karisim-Modelleri/Arastirmalar/2026-Ahmed-Applying-ranked-set-sampling.md) — Ahmed vd. (2026) · *Scientific Reports* · hakemli
+- [Calibration and Cross-Dataset Behavior in Malaria Microscopy with Parameter-Efficient Fine-Tuning: A Matched LoRA–PiSSA Evaluation](Yapay-Zeka/Makine-Ogrenmesi/Temel-Modeller/Buyuk-Dil-Modelleri/Parametre-Verimli-Ince-Ayar/Arastirmalar/2026-Boit-Calibration-and-Cross-Dataset.md) — Boit vd. (2026) · *Diagnostics* · hakemli
 - [Multi-Armed Bandit-Based Model Selection for Incremental Phishing Detection: An Empirical Study of Accuracy, Cost, and Concept Drift](Yapay-Zeka/Makine-Ogrenmesi/Pekistirmeli-Ogrenme/Cok-Kollu-Haydutlar/Arastirmalar/2026-Al-Tarawneh-Multi-Armed-Bandit-Based.md) — Al-Tarawneh vd. (2026) · *Information* · hakemli
-- [Machine Translation: Evolution, Multilingual Models, Evaluation, and Challenges](Yapay-Zeka/Dogal-Dil-Isleme/Makine-Cevirisi/Arastirmalar/2026-Sivakumar-Machine-Translation-Evolution-Multilin.md) — Sivakumar vd. (2026) · *Indian Journal of Computer Science and Technology* · hakemli
-- [Divide-and-conquer neural-network surrogates for quantum sampling: Accelerating Markov-chain Monte Carlo in large-scale constrained optimization problems](Algoritmalar-ve-Veri-Yapilari/Algoritma-Tasarim-Paradigmalari/Bol-ve-Yonet/Arastirmalar/2026-Kawamata-Divide-and-conquer-neural.md) — Kawamata vd. (2026) · *Physical Review Applied* · hakemli · atıf: 2
-- [Path-Traced Inverse Rendering with Global Illumination in 3D Gaussian Fields](Bilgisayar-Grafikleri/Goruntu-Olusturma/Kuresel-Aydinlatma/Arastirmalar/2026-Zhu-Path-Traced-Inverse-Rendering.md) — Zhu vd. (2026) · *ACM Transactions on Graphics* · hakemli · atıf: 2
-- [The Expanding Battlefield of Microarchitectural Vulnerabilities: A Survey on Defining and Reducing the Timing Side-Channel Attack Surface through Vulnerability Assessment and Simulation](Bilgisayar-Guvenligi/Sistem-Guvenligi/Donanim-Guvenligi/Yan-Kanal-Saldirilari/Arastirmalar/2026-Khan-The-Expanding-Battlefield-Microarchitectura.md) — Khan vd. (2026) · *ACM Computing Surveys* · hakemli
-- [A Systematic Literature Review of Blockchain and Distributed Ledger Technology for the Detection and Prevention of Phishing Attacks](Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Arastirmalar/2026-Odianosen-Systematic-Literature-Review-Blockchai.md) — Odianosen vd. (2026) · *Iconic Research and Engineering Journals* · hakemli
-- [Generating interesting scientific ideas using knowledge graphs and LLMs: Evaluations with 100 research group leaders](Veritabanlari-ve-Bilgi-Sistemleri/Bilgi-Cizgeleri/Arastirmalar/2026-Gu-Generating-interesting-scientific-ideas.md) — Gu vd. (2026) · *Proceedings of the National Academy of Sciences* · hakemli · atıf: 65
-- [Pyramidal inhibitory lightweight autoassociative reconstruction for cost-constrained visual anomaly detection](Veritabanlari-ve-Bilgi-Sistemleri/Veri-Madenciligi/Anomali-Tespiti/Arastirmalar/2026-Fernandes-Pyramidal-inhibitory-lightweight-autoa.md) — Fernandes (2026) · *Discover Artificial Intelligence* · hakemli
+- [Blockchain Integrated Decentralized Cloud Storage and Immutable Smart Contract Platform for Secure and Trustworthy Collaborative BIM](Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Akilli-Sozlesmeler/Arastirmalar/2026-Sonmez-Blockchain-Integrated-Decentralized-Cloud.md) — Sönmez vd. (2026) · *Journal of Construction Engineering and Management* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

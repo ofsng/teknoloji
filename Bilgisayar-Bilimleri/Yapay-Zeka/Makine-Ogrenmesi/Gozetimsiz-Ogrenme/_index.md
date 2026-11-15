@@ -78,7 +78,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -88,6 +88,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Applying ranked set sampling to Gaussian mixture models of Glasgow Coma Scale scores in intracerebral hemorrhage](Kumeleme/Karisim-Modelleri/Arastirmalar/2026-Ahmed-Applying-ranked-set-sampling.md) — Ahmed vd. (2026) · *Scientific Reports* · hakemli
 - [From "Birds of a Feather" to Data Insights: The Principles, Methods and Applications of Hierarchical Clustering Algorithms](Kumeleme/Hiyerarsik-Kumeleme/Arastirmalar/2026-Yang-From-Birds-Feather-Data.md) — Yang (2026) · *Applied and Computational Engineering* · hakemli
 <!-- AUTO:RECENT:END -->
 

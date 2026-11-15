@@ -90,7 +90,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **7**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **8**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -100,6 +100,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Motorcycle Rider Face Detection: An Experiment with R-CNN and Faster R-CNN](Nesne-Tespiti/Iki-Asamali-Dedektorler/Arastirmalar/2026-Muhaqiqin-Motorcycle-Rider-Face-Detection.md) — Muhaqiqin vd. (2026) · *Journal of Artificial Intelligence and Technology Information (JAITI)* · hakemli
 - [Marigold V2: Revisiting Diffusion Transformers for Monocular Depth Estimation](3B-Bilgisayarli-Goru/Derinlik-Kestirimi/Arastirmalar/2026-Pavlovic-Marigold-Revisiting-Diffusion-Transform.md) — Pavlovic vd. (2026) · *ACM Transactions on Graphics* · hakemli · atıf: 4
 - [A review of medical image segmentation research based on bibliometrics](Goruntu-Bolutleme/Arastirmalar/2026-Li-review-medical-image-segmentation.md) — Li vd. (2026) · *Technology and Health Care* · hakemli
 - [Shape-Based Maritime Man-Made Object Detection Using Deep Learning Fusion-Based Neural Network and Region-Based Methods](Nesne-Tespiti/Arastirmalar/2026-Suzdalev-Shape-Based-Maritime-Man.md) — Suzdalev vd. (2026) · *Machines* · hakemli

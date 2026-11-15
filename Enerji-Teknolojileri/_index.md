@@ -84,7 +84,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **21**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **23**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -94,6 +94,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Optimizing the Performance of Perovskite Solar Cells through Triple-Diode Model: Achieving Maximum Power Conversion Efficiency and Minimizing Statistical Errors](Yenilenebilir-Enerji/Gunes-Enerjisi/Fotovoltaik/Perovskit-Gunes-Hucreleri/Arastirmalar/2026-Subash-Optimizing-the-Performance-Perovskite.md) — Subash vd. (2026) · *Journal of Circuits Systems and Computers* · hakemli
 - [Synergistic Cu–Co Sites Enabled Reversible H 2 Storage and Release in Liquid Organic Hydrogen Carriers](Hidrojen-Teknolojileri/Hidrojen-Depolama/Sivi-Organik-Hidrojen-Tasiyicilari/Arastirmalar/2026-Wang-Synergistic-CuCo-Sites-Enabled.md) — Wang vd. (2026) · *Angewandte Chemie* · hakemli
 - [Quantitative analysis of cathode polarization in a direct methanol fuel cell employing a methanol-tolerant Fe-N-C-type catalyst](Hidrojen-Teknolojileri/Yakit-Hucreleri/Dogrudan-Metanol-Yakit-Hucreleri/Arastirmalar/2026-Nakagawa-Quantitative-analysis-cathode-polarizat.md) — Nakagawa vd. (2026) · *Journal of Power Sources* · hakemli
 - [RENEWABLE ENERGY INTEGRATION AND ENERGY SECURITY IN SOUTHEASTERN NIGERIA: CHALLENGES, OPPORTUNITIES, AND STRATEGIC PATHWAYS](Yenilenebilir-Enerji/Arastirmalar/2026-Ifeachor-RENEWABLE-ENERGY-INTEGRATION-AND.md) — Ifeachor (2026) · *British Journal of Advanced Research* · hakemli
@@ -101,7 +102,6 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [Capacity optimisation configuration of air–electricity–hydrogen hybrid energy storage systems incorporating advanced adiabatic compressed air energy storage](Enerji-Depolama/Mekanik-Enerji-Depolama/Basincli-Hava-Enerji-Depolama/Arastirmalar/2026-Zhang-Capacity-optimisation-configuration-airele.md) — Zhang vd. (2026) · *Energy Reports* · hakemli
 - [Aerodynamic Design and Numerical Assessment of a 1.5 kW Helical Vertical-Axis Wind Turbine Using DMST and Three-Dimensional CFD](Yenilenebilir-Enerji/Ruzgar-Enerjisi/Dikey-Eksenli-Ruzgar-Turbinleri/Arastirmalar/2026-Valdovinos-Aerodynamic-Design-and-Numerical.md) — Valdovinos vd. (2026) · *Eng—Advances in Engineering* · hakemli
 - [Industrial energy efficiency starts with the team that operates the plant rather than with the purchase of new equipment](Enerji-Verimliligi/Endustriyel-Enerji-Verimliligi/Arastirmalar/2026-Santos-Industrial-energy-efficiency-starts.md) — Santos (2026) · *RCMOS - Revista Científica Multidisciplinar O Saber* · hakemli
-- [Transition Metal Chalcogenides as Electrocatalysts for Anion Exchange Membrane Water Electrolysis](Hidrojen-Teknolojileri/Hidrojen-Uretimi/Su-Elektrolizi/Arastirmalar/2026-Tamang-Transition-Metal-Chalcogenides-Electrocat.md) — Tamang vd. (2026) · *Chemistry of Materials* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

@@ -83,7 +83,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **4**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **8**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -93,7 +93,11 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [A blockchain-secured multi-agent GNN–XGBoost framework for intelligent energy coordination in IoT-enabled sustainable smart grids](Akilli-Sebekeler/Arastirmalar/2026-Kommerla-blockchain-secured-multi-agent.md) — Kommerla vd. (2026) · *Scientific Reports* · hakemli
+- [Alternating Methods for Large-Scale AC Optimal Power Flow with Unit Commitment](Elektrik-Piyasalari/Arastirmalar/2026-Brun-Alternating-Methods-for-Large.md) — Brun vd. (2026) · *Operations Research* · hakemli · atıf: 3
+- [Digital twin–guided graph-transformer with meta-reinforcement learning for real-time adaptive cyber-attack mitigation in smart grids](Akilli-Sebekeler/Arastirmalar/2026-Manogaran-Digital-twinguided-graph-transformer.md) — Manogaran vd. (2026) · *Scientific Reports* · hakemli
 - [Hierarchical Reinforcement Learning for Degradation-Aware and Coordinated Control of Virtual Power Plants](Akilli-Sebekeler/Sanal-Guc-Santralleri/Arastirmalar/2026-Arjun-Hierarchical-Reinforcement-Learning-for.md) — Arjun vd. (2026) · *Industrial & Engineering Chemistry Research* · hakemli
+- [GridXAI-diffusion an adaptive graph intelligence framework for interpretable data integrity analysis in smart grid cybersecurity systems](Akilli-Sebekeler/Arastirmalar/2026-Issac-GridXAI-diffusion-adaptive-graph.md) — Issac vd. (2026) · *Scientific Reports* · hakemli
 - [Intelligent Unified Power Quality Conditioner with Reactive Power Sharing for Improving DC-Link Voltage and Power Quality](Guc-Kalitesi/Arastirmalar/2026-Tan-Intelligent-Unified-Power-Quality.md) — Tan vd. (2026) · *Energies* · hakemli
 - [Resource Modeling, Market Participation, and Coordinated Operation of Virtual Power Plants: A Review](Akilli-Sebekeler/Sanal-Guc-Santralleri/Arastirmalar/2026-Li-Resource-Modeling-Market-Participation.md) — Li vd. (2026) · *Energies* · hakemli
 - [Novel Type-2 SOGI PLL and Cuckoo search optimization based adaptive controllers for performance improvement of UPQC for power quality improvement](Guc-Kalitesi/Arastirmalar/2026-Pavankumar-Novel-Type-SOGI-PLL.md) — Pavankumar vd. (2026) · *International Journal of Emerging Electric Power Systems* · hakemli

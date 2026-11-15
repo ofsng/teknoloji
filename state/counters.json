@@ -1,46 +1,4 @@
 {
- "2026-11-07": {
-  "archived": 37,
-  "backfill": 0,
-  "by_source": {
-   "arxiv": 17,
-   "openalex": 20
-  },
-  "llm_calls": 0,
-  "llm_usd": 0.0,
-  "per_tech": {
-   "active-learning": 1,
-   "dark-matter": 1,
-   "dye-sensitized-solar-cells": 1,
-   "empirical-software-engineering": 1,
-   "floating-offshore-wind": 1,
-   "genetic-testing": 1,
-   "graphene-oxide": 1,
-   "gravitational-waves": 3,
-   "in-context-learning": 1,
-   "large-language-models": 3,
-   "markov-chains": 1,
-   "mobile-health": 1,
-   "model-predictive-control": 1,
-   "multi-agent-reinforcement-learning": 1,
-   "named-entity-recognition": 2,
-   "natural-language-processing": 1,
-   "object-detection": 1,
-   "plasma-etching": 1,
-   "post-quantum-cryptography": 1,
-   "pulsar-timing-arrays": 1,
-   "quantum-networks": 1,
-   "reinforcement-learning": 1,
-   "reinforcement-learning-from-human-feedback": 1,
-   "retrieval-augmented-generation": 3,
-   "runge-kutta-methods": 1,
-   "shape-memory-alloys": 1,
-   "stochastic-gradient-methods": 1,
-   "superconducting-qubits": 1,
-   "vision-language-action-models": 1,
-   "vision-language-models": 1
-  }
- },
  "2026-11-08": {
   "archived": 40,
   "backfill": 0,
@@ -354,6 +312,52 @@
    "waste-to-energy": 1,
    "water-electrolysis": 1,
    "wind-resource-assessment": 1
+  }
+ },
+ "2026-11-15": {
+  "archived": 40,
+  "backfill": 0,
+  "by_source": {
+   "openalex": 40
+  },
+  "llm_calls": 2,
+  "llm_usd": 0.0,
+  "per_tech": {
+   "adaptive-control": 1,
+   "car-t-cell-therapy": 2,
+   "carbon-nanotubes": 1,
+   "cell-free-massive-mimo": 1,
+   "collaborative-filtering": 1,
+   "dc-dc-converters": 1,
+   "digital-twins": 1,
+   "domain-adaptation": 1,
+   "eddy-current-testing": 1,
+   "electronic-design-automation": 1,
+   "free-space-optical-communication": 1,
+   "hybrid-imaging": 1,
+   "imitation-learning": 1,
+   "internal-combustion-engines": 1,
+   "learning-to-rank": 1,
+   "llm-based-agents": 2,
+   "magnesium-alloys": 1,
+   "mixture-models": 1,
+   "mobility-as-a-service": 1,
+   "parameter-efficient-fine-tuning": 1,
+   "perovskite-solar-cells": 1,
+   "phased-array-antennas": 1,
+   "photonic-crystals": 2,
+   "power-system-economics-and-markets": 1,
+   "quantum-channels": 1,
+   "remote-sensing": 1,
+   "smart-contracts": 1,
+   "smart-grids": 3,
+   "soft-actuators": 1,
+   "solid-state-lasers": 1,
+   "speech-enhancement": 1,
+   "thermal-barrier-coatings": 1,
+   "two-stage-detectors": 1,
+   "van-der-waals-heterostructures": 1,
+   "wind-energy": 1
   }
  }
 }

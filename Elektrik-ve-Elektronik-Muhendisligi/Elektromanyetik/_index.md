@@ -81,7 +81,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **3**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -91,6 +91,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Phased Array Antenna Surface Deformation Reconstruction Based on Modal Low-Rank Correction and Gaussian Process Data Migration](Antenler/Faz-Dizili-Antenler/Arastirmalar/2026-Yan-Phased-Array-Antenna-Surface.md) — Yan vd. (2026) · *Micromachines* · hakemli
 - [Electromagnetic Compatibility Estimation between Satellite Communication Systems Located in Different Orbits](Elektromanyetik-Uyumluluk/Arastirmalar/2026-Antipin-Electromagnetic-Compatibility-Estimation.md) — Antipin vd. (2026) · *Proceedings of Telecommunication Universities* · hakemli
 - [Channel Estimation for Active Reconfigurable Intelligent Surfaces Under Amplifier Compression](Antenler/Yeniden-Yapilandirilabilir-Akilli-Yuzeyler/Arastirmalar/2026-Basheer-Channel-Estimation-for-Active.md) — Basheer vd. (2026) · *Telecom* · hakemli
 <!-- AUTO:RECENT:END -->

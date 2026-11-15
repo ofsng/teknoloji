@@ -80,7 +80,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **4**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **5**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -92,6 +92,7 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 
 - [Examining the Effect of Hexagonal Boron Nitride on Morphological and Chemical Properties of Biopolymers Using Dual-Beam Methodology](Altigen-Bor-Nitrur/Arastirmalar/2026-Camic-Examining-the-Effect-Hexagonal.md) — Camic (2026) · *Kocaeli Journal of Science and Engineering* · hakemli
 - [Reversible Electric-Field-Induced Changes in the Thermal Resistance of Hexagonal Boron Nitride](Altigen-Bor-Nitrur/Arastirmalar/2026-Schaeffer-Reversible-Electric-Field-Induced.md) — Schaeffer vd. (2026) · *Nano Letters* · hakemli
+- [Antiambipolar and Bidirectional Photoresponse in Ternary van der Waals Heterostructure Transistors](Van-der-Waals-Heteroyapilari/Arastirmalar/2026-Han-Antiambipolar-and-Bidirectional-Photorespons.md) — Han vd. (2026) · *ACS Nano* · hakemli
 - [Engineered Dielectric Response of Liquid-Filled Interfacial Bubbles in van der Waals Heterostructures](Van-der-Waals-Heteroyapilari/Arastirmalar/2026-Park-Engineered-Dielectric-Response-Liquid.md) — Park vd. (2026) · *ACS Applied Materials & Interfaces* · hakemli
 - [Class-Selective Spin Activity of Two Spectrally Distinct Color Centers in Oxygen-Annealed Hexagonal Boron Nitride](Altigen-Bor-Nitrur/Arastirmalar/2026-Liu-Class-Selective-Spin-Activity.md) — Liu vd. (2026) · *ACS Photonics* · hakemli
 <!-- AUTO:RECENT:END -->

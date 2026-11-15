@@ -86,7 +86,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **7**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **8**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -99,6 +99,7 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [Federated Reinforcement Learning for Traffic Signal Control: Aggregation Strategies under Intersection-Level Heterogeneity](Akilli-Ulasim-Sistemleri/Trafik-Sinyal-Kontrolu/Arastirmalar/2026-Tang-Federated-Reinforcement-Learning-for.md) — Tang (2026) · *Applied and Computational Engineering* · hakemli
 - [A Type-2 Fuzzy Traffic Signal Control Method based on Short-Term Traffic Flow Prediction Using LSTM](Akilli-Ulasim-Sistemleri/Trafik-Sinyal-Kontrolu/Arastirmalar/2026-Yunrui-Type-Fuzzy-Traffic-Signal.md) — Yunrui vd. (2026) · *Journal of Imaging Science and Technology* · hakemli
 - [A Dual-Evaluation Collaborative Decision Deep Reinforcement Learning Strategy for Multi-Constraint Energy Management of Hybrid Electric Vehicles](Elektrikli-Araclar/Hibrit-Elektrikli-Araclar/Arastirmalar/2026-Zeng-Dual-Evaluation-Collaborative-Decision.md) — Zeng vd. (2026) · *Energies* · hakemli
+- [Understanding older adults’ intentions to adopt mobility-as-a-service mobile applications: implications for inclusive and accessible urban transport](Akilli-Ulasim-Sistemleri/Hizmet-Olarak-Mobilite/Arastirmalar/2026-Sodha-Understanding-older-adults-intentions.md) — Sodha vd. (2026) · *Journal of Transport & Health* · hakemli
 - [Cross layer plausibility-based trust assessment for Sybil attack detection in Intelligent Transportation Systems](Akilli-Ulasim-Sistemleri/Arastirmalar/2026-Lone-Cross-layer-plausibility-based.md) — Lone vd. (2026) · *Journal of Intelligent Transportation Systems* · hakemli
 - [Incremental Cost-effectiveness Analysis of Battery Electric Vehicle (BEV) Electromobility in Metro Manila](Elektrikli-Araclar/Bataryali-Elektrikli-Araclar/Arastirmalar/2026-Merced-Incremental-Cost-effectiveness-Analysis.md) — Merced (2026) · *Journal of Energy Research and Reviews* · hakemli
 - [Socio–Technical Factors for the Integration of Urban Air Mobility and General Aviation During Landing/Take–off Operation Using Agent–Based Modeling](Kentsel-Hava-Mobilitesi/Arastirmalar/2026-Olanipekun-SocioTechnical-Factors-for-the.md) — Olanipekun vd. (2026) · *Electronics* · hakemli

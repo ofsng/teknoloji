@@ -79,7 +79,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **18**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **19**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -89,6 +89,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Optimal learning of quantum channels in diamond distance](Kuantum-Bilgi-Teorisi/Kuantum-Kanallari/Arastirmalar/2026-Mele-Optimal-learning-quantum-channels.md) — Mele vd. (2026) · *Nature Physics* · hakemli · atıf: 33
 - [Quantum approximate optimization algorithm with cat qubits](Kuantum-Hesaplama/Kuantum-Algoritmalari/Varyasyonel-Kuantum-Algoritmalari/Kuantum-Yaklasik-Optimizasyon-Algoritmasi/Arastirmalar/2026-Vikstal-Quantum-approximate-optimization-algorit.md) — Vikstål vd. (2026) · *Scientific Reports* · hakemli · atıf: 6
 - [Statistical benchmarking of optimization methods for a variational quantum eigensolver under quantum noise](Kuantum-Hesaplama/Kuantum-Algoritmalari/Varyasyonel-Kuantum-Algoritmalari/Varyasyonel-Kuantum-Ozdeger-Cozucu/Arastirmalar/2026-Illesova-Statistical-benchmarking-optimization-m.md) — Illésová vd. (2026) · *Physical Review A* · hakemli · atıf: 14
 - [Clinical Translation of Optically Pumped Magnetometer-Based Magnetoencephalography: Current Evidence, Implementation Challenges, and Future Pathways](Kuantum-Algilama-ve-Metroloji/Kuantum-Manyetometri/Optik-Pompali-Manyetometreler/Arastirmalar/2026-Peng-Clinical-Translation-Optically-Pumped.md) — Peng vd. (2026) · *Brain Sciences* · hakemli
@@ -96,7 +97,6 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [Remote Adiabatic Controlled-Z Gate between Distant Superconducting Qubits](Kuantum-Hesaplama/Kubit-Teknolojileri/Superiletken-Kubitler/Arastirmalar/2026-Xu-Remote-Adiabatic-Controlled-Gate.md) — Xu vd. (2026) · *Chinese Physics B* · hakemli · atıf: 1
 - [Scalable entanglement distribution framework for hybrid quantum networks](Kuantum-Iletisimi/Kuantum-Aglari/Arastirmalar/2026-Zhao-Scalable-entanglement-distribution-framewor.md) — Zhao vd. (2026) · *Physical Review A* · hakemli
 - [QECert: Formal Foundations for Quantum Error-Correction Theory in Lean](Kuantum-Hesaplama/Kuantum-Hata-Duzeltme/Arastirmalar/2026-He-QECert-Formal-Foundations-for.md) — He vd. (2026) · *arXiv* · ön baskı / hakemsiz
-- [Trinetra.Q: Statistical and Behavioral Detection of Attacks on the Quantum-Error-Correction Layer and Classical Control Stack of Quantum Computing Systems](Kuantum-Hesaplama/Kuantum-Hata-Duzeltme/Arastirmalar/2026-Sipani-Trinetra-Statistical-and-Behavioral.md) — Sipani (2026) · *arXiv* · ön baskı / hakemsiz
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

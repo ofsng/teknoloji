@@ -82,7 +82,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **3**.
+
+- [Application of UAV Remote Sensing in Crop Detection](Arastirmalar/2026-He-Application-UAV-Remote-Sensing.md) — He (2026) · *Academic Journal of Science and Technology* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -93,6 +95,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
 - [Crop biophysical parameter estimation via AI-enhanced hyperspectral remote sensing](Hiperspektral-Uzaktan-Algilama/Arastirmalar/2026-Zhang-Crop-biophysical-parameter-estimation.md) — Zhang vd. (2026) · *Geo-spatial Information Science* · hakemli
+- [Application of UAV Remote Sensing in Crop Detection](Arastirmalar/2026-He-Application-UAV-Remote-Sensing.md) — He (2026) · *Academic Journal of Science and Technology* · hakemli
 - [A Synergistic Assessment of Global Wind and Wave Energy Resources Using Satellite Altimetry](Uydu-Altimetrisi/Arastirmalar/2026-Li-Synergistic-Assessment-Global-Wind.md) — Li vd. (2026) · *Journal of Marine Science and Engineering* · hakemli
 <!-- AUTO:RECENT:END -->
 

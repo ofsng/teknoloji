@@ -85,7 +85,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **6**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **8**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -95,6 +95,8 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Joint Clustering, Association, and Power Allocation in Cell-Free Massive MIMO-NOMA](Kablosuz-Haberlesme/MIMO-Sistemleri/Hucresiz-Masif-MIMO/Arastirmalar/2026-Hiremath-Joint-Clustering-Association-and.md) — Hiremath vd. (2026) · *International Journal of Electronics and Communication Engineering* · hakemli
+- [Towards high-capacity and robust free-space optical communications](Optik-Haberlesme/Serbest-Uzay-Optik-Haberlesme/Arastirmalar/2026-Wang-Towards-high-capacity-and.md) — Wang vd. (2026) · *Communications Physics* · hakemli
 - [Slow-Shot-Based Routing Selection for Optical Satellite Networks with Dynamical Optical Inter-Satellite Links](Uydu-Haberlesmesi/Uydular-Arasi-Baglantilar/Arastirmalar/2026-Wang-Slow-Shot-Based-Routing.md) — Wang vd. (2026) · *Electronics* · hakemli
 - [Vertical Segmented Waveguide-Enabled Pinching Antenna (V-SWAN)-Assisted EDMA-NOMA Integrated Sensing and Communication Systems](Kablosuz-Haberlesme/Butunlesik-Algilama-ve-Haberlesme/Arastirmalar/2026-Hari-Vertical-Segmented-Waveguide-Enabled.md) — Hari vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [Adaptive scrambling-based hadamard transform for peak-to-average power ratio reduction in sixth-generation orthogonal time-frequency space waveforms](Haberlesme-Kurami/Modulasyon/Cok-Tasiyicili-Modulasyon/Dik-Zaman-Frekans-Uzayi/Arastirmalar/2026-Kumar-Adaptive-scrambling-based-hadamard.md) — Kumar vd. (2026) · *PeerJ Computer Science* · hakemli
