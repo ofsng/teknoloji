@@ -75,7 +75,11 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **3**, alt teknolojiler dahil: **3**.
+
+- [Comparative Review of the Blockchain Consensus Algorithm Between Proof of Stake (POS) and Delegated Proof of Stake (DPOS)](Arastirmalar/2020-Saad-Comparative-Review-the-Blockchain.md) — Saad vd. (2020) · *International Journal of Innovative Computing* · hakemli · atıf: 126
+- [Delegated Proof of Stake Consensus Mechanism Based on Community Discovery and Credit Incentive](Arastirmalar/2023-Li-Delegated-Proof-Stake-Consensus.md) — Li vd. (2023) · *Entropy* · hakemli · atıf: 35
+- [Decentralizing Sequencers in Rollups using Delegated Proof-of-Stake Consensus Mechanism](Arastirmalar/2025-Muzahid-Decentralizing-Sequencers-Rollups-using.md) — Muzahid (2025) · *International Journal of Computer Applications* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler

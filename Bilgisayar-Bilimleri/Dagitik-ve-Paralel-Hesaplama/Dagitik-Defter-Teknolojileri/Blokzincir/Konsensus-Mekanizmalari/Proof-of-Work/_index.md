@@ -76,7 +76,11 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **3**, alt teknolojiler dahil: **3**.
+
+- [Impact of Proof of Work (PoW)-Based Blockchain Applications on the Environment: A Systematic Review and Research Agenda](Arastirmalar/2023-Sapra-Impact-Proof-Work-PoW.md) — Sapra vd. (2023) · *Journal of risk and financial management* · hakemli · atıf: 81
+- [Proof of Work can Work.](Arastirmalar/2006-Liu-Proof-Work-can-Work.md) — Liu vd. (2006) · *WEIS* · hakemli · atıf: 39
+- [A Systematic Literature Review of Proof of Work and Proof of Activity Privacy and Performance](Arastirmalar/2023-Walumbe-Systematic-Literature-Review-Proof.md) — Walumbe vd. (2023) · *International Journal of Computer Sciences and Engineering* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler

@@ -75,7 +75,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **1**.
+
+- [IPv6 security tools — A systematic review](Arastirmalar/2016-Khan-IPv6-security-tools-systematic.md) — Khan vd. (2016) · *International Conference on Computing, Communication and Automation* · hakemli · atıf: 5
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler

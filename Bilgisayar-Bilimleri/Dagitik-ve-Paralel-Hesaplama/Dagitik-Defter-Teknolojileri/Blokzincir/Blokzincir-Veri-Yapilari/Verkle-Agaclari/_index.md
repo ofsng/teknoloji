@@ -75,7 +75,10 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **2**.
+
+- [VADIA-Verkle Tree-based Approach for Dealing Data Integrity Attacks in Opportunistic Mobile Social Networks](Arastirmalar/2024-Lakshmi-VADIA-Verkle-Tree-based.md) — Lakshmi (2024) · *Journal of Wireless Mobile Networks Ubiquitous Computing and Dependable Applications* · hakemli · atıf: 6
+- [Polynomial Commitment in a Verkle Tree Based on a Non-Positional Polynomial Notation](Arastirmalar/2025-Algazy-Polynomial-Commitment-Verkle-Tree.md) — Algazy vd. (2025) · *Computers, materials & continua/Computers, materials & continua (Print)* · hakemli · atıf: 4
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler

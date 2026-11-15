@@ -75,7 +75,11 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **3**, alt teknolojiler dahil: **3**.
+
+- [Latent diffusion model for conditional reservoir facies generation](Arastirmalar/2024-Lee-Latent-diffusion-model-for.md) — Lee vd. (2024) · *Computers & Geosciences* · hakemli · atıf: 50
+- [Latent Diffusion Model for Social Recommendation](Arastirmalar/2026-He-Latent-Diffusion-Model-for.md) — He vd. (2026) · *IEEE Transactions on Systems Man and Cybernetics Systems* · hakemli · atıf: 35
+- [Latent Diffusion Model Assisted Image Deblurring](Arastirmalar/2025-Wu-Latent-Diffusion-Model-Assisted.md) — Wu vd. (2025) · *IEEE Transactions on Consumer Electronics* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -83,7 +87,10 @@ Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
-_Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini göstermez; ön baskılar hakemli değildir._
+Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
+
+- [Latent Diffusion Model for Social Recommendation](Arastirmalar/2026-He-Latent-Diffusion-Model-for.md) — He vd. (2026) · *IEEE Transactions on Systems Man and Cybernetics Systems* · hakemli · atıf: 35
+- [Latent Diffusion Model Assisted Image Deblurring](Arastirmalar/2025-Wu-Latent-Diffusion-Model-Assisted.md) — Wu vd. (2025) · *IEEE Transactions on Consumer Electronics* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

@@ -75,9 +75,12 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **4**, alt teknolojiler dahil: **4**.
 
+- [A Survey of Direct Preference Optimization: Datasets, Theories, Variants, and Applications](Arastirmalar/2026-Xiao-Survey-Direct-Preference-Optimization.md) — Xiao vd. (2026) · *IEEE Transactions on Pattern Analysis and Machine Intelligence* · hakemli · atıf: 55
+- [Noise-Aware Direct Preference Optimization for RLAIF](Arastirmalar/2025-Toleu-Noise-Aware-Direct-Preference.md) — Toleu vd. (2025) · *Applied Sciences* · hakemli · atıf: 1
 - [GapDPO: Setwise Direct Preference Optimization for LLM Safety Alignment](Arastirmalar/2026-Lim-GapDPO-Setwise-Direct-Preference.md) — Lim vd. (2026) · *Applied Sciences* · hakemli
+- [Research Process of Autoregressive Direct Preference Optimization](Arastirmalar/2026-Oi-Research-Process-Autoregressive-Direct.md) — Oi (2026) · *Journal of Natural Language Processing* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -88,6 +91,8 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
 - [GapDPO: Setwise Direct Preference Optimization for LLM Safety Alignment](Arastirmalar/2026-Lim-GapDPO-Setwise-Direct-Preference.md) — Lim vd. (2026) · *Applied Sciences* · hakemli
+- [A Survey of Direct Preference Optimization: Datasets, Theories, Variants, and Applications](Arastirmalar/2026-Xiao-Survey-Direct-Preference-Optimization.md) — Xiao vd. (2026) · *IEEE Transactions on Pattern Analysis and Machine Intelligence* · hakemli · atıf: 55
+- [Research Process of Autoregressive Direct Preference Optimization](Arastirmalar/2026-Oi-Research-Process-Autoregressive-Direct.md) — Oi (2026) · *Journal of Natural Language Processing* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

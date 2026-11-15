@@ -75,7 +75,11 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **3**, alt teknolojiler dahil: **3**.
+
+- [Ad hoc on‐demand multipath distance vector routing](Arastirmalar/2006-Marina-hoc-ondemand-multipath-distance.md) — Marina vd. (2006) · *Wireless Communications and Mobile Computing* · hakemli · atıf: 610
+- [Scalability study of the ad hoc on‐demand distance vector routing protocol](Arastirmalar/2003-Lee-Scalability-study-the-hoc.md) — Lee vd. (2003) · *International Journal of Network Management* · hakemli · atıf: 205
+- [Formal verification of standards for distance vector routing protocols](Arastirmalar/2002-Bhargavan-Formal-verification-standards-for.md) — Bhargavan vd. (2002) · *Journal of the ACM* · hakemli · atıf: 184
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler

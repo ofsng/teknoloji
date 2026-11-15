@@ -75,7 +75,11 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **3**, alt teknolojiler dahil: **3**.
+
+- [A Survey of BGP Security Issues and Solutions](Arastirmalar/2010-Butler-Survey-BGP-Security-Issues.md) — Butler vd. (2010) · *Proceedings of the IEEE* · hakemli · atıf: 364
+- [Study on BGP Security](Arastirmalar/2014-Li-Study-BGP-Security.md) — Li vd. (2014) · *Journal of Software* · hakemli · atıf: 26
+- [A Survey on the BGP Security](Arastirmalar/2007-Gong-Survey-the-BGP-Security.md) — Gong (2007) · *Computer Engineering and Science* · hakemli · atıf: 1
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler

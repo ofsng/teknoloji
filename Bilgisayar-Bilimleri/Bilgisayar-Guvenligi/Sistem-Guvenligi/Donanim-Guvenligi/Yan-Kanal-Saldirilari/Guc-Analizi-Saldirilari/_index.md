@@ -75,7 +75,11 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **3**, alt teknolojiler dahil: **3**.
+
+- [Examining smart-card security under the threat of power analysis attacks](Arastirmalar/2002-Messerges-Examining-smart-card-security.md) — Messerges vd. (2002) · *IEEE Transactions on Computers* · hakemli · atıf: 1704
+- [Power analysis attack: an approach based on machine learning](Arastirmalar/2014-Lerman-Power-analysis-attack-approach.md) — Lerman vd. (2014) · *International Journal of Applied Cryptography* · hakemli · atıf: 139
+- [Power Analysis Attacks and Countermeasures](Arastirmalar/2007-Popp-Power-Analysis-Attacks-and.md) — Popp vd. (2007) · *IEEE Design & Test of Computers* · hakemli · atıf: 112
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
