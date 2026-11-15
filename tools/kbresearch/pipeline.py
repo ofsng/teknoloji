@@ -6,6 +6,7 @@ Her sayfa işlendikten sonra durum diske yazılır; çalışma kesilirse aynı g
 Arşiv, backlog ve inceleme kuyruğu aynı çalışmayı tekrar eklemez; bu yüzden yeniden işleme güvenlidir.
 """
 import math
+import re
 import time
 import traceback
 from datetime import date, timedelta
@@ -24,6 +25,47 @@ from .sources import arxiv, crossref, openalex
 from .state import State, daterange, parse_date, load_json, save_json
 
 OPENALEX_STREAMS = ("journal", "biorxiv-medrxiv")
+
+
+def _norm_words(text):
+    """Küçük harf, yalnızca harf/rakam, basit çoğul eki atılmış sözcükler ("Routing Protocols" = "routing protocol")."""
+    words = re.sub(r"[^a-z0-9]+", " ", (text or "").lower()).split()
+    return " ".join(w[:-1] if len(w) > 3 and w.endswith("s") and not w.endswith("ss") else w for w in words)
+
+
+# Bağlam sayılmayacak kadar genel sözcükler (_norm_words biçiminde)
+CONTEXT_GENERIC = {"system", "technology", "technologie", "method", "engineering", "computing", "science",
+                   "application", "theory", "protocol", "network", "model", "structure", "data", "layer", "advanced",
+                   "general", "processing", "analysis", "design", "based", "approach", "approache", "technique",
+                   "learning"}
+
+
+def context_phrases(tree, nid):
+    """Ad belirsizliğine karşı bağlam: ana disiplin dışındaki üst düğümlerin adları, takma adları ve bu adlardaki
+    ayırt edici sözcükler. "Layer-2 Protocols" (blokzincir) adı ATM ya da mmWave katman-2 protokollerini de getirir;
+    üst düğümlerden (Blockchain Scalability, Blockchain, …) hiçbir iz yoksa kayıt o dala ait değildir.
+    Pilot (2026-11-15): 107 kayıtta bilinen 3 ad çakışmasının üçünü de eler."""
+    out = set()
+    for a in tree.ancestors(nid):
+        n = tree.nodes[a]
+        if n["depth"] < 2:
+            continue
+        for name in [n["meta"].get("title")] + list(n["meta"].get("aliases") or []):
+            p = _norm_words(name)
+            if len(p) >= 2:
+                out.add(p)
+            out.update(w for w in p.split() if len(w) >= 4 and w not in CONTEXT_GENERIC)
+    return out
+
+
+def has_context(rec, phrases):
+    """Kaydın başlık, özet, anahtar sözcük ya da konu metninde bağlam ifadelerinden biri geçiyor mu.
+    Üst düğümü olmayan (ana disipline bağlı) düğümlerde denetim yapılmaz."""
+    if not phrases:
+        return True
+    text = " " + _norm_words(" ".join([rec.get("title") or "", rec.get("abstract") or ""] +
+                                      list(rec.get("keywords") or []) + list(rec.get("topics") or []))) + " "
+    return any(f" {p} " in text for p in phrases)
 
 
 class Run:
@@ -484,10 +526,14 @@ class Run:
                 self.stats["errors"].append(f"backfill {nid}: {e}")
                 break
             sub = set(kb.subtree(self.tree, nid))
+            context = context_phrases(self.tree, nid) if rank == "explain" else None
             taken = 0
             for r in recs:
                 if taken >= (per_tech or self.cfg.backfill_per_tech):
                     break
+                if context is not None and not has_context(r, context):
+                    self.stats["backfill_off_context"] = self.stats.get("backfill_off_context", 0) + 1
+                    continue
                 c = self.clf.classify(r)
                 if c["primary"] in sub and c["confidence"] == "high":
                     c = {**c, "method": "deterministic+backfill" + ("-explain" if rank == "explain" else "")}

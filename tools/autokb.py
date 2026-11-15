@@ -63,7 +63,7 @@ def cmd_backfill(args):
         run = Run(cfg, http)
         run.backfill(args.ids, args.per_tech, args.rank)
         run.finish()
-    print(json.dumps({k: run.stats[k] for k in ("created", "merged", "unchanged", "backfill_created", "errors")},
+    print(json.dumps({k: run.stats[k] for k in ("created", "merged", "unchanged", "backfill_created", "backfill_off_context", "errors") if k in run.stats},
                      ensure_ascii=False))
     return 2 if run.stats["errors"] else 0
 
