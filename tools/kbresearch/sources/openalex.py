@@ -56,6 +56,17 @@ def search_top(http, cfg, phrase, n, types="article|review", field="title_and_ab
                             "sort": "cited_by_count:desc", "per_page": n})[0]
 
 
+def search_explainers(http, cfg, phrase, n):
+    """Alanı anlatan çalışmalar: önce başlığında ifade geçen derlemeler, sonra özgün makaleler; her grup arama
+    alakasına (relevance_score) göre sıralı. Ham atıf sayısı eski öncü makaleleri kayırdığından kullanılmaz."""
+    q = phrase.replace('"', "")
+    base = f'title.search:"{q}",has_abstract:true,primary_location.source.type:journal|conference'
+    out = []
+    for typ in ("review", "article"):
+        out += _get(http, cfg, {"filter": f"{base},type:{typ}", "sort": "relevance_score:desc", "per_page": n})[0]
+    return out
+
+
 def count_phrase(http, cfg, phrase):
     q = phrase.replace('"', "")
     resp = http.get(API, _params(cfg, {"filter": f'title_and_abstract.search:"{q}"', "per_page": 1,

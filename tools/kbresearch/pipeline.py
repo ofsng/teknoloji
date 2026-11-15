@@ -458,10 +458,12 @@ class Run:
                 self.stats["proposals"] += 1
 
     # ------------------------------------------------------------ tarihsel tamamlama
-    def backfill(self, tech_ids=None, per_tech=None):
-        """Belirli teknolojilerin çok atıf alan önemli çalışmaları (adı başlıkta geçen dergi/konferans yayınları).
+    def backfill(self, tech_ids=None, per_tech=None, rank=None):
+        """Belirli teknolojilerin önemli çalışmaları (adı başlıkta geçen dergi/konferans yayınları).
+        rank="cited": en çok atıf alanlar; rank="explain": alanı anlatanlar (önce derlemeler, arama alakasına göre).
         Günlük bütçeden ayrı; sınıflandırıcı çalışmayı yüksek güvenle aynı teknolojiye (veya alt ağacına)
         yerleştirmezse arşivlenmez."""
+        rank = rank or self.cfg.backfill_rank
         qpath = f"{self.cfg.state_dir}/backfill-queue.json"
         queue = load_json(qpath, [])
         if tech_ids:
@@ -472,9 +474,12 @@ class Run:
                 done.append(nid)
                 continue
             title = self.tree.nodes[nid]["meta"]["title"]
+            n = (per_tech or self.cfg.backfill_per_tech) * 3
             try:
-                recs = openalex.search_top(self.http, self.cfg, title, (per_tech or self.cfg.backfill_per_tech) * 3,
-                                           field="title")
+                if rank == "explain":
+                    recs = openalex.search_explainers(self.http, self.cfg, title, n)
+                else:
+                    recs = openalex.search_top(self.http, self.cfg, title, n, field="title")
             except SourceUnavailable as e:
                 self.stats["errors"].append(f"backfill {nid}: {e}")
                 break
@@ -485,7 +490,7 @@ class Run:
                     break
                 c = self.clf.classify(r)
                 if c["primary"] in sub and c["confidence"] == "high":
-                    c = {**c, "method": "deterministic+backfill"}
+                    c = {**c, "method": "deterministic+backfill" + ("-explain" if rank == "explain" else "")}
                     st, _ = self.archive.upsert(r, c)
                     self.stats[st] += 1
                     if st == "created":

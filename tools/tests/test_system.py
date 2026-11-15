@@ -832,3 +832,40 @@ class TestDepthRulesAndCategories(Base):
         c = {"key": "zero knowledge proof system", "display": "x", "status": "candidate", "acronyms": ["ZKP"], "notes": []}
         d.assess_conflicts(c)
         self.assertEqual(c["status"], "rejected")
+
+
+def oa_work(wid, title, typ, abstract, cited=10):
+    return {"id": f"https://openalex.org/{wid}", "doi": f"https://doi.org/10.1000/{wid.lower()}", "title": title,
+            "publication_date": "2024-05-01", "type": typ, "cited_by_count": cited, "language": "en",
+            "authorships": [{"author": {"display_name": "Ada Lovelace"}}],
+            "primary_location": {"source": {"display_name": "Journal of Graphs", "type": "journal"},
+                                 "version": "publishedVersion", "license": "cc-by"},
+            "abstract_inverted_index": {w: [i] for i, w in enumerate(abstract.split())},
+            "primary_topic": {"display_name": "Graph Neural Networks", "subfield": {"display_name": "AI"}}}
+
+
+class BackfillRankTest(Base):
+    def test_explain_rank_prefers_reviews_by_relevance(self):
+        review = oa_work("W100", "Graph Neural Networks: A Review of Methods and Applications", "review", GNN_ABS, 50)
+        article = oa_work("W200", "Graph Neural Networks for Molecular Property Prediction", "article", GNN_ABS, 9000)
+
+        def route(url):
+            if "type%3Areview" in url or "type:review" in url:
+                return json_resp({"results": [review], "meta": {}})
+            return json_resp({"results": [article], "meta": {}})
+        run = Run(self.cfg, self.http([("api.openalex.org", route)]))
+        run.backfill(["graph-neural-networks"], per_tech=1, rank="explain")
+        run.finish()
+        calls = [c for c in self.opener.calls if "api.openalex.org" in c]
+        self.assertTrue(all("relevance_score" in c for c in calls))
+        self.assertNotIn("cited_by_count%3Adesc", " ".join(calls))
+        files = [r for r in kb.Tree().research]
+        self.assertEqual(len(files), 1)  # per_tech=1: yalnızca ilk (derleme) alınır
+        self.assertIn("Review", files[0]["meta"]["title"])
+        self.assertEqual(files[0]["meta"]["classification_method"], "deterministic+backfill-explain")
+        self.assertEqual(self.check(), 0)
+
+    def test_default_rank_is_cited(self):
+        run = Run(self.cfg, self.http([("api.openalex.org", json_resp({"results": [], "meta": {}}))]))
+        run.backfill(["graph-neural-networks"], per_tech=1)
+        self.assertTrue(any("cited_by_count" in c for c in self.opener.calls))
