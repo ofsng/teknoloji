@@ -82,7 +82,12 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **4**, alt teknolojiler dahil: **4**.
+
+- [Integrating blockchain and ZK-ROLLUP for efficient healthcare data privacy protection system via IPFS](Arastirmalar/2024-Ma-Integrating-blockchain-and-ROLLUP.md) — Ma vd. (2024) · *Scientific Reports* · hakemli · atıf: 66
+- [Enabling Blockchain Services for IoE with Zk-Rollups](Arastirmalar/2022-Lavaur-Enabling-Blockchain-Services-for.md) — Lavaur vd. (2022) · *Sensors* · hakemli · atıf: 60
+- [A proposal for a layer-2 CBDC on a rollup](Arastirmalar/2024-Nyffenegger-proposal-for-layer-CBDC.md) — Nyffenegger (2024) · *Digital Finance* · hakemli · atıf: 7
+- [ZCLS: A Lifecycle Strategy for Efficient ZK-Rollup Circuit Optimization in Circom](Arastirmalar/2025-Vo-ZCLS-Lifecycle-Strategy-for.md) — Vo vd. (2025) · *IEEE Access* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler

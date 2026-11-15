@@ -78,7 +78,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **7**.
 
 - [The Expanding Battlefield of Microarchitectural Vulnerabilities: A Survey on Defining and Reducing the Timing Side-Channel Attack Surface through Vulnerability Assessment and Simulation](Arastirmalar/2026-Khan-The-Expanding-Battlefield-Microarchitectura.md) — Khan vd. (2026) · *ACM Computing Surveys* · hakemli
 <!-- AUTO:RESEARCH:END -->

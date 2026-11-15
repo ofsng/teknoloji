@@ -75,7 +75,11 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **3**, alt teknolojiler dahil: **3**.
+
+- [Survey of Transient Execution Attacks and Their Mitigations](Arastirmalar/2021-Xiong-Survey-Transient-Execution-Attacks.md) — Xiong vd. (2021) · *ACM Computing Surveys* · hakemli · atıf: 92
+- [Transient-Execution Attacks: A Computer Architect Perspective](Arastirmalar/2023-Fiolhais-Transient-Execution-Attacks-Computer.md) — Fiolhais vd. (2023) · *ACM Computing Surveys* · hakemli · atıf: 12
+- [Transient Execution Attacks](Arastirmalar/2023-Piessens-Transient-Execution-Attacks.md) — Piessens (2023) · *IEEE Security & Privacy* · hakemli · atıf: 3
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler

@@ -91,7 +91,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **18**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **30**.
 
 - [An Interpretable Deep Learning Model for Early Disease Diagnosis Leveraging SHAP Explanations](Arastirmalar/2026-Jain-Interpretable-Deep-Learning-Model.md) — Jain (2026) · *International Journal of Advanced Research in Science Communication and Technology* · hakemli
 <!-- AUTO:RESEARCH:END -->

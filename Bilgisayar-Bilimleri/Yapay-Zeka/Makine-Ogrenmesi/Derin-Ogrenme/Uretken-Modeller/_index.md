@@ -80,7 +80,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **3**.
+Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **15**.
 
 - [Democratizing Optimization with Generative AI](Arastirmalar/2026-SimchiLevi-Democratizing-Optimization-with-Gener.md) — Simchi‐Levi vd. (2026) · *Operations Research* · hakemli · atıf: 13
 - [Community benchmarking of generative models for privacy-preserving synthetic bulk RNA-seq data generation](Arastirmalar/2026-Ozturk-Community-benchmarking-generative-models.md) — Öztürk vd. (2026) · *Genome biology* · hakemli · atıf: 3
@@ -96,6 +96,11 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [Community benchmarking of generative models for privacy-preserving synthetic bulk RNA-seq data generation](Arastirmalar/2026-Ozturk-Community-benchmarking-generative-models.md) — Öztürk vd. (2026) · *Genome biology* · hakemli · atıf: 3
 - [Democratizing Optimization with Generative AI](Arastirmalar/2026-SimchiLevi-Democratizing-Optimization-with-Gener.md) — Simchi‐Levi vd. (2026) · *Operations Research* · hakemli · atıf: 13
 - [Multi-tissue segmentation of knee MRI based on U-Net and conditional generative adversarial networks](Cekismeli-Uretici-Aglar/Arastirmalar/2026-Li-Multi-tissue-segmentation-knee.md) — Li vd. (2026) · *Frontiers in Molecular Biosciences* · hakemli
+- [Quantum Flow Matching](Difuzyon-Modelleri/Akis-Esleme/Arastirmalar/2026-Cui-Quantum-Flow-Matching.md) — Cui vd. (2026) · *PRX Intelligence* · hakemli · atıf: 9
+- [Generative models of cell dynamics: from Neural ODEs to flow matching](Difuzyon-Modelleri/Akis-Esleme/Arastirmalar/2026-Richter-Generative-models-cell-dynamics.md) — Richter vd. (2026) · *Communications Biology* · hakemli · atıf: 11
+- [Latent Diffusion Model for Social Recommendation](Difuzyon-Modelleri/Gizil-Difuzyon-Modelleri/Arastirmalar/2026-He-Latent-Diffusion-Model-for.md) — He vd. (2026) · *IEEE Transactions on Systems Man and Cybernetics Systems* · hakemli · atıf: 35
+- [Flow-Matching Posterior Sampling: A Training-Free Conditional Generation for Flow Matching](Difuzyon-Modelleri/Akis-Esleme/Arastirmalar/2026-Song-Flow-Matching-Posterior-Sampling.md) — Song vd. (2026) · *IEEE Transactions on Image Processing* · hakemli · atıf: 3
+- [Riemannian denoising diffusion probabilistic models](Difuzyon-Modelleri/DDPM/Arastirmalar/2026-Liu-Riemannian-denoising-diffusion-probabilistic.md) — Liu vd. (2026) · *Communications in Mathematical Sciences* · hakemli · atıf: 14
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

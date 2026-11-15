@@ -79,7 +79,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **12**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -87,7 +87,14 @@ Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
-_Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini göstermez; ön baskılar hakemli değildir._
+Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
+
+- [Quantum Flow Matching](Akis-Esleme/Arastirmalar/2026-Cui-Quantum-Flow-Matching.md) — Cui vd. (2026) · *PRX Intelligence* · hakemli · atıf: 9
+- [Generative models of cell dynamics: from Neural ODEs to flow matching](Akis-Esleme/Arastirmalar/2026-Richter-Generative-models-cell-dynamics.md) — Richter vd. (2026) · *Communications Biology* · hakemli · atıf: 11
+- [Latent Diffusion Model for Social Recommendation](Gizil-Difuzyon-Modelleri/Arastirmalar/2026-He-Latent-Diffusion-Model-for.md) — He vd. (2026) · *IEEE Transactions on Systems Man and Cybernetics Systems* · hakemli · atıf: 35
+- [Flow-Matching Posterior Sampling: A Training-Free Conditional Generation for Flow Matching](Akis-Esleme/Arastirmalar/2026-Song-Flow-Matching-Posterior-Sampling.md) — Song vd. (2026) · *IEEE Transactions on Image Processing* · hakemli · atıf: 3
+- [Riemannian denoising diffusion probabilistic models](DDPM/Arastirmalar/2026-Liu-Riemannian-denoising-diffusion-probabilistic.md) — Liu vd. (2026) · *Communications in Mathematical Sciences* · hakemli · atıf: 14
+- [Latent Diffusion Model Assisted Image Deblurring](Gizil-Difuzyon-Modelleri/Arastirmalar/2025-Wu-Latent-Diffusion-Model-Assisted.md) — Wu vd. (2025) · *IEEE Transactions on Consumer Electronics* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

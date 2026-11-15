@@ -75,7 +75,11 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **3**, alt teknolojiler dahil: **3**.
+
+- [Generative models of cell dynamics: from Neural ODEs to flow matching](Arastirmalar/2026-Richter-Generative-models-cell-dynamics.md) — Richter vd. (2026) · *Communications Biology* · hakemli · atıf: 11
+- [Quantum Flow Matching](Arastirmalar/2026-Cui-Quantum-Flow-Matching.md) — Cui vd. (2026) · *PRX Intelligence* · hakemli · atıf: 9
+- [Flow-Matching Posterior Sampling: A Training-Free Conditional Generation for Flow Matching](Arastirmalar/2026-Song-Flow-Matching-Posterior-Sampling.md) — Song vd. (2026) · *IEEE Transactions on Image Processing* · hakemli · atıf: 3
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -83,7 +87,11 @@ Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
-_Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini göstermez; ön baskılar hakemli değildir._
+Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
+
+- [Quantum Flow Matching](Arastirmalar/2026-Cui-Quantum-Flow-Matching.md) — Cui vd. (2026) · *PRX Intelligence* · hakemli · atıf: 9
+- [Generative models of cell dynamics: from Neural ODEs to flow matching](Arastirmalar/2026-Richter-Generative-models-cell-dynamics.md) — Richter vd. (2026) · *Communications Biology* · hakemli · atıf: 11
+- [Flow-Matching Posterior Sampling: A Training-Free Conditional Generation for Flow Matching](Arastirmalar/2026-Song-Flow-Matching-Posterior-Sampling.md) — Song vd. (2026) · *IEEE Transactions on Image Processing* · hakemli · atıf: 3
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

@@ -75,7 +75,11 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **3**, alt teknolojiler dahil: **3**.
+
+- [Denoising diffusion probabilistic models for 3D medical image generation](Arastirmalar/2023-Khader-Denoising-diffusion-probabilistic-models.md) — Khader vd. (2023) · *Scientific Reports* · hakemli · atıf: 450
+- [SAR Despeckling Using a Denoising Diffusion Probabilistic Model](Arastirmalar/2023-Perera-SAR-Despeckling-Using-Denoising.md) — Perera vd. (2023) · *IEEE Geoscience and Remote Sensing Letters* · hakemli · atıf: 108
+- [Riemannian denoising diffusion probabilistic models](Arastirmalar/2026-Liu-Riemannian-denoising-diffusion-probabilistic.md) — Liu vd. (2026) · *Communications in Mathematical Sciences* · hakemli · atıf: 14
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -83,7 +87,9 @@ Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
-_Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini göstermez; ön baskılar hakemli değildir._
+Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
+
+- [Riemannian denoising diffusion probabilistic models](Arastirmalar/2026-Liu-Riemannian-denoising-diffusion-probabilistic.md) — Liu vd. (2026) · *Communications in Mathematical Sciences* · hakemli · atıf: 14
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

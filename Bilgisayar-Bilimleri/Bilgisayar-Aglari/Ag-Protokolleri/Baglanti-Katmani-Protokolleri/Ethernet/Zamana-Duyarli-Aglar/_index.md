@@ -75,7 +75,11 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **3**, alt teknolojiler dahil: **3**.
+
+- [Time-Sensitive Networking in IEEE 802.11be: On the Way to Low-Latency WiFi 7](Arastirmalar/2021-Adame-Time-Sensitive-Networking-IEEE.md) — Adame vd. (2021) · *Sensors* · hakemli · atıf: 171
+- [A comprehensive systematic review of integration of time sensitive networking and 5G communication](Arastirmalar/2023-Satka-comprehensive-systematic-review-integratio.md) — Satka vd. (2023) · *Journal of Systems Architecture* · hakemli · atıf: 75
+- [Real-Time Scheduling for 802.1Qbv Time-Sensitive Networking (TSN): A Systematic Review and Experimental Study](Arastirmalar/2024-Xue-Real-Time-Scheduling-for.md) — Xue vd. (2024) · *IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS)* · hakemli · atıf: 72
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler

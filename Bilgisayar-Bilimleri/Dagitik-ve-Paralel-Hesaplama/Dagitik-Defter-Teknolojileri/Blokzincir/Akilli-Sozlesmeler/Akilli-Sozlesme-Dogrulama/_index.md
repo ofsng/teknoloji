@@ -76,7 +76,11 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **3**, alt teknolojiler dahil: **3**.
+
+- [A Solicitous Approach to Smart Contract Verification](Arastirmalar/2022-Otoni-Solicitous-Approach-Smart-Contract.md) — Otoni vd. (2022) · *ACM Transactions on Privacy and Security* · hakemli · atıf: 28
+- [SEMANTIC APPROACH TO SMART CONTRACT VERIFICATION](Arastirmalar/2020-Petrovic-SEMANTIC-APPROACH-SMART-CONTRACT.md) — Petrović vd. (2020) · *Facta Universitatis Series Automatic Control and Robotics* · hakemli · atıf: 8
+- [A Review of Smart Contract Verification Methods](Arastirmalar/2025-Avdoshin-Review-Smart-Contract-Verification.md) — Avdoshin vd. (2025) · *INFORMACIONNYE TEHNOLOGII* · hakemli · atıf: 1
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler

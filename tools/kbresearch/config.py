@@ -53,6 +53,7 @@ class Config:
         # tarihsel tamamlama (günlük toplamadan ayrı bütçe)
         self.backfill_techs_per_run = env_int("KB_BACKFILL_TECHS", 3)
         self.backfill_per_tech = env_int("KB_BACKFILL_PER_TECH", 5)
+        self.backfill_rank = os.environ.get("KB_BACKFILL_RANK") or "cited"  # cited | explain
         # teknoloji keşfi
         self.discovery_min_papers = env_int("KB_DISCOVERY_MIN_PAPERS", 5)
         self.discovery_min_authors = env_int("KB_DISCOVERY_MIN_AUTHORS", 3)

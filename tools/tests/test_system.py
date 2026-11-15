@@ -832,3 +832,79 @@ class TestDepthRulesAndCategories(Base):
         c = {"key": "zero knowledge proof system", "display": "x", "status": "candidate", "acronyms": ["ZKP"], "notes": []}
         d.assess_conflicts(c)
         self.assertEqual(c["status"], "rejected")
+
+
+def oa_work(wid, title, typ, abstract, cited=10, topic=("Graph Neural Networks", "AI")):
+    return {"id": f"https://openalex.org/{wid}", "doi": f"https://doi.org/10.1000/{wid.lower()}", "title": title,
+            "publication_date": "2024-05-01", "type": typ, "cited_by_count": cited, "language": "en",
+            "authorships": [{"author": {"display_name": "Ada Lovelace"}}],
+            "primary_location": {"source": {"display_name": "Journal of Graphs", "type": "journal"},
+                                 "version": "publishedVersion", "license": "cc-by"},
+            "abstract_inverted_index": {w: [i] for i, w in enumerate(abstract.split())},
+            "primary_topic": {"display_name": topic[0], "subfield": {"display_name": topic[1]}}}
+
+
+class BackfillRankTest(Base):
+    def test_explain_rank_prefers_reviews_by_relevance(self):
+        review = oa_work("W100", "Graph Neural Networks: A Review of Methods and Applications", "review", GNN_ABS, 50)
+        article = oa_work("W200", "Graph Neural Networks for Molecular Property Prediction", "article", GNN_ABS, 9000)
+
+        def route(url):
+            if "type%3Areview" in url or "type:review" in url:
+                return json_resp({"results": [review], "meta": {}})
+            return json_resp({"results": [article], "meta": {}})
+        run = Run(self.cfg, self.http([("api.openalex.org", route)]))
+        run.backfill(["graph-neural-networks"], per_tech=1, rank="explain")
+        run.finish()
+        calls = [c for c in self.opener.calls if "api.openalex.org" in c]
+        self.assertTrue(all("relevance_score" in c for c in calls))
+        self.assertNotIn("cited_by_count%3Adesc", " ".join(calls))
+        files = [r for r in kb.Tree().research]
+        self.assertEqual(len(files), 1)  # per_tech=1: yalnızca ilk (derleme) alınır
+        self.assertIn("Review", files[0]["meta"]["title"])
+        self.assertEqual(files[0]["meta"]["classification_method"], "deterministic+backfill-explain")
+        self.assertEqual(self.check(), 0)
+
+    def test_explain_rejects_name_collision_without_parent_context(self):
+        # "Graph Neural Networks" başlıklı ama üst düğümlerin (Deep Learning, Machine Learning, AI) hiçbirinin
+        # geçmediği bir kayıt: ad çakışması sayılır, arşivlenmez.
+        off = oa_work("W300", "Graph Neural Networks of Road Junctions in Urban Planning", "review",
+                      "Graph neural networks of streets describe how road junctions connect in historic city centres.",
+                      topic=("Urban Morphology", "Urban Studies"))
+        run = Run(self.cfg, self.http([("api.openalex.org", json_resp({"results": [off], "meta": {}}))]))
+        run.backfill(["graph-neural-networks"], per_tech=1, rank="explain")
+        run.finish()
+        self.assertEqual(kb.Tree().research, [])
+        self.assertGreaterEqual(run.stats.get("backfill_off_context", 0), 1)
+
+    def test_explain_orders_survey_titles_first_and_filters_language(self):
+        from kbresearch.sources import openalex
+        plain = oa_work("W1", "Graph Neural Networks for Traffic Forecasting", "article", GNN_ABS)
+        survey = oa_work("W2", "A Survey of Graph Neural Networks", "article", GNN_ABS)
+
+        def route(url):
+            if "type%3Areview" in url or "type:review" in url:
+                return json_resp({"results": [], "meta": {}})
+            return json_resp({"results": [plain, survey], "meta": {}})
+        http = self.http([("api.openalex.org", route)])
+        recs = openalex.search_explainers(http, self.cfg, "Graph Neural Networks", 5)
+        self.assertEqual([r["title"] for r in recs], ["A Survey of Graph Neural Networks",
+                                                      "Graph Neural Networks for Traffic Forecasting"])
+        self.assertTrue(all("language%3Aen" in c or "language:en" in c for c in self.opener.calls))
+
+    def test_context_phrases_use_ancestors_and_plural_insensitive_match(self):
+        from kbresearch.pipeline import context_phrases, has_context
+        phrases = context_phrases(kb.Tree(), "graph-neural-networks")
+        self.assertIn("deep learning", phrases)
+        self.assertIn("ai", phrases)  # takma ad
+        self.assertNotIn("computer science", phrases)  # ana disiplin bağlam sayılmaz
+        self.assertIn("intelligence", phrases)  # ayırt edici sözcük
+        self.assertNotIn("learning", phrases)  # genel sözcük
+        self.assertTrue(has_context({"title": "Deep-Learning approaches"}, phrases))
+        self.assertTrue(has_context({"title": "x", "keywords": ["Machine learnings"]}, phrases))
+        self.assertFalse(has_context({"title": "Road junction networks", "abstract": "streets"}, phrases))
+
+    def test_default_rank_is_cited(self):
+        run = Run(self.cfg, self.http([("api.openalex.org", json_resp({"results": [], "meta": {}}))]))
+        run.backfill(["graph-neural-networks"], per_tech=1)
+        self.assertTrue(any("cited_by_count" in c for c in self.opener.calls))

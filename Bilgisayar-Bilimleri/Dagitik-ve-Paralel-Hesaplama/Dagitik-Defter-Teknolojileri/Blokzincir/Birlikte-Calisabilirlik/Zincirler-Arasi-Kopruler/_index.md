@@ -75,7 +75,11 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **3**, alt teknolojiler dahil: **3**.
+
+- [Blockchain Cross-Chain Bridge Security: Challenges, Solutions, and Future Outlook](Arastirmalar/2024-Li-Blockchain-Cross-Chain-Bridge.md) — Li vd. (2024) · *Distributed Ledger Technologies Research and Practice* · hakemli · atıf: 55
+- [SoK: cross-chain bridging architectural design flaws and mitigations](Arastirmalar/2025-Notland-SoK-cross-chain-bridging.md) — Notland vd. (2025) · *Blockchain Research and Applications* · hakemli · atıf: 33
+- [The Price of Interoperability: Exploring Cross-Chain Bridges and Their Economic Consequences](Arastirmalar/2026-Cao-The-Price-Interoperability-Exploring.md) — Cao vd. (2026) · *Proceedings of the ACM on Measurement and Analysis of Computing Systems* · hakemli · atıf: 6
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -83,7 +87,9 @@ Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
-_Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini göstermez; ön baskılar hakemli değildir._
+Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
+
+- [The Price of Interoperability: Exploring Cross-Chain Bridges and Their Economic Consequences](Arastirmalar/2026-Cao-The-Price-Interoperability-Exploring.md) — Cao vd. (2026) · *Proceedings of the ACM on Measurement and Analysis of Computing Systems* · hakemli · atıf: 6
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar
