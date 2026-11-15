@@ -77,7 +77,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **2**.
+
+- [Regional infrastructure repurposing: Pathways from assessment to geothermal energy production and storage](Arastirmalar/2026-Christi-Regional-infrastructure-repurposing-Path.md) — Christi vd. (2026) · *Applied Energy* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -87,6 +89,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Regional infrastructure repurposing: Pathways from assessment to geothermal energy production and storage](Arastirmalar/2026-Christi-Regional-infrastructure-repurposing-Path.md) — Christi vd. (2026) · *Applied Energy* · hakemli
 - [Dynamic Performance Assessment of a PEMFC-Assisted Ground Source Heat Pump System with Cascade Waste Heat Recovery in Severe Cold Regions](Toprak-Kaynakli-Isi-Pompalari/Arastirmalar/2026-Qi-Dynamic-Performance-Assessment-PEMFC.md) — Qi vd. (2026) · *Processes* · hakemli
 <!-- AUTO:RECENT:END -->
 

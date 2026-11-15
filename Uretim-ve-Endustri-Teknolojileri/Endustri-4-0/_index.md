@@ -78,7 +78,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **2**.
+
+- [Smart Manufacturing of Industrial Fire Detection and Suppression Equipment: An Industry 4.0 Transformation Framework for Saudi Arabia](Arastirmalar/2026-Jilani-Smart-Manufacturing-Industrial-Fire.md) — Jilani vd. (2026) · *Global Academic Journal of Economics and Business* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -88,6 +90,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Smart Manufacturing of Industrial Fire Detection and Suppression Equipment: An Industry 4.0 Transformation Framework for Saudi Arabia](Arastirmalar/2026-Jilani-Smart-Manufacturing-Industrial-Fire.md) — Jilani vd. (2026) · *Global Academic Journal of Economics and Business* · hakemli
 - [EdgeTwin as a Deployment-Aware Edge AI Digital Twin for Predictive Maintenance and Visual Anomaly Detection in SME Smart Manufacturing](Kestirimci-Bakim/Arastirmalar/2026-KAFANTOGIAS-EdgeTwin-Deployment-Aware-Edge.md) — KAFANTOGIAS (2026) · *Journal of Information and Computing* · hakemli
 <!-- AUTO:RECENT:END -->
 

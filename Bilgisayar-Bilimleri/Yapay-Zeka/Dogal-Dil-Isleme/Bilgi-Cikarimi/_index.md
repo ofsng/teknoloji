@@ -77,7 +77,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **3**.
+
+- [AI-Based Voice to Form Filling System: A Review of Speech Recognition, Information Extraction and Intelligent Form Automation](Arastirmalar/2026-Sakhare-Based-Voice-Form-Filling.md) — Sakhare vd. (2026) · *International Journal of Creative and Open Research in Engineering and Management* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -87,6 +89,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [AI-Based Voice to Form Filling System: A Review of Speech Recognition, Information Extraction and Intelligent Form Automation](Arastirmalar/2026-Sakhare-Based-Voice-Form-Filling.md) — Sakhare vd. (2026) · *International Journal of Creative and Open Research in Engineering and Management* · hakemli
 - [Automated Prioritization for Monitoring and Tracking Service Requests using Named Entity Recognition Technique](Adlandirilmis-Varlik-Tanima/Arastirmalar/2026-Mokarat-Automated-Prioritization-for-Monitoring.md) — Mokarat (2026) · *Journal of Applied Informatics and Technology* · hakemli
 - [Comparative Analysis of Transformer-Based Models for Extracting Skills from Information Technology Job Posting using Named Entity Recognition](Adlandirilmis-Varlik-Tanima/Arastirmalar/2026-Ruangsiriwattanakul-Comparative-Analysis-Transfo.md) — Ruangsiriwattanakul (2026) · *Journal of Applied Informatics and Technology* · hakemli
 <!-- AUTO:RECENT:END -->

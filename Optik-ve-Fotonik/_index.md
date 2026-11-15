@@ -96,7 +96,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **10**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -104,7 +104,16 @@ Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
-_Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini göstermez; ön baskılar hakemli değildir._
+Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
+
+- [Mapping the High-Field Response of Superconducting Nanowire Single-Photon Detectors](Fotodedektorler/Superiletken-Nanotel-Tek-Foton-Dedektorleri/Arastirmalar/2026-Agarwal-Mapping-the-High-Field.md) — Agarwal vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [Dynamic electrical control of on-chip second-harmonic generation with ferroelectric NbOBr2](Dogrusal-Olmayan-Optik/Harmonik-Uretimi/Arastirmalar/2026-Gong-Dynamic-electrical-control-chip.md) — Gong vd. (2026) · *Nature Nanotechnology* · hakemli · atıf: 4
+- [Transient epitaxial dynamics and cascade continuity in long-duration terahertz quantum cascade laser growth](Lazerler/Yari-Iletken-Lazerler/Kuantum-Kaskad-Lazerler/Arastirmalar/2026-Li-Transient-epitaxial-dynamics-and.md) — Li vd. (2026) · *Journal of Applied Physics* · hakemli
+- [Biomass-derived bamboo photonic crystals for narrowband lasing](Fotonik-Kristaller/Arastirmalar/2026-Yao-Biomass-derived-bamboo-photonic.md) — Yao vd. (2026) · *Communications Materials* · hakemli
+- [Simulation of Electron Trapping in Polymer Light-Emitting Diodes](Isik-Kaynaklari/Isik-Yayan-Diyotlar/Arastirmalar/2026-Paltidis-Simulation-Electron-Trapping-Polymer.md) — Paltidis vd. (2026) · *ACS Omega* · hakemli
+- [Numerical Optimization of a Silica-Defect 1D Superconductor Photonic Crystal Biosensor for Refractive-Index-Based Cancer Cell Discrimination](Fotonik-Kristaller/Arastirmalar/2026-Gowda-Numerical-Optimization-Silica-Defect.md) — Gowda vd. (2026) · *Surface Review and Letters* · hakemli
+- [Pulse symmetry modulation in BBO/Cr 4+ :YAG doubly Q-switched Nd:YAG laser](Lazerler/Kati-Hal-Lazerleri/Arastirmalar/2026-Shan-Pulse-symmetry-modulation-BBO.md) — Shan vd. (2026) · *Journal of Optics* · hakemli
+- [Hybrid optical frequency comb source for 9.6 Tbit/s DWDM transmission over standard fiber](Lazerler/Optik-Frekans-Taraklari/Arastirmalar/2026-Sharma-Hybrid-optical-frequency-comb.md) — Sharma vd. (2026) · *Journal of Optics* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

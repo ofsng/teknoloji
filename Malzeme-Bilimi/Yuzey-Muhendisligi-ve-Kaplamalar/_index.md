@@ -78,7 +78,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -86,7 +86,9 @@ Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
-_Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini göstermez; ön baskılar hakemli değildir._
+Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
+
+- [Research Progress On High-Entropy Ceramics For Thermal Barrier Coatings Materials: From Material Design to Property Optimization](Termal-Bariyer-Kaplamalar/Arastirmalar/2026-Li-Research-Progress-High-Entropy.md) — Li vd. (2026) · *Modern Physics Letters B* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

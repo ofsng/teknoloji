@@ -82,7 +82,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -90,7 +90,10 @@ Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
-_Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini göstermez; ön baskılar hakemli değildir._
+Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
+
+- [Biomarkers for Cancer Immunotherapy: Advances, Challenges, and Clinical Applications](Onkoloji/Kanser-Immunoterapisi/Arastirmalar/2026-Abbasi-Biomarkers-for-Cancer-Immunotherapy.md) — Abbasi vd. (2026) · *International Journal of Molecular Sciences* · hakemli
+- [Artificial intelligence-driven biomarker discovery and response prediction in cancer immunotherapy: a pan-cancer perspective](Onkoloji/Kanser-Immunoterapisi/Arastirmalar/2026-Esmaeili-Artificial-intelligence-driven-biomarke.md) — Esmaeili vd. (2026) · *Journal of Translational Medicine* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

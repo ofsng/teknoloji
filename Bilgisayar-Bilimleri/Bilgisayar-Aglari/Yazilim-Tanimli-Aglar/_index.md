@@ -76,7 +76,10 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **2**.
+
+- [Software-Defined Networking in Modern Networks: A Systematic Literature Review of Architectures, Benefits, and Deployment Challenges (2020–2026)](Arastirmalar/2026-Awan-Software-Defined-Networking-Modern.md) — Awan vd. (2026) · *Iconic Research and Engineering Journals* · hakemli
+- [Evaluasi Kinerja Software-Defined Networking Pada Topologi Fat-Tree Untuk Efisiensi Bandwidth](Arastirmalar/2026-Munaldi-Evaluasi-Kinerja-Software-Defined.md) — Munaldi vd. (2026) · *SMARTICS Journal* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -84,7 +87,10 @@ Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
-_Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini göstermez; ön baskılar hakemli değildir._
+Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
+
+- [Software-Defined Networking in Modern Networks: A Systematic Literature Review of Architectures, Benefits, and Deployment Challenges (2020–2026)](Arastirmalar/2026-Awan-Software-Defined-Networking-Modern.md) — Awan vd. (2026) · *Iconic Research and Engineering Journals* · hakemli
+- [Evaluasi Kinerja Software-Defined Networking Pada Topologi Fat-Tree Untuk Efisiensi Bandwidth](Arastirmalar/2026-Munaldi-Evaluasi-Kinerja-Software-Defined.md) — Munaldi vd. (2026) · *SMARTICS Journal* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

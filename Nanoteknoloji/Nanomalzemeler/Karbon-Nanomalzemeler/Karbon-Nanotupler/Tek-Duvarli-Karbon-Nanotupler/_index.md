@@ -75,10 +75,11 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **2**.
+Arşivdeki kayıtlar — bu düğüm: **3**, alt teknolojiler dahil: **3**.
 
 - [Two-Photon Excitation Microscopy of Individual Single-Walled Carbon Nanotubes](Arastirmalar/2026-Akhtar-Two-Photon-Excitation-Microscopy.md) — Akhtar vd. (2026) · *The Journal of Physical Chemistry Letters* · hakemli
 - [Thermal transport and expansion behavior of vertically aligned single-walled carbon nanotube block reinforced copper matrix composites by finite element simulation](Arastirmalar/2026-Li-Thermal-transport-and-expansion.md) — Li vd. (2026) · *Materials Today Communications* · hakemli
+- [Reflective, water-permeable diatomite masks enhancing output voltage of water-floating single-walled carbon nanotube thermoelectric generators](Arastirmalar/2026-Ochiai-Reflective-water-permeable-diatomite.md) — Ochiai vd. (2026) · *Scientific Reports* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -88,6 +89,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Reflective, water-permeable diatomite masks enhancing output voltage of water-floating single-walled carbon nanotube thermoelectric generators](Arastirmalar/2026-Ochiai-Reflective-water-permeable-diatomite.md) — Ochiai vd. (2026) · *Scientific Reports* · hakemli
 - [Two-Photon Excitation Microscopy of Individual Single-Walled Carbon Nanotubes](Arastirmalar/2026-Akhtar-Two-Photon-Excitation-Microscopy.md) — Akhtar vd. (2026) · *The Journal of Physical Chemistry Letters* · hakemli
 - [Thermal transport and expansion behavior of vertically aligned single-walled carbon nanotube block reinforced copper matrix composites by finite element simulation](Arastirmalar/2026-Li-Thermal-transport-and-expansion.md) — Li vd. (2026) · *Materials Today Communications* · hakemli
 <!-- AUTO:RECENT:END -->

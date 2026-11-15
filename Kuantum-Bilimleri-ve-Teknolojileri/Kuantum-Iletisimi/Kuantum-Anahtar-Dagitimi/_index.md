@@ -80,8 +80,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **2**.
 
+- [Highly Nondegenerate Entangled Photon Source for Fiber-Based Quantum Key Distribution](Arastirmalar/2025-Dosan-Highly-Nondegenerate-Entangled-Photon.md) — Dosan vd. (2025) · *arXiv* · ön baskı / hakemsiz
 - [Decoy-state quantum key distribution with a leaky Mach-Zehnder receiver](Arastirmalar/2026-Mizusawa-Decoy-state-quantum-key.md) — Mizusawa vd. (2026) · *arXiv* · ön baskı / hakemsiz
 <!-- AUTO:RESEARCH:END -->
 
@@ -93,6 +94,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
 - [Decoy-state quantum key distribution with a leaky Mach-Zehnder receiver](Arastirmalar/2026-Mizusawa-Decoy-state-quantum-key.md) — Mizusawa vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [Highly Nondegenerate Entangled Photon Source for Fiber-Based Quantum Key Distribution](Arastirmalar/2025-Dosan-Highly-Nondegenerate-Entangled-Photon.md) — Dosan vd. (2025) · *arXiv* · ön baskı / hakemsiz
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

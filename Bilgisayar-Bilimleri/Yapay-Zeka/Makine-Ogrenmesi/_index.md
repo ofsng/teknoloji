@@ -96,7 +96,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **42**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **72**.
+
+- [Improving the Methodological, Information and Software Technology Support for Statistics Using the Analytical Capabilities of Artificial Intelligence and Machine Learning](Arastirmalar/2026-Khoroshilov-Improving-the-Methodological-Informa.md) — Khoroshilov vd. (2026) · *Statistics and Economics* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -106,14 +108,14 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
-- [SEER: A Scalable Event-Driven Runtime for Parallel Execution of Multi-Agent Reinforcement Learning Environments](Pekistirmeli-Ogrenme/Cok-Etmenli-Pekistirmeli-Ogrenme/Arastirmalar/2026-Su-SEER-Scalable-Event-Driven.md) — Su vd. (2026) · *arXiv* · ön baskı / hakemsiz
-- [FedReason: Large Language Models as Weight-Space Meta-Aggregators for Heterogeneous Federated Learning](Temel-Modeller/Buyuk-Dil-Modelleri/Arastirmalar/2026-Ruzbahani-FedReason-Large-Language-Models.md) — Ruzbahani vd. (2026) · *arXiv* · ön baskı / hakemsiz
-- [Benchmarking Large Language Models on Heterogeneous Cognitive and Biomedical Knowledge Graphs: The Role of Graph Grounding in Multi-Hop Reasoning and Hallucination Mitigation](Temel-Modeller/Buyuk-Dil-Modelleri/Arastirmalar/2026-Sarabadani-Benchmarking-Large-Language-Models.md) — Sarabadani vd. (2026) · *arXiv* · ön baskı / hakemsiz
-- [Encoding and Propagation of Grammatical Number in Large Language Models](Temel-Modeller/Buyuk-Dil-Modelleri/Arastirmalar/2026-Solinsky-Encoding-and-Propagation-Grammatical.md) — Solinsky vd. (2026) · *arXiv* · ön baskı / hakemsiz
-- [When, Where, How: Active In-Context Learning for Tabular Foundation Models](Temel-Modeller/Buyuk-Dil-Modelleri/Baglam-Ici-Ogrenme/Arastirmalar/2026-Frey-When-Where-How-Active.md) — Frey (2026) · *arXiv* · ön baskı / hakemsiz
-- [CacheGraft: Enhancing Retrieval-Augmented Generation via Latent-Space Document Enrichment](Temel-Modeller/Buyuk-Dil-Modelleri/Erisimle-Zenginlestirilmis-Uretim/Arastirmalar/2026-Lakshman-CacheGraft-Enhancing-Retrieval-Augmente.md) — Lakshman vd. (2026) · *arXiv* · ön baskı / hakemsiz
-- [ZeroRAG: Adaptive Semantic Peer Routing for Decentralized Retrieval-Augmented Generation](Temel-Modeller/Buyuk-Dil-Modelleri/Erisimle-Zenginlestirilmis-Uretim/Arastirmalar/2026-Neague-ZeroRAG-Adaptive-Semantic-Peer.md) — Neague vd. (2026) · *arXiv*
-- [Embodied RAG++: Retrieval-Augmented Generation From What Exists to What Works in Embodied Scenes](Temel-Modeller/Buyuk-Dil-Modelleri/Erisimle-Zenginlestirilmis-Uretim/Arastirmalar/2026-Yang-Embodied-RAG-Retrieval-Augmented.md) — Yang vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [Stein discrepancy for unsupervised domain adaptation](Aktarim-Ogrenmesi/Alan-Uyarlama/Arastirmalar/2026-Seeger-Stein-discrepancy-for-unsupervised.md) — Seeger vd. (2026) · *Statistics and Computing* · hakemli · atıf: 1
+- [Applying ranked set sampling to Gaussian mixture models of Glasgow Coma Scale scores in intracerebral hemorrhage](Gozetimsiz-Ogrenme/Kumeleme/Karisim-Modelleri/Arastirmalar/2026-Ahmed-Applying-ranked-set-sampling.md) — Ahmed vd. (2026) · *Scientific Reports* · hakemli
+- [Calibration and Cross-Dataset Behavior in Malaria Microscopy with Parameter-Efficient Fine-Tuning: A Matched LoRA–PiSSA Evaluation](Temel-Modeller/Buyuk-Dil-Modelleri/Parametre-Verimli-Ince-Ayar/Arastirmalar/2026-Boit-Calibration-and-Cross-Dataset.md) — Boit vd. (2026) · *Diagnostics* · hakemli
+- [Multi-Armed Bandit-Based Model Selection for Incremental Phishing Detection: An Empirical Study of Accuracy, Cost, and Concept Drift](Pekistirmeli-Ogrenme/Cok-Kollu-Haydutlar/Arastirmalar/2026-Al-Tarawneh-Multi-Armed-Bandit-Based.md) — Al-Tarawneh vd. (2026) · *Information* · hakemli
+- [Few-Shot Learning for Ransomware Detection: A Narrative Review of Machine Learning, Deep Learning and Siamese Neural Network Approaches](Aktarim-Ogrenmesi/Az-Ornekle-Ogrenme/Arastirmalar/2026-Bello-Few-Shot-Learning-for.md) — Bello vd. (2026) · *FUDMA Journal of Sciences* · hakemli
+- [Community benchmarking of generative models for privacy-preserving synthetic bulk RNA-seq data generation](Derin-Ogrenme/Uretken-Modeller/Arastirmalar/2026-Ozturk-Community-benchmarking-generative-models.md) — Öztürk vd. (2026) · *Genome biology* · hakemli · atıf: 3
+- [DreamLander: A 6-DOF World Model based Reinforcement Learning Planetary Lander](Pekistirmeli-Ogrenme/Model-Tabanli-Pekistirmeli-Ogrenme/Arastirmalar/2026-Nehma-DreamLander-DOF-World-Model.md) — Nehma vd. (2026) · *Nehma, G.M., Quinn, P., Tiwari, M., & Riano-Rios, C. (2026). DreamLander: A 6-DOF World Model Based Reinforcement Learning Planetary Lander. AIAA SCITECH 2026 Forum* · hakemli
+- [TokenDial: Continuous Attribute Control for Text-to-Video Generation in Visual Dial Space](Temel-Modeller/Cok-Kipli-Temel-Modeller/Metinden-Video-Uretimi/Arastirmalar/2026-Liu-TokenDial-Continuous-Attribute-Control.md) — Liu vd. (2026) · *ACM Transactions on Graphics* · hakemli · atıf: 2
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

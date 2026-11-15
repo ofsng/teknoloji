@@ -26,7 +26,7 @@ collected_at: 2026-11-07
 last_checked_at: 2026-11-07
 content_verified: false
 identifier_verified: doi.org
-retraction_checked: 2026-11-08
+retraction_checked: 2026-11-14
 ---
 
 # Automated Prioritization for Monitoring and Tracking Service Requests using Named Entity Recognition Technique

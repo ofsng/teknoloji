@@ -26,7 +26,7 @@ collected_at: 2026-11-05
 last_checked_at: 2026-11-05
 content_verified: false
 identifier_verified: crossref
-retraction_checked: 2026-11-08
+retraction_checked: 2026-11-12
 ---
 
 # Implementasi Optical Character Recognition dan Algoritma Pencocokan pada Validasi Dokumen Penyumpahan Advokat

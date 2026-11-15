@@ -80,7 +80,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **2**.
+
+- [Study on flow and heat transfer characteristics of a D-type triple-period minimal surface heat exchanger](Arastirmalar/2026-Wu-Study-flow-and-heat.md) — Wu vd. (2026) · *International Journal of Turbo and Jet Engines* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -88,7 +90,10 @@ Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
-_Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini göstermez; ön baskılar hakemli değildir._
+Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
+
+- [Study on flow and heat transfer characteristics of a D-type triple-period minimal surface heat exchanger](Arastirmalar/2026-Wu-Study-flow-and-heat.md) — Wu vd. (2026) · *International Journal of Turbo and Jet Engines* · hakemli
+- [Experimental Assessment of Heat Transfer Enhancement in an Air Duct Using Removable Helical Rib Inserts with Pitch Ratios](Isi-Transferi/Arastirmalar/2026-Hamad-Experimental-Assessment-Heat-Transfer.md) — Hamad vd. (2026) · *Journal of Engineering Research and Reports* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

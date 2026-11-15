@@ -79,7 +79,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **2**.
+
+- [Robust power-law computing for edge intelligence using spin-orbit torque magnetic tunnel junctions](Arastirmalar/2026-Xiong-Robust-power-law-computing.md) — Xiong vd. (2026) · *Applied Physics Reviews* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -87,7 +89,10 @@ Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
-_Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini göstermez; ön baskılar hakemli değildir._
+Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
+
+- [Ion‐Modulated All‑Van Der Waals Spin–Orbit Torque Magnetic Tunnel Junctions With Multilevel Switching](Manyetik-Tunel-Eklemleri/Arastirmalar/2026-Tian-IonModulated-AllVan-Der-Waals.md) — Tian vd. (2026) · *Advanced Functional Materials* · hakemli
+- [Robust power-law computing for edge intelligence using spin-orbit torque magnetic tunnel junctions](Arastirmalar/2026-Xiong-Robust-power-law-computing.md) — Xiong vd. (2026) · *Applied Physics Reviews* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

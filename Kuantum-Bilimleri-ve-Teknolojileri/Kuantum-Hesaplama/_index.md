@@ -81,7 +81,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **10**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **13**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -91,6 +91,8 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Quantum approximate optimization algorithm with cat qubits](Kuantum-Algoritmalari/Varyasyonel-Kuantum-Algoritmalari/Kuantum-Yaklasik-Optimizasyon-Algoritmasi/Arastirmalar/2026-Vikstal-Quantum-approximate-optimization-algorit.md) — Vikstål vd. (2026) · *Scientific Reports* · hakemli · atıf: 6
+- [Statistical benchmarking of optimization methods for a variational quantum eigensolver under quantum noise](Kuantum-Algoritmalari/Varyasyonel-Kuantum-Algoritmalari/Varyasyonel-Kuantum-Ozdeger-Cozucu/Arastirmalar/2026-Illesova-Statistical-benchmarking-optimization-m.md) — Illésová vd. (2026) · *Physical Review A* · hakemli · atıf: 14
 - [A Variational Quantum Algorithm for Multi-Skill Project Scheduling](Kuantum-Algoritmalari/Varyasyonel-Kuantum-Algoritmalari/Arastirmalar/2026-Martinez-Variational-Quantum-Algorithm-for.md) — Martinez vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [Remote Adiabatic Controlled-Z Gate between Distant Superconducting Qubits](Kubit-Teknolojileri/Superiletken-Kubitler/Arastirmalar/2026-Xu-Remote-Adiabatic-Controlled-Gate.md) — Xu vd. (2026) · *Chinese Physics B* · hakemli · atıf: 1
 - [QECert: Formal Foundations for Quantum Error-Correction Theory in Lean](Kuantum-Hata-Duzeltme/Arastirmalar/2026-He-QECert-Formal-Foundations-for.md) — He vd. (2026) · *arXiv* · ön baskı / hakemsiz

@@ -26,7 +26,7 @@ collected_at: 2026-11-06
 last_checked_at: 2026-11-06
 content_verified: false
 identifier_verified: crossref
-retraction_checked: 2026-11-08
+retraction_checked: 2026-11-09
 ---
 
 # Fully homomorphic encryption on LlaMA 3 model for partial privacy preserving LLM inference

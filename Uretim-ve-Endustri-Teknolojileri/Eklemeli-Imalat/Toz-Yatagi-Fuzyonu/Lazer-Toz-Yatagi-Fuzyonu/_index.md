@@ -75,8 +75,10 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **2**.
+Arşivdeki kayıtlar — bu düğüm: **4**, alt teknolojiler dahil: **4**.
 
+- [Explainable artificial intelligence for laser powder bed fusion alloys: breaking the formability–performance trade-off via collaborative control](Arastirmalar/2026-Liu-Explainable-artificial-intelligence-for.md) — Liu vd. (2026) · *Advanced Materials Joining* · hakemli
+- [Multi-Response Process-Thickness-Property Optimization of Thin-Walled AlSi10Mg Alloy Fabricated by Laser Powder Bed Fusion](Arastirmalar/2026-Majeed-Multi-Response-Process-Thickness.md) — Majeed vd. (2026) · *Journal of Manufacturing and Materials Processing* · hakemli
 - [Microstructure evolution and mechanical performance optimization of 30CrMnSiNi2A steel processed by laser powder bed fusion combined with heat treatment](Arastirmalar/2026-Wang-Microstructure-evolution-and-mechanical.md) — Wang vd. (2026) · *Materials Science and Technology* · hakemli
 - [Synergistic Effects of Carbon/Nitrogen Content and Laser Powder Bed Fusion Parameters on the Hot Cracking Behavior and Microstructural Evolution of a Ni–Co‐Based Superalloy](Arastirmalar/2026-Yu-Synergistic-Effects-Carbon-Nitrogen.md) — Yu vd. (2026) · *Advanced Engineering Materials* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -88,6 +90,8 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Explainable artificial intelligence for laser powder bed fusion alloys: breaking the formability–performance trade-off via collaborative control](Arastirmalar/2026-Liu-Explainable-artificial-intelligence-for.md) — Liu vd. (2026) · *Advanced Materials Joining* · hakemli
+- [Multi-Response Process-Thickness-Property Optimization of Thin-Walled AlSi10Mg Alloy Fabricated by Laser Powder Bed Fusion](Arastirmalar/2026-Majeed-Multi-Response-Process-Thickness.md) — Majeed vd. (2026) · *Journal of Manufacturing and Materials Processing* · hakemli
 - [Microstructure evolution and mechanical performance optimization of 30CrMnSiNi2A steel processed by laser powder bed fusion combined with heat treatment](Arastirmalar/2026-Wang-Microstructure-evolution-and-mechanical.md) — Wang vd. (2026) · *Materials Science and Technology* · hakemli
 - [Synergistic Effects of Carbon/Nitrogen Content and Laser Powder Bed Fusion Parameters on the Hot Cracking Behavior and Microstructural Evolution of a Ni–Co‐Based Superalloy](Arastirmalar/2026-Yu-Synergistic-Effects-Carbon-Nitrogen.md) — Yu vd. (2026) · *Advanced Engineering Materials* · hakemli
 <!-- AUTO:RECENT:END -->

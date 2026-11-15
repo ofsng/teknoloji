@@ -75,7 +75,10 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **2**.
+
+- [Novel Type-2 SOGI PLL and Cuckoo search optimization based adaptive controllers for performance improvement of UPQC for power quality improvement](Arastirmalar/2026-Pavankumar-Novel-Type-SOGI-PLL.md) — Pavankumar vd. (2026) · *International Journal of Emerging Electric Power Systems* · hakemli
+- [Intelligent Unified Power Quality Conditioner with Reactive Power Sharing for Improving DC-Link Voltage and Power Quality](Arastirmalar/2026-Tan-Intelligent-Unified-Power-Quality.md) — Tan vd. (2026) · *Energies* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -83,7 +86,10 @@ Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
-_Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini göstermez; ön baskılar hakemli değildir._
+Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
+
+- [Intelligent Unified Power Quality Conditioner with Reactive Power Sharing for Improving DC-Link Voltage and Power Quality](Arastirmalar/2026-Tan-Intelligent-Unified-Power-Quality.md) — Tan vd. (2026) · *Energies* · hakemli
+- [Novel Type-2 SOGI PLL and Cuckoo search optimization based adaptive controllers for performance improvement of UPQC for power quality improvement](Arastirmalar/2026-Pavankumar-Novel-Type-SOGI-PLL.md) — Pavankumar vd. (2026) · *International Journal of Emerging Electric Power Systems* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

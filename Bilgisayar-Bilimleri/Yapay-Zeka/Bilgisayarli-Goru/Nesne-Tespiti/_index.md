@@ -77,7 +77,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **2**.
 
 - [Shape-Based Maritime Man-Made Object Detection Using Deep Learning Fusion-Based Neural Network and Region-Based Methods](Arastirmalar/2026-Suzdalev-Shape-Based-Maritime-Man.md) — Suzdalev vd. (2026) · *Machines* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -89,6 +89,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Motorcycle Rider Face Detection: An Experiment with R-CNN and Faster R-CNN](Iki-Asamali-Dedektorler/Arastirmalar/2026-Muhaqiqin-Motorcycle-Rider-Face-Detection.md) — Muhaqiqin vd. (2026) · *Journal of Artificial Intelligence and Technology Information (JAITI)* · hakemli
 - [Shape-Based Maritime Man-Made Object Detection Using Deep Learning Fusion-Based Neural Network and Region-Based Methods](Arastirmalar/2026-Suzdalev-Shape-Based-Maritime-Man.md) — Suzdalev vd. (2026) · *Machines* · hakemli
 <!-- AUTO:RECENT:END -->
 

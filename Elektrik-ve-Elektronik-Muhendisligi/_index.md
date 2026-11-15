@@ -87,7 +87,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **5**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **33**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -97,11 +97,14 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
-- [Localized Trap-State Engineering of Subthreshold Swing in Amorphous In–Ga–O Thin-Film Transistors via Vertically Positioned Sn δ-Doping](Elektronik-Cihazlar/Alan-Etkili-Transistorler/Ince-Film-Transistorler/Arastirmalar/2026-Lee-Localized-Trap-State-Engineering.md) — Lee vd. (2026) · *ACS Applied Materials & Interfaces* · hakemli
-- [Virtual Microphone Array for Direction-of-Arrival Estimation Based on Fiber-Optic Position Sensing](Sinyal-Isleme/Dizi-Sinyal-Isleme/Gelis-Yonu-Kestirimi/Arastirmalar/2026-Schwarze-Virtual-Microphone-Array-for.md) — Schwarze vd. (2026) · *arXiv* · ön baskı / hakemsiz
-- [Effects of High-Temperature Vacuum Annealing on the Microstructure, Mechanical Properties, and Plasma Etching Resistance of Bulk CVD-SiC](Yari-Iletken-Uretimi/Asindirma/Plazma-Asindirma/Arastirmalar/2026-Lee-Effects-High-Temperature-Vacuum.md) — Lee vd. (2026) · *Micromachines* · hakemli
-- [Sustainable and secure thin-film transistor platform with integrated optical–acoustic anticounterfeiting features for smart electronics](Elektronik-Cihazlar/Alan-Etkili-Transistorler/Ince-Film-Transistorler/Arastirmalar/2026-Biswas-Sustainable-and-secure-thin.md) — Biswas vd. (2026) · *Discover Applied Sciences* · hakemli
-- [Effect of Vacuum Annealing Temperature on Optoelectrical Performance of IGZTO Films and Thin-Film Transistors](Elektronik-Cihazlar/Alan-Etkili-Transistorler/Ince-Film-Transistorler/Arastirmalar/2026-Cao-Effect-Vacuum-Annealing-Temperature.md) — Cao vd. (2026) · *Materials* · hakemli
+- [A blockchain-secured multi-agent GNN–XGBoost framework for intelligent energy coordination in IoT-enabled sustainable smart grids](Elektrik-Guc-Sistemleri/Akilli-Sebekeler/Arastirmalar/2026-Kommerla-blockchain-secured-multi-agent.md) — Kommerla vd. (2026) · *Scientific Reports* · hakemli
+- [Alternating Methods for Large-Scale AC Optimal Power Flow with Unit Commitment](Elektrik-Guc-Sistemleri/Elektrik-Piyasalari/Arastirmalar/2026-Brun-Alternating-Methods-for-Large.md) — Brun vd. (2026) · *Operations Research* · hakemli · atıf: 3
+- [Phased Array Antenna Surface Deformation Reconstruction Based on Modal Low-Rank Correction and Gaussian Process Data Migration](Elektromanyetik/Antenler/Faz-Dizili-Antenler/Arastirmalar/2026-Yan-Phased-Array-Antenna-Surface.md) — Yan vd. (2026) · *Micromachines* · hakemli
+- [A flexible language model-assisted electronic design automation framework](Entegre-Devre-Tasarimi/Elektronik-Tasarim-Otomasyonu/Arastirmalar/2026-Sestito-flexible-language-model-assisted.md) — Sestito vd. (2026) · *Scientific Reports* · hakemli · atıf: 4
+- [Design and Simulation of a Bidirectional Two-Stage DC/DC Converter with Partial Switch Sharing for Vehicle-to-Vehicle Charging Applications](Guc-Elektronigi/DA-DA-Donusturuculer/Arastirmalar/2026-Kagan-Design-and-Simulation-Bidirectional.md) — Kağan vd. (2026) · *International journal of engineering inventions.* · hakemli
+- [Digital twin–guided graph-transformer with meta-reinforcement learning for real-time adaptive cyber-attack mitigation in smart grids](Elektrik-Guc-Sistemleri/Akilli-Sebekeler/Arastirmalar/2026-Manogaran-Digital-twinguided-graph-transformer.md) — Manogaran vd. (2026) · *Scientific Reports* · hakemli
+- [Phase-Locked Loop Bandwidth Design and Partial Compensation Strategy for PMSM Position Estimation Based on Embedded Linear Hall Sensors](Entegre-Devre-Tasarimi/Analog-Entegre-Devre-Tasarimi/Faz-Kilitlemeli-Donguler/Arastirmalar/2026-Zhao-Phase-Locked-Loop-Bandwidth.md) — Zhao vd. (2026) · *Sensors* · hakemli
+- [Artificial Intelligence-Assisted Multi-Objective Design and Dynamic Validation of High-Efficiency Solid-State Transformers for Electric Vehicle Integration](Guc-Elektronigi/Kati-Hal-Transformatorleri/Arastirmalar/2026-Asiegbu-Artificial-Intelligence-Assisted-Multi.md) — Asiegbu vd. (2026) · *World Electric Vehicle Journal* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

@@ -79,7 +79,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **3**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **4**.
 
 - [Vapor Phase Infiltration of Metal Oxides for Water Treatment Membranes: Potential and Limitations](Arastirmalar/2026-Yao-Vapor-Phase-Infiltration-Metal.md) — Yao vd. (2026) · *ACS Omega* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -92,6 +92,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
 - [Machine Learning-Based Prediction and Interpretation of Aluminum and Iron Coagulant Dosages in Drinking Water Treatment](Icme-Suyu-Aritma/Arastirmalar/2026-Lian-Machine-Learning-Based-Prediction.md) — Lian vd. (2026) · *Sustainability* · hakemli
+- [Degradation and Mineralization of Ibuprofen Using Electrochemical Advanced Oxidation Processes Combined with Ozone](Ileri-Oksidasyon-Surecleri/Arastirmalar/2026-Homma-Degradation-and-Mineralization-Ibuprofen.md) — Homma vd. (2026) · *Ozone Science and Engineering* · hakemli
 - [Vapor Phase Infiltration of Metal Oxides for Water Treatment Membranes: Potential and Limitations](Arastirmalar/2026-Yao-Vapor-Phase-Infiltration-Metal.md) — Yao vd. (2026) · *ACS Omega* · hakemli
 - [Development of a novel empirical model for optimization of sludge discharge in drinking water treatment clarifiers](Icme-Suyu-Aritma/Arastirmalar/2026-Abd-Elshafi-Development-novel-empirical-model.md) — Abd-Elshafi vd. (2026) · *Water Science & Technology Water Supply* · hakemli
 <!-- AUTO:RECENT:END -->

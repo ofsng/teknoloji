@@ -76,7 +76,10 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **2**.
+
+- [Securing Agentic AI Enterprise Workflows Against Prompt Injection Tool Poisoning Memory Manipulation and Excessive Agency Threats](Arastirmalar/2026-Nwakamma-Securing-Agentic-Enterprise-Workflows.md) — Nwakamma (2026) · *WORLD JOURNAL OF INNOVATION AND MODERN TECHNOLOGY* · hakemli · atıf: 18
+- [Scope, Challenges, and Future of Agentic AI in Geotechnical and Earthquake Engineering: A Critical Review](Arastirmalar/2026-Thapa-Scope-Challenges-and-Future.md) — Thapa vd. (2026) · *Bulletin of Computational Intelligence* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -84,7 +87,10 @@ Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
-_Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini göstermez; ön baskılar hakemli değildir._
+Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
+
+- [Securing Agentic AI Enterprise Workflows Against Prompt Injection Tool Poisoning Memory Manipulation and Excessive Agency Threats](Arastirmalar/2026-Nwakamma-Securing-Agentic-Enterprise-Workflows.md) — Nwakamma (2026) · *WORLD JOURNAL OF INNOVATION AND MODERN TECHNOLOGY* · hakemli · atıf: 18
+- [Scope, Challenges, and Future of Agentic AI in Geotechnical and Earthquake Engineering: A Critical Review](Arastirmalar/2026-Thapa-Scope-Challenges-and-Future.md) — Thapa vd. (2026) · *Bulletin of Computational Intelligence* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

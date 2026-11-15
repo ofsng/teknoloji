@@ -75,7 +75,10 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **2**.
+
+- [Numerical Optimization of a Silica-Defect 1D Superconductor Photonic Crystal Biosensor for Refractive-Index-Based Cancer Cell Discrimination](Arastirmalar/2026-Gowda-Numerical-Optimization-Silica-Defect.md) — Gowda vd. (2026) · *Surface Review and Letters* · hakemli
+- [Biomass-derived bamboo photonic crystals for narrowband lasing](Arastirmalar/2026-Yao-Biomass-derived-bamboo-photonic.md) — Yao vd. (2026) · *Communications Materials* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -83,7 +86,10 @@ Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
-_Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini göstermez; ön baskılar hakemli değildir._
+Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
+
+- [Biomass-derived bamboo photonic crystals for narrowband lasing](Arastirmalar/2026-Yao-Biomass-derived-bamboo-photonic.md) — Yao vd. (2026) · *Communications Materials* · hakemli
+- [Numerical Optimization of a Silica-Defect 1D Superconductor Photonic Crystal Biosensor for Refractive-Index-Based Cancer Cell Discrimination](Arastirmalar/2026-Gowda-Numerical-Optimization-Silica-Defect.md) — Gowda vd. (2026) · *Surface Review and Letters* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

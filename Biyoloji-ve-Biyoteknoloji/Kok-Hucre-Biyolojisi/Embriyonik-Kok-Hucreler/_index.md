@@ -75,7 +75,11 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **3**, alt teknolojiler dahil: **3**.
+
+- [Stability and Pluripotency Status of Human Embryonic Stem Cell Lines Following Long-Term Cryopreservation](Arastirmalar/2026-Kim-Stability-and-Pluripotency-Status.md) — Kim vd. (2026) · *Tissue Engineering and Regenerative Medicine* · hakemli
+- [Longitudinal whole-genome analysis of human embryonic stem cells during extended expansion and differentiation](Arastirmalar/2026-Li-Longitudinal-whole-genome-analysis.md) — Li vd. (2026) · *BMC Genomics* · hakemli
+- [BCL2 Facilitates Naïve Pluripotency and an 8C ‐Like State in Human Embryonic Stem Cells](Arastirmalar/2026-Lu-BCL2-Facilitates-Naive-Pluripotency.md) — Lu vd. (2026) · *Cell Proliferation* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -83,7 +87,11 @@ Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
-_Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini göstermez; ön baskılar hakemli değildir._
+Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
+
+- [BCL2 Facilitates Naïve Pluripotency and an 8C ‐Like State in Human Embryonic Stem Cells](Arastirmalar/2026-Lu-BCL2-Facilitates-Naive-Pluripotency.md) — Lu vd. (2026) · *Cell Proliferation* · hakemli
+- [Stability and Pluripotency Status of Human Embryonic Stem Cell Lines Following Long-Term Cryopreservation](Arastirmalar/2026-Kim-Stability-and-Pluripotency-Status.md) — Kim vd. (2026) · *Tissue Engineering and Regenerative Medicine* · hakemli
+- [Longitudinal whole-genome analysis of human embryonic stem cells during extended expansion and differentiation](Arastirmalar/2026-Li-Longitudinal-whole-genome-analysis.md) — Li vd. (2026) · *BMC Genomics* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

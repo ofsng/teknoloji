@@ -26,7 +26,7 @@ collected_at: 2026-11-05
 last_checked_at: 2026-11-08
 content_verified: false
 identifier_verified: crossref
-retraction_checked: 2026-11-08
+retraction_checked: 2026-11-09
 ---
 
 # Using quantum annealing to generate test cases for cyber-physical systems

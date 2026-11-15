@@ -77,7 +77,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
 Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **2**.
 
-- [High precision timing of seven binary millisecond pulsars with the European Pulsar Timing Array](Arastirmalar/2026-Liu-High-precision-timing-seven.md) — Liu vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [High precision timing of seven binary millisecond pulsars with the European Pulsar Timing Array](Arastirmalar/2026-Liu-High-precision-timing-seven.md) — Liu vd. (2026) · *Astronomy and Astrophysics* · hakemli
 - [Full-Stokes response to a stochastic gravitational-wave background in pulsar timing arrays: Fully analytic overlap reduction functions at finite distance and coherence of close pulsar pairs](Arastirmalar/2026-Zhou-Full-Stokes-response-stochastic.md) — Zhou vd. (2026) · *arXiv* · ön baskı / hakemsiz
 <!-- AUTO:RESEARCH:END -->
 
@@ -88,7 +88,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
-- [High precision timing of seven binary millisecond pulsars with the European Pulsar Timing Array](Arastirmalar/2026-Liu-High-precision-timing-seven.md) — Liu vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [High precision timing of seven binary millisecond pulsars with the European Pulsar Timing Array](Arastirmalar/2026-Liu-High-precision-timing-seven.md) — Liu vd. (2026) · *Astronomy and Astrophysics* · hakemli
 - [Full-Stokes response to a stochastic gravitational-wave background in pulsar timing arrays: Fully analytic overlap reduction functions at finite distance and coherence of close pulsar pairs](Arastirmalar/2026-Zhou-Full-Stokes-response-stochastic.md) — Zhou vd. (2026) · *arXiv* · ön baskı / hakemsiz
 <!-- AUTO:RECENT:END -->
 

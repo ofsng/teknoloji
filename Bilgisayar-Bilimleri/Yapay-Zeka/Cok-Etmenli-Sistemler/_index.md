@@ -78,7 +78,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **3**.
 
 - [Developing LLM-based multi-agent systems in software engineering: a mixed-method experience report](Arastirmalar/2026-Oliveira-Developing-LLM-based-multi.md) — Oliveira vd. (2026) · *Empirical Software Engineering* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -90,6 +90,8 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Securing Agentic AI Enterprise Workflows Against Prompt Injection Tool Poisoning Memory Manipulation and Excessive Agency Threats](LLM-Tabanli-Etmenler/Arastirmalar/2026-Nwakamma-Securing-Agentic-Enterprise-Workflows.md) — Nwakamma (2026) · *WORLD JOURNAL OF INNOVATION AND MODERN TECHNOLOGY* · hakemli · atıf: 18
+- [Scope, Challenges, and Future of Agentic AI in Geotechnical and Earthquake Engineering: A Critical Review](LLM-Tabanli-Etmenler/Arastirmalar/2026-Thapa-Scope-Challenges-and-Future.md) — Thapa vd. (2026) · *Bulletin of Computational Intelligence* · hakemli
 - [Developing LLM-based multi-agent systems in software engineering: a mixed-method experience report](Arastirmalar/2026-Oliveira-Developing-LLM-based-multi.md) — Oliveira vd. (2026) · *Empirical Software Engineering* · hakemli
 <!-- AUTO:RECENT:END -->
 

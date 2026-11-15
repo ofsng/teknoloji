@@ -78,7 +78,10 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **2**.
+
+- [Neuroergonomic Comparison of User Experience and System Performance for SSVEP-Based Brain Computer Interfaces in Mixed Reality and Virtual Reality Environments](Arastirmalar/2026-Qi-Neuroergonomic-Comparison-User-Experience.md) — Qi vd. (2026) · *International Journal of Human-Computer Interaction* · hakemli
+- [Revolutionizing mobility: Brain computer interfaces and their applications in prosthetics](Arastirmalar/2026-Ryuzaki-Revolutionizing-mobility-Brain-computer.md) — Ryuzaki (2026) · *Proceedings of the Nova Scotian Institute of Science* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -86,7 +89,10 @@ Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
-_Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini göstermez; ön baskılar hakemli değildir._
+Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
+
+- [Revolutionizing mobility: Brain computer interfaces and their applications in prosthetics](Arastirmalar/2026-Ryuzaki-Revolutionizing-mobility-Brain-computer.md) — Ryuzaki (2026) · *Proceedings of the Nova Scotian Institute of Science* · hakemli
+- [Neuroergonomic Comparison of User Experience and System Performance for SSVEP-Based Brain Computer Interfaces in Mixed Reality and Virtual Reality Environments](Arastirmalar/2026-Qi-Neuroergonomic-Comparison-User-Experience.md) — Qi vd. (2026) · *International Journal of Human-Computer Interaction* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar
