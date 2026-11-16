@@ -87,7 +87,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **32**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **37**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -97,14 +97,14 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [PET/CT in CAR T-Cell Therapy for Hematologic Malignancies: A Bibliometric and Clinically Annotated Analysis](Ileri-Tedaviler/Hucre-Tedavisi/CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Arslan-PET-CAR-Cell-Therapy.md) — Arslan vd. (2026) · *Hemato* · hakemli
+- [Bridging to CD19 CAR T-cell therapy for large B-cell lymphoma: An analysis of 1,134 patients by the EBMT Lymphoma Working Party and the GoCART Coalition](Ileri-Tedaviler/Hucre-Tedavisi/CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Berning-Bridging-CD19-CAR-cell.md) — Berning vd. (2026) · *Bone Marrow Transplantation* · hakemli
+- [Feeding T cell enhancement of CAR-T cell therapy for minimal B cell malignancy: evidences from in vitro and in vivo models](Ileri-Tedaviler/Hucre-Tedavisi/CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Liu-Feeding-cell-enhancement-CAR.md) — Liu vd. (2026) · *BMC Medicine* · hakemli
+- [The association between CCTA assessment and cardiac symptoms in patients with coronary artery disease: a photon-counting CT study](Tibbi-Goruntuleme/Bilgisayarli-Tomografi/Foton-Sayan-BT/Arastirmalar/2026-Ding-The-association-between-CCTA.md) — Ding vd. (2026) · *BMC Cardiovascular Disorders* · hakemli
 - [IP10 armoring enhances CLDN-18.2–directed CAR-T cell therapy in pancreatic cancer by promoting T cell infiltration and vascular remodeling, with additive benefits from IL-15 co-modification](Ileri-Tedaviler/Hucre-Tedavisi/CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Hu-IP10-armoring-enhances-CLDN.md) — Hu vd. (2026) · *Frontiers in Immunology* · hakemli
 - [Outcomes of CAR T cell therapy in diffuse large B cell lymphoma transformed from follicular lymphoma: a single center retrospective analysis](Ileri-Tedaviler/Hucre-Tedavisi/CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Xiong-Outcomes-CAR-cell-therapy.md) — Xiong vd. (2026) · *Frontiers in Immunology* · hakemli
 - [Beyond ICANS: Cellular and Molecular Mechanisms Linking CAR T-Cell Therapy to Long-Term Neurocognitive Outcomes](Ileri-Tedaviler/Hucre-Tedavisi/CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Fleischer-Beyond-ICANS-Cellular-and.md) — Fleischer vd. (2026) · *Cells* · hakemli
 - [REPROCESSING OF REUSABLE MEDICAL DEVICES USED IN ROBOTIC SURGERY: SPECIFICITIES, CHALLENGES, RISK MANAGEMENT AND AREAS FOR IMPROVEMENT](Tibbi-Cihazlar/Arastirmalar/2026-Soufiane1-REPROCESSING-REUSABLE-MEDICAL-DEVICES.md) — Soufiane1 (2026) · *European Journal Pharmaceutical and Medical Research* · hakemli
-- [11 | Surveillance of communicable diseases and antimicrobial resistance through wastewater-based epidemiology: experiences in the Sicilian Region](Epidemiyoloji/Atik-Su-Tabanli-Epidemiyoloji/Arastirmalar/2026-Maida-Surveillance-communicable-diseases-and.md) — Maida vd. (2026) · *EuroMediterranean Biomedical Journal* · hakemli
-- [Clinical and Mechanistic Insights into Non-ICANS Neurotoxicity Following BCMA CAR T-Cell Therapy](Ileri-Tedaviler/Hucre-Tedavisi/CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Mueller-Jensen-Clinical-and-Mechanistic-Insights.md) — Mueller-Jensen vd. (2026) · *Neurology* · hakemli
-- [Miv-cel CD19 CAR T-Cell Therapy Shows Efficacy and Safety in Stiff Person Syndrome in a Pivotal, Multicenter, Phase 2 Study (KYSA-8)](Ileri-Tedaviler/Hucre-Tedavisi/CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Piquet-Miv-cel-CD19-CAR.md) — Piquet vd. (2026) · *Neurology* · hakemli
-- [Safety and efficacy of transurethral resection of the prostate before external beam radiotherapy in patients with prostate cancer and lower urinary tract symptoms.](Radyasyon-Tedavisi/Dis-Isin-Radyoterapisi/Arastirmalar/2026-Vrij-Safety-and-efficacy-transurethral.md) — Vrij vd. (2026) · *The Journal of Urology* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

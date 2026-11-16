@@ -75,7 +75,11 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **3**, alt teknolojiler dahil: **3**.
+
+- [Soliton pulse generation in thulium-doped fiber laser incorporating nickel-H3BTC-MOF mode locker](Arastirmalar/2026-Murad-Soliton-pulse-generation-thulium.md) — Murad vd. (2026) · *Journal of King Saud University - Science* · hakemli
+- [Polarization-Multiplexed All-Fiber Polarization-Maintaining Single-Cavity Dual-Comb Fiber Laser with RF-Referenced Repetition-Rate Stabilization](Arastirmalar/2026-Pan-Polarization-Multiplexed-All-Fiber.md) — Pan vd. (2026) · *Photonics* · hakemli
+- [Ultra-low-intensity noise broadband femtosecond pulse generation in an Er-doped all-fiber laser](Arastirmalar/2026-Yan-Ultra-low-intensity-noise.md) — Yan vd. (2026) · *Advanced Photonics Nexus* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -83,7 +87,11 @@ Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
-_Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini göstermez; ön baskılar hakemli değildir._
+Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
+
+- [Ultra-low-intensity noise broadband femtosecond pulse generation in an Er-doped all-fiber laser](Arastirmalar/2026-Yan-Ultra-low-intensity-noise.md) — Yan vd. (2026) · *Advanced Photonics Nexus* · hakemli
+- [Soliton pulse generation in thulium-doped fiber laser incorporating nickel-H3BTC-MOF mode locker](Arastirmalar/2026-Murad-Soliton-pulse-generation-thulium.md) — Murad vd. (2026) · *Journal of King Saud University - Science* · hakemli
+- [Polarization-Multiplexed All-Fiber Polarization-Maintaining Single-Cavity Dual-Comb Fiber Laser with RF-Referenced Repetition-Rate Stabilization](Arastirmalar/2026-Pan-Polarization-Multiplexed-All-Fiber.md) — Pan vd. (2026) · *Photonics* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

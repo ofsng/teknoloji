@@ -77,7 +77,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -87,6 +87,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Rational Selection of Hole Contacts with an Organic Light-Emitting Diode Industry p-Dopant for Fully Vacuum-Processed Perovskite/Silicon Tandems](Organik-Isik-Yayan-Diyotlar/Arastirmalar/2026-Moon-Rational-Selection-Hole-Contacts.md) — Moon vd. (2026) · *ACS Energy Letters* · hakemli
 - [Simulation of Electron Trapping in Polymer Light-Emitting Diodes](Isik-Yayan-Diyotlar/Arastirmalar/2026-Paltidis-Simulation-Electron-Trapping-Polymer.md) — Paltidis vd. (2026) · *ACS Omega* · hakemli
 <!-- AUTO:RECENT:END -->
 

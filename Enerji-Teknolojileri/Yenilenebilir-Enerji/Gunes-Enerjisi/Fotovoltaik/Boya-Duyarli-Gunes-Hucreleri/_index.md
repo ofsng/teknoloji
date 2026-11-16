@@ -75,8 +75,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **2**.
 
+- [Physics-informed neural modeling of TiO2 photoanode thickness-dependent electron transport and photovoltaic performance in dye-sensitized solar cells](Arastirmalar/2026-Naidu-Physics-informed-neural-modeling.md) — Naidu vd. (2026) · *Journal of Computational Electronics* · hakemli
 - [Evaluation of a Dye-Sensitized Solar Cell (DSSC) device based on Agaricus bisporus extract](Arastirmalar/2026-Zavala-Barba-Evaluation-Dye-Sensitized-Solar.md) — Zavala-Barba vd. (2026) · *ECORFAN Journal Republic of Guatemala* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
@@ -87,6 +88,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Physics-informed neural modeling of TiO2 photoanode thickness-dependent electron transport and photovoltaic performance in dye-sensitized solar cells](Arastirmalar/2026-Naidu-Physics-informed-neural-modeling.md) — Naidu vd. (2026) · *Journal of Computational Electronics* · hakemli
 - [Evaluation of a Dye-Sensitized Solar Cell (DSSC) device based on Agaricus bisporus extract](Arastirmalar/2026-Zavala-Barba-Evaluation-Dye-Sensitized-Solar.md) — Zavala-Barba vd. (2026) · *ECORFAN Journal Republic of Guatemala* · hakemli
 <!-- AUTO:RECENT:END -->
 

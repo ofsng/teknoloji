@@ -77,9 +77,10 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **2**.
+Arşivdeki kayıtlar — bu düğüm: **3**, alt teknolojiler dahil: **3**.
 
 - [Adaptive confidence-aware deep authentication framework for secure industrial Internet of Things](Arastirmalar/2026-Kalyanakumar-Adaptive-confidence-aware-deep.md) — Kalyanakumar vd. (2026) · *Scientific Reports* · hakemli
+- [A Design of Intelligent Autonomous Mining with Dynamic Time Warping Through Deep Learning for End-to-End Industrial Internet of Things Application](Arastirmalar/2026-Satyavathi-Design-Intelligent-Autonomous-Mining.md) — Satyavathi vd. (2026) · *The International Journal of Maritime Engineering* · hakemli
 - [Fuzzy-clustering–based multi-scale intrusion detection for the industrial internet of things](Arastirmalar/2026-Yang-Fuzzy-clusteringbased-multi-scale.md) — Yang vd. (2026) · *PLoS ONE* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
@@ -90,6 +91,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [A Design of Intelligent Autonomous Mining with Dynamic Time Warping Through Deep Learning for End-to-End Industrial Internet of Things Application](Arastirmalar/2026-Satyavathi-Design-Intelligent-Autonomous-Mining.md) — Satyavathi vd. (2026) · *The International Journal of Maritime Engineering* · hakemli
 - [Adaptive confidence-aware deep authentication framework for secure industrial Internet of Things](Arastirmalar/2026-Kalyanakumar-Adaptive-confidence-aware-deep.md) — Kalyanakumar vd. (2026) · *Scientific Reports* · hakemli
 - [Fuzzy-clustering–based multi-scale intrusion detection for the industrial internet of things](Arastirmalar/2026-Yang-Fuzzy-clusteringbased-multi-scale.md) — Yang vd. (2026) · *PLoS ONE* · hakemli
 <!-- AUTO:RECENT:END -->

@@ -85,7 +85,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **4**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -96,6 +96,8 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
 - [Optimizing the Performance of Perovskite Solar Cells through Triple-Diode Model: Achieving Maximum Power Conversion Efficiency and Minimizing Statistical Errors](Perovskit-Gunes-Hucreleri/Arastirmalar/2026-Subash-Optimizing-the-Performance-Perovskite.md) — Subash vd. (2026) · *Journal of Circuits Systems and Computers* · hakemli
+- [Physics-informed neural modeling of TiO2 photoanode thickness-dependent electron transport and photovoltaic performance in dye-sensitized solar cells](Boya-Duyarli-Gunes-Hucreleri/Arastirmalar/2026-Naidu-Physics-informed-neural-modeling.md) — Naidu vd. (2026) · *Journal of Computational Electronics* · hakemli
+- [Robust Multi-Objective Sizing and Operation of an Autonomous Bifacial Photovoltaic Water-Supply Pumping System](Cift-Yuzlu-Fotovoltaik/Arastirmalar/2026-Belsky-Robust-Multi-Objective-Sizing.md) — Belsky vd. (2026) · *Energies* · hakemli
 - [Evaluation of a Dye-Sensitized Solar Cell (DSSC) device based on Agaricus bisporus extract](Boya-Duyarli-Gunes-Hucreleri/Arastirmalar/2026-Zavala-Barba-Evaluation-Dye-Sensitized-Solar.md) — Zavala-Barba vd. (2026) · *ECORFAN Journal Republic of Guatemala* · hakemli
 <!-- AUTO:RECENT:END -->
 

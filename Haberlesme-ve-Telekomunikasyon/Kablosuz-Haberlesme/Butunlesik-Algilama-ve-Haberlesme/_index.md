@@ -75,9 +75,10 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **2**.
 
 - [Vertical Segmented Waveguide-Enabled Pinching Antenna (V-SWAN)-Assisted EDMA-NOMA Integrated Sensing and Communication Systems](Arastirmalar/2026-Hari-Vertical-Segmented-Waveguide-Enabled.md) — Hari vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [Overview of the Current Development Status and Key Technologies of 6G Integrated Sensing and Communication Technology](Arastirmalar/2026-Lin-Overview-the-Current-Development.md) — Lin (2026) · *Applied and Computational Engineering* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -87,6 +88,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Overview of the Current Development Status and Key Technologies of 6G Integrated Sensing and Communication Technology](Arastirmalar/2026-Lin-Overview-the-Current-Development.md) — Lin (2026) · *Applied and Computational Engineering* · hakemli
 - [Vertical Segmented Waveguide-Enabled Pinching Antenna (V-SWAN)-Assisted EDMA-NOMA Integrated Sensing and Communication Systems](Arastirmalar/2026-Hari-Vertical-Segmented-Waveguide-Enabled.md) — Hari vd. (2026) · *arXiv* · ön baskı / hakemsiz
 <!-- AUTO:RECENT:END -->
 

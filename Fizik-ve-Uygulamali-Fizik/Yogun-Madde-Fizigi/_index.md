@@ -84,7 +84,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **6**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **7**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -99,6 +99,7 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [Robust power-law computing for edge intelligence using spin-orbit torque magnetic tunnel junctions](Manyetizma/Spintronik/Arastirmalar/2026-Xiong-Robust-power-law-computing.md) — Xiong vd. (2026) · *Applied Physics Reviews* · hakemli
 - [Cooper quartets and fractional vortices in frustrated Josephson junction dice arrays](Superiletkenlik/Josephson-Eklemleri/Arastirmalar/2026-Weerda-Cooper-quartets-and-fractional.md) — Weerda vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [Interplay of superconductivity and ferromagnetism in ferromagnetic semiconductor-based Josephson junctions](Superiletkenlik/Josephson-Eklemleri/Arastirmalar/2026-Hara-Interplay-superconductivity-and-ferromagnet.md) — Hara vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [Dynamic Instabilities and Pattern Formation in Chemotactic Active Matter](Yumusak-Yogun-Madde/Aktif-Madde/Arastirmalar/2026-Zhao-Dynamic-Instabilities-and-Pattern.md) — Zhao vd. (2026) · *arXiv* · ön baskı / hakemsiz
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

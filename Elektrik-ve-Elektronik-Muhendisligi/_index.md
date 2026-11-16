@@ -87,7 +87,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **33**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **37**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -97,6 +97,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Centralized vehicle-to-grid coordination for behind-the-meter value in commercial fleets: Evidence and deployment lessons from a pilot demonstration](Elektrik-Guc-Sistemleri/Akilli-Sebekeler/Aractan-Sebekeye/Arastirmalar/2026-Egunjobi-Centralized-vehicle-grid-coordination.md) — Egunjobi vd. (2026) · *Energy Reports* · hakemli
 - [A blockchain-secured multi-agent GNN–XGBoost framework for intelligent energy coordination in IoT-enabled sustainable smart grids](Elektrik-Guc-Sistemleri/Akilli-Sebekeler/Arastirmalar/2026-Kommerla-blockchain-secured-multi-agent.md) — Kommerla vd. (2026) · *Scientific Reports* · hakemli
 - [Alternating Methods for Large-Scale AC Optimal Power Flow with Unit Commitment](Elektrik-Guc-Sistemleri/Elektrik-Piyasalari/Arastirmalar/2026-Brun-Alternating-Methods-for-Large.md) — Brun vd. (2026) · *Operations Research* · hakemli · atıf: 3
 - [Phased Array Antenna Surface Deformation Reconstruction Based on Modal Low-Rank Correction and Gaussian Process Data Migration](Elektromanyetik/Antenler/Faz-Dizili-Antenler/Arastirmalar/2026-Yan-Phased-Array-Antenna-Surface.md) — Yan vd. (2026) · *Micromachines* · hakemli
@@ -104,7 +105,6 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [Design and Simulation of a Bidirectional Two-Stage DC/DC Converter with Partial Switch Sharing for Vehicle-to-Vehicle Charging Applications](Guc-Elektronigi/DA-DA-Donusturuculer/Arastirmalar/2026-Kagan-Design-and-Simulation-Bidirectional.md) — Kağan vd. (2026) · *International journal of engineering inventions.* · hakemli
 - [Digital twin–guided graph-transformer with meta-reinforcement learning for real-time adaptive cyber-attack mitigation in smart grids](Elektrik-Guc-Sistemleri/Akilli-Sebekeler/Arastirmalar/2026-Manogaran-Digital-twinguided-graph-transformer.md) — Manogaran vd. (2026) · *Scientific Reports* · hakemli
 - [Phase-Locked Loop Bandwidth Design and Partial Compensation Strategy for PMSM Position Estimation Based on Embedded Linear Hall Sensors](Entegre-Devre-Tasarimi/Analog-Entegre-Devre-Tasarimi/Faz-Kilitlemeli-Donguler/Arastirmalar/2026-Zhao-Phase-Locked-Loop-Bandwidth.md) — Zhao vd. (2026) · *Sensors* · hakemli
-- [Artificial Intelligence-Assisted Multi-Objective Design and Dynamic Validation of High-Efficiency Solid-State Transformers for Electric Vehicle Integration](Guc-Elektronigi/Kati-Hal-Transformatorleri/Arastirmalar/2026-Asiegbu-Artificial-Intelligence-Assisted-Multi.md) — Asiegbu vd. (2026) · *World Electric Vehicle Journal* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

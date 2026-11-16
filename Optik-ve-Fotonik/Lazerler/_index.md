@@ -83,7 +83,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **3**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **6**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -93,9 +93,12 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Ultra-low-intensity noise broadband femtosecond pulse generation in an Er-doped all-fiber laser](Fiber-Lazerler/Arastirmalar/2026-Yan-Ultra-low-intensity-noise.md) — Yan vd. (2026) · *Advanced Photonics Nexus* · hakemli
 - [Transient epitaxial dynamics and cascade continuity in long-duration terahertz quantum cascade laser growth](Yari-Iletken-Lazerler/Kuantum-Kaskad-Lazerler/Arastirmalar/2026-Li-Transient-epitaxial-dynamics-and.md) — Li vd. (2026) · *Journal of Applied Physics* · hakemli
+- [Soliton pulse generation in thulium-doped fiber laser incorporating nickel-H3BTC-MOF mode locker](Fiber-Lazerler/Arastirmalar/2026-Murad-Soliton-pulse-generation-thulium.md) — Murad vd. (2026) · *Journal of King Saud University - Science* · hakemli
 - [Pulse symmetry modulation in BBO/Cr 4+ :YAG doubly Q-switched Nd:YAG laser](Kati-Hal-Lazerleri/Arastirmalar/2026-Shan-Pulse-symmetry-modulation-BBO.md) — Shan vd. (2026) · *Journal of Optics* · hakemli
 - [Hybrid optical frequency comb source for 9.6 Tbit/s DWDM transmission over standard fiber](Optik-Frekans-Taraklari/Arastirmalar/2026-Sharma-Hybrid-optical-frequency-comb.md) — Sharma vd. (2026) · *Journal of Optics* · hakemli
+- [Polarization-Multiplexed All-Fiber Polarization-Maintaining Single-Cavity Dual-Comb Fiber Laser with RF-Referenced Repetition-Rate Stabilization](Fiber-Lazerler/Arastirmalar/2026-Pan-Polarization-Multiplexed-All-Fiber.md) — Pan vd. (2026) · *Photonics* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar
