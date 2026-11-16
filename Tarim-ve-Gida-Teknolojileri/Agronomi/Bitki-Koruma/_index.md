@@ -78,7 +78,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -88,6 +88,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Host range evaluation of Verticillium nonalfalfae isolate Vert56 used for biological control of Ailanthus altissima : grapevine cultivars exhibit resistance](Biyolojik-Mucadele/Arastirmalar/2026-Dauth-Host-range-evaluation-Verticillium.md) — Dauth vd. (2026) · *Biocontrol Science and Technology* · hakemli
 - [Predatory Heteropteran Bugs as Potential Tools in Integrated Pest Management: A Review](Entegre-Zararli-Yonetimi/Arastirmalar/2026-Joshi-Predatory-Heteropteran-Bugs-Potential.md) — Joshi vd. (2026) · *Annual Research & Review in Biology* · hakemli
 <!-- AUTO:RECENT:END -->
 

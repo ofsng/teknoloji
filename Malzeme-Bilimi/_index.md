@@ -91,7 +91,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **7**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **8**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -101,6 +101,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Fluorescence Detection of Fe(II) Senses Mechanistic Differences in Pitting Corrosion between 3D-Printed and Wrought Stainless Steel 304](Metalik-Malzemeler/Celikler/Paslanmaz-Celikler/Arastirmalar/2026-Li-Fluorescence-Detection-Senses-Mechanistic.md) — Li vd. (2026) · *ACS Applied Engineering Materials* · hakemli
 - [Research Progress On High-Entropy Ceramics For Thermal Barrier Coatings Materials: From Material Design to Property Optimization](Yuzey-Muhendisligi-ve-Kaplamalar/Termal-Bariyer-Kaplamalar/Arastirmalar/2026-Li-Research-Progress-High-Entropy.md) — Li vd. (2026) · *Modern Physics Letters B* · hakemli
 - [Large deformation behavior of powerlaw fluid-elastomer composites with application to self healing materials: 3D simulations, analytical framework, and ML model](Akilli-Malzemeler/Kendini-Onaran-Malzemeler/Arastirmalar/2026-Desai-Large-deformation-behavior-powerlaw.md) — Desai vd. (2026) · *Smart Materials and Structures* · hakemli
 - [Synergistic Protection Mechanism and Corrosion Resistance of Manganese Phosphate–Silane Composite Sealing Coating on AZ91D Magnesium Alloy](Metalik-Malzemeler/Hafif-Alasimlar/Magnezyum-Alasimlari/Arastirmalar/2026-Huang-Synergistic-Protection-Mechanism-and.md) — Huang vd. (2026) · *Metals* · hakemli

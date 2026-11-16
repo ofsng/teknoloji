@@ -86,7 +86,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **3**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -96,6 +96,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Bayesian parameter estimation of SIR and SIRD models for COVID-19 in Indonesia using Metropolis–Hastings and Hamiltonian Monte Carlo](Istatistiksel-Cikarim/Bayesci-Istatistik/Markov-Zinciri-Monte-Carlo/Hamilton-Monte-Carlo/Arastirmalar/2026-Naftali-Bayesian-parameter-estimation-SIR.md) — Naftali vd. (2026) · *Communications in Mathematical Biology and Neuroscience* · hakemli
 - [Causal inference with real-world data in health care research: a scoping review protocol and study within a review protocol](Nedensel-Cikarim/Arastirmalar/2026-Erdmann-Causal-inference-with-real.md) — Erdmann vd. (2026) · *JBI Evidence Synthesis* · hakemli
 - [High-dimensional Four-Level Structured Functional Principal Component Analysis for Unbalanced Level Data with Application to Concussion Data](Cok-Degiskenli-Istatistik/Temel-Bilesen-Analizi/Arastirmalar/2026-Werkmann-High-dimensional-Four-Level.md) — Werkmann vd. (2026) · *arXiv* · ön baskı / hakemsiz
 <!-- AUTO:RECENT:END -->

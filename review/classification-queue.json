@@ -437,6 +437,73 @@
   "url": "https://doi.org/10.1126/sciadv.aee5380"
  },
  {
+  "added": "2026-11-16",
+  "arxiv": "2604.11897",
+  "candidates": [
+   [
+    "particle-detectors",
+    7.09
+   ],
+   [
+    "particle-physics",
+    3.48
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.1103/x6fp-ph3x",
+  "keys": [
+   "arxiv:2604.11897",
+   "doi:10.1103/x6fp-ph3x",
+   "title:particledetectorinapositionsuperposedblackholespacetime|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "We calculate the response of an Unruh--DeWitt detector in a 2+1d spacetime that contains a BTZ black hole in a superposition of locations as viewed in a reference system associated with the detector. Upon performing a Quantum Reference Frame (QRF) transformation, this can also be seen as a detector in a superposition of locations in a single classical black hole spacetime. We use this to derive the form of the interaction of the detector and scalar field in such a superposition of spacetimes, ignoring backreaction. We define a measurement whose outcome probabilities contain a nonclassical contribution that would be absent for a black hole described by a classical mixture of positions. Finally, we compare our results with a previously studied setup involving a mass-superposed black hole by Foo et al. [Phys. Rev. Lett. 129, 181301 (2022)], and highlight a key difference. We show analytically how this difference arises and find singularities in the mass-superposed spectrum probed by the detector.",
+   "abstract_license": null,
+   "arxiv": "2604.11897",
+   "authors": [
+    "Laurens Walleghem",
+    "Carlo Cepollaro"
+   ],
+   "categories": [
+    "OpenAlex-field:Physics and Astronomy"
+   ],
+   "cited_by_count": 4,
+   "doi": "10.1103/x6fp-ph3x",
+   "is_retracted": false,
+   "keywords": [
+    "Unruh-DeWitt detector",
+    "BTZ black hole",
+    "quantum reference frames",
+    "quantum measurement",
+    "three-dimensional gravity",
+    "black hole information"
+   ],
+   "language": "en",
+   "oa_created": "2026-04-16",
+   "peer_reviewed": true,
+   "publication": "Physical review. D/Physical review. D.",
+   "publication_type": "article",
+   "published_date": "2026-11-13",
+   "related_versions": [],
+   "source_ids": [
+    "openalex:W7154487018"
+   ],
+   "title": "Particle detector in a position-superposed black hole spacetime",
+   "topics": [
+    "Black Holes and Theoretical Physics",
+    "Nuclear and High Energy Physics"
+   ],
+   "updated_date": "2026-11-14",
+   "url": "https://doi.org/10.1103/x6fp-ph3x"
+  },
+  "score": 7.09,
+  "seen": 1,
+  "suggested": "particle-detectors",
+  "title": "Particle detector in a position-superposed black hole spacetime",
+  "url": "https://doi.org/10.1103/x6fp-ph3x"
+ },
+ {
   "added": "2026-11-15",
   "arxiv": "2611.16184",
   "candidates": [
@@ -508,6 +575,94 @@
   "suggested": "anomaly-detection",
   "title": "Flow-CAD: Flow Matching for Contextual Anomaly Detection and Explanation in Tabular Data",
   "url": "https://arxiv.org/abs/2611.16184"
+ },
+ {
+  "added": "2026-11-16",
+  "arxiv": null,
+  "candidates": [
+   [
+    "explainable-ai",
+    6.32
+   ],
+   [
+    "intrusion-detection-systems",
+    4.52
+   ],
+   [
+    "deep-learning",
+    4.38
+   ],
+   [
+    "machine-learning",
+    3.74
+   ],
+   [
+    "network-security",
+    3.1
+   ],
+   [
+    "computer-networks",
+    3.1
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.56201/wjimt.v8.no6.2024.pg197.227",
+  "keys": [
+   "doi:10.56201/wjimt.v8.no6.2024.pg197.227",
+   "title:conceptualframeworkforaiaugmentedthreatdetectionininstitutionalnetworksusinglayereddataaggregationandpatternrecognition|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "As cyber threats grow in complexity and frequency, institutions face increasing challenges in safeguarding sensitive data and ensuring the integrity of their network infrastructures. Traditional security mechanisms often struggle to keep pace with rapidly evolving attack vectors. This paper presents a conceptual framework for AI-augmented threat detection in institutional networks, leveraging layered data aggregation and pattern recognition techniques to enhance the accuracy and speed of threat identification. The proposed model integrates artificial intelligence (AI) with multi-layered network monitoring systems to collect, analyze, and interpret real-time data from various sources including firewalls, endpoints, and intrusion detection systems (IDS). The framework is designed around three core components: data aggregation, feature extraction, and intelligent pattern recognition. Data aggregation collects and consolidates log files and event streams from disparate network components into a centralized repository. Feature extraction applies preprocessing algorithms to identify critical attributes such as access anomalies, packet irregularities, and login behavior deviations. The pattern recognition layer utilizes machine learning and deep learning models to detect deviations from established behavioral baselines and predict potential threats, including zeroday attacks and insider threats. A key innovation of this framework is the use of contextual layering, where data is categorized and analyzed at different abstraction levels—user, application, and system—allowing for a more nuanced understanding of threat dynamics. This layered approach supports adaptive learning, enabling the AI models to refine detection capabilities over time through continuous feedback. Furthermore, the system can generate alerts and automated responses in real time, improving the institution’s resilience against cyber intrusions. The paper discusses implementation considerations, challenges in training AI models with diverse datasets, and the importance of explainable AI (XAI) for transparency in threat detection decisions. By offering a scalable and intelligent approach, the framework aims to strengthen cybersecurity in academic and enterprise environments. Future work will explore integration with existing Security Information and Event Management (SIEM) systems for enhanced operational value.",
+   "abstract_license": null,
+   "arxiv": null,
+   "authors": [
+    "Olabode Michael Soneye"
+   ],
+   "categories": [
+    "OpenAlex-field:Computer Science"
+   ],
+   "cited_by_count": 14,
+   "doi": "10.56201/wjimt.v8.no6.2024.pg197.227",
+   "is_retracted": false,
+   "keywords": [
+    "institutional networks",
+    "pattern recognition",
+    "network monitoring",
+    "log aggregation",
+    "feature extraction",
+    "behavioral baseline",
+    "zero-day attacks",
+    "insider threats",
+    "adaptive learning",
+    "automated incident response",
+    "explainable AI",
+    "SIEM integration",
+    "cybersecurity"
+   ],
+   "language": "en",
+   "oa_created": "2026-11-14",
+   "peer_reviewed": true,
+   "publication": "WORLD JOURNAL OF INNOVATION AND MODERN TECHNOLOGY",
+   "publication_type": "article",
+   "published_date": "2026-11-13",
+   "related_versions": [],
+   "source_ids": [
+    "openalex:W7226021601"
+   ],
+   "title": "Conceptual Framework for AI-Augmented Threat Detection in Institutional Networks Using Layered Data Aggregation and Pattern Recognition",
+   "topics": [
+    "Network Security and Intrusion Detection",
+    "Computer Networks and Communications"
+   ],
+   "updated_date": "2026-11-15",
+   "url": "https://doi.org/10.56201/wjimt.v8.no6.2024.pg197.227"
+  },
+  "score": 6.32,
+  "seen": 1,
+  "suggested": "explainable-ai",
+  "title": "Conceptual Framework for AI-Augmented Threat Detection in Institutional Networks Using Layered Data Aggregation and Pattern Recognition",
+  "url": "https://doi.org/10.56201/wjimt.v8.no6.2024.pg197.227"
  },
  {
   "added": "2026-11-09",
@@ -736,6 +891,84 @@
   "url": "https://doi.org/10.1038/s41467-026-78984-x"
  },
  {
+  "added": "2026-11-16",
+  "arxiv": null,
+  "candidates": [
+   [
+    "data-assimilation",
+    6.6
+   ],
+   [
+    "atmospheric-sciences",
+    3.1
+   ],
+   [
+    "analysis",
+    0.66
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.5194/nhess-26-5769-2026",
+  "keys": [
+   "doi:10.5194/nhess-26-5769-2026",
+   "title:theoperational3denvardataassimilationschemeforthemeteofranceconvectivescalemodelaromefrance|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Since October 2024 the Météo-France operational convective scale model AROME-France has been using a 3DEnVar data assimilation (DA) scheme in order to improve the performance of severe weather prediction. This paper describes the configuration and evaluation of this 3DEnVar scheme. It summarizes the work carried out to configure this scheme in an operational context, with the inherent constraints of numerical robustness, compatible execution times, and of course correct performance of the forecasts produced. The adjustment of horizontal and vertical localization, inflation, hybridization, and the use of Incremental Analysis Updates (IAU) are studied in sensitivity experiments, and the impact on the spin-up is investigated. A configuration and its variation with IAU are thus defined and evaluated using different scores over a long period and on different severe meteorological situations (winter storms, fog, and High Precipitating Events): they largely outperform the operational 3D-Var. The version with IAU was implemented in the new operational version of the AROME-France assimilation system.",
+   "abstract_license": "cc-by",
+   "arxiv": null,
+   "authors": [
+    "Pierre Brousseau",
+    "Valérie Vogt",
+    "Étienne Arbogast",
+    "Maud Martet",
+    "Guillaume Thomas",
+    "Loïk Berre"
+   ],
+   "categories": [
+    "OpenAlex-field:Earth and Planetary Sciences"
+   ],
+   "cited_by_count": 6,
+   "doi": "10.5194/nhess-26-5769-2026",
+   "is_retracted": false,
+   "keywords": [
+    "ensemble data assimilation",
+    "incremental analysis update",
+    "localization",
+    "inflation",
+    "hybrid ensemble model",
+    "spin-up",
+    "severe weather forecasting",
+    "winter storms",
+    "fog",
+    "operational forecasting"
+   ],
+   "language": "en",
+   "oa_created": "2025-10-10",
+   "peer_reviewed": true,
+   "publication": "Natural hazards and earth system sciences",
+   "publication_type": "article",
+   "published_date": "2026-11-13",
+   "related_versions": [],
+   "source_ids": [
+    "openalex:W4412094214"
+   ],
+   "title": "The operational 3DEnVar data assimilation scheme for the Météo-France convective scale model AROME-France",
+   "topics": [
+    "Meteorological Phenomena and Simulations",
+    "Atmospheric Science"
+   ],
+   "updated_date": "2026-11-15",
+   "url": "https://doi.org/10.5194/nhess-26-5769-2026"
+  },
+  "score": 6.6,
+  "seen": 1,
+  "suggested": "data-assimilation",
+  "title": "The operational 3DEnVar data assimilation scheme for the Météo-France convective scale model AROME-France",
+  "url": "https://doi.org/10.5194/nhess-26-5769-2026"
+ },
+ {
   "added": "2026-11-08",
   "arxiv": null,
   "candidates": [
@@ -883,6 +1116,155 @@
   "url": "https://arxiv.org/abs/2611.11793"
  },
  {
+  "added": "2026-11-16",
+  "arxiv": "2503.20646",
+  "candidates": [
+   [
+    "augmented-reality",
+    6.6
+   ],
+   [
+    "cognitive-neuroscience",
+    3.1
+   ],
+   [
+    "rendering",
+    0.79
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.1038/s44172-026-00817-y",
+  "keys": [
+   "arxiv:2503.20646",
+   "doi:10.1038/s44172-026-00817-y",
+   "title:immersiveandwearablebidirectionalthermalrenderingforphysicalandvirtualinteractioninaugmentedreality|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Augmented reality blends virtual content with the physical world, creating a challenge for thermal feedback: users must feel virtual temperature cues without losing dexterity or access to real-world thermal information. Here we show that a palm-mounted warm/cool thermal feedback prototype can address this challenge through three design considerations: indirect feedback that leaves the fingertips unobstructed, active thermal passthrough that senses and reproduces the temperature of contacted physical surfaces, and spatially and temporally varying thermal stimulation. Human-subject experiments show that indirect feedback preserves immersion and comfort despite reduced realism when visual contact occurs at the fingertips; thermal passthrough supports discrimination between real and rendered temperatures; and moving thermal patterns increase immersion and realism compared with static stimulation. These findings suggest that our design considerations are viable design strategies for AR thermal haptics, while also clarifying tradeoffs for applications that require precise realism versus broader immersive thermal experience.",
+   "abstract_license": "cc-by-nc-nd",
+   "arxiv": "2503.20646",
+   "authors": [
+    "Alexandra Watkins",
+    "Ritam Ghosh",
+    "Evan Chow",
+    "Nilanjan Sarkar"
+   ],
+   "categories": [
+    "OpenAlex-field:Neuroscience"
+   ],
+   "cited_by_count": 4,
+   "doi": "10.1038/s44172-026-00817-y",
+   "is_retracted": false,
+   "keywords": [
+    "augmented reality",
+    "thermal feedback",
+    "wearable devices",
+    "immersion"
+   ],
+   "language": "en",
+   "oa_created": "2025-10-11",
+   "peer_reviewed": true,
+   "publication": "Communications Engineering",
+   "publication_type": "article",
+   "published_date": "2026-11-13",
+   "related_versions": [],
+   "source_ids": [
+    "openalex:W4415060594"
+   ],
+   "title": "Immersive and wearable bi-directional thermal rendering for physical and virtual interaction in augmented reality",
+   "topics": [
+    "Tactile and Sensory Interactions",
+    "Cognitive Neuroscience"
+   ],
+   "updated_date": "2026-11-15",
+   "url": "https://doi.org/10.1038/s44172-026-00817-y"
+  },
+  "score": 6.6,
+  "seen": 1,
+  "suggested": "augmented-reality",
+  "title": "Immersive and wearable bi-directional thermal rendering for physical and virtual interaction in augmented reality",
+  "url": "https://doi.org/10.1038/s44172-026-00817-y"
+ },
+ {
+  "added": "2026-11-16",
+  "arxiv": "2607.15279",
+  "candidates": [
+   [
+    "dark-matter",
+    6.52
+   ],
+   [
+    "gravitational-waves",
+    5.5
+   ],
+   [
+    "astronomy-and-astrophysics",
+    3.7
+   ],
+   [
+    "cosmology",
+    2.73
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.1007/jhep11(2026)142",
+  "keys": [
+   "arxiv:2607.15279",
+   "doi:10.1007/jhep11(2026)142",
+   "title:particleproductionfrombubblecollisions|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "A bstract Collisions of ultra-relativistic bubbles during cosmological phase transitions can produce particles much heavier than the transition scale. Previous analyses modelled this process as the off-shell decay of the scalar background. We show that its results parametrically overestimate hard particle production and depend on the gauge choice and the coordinate choice in field space. We propose an alternative formalism, analogous to the partonic description of high-energy collisions. In the ultra-relativistic limit, the colliding bubbles undergo nearly free passage and hard production arises from on-shell scatterings among the quanta constituting the Lorentz-contracted walls. We apply this approach to heavy scalar, fermion, and vector particle production, and study the implications for dark matter, leptogenesis, graviton production and primordial gravitational waves.",
+   "abstract_license": "cc-by",
+   "arxiv": "2607.15279",
+   "authors": [
+    "Anish Ghoshal",
+    "Pratyay Pal",
+    "Алессандро Струмиа"
+   ],
+   "categories": [
+    "OpenAlex-field:Physics and Astronomy"
+   ],
+   "cited_by_count": 4,
+   "doi": "10.1007/jhep11(2026)142",
+   "is_retracted": false,
+   "keywords": [
+    "bubble collisions",
+    "cosmological phase transitions",
+    "fermion production",
+    "vector boson production",
+    "dark matter",
+    "leptogenesis",
+    "graviton production",
+    "primordial gravitational waves"
+   ],
+   "language": "en",
+   "oa_created": "2026-07-18",
+   "peer_reviewed": true,
+   "publication": "Journal of High Energy Physics",
+   "publication_type": "article",
+   "published_date": "2026-11-13",
+   "related_versions": [],
+   "source_ids": [
+    "openalex:W7169515007"
+   ],
+   "title": "Particle production from bubble collisions",
+   "topics": [
+    "Cosmology and Gravitation Theories",
+    "Astronomy and Astrophysics"
+   ],
+   "updated_date": "2026-11-15",
+   "url": "https://doi.org/10.1007/jhep11(2026)142"
+  },
+  "score": 6.52,
+  "seen": 1,
+  "suggested": "dark-matter",
+  "title": "Particle production from bubble collisions",
+  "url": "https://doi.org/10.1007/jhep11(2026)142"
+ },
+ {
   "added": "2026-11-05",
   "arxiv": "2611.04269",
   "candidates": [
@@ -1009,6 +1391,84 @@
   "suggested": "dark-matter",
   "title": "Scale-Invariant Three-Component Dark Matter and Gravitational Wave Signals",
   "url": "https://arxiv.org/abs/2611.07509"
+ },
+ {
+  "added": "2026-11-16",
+  "arxiv": "2507.15588",
+  "candidates": [
+   [
+    "quantum-memories",
+    6.3
+   ],
+   [
+    "quantum-gravity",
+    3.9
+   ],
+   [
+    "molecular-physics",
+    3.1
+   ],
+   [
+    "oscillators",
+    0.26
+   ],
+   [
+    "cryptography",
+    0.26
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.1103/zbxp-fp54",
+  "keys": [
+   "arxiv:2507.15588",
+   "doi:10.1103/zbxp-fp54",
+   "title:onesidedwitnessesforthequantumnessofgravitationaldynamics|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Quantum information concepts and quantum technologies have opened the prospect of probing the quantum nature of gravity in table-top experiments. Most proposals rely on detecting gravitationally mediated entanglement, which requires measurements on both interacting systems. Here we propose an alternative test based on witnessing quantum memory effects in the dynamics of a single system. We show how the quantum memory concept allows the non-classicality of the interaction between two systems to be certified through local measurements on only one of them. We then develop a novel quantum memory witness, making the approach applicable to gravitationally coupled harmonic oscillators. This witness requires no assumptions about the dynamics, such as Gaussianity. Our results show that the quantumness of gravitational dynamics can be certified with access to only one subsystem, opening the door to asymmetric implementations that can offer conceptual and experimental advantages to probing the quantum nature of the gravitational interaction.",
+   "abstract_license": "cc-by",
+   "arxiv": "2507.15588",
+   "authors": [
+    "Konstantin Beyer",
+    "M. S. Kim",
+    "Igor Pikovski"
+   ],
+   "categories": [
+    "OpenAlex-field:Physics and Astronomy"
+   ],
+   "cited_by_count": 4,
+   "doi": "10.1103/zbxp-fp54",
+   "is_retracted": false,
+   "keywords": [
+    "quantum gravity",
+    "quantum memory",
+    "local measurements",
+    "quantum entanglement"
+   ],
+   "language": "en",
+   "oa_created": "2025-10-10",
+   "peer_reviewed": true,
+   "publication": "Physical Review Research",
+   "publication_type": "article",
+   "published_date": "2026-11-13",
+   "related_versions": [],
+   "source_ids": [
+    "openalex:W4416841406"
+   ],
+   "title": "One-sided witnesses for the quantumness of gravitational dynamics",
+   "topics": [
+    "Quantum Information and Cryptography",
+    "Atomic and Molecular Physics, and Optics"
+   ],
+   "updated_date": "2026-11-15",
+   "url": "https://doi.org/10.1103/zbxp-fp54"
+  },
+  "score": 6.3,
+  "seen": 1,
+  "suggested": "quantum-memories",
+  "title": "One-sided witnesses for the quantumness of gravitational dynamics",
+  "url": "https://doi.org/10.1103/zbxp-fp54"
  },
  {
   "added": "2026-11-11",
@@ -2331,6 +2791,83 @@
   "url": "https://doi.org/10.1038/s41467-026-79032-4"
  },
  {
+  "added": "2026-11-16",
+  "arxiv": "2605.26056",
+  "candidates": [
+   [
+    "particle-physics",
+    5.46
+   ],
+   [
+    "nuclear-physics",
+    3.1
+   ],
+   [
+    "data-models",
+    1.2
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.1140/epjc/s10052-026-16630-y",
+  "keys": [
+   "arxiv:2605.26056",
+   "doi:10.1140/epjc/s10052-026-16630-y",
+   "title:particlespeciesdependenceoffemtoscopicsourceparametersinhighenergynuclearcollisions|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Abstract High-energy nuclear physics explores the properties of strongly interacting matter created in relativistic collisions of nuclei. Femtoscopy, a subfield of high-energy physics, utilizes quantum-statistical correlations of particles to characterize the space-time geometry of the particle-emitting source. Recent measurements and phenomenological investigations indicated that the shape of the source for identical pions can be well-described by Lévy-stable distributions. The significant power-law tail of the pion source observed both in experiment and in simulations has been shown to originate from the process of Lévy walk during the hadronic scattering phase of the collisions. To better understand the physical processes behind the formation of such power laws, an important next step is to investigate particle species dependence, especially the source shape of identical kaon and proton pairs. As a direct continuation of our previous studies, in this paper, we present a detailed three-dimensional investigation of the two-particle source shape in simulations of Au + Au collisions at 200 GeV per nucleon pair collision energy using the EPOS3 model. We show the dependence of the extracted femtoscopic source parameters on particle species, centrality and average transverse mass. We find that the scale parameters do not show a clear transverse mass scaling between particle species, as there are systematic differences in the overlapping regions. The power-law exponents of pion and kaon pairs are compatible, while for protons it is higher, closer to the Gaussian limit. When new experimental measurements of kaon and proton correlations become available, these results will provide the basis of a data-model comparison.",
+   "abstract_license": "cc-by",
+   "arxiv": "2605.26056",
+   "authors": [
+    "D. Kincses",
+    "László Kovács",
+    "M. Csanád"
+   ],
+   "categories": [
+    "OpenAlex-field:Physics and Astronomy"
+   ],
+   "cited_by_count": 6,
+   "doi": "10.1140/epjc/s10052-026-16630-y",
+   "is_retracted": false,
+   "keywords": [
+    "femtoscopy",
+    "source shape",
+    "particle species dependence",
+    "stable distributions",
+    "Lévy walk",
+    "power-law tails",
+    "proton correlations",
+    "pion correlations",
+    "Au+Au collisions",
+    "centrality dependence",
+    "hadron scattering"
+   ],
+   "language": "en",
+   "oa_created": "2026-05-27",
+   "peer_reviewed": true,
+   "publication": "The European Physical Journal C",
+   "publication_type": "article",
+   "published_date": "2026-11-13",
+   "related_versions": [],
+   "source_ids": [
+    "openalex:W7162395152"
+   ],
+   "title": "Particle species dependence of femtoscopic source parameters in high-energy nuclear collisions",
+   "topics": [
+    "High-Energy Particle Collisions Research",
+    "Nuclear and High Energy Physics"
+   ],
+   "updated_date": "2026-11-15",
+   "url": "https://doi.org/10.1140/epjc/s10052-026-16630-y"
+  },
+  "score": 5.46,
+  "seen": 1,
+  "suggested": "particle-physics",
+  "title": "Particle species dependence of femtoscopic source parameters in high-energy nuclear collisions",
+  "url": "https://doi.org/10.1140/epjc/s10052-026-16630-y"
+ },
+ {
   "added": "2026-11-15",
   "arxiv": "2611.16210",
   "candidates": [
@@ -2399,6 +2936,89 @@
   "suggested": "medical-image-segmentation",
   "title": "FGCARL: Fisher-Guided Continuously Adaptive Representation Learning for Medical Image Segmentation",
   "url": "https://arxiv.org/abs/2611.16210"
+ },
+ {
+  "added": "2026-11-16",
+  "arxiv": "2410.18497",
+  "candidates": [
+   [
+    "josephson-junctions",
+    5.5
+   ],
+   [
+    "superconducting-qubits",
+    5.5
+   ],
+   [
+    "molecular-physics",
+    3.1
+   ],
+   [
+    "nonlinear-circuits",
+    1.8
+   ],
+   [
+    "amplifiers",
+    0.26
+   ],
+   [
+    "cryptography",
+    0.26
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.1103/658l-x6gx",
+  "keys": [
+   "arxiv:2410.18497",
+   "doi:10.1103/658l-x6gx",
+   "title:enumerationofallsuperconductingcircuitsupto5nodes|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Nonlinear superconducting circuits can be used as amplifiers, transducers, and qubits. Only a handful have been analyzed or built, so useful configurations likely remain undiscovered. In this paper, we enumerate all unique nonlinear superconducting circuits, up to five nodes in size, built of capacitors, inductors, and Josephson junctions. We catalog the resulting design space by sorting circuits into \"Hamiltonian classes\" using a set of reference coordinates. Finally, we search for novel superconducting qubits by explicitly considering all three-node circuits, showing how the results of our enumeration can be used as a starting point for circuit design tasks.",
+   "abstract_license": "cc-by",
+   "arxiv": "2410.18497",
+   "authors": [
+    "Eli J. Weissler",
+    "Mohit Bhat",
+    "Zhenxing Liu",
+    "Joshua Combes"
+   ],
+   "categories": [
+    "OpenAlex-field:Physics and Astronomy"
+   ],
+   "cited_by_count": 5,
+   "doi": "10.1103/658l-x6gx",
+   "is_retracted": false,
+   "keywords": [
+    "superconducting circuits",
+    "nonlinear circuits",
+    "Josephson junctions",
+    "superconducting qubits"
+   ],
+   "language": "en",
+   "oa_created": "2024-11-13",
+   "peer_reviewed": true,
+   "publication": "Physical Review Research",
+   "publication_type": "article",
+   "published_date": "2026-11-13",
+   "related_versions": [],
+   "source_ids": [
+    "openalex:W4404306861"
+   ],
+   "title": "Enumeration of all superconducting circuits up to 5 nodes",
+   "topics": [
+    "Quantum Information and Cryptography",
+    "Atomic and Molecular Physics, and Optics"
+   ],
+   "updated_date": "2026-11-14",
+   "url": "https://doi.org/10.1103/658l-x6gx"
+  },
+  "score": 5.5,
+  "seen": 1,
+  "suggested": "josephson-junctions",
+  "title": "Enumeration of all superconducting circuits up to 5 nodes",
+  "url": "https://doi.org/10.1103/658l-x6gx"
  },
  {
   "added": "2026-11-08",
@@ -2960,6 +3580,83 @@
   "url": "https://doi.org/10.1103/nn51-zg5k"
  },
  {
+  "added": "2026-11-16",
+  "arxiv": null,
+  "candidates": [
+   [
+    "genome-wide-association-studies",
+    5.02
+   ],
+   [
+    "molecular-biology",
+    3.1
+   ],
+   [
+    "phylogenetics",
+    2.2
+   ],
+   [
+    "analysis",
+    0.26
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.1093/genetics/iyag327",
+  "keys": [
+   "doi:10.1093/genetics/iyag327",
+   "title:gfa2binenablesgraphbasedgwasbyconvertinggenomegraphstopangenomicgenotypes|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Variation graphs offer superior representation of genomic diversity compared to traditional linear reference genomes, capturing complex features, especially structural variants, that are otherwise inaccessible to analysis. Given the known role of structural variants in functional allelic variation, it seems self-evident that exploiting variation graphs for genome-wide association studies (GWAS) should enable more comprehensive knowledge of associations between genetic variants and phenotypic traits. We present a tool, gfa2bin, that offers multiple methods to (i) use variation graphs for genotyping, and (ii) convert the genotypes into well-established data formats for use in GWAS. In a case study where we apply gfa2bin to Arabidopsis thaliana, we demonstrate with 1,695 traits that variation graphs can detect genotype-phenotype associations not found with linear reference genomes. Our approach complements SNP-based methods; not only does graph-based GWAS produce additional associations, but associations also found with SNPs have on average higher significance in graph-based GWAS. gfa2bin is implemented in Rust, and commented source code is available under an MIT license at https://github.com/MoinSebi/gfa2bin. Examples of how to run gfa2bin are provided in the documentation. We provide several Python scripts and a Snakemake pipeline for easy use of the tool with larger data sets. The packing tool (https://github.com/MoinSebi/packing) is recommended for reduced storage and preprocessing (normalization) of sequence-to-graph alignments.",
+   "abstract_license": "cc-by",
+   "arxiv": null,
+   "authors": [
+    "Sebastian Vorbrugg",
+    "Ilja Bezrukov",
+    "Zhigui Bao",
+    "Wenfei Xian",
+    "Detlef Weigel"
+   ],
+   "categories": [
+    "OpenAlex-field:Biochemistry, Genetics and Molecular Biology"
+   ],
+   "cited_by_count": 5,
+   "doi": "10.1093/genetics/iyag327",
+   "is_retracted": false,
+   "keywords": [
+    "variation graphs",
+    "genome graphs",
+    "structural variants",
+    "genotype-phenotype correlation",
+    "Arabidopsis thaliana",
+    "genotype calling"
+   ],
+   "language": "en",
+   "oa_created": "2024-12-10",
+   "peer_reviewed": true,
+   "publication": "Genetics",
+   "publication_type": "article",
+   "published_date": "2026-11-13",
+   "related_versions": [],
+   "source_ids": [
+    "openalex:W4405177727"
+   ],
+   "title": "Gfa2bin enables graph-based GWAS by converting genome graphs to pan-genomic genotypes",
+   "topics": [
+    "Genomics and Phylogenetic Studies",
+    "Molecular Biology"
+   ],
+   "updated_date": "2026-11-15",
+   "url": "https://doi.org/10.1093/genetics/iyag327"
+  },
+  "score": 5.02,
+  "seen": 1,
+  "suggested": "genome-wide-association-studies",
+  "title": "Gfa2bin enables graph-based GWAS by converting genome graphs to pan-genomic genotypes",
+  "url": "https://doi.org/10.1093/genetics/iyag327"
+ },
+ {
   "added": "2026-11-09",
   "arxiv": "2609.31550",
   "candidates": [
@@ -3032,6 +3729,73 @@
   "url": "https://doi.org/10.1103/bycd-9qhq"
  },
  {
+  "added": "2026-11-16",
+  "arxiv": "2604.20965",
+  "candidates": [
+   [
+    "anomaly-detection",
+    5.1
+   ],
+   [
+    "particle-physics",
+    3.96
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.1103/x9zb-n892",
+  "keys": [
+   "arxiv:2604.20965",
+   "doi:10.1103/x9zb-n892",
+   "title:morefeaturesformoremodelagnosticanomalydetection|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "An enormous amount of R&D effort has resulted in many new resonant anomaly detection methods being proposed in recent years. However, the vast majority of previous R&D studies have suffered from two limitations: they have focused on a very small set of simulated signal benchmark models; and they have either used small sets of carefully crafted high-level jet substructure observables, which can be highly performant but are prone to model dependence, or the full collider event phase space, which is more agnostic but suffers from reduced sensitivity. In this work, we address both limitations: we formulate a number of new simulated signal benchmarks, which we make publicly available in a format fully compatible with the LHCO R&D benchmark; and we explore a high-level, yet highly agnostic, observable set consisting of Energy Flow Polynomials in addition to the usual subjettiness variables. We evaluate this \"kitchen sink\" observable set for both an idealized anomaly detector and the CWoLa hunting task, along with three baseline observable sets (the Baseline LHC Olympics set, subjettiness observables, and Energy Flow Polynomials). We find that our kitchen sink approach is the most sensitive to a broad range of signal types. Furthermore, we show that an attribute bagging variant, in which each ensemble member is trained on a random subset of substructure observables, yields comparable anomaly detection performance while significantly reducing training cost.",
+   "abstract_license": null,
+   "arxiv": "2604.20965",
+   "authors": [
+    "Ranit Das",
+    "Marie Hein",
+    "Gregor Kasieczka",
+    "Michael Krämer",
+    "Lukas Lang",
+    "Radha Mastandrea",
+    "Louis Moureaux",
+    "Alexander Mück",
+    "David Shih"
+   ],
+   "categories": [
+    "OpenAlex-field:Physics and Astronomy"
+   ],
+   "cited_by_count": 3,
+   "doi": "10.1103/x9zb-n892",
+   "is_retracted": false,
+   "keywords": [],
+   "language": "en",
+   "oa_created": "2026-04-25",
+   "peer_reviewed": true,
+   "publication": "Physical review. D/Physical review. D.",
+   "publication_type": "article",
+   "published_date": "2026-11-13",
+   "related_versions": [],
+   "source_ids": [
+    "openalex:W7155552287"
+   ],
+   "title": "More features for more model agnostic anomaly detection",
+   "topics": [
+    "Particle physics theoretical and experimental studies",
+    "Nuclear and High Energy Physics"
+   ],
+   "updated_date": "2026-11-15",
+   "url": "https://doi.org/10.1103/x9zb-n892"
+  },
+  "score": 5.1,
+  "seen": 1,
+  "suggested": "anomaly-detection",
+  "title": "More features for more model agnostic anomaly detection",
+  "url": "https://doi.org/10.1103/x9zb-n892"
+ },
+ {
   "added": "2026-11-11",
   "arxiv": "2611.11761",
   "candidates": [
@@ -3096,6 +3860,87 @@
   "suggested": "llm-inference-optimization",
   "title": "BridgeKV: Large-Model Prefill and Small-Model Decoding for LLM Inference via KV Cache Translation",
   "url": "https://arxiv.org/abs/2611.11761"
+ },
+ {
+  "added": "2026-11-16",
+  "arxiv": null,
+  "candidates": [
+   [
+    "organoids",
+    4.47
+   ],
+   [
+    "molecular-biology",
+    3.1
+   ],
+   [
+    "physiology",
+    1.85
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.1038/s41593-026-02504-9",
+  "keys": [
+   "doi:10.1038/s41593-026-02504-9",
+   "title:enhancertargetedcrisprarescueshaploinsufficiencyandmutantphenotypesinorganoidmodelsofautism|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Autism spectrum disorder (ASD) is a highly heritable condition with diverse clinical presentations. Approximately 15% of the genetic susceptibility of ASD is imparted by de novo haploinsufficient mutations of major effect. We mapped enhancers of two high-confidence autism genes, CHD8 and SCN2A, and used CRISPR-based gene activation targeting enhancers (eCRISPR-A) in human pluripotent stem cell (hPSC)-derived excitatory neurons and cerebral forebrain organoids to correct the effects of haploinsufficiency, taking advantage of the presence of a wild-type allele of each gene and endogenous gene regulation. Here we show that eCRISPR-A induced a sustained increase in CHD8 and SCN2A expression specifically in mutant neurons and cortical organoids, with rescue of gene expression levels and mutation-associated phenotypes, including gene expression and physiology. These data support gene activation via targeting enhancers of haploinsufficient genes as a therapeutic intervention in ASD and other neurodevelopmental disorders.",
+   "abstract_license": "cc-by",
+   "arxiv": null,
+   "authors": [
+    "George T Chen",
+    "Gayatri Nair",
+    "Aubrey J. Osorio",
+    "Sandra M. Holley",
+    "Kimiya Ghassemzadeh",
+    "Yixuan Zhou",
+    "Jose Gonzalez",
+    "Jacqueline M. Martin",
+    "Congyi Lu",
+    "Neville E. Sanjana",
+    "Carlos Cepeda",
+    "Daniel H. Geschwind"
+   ],
+   "categories": [
+    "OpenAlex-field:Biochemistry, Genetics and Molecular Biology"
+   ],
+   "cited_by_count": 12,
+   "doi": "10.1038/s41593-026-02504-9",
+   "is_retracted": false,
+   "keywords": [
+    "autism spectrum disorder",
+    "haploinsufficiency",
+    "CHD8",
+    "SCN2A",
+    "enhancer mapping",
+    "human pluripotent stem cell-derived neurons",
+    "neurodevelopmental disorders"
+   ],
+   "language": "en",
+   "oa_created": "2024-03-22",
+   "peer_reviewed": true,
+   "publication": "Nature Neuroscience",
+   "publication_type": "article",
+   "published_date": "2026-11-13",
+   "related_versions": [],
+   "source_ids": [
+    "openalex:W4393063950"
+   ],
+   "title": "Enhancer-targeted CRISPR-A rescues haploinsufficiency and mutant phenotypes in organoid models of autism",
+   "topics": [
+    "CRISPR and Genetic Engineering",
+    "Molecular Biology"
+   ],
+   "updated_date": "2026-11-15",
+   "url": "https://doi.org/10.1038/s41593-026-02504-9"
+  },
+  "score": 4.47,
+  "seen": 1,
+  "suggested": "organoids",
+  "title": "Enhancer-targeted CRISPR-A rescues haploinsufficiency and mutant phenotypes in organoid models of autism",
+  "url": "https://doi.org/10.1038/s41593-026-02504-9"
  },
  {
   "added": "2026-11-10",
@@ -3804,6 +4649,90 @@
   "url": "https://doi.org/10.1038/s41586-026-11282-0"
  },
  {
+  "added": "2026-11-16",
+  "arxiv": "2605.21574",
+  "candidates": [
+   [
+    "astronomy-and-astrophysics",
+    3.7
+   ],
+   [
+    "calibration",
+    0.66
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.3847/1538-4357/aeac19",
+  "keys": [
+   "arxiv:2605.21574",
+   "doi:10.3847/1538-4357/aeac19",
+   "title:lrds2thelowredshiftlittlereddotssurveyiidesidr1sample|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Abstract JWST has revealed a substantial population of “Little Red Dots” (LRDs) at z > 4, challenging conventional active galactic muclei (AGN) frameworks. However, the low-redshift regime remains largely unexplored. In the second paper of the (LRDs) 2 series, we present a systematic selection from DESI DR1 and identify 27 LRDs at z = 0.2–0.9, yielding a number density lower limit of 7.5 × 10 −10 cMpc −3 . We conducted near-IR spectroscopic follow-up observations for 21 of them, revealing their full spectral energy distribution (SED) shapes and emission lines. These low- z LRDs share the hallmark properties of their high- z counterparts: compact morphology, V-shaped UV-optical continua, broad Balmer emission with extreme decrements (median H α /H β ∼ 15), frequent Balmer absorption (70%), and blackbody-like optical-to-near-IR continua. All have low metallicity, occupy the same regions in the BPT diagram as high- z LRDs, and have softer ionizing spectra than typical AGNs. The consistency between low- z and high- z LRD properties indicates the same physical processes at work. The correlation between broad-line Balmer luminosity and L 5100 deviates from that of local type-1 AGNs, limiting the direct application of local BH mass calibrations. Ionized [O iii ] outflows are ubiquitous (78%). One LRD at z = 0.196, J1717+3807, shows robust long-term variability in the i and Wide-field Infrared Survey Explorer (WISE) bands. The optical-to-near-IR continua of LRDs reveal a wide range of temperatures ∼2000–4700 K (peak 0.6–1.4 μ m), with a subset showing cooler and larger envelopes than those at high z . Low- z LRDs serve not only as proximate laboratories for probing the nature of LRDs, but also trace the cosmic evolution of this population from the cosmic dawn to the present day.",
+   "abstract_license": "cc-by",
+   "arxiv": "2605.21574",
+   "authors": [
+    "Xiaojing Lin",
+    "Xiaohui Fan",
+    "Zheng Cai",
+    "Yichen Liu",
+    "Fengwu Sun",
+    "Fuyan Bian",
+    "Mingyu Li",
+    "Junjie Mao",
+    "Jenny E. Greene",
+    "Hanpu Liu",
+    "Jiaxuan Li",
+    "Weizhe Liu",
+    "Yilun Ma",
+    "Zechang Sun",
+    "Zijian Zhang"
+   ],
+   "categories": [
+    "OpenAlex-field:Physics and Astronomy"
+   ],
+   "cited_by_count": 36,
+   "doi": "10.3847/1538-4357/aeac19",
+   "is_retracted": false,
+   "keywords": [
+    "Little Red Dots",
+    "low-redshift AGN",
+    "active galactic nuclei",
+    "broad-line AGN",
+    "Balmer lines",
+    "Balmer decrement",
+    "BPT diagram",
+    "AGN variability",
+    "low metallicity",
+    "black hole mass calibration"
+   ],
+   "language": "en",
+   "oa_created": "2026-05-23",
+   "peer_reviewed": true,
+   "publication": "The Astrophysical Journal",
+   "publication_type": "article",
+   "published_date": "2026-11-13",
+   "related_versions": [],
+   "source_ids": [
+    "openalex:W7162113399"
+   ],
+   "title": "(LRDs) 2 : The Low-ReDshift Little Red Dots Survey. II. DESI DR1 Sample",
+   "topics": [
+    "Galaxies: Formation, Evolution, Phenomena",
+    "Astronomy and Astrophysics"
+   ],
+   "updated_date": "2026-11-15",
+   "url": "https://doi.org/10.3847/1538-4357/aeac19"
+  },
+  "score": 3.7,
+  "seen": 1,
+  "suggested": "astronomy-and-astrophysics",
+  "title": "(LRDs) 2 : The Low-ReDshift Little Red Dots Survey. II. DESI DR1 Sample",
+  "url": "https://doi.org/10.3847/1538-4357/aeac19"
+ },
+ {
   "added": "2026-11-08",
   "arxiv": null,
   "candidates": [
@@ -3900,6 +4829,90 @@
   "suggested": "smart-textiles",
   "title": "Advanced Materials and Intelligent Technologies for Sustainable Engineering Applications",
   "url": "https://sciencebring.com/index.php/ijasr/article/view/1344"
+ },
+ {
+  "added": "2026-11-16",
+  "arxiv": null,
+  "candidates": [
+   [
+    "electrical-and-electronic-engineering",
+    4.3
+   ],
+   [
+    "amplifiers",
+    3.41
+   ],
+   [
+    "antennas",
+    3.14
+   ],
+   [
+    "wireless-communications",
+    3.1
+   ],
+   [
+    "bluetooth",
+    2.38
+   ],
+   [
+    "optimization",
+    0.79
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.56201/ijcsmt.v10.no2.2024.pg62.116",
+  "keys": [
+   "doi:10.56201/ijcsmt.v10.no2.2024.pg62.116",
+   "title:modelingtheimpactofimpedancemismatchonwirelesslinkperformanceaframeworkforprototypedevelopmentandsystemoptimization|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Impedance mismatch remains one of the most consequential yet systematically underestimated sources of performance degradation in wireless communication systems. When source and load impedances at any interface in a radio frequency chain fail to achieve conjugate matching, a portion of the signal power is reflected rather than transferred, producing quantifiable losses in transmit efficiency, receiver sensitivity, noise figure, gain linearity, and overall link margin. The challenge is compounded in modern wireless prototype development by the absence of a unified engineering workflow that translates component-level impedance measurements into actionable system-level performance predictions. Engineers routinely characterize individual components on a vector network analyzer (VNA) and construct link budgets using idealized datasheet specifications, but the gap between these two activities means that accumulated mismatch losses across the full signal chain frequently escape notice until receiver sensitivity or range tests reveal unexplained shortfalls during board bring-up. This paper addresses that gap by presenting a comprehensive modeling framework that quantifies impedance mismatch impact at each interface of a wireless RF front-end, including the power amplifier output, low-noise amplifier input, antenna feed point, RF switch transitions, and inter-stage transmission lines, and propagates these contributions through a modified Friis cascade chain into a unified link budget model. The framework draws on VNA S-parameter measurements, Smith chart analysis, Advanced Design System (ADS) simulation, load-pull characterization, and Y-factor noise figure measurement to construct per-interface mismatch profiles. The profiles are then processed through a four-stage pipeline: interface mismatch characterization, per-stage performance penalty computation, cascaded chain analysis, and link budget integration with sensitivity ranking. The framework is validated through application to a Bluetooth 5.0 short-range wireless prototype, where it accurately predicted a 3.2 dB receiver sensitivity shortfall attributable to antenna-to-LNA interface mismatch and guided a two-iteration matching network correction that restored the sensitivity to within 0.1 dB of the design target. The methodology is directly applicable to IoT platform bring-up, where compact antenna geometries and tight power budgets make impedance non-idealities particularly costly.",
+   "abstract_license": null,
+   "arxiv": null,
+   "authors": [
+    "Robert Quainoo"
+   ],
+   "categories": [
+    "OpenAlex-field:Engineering"
+   ],
+   "cited_by_count": 10,
+   "doi": "10.56201/ijcsmt.v10.no2.2024.pg62.116",
+   "is_retracted": false,
+   "keywords": [
+    "impedance mismatch",
+    "RF front-end",
+    "receiver sensitivity",
+    "noise figure",
+    "S-parameters",
+    "Smith chart",
+    "load-pull characterization",
+    "matching network design",
+    "Bluetooth 5.0"
+   ],
+   "language": "en",
+   "oa_created": "2026-11-14",
+   "peer_reviewed": true,
+   "publication": "INTERNATIONAL JOURNAL OF COMPUTER SCIENCE AND MATHEMATICAL THEORY E-ISSN",
+   "publication_type": "article",
+   "published_date": "2026-11-13",
+   "related_versions": [],
+   "source_ids": [
+    "openalex:W7226016276"
+   ],
+   "title": "Modeling the Impact of Impedance Mismatch on Wireless Link Performance: A Framework for Prototype Development and System Optimization",
+   "topics": [
+    "Advanced Power Amplifier Design",
+    "Electrical and Electronic Engineering"
+   ],
+   "updated_date": "2026-11-15",
+   "url": "https://doi.org/10.56201/ijcsmt.v10.no2.2024.pg62.116"
+  },
+  "score": 4.3,
+  "seen": 1,
+  "suggested": "electrical-and-electronic-engineering",
+  "title": "Modeling the Impact of Impedance Mismatch on Wireless Link Performance: A Framework for Prototype Development and System Optimization",
+  "url": "https://doi.org/10.56201/ijcsmt.v10.no2.2024.pg62.116"
  },
  {
   "added": "2026-11-09",
@@ -5560,6 +6573,218 @@
   "url": "https://arxiv.org/abs/2611.06205"
  },
  {
+  "added": "2026-11-16",
+  "arxiv": "2607.08829",
+  "candidates": [
+   [
+    "condensed-matter-physics",
+    4.25
+   ],
+   [
+    "magnonics",
+    3.3
+   ],
+   [
+    "neutron-scattering",
+    3.0
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.1103/g8sv-69pb",
+  "keys": [
+   "arxiv:2607.08829",
+   "doi:10.1103/g8sv-69pb",
+   "title:magneticfieldcontroloftheneelvectorandmagnonvisibilityinaltermagneticmnte|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Altermagnetic order gives rise to momentum-dependent spin splitting of electronic and magnonic excitations even in the absence of a net magnetization. Here, we investigate the magnetic field dependence of the spin-wave spectrum of altermagnetic $α$-MnTe using inelastic neutron scattering and linear spin-wave theory. An in-plane magnetic field continuously reorients the Néel vector by overcoming the weak crystalline anisotropy, while remaining small compared with the dominant exchange scale. We find that this reorientation leaves the magnon energies and line widths essentially unchanged, but strongly modifies the measured spectral intensity through the transverse-momentum projection. Our results demonstrate a clear separation between the soft orientational degree of freedom of the antiferromagnetic order and the robust exchange-dominated chiral magnon spectrum. This combination establishes $α$-MnTe as a platform for reconfigurable magnon coupling, in which external fields tune how excitations interact with polarized probes without substantially altering their frequency or coherence.",
+   "abstract_license": null,
+   "arxiv": "2607.08829",
+   "authors": [
+    "Tobias Weber",
+    "Niclas Heinsdorf",
+    "Shane Smolenski",
+    "Sawyer Beltz",
+    "Alexandre Ivanov",
+    "Andrea Piovano",
+    "Victor Mecoli",
+    "Sean Knapp",
+    "Ruiqi Tang",
+    "Amir Henderson",
+    "A. K. M. Ashiquzzaman Shawon",
+    "Taylor Pierce-James",
+    "Na Hyun Jo",
+    "D. Karaiskaj"
+   ],
+   "categories": [
+    "OpenAlex-field:Physics and Astronomy"
+   ],
+   "cited_by_count": 5,
+   "doi": "10.1103/g8sv-69pb",
+   "is_retracted": false,
+   "keywords": [
+    "α-MnTe",
+    "spin-wave spectrum",
+    "chiral magnons",
+    "magnetic field control",
+    "momentum-dependent spin splitting",
+    "inelastic neutron scattering",
+    "linear spin-wave theory",
+    "exchange interaction"
+   ],
+   "language": "en",
+   "oa_created": "2026-07-14",
+   "peer_reviewed": true,
+   "publication": "Physical review. B./Physical review. B",
+   "publication_type": "article",
+   "published_date": "2026-11-13",
+   "related_versions": [],
+   "source_ids": [
+    "openalex:W7168165269"
+   ],
+   "title": "Magnetic-field control of the Néel vector and magnon visibility in altermagnetic MnTe",
+   "topics": [
+    "Advanced Condensed Matter Physics",
+    "Condensed Matter Physics"
+   ],
+   "updated_date": "2026-11-15",
+   "url": "https://doi.org/10.1103/g8sv-69pb"
+  },
+  "score": 4.25,
+  "seen": 1,
+  "suggested": "condensed-matter-physics",
+  "title": "Magnetic-field control of the Néel vector and magnon visibility in altermagnetic MnTe",
+  "url": "https://doi.org/10.1103/g8sv-69pb"
+ },
+ {
+  "added": "2026-11-16",
+  "arxiv": "2407.00325",
+  "candidates": [
+   [
+    "condensed-matter-physics",
+    3.7
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.1007/s44214-026-00113-y",
+  "keys": [
+   "arxiv:2407.00325",
+   "doi:10.1007/s44214-026-00113-y",
+   "title:flatbandexcitonsandquantummetric|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Abstract We discuss the excitons in flat band systems. Quantum metric plays a central role in determining the properties of single exciton excitations as well as the exciton condensate. While the electrons and holes are supposed to be extremely heavy in flat bands, the excitons (the bound state of an electron-hole pair) could be light and mobile. In particular, we show that the inverse of the effective mass tensor of excitons is proportional to the quantum metric tensor. Meanwhile, the flat band excitons have a finite size, lower bounded by the trace of the quantum metric tensor. Given the properties of single exciton excitation, one can argue for the formation of exciton condensate. Because of the quantum metric, the exciton condensate can support dissipationless counterflow supercurrent, implying the stability of exciton condensate.",
+   "abstract_license": "cc-by",
+   "arxiv": "2407.00325",
+   "authors": [
+    "Xuzhe Ying",
+    "K. T. Law"
+   ],
+   "categories": [
+    "OpenAlex-field:Physics and Astronomy"
+   ],
+   "cited_by_count": 17,
+   "doi": "10.1007/s44214-026-00113-y",
+   "is_retracted": false,
+   "keywords": [
+    "flat-band systems",
+    "excitons",
+    "quantum metric",
+    "exciton condensate",
+    "exciton stability"
+   ],
+   "language": "en",
+   "oa_created": "2024-07-03",
+   "peer_reviewed": true,
+   "publication": "Quantum Frontiers",
+   "publication_type": "article",
+   "published_date": "2026-11-13",
+   "related_versions": [],
+   "source_ids": [
+    "openalex:W4400267289"
+   ],
+   "title": "Flat band excitons and quantum metric",
+   "topics": [
+    "Topological Materials and Phenomena",
+    "Condensed Matter Physics"
+   ],
+   "updated_date": "2026-11-14",
+   "url": "https://doi.org/10.1007/s44214-026-00113-y"
+  },
+  "score": 3.7,
+  "seen": 1,
+  "suggested": "condensed-matter-physics",
+  "title": "Flat band excitons and quantum metric",
+  "url": "https://doi.org/10.1007/s44214-026-00113-y"
+ },
+ {
+  "added": "2026-11-16",
+  "arxiv": "2605.16489",
+  "candidates": [
+   [
+    "particle-physics",
+    3.48
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.1103/t72y-3nnp",
+  "keys": [
+   "arxiv:2605.16489",
+   "doi:10.1103/t72y-3nnp",
+   "title:bouncingsingularitiesinschwarzschildgeometryageometricoriginofthequasinormalmodeconvergenceregion|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "We show analytically that the convergence of the QNM expansion of the retarded Green's function of the Schwarzschild spacetime is set by a singularity in the complex time plane. The singularity has a simple geometric origin: it is an example of a `bouncing singularity' in the language of AdS/CFT literature, caused by a null geodesic which bounces from the black hole singularity. Our work explains why the QNM convergence region at real times is bounded by null ray which scatters from the gravitational potential at a seemingly unremarkable point ($r_* = 0$ in the conventions of previous work) -- this ray is the same distance from the origin as the bouncing singularity in the relevant complex plane. The same set of singularities are responsible for an annular region of convergence for the Matsubara mode sum which describes the early time behaviour of the Schwarzschild Green's function for perturbations close to the horizon.",
+   "abstract_license": null,
+   "arxiv": "2605.16489",
+   "authors": [
+    "Paolo Arnaudo",
+    "Benjamin Withers"
+   ],
+   "categories": [
+    "OpenAlex-field:Physics and Astronomy"
+   ],
+   "cited_by_count": 24,
+   "doi": "10.1103/t72y-3nnp",
+   "is_retracted": false,
+   "keywords": [
+    "quasinormal modes",
+    "Schwarzschild black hole",
+    "retarded Green's function",
+    "null geodesics",
+    "complex time plane",
+    "convergence region",
+    "AdS/CFT correspondence",
+    "black hole perturbations"
+   ],
+   "language": "en",
+   "oa_created": "2026-05-20",
+   "peer_reviewed": true,
+   "publication": "Physical Review Letters",
+   "publication_type": "article",
+   "published_date": "2026-11-13",
+   "related_versions": [],
+   "source_ids": [
+    "openalex:W7161720390"
+   ],
+   "title": "Bouncing singularities in Schwarzschild geometry: A geometric origin of the quasinormal mode convergence region",
+   "topics": [
+    "Black Holes and Theoretical Physics",
+    "Nuclear and High Energy Physics"
+   ],
+   "updated_date": "2026-11-15",
+   "url": "https://doi.org/10.1103/t72y-3nnp"
+  },
+  "score": 3.48,
+  "seen": 1,
+  "suggested": "particle-physics",
+  "title": "Bouncing singularities in Schwarzschild geometry: A geometric origin of the quasinormal mode convergence region",
+  "url": "https://doi.org/10.1103/t72y-3nnp"
+ },
+ {
   "added": "2026-11-09",
   "arxiv": "2607.19057",
   "candidates": [
@@ -5827,6 +7052,89 @@
   "suggested": "visual-analytics",
   "title": "Towards Insight-Centric Data Spaces: Integrating Visual Analytics and Decentralized Data Ecosystems",
   "url": "https://arxiv.org/abs/2611.06098"
+ },
+ {
+  "added": "2026-11-16",
+  "arxiv": "2510.20096",
+  "candidates": [
+   [
+    "quantum-communication",
+    3.9
+   ],
+   [
+    "molecular-physics",
+    3.1
+   ],
+   [
+    "phase-shift-keying",
+    1.12
+   ],
+   [
+    "cryptography",
+    0.26
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.1103/7s87-sr4z",
+  "keys": [
+   "arxiv:2510.20096",
+   "doi:10.1103/7s87-sr4z",
+   "title:allgaussianstatediscriminationbeyondthecoherenthelstrombound|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "A core problem in communications is the optimal discrimination of binary-phase-shift-keyed (BPSK) signals. A longstanding goal has been to reach the fundamental quantum limit, known as the Helstrom bound, for BPSK signals encoded in coherent states. However, due to technical constraints, proposals for reaching the bound remain impractical. In this letter we take an alternative approach: using only Gaussian optics - displaced squeezed states and homodyne detection - we achieve discrimination of BPSK signals with error rates below what can be achieved using coherent states and any quantum measurement.",
+   "abstract_license": "cc-by",
+   "arxiv": "2510.20096",
+   "authors": [
+    "Angus Walsh",
+    "Lorcán O. Conlon",
+    "Biveen Shajilal",
+    "Özlem Erkılıç",
+    "Jiří Janoušek",
+    "Syed M. Assad",
+    "Jie Zhao",
+    "Ping Koy Lam"
+   ],
+   "categories": [
+    "OpenAlex-field:Physics and Astronomy"
+   ],
+   "cited_by_count": 8,
+   "doi": "10.1103/7s87-sr4z",
+   "is_retracted": false,
+   "keywords": [
+    "quantum state discrimination",
+    "Helstrom bound",
+    "BPSK",
+    "coherent states",
+    "displaced squeezed states",
+    "homodyne detection",
+    "Gaussian optics",
+    "quantum communication"
+   ],
+   "language": "en",
+   "oa_created": "2025-10-25",
+   "peer_reviewed": true,
+   "publication": "Physical Review Research",
+   "publication_type": "article",
+   "published_date": "2026-11-13",
+   "related_versions": [],
+   "source_ids": [
+    "openalex:W4416618334"
+   ],
+   "title": "All-gaussian state discrimination beyond the coherent helstrom bound",
+   "topics": [
+    "Quantum Information and Cryptography",
+    "Atomic and Molecular Physics, and Optics"
+   ],
+   "updated_date": "2026-11-15",
+   "url": "https://doi.org/10.1103/7s87-sr4z"
+  },
+  "score": 3.9,
+  "seen": 1,
+  "suggested": "quantum-communication",
+  "title": "All-gaussian state discrimination beyond the coherent helstrom bound",
+  "url": "https://doi.org/10.1103/7s87-sr4z"
  },
  {
   "added": "2026-11-08",
@@ -6699,6 +8007,96 @@
   "url": "https://doi.org/10.1103/2nwh-4rmv"
  },
  {
+  "added": "2026-11-16",
+  "arxiv": "2510.19904",
+  "candidates": [
+   [
+    "astronomy-and-astrophysics",
+    3.7
+   ],
+   [
+    "ray-tracing",
+    1.2
+   ],
+   [
+    "optimization",
+    0.26
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.33232/001c.175274",
+  "keys": [
+   "arxiv:2510.19904",
+   "doi:10.33232/001c.175274",
+   "title:thesyntheticabsorptionlinespectralalmanacsalsa|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "We create the first large-scale mock spectroscopic survey of gas absorption sightlines traversing the interstellar medium (ISM), circumgalactic medium (CGM), and intergalactic medium (IGM) surrounding galaxies of virtual Universes. That is, we create mock, or synthetic, absorption spectra by drawing lines-of-sight through cosmological hydrodynamical simulations, using a new mesh-free Voronoi ray-tracing algorithm. The result is the Synthetic Absorption Line Spectral Almanac (SALSA), which is publicly released on a feature-rich online science platform (www.tng-project.org/spectra). It spans a range of ions, transitions, instruments, observational characteristics, assumptions, redshifts, and simulations. These include, but are not limited to: (ions) HI, OI, CI, MgI, MgII, FeII, SiII, CaII, ZnII, SiIII, SiIV, NV, CII, CIV, OVI; (instruments) SDSS-BOSS, KECK-HIRES, UVES, COS, DESI, 4MOST, WEAVE, XSHOOTER; (model choices) with/without dust depletion, noise, quasar continua, foregrounds; (redshift) from z=0 to z~6; (ancillary data) integrated equivalent widths, column densities, distances and properties of nearby galaxies; (simulations) IllustrisTNG including TNG50, TNG-Cluster, EAGLE, and SIMBA. We also provide line-of-sight integrals, including Faraday rotation measure (RM) probing magnetic fields, and dispersion measure (DM) as traced by fast radio bursts (FRBs). This scope is not fixed, and will grow and evolve with community interest and requests over time. The resulting dataset is generic and broadly applicable, enabling diverse science goals such as: (i) studies of the underlying physical gas structures giving rise to particular absorption signatures, (ii) galaxy-absorber and halo-absorber correlations, (iii) virtual surveys and survey strategy optimization, (iv) stacking experiments and the identification of faint absorption features, (v) assessment of data reduction methods and completeness calculations, (vi) inference of physical properties from observables, and (vii) apples-to-apples comparisons between simulations and data.",
+   "abstract_license": "cc-by",
+   "arxiv": "2510.19904",
+   "authors": [
+    "Dylan Nelson",
+    "Céline Péroux",
+    "Philipp Richter",
+    "Matthew M. Pieri",
+    "Sebastián López",
+    "Rongmon Bordoloi",
+    "Siwei Zou",
+    "Joseph N. Burchett",
+    "R. L. Davies",
+    "Rahul Ramesh",
+    "Matthew C. Smith",
+    "Sanchayeeta Borthakur",
+    "Christopher W. Churchill"
+   ],
+   "categories": [
+    "OpenAlex-field:Physics and Astronomy"
+   ],
+   "cited_by_count": 7,
+   "doi": "10.33232/001c.175274",
+   "is_retracted": false,
+   "keywords": [
+    "interstellar medium",
+    "circumgalactic medium",
+    "intergalactic medium",
+    "cosmological hydrodynamical simulations",
+    "IllustrisTNG",
+    "eagle",
+    "SIMBA",
+    "dust depletion",
+    "rotation measure",
+    "dispersion measure",
+    "fast radio bursts",
+    "equivalent widths",
+    "column density",
+    "stacking"
+   ],
+   "language": "en",
+   "oa_created": "2025-10-25",
+   "peer_reviewed": true,
+   "publication": "The Open Journal of Astrophysics",
+   "publication_type": "article",
+   "published_date": "2026-11-13",
+   "related_versions": [],
+   "source_ids": [
+    "openalex:W4416617133"
+   ],
+   "title": "The Synthetic Absorption Line Spectral Almanac (SALSA)",
+   "topics": [
+    "Galaxies: Formation, Evolution, Phenomena",
+    "Astronomy and Astrophysics"
+   ],
+   "updated_date": "2026-11-15",
+   "url": "https://doi.org/10.33232/001c.175274"
+  },
+  "score": 3.7,
+  "seen": 1,
+  "suggested": "astronomy-and-astrophysics",
+  "title": "The Synthetic Absorption Line Spectral Almanac (SALSA)",
+  "url": "https://doi.org/10.33232/001c.175274"
+ },
+ {
   "added": "2026-11-05",
   "arxiv": "2611.04412",
   "candidates": [
@@ -7214,6 +8612,76 @@
   "url": "https://doi.org/10.4153/s0008414x26102648"
  },
  {
+  "added": "2026-11-16",
+  "arxiv": "2604.20264",
+  "candidates": [
+   [
+    "algebraic-geometry",
+    3.98
+   ],
+   [
+    "geometry-and-topology",
+    3.7
+   ],
+   [
+    "number-theory",
+    3.1
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.1007/s00574-026-00538-y",
+  "keys": [
+   "arxiv:2604.20264",
+   "doi:10.1007/s00574-026-00538-y",
+   "title:asymptoticallyzstablebundlesoverprojectivesurfaces|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Abstract We study the existence of asymptotically Z -stable (a.Z-stable) bundles over projective surfaces with free finitely generated Picard group. Our choice of polynomial central charge is related to the existence of solutions of the deformed Hermitian–Yang–Mills equations, with vanishing B -field, in the large-volume limit. Our first main result gives a general construction of strictly a.Z-stable rank-two bundles as non-trivial extensions of line bundles. We then develop a technique to construct strictly a.Z-stable bundles of rank three as extensions of a line bundle by a $$\\mu $$ μ -stable bundle of rank two. The rank-two bundle is obtained through the Hartshorne–Serre construction from a divisor and a zero-dimensional local complete intersection subscheme, while the a.Z-stability of the resulting rank-three bundle is ensured by explicit cohomological conditions on these data. In particular, this leads to examples of strictly a.Z-stable bundles over $$\\textbf{P}^2,$$ P 2 , the product $$\\textbf{P}^1\\times \\textbf{P}^1,$$ P 1 × P 1 , and the blow-up $$\\textrm{Bl}_q\\textbf{P}^2.$$ Bl q P 2 .",
+   "abstract_license": "cc-by",
+   "arxiv": "2604.20264",
+   "authors": [
+    "Luiz Lara",
+    "Henrique N. Sá Earp"
+   ],
+   "categories": [
+    "OpenAlex-field:Mathematics"
+   ],
+   "cited_by_count": 3,
+   "doi": "10.1007/s00574-026-00538-y",
+   "is_retracted": false,
+   "keywords": [
+    "projective surfaces",
+    "deformed Hermitian-Yang-Mills equation",
+    "large volume limit",
+    "cohomological conditions",
+    "stability of vector bundles"
+   ],
+   "language": "en",
+   "oa_created": "2026-04-24",
+   "peer_reviewed": true,
+   "publication": "Bulletin of the Brazilian Mathematical Society New Series",
+   "publication_type": "article",
+   "published_date": "2026-11-13",
+   "related_versions": [],
+   "source_ids": [
+    "openalex:W7155363284"
+   ],
+   "title": "Asymptotically Z-Stable Bundles over Projective Surfaces",
+   "topics": [
+    "Algebraic Geometry and Number Theory",
+    "Geometry and Topology"
+   ],
+   "updated_date": "2026-11-15",
+   "url": "https://doi.org/10.1007/s00574-026-00538-y"
+  },
+  "score": 3.98,
+  "seen": 1,
+  "suggested": "algebraic-geometry",
+  "title": "Asymptotically Z-Stable Bundles over Projective Surfaces",
+  "url": "https://doi.org/10.1007/s00574-026-00538-y"
+ },
+ {
   "added": "2026-11-05",
   "arxiv": "2611.04262",
   "candidates": [
@@ -7468,6 +8936,161 @@
   "suggested": "astronomy-and-astrophysics",
   "title": "From thesan-zoom to JWST: Predicting ionizing photon escape and the rise of UV-bright reionization sources",
   "url": "https://doi.org/10.1093/mnras/stag2176"
+ },
+ {
+  "added": "2026-11-16",
+  "arxiv": "2512.16981",
+  "candidates": [
+   [
+    "astronomy-and-astrophysics",
+    3.7
+   ],
+   [
+    "calibration",
+    0.26
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.1051/0004-6361/202558661",
+  "keys": [
+   "arxiv:2512.16981",
+   "doi:10.1051/0004-6361/202558661",
+   "title:theaccretionofquasarsattheepochofreionisationjwstcatchestheprimevalmonstersslowlyfeasting|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Quasars (QSOs) emit an enormous amount of light as a result of the accretion of matter onto supermassive black holes (SMBHs). Thanks to their luminosity, the most distant known QSOs allow us to trace the growth of SMBHs deep into the epoch of reionisation. In this work, we employed /NIRSpec observations of ten luminous (łog(L_ JWST 3000,Å /(̊m erg , -1 )),≥,45.6) QSOs at z,≥,5.8 to constrain their accretion properties, namely black hole mass, accretion disc (AD) luminosity, and Eddington ratio (M_̊m BH, L_̊m AD, λ_̊m Edd). We achieved this by employing different bolometric corrections and single-epoch relations for several rest-frame UV and optical broad emission lines as well as by taking advantage of AD modelling. This latter method provides self-consistent measurements of both M_̊m BH and L_̊m AD, with uncertainties on M_̊m BH and L_̊m AD (σ^ ̊m AD _ M_ ̊m BH ,∼,0.2 dex; σ^ ̊m AD _ L_ ̊m AD ,∼,0.1 dex), significantly smaller than the systematic uncertainties associated with single-epoch M_̊m BH (∼0.4 dex) and L_̊m AD derived via bolometric corrections (∼0.2 dex). Based on these results and assuming that our high-z QSOs are representative of optically selected bright blue QSOs and that the amount of dust reddening along the line of sight to these sources is negligible, in our sample we found an average Eddington ratio of łangle łog(λ_ ̊m Edd ) ̊angle,=,-0.9, with a standard deviation of ∼,0.3 dex. This implies a fraction of such systems accreting above the Eddington limit of łesssim,0.1%. In conclusion, this work i) demonstrates the suitability of AD modelling on JWST data to constrain the accretion properties of high-redshift (z,≳,4) QSOs thanks to the large spectral coverage of the JWST /NIRSpec instrument; ii) shows that AD modelling can yield robust M_̊m BH and L_̊m AD measurements in bright QSOs, with smaller uncertainties than the typical calibrations; and iii) provides compelling evidence of sub-Eddington accretion in bright high-z QSOs, challenging the widespread paradigm of near- or super-Eddington accretion occurring in these sources.",
+   "abstract_license": "cc-by",
+   "arxiv": "2512.16981",
+   "authors": [
+    "B. Trefoloni",
+    "E. Nardini",
+    "S. Carniani",
+    "Elisabeta Lusso",
+    "A. Marconi",
+    "Chiara Niccolai",
+    "Eleonora Parlanti",
+    "Andrea Sacchi",
+    "A. Shlentsova",
+    "Matilde Signorini",
+    "Guido Risaliti",
+    "Sandra Zamora"
+   ],
+   "categories": [
+    "OpenAlex-field:Physics and Astronomy"
+   ],
+   "cited_by_count": 5,
+   "doi": "10.1051/0004-6361/202558661",
+   "is_retracted": false,
+   "keywords": [
+    "quasars",
+    "supermassive black hole accretion",
+    "cosmic reionization",
+    "Eddington ratio",
+    "black hole mass",
+    "high-redshift quasars",
+    "bolometric corrections",
+    "broad emission lines",
+    "JWST NIRSpec",
+    "dust reddening",
+    "black hole growth",
+    "optically selected quasars"
+   ],
+   "language": "en",
+   "oa_created": "2025-12-23",
+   "peer_reviewed": true,
+   "publication": "Astronomy and Astrophysics",
+   "publication_type": "article",
+   "published_date": "2026-11-13",
+   "related_versions": [],
+   "source_ids": [
+    "openalex:W7116940863"
+   ],
+   "title": "The accretion of quasars at the epoch of reionisation: JWST catches the primeval monsters slowly feasting",
+   "topics": [
+    "Galaxies: Formation, Evolution, Phenomena",
+    "Astronomy and Astrophysics"
+   ],
+   "updated_date": "2026-11-15",
+   "url": "https://doi.org/10.1051/0004-6361/202558661"
+  },
+  "score": 3.7,
+  "seen": 1,
+  "suggested": "astronomy-and-astrophysics",
+  "title": "The accretion of quasars at the epoch of reionisation: JWST catches the primeval monsters slowly feasting",
+  "url": "https://doi.org/10.1051/0004-6361/202558661"
+ },
+ {
+  "added": "2026-11-16",
+  "arxiv": "2607.12202",
+  "candidates": [
+   [
+    "density-functional-theory",
+    3.7
+   ],
+   [
+    "molecular-physics",
+    3.1
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.1103/1z49-m1tn",
+  "keys": [
+   "arxiv:2607.12202",
+   "doi:10.1103/1z49-m1tn",
+   "title:defectassignmentoftheclocksitein229thcaf2|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "The performance of solid-state $^{229}\\text{Th}$ nuclear clocks depends sensitively on the microscopic environment of the thorium nucleus in the host crystal. Here we reassess the dominant quadrupole-split thorium site in $^{229}\\text{Th:CaF}_2$, which has been assigned to a thorium dimer in recent spectroscopic work. Thermodynamic estimates, density functional theory calculations, and electric-field-gradient comparisons instead favor an isolated $\\text{Th}^{4+}$ substitution on a $\\text{Ca}^{2+}$ site charge-compensated by two nearby fluorine interstitials in a relaxed $90^\\circ$ motif. The same calculation identifies a higher-energy mixed-shell interstitial motif as a plausible minor site. The clock-active quadrupole-split site is therefore controlled by local fluoride compensation rather than unavoidable thorium aggregation. This defect assignment also has implications for achievable linewidths and provides a microscopic basis for reducing broadening in solid-state nuclear clocks.",
+   "abstract_license": null,
+   "arxiv": "2607.12202",
+   "authors": [
+    "Daniel Rehn",
+    "Harry W. T. Morgan",
+    "Harris E. Mason",
+    "H. B. Tran Tan",
+    "Ricky Elwell",
+    "Igor Savukov",
+    "Michael J. Martin",
+    "Andrei Derevianko",
+    "Eric R. Hudson"
+   ],
+   "categories": [
+    "OpenAlex-field:Physics and Astronomy"
+   ],
+   "cited_by_count": 5,
+   "doi": "10.1103/1z49-m1tn",
+   "is_retracted": false,
+   "keywords": [
+    "quadrupole splitting",
+    "electric field gradient",
+    "charge compensation",
+    "line broadening"
+   ],
+   "language": "en",
+   "oa_created": "2026-07-16",
+   "peer_reviewed": true,
+   "publication": "Physical Review Letters",
+   "publication_type": "article",
+   "published_date": "2026-11-13",
+   "related_versions": [],
+   "source_ids": [
+    "openalex:W7168398995"
+   ],
+   "title": "Defect assignment of the clock site in 229 Th:CaF 2",
+   "topics": [
+    "Advanced Frequency and Time Standards",
+    "Atomic and Molecular Physics, and Optics"
+   ],
+   "updated_date": "2026-11-15",
+   "url": "https://doi.org/10.1103/1z49-m1tn"
+  },
+  "score": 3.7,
+  "seen": 1,
+  "suggested": "density-functional-theory",
+  "title": "Defect assignment of the clock site in 229 Th:CaF 2",
+  "url": "https://doi.org/10.1103/1z49-m1tn"
  },
  {
   "added": "2026-11-07",
@@ -8069,6 +9692,201 @@
   "suggested": "astronomy-and-astrophysics",
   "title": "The Entangling of Supernova Feedback Impacts with Coarsening Simulation Resolution",
   "url": "https://doi.org/10.33232/001c.175199"
+ },
+ {
+  "added": "2026-11-16",
+  "arxiv": "2602.02661",
+  "candidates": [
+   [
+    "astronomy-and-astrophysics",
+    3.7
+   ],
+   [
+    "antennas",
+    1.31
+   ],
+   [
+    "calibration",
+    0.66
+   ],
+   [
+    "electromagnetics",
+    0.66
+   ],
+   [
+    "modulation",
+    0.26
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.1093/rasti/rzag099",
+  "keys": [
+   "arxiv:2602.02661",
+   "doi:10.1093/rasti/rzag099",
+   "title:theelectromagneticallyisolatedglobalsignalestimationplatformeigsep|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Abstract The Electromagnetically Isolated Global Signal Estimation Platform (EIGSEP) is a new instrument designed to measure the global 21-cm signal from Cosmic Dawn and the Epoch of Reionization, redshifted to frequencies below 250 MHz. To reduce spectral structure in the antenna beam associated with ground scattering, EIGSEP uses a shaped bowtie antenna suspended in a canyon, designed to keep terrain and conducting structures about 100 m away. We describe the current system design of EIGSEP, including the rotating antenna platform, a transmitter antenna to characterize the beam of the bowtie antenna, and auxiliary ground antennas. We then discuss the EIGSEP calibration scheme, which incorporates traditional Dicke switching in the receiver, and novel approaches that include beam mapping, beam modulation, and interferometric cross-correlation. The instrument has been deployed near Marjum Pass, Utah, for testing and initial data collection. We discuss the site characteristics and present the measured response of the suspended and rotating antenna to an external transmitter. We also present an in situ measurement of the antenna reflection coefficient, whose delay spectrum shows no detectable terrestrial scattering at delays below 590 ns, the round-trip light travel time to the nearest canyon terrain, demonstrating the electromagnetic isolation of the antenna. Absolutely calibrated sky spectra and the characterization of the antenna beam are deferred to forthcoming work.",
+   "abstract_license": "cc-by",
+   "arxiv": "2602.02661",
+   "authors": [
+    "Christian H. Bye",
+    "Aaron R Parsons",
+    "David Robert Deboer",
+    "Matt Dexter",
+    "Sean Donelan",
+    "Aaron Ewall-Wice",
+    "Adam Fahs",
+    "Pranav Karthik",
+    "Komal Kaur",
+    "Bahram Khalichi",
+    "Wei Liu",
+    "Raúl A. Monsalve",
+    "Reid Parsons",
+    "Richard J. Saeed",
+    "Richard J. Saeed",
+    "Charlie G. Tolley",
+    "Dominic Vazquez",
+    "Dirk Wright"
+   ],
+   "categories": [
+    "OpenAlex-field:Physics and Astronomy"
+   ],
+   "cited_by_count": 4,
+   "doi": "10.1093/rasti/rzag099",
+   "is_retracted": false,
+   "keywords": [
+    "HI 21 cm emission",
+    "cosmic dawn",
+    "cosmic reionization",
+    "bow-tie antenna",
+    "electromagnetic isolation",
+    "ground scattering",
+    "antenna calibration",
+    "antenna reflection coefficient",
+    "low-frequency radio astronomy"
+   ],
+   "language": "en",
+   "oa_created": "2026-02-06",
+   "peer_reviewed": true,
+   "publication": "RAS Techniques and Instruments",
+   "publication_type": "article",
+   "published_date": "2026-11-13",
+   "related_versions": [],
+   "source_ids": [
+    "openalex:W7127621416"
+   ],
+   "title": "The Electromagnetically Isolated Global Signal Estimation Platform (EIGSEP)",
+   "topics": [
+    "Radio Astronomy Observations and Technology",
+    "Astronomy and Astrophysics"
+   ],
+   "updated_date": "2026-11-15",
+   "url": "https://doi.org/10.1093/rasti/rzag099"
+  },
+  "score": 3.7,
+  "seen": 1,
+  "suggested": "astronomy-and-astrophysics",
+  "title": "The Electromagnetically Isolated Global Signal Estimation Platform (EIGSEP)",
+  "url": "https://doi.org/10.1093/rasti/rzag099"
+ },
+ {
+  "added": "2026-11-16",
+  "arxiv": "2606.27477",
+  "candidates": [
+   [
+    "astronomy-and-astrophysics",
+    3.7
+   ],
+   [
+    "spectroscopy",
+    0.52
+   ],
+   [
+    "bearings",
+    0.33
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.3847/1538-3881/aeb422",
+  "keys": [
+   "arxiv:2606.27477",
+   "doi:10.3847/1538-3881/aeb422",
+   "title:fromyoungtoolderdisksjwstmirievidenceforfadingmolecularemissionandhintsforelevatedcoinupperscorpius|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Abstract We present JWST/MIRI spectroscopy of 14 disks in the older (∼5–10 Myr) Upper Scorpius (USco) association and use slab of gas in local thermal equilibrium to infer basic gas properties. We find that one-half of these disks are molecular rich, with detections of H 2 O, CO 2 , HCN, C 2 H 2 , and H 2 , while the other one-half are molecular poor, showing no molecular emission other than H 2 . We further combine this sample with 10 other USco disks from the AGE-PRO program and compare the combined older sample to young (∼1–3 Myr) JDISCS Cycle 1 systems, which are analyzed in a similar manner. We find that USco disks have lower detection rates of major molecular species but a significantly higher detection rate of rarer C-bearing molecules such as C 4 H 2 . At a given accretion luminosity, molecular line luminosities are systematically lower in USco than in young disks, and the scaling relations with accretion luminosity differ between the two populations. Moreover, we find that about one-half of the older disks, preferentially the millimeter-faint and likely more compact disks, have observable mass ratios of C- to O-bearing molecules that are higher than the maximum values in the young sample. These results point to reduced inner-disk molecular gas masses, cooler emitting layers, and higher inner gas C/O ratios in older disks, the latter being consistent with pebble drift. Taken together, our findings provide evidence for chemical evolution of inner-disk gas from young to older systems, with important implications for the accretion of primordial planetary atmospheres.",
+   "abstract_license": "cc-by",
+   "arxiv": "2606.27477",
+   "authors": [
+    "Chengyan Xie",
+    "I. Pascucci",
+    "Feng Long",
+    "Uma Gorti",
+    "Andrea Banzatti",
+    "Richard A. Booth",
+    "Klaus M. Pontoppidan",
+    "Tamara Molyarova",
+    "John Carpenter",
+    "Min Fang",
+    "Yao Liu",
+    "Eshan Raul",
+    "Ke Zhang",
+    "Steve Ertel",
+    "Jordan Stone",
+    "A. Empey",
+    "Carlo F.Manara",
+    "Paola Pinilla",
+    "Colette Salyk",
+    "Benoît Tabone",
+    "Miguel Vioque",
+    "Lucas A. Cieza",
+    "Giovanni P. Rosotti",
+    "James M. Miley",
+    "Geoffrey A. Blake",
+    "Abygail R. Waggoner"
+   ],
+   "categories": [
+    "OpenAlex-field:Physics and Astronomy"
+   ],
+   "cited_by_count": 4,
+   "doi": "10.3847/1538-3881/aeb422",
+   "is_retracted": false,
+   "keywords": [
+    "protoplanetary disks",
+    "Upper Scorpius",
+    "disk chemical evolution",
+    "C/O ratio",
+    "pebble drift",
+    "accretion luminosity",
+    "diacetylene",
+    "planetary atmospheres"
+   ],
+   "language": "en",
+   "oa_created": "2026-06-30",
+   "peer_reviewed": true,
+   "publication": "The Astronomical Journal",
+   "publication_type": "article",
+   "published_date": "2026-11-13",
+   "related_versions": [],
+   "source_ids": [
+    "openalex:W7166509422"
+   ],
+   "title": "From Young to Older Disks: JWST/MIRI Evidence for Fading Molecular Emission and Hints for Elevated C/O in Upper Scorpius",
+   "topics": [
+    "Astrophysics and Star Formation Studies",
+    "Astronomy and Astrophysics"
+   ],
+   "updated_date": "2026-11-15",
+   "url": "https://doi.org/10.3847/1538-3881/aeb422"
+  },
+  "score": 3.7,
+  "seen": 1,
+  "suggested": "astronomy-and-astrophysics",
+  "title": "From Young to Older Disks: JWST/MIRI Evidence for Fading Molecular Emission and Hints for Elevated C/O in Upper Scorpius",
+  "url": "https://doi.org/10.3847/1538-3881/aeb422"
  },
  {
   "added": "2026-11-07",
@@ -9081,1605 +10899,70 @@
   "url": "https://doi.org/10.1007/jhep11(2026)100"
  },
  {
-  "added": "2026-11-08",
-  "arxiv": null,
-  "candidates": [
-   [
-    "electronic-health-records",
-    4.34
-   ],
-   [
-    "digital-health",
-    3.1
-   ],
-   [
-    "telemedicine",
-    2.49
-   ]
-  ],
-  "confidence": "medium",
-  "doi": "10.24248/eahrj.v10i2.333",
-  "keys": [
-   "doi:10.24248/eahrj.v10i2.333",
-   "title:universalhealthcoverageineastafricabridgingthegapbetweenpoliticalcommitmentandhealthsystemimplementation|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "Universal Health Coverage (UHC) is central to Sustainable Development Goal 3.8, aiming to ensure equitable access to quality health services without financial hardship. East African countries, including Tanzania, Kenya, Uganda, and Rwanda, have demonstrated strong political commitment through policies, strategic plans, and national health insurance reforms. Despite these efforts, a significant gap persists between political declarations and practical implementation. Systemic barriers, such as limited financing, workforce shortages, governance weaknesses, affordability constraints, service delivery inefficiencies, and political instability, continue to impede progress. This article examines the commitment–practice gap, highlights underlying structural and operational challenges, and proposes policy strategies to accelerate UHC in the region. Key recommendations include strengthening domestic resource mobilisation, reinforcing primary health care, enhancing governance and accountability, and leveraging digital health innovations such as electronic health records, mobile insurance platforms, and telemedicine. It also emphasises well-structured public–private partnerships in service delivery, diagnostics, and supply chains, alongside the promotion of regional learning and cooperation through the East African Community (EAC). By translating political commitments into effective health system interventions, East African countries can move closer to achieving health equity and ensuring that health becomes a right rather than a privilege for all citizens.",
-   "abstract_license": null,
-   "arxiv": null,
-   "authors": [
-    "Josiah Sandetwa",
-    "Jenniffer Lyabangi",
-    "Patrick Mwijage",
-    "Costantine Josephat"
-   ],
-   "categories": [
-    "OpenAlex-field:Medicine"
-   ],
-   "cited_by_count": 0,
-   "doi": "10.24248/eahrj.v10i2.333",
-   "is_retracted": false,
-   "keywords": [],
-   "language": "en",
-   "oa_created": "2026-11-07",
-   "peer_reviewed": true,
-   "publication": "East African Health Research Journal",
-   "publication_type": "article",
-   "published_date": "2026-11-04",
-   "related_versions": [],
-   "source_ids": [
-    "openalex:W7225403075"
-   ],
-   "title": "Universal Health Coverage in East Africa: Bridging the Gap Between Political Commitment and Health System Implementation",
-   "topics": [
-    "Healthcare Systems and Reforms",
-    "Public Health, Environmental and Occupational Health"
-   ],
-   "updated_date": "2026-11-07",
-   "url": "https://doi.org/10.24248/eahrj.v10i2.333"
-  },
-  "score": 4.34,
-  "seen": 1,
-  "suggested": "electronic-health-records",
-  "title": "Universal Health Coverage in East Africa: Bridging the Gap Between Political Commitment and Health System Implementation",
-  "url": "https://doi.org/10.24248/eahrj.v10i2.333"
- },
- {
-  "added": "2026-11-05",
-  "arxiv": "2611.04125",
-  "candidates": [
-   [
-    "integrated-sensing-and-communication",
-    5.02
-   ],
-   [
-    "antennas",
-    3.55
-   ],
-   [
-    "electromagnetics",
-    2.9
-   ],
-   [
-    "artificial-intelligence",
-    1.2
-   ],
-   [
-    "optimization",
-    0.26
-   ]
-  ],
-  "confidence": "medium",
-  "doi": null,
-  "keys": [
-   "arxiv:2611.04125",
-   "title:reconfigurableantennaenhancedisacaunifiedperspectiveonelectromagneticadaptation|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "Integrated sensing and communication (ISAC) enables sensing and communication (S&C) functions to share time, frequency, and hardware resources, offering an efficient paradigm for next-generation wireless systems. However, conventional fixed-configuration antenna (FCA) architectures provide limited flexibility in adapting the physical electromagnetic (EM) response of the end-to-end wireless link. This article develops a unified EM-adaptation perspective on reconfigurable antenna (RA)-enhanced ISAC systems. We distinguish transceiver-side (TSc-side) and environment-side (Env-side) RA deployments and identify five fundamental EM reconfiguration dimensions: position, orientation, radiation pattern, polarization, and frequency response. Building on this framework, we examine how these dimensions customize communication channels, actively control target information mapping for sensing, and reshape the interplay between S&C, particularly by improving compatibility between S&C requirements under shared resources. Two case studies illustrate how TSc-side and Env-side EM reconfiguration can improve spatial selectivity and the achievable S&C performance tradeoff. Finally, we discuss several promising directions for advancing RA-enhanced ISAC systems, including fundamental performance limits, low-overhead black-box optimization, and artificial intelligence (AI)-enabled semantic ISAC.",
-   "abstract_license": "cc0-1.0 (arxiv metadata)",
-   "arxiv": "2611.04125",
-   "authors": [
-    "Peilan Wang",
-    "Lei Xie",
-    "Meidong Mei",
-    "Jun Fang",
-    "Yihong Su",
-    "Hongbin Li"
-   ],
-   "categories": [
-    "arXiv:eess.SP"
-   ],
-   "cited_by_count": null,
-   "doi": null,
-   "is_retracted": null,
-   "keywords": [],
-   "language": "en",
-   "peer_reviewed": false,
-   "publication": "arXiv",
-   "publication_type": "preprint",
-   "published_date": "2026-11-03",
-   "related_versions": [],
-   "source_ids": [
-    "arxiv:2611.04125"
-   ],
-   "title": "Reconfigurable Antenna-Enhanced ISAC: A Unified Perspective on Electromagnetic Adaptation",
-   "topics": [],
-   "updated_date": "2026-11-03",
-   "url": "https://arxiv.org/abs/2611.04125"
-  },
-  "score": 5.02,
-  "seen": 2,
-  "suggested": "integrated-sensing-and-communication",
-  "title": "Reconfigurable Antenna-Enhanced ISAC: A Unified Perspective on Electromagnetic Adaptation",
-  "url": "https://arxiv.org/abs/2611.04125"
- },
- {
-  "added": "2026-11-06",
-  "arxiv": "2611.05965",
-  "candidates": [
-   [
-    "non-orthogonal-multiple-access",
-    5.02
-   ],
-   [
-    "physical-layer-security",
-    3.7
-   ],
-   [
-    "antennas",
-    1.94
-   ],
-   [
-    "analysis",
-    0.79
-   ],
-   [
-    "probabilistic-planning",
-    0.45
-   ],
-   [
-    "exploit-mitigation-techniques",
-    0.45
-   ]
-  ],
-  "confidence": "medium",
-  "doi": null,
-  "keys": [
-   "arxiv:2611.05965",
-   "title:secrecyandcovertnessanalysisofswanenableduplinkedmanomasystems|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "Environment division multiple access (EDMA) has recently emerged as a promising multiple-access paradigm by exploiting the wireless propagation environment for user separation, while physical-layer security, including secrecy and covert communication, is becoming increasingly important for protecting confidential information and user privacy. Motivated by these considerations, this paper proposes an EDMA-enabled non-orthogonal multiple access for secrecy and covert communications (EDMA-NOMA-SC) framework for uplink wireless systems. In the proposed framework, a segmented-waveguide-enabled pinching antenna system (SWAN) is employed, where a secrecy user and an intermittently active covert user share the same transmission resource through NOMA within each segment, while a malicious warden attempts to eavesdrop on the secrecy transmission and detect the presence of the covert communication. To capture practical operating conditions, distance-dependent blockage, inter-segment interference, in-waveguide attenuation, imperfect channel state information (ipCSI), and imperfect successive interference cancellation (ipSIC) are considered. Semi-analytical frameworks are developed to characterize the secrecy outage probability (SOP), average secrecy capacity (ASC), false alarm probability (FAP), missed detection probability (MDP), detection error probability (DEP), and covert rate (CR), with their accuracy verified through Monte Carlo simulations. Numerical results, including comparisons with conventional and EDMA-based benchmark schemes, show that the proposed framework generally achieves improved secrecy and covert-rate performance owing to reduced user-to-pinching-antenna propagation distances and in-waveguide attenuation. However, excessive segmentation can degrade performance when inter-segment interference outweighs these propagation benefits.",
-   "abstract_license": "cc0-1.0 (arxiv metadata)",
-   "arxiv": "2611.05965",
-   "authors": [
-    "Sagnik Bhattacharyya",
-    "Keshav Singh",
-    "Shiv Kumar",
-    "Chih-Peng Li"
-   ],
-   "categories": [
-    "arXiv:eess.SP"
-   ],
-   "cited_by_count": null,
-   "doi": null,
-   "is_retracted": null,
-   "keywords": [],
-   "language": "en",
-   "peer_reviewed": false,
-   "publication": "arXiv",
-   "publication_type": "preprint",
-   "published_date": "2026-11-04",
-   "related_versions": [],
-   "source_ids": [
-    "arxiv:2611.05965"
-   ],
-   "title": "Secrecy and Covertness Analysis of SWAN-Enabled Uplink EDMA-NOMA Systems",
-   "topics": [],
-   "updated_date": "2026-11-04",
-   "url": "https://arxiv.org/abs/2611.05965"
-  },
-  "score": 5.02,
-  "seen": 2,
-  "suggested": "non-orthogonal-multiple-access",
-  "title": "Secrecy and Covertness Analysis of SWAN-Enabled Uplink EDMA-NOMA Systems",
-  "url": "https://arxiv.org/abs/2611.05965"
- },
- {
-  "added": "2026-11-06",
-  "arxiv": "2611.06227",
-  "candidates": [
-   [
-    "integrated-sensing-and-communication",
-    5.02
-   ],
-   [
-    "5g-new-radio",
-    3.7
-   ]
-  ],
-  "confidence": "medium",
-  "doi": null,
-  "keys": [
-   "arxiv:2611.06227",
-   "title:ambiguityeliminationviasuccessiveestimationinisacsystemswithreferencesignals|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "Integrated sensing and communication (ISAC) systems can efficiently reuse 5G New Radio (NR) reference signals to enable joint communication and passive target detection. Among these, the Positioning Reference Signal (PRS) is widely adopted for high-performance sensing activities. However, the PRS configuration, given by the comb structure, introduces periodic ambiguities, resulting in ghost targets. Existing approaches mitigate this issue by combining PRS with additional reference signals, such as the DeModulation Reference Signal (DMRS), effectively removing ghosts but at the cost of higher complexity and sensing overhead. This paper proposes a low-complexity successive estimation strategy that initially allows ghost targets but progressively eliminates them using historical ambiguity-free estimations. The method comprises a matching process to associate current detections with historical real targets, and a pattern deviation detection mechanism to trigger a fallback to ambiguity-free estimation when the target set changes. We derive a sufficient condition that guarantees the correct matching as a function of target velocity, PRS comb size, subcarrier spacing, and sensing refresh rate. Using this condition, a parameter selection strategy is proposed to jointly improve sensing and communication performance. Numerical results demonstrate that our method achieves unambiguous detection while significantly reducing sensing resources, thus releasing more resources for communication compared to State-of-the-Art (SotA) approaches.",
-   "abstract_license": "cc0-1.0 (arxiv metadata)",
-   "arxiv": "2611.06227",
-   "authors": [
-    "Ali Al Khansa",
-    "Sami Mekki",
-    "Giyyarpuram Madhusudan"
-   ],
-   "categories": [
-    "arXiv:eess.SP"
-   ],
-   "cited_by_count": null,
-   "doi": null,
-   "is_retracted": null,
-   "keywords": [],
-   "language": "en",
-   "peer_reviewed": false,
-   "publication": "arXiv",
-   "publication_type": "preprint",
-   "published_date": "2026-11-04",
-   "related_versions": [],
-   "source_ids": [
-    "arxiv:2611.06227"
-   ],
-   "title": "Ambiguity Elimination via Successive Estimation in ISAC Systems with Reference Signals",
-   "topics": [],
-   "updated_date": "2026-11-04",
-   "url": "https://arxiv.org/abs/2611.06227"
-  },
-  "score": 5.02,
-  "seen": 2,
-  "suggested": "integrated-sensing-and-communication",
-  "title": "Ambiguity Elimination via Successive Estimation in ISAC Systems with Reference Signals",
-  "url": "https://arxiv.org/abs/2611.06227"
- },
- {
-  "added": "2026-11-06",
-  "arxiv": "2611.06235",
-  "candidates": [
-   [
-    "integrated-sensing-and-communication",
-    5.02
-   ],
-   [
-    "beamforming",
-    2.99
-   ],
-   [
-    "antennas",
-    1.94
-   ],
-   [
-    "calibration",
-    0.26
-   ],
-   [
-    "analysis",
-    0.26
-   ]
-  ],
-  "confidence": "medium",
-  "doi": null,
-  "keys": [
-   "arxiv:2611.06235",
-   "title:oneisacarraytwoworstcaseshardwareimpairmentsinbeamformingandaoaestimation|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "In integrated sensing and communication (ISAC), the same base-station array beamforms toward users and estimates their angle of arrival (AoA). In this paper, we study how element-level gain, phase, and position errors affect both functions of a beam-scanning uniform linear array. Any array produces a correlation peak at the true angle, of finite height and width, surrounded by sidelobes. Impairments shift this peak, make it lower and wider, and raise the sidelobes relative to it. A single decomposition explains these three effects: the gain-weighted least-squares fit of the per-antenna phase errors splits them into a tilt, which shifts the peak, and a residual, whose power is taken from the peak and redistributed over the sidelobes according to its spatial spectrum. A beam steered toward the strongest direction suffers from the lower peak only, whereas the AoA estimate suffers from its shift even without noise, and also from the lowering and sidelobes with noise. The worst cases for the two ISAC functions are thus nearly disjoint, and we characterize both: the worst case for beamforming leaves the AoA estimate unbiased, and the worst case for localization loses little beamforming gain. The worst case for localization is a single defect at the junction between two subarrays, and its error, relative to the main-lobe width, does not decrease with the number of antennas. We also characterize random impairments and the effect of noise. In practical terms, our analysis shows that the calibration of a dual-function array must be assessed with respect to both functions.",
-   "abstract_license": "cc0-1.0 (arxiv metadata)",
-   "arxiv": "2611.06235",
-   "authors": [
-    "Xuan Chen",
-    "Luc Le Magoarou"
-   ],
-   "categories": [
-    "arXiv:eess.SP"
-   ],
-   "cited_by_count": null,
-   "doi": null,
-   "is_retracted": null,
-   "keywords": [],
-   "language": "en",
-   "peer_reviewed": false,
-   "publication": "arXiv",
-   "publication_type": "preprint",
-   "published_date": "2026-11-04",
-   "related_versions": [],
-   "source_ids": [
-    "arxiv:2611.06235"
-   ],
-   "title": "One ISAC Array, Two Worst Cases: Hardware Impairments in Beamforming and AoA Estimation",
-   "topics": [],
-   "updated_date": "2026-11-04",
-   "url": "https://arxiv.org/abs/2611.06235"
-  },
-  "score": 5.02,
-  "seen": 2,
-  "suggested": "integrated-sensing-and-communication",
-  "title": "One ISAC Array, Two Worst Cases: Hardware Impairments in Beamforming and AoA Estimation",
-  "url": "https://arxiv.org/abs/2611.06235"
- },
- {
-  "added": "2026-11-06",
-  "arxiv": "2611.06236",
-  "candidates": [
-   [
-    "integrated-sensing-and-communication",
-    5.02
-   ],
-   [
-    "5g-new-radio",
-    3.7
-   ]
-  ],
-  "confidence": "medium",
-  "doi": null,
-  "keys": [
-   "arxiv:2611.06236",
-   "title:ghosttargeteliminationin5greferencesignalsisacviamultistaticmultilateration|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "Integrated Sensing and Communication (ISAC) systems can reuse 5G New Radio (NR) reference signals to enable joint communication and environmental sensing. Among these signals, the Positioning Reference Signal (PRS) is particularly suitable for range and Doppler estimation. However, its comb structure introduces periodic ambiguities that generate ghost targets. Existing solutions resolve these ambiguities by combining PRS with additional signals such as the DeModulation Reference Signal (DMRS), which increases sensing overhead. This paper proposes a PRS-only sensing framework that resolves ambiguities using multi-static observations. Instead of removing ghosts locally at each receiver, the proposed method exploits spatial diversity and performs ambiguity resolution at a fusion anchor. The anchor jointly estimates target locations and ambiguity indices via multilateration across multiple sensing nodes. This approach eliminates the need for additional reference signals while maintaining low receiver complexity. Simulation results show that the proposed method reliably resolves ghost targets and achieves superior detection performance compared to benchmark methods across various scenarios, while significantly enhancing resource efficiency by enabling sensing using PRS-only transmissions.",
-   "abstract_license": "cc0-1.0 (arxiv metadata)",
-   "arxiv": "2611.06236",
-   "authors": [
-    "Ali Al Khansa",
-    "Sami Mekki"
-   ],
-   "categories": [
-    "arXiv:eess.SP"
-   ],
-   "cited_by_count": null,
-   "doi": null,
-   "is_retracted": null,
-   "keywords": [],
-   "language": "en",
-   "peer_reviewed": false,
-   "publication": "arXiv",
-   "publication_type": "preprint",
-   "published_date": "2026-11-04",
-   "related_versions": [],
-   "source_ids": [
-    "arxiv:2611.06236"
-   ],
-   "title": "Ghost Target Elimination in 5G Reference Signals ISAC via Multi-static Multilateration",
-   "topics": [],
-   "updated_date": "2026-11-04",
-   "url": "https://arxiv.org/abs/2611.06236"
-  },
-  "score": 5.02,
-  "seen": 2,
-  "suggested": "integrated-sensing-and-communication",
-  "title": "Ghost Target Elimination in 5G Reference Signals ISAC via Multi-static Multilateration",
-  "url": "https://arxiv.org/abs/2611.06236"
- },
- {
-  "added": "2026-11-06",
-  "arxiv": "2611.06254",
-  "candidates": [
-   [
-    "monte-carlo-tree-search",
-    5.02
-   ],
-   [
-    "large-language-models",
-    4.56
-   ],
-   [
-    "optimization",
-    0.79
-   ]
-  ],
-  "confidence": "medium",
-  "doi": null,
-  "keys": [
-   "arxiv:2611.06254",
-   "title:harnessflowmctsguidedharnessoptimizationforllmagents|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "The performance of large language model (LLM) agents depends on both the underlying model and the harness that governs interaction with tools and the environment. Yet harness design remains largely manual, and automating it requires navigating an open-ended search space through costly end-to-end evaluations. We introduce HarnessFlow, a framework for optimizing complete executable harnesses under a limited candidate-evaluation budget, with the model and task environment held fixed. HarnessFlow organizes candidates and their evaluation histories in a refinement tree, using a Monte Carlo Tree Search (MCTS)-based policy to balance exploitation and exploration. A coding agent refines selected harnesses using archived code, execution feedback, and a library of reusable harness mechanisms. With 15 refinement attempts per benchmark, HarnessFlow achieves the highest mean test scores among the compared methods on six benchmarks spanning agentic tasks, coding, and web interaction. The optimized harnesses achieve an average score of 69.48%, outperforming the initial harnesses and Meta-Harness by 10.89 and 3.95 percentage points, respectively, while incurring lower average per-task execution costs than hand-engineered baselines. These results suggest that structured harness search offers a promising route toward automating the design of capable and efficient LLM agents.",
-   "abstract_license": "cc0-1.0 (arxiv metadata)",
-   "arxiv": "2611.06254",
-   "authors": [
-    "Zhi Hong",
-    "Qianlong Wang",
-    "Hongchen Wei",
-    "Aidan Wu",
-    "Daohong Ying",
-    "Mingze Kong",
-    "Bei Liu",
-    "Chong Luo"
-   ],
-   "categories": [
-    "arXiv:cs.AI"
-   ],
-   "cited_by_count": null,
-   "doi": null,
-   "is_retracted": null,
-   "keywords": [],
-   "language": "en",
-   "peer_reviewed": false,
-   "publication": "arXiv",
-   "publication_type": "preprint",
-   "published_date": "2026-11-04",
-   "related_versions": [],
-   "source_ids": [
-    "arxiv:2611.06254"
-   ],
-   "title": "HarnessFlow: MCTS-Guided Harness Optimization for LLM Agents",
-   "topics": [],
-   "updated_date": "2026-11-04",
-   "url": "https://arxiv.org/abs/2611.06254"
-  },
-  "score": 5.02,
-  "seen": 2,
-  "suggested": "monte-carlo-tree-search",
-  "title": "HarnessFlow: MCTS-Guided Harness Optimization for LLM Agents",
-  "url": "https://arxiv.org/abs/2611.06254"
- },
- {
-  "added": "2026-11-07",
-  "arxiv": "2611.07577",
-  "candidates": [
-   [
-    "integrated-sensing-and-communication",
-    5.02
-   ],
-   [
-    "modulation",
-    1.85
-   ],
-   [
-    "analysis",
-    0.79
-   ]
-  ],
-  "confidence": "medium",
-  "doi": null,
-  "keys": [
-   "arxiv:2611.07577",
-   "title:whendoesinterbsinterferencehurtsensinginisacanexactfisherinformationanalysisunderfinitealphabetinterference|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "In networked integrated sensing and communication (ISAC), a base station (BS) performing sensing using its own downlink signals is subject to interference from the downlink transmissions of neighboring BSs. This paper investigates the impact of the signal constellation and waveform on the sensing performance in the presence of such inter-BS interference. For any linear receiver, we show that the mean-squared cross-ambiguity between two random ISAC signals is invariant to the modulation bases and constellations. We then derive the exact Fisher information under finite-alphabet interference with a flat-fading link, which equals the interference-free Fisher information scaled by $1-γ\\,\\mmse_{\\C}(γ)$, where $γ$ denotes the interference-to-noise ratio (INR) and $\\mmse_{\\C}$ is the minimum mean-square error (MMSE) in estimating an interfering data symbol from its noise-corrupted observation at the sensing receiver. Consequently, Gaussian interference is the worst case and corresponds to the CRB loss of the matched filtering, whereas finite-alphabet interference induces a non-monotonic CRB loss that peaks at intermediate INR and vanishes at high INR. The loss is waveform-independent for the flat-fading BS-BS link, and an expectation-maximization (EM) interference-cancellation receiver approaches the theoretical bound for delay estimation.",
-   "abstract_license": "cc0-1.0 (arxiv metadata)",
-   "arxiv": "2611.07577",
-   "authors": [
-    "Kawon Han",
-    "Kaitao Meng",
-    "Fan Liu",
-    "Christos Masouros"
-   ],
-   "categories": [
-    "arXiv:eess.SP"
-   ],
-   "cited_by_count": null,
-   "doi": null,
-   "is_retracted": null,
-   "keywords": [],
-   "language": "en",
-   "peer_reviewed": false,
-   "publication": "arXiv",
-   "publication_type": "preprint",
-   "published_date": "2026-11-05",
-   "related_versions": [],
-   "source_ids": [
-    "arxiv:2611.07577"
-   ],
-   "title": "When Does Inter-BS Interference Hurt Sensing in ISAC? An Exact Fisher Information Analysis under Finite-Alphabet Interference",
-   "topics": [],
-   "updated_date": "2026-11-05",
-   "url": "https://arxiv.org/abs/2611.07577"
-  },
-  "score": 5.02,
-  "seen": 2,
-  "suggested": "integrated-sensing-and-communication",
-  "title": "When Does Inter-BS Interference Hurt Sensing in ISAC? An Exact Fisher Information Analysis under Finite-Alphabet Interference",
-  "url": "https://arxiv.org/abs/2611.07577"
- },
- {
-  "added": "2026-11-07",
-  "arxiv": "2611.07734",
-  "candidates": [
-   [
-    "high-voltage-direct-current",
-    5.02
-   ],
-   [
-    "voltage-source-converter-hvdc",
-    3.51
-   ],
-   [
-    "state-space-models",
-    1.65
-   ]
-  ],
-  "confidence": "medium",
-  "doi": null,
-  "keys": [
-   "arxiv:2611.07734",
-   "title:datadrivencurrentcontrolofmodularmultilevelconverterbasedhvdctransmissionsystem|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "Model-based design (MBD) is a mature framework for designing the current controllers of modular multilevel converters (MMCs) in high-voltage direct current (HVDC) transmission systems. In MBD, linear state-space models are preferred for their good trade-off between accurate dynamics prediction and simplicity. However, first-principle derivations often neglect relevant MMC dynamics, which can hinder controller performance. Data-driven (DD) methods can deliver less biased models that capture parameter uncertainties, control-loop interactions, and grid dynamics, yet they remain under-exploited for controlling MMC currents. This paper studies DD current control method based on integral Subspace Predictive Control (iSPC), synthesized directly from input--output data measured in a high fidelity real-time digital simulator (RTDS), and proposes an initial guideline outlining the main steps for its systematic application to MMC current control. The proposed iSPC is compared against state-of-the-art DD solution, and the findings are validated through simulation studies in MATLAB/Simulink.",
-   "abstract_license": "cc0-1.0 (arxiv metadata)",
-   "arxiv": "2611.07734",
-   "authors": [
-    "Victor D. Reyes Dreke",
-    "Rahul Rane",
-    "Aleksandra Lekić"
-   ],
-   "categories": [
-    "arXiv:eess.SY"
-   ],
-   "cited_by_count": null,
-   "doi": null,
-   "is_retracted": null,
-   "keywords": [],
-   "language": "en",
-   "peer_reviewed": false,
-   "publication": "arXiv",
-   "publication_type": "preprint",
-   "published_date": "2026-11-05",
-   "related_versions": [],
-   "source_ids": [
-    "arxiv:2611.07734"
-   ],
-   "title": "Data-driven current control of modular multilevel converter-based HVDC transmission system",
-   "topics": [],
-   "updated_date": "2026-11-05",
-   "url": "https://arxiv.org/abs/2611.07734"
-  },
-  "score": 5.02,
-  "seen": 2,
-  "suggested": "high-voltage-direct-current",
-  "title": "Data-driven current control of modular multilevel converter-based HVDC transmission system",
-  "url": "https://arxiv.org/abs/2611.07734"
- },
- {
-  "added": "2026-11-14",
-  "arxiv": null,
-  "candidates": [
-   [
-    "turbulence",
-    3.51
-   ],
-   [
-    "atmospheric-sciences",
-    3.1
-   ],
-   [
-    "temperature-sensors",
-    1.2
-   ],
-   [
-    "lidar",
-    0.52
-   ],
-   [
-    "calibration",
-    0.26
-   ]
-  ],
-  "confidence": "medium",
-  "doi": "10.5194/essd-18-8229-2026",
-  "keys": [
-   "doi:10.5194/essd-18-8229-2026",
-   "title:themaestroturbulencedatasetderivedfromthesafireatr42aircraft|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "The MAESTRO airborne field campaign took place between 10 August and 10 September 2024 over the North Atlantic tropical ocean near the Cabo Verde Islands. Its goal was to investigate the processes that control the mesoscale organization of clouds with a payload of probes and sensors, as well as vertically and horizontally-pointing radars and lidars. A particular attention was given to the role of coherent structures in the boundary layer. This focus motivated the acquisition of high-resolution measurements of temperature and water vapor to capture turbulence dynamics in the subcloud layer. To achieve this, six hygrometers and four temperature sensors were deployed, including a new fast-rate hygrometer called FAST-WAVE. This article describes the turbulence dataset, prepared on the basis of these measurements. It consists of 25 Hz segmented time series of calibrated water vapor mixing ratio, temperature, and three-dimensional wind taken with an air speed of approximately 100 m s −1 , relative to the aircraft, their corresponding fluctuations, as well as statistical moments, covariance, and integral length scales. In total, 40 h of stabilized legs data were gathered in a wide range of mesoscale contexts and local cloud conditions, with nearly 13 h consisting of high-quality boundary-layer samples. This paper describes the methodological choices required to obtain the dataset, including calibrations, and corrections applied to the original measurements. The collection of NetCDF files composing this dataset is publicly available on the AERIS website (https://doi.org/10.25326/812#v7.0, Jaffeux and Lothon, 2025; see also https://maestro.aeris-data.fr/overview/, last access: 9 June 2026).",
-   "abstract_license": "cc-by",
-   "arxiv": null,
-   "authors": [
-    "Louis Jaffeux",
-    "Marie Lothon",
-    "Fleur Couvreux",
-    "Dominique Bouniol",
-    "Grégoire Cayez",
-    "Lilian Joly",
-    "Jérémie Burgalat",
-    "Cyrille De Saint Leger",
-    "Hubert Bellec",
-    "O. Henry",
-    "Dyaa Chbib",
-    "Tetyana Jiang",
-    "Gilles Vergez",
-    "Sandrine Bony"
-   ],
-   "categories": [
-    "OpenAlex-field:Earth and Planetary Sciences"
-   ],
-   "cited_by_count": 4,
-   "doi": "10.5194/essd-18-8229-2026",
-   "is_retracted": false,
-   "keywords": [
-    "atmospheric turbulence",
-    "subcloud layer",
-    "boundary layer",
-    "coherent structures",
-    "water vapor mixing ratio",
-    "temperature fluctuations",
-    "wind fluctuations",
-    "integral length scale",
-    "tropical oceans",
-    "Cape Verde",
-    "North Atlantic"
-   ],
-   "language": "en",
-   "oa_created": "2025-11-25",
-   "peer_reviewed": true,
-   "publication": "Earth system science data",
-   "publication_type": "article",
-   "published_date": "2026-11-11",
-   "related_versions": [],
-   "source_ids": [
-    "openalex:W4416768631"
-   ],
-   "title": "The MAESTRO turbulence dataset derived from the SAFIRE ATR42 aircraft",
-   "topics": [
-    "Meteorological Phenomena and Simulations",
-    "Atmospheric Science"
-   ],
-   "updated_date": "2026-11-13",
-   "url": "https://doi.org/10.5194/essd-18-8229-2026"
-  },
-  "score": 3.51,
-  "seen": 1,
-  "suggested": "turbulence",
-  "title": "The MAESTRO turbulence dataset derived from the SAFIRE ATR42 aircraft",
-  "url": "https://doi.org/10.5194/essd-18-8229-2026"
- },
- {
-  "added": "2026-11-14",
-  "arxiv": "2604.15260",
+  "added": "2026-11-16",
+  "arxiv": "2604.28131",
   "candidates": [
    [
     "particle-physics",
     3.48
+   ],
+   [
+    "quantum-chromodynamics",
+    3.1
    ]
   ],
   "confidence": "medium",
-  "doi": "10.1007/jhep11(2026)104",
+  "doi": "10.1103/s3r7-wj85",
   "keys": [
-   "arxiv:2604.15260",
-   "doi:10.1007/jhep11(2026)104",
-   "title:tamingthearetakisinstabilityextremalblackholeswithmultidegeneratehorizons|2026"
+   "arxiv:2604.28131",
+   "doi:10.1103/s3r7-wj85",
+   "title:simplifiedapproachtoextractingnucleontransversityincollinearfactorizationusingnearsideenergyenergycorrelators|2026"
   ],
   "reason": "orta güven: kesin konum için inceleme gerekli",
   "record": {
-   "abstract": "A bstract Stationary black hole geometries with non-degenerate Cauchy horizons are classically unstable due to mass inflation. At extremality, mass inflation is absent, but a different dynamical instability arises: the Aretakis instability. In this work, we investigate the properties of degenerate horizons and their associated Aretakis instabilities. By studying examples with increasingly higher-order horizon degeneracy, we show that the Aretakis instability weakens as the degree of degeneracy grows. Motivated by these results, we propose a new black hole geometry characterized by an infinitely degenerate horizon, which we argue is stable under Aretakis-type perturbations and may therefore provide a concrete realization of a “graveyard” end state for these objects.",
-   "abstract_license": "cc-by",
-   "arxiv": "2604.15260",
+   "abstract": "We develop a novel strategy for accessing the transversity parton distribution function (PDF) of the nucleon within collinear factorization using near-side energy-energy correlators in the dihadron fragmentation framework. We show how this removes the complications of previous approaches that must model either intrinsic parton transverse momentum or resonances in the invariant mass distribution of a final-state dihadron. We present leading-order analytical results for transverse-spin observables in semi-inclusive deep-inelastic scattering and electron-positron annihilation, highlighting their close similarity to the expressions one uses in extracting (un)polarized PDFs and (single-hadron) fragmentation functions in collinear factorization. We make predictions for kinematics relevant for existing and future facilities that demonstrate the feasibility of an energy-energy correlator program in extracting the transversity PDF.",
+   "abstract_license": null,
+   "arxiv": "2604.28131",
    "authors": [
-    "Shreyansh Agrawal",
-    "Panagiotis Charalambous",
-    "Laura Donnay",
-    "Stefano Liberati",
-    "Giulio Neri"
+    "Zhong-Bo Kang",
+    "Andreas Metz",
+    "Daniel Pitonyak",
+    "Congyue Zhang"
    ],
    "categories": [
     "OpenAlex-field:Physics and Astronomy"
    ],
-   "cited_by_count": 4,
-   "doi": "10.1007/jhep11(2026)104",
+   "cited_by_count": 5,
+   "doi": "10.1103/s3r7-wj85",
    "is_retracted": false,
    "keywords": [
-    "extremal black holes",
-    "degenerate horizons",
-    "mass inflation",
-    "black hole stability"
+    "collinear factorization",
+    "semi-inclusive deep inelastic scattering",
+    "electron-positron annihilation",
+    "fragmentation functions"
    ],
    "language": "en",
-   "oa_created": "2026-04-18",
+   "oa_created": "2026-05-02",
    "peer_reviewed": true,
-   "publication": "Journal of High Energy Physics",
+   "publication": "Physical review. D/Physical review. D.",
    "publication_type": "article",
-   "published_date": "2026-11-11",
+   "published_date": "2026-11-13",
    "related_versions": [],
    "source_ids": [
-    "openalex:W7154723334"
+    "openalex:W7159598197"
    ],
-   "title": "Taming the Aretakis instability: extremal black holes with multi-degenerate horizons",
+   "title": "Simplified approach to extracting nucleon transversity in collinear factorization using near-side energy-energy correlators",
    "topics": [
-    "Black Holes and Theoretical Physics",
+    "Quantum Chromodynamics and Particle Interactions",
     "Nuclear and High Energy Physics"
    ],
-   "updated_date": "2026-11-13",
-   "url": "https://doi.org/10.1007/jhep11(2026)104"
+   "updated_date": "2026-11-14",
+   "url": "https://doi.org/10.1103/s3r7-wj85"
   },
   "score": 3.48,
   "seen": 1,
   "suggested": "particle-physics",
-  "title": "Taming the Aretakis instability: extremal black holes with multi-degenerate horizons",
-  "url": "https://doi.org/10.1007/jhep11(2026)104"
- },
- {
-  "added": "2026-11-12",
-  "arxiv": "2611.13436",
-  "candidates": [
-   [
-    "plasma-wakefield-acceleration",
-    4.34
-   ],
-   [
-    "free-electron-lasers",
-    4.34
-   ],
-   [
-    "particle-physics",
-    3.48
-   ],
-   [
-    "accelerator-physics",
-    3.1
-   ],
-   [
-    "high-power-lasers",
-    1.78
-   ],
-   [
-    "light-sources",
-    1.2
-   ]
-  ],
-  "confidence": "medium",
-  "doi": null,
-  "keys": [
-   "arxiv:2611.13436",
-   "title:compactplasmabasedextremecompressionofrelativisticelectronbeams|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "Accelerated particle beams are essential tools of modern science and technology with applications ranging from medicine [1], to light sources [2], to high-energy physics [3]. Over time, as accelerator-based experiments become more sophisticated and probe natural phenomena with greater temporal resolution, there is an increasing demand on beam parameters, in particular on bunch duration. Experiments have been proposed that require beams with 1-2 orders of magnitude shorter durations than what is possible with current state-of-the-art technology. However, state-of-the-art temporal bunch compressors force a trade-off between how short an electron bunch can be made and how well its transverse quality survives the strong bending magnets required to do so -- a limitation that stands as a grand challenge for accelerator physics to-date [4]. In this experiment, we demonstrate a new, compact compression technique for generating ultrashort, high-peak-current electron bunches that circumvents this trade-off using plasma wakefield acceleration. Just as chirped pulse amplification unlocked ultrashort, high-power laser pulses and the technologies that followed from them, here we demonstrate an analogous chirp-and-compress strategy applied to relativistic electron beams by using the extreme electric fields of a plasma wakefield in place of a stretcher-amplifier, thereby unlocking the path to ultrashort, extremely high-current electron beams. We demonstrate the first application of this plasma-compressed bunch using it to drive single-microbunch free electron lasing at optical wavelengths in a single, meter-scale undulator module, producing radiation pulses roughly four orders of magnitude more energetic than the first beam-driven, plasma-based free electron laser demonstration at the same accelerator facility [5, 6].",
-   "abstract_license": "cc0-1.0 (arxiv metadata)",
-   "arxiv": "2611.13436",
-   "authors": [
-    "Rafi Hessami",
-    "Kelly K Swanson",
-    "Mario Galletti",
-    "Livio Verra",
-    "Angelo Biagioni",
-    "Lucio Crincoli",
-    "Mariano Carpanese",
-    "Martina Del Giorno",
-    "Francesco Demurtas",
-    "Giacomo Griseri",
-    "Valerio Lollo",
-    "Michele Opromolla",
-    "Federico Nguyen",
-    "Gianmarco Parise",
-    "Alberto Petralia",
-    "Gilles J Silvi",
-    "Federica Stocchi",
-    "Marco Zottola",
-    "Agostino Marinelli",
-    "Riccardo Pompili",
-    "Claudio Emma"
-   ],
-   "categories": [
-    "arXiv:physics.acc-ph",
-    "arXiv:physics.plasm-ph"
-   ],
-   "cited_by_count": null,
-   "doi": null,
-   "is_retracted": null,
-   "keywords": [],
-   "language": "en",
-   "peer_reviewed": false,
-   "publication": "arXiv",
-   "publication_type": "preprint",
-   "published_date": "2026-11-10",
-   "related_versions": [],
-   "source_ids": [
-    "arxiv:2611.13436"
-   ],
-   "title": "Compact plasma-based extreme compression of relativistic electron beams",
-   "topics": [],
-   "updated_date": "2026-11-10",
-   "url": "https://arxiv.org/abs/2611.13436"
-  },
-  "score": 5.27,
-  "seen": 1,
-  "suggested": "accelerator-physics",
-  "title": "Compact plasma-based extreme compression of relativistic electron beams",
-  "url": "https://arxiv.org/abs/2611.13436"
- },
- {
-  "added": "2026-11-06",
-  "arxiv": "2611.06065",
-  "candidates": [
-   [
-    "human-ai-interaction",
-    4.95
-   ],
-   [
-    "distillation",
-    0.26
-   ]
-  ],
-  "confidence": "medium",
-  "doi": "10.18653/2026.lmplayschool-1.3",
-  "keys": [
-   "arxiv:2611.06065",
-   "doi:10.18653/2026.lmplayschool-1.3",
-   "title:processprefbenchevaluatingcrosstasktransferofindividualprocesspreferencesfromnaturalistichumanaiinteraction|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "In natural human-AI dialogue, users' corrections, requests, and self-descriptions carry reusable signals about how they want work to be done. These signals reveal individual process preferences, user-specific standards for evidence, depth, analytical focus, procedure, and delivery. We ask whether a preference revealed in one dialogue can shape an assistant's later answer when the task does not restate it. ProcessPrefBench uses three months of natural dialogues from two knowledge workers to build 66 source-target cases separately judged for source evidence and target applicability. Sources are preselected, so the benchmark tests application rather than retrieval. We test three models with target-only, full-history, and distilled-preference prompts. Target-specific 0-2 rubrics score preference realization, and a task gate flags severe failures. Compared with target-only prompting, full-history and imperative distilled-preference prompting raise preference realization by 0.204 and 0.244 points on the 0-2 scale, respectively, with no reliable advantage from distillation. Fabricated-evidence failures rise from 5.8% under target-only prompting to 10.1% under full-history and 10.4% under imperative prompting. ProcessPrefBench highlights a tension in learning from dialogue, where drawing on prior interactions can improve preference realization yet also invite fabricated evidence. We hope it helps build assistants that honor a user's process preferences without sacrificing factual reliability.",
-   "abstract_license": "cc0-1.0 (arxiv metadata)",
-   "arxiv": "2611.06065",
-   "authors": [
-    "Yiwen Yang",
-    "Guanming Liu"
-   ],
-   "categories": [
-    "arXiv:cs.CL"
-   ],
-   "cited_by_count": null,
-   "doi": "10.18653/2026.lmplayschool-1.3",
-   "is_retracted": null,
-   "keywords": [],
-   "language": "en",
-   "peer_reviewed": null,
-   "publication": "The Proceedings of Improving Language Models through Learning from Dialogue Game Interaction, pages 30-40, Association for Computational Linguistics, 2026",
-   "publication_type": "preprint",
-   "published_date": "2026-11-04",
-   "related_versions": [
-    {
-     "doi": "10.18653/2026.lmplayschool-1.3",
-     "journal_ref": "The Proceedings of Improving Language Models through Learning from Dialogue Game Interaction, pages 30-40, Association for Computational Linguistics, 2026",
-     "relation": "published_version",
-     "source": "arxiv"
-    }
-   ],
-   "source_ids": [
-    "arxiv:2611.06065"
-   ],
-   "title": "ProcessPrefBench: Evaluating Cross-Task Transfer of Individual Process Preferences from Naturalistic Human-AI Interaction",
-   "topics": [],
-   "updated_date": "2026-11-04",
-   "url": "https://arxiv.org/abs/2611.06065"
-  },
-  "score": 4.95,
-  "seen": 2,
-  "suggested": "human-ai-interaction",
-  "title": "ProcessPrefBench: Evaluating Cross-Task Transfer of Individual Process Preferences from Naturalistic Human-AI Interaction",
-  "url": "https://arxiv.org/abs/2611.06065"
- },
- {
-  "added": "2026-11-07",
-  "arxiv": "2611.07438",
-  "candidates": [
-   [
-    "decoder-only-transformers",
-    4.95
-   ],
-   [
-    "power-transformers",
-    1.05
-   ]
-  ],
-  "confidence": "medium",
-  "doi": null,
-  "keys": [
-   "arxiv:2611.07438",
-   "title:polygptadecoderonlytransformerforpolymerelectrolytedesign|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "Designing polymer electrolytes requires control over both material properties and chemical structure. Here, we present PolyGPT, a Transformer with 38.3 million parameters that generates polymer repeat units from optional property targets, requests to include or exclude a specified chemical feature, and an electrolyte-domain condition. Using the model selected by validation loss, we compared unconditional generation with requests for electrolyte-associated structures, a low glass-transition temperature (Tg), or both. Unconditional and electrolyte-only generation achieved structural validity of 99.46% and 99.59%, respectively. However, electrolyte conditioning increased repetition: uniqueness among valid outputs fell from 99.99% to 51.74%. At a Tg target of 246.11 K, we compared generation with and without electrolyte conditioning, and adding the electrolyte condition slightly reduced the predictor-estimated mean absolute error from 26.97 to 26.07 K, but the fraction of all attempts yielding distinct valid polymers within 50 K of the target fell from 82.35% to 32.31%. When we also required absence from the training catalog, these yields were 59.90% and 19.71%, respectively. The lower yield persisted with a tighter 25 K tolerance. Domain conditioning also weakened control of inclusion requests: the mean fraction of attempts producing valid polymers containing the requested chemical feature fell from 94.27% to 31.27%. Across nine checkpoints, earlier models sometimes produced more distinct, catalog-unseen polymers meeting the Tg target: 10,000 checkpoint model with electrolyte conditioning and 30,000 checkpoint model without it. Together, these results show why property error alone is insufficient for evaluating conditional polymer generation. It must be considered alongside repetition, training-catalog novelty, and whether combined design requests are satisfied.",
-   "abstract_license": "cc0-1.0 (arxiv metadata)",
-   "arxiv": "2611.07438",
-   "authors": [
-    "Tanmay Sarkar Akash",
-    "Siddhartha Das"
-   ],
-   "categories": [
-    "arXiv:cond-mat.mtrl-sci",
-    "arXiv:physics.chem-ph"
-   ],
-   "cited_by_count": null,
-   "doi": null,
-   "is_retracted": null,
-   "keywords": [],
-   "language": "en",
-   "peer_reviewed": false,
-   "publication": "arXiv",
-   "publication_type": "preprint",
-   "published_date": "2026-11-05",
-   "related_versions": [],
-   "source_ids": [
-    "arxiv:2611.07438"
-   ],
-   "title": "PolyGPT: A Decoder-Only Transformer for Polymer Electrolyte Design",
-   "topics": [],
-   "updated_date": "2026-11-05",
-   "url": "https://arxiv.org/abs/2611.07438"
-  },
-  "score": 4.95,
-  "seen": 2,
-  "suggested": "decoder-only-transformers",
-  "title": "PolyGPT: A Decoder-Only Transformer for Polymer Electrolyte Design",
-  "url": "https://arxiv.org/abs/2611.07438"
- },
- {
-  "added": "2026-11-07",
-  "arxiv": "2611.07392",
-  "candidates": [
-   [
-    "text-to-image-generation",
-    4.94
-   ],
-   [
-    "mixture-of-experts",
-    3.7
-   ],
-   [
-    "foundation-models",
-    3.1
-   ],
-   [
-    "clustering",
-    1.85
-   ],
-   [
-    "distillation",
-    0.33
-   ],
-   [
-    "power-transformers",
-    0.26
-   ]
-  ],
-  "confidence": "medium",
-  "doi": null,
-  "keys": [
-   "arxiv:2611.07392",
-   "title:welmimageaunifiedimagegenerationmodeltowardsvisualintelligence|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "We present \\textbf{WeLM-Image}, a unified image foundation model that integrates multimodal understanding into text-to-image generation, instruction-guided editing, and multi-reference synthesis. Designed for single-GPU deployment in WeChat's large-scale consumer applications, the model processes text, reference images, and target latents as one interleaved sequence. A Mixture-of-Transformers (MoT) backbone combines shared attention with independent understanding and generation parameters to limit optimization interference. Equipping each path with Mixture-of-Experts (MoE) modules provides sparse capacity, with 31.7B stored parameters and approximately 5.4B generation parameters activated per target latent token. A generation-oriented data engine combines a knowledge-grounded visual vocabulary with large-scale visual clustering to balance semantic coverage and editing tasks, while training-time evaluation guides iterative data refinement. Bilingual annotations and verified editing supervision support progressive training up to native 1.5K resolution. We optimize generation and editing separately with rubric- and checklist-based rewards, then consolidate the specialized policies through noise-aware on-policy distillation. In the reported overall comparisons, the 1536-resolution model ranks first among the evaluated open-source models on PRISM-Bench, Qwen-Image-Bench, and UnicBench. MeanFlow-based few-step distillation yields WeLM-Image-Turbo, which generates a $1024\\times1024$ image in 4.98\\,s on a single NVIDIA H20 GPU using eight guidance-free steps.",
-   "abstract_license": "cc0-1.0 (arxiv metadata)",
-   "arxiv": "2611.07392",
-   "authors": [
-    "Canmiao Fu",
-    "Chen Li",
-    "Guohui Zhang",
-    "Hao Lu",
-    "Hongyang Wei",
-    "Huadong Wu",
-    "Huaisong Zhang",
-    "Hubery Yin",
-    "Liyuan Cui",
-    "Qixin Yan",
-    "Tong Shao",
-    "Xiaoqiang Zhou",
-    "Xinhang Leng",
-    "Ying Zhang",
-    "Zhenhai Liu",
-    "Zhipeng Huang"
-   ],
-   "categories": [
-    "arXiv:cs.CV",
-    "arXiv:cs.AI"
-   ],
-   "cited_by_count": null,
-   "doi": null,
-   "is_retracted": null,
-   "keywords": [],
-   "language": "en",
-   "peer_reviewed": false,
-   "publication": "arXiv",
-   "publication_type": "preprint",
-   "published_date": "2026-11-05",
-   "related_versions": [],
-   "source_ids": [
-    "arxiv:2611.07392"
-   ],
-   "title": "WeLM-Image: A Unified Image Generation Model towards Visual Intelligence",
-   "topics": [],
-   "updated_date": "2026-11-05",
-   "url": "https://arxiv.org/abs/2611.07392"
-  },
-  "score": 4.94,
-  "seen": 2,
-  "suggested": "text-to-image-generation",
-  "title": "WeLM-Image: A Unified Image Generation Model towards Visual Intelligence",
-  "url": "https://arxiv.org/abs/2611.07392"
- },
- {
-  "added": "2026-11-06",
-  "arxiv": "2611.05882",
-  "candidates": [
-   [
-    "conflict-free-replicated-data-types",
-    4.9
-   ],
-   [
-    "two-phase-locking",
-    4.5
-   ],
-   [
-    "optimistic-concurrency-control",
-    4.5
-   ],
-   [
-    "concurrency-control",
-    3.5
-   ],
-   [
-    "speculative-execution",
-    3.1
-   ],
-   [
-    "time-projection-chambers",
-    0.45
-   ]
-  ],
-  "confidence": "medium",
-  "doi": null,
-  "keys": [
-   "arxiv:2611.05882",
-   "title:optimizinggeoreplicateddeterministicdatabases|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "In transactional databases, achieving active-active replication among geo-distributed replicas is challenging due to the high coordination cost in ensuring the serializability of concurrent cross-node transactions. Deterministic concurrency control (DCC) has emerged as a promising alternative: it establishes a global order for a batch of transactions before execution and thereby amortizes this coordination cost across the batch. To better understand the performance characteristics of DCC, we conduct a theoretical analysis of traditional two-phase locking and optimistic concurrency control to account for geo-replication and introduce a model for DCC. We compare the three paradigms and identify the conditions under which DCC is advantageous. Guided by the insights from this analysis, we then present Quirinus, a DCC-based geo-replicated database that optimizes transaction execution through speculative execution, transaction reordering, integration of conflict-free replicated data types (CRDTs), and fast-path commit. Even without these optimizations, Quirinus achieves up to 6.2x the TPC-C throughput of Tiga under our configuration.",
-   "abstract_license": "cc0-1.0 (arxiv metadata)",
-   "arxiv": "2611.05882",
-   "authors": [
-    "Yunhao Mao",
-    "Shiquan Zhang",
-    "Gengrui Zhang",
-    "Hans-Arno Jacobsen"
-   ],
-   "categories": [
-    "arXiv:cs.DB"
-   ],
-   "cited_by_count": null,
-   "doi": null,
-   "is_retracted": null,
-   "keywords": [],
-   "language": "en",
-   "peer_reviewed": false,
-   "publication": "arXiv",
-   "publication_type": "preprint",
-   "published_date": "2026-11-04",
-   "related_versions": [],
-   "source_ids": [
-    "arxiv:2611.05882"
-   ],
-   "title": "Optimizing Geo-replicated Deterministic Databases",
-   "topics": [],
-   "updated_date": "2026-11-04",
-   "url": "https://arxiv.org/abs/2611.05882"
-  },
-  "score": 4.9,
-  "seen": 2,
-  "suggested": "conflict-free-replicated-data-types",
-  "title": "Optimizing Geo-replicated Deterministic Databases",
-  "url": "https://arxiv.org/abs/2611.05882"
- },
- {
-  "added": "2026-11-08",
-  "arxiv": null,
-  "candidates": [
-   [
-    "positron-emission-tomography",
-    3.88
-   ],
-   [
-    "hybrid-imaging",
-    2.94
-   ],
-   [
-    "oncology",
-    1.85
-   ],
-   [
-    "next-generation-sequencing",
-    1.65
-   ]
-  ],
-  "confidence": "medium",
-  "doi": "10.1093/oncolo/oyag440",
-  "keys": [
-   "doi:10.1093/oncolo/oyag440",
-   "title:clinicalandmolecularevolutionduringpanitumumabcontainingtherapyinegframplifiedesophagogastricadenocarcinoma|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "Esophagogastric adenocarcinoma (EGA) is an aggressive malignancy with limited targeted treatment options. EGFR amplification defines a molecular subset associated with response to EGFR-directed therapy, although mechanisms of resistance remain poorly characterized. We present a 66-year-old man with EGFR-amplified metastatic EGA who achieved a metabolic response on positron emission tomography-CT (PET/CT) during panitumumab-containing therapy, accompanied by loss of detectable EGFR amplification on serial plasma circulating tumor DNA (ctDNA). At progression, repeat tissue biopsy demonstrated HER2 IHC 2+/SISH-positive disease not identified at baseline, and next-generation sequencing identified ERBB2 and KRAS amplifications. These findings suggest ERBB2-mediated bypass signaling as a potential mechanism of resistance to EGFR inhibition, with concurrent KRAS amplification as a possible contributor. It also demonstrates the utility of longitudinal tissue and plasma profiling to capture tumor evolution, identify potential resistance mechanisms, and inform adaptive treatment strategies.",
-   "abstract_license": "cc-by",
-   "arxiv": null,
-   "authors": [
-    "Devyn Taylor Coskey",
-    "Kruti Bhagirath Vora",
-    "Yin Guo",
-    "Ryan H. Moy"
-   ],
-   "categories": [
-    "OpenAlex-field:Medicine"
-   ],
-   "cited_by_count": 0,
-   "doi": "10.1093/oncolo/oyag440",
-   "is_retracted": false,
-   "keywords": [
-    "esophagogastric adenocarcinoma",
-    "EGFR amplification",
-    "panitumumab",
-    "circulating tumor DNA",
-    "HER2 amplification",
-    "KRAS amplification",
-    "tumor evolution",
-    "metastatic cancer",
-    "adaptive treatment strategies"
-   ],
-   "language": "en",
-   "oa_created": "2026-11-06",
-   "peer_reviewed": true,
-   "publication": "The Oncologist",
-   "publication_type": "article",
-   "published_date": "2026-11-04",
-   "related_versions": [],
-   "source_ids": [
-    "openalex:W7225348281"
-   ],
-   "title": "Clinical and Molecular Evolution During Panitumumab-Containing Therapy in EGFR-Amplified Esophagogastric Adenocarcinoma",
-   "topics": [
-    "Gastric Cancer Management and Outcomes",
-    "Oncology"
-   ],
-   "updated_date": "2026-11-07",
-   "url": "https://doi.org/10.1093/oncolo/oyag440"
-  },
-  "score": 3.88,
-  "seen": 2,
-  "suggested": "positron-emission-tomography",
-  "title": "Clinical and Molecular Evolution During Panitumumab-Containing Therapy in EGFR-Amplified Esophagogastric Adenocarcinoma",
-  "url": "https://doi.org/10.1093/oncolo/oyag440"
- },
- {
-  "added": "2026-11-06",
-  "arxiv": "2611.05812",
-  "candidates": [
-   [
-    "uncertainty-estimation-in-deep-learning",
-    4.86
-   ]
-  ],
-  "confidence": "medium",
-  "doi": null,
-  "keys": [
-   "arxiv:2611.05812",
-   "title:uncertaintyawarepredictionfromincompleteclinicalrecordsaconformalpredictionstudyofparkinsonianclassificationusingcopndata|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "Background: Incomplete clinical records and imbalanced diagnostic groups complicate Parkinsonian classification. We examined whether incomplete records could support useful lists of diagnostic possibilities through conformal prediction, assessing how often the lists retained the recorded diagnosis, their length and the uncertainty remaining. Methods: We analyzed records from 3,434 Canadian Open Parkinson Network participants: 2,853 with Parkinson's disease, 171 in the atypical Parkinsonian group (AP) and 410 healthy controls. In three repeats of five-fold cross-validation, we compared single-category predictions, conformal prediction sets and lists combined across 21 analyses using alternative models and assumptions about missing entries. An information deficit score summarized unavailable information. Results: The median proportion of eligible predictor entries unrecorded per participant was 75.6%. Single-category prediction correctly classified 89.29% of test records (balanced accuracy 55.40%), but only 10.33% of AP records. Conformal prediction sets included the recorded category in 93.35% of evaluation records and averaged 1.846 categories; combined lists increased inclusion to approximately 99% and averaged 2.289 categories. AP inclusion increased from 98.05% to 100%. Combined lists averaged 1.010 more categories in the group with the greatest information deficit than in the group with the least (95% interval 0.996-1.023). Conclusions: Even with extensive missing information and imbalanced diagnostic groups, clinical records can support informative prediction when uncertainty is quantified and expressed through sets of possible diagnoses rather than a single label. Joint assessment of list length and information deficit showed both the narrowing achieved and the records for which all three categories remained open.",
-   "abstract_license": "cc0-1.0 (arxiv metadata)",
-   "arxiv": "2611.05812",
-   "authors": [
-    "Jiaqi Bi",
-    "Jialu Sun",
-    "Hanrui Dou",
-    "Jiaqi Yuan",
-    "Chengqian Xian",
-    "Osvaldo Espin-Garcia",
-    "for the Canadian Open Parkinson Network"
-   ],
-   "categories": [
-    "arXiv:stat.AP"
-   ],
-   "cited_by_count": null,
-   "doi": null,
-   "is_retracted": null,
-   "keywords": [],
-   "language": "en",
-   "peer_reviewed": false,
-   "publication": "arXiv",
-   "publication_type": "preprint",
-   "published_date": "2026-11-04",
-   "related_versions": [],
-   "source_ids": [
-    "arxiv:2611.05812"
-   ],
-   "title": "Uncertainty aware prediction from incomplete clinical records: a conformal prediction study of Parkinsonian classification using C-OPN data",
-   "topics": [],
-   "updated_date": "2026-11-04",
-   "url": "https://arxiv.org/abs/2611.05812"
-  },
-  "score": 4.86,
-  "seen": 2,
-  "suggested": "uncertainty-estimation-in-deep-learning",
-  "title": "Uncertainty aware prediction from incomplete clinical records: a conformal prediction study of Parkinsonian classification using C-OPN data",
-  "url": "https://arxiv.org/abs/2611.05812"
- },
- {
-  "added": "2026-11-07",
-  "arxiv": "2611.07607",
-  "candidates": [
-   [
-    "block-codes",
-    4.86
-   ]
-  ],
-  "confidence": "medium",
-  "doi": null,
-  "keys": [
-   "arxiv:2611.07607",
-   "title:combinatoriallimitationsoflistdecodingreedsolomoncodes|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "For infinitely many rates $R \\in (0,1)$, we show that full-length Reed-Solomon codes over fields of low characteristic can contain super-polynomially many codewords in a Hamming ball of radius just exceeding the Johnson radius. Over prime fields, we exhibit full-length Reed-Solomon codes of constant rate $R$ with polynomially many codewords in a Hamming ball of relative radius bounded strictly below $1-R$. This refutes a recent conjecture that, over prime fields, list sizes below capacity are always bounded by a constant. Together, these results demonstrate that certain restrictions in recent works on explicit Reed-Solomon codes achieving list-decoding capacity, related to the choice of field or evaluation points or to the list-size guarantee, are inherent.",
-   "abstract_license": "cc0-1.0 (arxiv metadata)",
-   "arxiv": "2611.07607",
-   "authors": [
-    "Omar Alrabiah",
-    "Rohan Goyal",
-    "Venkatesan Guruswami"
-   ],
-   "categories": [
-    "arXiv:cs.IT",
-    "arXiv:cs.CC"
-   ],
-   "cited_by_count": null,
-   "doi": null,
-   "is_retracted": null,
-   "keywords": [],
-   "language": "en",
-   "peer_reviewed": false,
-   "publication": "arXiv",
-   "publication_type": "preprint",
-   "published_date": "2026-11-05",
-   "related_versions": [],
-   "source_ids": [
-    "arxiv:2611.07607"
-   ],
-   "title": "Combinatorial limitations of list-decoding Reed-Solomon codes",
-   "topics": [],
-   "updated_date": "2026-11-05",
-   "url": "https://arxiv.org/abs/2611.07607"
-  },
-  "score": 4.86,
-  "seen": 2,
-  "suggested": "block-codes",
-  "title": "Combinatorial limitations of list-decoding Reed-Solomon codes",
-  "url": "https://arxiv.org/abs/2611.07607"
- },
- {
-  "added": "2026-11-15",
-  "arxiv": "2611.16177",
-  "candidates": [
-   [
-    "orthogonal-time-frequency-space",
-    5.16
-   ],
-   [
-    "modulation",
-    1.85
-   ]
-  ],
-  "confidence": "medium",
-  "doi": null,
-  "keys": [
-   "arxiv:2611.16177",
-   "title:realtimelowcomplexityzakotfswithsuperimposedspreadpilotsongpus|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "Orthogonal time frequency space (OTFS) modulation offers robust performance under high-mobility scenarios. Spread pilots distribute pilot energy across the delay-Doppler grid and are superimposed with data symbols, enabling full-grid resource utilization. However, pilot-data separation challenges the design of the real-time receiver pipeline: cross-ambiguity in channel sensing incurs high computational complexity, and pilot-data interference cancellation requires repeated processing through turbo iterations. Leveraging the chirp structure of OTFS spread pilots, we reduce cross-ambiguity to a single 2D IFFT with element-wise chirp operations, achieving over 7000x speedup compared to partially vectorized direct evaluation on GPUs at a frame size of (M, N)=(2053, 31). Our real-time GPU baseband processing pipeline for OTFS with superimposed spread pilots supports (M, N)=(2053, 31) with one turbo iteration within a 1.03 ms latency budget. We further show that larger frames increase processing gain, allowing lower pilot power and near-converged bit error rate (BER) after one turbo iteration.",
-   "abstract_license": "cc0-1.0 (arxiv metadata)",
-   "arxiv": "2611.16177",
-   "authors": [
-    "Chung-Hsuan Tung",
-    "Junyao Zheng",
-    "Vineetha Yogesh",
-    "Mudasir Ahmad Sheikh",
-    "Danish Nisar",
-    "Robert Calderbank",
-    "Tingjun Chen"
-   ],
-   "categories": [
-    "arXiv:eess.SP"
-   ],
-   "cited_by_count": null,
-   "doi": null,
-   "is_retracted": null,
-   "keywords": [],
-   "language": "en",
-   "peer_reviewed": false,
-   "publication": "arXiv",
-   "publication_type": "preprint",
-   "published_date": "2026-11-12",
-   "related_versions": [],
-   "source_ids": [
-    "arxiv:2611.16177"
-   ],
-   "title": "Real-Time Low-Complexity Zak-OTFS with Superimposed Spread Pilots on GPUs",
-   "topics": [],
-   "updated_date": "2026-11-12",
-   "url": "https://arxiv.org/abs/2611.16177"
-  },
-  "score": 5.16,
-  "seen": 1,
-  "suggested": "orthogonal-time-frequency-space",
-  "title": "Real-Time Low-Complexity Zak-OTFS with Superimposed Spread Pilots on GPUs",
-  "url": "https://arxiv.org/abs/2611.16177"
- },
- {
-  "added": "2026-11-09",
-  "arxiv": "2605.04161",
-  "candidates": [
-   [
-    "molecular-physics",
-    3.1
-   ]
-  ],
-  "confidence": "medium",
-  "doi": "10.1103/y3lr-y91n",
-  "keys": [
-   "arxiv:2605.04161",
-   "doi:10.1103/y3lr-y91n",
-   "title:quantumstatetextureofdynamicalcriticality|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "We investigate the role of quantum state texture in dynamical quantum phase transitions by establishing a direct connection between critical nonequilibrium dynamics and the recently introduced notion of rugosity, a measure of quantum state texture. Considering a generic quench protocol, we analyze both standard formulations of dynamical quantum phase transitions. For type-I transitions, characterized through the long-time behavior of a dynamical order parameter, we show that the time-averaged rugosity, evaluated in the eigenbasis of the pre-quench Hamiltonian, exhibits an order-parameter-like behavior across the transition. In the Lipkin-Meshkov-Glick model, this behavior is traced back to the underlying semiclassical structure, where crossing the excited-state quantum phase transition separatrix controls the redistribution of the quantum state over the pre-quench energy basis. We further demonstrate that the response function associated with the time-averaged rugosity develops a pronounced critical peak whose maximum grows algebraically with the system size, providing quantitative finite-size evidence of its sensitivity to the dynamical critical point. For type-II transitions, characterized by nonanalyticities in the Loschmidt rate function, we establish an exact connection with rugosity. For a suitable choice of basis, the rate function is exactly given by the density of rugosity, establishing a model-independent equivalence. Moreover, we show that even in physically motivated bases, such as the pre-quench energy eigenbasis, rugosity provides clear signatures of dynamical criticality. Our results establish rugosity as a sensitive probe of dynamical quantum phase transitions while highlighting its role as a basis-dependent measure of quantum state texture, thereby providing an information-theoretic perspective on nonequilibrium quantum critical phenomena.",
-   "abstract_license": null,
-   "arxiv": "2605.04161",
-   "authors": [
-    "Lucas C. Céleri",
-    "Krissia Zawadzki",
-    "Ivan Medina",
-    "Diogo O. Soares-Pinto"
-   ],
-   "categories": [
-    "OpenAlex-field:Physics and Astronomy"
-   ],
-   "cited_by_count": 7,
-   "doi": "10.1103/y3lr-y91n",
-   "is_retracted": false,
-   "keywords": [
-    "rugosity",
-    "dynamical quantum phase transitions",
-    "dynamical criticality",
-    "quench dynamics",
-    "Lipkin-Meshkov-Glick model",
-    "dynamical order parameter",
-    "finite-size scaling",
-    "basis dependence"
-   ],
-   "language": "en",
-   "oa_created": "2026-05-08",
-   "peer_reviewed": true,
-   "publication": "Physical Review A",
-   "publication_type": "article",
-   "published_date": "2026-11-06",
-   "related_versions": [],
-   "source_ids": [
-    "openalex:W7160540495"
-   ],
-   "title": "Quantum state texture of dynamical criticality",
-   "topics": [
-    "Quantum many-body systems",
-    "Atomic and Molecular Physics, and Optics"
-   ],
-   "updated_date": "2026-11-08",
-   "url": "https://doi.org/10.1103/y3lr-y91n"
-  },
-  "score": 3.1,
-  "seen": 1,
-  "suggested": "molecular-physics",
-  "title": "Quantum state texture of dynamical criticality",
-  "url": "https://doi.org/10.1103/y3lr-y91n"
- },
- {
-  "added": "2026-11-05",
-  "arxiv": "2611.04244",
-  "candidates": [
-   [
-    "sketches",
-    4.82
-   ],
-   [
-    "multimodal-foundation-models",
-    2.1
-   ]
-  ],
-  "confidence": "medium",
-  "doi": null,
-  "keys": [
-   "arxiv:2611.04244",
-   "title:countersketchphysicsgroundedcounterfactualreasoningforsketchtovideogeneration|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "Counterfactual sketch animation explores how a static sketch evolves under a hypothetical intervention. We present CounterSketch, a physics-grounded framework that transforms natural-language ``What if...?'' queries into physically plausible sketch animations. The framework integrates VLM-guided scene grounding, causal event-chain reasoning, constraint-based trajectory generation, and verification. It models physical transitions to update the scene graph, computes continuous object trajectories, and validates them against physical, geometric, and semantic constraints. The verified trajectories are then projected into object-level motion bounding boxes to guide downstream sketch-video synthesis. Experiments on CounterSketchBench (80 questions) demonstrate that physics-grounded trajectories provide stronger motion guidance than direct VLM predictions.",
-   "abstract_license": "cc0-1.0 (arxiv metadata)",
-   "arxiv": "2611.04244",
-   "authors": [
-    "Hien Trinh",
-    "Tan-Hiep To",
-    "Dinh-Khoi Vo",
-    "Tam V. Nguyen",
-    "Minh-Triet Tran",
-    "Trung-Nghia Le"
-   ],
-   "categories": [
-    "arXiv:cs.CV"
-   ],
-   "cited_by_count": null,
-   "doi": null,
-   "is_retracted": null,
-   "keywords": [],
-   "language": "en",
-   "peer_reviewed": false,
-   "publication": "arXiv",
-   "publication_type": "preprint",
-   "published_date": "2026-11-03",
-   "related_versions": [],
-   "source_ids": [
-    "arxiv:2611.04244"
-   ],
-   "title": "CounterSketch: Physics-Grounded Counterfactual Reasoning for Sketch-to-Video Generation",
-   "topics": [],
-   "updated_date": "2026-11-03",
-   "url": "https://arxiv.org/abs/2611.04244"
-  },
-  "score": 4.82,
-  "seen": 2,
-  "suggested": "sketches",
-  "title": "CounterSketch: Physics-Grounded Counterfactual Reasoning for Sketch-to-Video Generation",
-  "url": "https://arxiv.org/abs/2611.04244"
- },
- {
-  "added": "2026-11-06",
-  "arxiv": "2611.05999",
-  "candidates": [
-   [
-    "ofdm",
-    4.82
-   ],
-   [
-    "design-for-testability",
-    2.1
-   ],
-   [
-    "metasurfaces",
-    1.85
-   ],
-   [
-    "structured-illumination-microscopy",
-    1.8
-   ],
-   [
-    "density-functional-theory",
-    0.45
-   ],
-   [
-    "analysis",
-    0.39
-   ]
-  ],
-  "confidence": "medium",
-  "doi": null,
-  "keys": [
-   "arxiv:2611.05999",
-   "title:simenabledwavedomainprocessinginmimoofdmreceiversarchitecturemodelingandvalidation|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "This paper develops a wave-domain linear receiver for wideband MIMO-OFDM, where the main high-dimensional linear processing conventionally performed after sampling is physically shifted to propagation through stacked intelligent metasurfaces (SIMs). The proposed receiver transforms receive-port waveforms into OFDM-domain symbols through three cascaded SIM-enabled functional sections. The first section, SIM_1, performs channel-memory processing and channel shortening in an energy-concentration sense, suppressing the out-of-cyclic-prefix (CP) effective tail before OFDM analysis. SIM_2 realizes CP removal and discrete Fourier transform (DFT) analysis as cyclic-windowed OFDM matched filtering by exploiting useful-window memory and analytical Fourier phase coding. SIM_3 implements residual virtual-subcarrier MIMO linear detection, completing the wave-domain linear receive chain up to symbol slicing. Synchronization, control, slicing, and decoding remain digital, while the dominant linear receive operations are moved to the wave domain. A staged configuration framework is developed: the numerology-dependent OFDM analyzer is compiled offline, whereas the channel-dependent memory processor and detector are configured over the coherence time using architecture-aware learning-assisted control. Numerical results validate both functional replacement and link performance, confirming nearly lossless replacement under CP-sufficient MIMO-OFDM conditions, with robustness to residual timing offsets and effective channel-delay-profile perturbations. Substantial gains under CP-insufficient channels are also demonstrated by suppressing out-of-CP leakage before OFDM analysis.",
-   "abstract_license": "cc0-1.0 (arxiv metadata)",
-   "arxiv": "2611.05999",
-   "authors": [
-    "Zheao Li",
-    "Jiancheng An",
-    "Chau Yuen"
-   ],
-   "categories": [
-    "arXiv:eess.SP"
-   ],
-   "cited_by_count": null,
-   "doi": null,
-   "is_retracted": null,
-   "keywords": [],
-   "language": "en",
-   "peer_reviewed": false,
-   "publication": "arXiv",
-   "publication_type": "preprint",
-   "published_date": "2026-11-04",
-   "related_versions": [],
-   "source_ids": [
-    "arxiv:2611.05999"
-   ],
-   "title": "SIM-Enabled Wave-Domain Processing in MIMO-OFDM Receivers: Architecture, Modeling, and Validation",
-   "topics": [],
-   "updated_date": "2026-11-04",
-   "url": "https://arxiv.org/abs/2611.05999"
-  },
-  "score": 4.82,
-  "seen": 2,
-  "suggested": "ofdm",
-  "title": "SIM-Enabled Wave-Domain Processing in MIMO-OFDM Receivers: Architecture, Modeling, and Validation",
-  "url": "https://arxiv.org/abs/2611.05999"
- },
- {
-  "added": "2026-11-05",
-  "arxiv": "2611.04115",
-  "candidates": [
-   [
-    "machine-learning",
-    4.8
-   ]
-  ],
-  "confidence": "medium",
-  "doi": null,
-  "keys": [
-   "arxiv:2611.04115",
-   "title:multifidelitymachinelearningforpredictingstartupstressgrowthandstrainhardeninginwormlikemicellarsolutions|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "Wormlike micellar solutions exhibit formulation-dependent nonlinear startup responses, including stress overshoot, undershoot, and strain hardening, making prediction across compositions and shear rates challenging. We developed a multi-fidelity machine-learning framework to predict stress-growth curves in cetylpyridinium chloride (CPyCl)-based wormlike micelles from sparse experimental measurements. The framework combines a low-fidelity analytical model describing the overall startup response with high-fidelity experimental data capturing formulation-specific nonlinear features. This approach addresses the limited and uneven coverage of salt chemistry, concentration, and shear rate without relying solely on data-intensive neural-network training. The trained model predicts complete stress-growth responses at untested shear rates and enables extraction of strain-hardening characteristics from interpolated curves. By augmenting sparse rheological measurements, the framework provides a basis for exploring relationships among formulation variables, linear viscoelastic properties, and nonlinear startup behavior, while supporting more efficient characterization of wormlike micellar solutions.",
-   "abstract_license": "cc0-1.0 (arxiv metadata)",
-   "arxiv": "2611.04115",
-   "authors": [
-    "Saghar Zolfaghari",
-    "Nunzia Lauriello",
-    "Ilaria Cusano",
-    "Marcello Ferranti",
-    "Rossana Pasquino",
-    "Safa Jamali"
-   ],
-   "categories": [
-    "arXiv:cond-mat.soft"
-   ],
-   "cited_by_count": null,
-   "doi": null,
-   "is_retracted": null,
-   "keywords": [],
-   "language": "en",
-   "peer_reviewed": false,
-   "publication": "arXiv",
-   "publication_type": "preprint",
-   "published_date": "2026-11-03",
-   "related_versions": [],
-   "source_ids": [
-    "arxiv:2611.04115"
-   ],
-   "title": "Multi-Fidelity Machine Learning for Predicting Startup Stress Growth and Strain Hardening in Wormlike Micellar Solutions",
-   "topics": [],
-   "updated_date": "2026-11-03",
-   "url": "https://arxiv.org/abs/2611.04115"
-  },
-  "score": 4.8,
-  "seen": 2,
-  "suggested": "machine-learning",
-  "title": "Multi-Fidelity Machine Learning for Predicting Startup Stress Growth and Strain Hardening in Wormlike Micellar Solutions",
-  "url": "https://arxiv.org/abs/2611.04115"
+  "title": "Simplified approach to extracting nucleon transversity in collinear factorization using near-side energy-energy correlators",
+  "url": "https://doi.org/10.1103/s3r7-wj85"
  }
 ]

@@ -77,7 +77,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **3**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **4**.
 
 - [Adaptive Anomaly Detection Method for Distributed Internet of Things Systems under Non-Stationary Traffic Conditions](Arastirmalar/2026-Andreev-Adaptive-Anomaly-Detection-Method.md) — Andreev vd. (2026) · *Proceedings of Telecommunication Universities* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -89,6 +89,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [A Design of Intelligent Autonomous Mining with Dynamic Time Warping Through Deep Learning for End-to-End Industrial Internet of Things Application](Endustriyel-Nesnelerin-Interneti/Arastirmalar/2026-Satyavathi-Design-Intelligent-Autonomous-Mining.md) — Satyavathi vd. (2026) · *The International Journal of Maritime Engineering* · hakemli
 - [Adaptive confidence-aware deep authentication framework for secure industrial Internet of Things](Endustriyel-Nesnelerin-Interneti/Arastirmalar/2026-Kalyanakumar-Adaptive-confidence-aware-deep.md) — Kalyanakumar vd. (2026) · *Scientific Reports* · hakemli
 - [Fuzzy-clustering–based multi-scale intrusion detection for the industrial internet of things](Endustriyel-Nesnelerin-Interneti/Arastirmalar/2026-Yang-Fuzzy-clusteringbased-multi-scale.md) — Yang vd. (2026) · *PLoS ONE* · hakemli
 - [Adaptive Anomaly Detection Method for Distributed Internet of Things Systems under Non-Stationary Traffic Conditions](Arastirmalar/2026-Andreev-Adaptive-Anomaly-Detection-Method.md) — Andreev vd. (2026) · *Proceedings of Telecommunication Universities* · hakemli

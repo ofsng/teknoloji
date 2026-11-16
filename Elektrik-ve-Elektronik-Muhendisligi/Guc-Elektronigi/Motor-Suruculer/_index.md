@@ -77,7 +77,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -88,6 +88,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
 - [Full-Speed-Range Sensorless Direct Torque Control of a Two-Level Interior Permanent Magnet Synchronous Motor Drive Using Hybrid High-Frequency Injection Model Reference Adaptive Control Estimation](Dogrudan-Moment-Kontrolu/Arastirmalar/2026-Choudhary-Full-Speed-Range-Sensorless.md) — Choudhary vd. (2026) · *Energies* · hakemli
+- [EFFECT OF MAGNETIC SATURATION ON INDIRECT FIELD-ORIENTED CONTROL SYSTEMS FOR INDUCTION MOTORS](Alan-Yonlendirmeli-Kontrol/Arastirmalar/2026-Peresada-EFFECT-MAGNETIC-SATURATION-INDIRECT.md) — Peresada vd. (2026) · *Tekhnichna Elektrodynamika* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar
