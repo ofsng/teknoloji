@@ -85,7 +85,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -95,6 +95,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Low-Damping and Lightweight Advantages of Suspending Inerter-Enabled Tuned Mass Dampers](Deprem-Muhendisligi/Yapisal-Kontrol/Arastirmalar/2026-Zhao-Low-Damping-and-Lightweight.md) — Zhao vd. (2026) · *Journal of Structural Engineering* · hakemli
 - [Experimental assessment of a disc spring–supported seismic friction damper (DSS-SFD) for reinforced concrete structures](Betonarme-Yapilar/Arastirmalar/2026-Suk-Experimental-assessment-disc-springsupported.md) — Suk (2026) · *Journal of Vibration and Control* · hakemli
 <!-- AUTO:RECENT:END -->
 

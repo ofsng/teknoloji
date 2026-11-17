@@ -78,7 +78,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -88,6 +88,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Assessment of directed water vapor radiometer-based tropospheric corrections in GNSS precise point positioning](Kuresel-Uydu-Seyrusefer-Sistemleri/Hassas-Nokta-Konumlama/Arastirmalar/2026-Vollmair-Assessment-directed-water-vapor.md) — Vollmair vd. (2026) · *GPS Solutions* · hakemli
 - [Study of options for constructing a low-orbit addition to the global navigation satellite system](Kuresel-Uydu-Seyrusefer-Sistemleri/Arastirmalar/2026-Spesivtsev-Study-options-for-constructing.md) — Spesivtsev vd. (2026) · *Journal of Radio Electronics* · hakemli
 <!-- AUTO:RECENT:END -->
 

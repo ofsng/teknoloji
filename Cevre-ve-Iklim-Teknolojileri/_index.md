@@ -86,7 +86,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **16**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **17**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -97,13 +97,13 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
 - [Converting Urban Solid Waste to Energy in Enugu Urban Area, Southeast, Nigeria](Kati-Atik-Yonetimi/Atiktan-Enerji/Arastirmalar/2026-Onyia-Converting-Urban-Solid-Waste.md) — Onyia (2026) · *WORLD JOURNAL OF INNOVATION AND MODERN TECHNOLOGY* · hakemli
+- [Sustainability in the Brewing Industry: A Review of Brewing Waste Valorization and Wastewater Treatment](Su-Aritma/Atik-Su-Aritma/Arastirmalar/2026-Drosou-Sustainability-the-Brewing-Industry.md) — Drosou vd. (2026) · *Sustainability* · hakemli
 - [Occurrence, Bioaccumulation, and Biomagnification of Organophosphate Flame Retardants in Aquatic and Terrestrial Food Chains from a Former E-Waste Recycling Region, South China](Kati-Atik-Yonetimi/Geri-Donusum-Teknolojileri/Elektronik-Atik-Geri-Donusumu/Arastirmalar/2026-Liu-Occurrence-Bioaccumulation-and-Biomagnificat.md) — Liu vd. (2026) · *Toxics* · hakemli
 - [Mathematical unification of methods for hybrid life cycle assessment](Yasam-Dongusu-Degerlendirmesi/Arastirmalar/2026-Weinold-Mathematical-unification-methods-for.md) — Weinold vd. (2026) · *Journal of Industrial Ecology* · hakemli
 - [Regional seawater-chemistry controls on ocean alkalinity enhancement efficiency: Carbonate precipitation risk under pH-equilibrated OAE](Karbon-Yonetimi/Karbondioksit-Giderimi/Okyanus-Alkalinite-Artirimi/Arastirmalar/2026-Alamooti-Regional-seawater-chemistry-controls.md) — Alamooti vd. (2026) · *Marine Pollution Bulletin* · hakemli
 - [A IoT-Enabled Multisensor Air Quality Monitoring with Edge-Based AQI Computation and Intelligent Mobile Analytics](Cevresel-Izleme/Hava-Kalitesi-Izleme/Arastirmalar/2026-N-IoT-Enabled-Multisensor-Air.md) — N vd. (2026) · *Iconic Research and Engineering Journals* · hakemli
 - [Artificial intelligence for water quality monitoring: a PRISMA-based systematic literature review, taxonomy, comparative analysis, and future research directions](Cevresel-Izleme/Su-Kalitesi-Izleme/Arastirmalar/2026-Rani-Artificial-intelligence-for-water.md) — Rani vd. (2026) · *Artificial Intelligence Review* · hakemli
 - [Machine Learning-Based Prediction and Interpretation of Aluminum and Iron Coagulant Dosages in Drinking Water Treatment](Su-Aritma/Icme-Suyu-Aritma/Arastirmalar/2026-Lian-Machine-Learning-Based-Prediction.md) — Lian vd. (2026) · *Sustainability* · hakemli
-- [China's urban rail transit carbon peak: when and how – a dynamic life cycle assessment](Yasam-Dongusu-Degerlendirmesi/Arastirmalar/2026-Huang-China-urban-rail-transit.md) — Huang vd. (2026) · *Proceedings of the Institution of Civil Engineers - Engineering Sustainability* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

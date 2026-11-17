@@ -90,7 +90,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **131**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **145**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -100,14 +100,14 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Explainable breast cancer classification using machine learning deep learning and transfer learning across multiple data modalities](Yapay-Zeka/Makine-Ogrenmesi/Aktarim-Ogrenmesi/Arastirmalar/2026-Tiwari-Explainable-breast-cancer-classification.md) — Tiwari vd. (2026) · *Discover Computing* · hakemli
+- [A subspecialty diagnostic system powered by self-supervised learning for cervical histopathology](Yapay-Zeka/Makine-Ogrenmesi/Oz-Gozetimli-Ogrenme/Arastirmalar/2026-Wang-subspecialty-diagnostic-system-powered.md) — Wang vd. (2026) · *Nature Communications* · hakemli · atıf: 2
 - [Bio-Inspired Vehicular Ad-Hoc Network Routing Protocol A Review for VANET Security](Bilgisayar-Aglari/Ad-Hoc-ve-Orgu-Aglar/Aracsal-Ad-Hoc-Aglar/Arastirmalar/2026-Fadhil-Bio-Inspired-Vehicular-Hoc.md) — Fadhil vd. (2026) · *Journal of Information and Cybersecurity* · hakemli
 - [A Design of Intelligent Autonomous Mining with Dynamic Time Warping Through Deep Learning for End-to-End Industrial Internet of Things Application](Bilgisayar-Aglari/Nesnelerin-Interneti/Endustriyel-Nesnelerin-Interneti/Arastirmalar/2026-Satyavathi-Design-Intelligent-Autonomous-Mining.md) — Satyavathi vd. (2026) · *The International Journal of Maritime Engineering* · hakemli
 - [Physically Based Rendering in the Latent Space](Bilgisayar-Grafikleri/Goruntu-Olusturma/Fiziksel-Tabanli-Goruntu-Olusturma/Arastirmalar/2026-Radovanovic-Physically-Based-Rendering-the.md) — Radovanovic vd. (2026) · *Computer Graphics Forum* · hakemli
 - [Secure Data Replication in Edge and Fog Computing Environments](Dagitik-ve-Paralel-Hesaplama/Kenar-ve-Sis-Hesaplama/Arastirmalar/2026-Alalibo-Secure-Data-Replication-Edge.md) — Alalibo (2026) · *INTERNATIONAL JOURNAL OF COMPUTER SCIENCE AND MATHEMATICAL THEORY E-ISSN* · hakemli
 - [Reinforcement Learning to Rank Using Coarse-grained Rewards](Veritabanlari-ve-Bilgi-Sistemleri/Bilgi-Erisimi/Siralamayi-Ogrenme/Arastirmalar/2026-Tu-Reinforcement-Learning-Rank-Using.md) — Tu vd. (2026) · *ACM Transactions on Information Systems* · hakemli · atıf: 7
 - [Motorcycle Rider Face Detection: An Experiment with R-CNN and Faster R-CNN](Yapay-Zeka/Bilgisayarli-Goru/Nesne-Tespiti/Iki-Asamali-Dedektorler/Arastirmalar/2026-Muhaqiqin-Motorcycle-Rider-Face-Detection.md) — Muhaqiqin vd. (2026) · *Journal of Artificial Intelligence and Technology Information (JAITI)* · hakemli
-- [Securing Agentic AI Enterprise Workflows Against Prompt Injection Tool Poisoning Memory Manipulation and Excessive Agency Threats](Yapay-Zeka/Cok-Etmenli-Sistemler/LLM-Tabanli-Etmenler/Arastirmalar/2026-Nwakamma-Securing-Agentic-Enterprise-Workflows.md) — Nwakamma (2026) · *WORLD JOURNAL OF INNOVATION AND MODERN TECHNOLOGY* · hakemli · atıf: 18
-- [Stein discrepancy for unsupervised domain adaptation](Yapay-Zeka/Makine-Ogrenmesi/Aktarim-Ogrenmesi/Alan-Uyarlama/Arastirmalar/2026-Seeger-Stein-discrepancy-for-unsupervised.md) — Seeger vd. (2026) · *Statistics and Computing* · hakemli · atıf: 1
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

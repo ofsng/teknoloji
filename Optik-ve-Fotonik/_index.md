@@ -96,7 +96,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **15**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **19**.
+
+- [Beyond the lossless idealization: disturbance, losses, and real-air detection limits of a topological photonic crystal gas sensor](Arastirmalar/2026-Elsayed-Beyond-the-lossless-idealization.md) — Elsayed vd. (2026) · *Modern Physics Letters B* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -106,14 +108,14 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [ANALYSIS OF ELECTRIC CROSSTALK IN SILICON PHOTONIC INTEGRATED CIRCUITS](Tumlesik-Fotonik/Silisyum-Fotonik/Arastirmalar/2026-Abaychi-ANALYSIS-ELECTRIC-CROSSTALK-SILICON.md) — Abaychi vd. (2026) · *Kufa Journal of Engineering* · hakemli
 - [High-harmonic generation during ultrafast melting of a Mott insulating state](Dogrusal-Olmayan-Optik/Yuksek-Harmonik-Uretimi/Arastirmalar/2026-Ikeda-High-harmonic-generation-during.md) — Ikeda vd. (2026) · *Nature Photonics* · hakemli · atıf: 4
 - [Ultra-low-intensity noise broadband femtosecond pulse generation in an Er-doped all-fiber laser](Lazerler/Fiber-Lazerler/Arastirmalar/2026-Yan-Ultra-low-intensity-noise.md) — Yan vd. (2026) · *Advanced Photonics Nexus* · hakemli
+- [Beyond the lossless idealization: disturbance, losses, and real-air detection limits of a topological photonic crystal gas sensor](Arastirmalar/2026-Elsayed-Beyond-the-lossless-idealization.md) — Elsayed vd. (2026) · *Modern Physics Letters B* · hakemli
 - [Mapping the High-Field Response of Superconducting Nanowire Single-Photon Detectors](Fotodedektorler/Superiletken-Nanotel-Tek-Foton-Dedektorleri/Arastirmalar/2026-Agarwal-Mapping-the-High-Field.md) — Agarwal vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [Rational Selection of Hole Contacts with an Organic Light-Emitting Diode Industry p-Dopant for Fully Vacuum-Processed Perovskite/Silicon Tandems](Isik-Kaynaklari/Organik-Isik-Yayan-Diyotlar/Arastirmalar/2026-Moon-Rational-Selection-Hole-Contacts.md) — Moon vd. (2026) · *ACS Energy Letters* · hakemli
 - [Dynamic electrical control of on-chip second-harmonic generation with ferroelectric NbOBr2](Dogrusal-Olmayan-Optik/Harmonik-Uretimi/Arastirmalar/2026-Gong-Dynamic-electrical-control-chip.md) — Gong vd. (2026) · *Nature Nanotechnology* · hakemli · atıf: 4
 - [Transient epitaxial dynamics and cascade continuity in long-duration terahertz quantum cascade laser growth](Lazerler/Yari-Iletken-Lazerler/Kuantum-Kaskad-Lazerler/Arastirmalar/2026-Li-Transient-epitaxial-dynamics-and.md) — Li vd. (2026) · *Journal of Applied Physics* · hakemli
-- [Biomass-derived bamboo photonic crystals for narrowband lasing](Fotonik-Kristaller/Arastirmalar/2026-Yao-Biomass-derived-bamboo-photonic.md) — Yao vd. (2026) · *Communications Materials* · hakemli
-- [Simulation of Electron Trapping in Polymer Light-Emitting Diodes](Isik-Kaynaklari/Isik-Yayan-Diyotlar/Arastirmalar/2026-Paltidis-Simulation-Electron-Trapping-Polymer.md) — Paltidis vd. (2026) · *ACS Omega* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

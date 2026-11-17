@@ -78,7 +78,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **6**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **8**.
 
 - [Solar Energy Transition in a Pilgrimage City: A Document-Based Assessment of Renewable Energy Planning and Tourism Growth in Ayodhya, India](Arastirmalar/2026-Kumar-Solar-Energy-Transition-Pilgrimage.md) — Kumar vd. (2026) · *Physical Science International Journal* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -91,10 +91,12 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
 - [Optimizing the Performance of Perovskite Solar Cells through Triple-Diode Model: Achieving Maximum Power Conversion Efficiency and Minimizing Statistical Errors](Fotovoltaik/Perovskit-Gunes-Hucreleri/Arastirmalar/2026-Subash-Optimizing-the-Performance-Perovskite.md) — Subash vd. (2026) · *Journal of Circuits Systems and Computers* · hakemli
+- [Modelling annual wave-induced loss for floating photovoltaics under realistic weather conditions](Fotovoltaik/Yuzer-Fotovoltaik/Arastirmalar/2026-Nysted-Modelling-annual-wave-induced.md) — Nysted vd. (2026) · *Solar Energy* · hakemli
 - [Physics-informed neural modeling of TiO2 photoanode thickness-dependent electron transport and photovoltaic performance in dye-sensitized solar cells](Fotovoltaik/Boya-Duyarli-Gunes-Hucreleri/Arastirmalar/2026-Naidu-Physics-informed-neural-modeling.md) — Naidu vd. (2026) · *Journal of Computational Electronics* · hakemli
 - [Robust Multi-Objective Sizing and Operation of an Autonomous Bifacial Photovoltaic Water-Supply Pumping System](Fotovoltaik/Cift-Yuzlu-Fotovoltaik/Arastirmalar/2026-Belsky-Robust-Multi-Objective-Sizing.md) — Belsky vd. (2026) · *Energies* · hakemli
 - [Solar Energy Transition in a Pilgrimage City: A Document-Based Assessment of Renewable Energy Planning and Tourism Growth in Ayodhya, India](Arastirmalar/2026-Kumar-Solar-Energy-Transition-Pilgrimage.md) — Kumar vd. (2026) · *Physical Science International Journal* · hakemli
 - [Evaluation of a Dye-Sensitized Solar Cell (DSSC) device based on Agaricus bisporus extract](Fotovoltaik/Boya-Duyarli-Gunes-Hucreleri/Arastirmalar/2026-Zavala-Barba-Evaluation-Dye-Sensitized-Solar.md) — Zavala-Barba vd. (2026) · *ECORFAN Journal Republic of Guatemala* · hakemli
+- [Influence of row spacings on the thermal performance of floating photovoltaic arrays at the Occhito Dam reservoir, Italy: A numerical study](Fotovoltaik/Yuzer-Fotovoltaik/Arastirmalar/2026-Jahromi-Influence-row-spacings-the.md) — Jahromi vd. (2026) · *Solar Energy* · hakemli
 - [Techno-Economic Assessment of Dish/Stirling Concentrated Solar Power Systems in Saudi Arabia: New Path to Sustainability](Yogunlastirilmis-Gunes-Enerjisi/Arastirmalar/2026-Zayed-Techno-Economic-Assessment-Dish.md) — Zayed vd. (2026) · *Solar* · hakemli
 <!-- AUTO:RECENT:END -->
 

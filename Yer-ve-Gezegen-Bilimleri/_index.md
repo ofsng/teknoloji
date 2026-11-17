@@ -85,7 +85,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **7**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **8**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -95,6 +95,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Mapping of Areas Affected by the Eruption of Mount Marapi in West Sumatra Using the Differential Interferometric Synthetic Aperture Radar (DInSAR) Method](Uzaktan-Algilama/Yapay-Aciklikli-Radar/Arastirmalar/2026-Sari-Mapping-Areas-Affected-the.md) — Sari vd. (2026) · *Journal of Multidisciplinary Science MIKAILALSYS* · hakemli
 - [Toward Spectrally Consistent Solar Radiative Coupling Between the Atmosphere and the Cryosphere in Earth System Models](Iklim-Bilimi/Iklim-Modelleme/Yer-Sistemi-Modelleri/Arastirmalar/2026-Tolento-Toward-Spectrally-Consistent-Solar.md) — Tolento vd. (2026) · *Journal of Geophysical Research Atmospheres* · hakemli
 - [Distributed acoustic sensing for marine mammal monitoring](Jeofizik/Sismoloji/Dagitik-Akustik-Algilama/Arastirmalar/2026-Bouffaut-Distributed-acoustic-sensing-for.md) — Bouffaut (2026) · *Methods in Ecology and Evolution* · hakemli · atıf: 1
 - [Ground-Penetrating Radar Evaluation for Detecting Subsurface Defects in Reinforced Concrete Slabs through Controlled Laboratory Investigation](Jeofizik/Arama-Jeofizigi/Yere-Nufuz-Eden-Radar/Arastirmalar/2026-Hedjazi-Ground-Penetrating-Radar-Evaluation.md) — Hedjazi vd. (2026) · *Transportation Research Record Journal of the Transportation Research Board* · hakemli

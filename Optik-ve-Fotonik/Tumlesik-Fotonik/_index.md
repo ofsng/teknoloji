@@ -80,7 +80,10 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **3**.
+
+- [PROPEL: A Memory-Driven, Adaptive Vector-Flow-Field Router with Process-Aware Waveguide Generation for Large-Scale Photonic Integrated Circuits](Arastirmalar/2026-Akib-PROPEL-Memory-Driven-Adaptive.md) — Akib vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [Design and automated testing of foundry-based high-contrast photonic integrated circuit distributed Bragg reflectors](Arastirmalar/2026-Blatcher-Design-and-automated-testing.md) — Blatcher vd. (2026) · *Journal of Optics* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -88,7 +91,11 @@ Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
-_Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini göstermez; ön baskılar hakemli değildir._
+Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
+
+- [ANALYSIS OF ELECTRIC CROSSTALK IN SILICON PHOTONIC INTEGRATED CIRCUITS](Silisyum-Fotonik/Arastirmalar/2026-Abaychi-ANALYSIS-ELECTRIC-CROSSTALK-SILICON.md) — Abaychi vd. (2026) · *Kufa Journal of Engineering* · hakemli
+- [Design and automated testing of foundry-based high-contrast photonic integrated circuit distributed Bragg reflectors](Arastirmalar/2026-Blatcher-Design-and-automated-testing.md) — Blatcher vd. (2026) · *Journal of Optics* · hakemli
+- [PROPEL: A Memory-Driven, Adaptive Vector-Flow-Field Router with Process-Aware Waveguide Generation for Large-Scale Photonic Integrated Circuits](Arastirmalar/2026-Akib-PROPEL-Memory-Driven-Adaptive.md) — Akib vd. (2026) · *arXiv* · ön baskı / hakemsiz
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

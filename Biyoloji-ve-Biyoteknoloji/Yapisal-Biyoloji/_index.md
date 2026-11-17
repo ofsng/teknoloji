@@ -80,7 +80,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -88,7 +88,10 @@ Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
-_Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini göstermez; ön baskılar hakemli değildir._
+Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
+
+- [Tuned Fitness Landscapes for Benchmarking Model-Guided Protein Design](Protein-Tasarimi/Arastirmalar/2026-Thomas-Tuned-Fitness-Landscapes-for.md) — Thomas vd. (2026) · *Genetics* · hakemli · atıf: 7
+- [Cerebra: A computationally efficient framework for accurate protein structure prediction](Protein-Yapi-Tahmini/Arastirmalar/2026-Hu-Cerebra-computationally-efficient-framework.md) — Hu vd. (2026) · *Protein Science* · hakemli · atıf: 5
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

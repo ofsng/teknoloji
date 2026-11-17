@@ -91,7 +91,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **6**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **7**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -102,6 +102,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
 - [SoK: Post-Quantum Cryptography (PQC) Integration in Software Development: Approaches, Gaps, and Future Directions](Kuantum-Sonrasi-Kriptografi/Arastirmalar/2026-N-SoK-Post-Quantum-Cryptography.md) — N. vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [Deep-learning side-channel analysis of embedded ML-KEM: Single-trace message recovery, cross-device generalization, and frequency-band leakage characterization](Kuantum-Sonrasi-Kriptografi/Kafes-Tabanli-Kriptografi/Hatalarla-Ogrenme/Arastirmalar/2026-Kuo-Deep-learning-side-channel.md) — Kuo vd. (2026) · *PLoS ONE* · hakemli
 - [Fully homomorphic encryption on LlaMA 3 model for partial privacy preserving LLM inference](Homomorfik-Sifreleme/Tam-Homomorfik-Sifreleme/Arastirmalar/2026-Abdennebi-Fully-homomorphic-encryption-LlaMA.md) — Abdennebi vd. (2026) · *Journal of Systems Architecture* · hakemli · atıf: 1
 <!-- AUTO:RECENT:END -->
 

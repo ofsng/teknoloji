@@ -577,6 +577,69 @@
   "url": "https://arxiv.org/abs/2611.16184"
  },
  {
+  "added": "2026-11-17",
+  "arxiv": "2611.19117",
+  "candidates": [
+   [
+    "dark-energy",
+    8.7
+   ],
+   [
+    "physics-informed-neural-networks",
+    8.54
+   ],
+   [
+    "acoustics",
+    1.85
+   ],
+   [
+    "hamiltonian-monte-carlo",
+    1.65
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.19117",
+   "title:testinggeneralrelativitybyreconstructingdarkenergyandthegrowthindexwithphysicsinformedneuralnetworks|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "We extend the Cosmo-PINN, a physics-informed neural network for model-independent cosmological reconstruction, to reconstruct the dark energy equation of state parameter $w_{\\mathrm{DE}}(z)$ and the growth index $γ(z)$ of matter perturbations. The reconstruction is performed through three modules: the background module, the matter growth module, and the growth index module. The background module learns the dark energy density $ρ_{\\mathrm{DE}}(z)$ from cosmological observations, and $w_{\\mathrm{DE}}(z)$ is reconstructed through the residual of the conservation equation. The reconstructed background is then passed to the other two modules, which reconstruct the observables $f(z)$ and $fσ_{8}(z)$ either directly from the linear perturbation equation of General Relativity or through an independently reconstructed growth index $γ(z)$. Comparing the two reconstructions on the same background provides a consistency test of the underlying physical framework. The network is trained on the DESI DR2 Baryon Acoustic Oscillations, Cosmic Chronometers, Type Ia Supernovae, and redshift-space distortion data. Posterior uncertainties for the reconstructed cosmological parameters and functions are obtained through Hamiltonian Monte Carlo sampling. For the different data combinations, the posterior median of the present-day dark energy equation of state lies within the range $w_{\\mathrm{DE,0}}\\in \\lbrack -0.930,-0.867]$, while the phantom divide crossing takes place at $z\\simeq 0.41$--$0.53$. The posterior median of the present-day growth index reconstructed from the data lies within $γ_{0}\\simeq 0.60$--$0.62$, indicating suppression of the growth of cosmic structure.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.19117",
+   "authors": [
+    "Andronikos Paliathanasis"
+   ],
+   "categories": [
+    "arXiv:astro-ph.CO",
+    "arXiv:gr-qc"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-14",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.19117"
+   ],
+   "title": "Testing General Relativity by Reconstructing Dark Energy and the Growth Index with Physics-Informed Neural Networks",
+   "topics": [],
+   "updated_date": "2026-11-14",
+   "url": "https://arxiv.org/abs/2611.19117"
+  },
+  "score": 8.7,
+  "seen": 1,
+  "suggested": "dark-energy",
+  "title": "Testing General Relativity by Reconstructing Dark Energy and the Growth Index with Physics-Informed Neural Networks",
+  "url": "https://arxiv.org/abs/2611.19117"
+ },
+ {
   "added": "2026-11-16",
   "arxiv": null,
   "candidates": [
@@ -3297,6 +3360,67 @@
   "suggested": "hexagonal-boron-nitride",
   "title": "Double-quantum enhanced coherent control and magnetic sensing of spin defects in hexagonal boron nitride",
   "url": "https://arxiv.org/abs/2611.13447"
+ },
+ {
+  "added": "2026-11-17",
+  "arxiv": "2611.19049",
+  "candidates": [
+   [
+    "qubit-technologies",
+    7.26
+   ],
+   [
+    "machine-learning",
+    1.2
+   ],
+   [
+    "power-transformers",
+    0.26
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.19049",
+   "title:machinelearnedactivespacesenablequantumcalculationsofspinstateenergeticsoftransitionmetalcomplexesonquantumhardware|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Multireference calculations on transition-metal complexes, on classical or quantum hardware, depend on the choice of active space. The orbitals that belong in it are those that are strongly entangled in the correlated wavefunction, but measuring this entanglement requires the very correlated calculation that the active space is meant to make affordable. Here we present SpinAware, a machine-learning model that predicts density-matrix renormalization group (DMRG) single-orbital entropies and orbital-pair mutual information from the unrestricted Hartree-Fock (UHF) solution of each spin state, without any correlated calculation. Each of the 20 highest occupied and 20 lowest unoccupied orbitals is described by 60 descriptors computed from the UHF solution, among them the differences between its alpha and beta occupations and energies, its metal-d and ligand character, and its exchange coupling to the other orbitals, and a transformer predicts the entropy of each orbital in the context of all others. Trained on 3454 spin-pure DMRG calculations on mononuclear Cr-Ni complexes, the model transfers to experimentally characterized complexes with ligands, binding topologies, oxidation states and metals absent from training. Over 11 spin states it reproduces the DMRG entropy profiles with a mean absolute error of 0.027, and combining the predicted entropies with the predicted mutual information gives a candidate pool that contains 99% of the DMRG-active orbitals of the benchmark spin states while keeping, on average, only 15 of the 40 orbitals. Natural-orbital occupation scans then select compact active spaces from this pool for a nickel and a cobalt complex. Sample-based quantum diagonalization with samples from IBM quantum processors reproduces the exact CASCI energies of these spaces to within 0.3 kcal/mol and their spin-state gaps to within 0.10 kcal/mol for up to 32 qubits.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.19049",
+   "authors": [
+    "Muhammad Arsalan Ali Akbar",
+    "Thomas D. Kühne",
+    "Sabre Kais",
+    "Werner Dobrautz"
+   ],
+   "categories": [
+    "arXiv:quant-ph"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-14",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.19049"
+   ],
+   "title": "Machine-learned active spaces enable quantum calculations of spin-state energetics of transition-metal complexes on quantum hardware",
+   "topics": [],
+   "updated_date": "2026-11-14",
+   "url": "https://arxiv.org/abs/2611.19049"
+  },
+  "score": 7.26,
+  "seen": 1,
+  "suggested": "qubit-technologies",
+  "title": "Machine-learned active spaces enable quantum calculations of spin-state energetics of transition-metal complexes on quantum hardware",
+  "url": "https://arxiv.org/abs/2611.19049"
  },
  {
   "added": "2026-11-13",
@@ -7630,6 +7754,62 @@
   "url": "https://doi.org/10.17586/2220-8054-2026-17-5-610-620"
  },
  {
+  "added": "2026-11-17",
+  "arxiv": "2611.19123",
+  "candidates": [
+   [
+    "llm-based-agents",
+    5.82
+   ],
+   [
+    "agent-architectures",
+    3.1
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.19123",
+   "title:beyondplainmcpdodecisionmodelsandcodemodemaketoolusecheaperandfaster|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Model Context Protocol (MCP) gateways manage tool catalogs for language model agents using two primary paradigms: code mode where agents write scripts against tool stubs and decision layers which are cheap routers that preselect tool subsets. Using a controlled harness across 12 servers, up to 1,958 distractor tools, and three open-weight agents including Qwen, Gemma, and Nemotron, we present a preregistered evaluation on a sealed test split to determine when each approach succeeds. Code mode substantially outperforms plain MCP, cutting token usage by 70 to 90 percent while significantly boosting utility. Declaring return-shape hints in code mode stubs is a first-order variable, swinging success by up to 39.5 points for lower-performing agents, an effect larger than adding a router. The central hypothesis that a decision layer in front of code mode beats code mode alone is not confirmed, showing minor, statistically non-significant improvements for weaker agents and a slight cost for the strongest. We publicly release our harness, a finetuned 4B tool selection model, and all evaluation traces to support robust community experimentation on local AI privacy and agent architectures.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.19123",
+   "authors": [
+    "Abhishek Rai"
+   ],
+   "categories": [
+    "arXiv:cs.SE",
+    "arXiv:cs.AI",
+    "arXiv:cs.CL"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-14",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.19123"
+   ],
+   "title": "Beyond Plain MCP: Do Decision Models and Code Mode Make Tool Use Cheaper and Faster?",
+   "topics": [],
+   "updated_date": "2026-11-14",
+   "url": "https://arxiv.org/abs/2611.19123"
+  },
+  "score": 5.82,
+  "seen": 1,
+  "suggested": "llm-based-agents",
+  "title": "Beyond Plain MCP: Do Decision Models and Code Mode Make Tool Use Cheaper and Faster?",
+  "url": "https://arxiv.org/abs/2611.19123"
+ },
+ {
   "added": "2026-11-14",
   "arxiv": "2605.25473",
   "candidates": [
@@ -8734,6 +8914,78 @@
   "suggested": "sketches",
   "title": "Sketch-Omni: Instance-Level Sketch-Based Visual Prompting for Perception MLLMs",
   "url": "https://arxiv.org/abs/2611.04262"
+ },
+ {
+  "added": "2026-11-17",
+  "arxiv": "2611.19109",
+  "candidates": [
+   [
+    "graph-attention-networks",
+    5.61
+   ],
+   [
+    "long-short-term-memory",
+    4.94
+   ],
+   [
+    "intrusion-detection-systems",
+    3.88
+   ],
+   [
+    "deep-learning",
+    3.1
+   ],
+   [
+    "anomaly-detection",
+    3.1
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.19109",
+   "title:stgataleakagefreespatiotemporalgraphattentionframeworkforrobustnetworkintrusiondetection|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Intrusion detection systems are a central defence in modern networks. Deep learning models report strong anomaly-detection results, but evaluations on standard benchmarks such as CSE-CIC-IDS-2018 are often inflated by two methodological problems: temporal leakage from overlapping sliding windows, and contamination from preprocessing fitted before the train/test split. Per-flow classifiers also ignore the spatio-temporal dependencies across sequences of network flows. We propose a Spatio-Temporal Graph Attention Network (ST-GAT) that represents traffic as a sequence of graph snapshots. It builds k-Nearest Neighbour (k-NN) edges within each window, applies multi-head Graph Attention Network (GAT) layers for spatial aggregation, and uses a Bidirectional Long Short-Term Memory (BiLSTM) network with temporal attention for sequence modelling. To prevent leakage, we use non-overlapping temporal windows (stride equal to window length) and fit all preprocessing on the training split only. We compare three class-imbalance strategies: inverse class-frequency weighting, dynamic balanced sampling, and few-shot metric prototyping. Across three random seeds, ST-GAT with inverse class weighting reached a Macro-F1 of 96.65% (+/- 0.87) and an accuracy of 99.14%. This is 14.3 percentage points higher in Macro-F1 than a per-flow Random Forest baseline (82.34%). Balanced sampling reduced Macro-F1 by 2.3 points (to 94.37%) relative to loss weighting. This suggests that aggressive resampling of small, noisy minority classes can hurt detection in heavily imbalanced traffic.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.19109",
+   "authors": [
+    "Nikhil Parkar",
+    "Sanskar Pandey",
+    "Siddhi Prajapati",
+    "Suganeshwari G",
+    "Syed Ibrahim"
+   ],
+   "categories": [
+    "arXiv:cs.CR",
+    "arXiv:cs.AI",
+    "arXiv:cs.LG"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-14",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.19109"
+   ],
+   "title": "ST-GAT: A Leakage-Free Spatio-Temporal Graph Attention Framework for Robust Network Intrusion Detection",
+   "topics": [],
+   "updated_date": "2026-11-14",
+   "url": "https://arxiv.org/abs/2611.19109"
+  },
+  "score": 5.61,
+  "seen": 1,
+  "suggested": "graph-attention-networks",
+  "title": "ST-GAT: A Leakage-Free Spatio-Temporal Graph Attention Framework for Robust Network Intrusion Detection",
+  "url": "https://arxiv.org/abs/2611.19109"
  },
  {
   "added": "2026-11-08",
@@ -10018,6 +10270,79 @@
   "url": "https://doi.org/10.1007/s00222-026-01459-9"
  },
  {
+  "added": "2026-11-17",
+  "arxiv": "2611.19115",
+  "candidates": [
+   [
+    "neural-operators",
+    5.4
+   ],
+   [
+    "markov-chain-monte-carlo",
+    2.1
+   ],
+   [
+    "partial-differential-equations",
+    1.65
+   ],
+   [
+    "magnetic-resonance-imaging",
+    1.65
+   ],
+   [
+    "markov-chains",
+    1.2
+   ],
+   [
+    "digital-twins",
+    1.2
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.19115",
+   "title:learninginadequacyofbayesianneuraloperatorsforpdeconstrainedinferenceanddesign|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Partial differential equations (PDEs) underpin predictive modeling across science, engineering and medicine. Their use in digital twins, parameter inference and optimal design requires repeated solutions across parameters and scenarios. For nonlinear, transient and multiphysics systems, these calculations can make numerical simulation prohibitively expensive. Here we introduce the residual-informed Bayesian neural operator (RI-BNO), which learns operator inadequacy using a posteriori error estimates from the governing PDEs and incorporates its correction and uncertainty into Bayesian training and prediction. We establish local error bounds for the residual-informed estimates under stability and smoothness assumptions. We demonstrate RI-BNO on a non-linear reaction-diffusion benchmark with DeepONet and latent-subspace architectures, Markov chain Monte Carlo inference of glioma parameter fields from magnetic resonance imaging, and Monte Carlo risk-averse optimization of three-dimensional thermal breaks in building envelopes under manufacturing uncertainty. Across the evaluated examples, RI-BNO improves agreement with finite element (FE) reference predictions, parameter posteriors and optimized designs while using half as many full nonlinear or transient training simulations as the vanilla Bayesian neural operator (vBNO). For thermal break design, online optimization time decreases from 178 hours with the FE model to 18 minutes with RI-BNO. These results demonstrate the value of explicit inadequacy modeling in neural operators for reliable PDE-based inference and design.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.19115",
+   "authors": [
+    "Pratyush Kumar Singh",
+    "Lianghao Cao",
+    "E. Bruce Pitman",
+    "Danial Faghihi"
+   ],
+   "categories": [
+    "arXiv:cs.AI"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-14",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.19115"
+   ],
+   "title": "Learning inadequacy of Bayesian neural operators for PDE-constrained inference and design",
+   "topics": [],
+   "updated_date": "2026-11-14",
+   "url": "https://arxiv.org/abs/2611.19115"
+  },
+  "score": 5.4,
+  "seen": 1,
+  "suggested": "neural-operators",
+  "title": "Learning inadequacy of Bayesian neural operators for PDE-constrained inference and design",
+  "url": "https://arxiv.org/abs/2611.19115"
+ },
+ {
   "added": "2026-11-05",
   "arxiv": "2611.04129",
   "candidates": [
@@ -10591,378 +10916,5 @@
   "suggested": "integrated-photonics",
   "title": "A scalable infrastructure for strontium optical clocks with integrated photonics",
   "url": "https://arxiv.org/abs/2604.03229"
- },
- {
-  "added": "2026-11-09",
-  "arxiv": "2604.02133",
-  "candidates": [
-   [
-    "particle-physics",
-    3.48
-   ],
-   [
-    "superconductivity",
-    2.02
-   ],
-   [
-    "electromagnetics",
-    0.33
-   ],
-   [
-    "analysis",
-    0.26
-   ]
-  ],
-  "confidence": "medium",
-  "doi": "10.1007/jhep11(2026)059",
-  "keys": [
-   "arxiv:2604.02133",
-   "doi:10.1007/jhep11(2026)059",
-   "title:effectivefieldtheoryforsuperconductingphasetransitions|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "A bstract Employing the Schwinger-Keldysh formalism, we formulate an effective field theory for s-wave superconducting phase transition, where the dynamical variables consist of electromagnetic gauge field and complex scalar order parameter. Symmetry-constrained effective action allows systematic handling of dissipations and fluctuations. In particular, we explore the physical implications of higher-order terms, including those involving additional dynamical fields as well as higher time derivatives, on the real-time dynamics near the superconducting critical point. When appropriately truncated, the effective field theory reproduces the phenomenological Ginzburg-Landau equations. Upon crossing the critical temperature into the low-temperature phase, the electromagnetic gauge symmetry undergoes spontaneous breaking induced by the condensate of the order parameter. Collective excitation analysis reveals that the Higgs mode behaves as an overdamped diffusive mode near the critical point, while the phase fluctuation is absorbed into the gauge field via the Higgs mechanism. For complex kinetic coefficients, we derive the coupled linearized equations for amplitude, phase, and longitudinal gauge fluctuations, and distinguish propagation from damping through their complex poles. The holographic Schwinger-Keldysh construction provides an explicit realization and a nontrivial consistency check of the effective action, and determines its Wilsonian coefficients within a specific strongly coupled model. Holographic results reveal a complex relaxation parameter that indicates oscillatory dynamics characteristic of strongly coupled systems.",
-   "abstract_license": "cc-by",
-   "arxiv": "2604.02133",
-   "authors": [
-    "Yanyan Bu",
-    "Zexin Yang"
-   ],
-   "categories": [
-    "OpenAlex-field:Physics and Astronomy"
-   ],
-   "cited_by_count": 5,
-   "doi": "10.1007/jhep11(2026)059",
-   "is_retracted": false,
-   "keywords": [
-    "s-wave superconductivity",
-    "superconducting transition",
-    "effective field theory",
-    "Schwinger-Keldysh formalism",
-    "Ginzburg-Landau equation",
-    "Higgs mode",
-    "Higgs mechanism",
-    "phase fluctuations",
-    "holographic superconductors",
-    "dissipative dynamics",
-    "higher-order terms"
-   ],
-   "language": "en",
-   "oa_created": "2026-04-04",
-   "peer_reviewed": true,
-   "publication": "Journal of High Energy Physics",
-   "publication_type": "article",
-   "published_date": "2026-11-06",
-   "related_versions": [],
-   "source_ids": [
-    "openalex:W7149000570"
-   ],
-   "title": "Effective field theory for superconducting phase transitions",
-   "topics": [
-    "Black Holes and Theoretical Physics",
-    "Nuclear and High Energy Physics"
-   ],
-   "updated_date": "2026-11-08",
-   "url": "https://doi.org/10.1007/jhep11(2026)059"
-  },
-  "score": 3.48,
-  "seen": 1,
-  "suggested": "particle-physics",
-  "title": "Effective field theory for superconducting phase transitions",
-  "url": "https://doi.org/10.1007/jhep11(2026)059"
- },
- {
-  "added": "2026-11-09",
-  "arxiv": "2606.21081",
-  "candidates": [
-   [
-    "particle-physics",
-    3.48
-   ],
-   [
-    "holography",
-    2.02
-   ]
-  ],
-  "confidence": "medium",
-  "doi": "10.1007/jhep11(2026)071",
-  "keys": [
-   "arxiv:2606.21081",
-   "doi:10.1007/jhep11(2026)071",
-   "title:theentanglementwedgepolygon|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "A bstract In this work we consider a particular codimension-one region of a holographic spacetime which we call the entanglement wedge polygon (EWP). For a pure state and a partition of the boundary into a number of regions A i the EWP is defined as the region with maximal volume external to all the individual homology regions $$ {r}_{A_i} $$ r A i which consist of the intersection of the entanglement wedge EW( A i ) with the time slice. In three dimensions, when the EWP has constant curvature as in vacuum AdS 3 and BTZ spacetime, its volume is topological as a direct consequence of the Gauss-Bonnet theorem. The topological nature is lost in the time-dependent covariant case and in the presence of an end-of-the-world brane. In higher dimensions we make progress by considering a number of concrete examples including vacuum, black brane, and soliton solutions of AdS d +1 as well as spacetime geometries with end-of-the-world branes dual to boundary conformal field theories. We provide a suitable generalization to mixed states and comment on possible connections between the EWP and measures of multi-partite entanglement.",
-   "abstract_license": "cc-by",
-   "arxiv": "2606.21081",
-   "authors": [
-    "Kosei Fujiki",
-    "Jonathan Harper",
-    "Tadashi Takayanagi B",
-    "Nicolò Zenoni"
-   ],
-   "categories": [
-    "OpenAlex-field:Physics and Astronomy"
-   ],
-   "cited_by_count": 5,
-   "doi": "10.1007/jhep11(2026)071",
-   "is_retracted": false,
-   "keywords": [
-    "entanglement wedge",
-    "holography",
-    "AdS3",
-    "BTZ black hole",
-    "Gauss-Bonnet theorem",
-    "end-of-the-world branes",
-    "black branes",
-    "AdS soliton",
-    "mixed states",
-    "multipartite entanglement",
-    "conformal field theory",
-    "AdS/CFT correspondence"
-   ],
-   "language": "en",
-   "oa_created": "2026-06-24",
-   "peer_reviewed": true,
-   "publication": "Journal of High Energy Physics",
-   "publication_type": "article",
-   "published_date": "2026-11-06",
-   "related_versions": [],
-   "source_ids": [
-    "openalex:W7165627115"
-   ],
-   "title": "The entanglement wedge polygon",
-   "topics": [
-    "Black Holes and Theoretical Physics",
-    "Nuclear and High Energy Physics"
-   ],
-   "updated_date": "2026-11-08",
-   "url": "https://doi.org/10.1007/jhep11(2026)071"
-  },
-  "score": 3.48,
-  "seen": 1,
-  "suggested": "particle-physics",
-  "title": "The entanglement wedge polygon",
-  "url": "https://doi.org/10.1007/jhep11(2026)071"
- },
- {
-  "added": "2026-11-14",
-  "arxiv": "2603.29443",
-  "candidates": [
-   [
-    "particle-physics",
-    3.48
-   ],
-   [
-    "holography",
-    2.38
-   ],
-   [
-    "tunneling",
-    0.26
-   ]
-  ],
-  "confidence": "medium",
-  "doi": "10.1007/jhep11(2026)114",
-  "keys": [
-   "arxiv:2603.29443",
-   "doi:10.1007/jhep11(2026)114",
-   "title:cosmologicalbrickwallsvequantumchaoticdynamicsofdesitterhorizons|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "A bstract Originally proposed by ’t Hooft, the brick wall model has recently reemerged as a useful framework for probing quantum aspects of horizon physics, particularly in the context of holography. In this paper, we apply it to asymptotically de Sitter spacetimes. We compute the normal modes of a massless scalar field in pure de Sitter space and in the Schwarzschild-de Sitter black hole, and analyze the resulting single-particle spectra using the level-spacing distribution, the spectral form factor, and Krylov complexity. In pure de Sitter, the spectrum exhibits clear long-range signatures of chaos despite not obeying a conventional Wigner-Dyson level-spacing distribution. The Schwarzschild-de Sitter case is qualitatively richer: in the WKB regime, where tunneling between the two classically allowed regions is exponentially suppressed, the presence of both an event horizon and a cosmological horizon gives rise to two independent near-horizon sectors, so that the full spectrum is the superposition of two subsequences. As a result, the combined level-spacing distribution develops a nonzero value at s = 0 even when spectral correlations remain. Nevertheless, for sufficiently small stretched-horizon fluctuations, the superposed spectrum still exhibits an approximately linear ramp in the spectral form factor and a pronounced peak in Krylov complexity. Our results show that the absence of strict level repulsion should not, by itself, be taken as evidence against chaos, and that the spectral form factor and Krylov complexity provide sharper diagnostics of the underlying chaotic dynamics.",
-   "abstract_license": "cc-by",
-   "arxiv": "2603.29443",
-   "authors": [
-    "José Manuel Domínguez Begines",
-    "Suman Das",
-    "Hyun-Sik Jeong",
-    "Juan F. Pedraza"
-   ],
-   "categories": [
-    "OpenAlex-field:Physics and Astronomy"
-   ],
-   "cited_by_count": 5,
-   "doi": "10.1007/jhep11(2026)114",
-   "is_retracted": false,
-   "keywords": [
-    "brick wall model",
-    "de Sitter space",
-    "Schwarzschild-de Sitter black hole",
-    "quantum chaos",
-    "de Sitter horizon",
-    "cosmological horizon",
-    "event horizon",
-    "massless scalar field",
-    "normal modes",
-    "level spacing distribution",
-    "spectral form factor",
-    "Krylov complexity",
-    "holography",
-    "WKB approximation",
-    "level repulsion"
-   ],
-   "language": "en",
-   "oa_created": "2026-04-02",
-   "peer_reviewed": true,
-   "publication": "Journal of High Energy Physics",
-   "publication_type": "article",
-   "published_date": "2026-11-11",
-   "related_versions": [],
-   "source_ids": [
-    "openalex:W7147109510"
-   ],
-   "title": "Cosmological brick walls & quantum chaotic dynamics of de Sitter horizons",
-   "topics": [
-    "Black Holes and Theoretical Physics",
-    "Nuclear and High Energy Physics"
-   ],
-   "updated_date": "2026-11-13",
-   "url": "https://doi.org/10.1007/jhep11(2026)114"
-  },
-  "score": 3.48,
-  "seen": 1,
-  "suggested": "particle-physics",
-  "title": "Cosmological brick walls & quantum chaotic dynamics of de Sitter horizons",
-  "url": "https://doi.org/10.1007/jhep11(2026)114"
- },
- {
-  "added": "2026-11-14",
-  "arxiv": "2604.22918",
-  "candidates": [
-   [
-    "particle-physics",
-    3.48
-   ],
-   [
-    "cosmology",
-    2.51
-   ]
-  ],
-  "confidence": "medium",
-  "doi": "10.1007/jhep11(2026)100",
-  "keys": [
-   "arxiv:2604.22918",
-   "doi:10.1007/jhep11(2026)100",
-   "title:kinematicflowforbananaloopsandunparticles|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "A bstract We extend kinematic flow to a class of momentum-integrated loop-level cosmological correlators: banana loops of conformally coupled scalars in power-law cosmologies and, in de Sitter, banana loops containing arbitrary mixtures of massless and conformally coupled scalars. Exploiting their dual description as tree-level exchanges of unparticles, we show that the associated correlators are described by a finite set of master integrals obeying a first-order system of differential equations. The corresponding basis is constructed from tubings of marked graphs and is distinguished by the appearance of nested tubes and an arborescence ordering of the vertices. We derive the connection matrices from four combinatorial rules — activation, merger, swap, and copy. The last two are unique to unparticle exchanges: they induce richer mixing among basis functions and introduce new kinematic letters. Our framework extends systematically to arbitrarily complicated configurations, including necklace diagrams, and establishes unparticle exchange as a distinct class of kinematic flow.",
-   "abstract_license": "cc-by",
-   "arxiv": "2604.22918",
-   "authors": [
-    "Tom Westerdijk",
-    "Chen Yang"
-   ],
-   "categories": [
-    "OpenAlex-field:Physics and Astronomy"
-   ],
-   "cited_by_count": 5,
-   "doi": "10.1007/jhep11(2026)100",
-   "is_retracted": false,
-   "keywords": [
-    "conformally coupled scalar",
-    "power-law cosmology",
-    "de Sitter cosmology",
-    "cosmological correlators",
-    "master integrals",
-    "marked graphs",
-    "connection matrix",
-    "loop integrals"
-   ],
-   "language": "en",
-   "oa_created": "2026-04-29",
-   "peer_reviewed": true,
-   "publication": "Journal of High Energy Physics",
-   "publication_type": "article",
-   "published_date": "2026-11-11",
-   "related_versions": [],
-   "source_ids": [
-    "openalex:W7156645048"
-   ],
-   "title": "Kinematic flow for banana loops and unparticles",
-   "topics": [
-    "Black Holes and Theoretical Physics",
-    "Nuclear and High Energy Physics"
-   ],
-   "updated_date": "2026-11-13",
-   "url": "https://doi.org/10.1007/jhep11(2026)100"
-  },
-  "score": 3.48,
-  "seen": 1,
-  "suggested": "particle-physics",
-  "title": "Kinematic flow for banana loops and unparticles",
-  "url": "https://doi.org/10.1007/jhep11(2026)100"
- },
- {
-  "added": "2026-11-16",
-  "arxiv": "2604.28131",
-  "candidates": [
-   [
-    "particle-physics",
-    3.48
-   ],
-   [
-    "quantum-chromodynamics",
-    3.1
-   ]
-  ],
-  "confidence": "medium",
-  "doi": "10.1103/s3r7-wj85",
-  "keys": [
-   "arxiv:2604.28131",
-   "doi:10.1103/s3r7-wj85",
-   "title:simplifiedapproachtoextractingnucleontransversityincollinearfactorizationusingnearsideenergyenergycorrelators|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "We develop a novel strategy for accessing the transversity parton distribution function (PDF) of the nucleon within collinear factorization using near-side energy-energy correlators in the dihadron fragmentation framework. We show how this removes the complications of previous approaches that must model either intrinsic parton transverse momentum or resonances in the invariant mass distribution of a final-state dihadron. We present leading-order analytical results for transverse-spin observables in semi-inclusive deep-inelastic scattering and electron-positron annihilation, highlighting their close similarity to the expressions one uses in extracting (un)polarized PDFs and (single-hadron) fragmentation functions in collinear factorization. We make predictions for kinematics relevant for existing and future facilities that demonstrate the feasibility of an energy-energy correlator program in extracting the transversity PDF.",
-   "abstract_license": null,
-   "arxiv": "2604.28131",
-   "authors": [
-    "Zhong-Bo Kang",
-    "Andreas Metz",
-    "Daniel Pitonyak",
-    "Congyue Zhang"
-   ],
-   "categories": [
-    "OpenAlex-field:Physics and Astronomy"
-   ],
-   "cited_by_count": 5,
-   "doi": "10.1103/s3r7-wj85",
-   "is_retracted": false,
-   "keywords": [
-    "collinear factorization",
-    "semi-inclusive deep inelastic scattering",
-    "electron-positron annihilation",
-    "fragmentation functions"
-   ],
-   "language": "en",
-   "oa_created": "2026-05-02",
-   "peer_reviewed": true,
-   "publication": "Physical review. D/Physical review. D.",
-   "publication_type": "article",
-   "published_date": "2026-11-13",
-   "related_versions": [],
-   "source_ids": [
-    "openalex:W7159598197"
-   ],
-   "title": "Simplified approach to extracting nucleon transversity in collinear factorization using near-side energy-energy correlators",
-   "topics": [
-    "Quantum Chromodynamics and Particle Interactions",
-    "Nuclear and High Energy Physics"
-   ],
-   "updated_date": "2026-11-14",
-   "url": "https://doi.org/10.1103/s3r7-wj85"
-  },
-  "score": 3.48,
-  "seen": 1,
-  "suggested": "particle-physics",
-  "title": "Simplified approach to extracting nucleon transversity in collinear factorization using near-side energy-energy correlators",
-  "url": "https://doi.org/10.1103/s3r7-wj85"
  }
 ]
