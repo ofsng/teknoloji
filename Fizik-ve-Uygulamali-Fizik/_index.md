@@ -93,7 +93,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **32**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **33**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -105,12 +105,12 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 
 - [Modelling Emergent Phenomena in Quantum Materials: Theoretical and Computational Advances in Condensed Matter Physics](Yogun-Madde-Fizigi/Arastirmalar/2026-Arshad-Modelling-Emergent-Phenomena-Quantum.md) — Arshad vd. (2026) · *Asian Journal of Advanced Research and Reports* · hakemli
 - [Loop Quantum Gravity Black Holes Surrounded by Quintessence](Genel-Gorelilik-ve-Kutlecekim/Kuantum-Kutlecekimi/Arastirmalar/2026-AlBadawi-Loop-Quantum-Gravity-Black.md) — Al‐Badawi vd. (2026) · *International Journal of Geometric Methods in Modern Physics* · hakemli · atıf: 4
+- [A Study on Comparison of Three Different Statistical Mechanics Theory](Termodinamik-ve-Istatistiksel-Fizik/Istatistiksel-Mekanik/Arastirmalar/2026-Jha-Study-Comparison-Three-Different.md) — Jha vd. (2026) · *Amrit Journal* · hakemli
 - [BCAT: A Block Causal Transformer for PDE Foundation Models for Fluid Dynamics](Akiskanlar-Dinamigi/Arastirmalar/2026-Liu-BCAT-Block-Causal-Transformer.md) — Liu vd. (2026) · *Journal of Artificial Intelligence Research* · hakemli · atıf: 21
 - [Rotating-Wave and Secular Approximations for Open Quantum Systems](Kuantum-Mekanigi/Acik-Kuantum-Sistemleri/Arastirmalar/2026-Burgarth-Rotating-Wave-and-Secular.md) — Burgarth vd. (2026) · *Quantum* · hakemli · atıf: 1
 - [Semiclassical picture of the Heisenberg spin glass in two dimensions](Yogun-Madde-Fizigi/Duzensiz-Sistemler/Arastirmalar/2026-Bracci-Testasecca-Semiclassical-picture-the-Heis.md) — Bracci-Testasecca vd. (2026) · *Physical review. B./Physical review. B* · hakemli · atıf: 4
 - [Exploring Chemical Concepts and Reactivity from Conceptual Density Functional Theory in Excited States via the ΔSCF Approach](Hesaplamali-Fizik/Yogunluk-Fonksiyoneli-Teorisi/Arastirmalar/2026-Wang-Exploring-Chemical-Concepts-and.md) — Wang vd. (2026) · *Journal of Chemical Theory and Computation* · hakemli
 - [High precision timing of seven binary millisecond pulsars with the European Pulsar Timing Array](Genel-Gorelilik-ve-Kutlecekim/Kutlecekim-Dalgalari/Pulsar-Zamanlama-Dizileri/Arastirmalar/2026-Liu-High-precision-timing-seven.md) — Liu vd. (2026) · *Astronomy and Astrophysics* · hakemli
-- [Ion‐Modulated All‑Van Der Waals Spin–Orbit Torque Magnetic Tunnel Junctions With Multilevel Switching](Yogun-Madde-Fizigi/Manyetizma/Spintronik/Manyetik-Tunel-Eklemleri/Arastirmalar/2026-Tian-IonModulated-AllVan-Der-Waals.md) — Tian vd. (2026) · *Advanced Functional Materials* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

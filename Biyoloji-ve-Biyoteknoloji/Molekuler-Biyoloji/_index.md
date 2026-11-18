@@ -79,7 +79,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **3**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -90,6 +90,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
 - [A New Era in Therapeutics: Current Status of RNA Interference-Based Drugs](Gen-Ifadesi-ve-Duzenlenmesi/RNA-Biyolojisi/RNA-Girisimi/Arastirmalar/2026-Koyluoglu-New-Era-Therapeutics-Current.md) — Köylüoğlu vd. (2026) · *Pharmata* · hakemli
+- [A Poisson-multinomial model for quantifying gene therapy vector integrity using quadplex digital PCR](Polimeraz-Zincir-Reaksiyonu/Dijital-PCR/Arastirmalar/2026-Tereshko-Poisson-multinomial-model-for.md) — Tereshko vd. (2026) · *PLoS ONE* · hakemli
 - [Beyond Structural Classification: A 4S+G Functional Framework for Non-Coding RNA Biology in Cancer and Its Therapeutic Implications](Gen-Ifadesi-ve-Duzenlenmesi/RNA-Biyolojisi/Kodlamayan-RNA/Arastirmalar/2026-Xu-Beyond-Structural-Classification-Functional.md) — Xu vd. (2026) · *Biomolecules* · hakemli
 <!-- AUTO:RECENT:END -->
 

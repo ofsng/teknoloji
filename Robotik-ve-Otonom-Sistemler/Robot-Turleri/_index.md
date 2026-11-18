@@ -84,7 +84,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **4**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -94,8 +94,10 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Performance- and Mechanical-Work-Aware Control Reconfiguration of a Mecanum-Wheeled Mobile Robot After Complete Wheel Actuator Failure](Mobil-Robotlar/Arastirmalar/2026-Nguyen-Performance-and-Mechanical-Work.md) — Nguyen vd. (2026) · *Automation* · hakemli
 - [MXene-PS-Based Soft Actuator with Deformation Reversal Capability through Time-Sequence Difference of Asymmetric Water Absorption Kinetics](Yumusak-Robotik/Yumusak-Eyleyiciler/Arastirmalar/2026-Chen-MXene-Based-Soft-Actuator.md) — Chen vd. (2026) · *ACS Nano* · hakemli
 - [A human-centric large language model interface for monitoring and control of autonomous mobile robots via digital twins in industry 5.0](Mobil-Robotlar/Otonom-Mobil-Robotlar/Arastirmalar/2026-Pitel-human-centric-large-language.md) — Piteľ vd. (2026) · *Production & Manufacturing Research* · hakemli
+- [Model-free observer-based voltage control of non-holonomic mobile robot using reinforcement learning](Mobil-Robotlar/Arastirmalar/2026-Khodamipour-Model-free-observer-based.md) — Khodamipour (2026) · *Scientific Reports* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

@@ -84,7 +84,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **19**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **22**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -94,14 +94,14 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Activation of high-lying dormant states by cascaded transition control in core@shell upconversion nanoparticles](Nanomalzemeler/Nanoparcaciklar/Yukari-Donusum-Nanoparcaciklari/Arastirmalar/2026-Zeng-Activation-high-lying-dormant.md) — Zeng vd. (2026) · *Nature Communications* · hakemli
 - [Reflective, water-permeable diatomite masks enhancing output voltage of water-floating single-walled carbon nanotube thermoelectric generators](Nanomalzemeler/Karbon-Nanomalzemeler/Karbon-Nanotupler/Tek-Duvarli-Karbon-Nanotupler/Arastirmalar/2026-Ochiai-Reflective-water-permeable-diatomite.md) — Ochiai vd. (2026) · *Scientific Reports* · hakemli
 - [Field-Deployable and Ultrasensitive Surface-Enhanced Raman Spectroscopy for Waterborne Arsenic Monitoring Based on Headspace Formation of Arsenic–Silver Nanocomposites](Nanofotonik/Plazmonik/Yuzey-Guclendirmeli-Raman-Spektroskopisi/Arastirmalar/2026-Chen-Field-Deployable-and-Ultrasensitive.md) — Chen vd. (2026) · *ACS Sensors* · hakemli
 - [Deep-Learning-Empowered Gold Nanoparticle Dimer-Assisted Hyperbolic Metamaterial Surface Plasmon Resonance Fiber-Optic Sensor for Ultrasensitive Mercury Ion Detection](Nanofotonik/Plazmonik/Yuzey-Plazmon-Rezonansi/Arastirmalar/2026-Li-Deep-Learning-Empowered-Gold.md) — Li vd. (2026) · *ACS Applied Materials & Interfaces* · hakemli
 - [Examining the Effect of Hexagonal Boron Nitride on Morphological and Chemical Properties of Biopolymers Using Dual-Beam Methodology](Nanomalzemeler/Iki-Boyutlu-Malzemeler/Altigen-Bor-Nitrur/Arastirmalar/2026-Camic-Examining-the-Effect-Hexagonal.md) — Camic (2026) · *Kocaeli Journal of Science and Engineering* · hakemli
 - [Reversible Electric-Field-Induced Changes in the Thermal Resistance of Hexagonal Boron Nitride](Nanomalzemeler/Iki-Boyutlu-Malzemeler/Altigen-Bor-Nitrur/Arastirmalar/2026-Schaeffer-Reversible-Electric-Field-Induced.md) — Schaeffer vd. (2026) · *Nano Letters* · hakemli
 - [Antiambipolar and Bidirectional Photoresponse in Ternary van der Waals Heterostructure Transistors](Nanomalzemeler/Iki-Boyutlu-Malzemeler/Van-der-Waals-Heteroyapilari/Arastirmalar/2026-Han-Antiambipolar-and-Bidirectional-Photorespons.md) — Han vd. (2026) · *ACS Nano* · hakemli
-- [Fabrication of a Cellulolytic Enzyme Cocktail Immobilised on Magnetic Multi-walled Carbon Nanotubes: Catalytic Kinetics and Reusability](Nanomalzemeler/Karbon-Nanomalzemeler/Karbon-Nanotupler/Cok-Duvarli-Karbon-Nanotupler/Arastirmalar/2026-Low-Fabrication-Cellulolytic-Enzyme-Cocktail.md) — Low vd. (2026) · *Chemical and Biochemical Engineering Quarterly* · hakemli
-- [Recent Strategies in Electron Transport Layers Based on Metal Oxide Nanoparticles for Quantum Dot Light Emitting Diodes](Nanomalzemeler/Nanoparcaciklar/Arastirmalar/2026-Kim-Recent-Strategies-Electron-Transport.md) — Kim vd. (2026) · *Inorganics* · hakemli
+- [Thermally Robust Room‐Temperature Interlayer Excitons in a Hybrid van der Waals Heterostructure](Nanomalzemeler/Iki-Boyutlu-Malzemeler/Van-der-Waals-Heteroyapilari/Arastirmalar/2026-Ko-Thermally-Robust-RoomTemperature-Interlayer.md) — Ko vd. (2026) · *Advanced Functional Materials* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

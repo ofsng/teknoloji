@@ -93,7 +93,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **13**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **15**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -104,13 +104,13 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
 - [Bayesian parameter estimation of SIR and SIRD models for COVID-19 in Indonesia using Metropolis–Hastings and Hamiltonian Monte Carlo](Istatistik/Istatistiksel-Cikarim/Bayesci-Istatistik/Markov-Zinciri-Monte-Carlo/Hamilton-Monte-Carlo/Arastirmalar/2026-Naftali-Bayesian-parameter-estimation-SIR.md) — Naftali vd. (2026) · *Communications in Mathematical Biology and Neuroscience* · hakemli
+- [A multi-objective optimization approach based on HBA-RF for lightweight design of automotive rear seats](Optimizasyon/Cok-Amacli-Optimizasyon/Arastirmalar/2026-Gao-multi-objective-optimization-approach.md) — Gao vd. (2026) · *Proceedings of the Institution of Mechanical Engineers Part D Journal of Automobile Engineering* · hakemli
 - [Review of the Fundamental Theory and Multidisciplinary Applications of Monte Carlo Methods](Monte-Carlo-Yontemleri/Arastirmalar/2026-Chang-Review-the-Fundamental-Theory.md) — Chang (2026) · *Theoretical and Natural Science* · hakemli
 - [Tight convex relaxation-based simplex branch-and-bound algorithm for generalized linear multiplicative programming](Optimizasyon/Tamsayi-ve-Kombinatoryal-Optimizasyon/Dal-ve-Sinir/Arastirmalar/2026-Zhang-Tight-convex-relaxation-based.md) — Zhang vd. (2026) · *Operations Research Perspectives* · hakemli
 - [Partial Differential Equations: Overview, Applications, and Numerical Solutions](Analiz/Kismi-Diferansiyel-Denklemler/Arastirmalar/2026-Babatunde-Partial-Differential-Equations-Overvie.md) — Babatunde vd. (2026) · *Mathematics* · hakemli
 - [Causal inference with real-world data in health care research: a scoping review protocol and study within a review protocol](Istatistik/Nedensel-Cikarim/Arastirmalar/2026-Erdmann-Causal-inference-with-real.md) — Erdmann vd. (2026) · *JBI Evidence Synthesis* · hakemli
 - [Last-Iterate Convergence of Stochastic Gradient Methods for Unbounded Problems](Optimizasyon/Stokastik-Optimizasyon/Stokastik-Gradyan-Yontemleri/Arastirmalar/2026-Vaidyan-Last-Iterate-Convergence-Stochastic.md) — Vaidyan vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [A stability order barrier and SSP bound for Runge--Kutta methods with non-negative coefficients: AI-assisted proofs](Sayisal-Analiz/ADD-Sayisal-Yontemleri/Runge-Kutta-Yontemleri/Arastirmalar/2026-Gottlieb-stability-order-barrier-and.md) — Gottlieb vd. (2026) · *arXiv* · ön baskı / hakemsiz
-- [Nonparametric modelling of continuous-time Markov chains with scalable exact and approximate gradients](Olasilik-Teorisi/Stokastik-Surecler/Markov-Zincirleri/Arastirmalar/2026-Monti-Nonparametric-modelling-continuous-time.md) — Monti vd. (2026) · *Journal of the Royal Statistical Society Series B (Statistical Methodology)* · hakemli · atıf: 4
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

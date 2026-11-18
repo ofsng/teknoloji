@@ -90,7 +90,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **11**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **12**.
 
 - [Transformers in computer vision: a PRISMA-based systematic review, taxonomy and future perspectives](Arastirmalar/2026-Rony-Transformers-computer-vision-PRISMA.md) — Rony vd. (2026) · *Artificial Intelligence Review* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -105,11 +105,11 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [Motorcycle Rider Face Detection: An Experiment with R-CNN and Faster R-CNN](Nesne-Tespiti/Iki-Asamali-Dedektorler/Arastirmalar/2026-Muhaqiqin-Motorcycle-Rider-Face-Detection.md) — Muhaqiqin vd. (2026) · *Journal of Artificial Intelligence and Technology Information (JAITI)* · hakemli
 - [Transformers in computer vision: a PRISMA-based systematic review, taxonomy and future perspectives](Arastirmalar/2026-Rony-Transformers-computer-vision-PRISMA.md) — Rony vd. (2026) · *Artificial Intelligence Review* · hakemli
 - [Marigold V2: Revisiting Diffusion Transformers for Monocular Depth Estimation](3B-Bilgisayarli-Goru/Derinlik-Kestirimi/Arastirmalar/2026-Pavlovic-Marigold-Revisiting-Diffusion-Transform.md) — Pavlovic vd. (2026) · *ACM Transactions on Graphics* · hakemli · atıf: 4
+- [ACMNet: An attention-convolution mixed neural network for semantic segmentation of high-resolution remote sensing images](Goruntu-Bolutleme/Anlamsal-Bolutleme/Arastirmalar/2026-Yu-ACMNet-attention-convolution-mixed.md) — Yu vd. (2026) · *PLoS ONE* · hakemli
 - [A review of medical image segmentation research based on bibliometrics](Goruntu-Bolutleme/Arastirmalar/2026-Li-review-medical-image-segmentation.md) — Li vd. (2026) · *Technology and Health Care* · hakemli
 - [Shape-Based Maritime Man-Made Object Detection Using Deep Learning Fusion-Based Neural Network and Region-Based Methods](Nesne-Tespiti/Arastirmalar/2026-Suzdalev-Shape-Based-Maritime-Man.md) — Suzdalev vd. (2026) · *Machines* · hakemli
 - [Action-Region Mixing: A Video Augmentation Approach for Reducing Scene Bias in Action Recognition](Video-Anlama/Eylem-Tanima/Arastirmalar/2026-Celik-Action-Region-Mixing-Video.md) — Çelik vd. (2026) · *Applied Sciences* · hakemli
 - [Attendance Monitoring Using Multiple Face Recognition for Students](Yuz-Tanima/Arastirmalar/2026-Krupa-Attendance-Monitoring-Using-Multiple.md) — Krupa vd. (2026) · *International Journal of Advanced Research in Science Communication and Technology* · hakemli
-- [A Complex-Valued Multiscale Feature Interaction Attention Vision Transformer for PolSAR Image Classification with Amplitude–Phase Decoupling](Goruntu-Siniflandirma/Arastirmalar/2026-Kong-Complex-Valued-Multiscale-Feature.md) — Kong vd. (2026) · *Remote Sensing* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

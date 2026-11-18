@@ -90,7 +90,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **145**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **157**.
+
+- [METHODOLOGY FOR USING INTERACTIVE AND INNOVATIVE METHODS IN TEACHING COMPUTER SCIENCE](Arastirmalar/2026-Ozatovna-METHODOLOGY-FOR-USING-INTERACTIVE.md) — Ozatovna vd. (2026) · *HSR (London)* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -100,14 +102,14 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Frequency-aware and depth-guided neural radiance fields for 3D reconstruction of complex disaster scenes](Bilgisayar-Grafikleri/Goruntu-Olusturma/Sinirsel-Goruntu-Olusturma/Sinirsel-Isima-Alanlari/Arastirmalar/2026-Chen-Frequency-aware-and-depth.md) — Chen vd. (2026) · *Scientific Reports* · hakemli
+- [Constrained Actionable Counterfactual Explanations With Economic Cost Optimization for Algorithmic Recourse in Credit Scoring Systems](Yapay-Zeka/Aciklanabilir-Yapay-Zeka/Karsi-Olgusal-Aciklamalar/Arastirmalar/2026-Ikermane-Constrained-Actionable-Counterfactual-E.md) — Ikermane vd. (2026) · *Expert Systems* · hakemli
 - [Explainable breast cancer classification using machine learning deep learning and transfer learning across multiple data modalities](Yapay-Zeka/Makine-Ogrenmesi/Aktarim-Ogrenmesi/Arastirmalar/2026-Tiwari-Explainable-breast-cancer-classification.md) — Tiwari vd. (2026) · *Discover Computing* · hakemli
 - [A subspecialty diagnostic system powered by self-supervised learning for cervical histopathology](Yapay-Zeka/Makine-Ogrenmesi/Oz-Gozetimli-Ogrenme/Arastirmalar/2026-Wang-subspecialty-diagnostic-system-powered.md) — Wang vd. (2026) · *Nature Communications* · hakemli · atıf: 2
 - [Bio-Inspired Vehicular Ad-Hoc Network Routing Protocol A Review for VANET Security](Bilgisayar-Aglari/Ad-Hoc-ve-Orgu-Aglar/Aracsal-Ad-Hoc-Aglar/Arastirmalar/2026-Fadhil-Bio-Inspired-Vehicular-Hoc.md) — Fadhil vd. (2026) · *Journal of Information and Cybersecurity* · hakemli
 - [A Design of Intelligent Autonomous Mining with Dynamic Time Warping Through Deep Learning for End-to-End Industrial Internet of Things Application](Bilgisayar-Aglari/Nesnelerin-Interneti/Endustriyel-Nesnelerin-Interneti/Arastirmalar/2026-Satyavathi-Design-Intelligent-Autonomous-Mining.md) — Satyavathi vd. (2026) · *The International Journal of Maritime Engineering* · hakemli
 - [Physically Based Rendering in the Latent Space](Bilgisayar-Grafikleri/Goruntu-Olusturma/Fiziksel-Tabanli-Goruntu-Olusturma/Arastirmalar/2026-Radovanovic-Physically-Based-Rendering-the.md) — Radovanovic vd. (2026) · *Computer Graphics Forum* · hakemli
 - [Secure Data Replication in Edge and Fog Computing Environments](Dagitik-ve-Paralel-Hesaplama/Kenar-ve-Sis-Hesaplama/Arastirmalar/2026-Alalibo-Secure-Data-Replication-Edge.md) — Alalibo (2026) · *INTERNATIONAL JOURNAL OF COMPUTER SCIENCE AND MATHEMATICAL THEORY E-ISSN* · hakemli
-- [Reinforcement Learning to Rank Using Coarse-grained Rewards](Veritabanlari-ve-Bilgi-Sistemleri/Bilgi-Erisimi/Siralamayi-Ogrenme/Arastirmalar/2026-Tu-Reinforcement-Learning-Rank-Using.md) — Tu vd. (2026) · *ACM Transactions on Information Systems* · hakemli · atıf: 7
-- [Motorcycle Rider Face Detection: An Experiment with R-CNN and Faster R-CNN](Yapay-Zeka/Bilgisayarli-Goru/Nesne-Tespiti/Iki-Asamali-Dedektorler/Arastirmalar/2026-Muhaqiqin-Motorcycle-Rider-Face-Detection.md) — Muhaqiqin vd. (2026) · *Journal of Artificial Intelligence and Technology Information (JAITI)* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

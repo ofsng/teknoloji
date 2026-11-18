@@ -77,7 +77,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **2**.
 
 - [A review of medical image segmentation research based on bibliometrics](Arastirmalar/2026-Li-review-medical-image-segmentation.md) — Li vd. (2026) · *Technology and Health Care* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -89,6 +89,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [ACMNet: An attention-convolution mixed neural network for semantic segmentation of high-resolution remote sensing images](Anlamsal-Bolutleme/Arastirmalar/2026-Yu-ACMNet-attention-convolution-mixed.md) — Yu vd. (2026) · *PLoS ONE* · hakemli
 - [A review of medical image segmentation research based on bibliometrics](Arastirmalar/2026-Li-review-medical-image-segmentation.md) — Li vd. (2026) · *Technology and Health Care* · hakemli
 <!-- AUTO:RECENT:END -->
 

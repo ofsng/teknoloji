@@ -86,7 +86,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **17**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **19**.
+
+- [Life cycle assessment (LCA) in municipal solid waste management: public policies and regulation](Arastirmalar/2026-Schneider-Life-cycle-assessment-LCA.md) — Schneider vd. (2026) · *YACHAQ* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -96,6 +98,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Sensitivity of marine cloud brightening over the Great Barrier Reef to spatial variability in aerosol forcing: a case study using a convection-permitting model](Iklim-Mudahalesi-Arastirmalari/Gunes-Isinimi-Modifikasyonu/Arastirmalar/2026-Zhao-Sensitivity-marine-cloud-brightening.md) — Zhao vd. (2026) · *Atmospheric chemistry and physics* · hakemli
 - [Converting Urban Solid Waste to Energy in Enugu Urban Area, Southeast, Nigeria](Kati-Atik-Yonetimi/Atiktan-Enerji/Arastirmalar/2026-Onyia-Converting-Urban-Solid-Waste.md) — Onyia (2026) · *WORLD JOURNAL OF INNOVATION AND MODERN TECHNOLOGY* · hakemli
 - [Sustainability in the Brewing Industry: A Review of Brewing Waste Valorization and Wastewater Treatment](Su-Aritma/Atik-Su-Aritma/Arastirmalar/2026-Drosou-Sustainability-the-Brewing-Industry.md) — Drosou vd. (2026) · *Sustainability* · hakemli
 - [Occurrence, Bioaccumulation, and Biomagnification of Organophosphate Flame Retardants in Aquatic and Terrestrial Food Chains from a Former E-Waste Recycling Region, South China](Kati-Atik-Yonetimi/Geri-Donusum-Teknolojileri/Elektronik-Atik-Geri-Donusumu/Arastirmalar/2026-Liu-Occurrence-Bioaccumulation-and-Biomagnificat.md) — Liu vd. (2026) · *Toxics* · hakemli
@@ -103,7 +106,6 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [Regional seawater-chemistry controls on ocean alkalinity enhancement efficiency: Carbonate precipitation risk under pH-equilibrated OAE](Karbon-Yonetimi/Karbondioksit-Giderimi/Okyanus-Alkalinite-Artirimi/Arastirmalar/2026-Alamooti-Regional-seawater-chemistry-controls.md) — Alamooti vd. (2026) · *Marine Pollution Bulletin* · hakemli
 - [A IoT-Enabled Multisensor Air Quality Monitoring with Edge-Based AQI Computation and Intelligent Mobile Analytics](Cevresel-Izleme/Hava-Kalitesi-Izleme/Arastirmalar/2026-N-IoT-Enabled-Multisensor-Air.md) — N vd. (2026) · *Iconic Research and Engineering Journals* · hakemli
 - [Artificial intelligence for water quality monitoring: a PRISMA-based systematic literature review, taxonomy, comparative analysis, and future research directions](Cevresel-Izleme/Su-Kalitesi-Izleme/Arastirmalar/2026-Rani-Artificial-intelligence-for-water.md) — Rani vd. (2026) · *Artificial Intelligence Review* · hakemli
-- [Machine Learning-Based Prediction and Interpretation of Aluminum and Iron Coagulant Dosages in Drinking Water Treatment](Su-Aritma/Icme-Suyu-Aritma/Arastirmalar/2026-Lian-Machine-Learning-Based-Prediction.md) — Lian vd. (2026) · *Sustainability* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

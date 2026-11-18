@@ -1,47 +1,4 @@
 {
- "2026-11-10": {
-  "archived": 40,
-  "backfill": 0,
-  "by_source": {
-   "openalex": 40
-  },
-  "llm_calls": 1,
-  "llm_usd": 0.0,
-  "per_tech": {
-   "4d-printing": 1,
-   "atomic-layer-deposition": 1,
-   "bayesian-neural-networks": 1,
-   "concentrated-solar-power": 1,
-   "density-functional-theory": 1,
-   "directed-energy-deposition": 1,
-   "dna-methylation": 1,
-   "fiber-bragg-grating-sensors": 1,
-   "friction-stir-welding": 3,
-   "genome-wide-association-studies": 1,
-   "graph-attention-networks": 2,
-   "graph-neural-networks": 1,
-   "heat-transfer": 1,
-   "hollow-core-fibers": 1,
-   "image-segmentation": 1,
-   "intrusion-detection-systems": 3,
-   "life-cycle-assessment": 3,
-   "light-emitting-diodes": 1,
-   "magnetic-resonance-imaging": 1,
-   "magnetic-tunnel-junctions": 1,
-   "multimodal-foundation-models": 1,
-   "physical-layer-security": 1,
-   "reconfigurable-intelligent-surfaces": 1,
-   "recurrent-neural-networks": 1,
-   "selective-laser-sintering": 1,
-   "series-elastic-actuators": 1,
-   "software-defined-networking": 2,
-   "spintronics": 1,
-   "sustainable-aviation-fuels": 1,
-   "text-to-image-generation": 1,
-   "user-centered-design": 1,
-   "ventricular-assist-devices": 1
-  }
- },
  "2026-11-11": {
   "archived": 40,
   "backfill": 0,
@@ -365,6 +322,54 @@
    "time-frequency-analysis": 1,
    "transfer-learning": 1,
    "wastewater-treatment": 1
+  }
+ },
+ "2026-11-18": {
+  "archived": 40,
+  "backfill": 0,
+  "by_source": {
+   "openalex": 40
+  },
+  "llm_calls": 0,
+  "llm_usd": 0.0,
+  "per_tech": {
+   "analytical-chemistry": 1,
+   "base-editing": 1,
+   "bayesian-networks": 1,
+   "blockchain-sharding": 1,
+   "boundary-element-method": 1,
+   "car-t-cell-therapy": 1,
+   "click-chemistry": 1,
+   "cloud-computing": 1,
+   "computer-science": 1,
+   "counterfactual-explanations": 1,
+   "digital-health": 2,
+   "digital-pcr": 1,
+   "dye-sensitized-solar-cells": 2,
+   "energy-storage": 1,
+   "environmental-and-climate-technologies": 1,
+   "gated-recurrent-units": 1,
+   "horizontal-axis-wind-turbines": 1,
+   "human-ai-interaction": 1,
+   "information-retrieval": 1,
+   "lattice-based-cryptography": 1,
+   "long-short-term-memory": 1,
+   "magnetic-nanoparticles": 1,
+   "mobile-robots": 2,
+   "multi-objective-optimization": 1,
+   "neural-radiance-fields": 1,
+   "piezoelectric-materials": 1,
+   "power-system-stability": 1,
+   "secret-sharing": 1,
+   "semantic-segmentation": 1,
+   "solar-radiation-modification": 1,
+   "speed-breeding": 1,
+   "stabilizer-codes": 1,
+   "statistical-mechanics": 1,
+   "transmon-qubits": 1,
+   "upconversion-nanoparticles": 1,
+   "van-der-waals-heterostructures": 1,
+   "vertical-farming": 1
   }
  }
 }

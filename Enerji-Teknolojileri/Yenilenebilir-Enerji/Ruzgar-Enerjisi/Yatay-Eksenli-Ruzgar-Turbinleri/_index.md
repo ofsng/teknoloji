@@ -75,9 +75,10 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **2**.
 
 - [Improving the Efficiency of Horizontal-Axis Wind Turbines Using High-Lift Devices](Arastirmalar/2026-M-Improving-the-Efficiency-Horizontal.md) — M vd. (2026) · *Semarak Engineering Journal* · hakemli
+- [A critical systematic review of aero-structural optimization in horizontal-axis wind turbine blades using an evidence–constraint–robustness framework](Arastirmalar/2026-R-critical-systematic-review-aero.md) — R. vd. (2026) · *Wind energy and engineering research.* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -87,6 +88,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [A critical systematic review of aero-structural optimization in horizontal-axis wind turbine blades using an evidence–constraint–robustness framework](Arastirmalar/2026-R-critical-systematic-review-aero.md) — R. vd. (2026) · *Wind energy and engineering research.* · hakemli
 - [Improving the Efficiency of Horizontal-Axis Wind Turbines Using High-Lift Devices](Arastirmalar/2026-M-Improving-the-Efficiency-Horizontal.md) — M vd. (2026) · *Semarak Engineering Journal* · hakemli
 <!-- AUTO:RECENT:END -->
 

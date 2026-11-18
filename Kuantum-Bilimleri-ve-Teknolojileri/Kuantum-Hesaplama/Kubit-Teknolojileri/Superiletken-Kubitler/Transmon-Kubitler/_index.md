@@ -75,7 +75,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **1**.
+
+- [Measurement of parity-dependent energy-phase relation of the low-energy states in a potential artificial Kitaev chain utilizing a transmon qubit](Arastirmalar/2025-Zhuo-Measurement-parity-dependent-energy.md) — Zhuo vd. (2025) · *arXiv* · ön baskı / hakemsiz
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler

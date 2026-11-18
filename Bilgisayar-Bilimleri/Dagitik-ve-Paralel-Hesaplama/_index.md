@@ -86,7 +86,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **5**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **7**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -97,10 +97,12 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
 - [Secure Data Replication in Edge and Fog Computing Environments](Kenar-ve-Sis-Hesaplama/Arastirmalar/2026-Alalibo-Secure-Data-Replication-Edge.md) — Alalibo (2026) · *INTERNATIONAL JOURNAL OF COMPUTER SCIENCE AND MATHEMATICAL THEORY E-ISSN* · hakemli
+- [Energy-Aware Scheduling Using Nature-Inspired Algorithms in Cloud Computing](Bulut-Bilisim/Arastirmalar/2026-Memon-Energy-Aware-Scheduling-Using.md) — Memon vd. (2026) · *Computers* · hakemli
 - [Blockchain Integrated Decentralized Cloud Storage and Immutable Smart Contract Platform for Secure and Trustworthy Collaborative BIM](Dagitik-Defter-Teknolojileri/Blokzincir/Akilli-Sozlesmeler/Arastirmalar/2026-Sonmez-Blockchain-Integrated-Decentralized-Cloud.md) — Sönmez vd. (2026) · *Journal of Construction Engineering and Management* · hakemli
 - [A Systematic Literature Review of Blockchain and Distributed Ledger Technology for the Detection and Prevention of Phishing Attacks](Dagitik-Defter-Teknolojileri/Arastirmalar/2026-Odianosen-Systematic-Literature-Review-Blockchai.md) — Odianosen vd. (2026) · *Iconic Research and Engineering Journals* · hakemli
 - [Global decentralized stock exchange: an innovative permissioned-blockchain framework for integrated capital markets](Dagitik-Defter-Teknolojileri/Blokzincir/Izinli-Blokzincirler/Arastirmalar/2026-Al-Awadhi-Global-decentralized-stock-exchange.md) — Al-Awadhi vd. (2026) · *Journal of Financial Regulation and Compliance* · hakemli
 - [RISC-V Vector Processors for Edge AI and High-Performance Computing: A Focused Review of Architectures and Performance Evaluation Methods](Yuksek-Basarimli-Hesaplama/Arastirmalar/2026-Rajab-RISC-Vector-Processors-for.md) — Rajab vd. (2026) · *AlQalam Journal of Medical and Applied Sciences* · hakemli
+- [Low-overhead trust mechanism for efficient cross-domain authentication in internet of vehicles based on blockchain sharding](Dagitik-Defter-Teknolojileri/Blokzincir/Olceklendirme/Sharding/Arastirmalar/2026-Zhao-Low-overhead-trust-mechanism.md) — Zhao vd. (2026) · *Frontiers in Physics* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

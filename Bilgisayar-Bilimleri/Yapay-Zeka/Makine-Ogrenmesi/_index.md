@@ -96,7 +96,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **77**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **79**.
 
 - [Improving the Methodological, Information and Software Technology Support for Statistics Using the Analytical Capabilities of Artificial Intelligence and Machine Learning](Arastirmalar/2026-Khoroshilov-Improving-the-Methodological-Informa.md) — Khoroshilov vd. (2026) · *Statistics and Economics* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -110,12 +110,12 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 
 - [Explainable breast cancer classification using machine learning deep learning and transfer learning across multiple data modalities](Aktarim-Ogrenmesi/Arastirmalar/2026-Tiwari-Explainable-breast-cancer-classification.md) — Tiwari vd. (2026) · *Discover Computing* · hakemli
 - [A subspecialty diagnostic system powered by self-supervised learning for cervical histopathology](Oz-Gozetimli-Ogrenme/Arastirmalar/2026-Wang-subspecialty-diagnostic-system-powered.md) — Wang vd. (2026) · *Nature Communications* · hakemli · atıf: 2
+- [Random Forest Ensembles versus LSTM Networks in Applied Machine Learning: A Comparative Review of Healthcare, Finance and Energy Studies](Derin-Ogrenme/Yinelemeli-Sinir-Aglari/Uzun-Kisa-Sureli-Bellek/Arastirmalar/2026-Kavitha-Random-Forest-Ensembles-versus.md) — Kavitha vd. (2026) · *International Journal Of Recent Trends In Multidisciplinary Research* · hakemli
 - [Stein discrepancy for unsupervised domain adaptation](Aktarim-Ogrenmesi/Alan-Uyarlama/Arastirmalar/2026-Seeger-Stein-discrepancy-for-unsupervised.md) — Seeger vd. (2026) · *Statistics and Computing* · hakemli · atıf: 1
 - [Positional encoding cross-attention ResNet50 framework for lung cancer classification across CT and histopathological imaging modalities](Derin-Ogrenme/Transformer-Mimarileri/Konum-Kodlamalari/Arastirmalar/2026-Nivashini-Positional-encoding-cross-attention.md) — Nivashini vd. (2026) · *Scientific Reports* · hakemli
 - [Applying ranked set sampling to Gaussian mixture models of Glasgow Coma Scale scores in intracerebral hemorrhage](Gozetimsiz-Ogrenme/Kumeleme/Karisim-Modelleri/Arastirmalar/2026-Ahmed-Applying-ranked-set-sampling.md) — Ahmed vd. (2026) · *Scientific Reports* · hakemli
 - [Calibration and Cross-Dataset Behavior in Malaria Microscopy with Parameter-Efficient Fine-Tuning: A Matched LoRA–PiSSA Evaluation](Temel-Modeller/Buyuk-Dil-Modelleri/Parametre-Verimli-Ince-Ayar/Arastirmalar/2026-Boit-Calibration-and-Cross-Dataset.md) — Boit vd. (2026) · *Diagnostics* · hakemli
 - [Multi-Armed Bandit-Based Model Selection for Incremental Phishing Detection: An Empirical Study of Accuracy, Cost, and Concept Drift](Pekistirmeli-Ogrenme/Cok-Kollu-Haydutlar/Arastirmalar/2026-Al-Tarawneh-Multi-Armed-Bandit-Based.md) — Al-Tarawneh vd. (2026) · *Information* · hakemli
-- [Few-Shot Learning for Ransomware Detection: A Narrative Review of Machine Learning, Deep Learning and Siamese Neural Network Approaches](Aktarim-Ogrenmesi/Az-Ornekle-Ogrenme/Arastirmalar/2026-Bello-Few-Shot-Learning-for.md) — Bello vd. (2026) · *FUDMA Journal of Sciences* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

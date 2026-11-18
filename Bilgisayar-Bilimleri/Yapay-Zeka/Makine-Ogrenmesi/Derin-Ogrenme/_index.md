@@ -91,7 +91,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **19**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **21**.
 
 - [An Interpretable Deep Learning Model for Early Disease Diagnosis Leveraging SHAP Explanations](Arastirmalar/2026-Jain-Interpretable-Deep-Learning-Model.md) — Jain (2026) · *International Journal of Advanced Research in Science Communication and Technology* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -103,14 +103,14 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Random Forest Ensembles versus LSTM Networks in Applied Machine Learning: A Comparative Review of Healthcare, Finance and Energy Studies](Yinelemeli-Sinir-Aglari/Uzun-Kisa-Sureli-Bellek/Arastirmalar/2026-Kavitha-Random-Forest-Ensembles-versus.md) — Kavitha vd. (2026) · *International Journal Of Recent Trends In Multidisciplinary Research* · hakemli
 - [Positional encoding cross-attention ResNet50 framework for lung cancer classification across CT and histopathological imaging modalities](Transformer-Mimarileri/Konum-Kodlamalari/Arastirmalar/2026-Nivashini-Positional-encoding-cross-attention.md) — Nivashini vd. (2026) · *Scientific Reports* · hakemli
+- [A hybrid neural deep belief networks-gated recurrent unit algorithm with a leakage-aware evaluation protocol for ECG-HRV-based cognitive load classification](Yinelemeli-Sinir-Aglari/Kapili-Yinelemeli-Birimler/Arastirmalar/2026-Keikhosrokiani-hybrid-neural-deep-belief.md) — Keikhosrokiani vd. (2026) · *Scientific Reports* · hakemli
 - [Community benchmarking of generative models for privacy-preserving synthetic bulk RNA-seq data generation](Uretken-Modeller/Arastirmalar/2026-Ozturk-Community-benchmarking-generative-models.md) — Öztürk vd. (2026) · *Genome biology* · hakemli · atıf: 3
 - [Quantum Graph Neural Network for Financial Fraud Detection](Cizge-Sinir-Aglari/Arastirmalar/2026-Jyothirmayi-Quantum-Graph-Neural-Network.md) — Jyothirmayi (2026) · *International Journal of Advanced Scientific Innovation* · hakemli
 - [An Interpretable Deep Learning Model for Early Disease Diagnosis Leveraging SHAP Explanations](Arastirmalar/2026-Jain-Interpretable-Deep-Learning-Model.md) — Jain (2026) · *International Journal of Advanced Research in Science Communication and Technology* · hakemli
 - [AME-Net++: adaptive mixture-of-experts for intelligent intraoperative 3D reconstruction](Mixture-of-Experts/Arastirmalar/2026-Liu-AME-Net-adaptive-mixture.md) — Liu vd. (2026) · *Intelligence & Robotics* · hakemli
 - [An Explainable Graph Attention Network for Indirect Prompt Injection Detection in RAG Systems](Cizge-Sinir-Aglari/Cizge-Dikkat-Aglari/Arastirmalar/2026-Rudrani-Explainable-Graph-Attention-Network.md) — Rudrani vd. (2026) · *International Journal for Research in Applied Science and Engineering Technology* · hakemli
-- [Cognitive Cybersecurity via Bio-Inspired Intelligence: A Starling Flock Optimized Spiking Neural Network for Resilient Mobile Threat Detection](Ateslemeli-Sinir-Aglari/Arastirmalar/2026-Thiruselvaraj-Cognitive-Cybersecurity-via-Bio.md) — Thiruselvaraj vd. (2026) · *Acta Technica Jaurinensis* · hakemli
-- [MedClassNet: a novel NLP framework for automated disease classification from clinical text using transformer and graph attention networks](Cizge-Sinir-Aglari/Cizge-Dikkat-Aglari/Arastirmalar/2026-Shivahare-MedClassNet-novel-NLP-framework.md) — Shivahare vd. (2026) · *Scientific Reports* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

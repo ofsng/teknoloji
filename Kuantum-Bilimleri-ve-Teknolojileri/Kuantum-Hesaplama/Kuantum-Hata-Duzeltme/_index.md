@@ -89,7 +89,7 @@ last_maintained: 2026-11-05
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **5**, alt teknolojiler dahil: **5**.
+Arşivdeki kayıtlar — bu düğüm: **5**, alt teknolojiler dahil: **6**.
 
 - [Mixed-state entanglement and quantum error correction](Arastirmalar/1996-Bennett-Mixed-state-entanglement-and.md) — Bennett vd. (1996) · *Physical Review A* · hakemli · atıf: 5158
 - [Multiple-particle interference and quantum error correction](Arastirmalar/1996-Steane-Multiple-particle-interference-and.md) — Steane (1996) · *Proceedings of the Royal Society A Mathematical Physical and Engineering Sciences* · hakemli · atıf: 1579

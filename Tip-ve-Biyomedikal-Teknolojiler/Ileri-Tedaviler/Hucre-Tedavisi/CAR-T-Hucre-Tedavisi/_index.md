@@ -75,17 +75,17 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **12**, alt teknolojiler dahil: **12**.
+Arşivdeki kayıtlar — bu düğüm: **13**, alt teknolojiler dahil: **13**.
 
 - [CAR-T cell therapy in hematology malignancies: breaking barriers, engineering the future](Arastirmalar/2026-Alvizo-Baez-CAR-cell-therapy-hematology.md) — Alvizo-Báez vd. (2026) · *Frontiers in Immunology* · hakemli
 - [PET/CT in CAR T-Cell Therapy for Hematologic Malignancies: A Bibliometric and Clinically Annotated Analysis](Arastirmalar/2026-Arslan-PET-CAR-Cell-Therapy.md) — Arslan vd. (2026) · *Hemato* · hakemli
 - [Bridging to CD19 CAR T-cell therapy for large B-cell lymphoma: An analysis of 1,134 patients by the EBMT Lymphoma Working Party and the GoCART Coalition](Arastirmalar/2026-Berning-Bridging-CD19-CAR-cell.md) — Berning vd. (2026) · *Bone Marrow Transplantation* · hakemli
 - [Beyond ICANS: Cellular and Molecular Mechanisms Linking CAR T-Cell Therapy to Long-Term Neurocognitive Outcomes](Arastirmalar/2026-Fleischer-Beyond-ICANS-Cellular-and.md) — Fleischer vd. (2026) · *Cells* · hakemli
 - [IP10 armoring enhances CLDN-18.2–directed CAR-T cell therapy in pancreatic cancer by promoting T cell infiltration and vascular remodeling, with additive benefits from IL-15 co-modification](Arastirmalar/2026-Hu-IP10-armoring-enhances-CLDN.md) — Hu vd. (2026) · *Frontiers in Immunology* · hakemli
+- [Pneumocystis jirovecii Pneumonia in Haematology Patients Treated with Bispecific Antibodies, CAR-T Cell Therapy and Targeted Small Molecules](Arastirmalar/2026-Koning-Pneumocystis-jirovecii-Pneumonia-Haematol.md) — Koning vd. (2026) · *Current Fungal Infection Reports* · hakemli
 - [Feeding T cell enhancement of CAR-T cell therapy for minimal B cell malignancy: evidences from in vitro and in vivo models](Arastirmalar/2026-Liu-Feeding-cell-enhancement-CAR.md) — Liu vd. (2026) · *BMC Medicine* · hakemli
 - [Quadruple co-culture vascular models of haematological malignancy CAR T cell therapy for nonclinical safety and efficacy studies](Arastirmalar/2026-Lund-Quadruple-culture-vascular-models.md) — Lund vd. (2026) · *Frontiers in Immunology* · hakemli
-- [Clinical and Mechanistic Insights into Non-ICANS Neurotoxicity Following BCMA CAR T-Cell Therapy](Arastirmalar/2026-Mueller-Jensen-Clinical-and-Mechanistic-Insights.md) — Mueller-Jensen vd. (2026) · *Neurology* · hakemli
-- … ve 4 kayıt daha: [Arastirmalar/](Arastirmalar/)
+- … ve 5 kayıt daha: [Arastirmalar/](Arastirmalar/)
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler

@@ -86,7 +86,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **7**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **8**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -96,6 +96,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Base editing-mediated precision genome engineering in Toxoplasma gondii](Genom-Muhendisligi/Gen-Duzenleme/CRISPR-Cas-Sistemleri/Baz-Duzenleme/Arastirmalar/2026-Liu-Base-editing-mediated-precision.md) — Liu vd. (2026) · *PLoS neglected tropical diseases* · hakemli
 - [Long-read sequencing of the Amami rabbit mitochondrial genome reveals extensive tandem repeats in the D-loop region overlooked in previous assemblies](DNA-Dizileme/Uzun-Okuma-Dizileme/Arastirmalar/2026-Aoto-Long-read-sequencing-the.md) — Aoto vd. (2026) · *Scientific Reports* · hakemli
 - [Spatial transcriptomics reveals organizational properties of the mouse spinal cord and alterations in neuropathic pain](DNA-Dizileme/Uzamsal-Transkriptomik/Arastirmalar/2026-Wang-Spatial-transcriptomics-reveals-organizatio.md) — Wang vd. (2026) · *Proceedings of the National Academy of Sciences* · hakemli · atıf: 9
 - [DNA methylation and Polycomb-mediated repression at plant transposable elements: Antagonism, cooperation and a continuum of epigenetic silencing states](Epigenetik/DNA-Metilasyonu/Arastirmalar/2026-Hure-DNA-methylation-and-Polycomb.md) — Hure vd. (2026) · *Current Opinion in Plant Biology* · hakemli

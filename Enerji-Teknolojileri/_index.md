@@ -84,7 +84,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **29**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **33**.
 
 - [The Role of Civil Engineering in Renewable Energy Storage: Contributions and Challenges](Arastirmalar/2026-Yao-The-Role-Civil-Engineering.md) — Yao (2026) · *Applied and Computational Engineering* · hakemli
 <!-- AUTO:RESEARCH:END -->

@@ -3001,6 +3001,76 @@
   "url": "https://arxiv.org/abs/2611.16210"
  },
  {
+  "added": "2026-11-18",
+  "arxiv": "2510.07050",
+  "candidates": [
+   [
+    "explainable-ai",
+    7.42
+   ],
+   [
+    "artificial-intelligence",
+    4.3
+   ],
+   [
+    "machine-learning",
+    4.22
+   ],
+   [
+    "factor-analysis",
+    1.2
+   ],
+   [
+    "analysis",
+    0.26
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2510.07050",
+   "title:thefeatureunderstandabilityscaleforhumancentredexplainableaiassessingtabularfeatureimportance|2025"
+  ],
+  "reason": "backlog'dan: güven düştü (taksonomi değişmiş olabilir)",
+  "record": {
+   "abstract": "As artificial intelligence becomes increasingly pervasive and powerful, the ability to audit AI-based systems is growing in importance. However, explainability for artificial intelligence systems is not a one-size-fits-all solution; different target audiences have varying requirements and expectations for explanations. While various approaches to explainability have been proposed, most explainable artificial intelligence methods for tabular data focus on explaining the outputs of supervised machine learning models using the input features. However, a user's ability to understand an explanation depends on their understanding of such features. Therefore, it is in the best interest of the system designer to try to pre-select understandable features for producing a global explanation of an ML model. Unfortunately, no measure currently exists to assess the degree to which a user understands a given input feature. This work introduces two psychometrically validated scales that quantitatively seek to assess users' perceived understanding of tabular input features for supervised classification problems. Specifically, these scales, one for numerical and one for categorical data, each with two factors and comprising 8 and 9 items, aim to assign a score to each input feature, effectively producing a rank and allowing for the quantification of feature prioritisation. A confirmatory factor analysis demonstrates a strong relationship between such items and a good fit of the two-factor structure for each scale. This research presents a novel method for assessing understanding and outlines potential applications in the domain of explainable artificial intelligence.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2510.07050",
+   "authors": [
+    "Nicola Rossberg",
+    "Bennett Kleinberg",
+    "Barry O'Sullivan",
+    "Luca Longo",
+    "Andrea Visentin"
+   ],
+   "categories": [
+    "arXiv:cs.HC"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2025-10-08",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2510.07050"
+   ],
+   "title": "The Feature Understandability Scale for Human-Centred Explainable AI: Assessing Tabular Feature Importance",
+   "topics": [],
+   "updated_date": "2026-10-21",
+   "url": "https://arxiv.org/abs/2510.07050"
+  },
+  "score": 7.42,
+  "seen": 1,
+  "suggested": "explainable-ai",
+  "title": "The Feature Understandability Scale for Human-Centred Explainable AI: Assessing Tabular Feature Importance",
+  "url": "https://arxiv.org/abs/2510.07050"
+ },
+ {
   "added": "2026-11-16",
   "arxiv": "2410.18497",
   "candidates": [
@@ -3423,6 +3493,83 @@
   "url": "https://arxiv.org/abs/2611.19049"
  },
  {
+  "added": "2026-11-18",
+  "arxiv": "2611.20451",
+  "candidates": [
+   [
+    "generative-models",
+    7.26
+   ],
+   [
+    "flow-matching",
+    5.4
+   ],
+   [
+    "computer-aided-design",
+    1.79
+   ],
+   [
+    "computer-aided-engineering",
+    1.79
+   ],
+   [
+    "gaussian-processes",
+    1.2
+   ],
+   [
+    "optimization",
+    1.05
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.20451",
+   "title:generativeaidrivenparametricdesignoptimizationframeworkforvehicleclosuresystems|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "This study presents a generative AI-driven parametric design optimization framework integrating performance-oriented generation with editable computer-aided design (CAD) and downstream computer-aided engineering (CAE) analysis for industrial vehicle closure systems. The framework is demonstrated on an automotive tailgate assembly with complex geometry, coupled components, and competing performance and feasibility requirements. A production-oriented CATIA model is restructured into a reference-based parametric template with a 13-dimensional design representation. An automated CAD/CAE workflow generates parametric models, performs structural analysis, and constructs a database of mass, maximum displacement, and maximum von Mises stress. Gaussian process regression surrogates predict performance, while diffusion and flow matching models generate design candidates. The design problem minimizes mass and maximum displacement, with stress assessed as an engineering feasibility constraint. Performance-guided generation using surrogate guidance and performance-aware training using a performance-aware loss incorporate engineering objectives, with sensitivity to guidance scale and loss weight evaluated. Generative search is compared with NSGA-II under matched evaluation budgets using a common surrogate model. Selected Pareto-region candidates are reconstructed in CATIA and re-evaluated through native CAE; all verified candidates are successfully regenerated and analyzed. Relative to the baseline, the knee-point design reduces mass by 7.1% and maximum displacement by 29.4%, while extreme verified solutions achieve maximum reductions of 10.3% and 37.3%, respectively. The results demonstrate performance-oriented multi-objective design exploration compatible with editable industrial CAD and native engineering verification.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.20451",
+   "authors": [
+    "Dongeon Lee",
+    "Yurim Lee",
+    "Jiyong Kim",
+    "Sanghyeon Kim",
+    "Sanghyun Lee",
+    "Seungyeon Shin",
+    "Jeahong Kim",
+    "Namwoo Kang"
+   ],
+   "categories": [
+    "arXiv:cs.LG"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-16",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.20451"
+   ],
+   "title": "Generative AI-Driven Parametric Design Optimization Framework for Vehicle Closure Systems",
+   "topics": [],
+   "updated_date": "2026-11-16",
+   "url": "https://arxiv.org/abs/2611.20451"
+  },
+  "score": 7.26,
+  "seen": 1,
+  "suggested": "generative-models",
+  "title": "Generative AI-Driven Parametric Design Optimization Framework for Vehicle Closure Systems",
+  "url": "https://arxiv.org/abs/2611.20451"
+ },
+ {
   "added": "2026-11-13",
   "arxiv": "2611.14926",
   "candidates": [
@@ -3543,6 +3690,73 @@
   "suggested": "neutral-atom-qubits",
   "title": "Controlling Rydberg atom-polariton interactions: from exceptional points to fast readout",
   "url": "https://arxiv.org/abs/2601.06345"
+ },
+ {
+  "added": "2026-11-18",
+  "arxiv": "2607.08418",
+  "candidates": [
+   [
+    "neutral-atom-qubits",
+    7.23
+   ],
+   [
+    "lasers",
+    0.26
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2607.08418",
+   "title:efficientphotoionizingeliminationofdetrimentalelectricfieldsforrydbergatoms|2026"
+  ],
+  "reason": "backlog'dan: güven düştü (taksonomi değişmiş olabilir)",
+  "record": {
+   "abstract": "Rydberg atoms are highly sensitive to external electric fields due to their exaggerated electronic properties. This unique feature underpins many of their applications in quantum science. However, uncontrolled stray electric fields can be detrimental, severely degrading quantum control. In this work, we demonstrate a novel scheme that efficiently creates an in-vacuum charge source by photo-ionizing laser-cooled atoms and eliminates detrimental electric fields in a Rydberg-atom tweezer array platform, using only readily available resources. With this method, we began with Stark-ionized Rydberg continuum spectra caused by a large, unknown stray electric field of more than $10~\\mathrm{V/cm}$ and ultimately recovered well-resolved coherent excitation of individual Rydberg states after eliminating the residual field to an upper limit of $20(1)~\\mathrm{mV/cm}$. Our method applies directly to existing Rydberg-atom platforms and other experiments sensitive to stray electric fields.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2607.08418",
+   "authors": [
+    "Zhou-Chen Deng",
+    "Hao-Nan Lin",
+    "Yu-Cheng Duan",
+    "Qi Zhang",
+    "Xiang-Can Cheng",
+    "Yang Liu",
+    "Zhao-Yang Yuan",
+    "Jie Li",
+    "Peng Liu",
+    "Zhan Wu",
+    "Chao-Yang Lu",
+    "Jun Rui",
+    "Jian-Wei Pan"
+   ],
+   "categories": [
+    "arXiv:physics.atom-ph",
+    "arXiv:quant-ph"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-07-09",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2607.08418"
+   ],
+   "title": "Efficient photo-ionizing elimination of detrimental electric fields for Rydberg atoms",
+   "topics": [],
+   "updated_date": "2026-11-10",
+   "url": "https://arxiv.org/abs/2607.08418"
+  },
+  "score": 7.23,
+  "seen": 1,
+  "suggested": "neutral-atom-qubits",
+  "title": "Efficient photo-ionizing elimination of detrimental electric fields for Rydberg atoms",
+  "url": "https://arxiv.org/abs/2607.08418"
  },
  {
   "added": "2026-11-15",
@@ -10675,246 +10889,5 @@
   "suggested": "stochastic-processes",
   "title": "Instrumental Variables in Continuous-Time Stochastic Processes",
   "url": "https://arxiv.org/abs/2611.07674"
- },
- {
-  "added": "2026-11-14",
-  "arxiv": "2511.18108",
-  "candidates": [
-   [
-    "metamaterials",
-    3.69
-   ],
-   [
-    "mechanical-engineering",
-    3.1
-   ],
-   [
-    "network-science",
-    1.8
-   ],
-   [
-    "acoustics",
-    0.39
-   ]
-  ],
-  "confidence": "medium",
-  "doi": "10.1038/s41586-026-11191-2",
-  "keys": [
-   "arxiv:2511.18108",
-   "doi:10.1038/s41586-026-11191-2",
-   "title:scalerichnetworkbasedmetamaterials|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "Materials, at their essence, are networks defined by homogeneity: uniform bonds, fixed thicknesses and discrete length scales. Mechanical metamaterials, while representing structurally more diverse microstructures, remain defined by the homogeneity of their unit cells, pore sizes or repeating features1,2. In contrast, as network science has revealed, real-world and biological systems—from the Internet to the brain—derive their function from broad, multiscale variability in connectivity and link length3–6. Here we introduce scale-rich metamaterials, a design framework that embeds network heterogeneity into mechanical metamaterials, achieving orders-of-magnitude heterogeneity in ligament lengths, thicknesses and connectivity. Governed by only two parameters, scale-rich networks span orders of magnitude in structural features, overcoming previous constraints in metamaterial design. Translating these network models into physically realizable materials, we use simulations and experiments to show that scale-rich metamaterials exhibit properties inaccessible to traditional single-scale systems, including highly tunable elastic anisotropy, delocalized nonlinear deformation with high energy absorption, enhanced energy dissipation under dynamic loading and programmable elastic-wave control. This network-based framework establishes a minimal and universal model for engineering multifunctional materials whose mechanical behaviour emerges directly from scale diversity, and also opens avenues of enquiry for network science itself. A network-science-based framework that embeds network heterogeneity into mechanical metamaterials is used to produce scale-rich metamaterials that exhibit properties inaccessible to traditional single-scale systems.",
-   "abstract_license": "cc-by-nc-nd",
-   "arxiv": "2511.18108",
-   "authors": [
-    "Csaba Both",
-    "Andrew Y. Chen",
-    "Ting-Ting Gao",
-    "M. N. Mooij",
-    "Mohammad Charara",
-    "Jayna Wadhwa",
-    "Carlos M. Portela",
-    "Albert-Ĺaszló Barabási"
-   ],
-   "categories": [
-    "OpenAlex-field:Engineering"
-   ],
-   "cited_by_count": 3,
-   "doi": "10.1038/s41586-026-11191-2",
-   "is_retracted": false,
-   "keywords": [
-    "mechanical metamaterials",
-    "network heterogeneity",
-    "elastic anisotropy",
-    "energy absorption",
-    "nonlinear deformation",
-    "acoustic wave control",
-    "tunable materials"
-   ],
-   "language": "en",
-   "oa_created": "2025-11-27",
-   "peer_reviewed": true,
-   "publication": "Nature",
-   "publication_type": "article",
-   "published_date": "2026-11-11",
-   "related_versions": [],
-   "source_ids": [
-    "openalex:W7106663053"
-   ],
-   "title": "Scale-rich network-based metamaterials",
-   "topics": [
-    "Advanced Materials and Mechanics",
-    "Mechanical Engineering"
-   ],
-   "updated_date": "2026-11-13",
-   "url": "https://doi.org/10.1038/s41586-026-11191-2"
-  },
-  "score": 3.69,
-  "seen": 1,
-  "suggested": "metamaterials",
-  "title": "Scale-rich network-based metamaterials",
-  "url": "https://doi.org/10.1038/s41586-026-11191-2"
- },
- {
-  "added": "2026-11-09",
-  "arxiv": "2404.17529",
-  "candidates": [
-   [
-    "algebraic-topology",
-    3.1
-   ],
-   [
-    "mathematical-physics",
-    3.1
-   ],
-   [
-    "algebra",
-    2.38
-   ]
-  ],
-  "confidence": "medium",
-  "doi": "10.1016/j.aim.2026.111376",
-  "keys": [
-   "arxiv:2404.17529",
-   "doi:10.1016/j.aim.2026.111376",
-   "title:kaledinclassesandformalitycriteria|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "We develop a general obstruction theory to the formality of algebraic structures over any commutative ground ring. It relies on the construction of Kaledin obstruction classes that faithfully detect the formality of differential graded algebras over operads or properads, possibly colored in groupoids. The present treatment generalizes the previous obstruction classes in two directions: outside characteristic zero and including a wider range of algebraic structures. This enables us to establish novel formality criteria, including formality descent with torsion coefficients, formality in families, intrinsic formality, and criteria in terms of chain-level lifts of homology automorphism.",
-   "abstract_license": "cc-by",
-   "arxiv": "2404.17529",
-   "authors": [
-    "Coline Emprin"
-   ],
-   "categories": [
-    "OpenAlex-field:Mathematics"
-   ],
-   "cited_by_count": 12,
-   "doi": "10.1016/j.aim.2026.111376",
-   "is_retracted": false,
-   "keywords": [
-    "formality",
-    "differential graded algebras",
-    "operads",
-    "properads",
-    "obstruction theory",
-    "torsion coefficients"
-   ],
-   "language": "en",
-   "oa_created": "2024-04-30",
-   "peer_reviewed": true,
-   "publication": "Advances in Mathematics",
-   "publication_type": "article",
-   "published_date": "2026-11-06",
-   "related_versions": [],
-   "source_ids": [
-    "openalex:W4396244024"
-   ],
-   "title": "Kaledin classes and formality criteria",
-   "topics": [
-    "Homotopy and Cohomology in Algebraic Topology",
-    "Mathematical Physics"
-   ],
-   "updated_date": "2026-11-08",
-   "url": "https://doi.org/10.1016/j.aim.2026.111376"
-  },
-  "score": 3.1,
-  "seen": 1,
-  "suggested": "algebraic-topology",
-  "title": "Kaledin classes and formality criteria",
-  "url": "https://doi.org/10.1016/j.aim.2026.111376"
- },
- {
-  "added": "2026-11-14",
-  "arxiv": "2604.03229",
-  "candidates": [
-   [
-    "integrated-photonics",
-    5.38
-   ],
-   [
-    "optical-lattice-clocks",
-    2.13
-   ],
-   [
-    "laser-cooling-and-trapping",
-    2.1
-   ],
-   [
-    "particle-in-cell-simulation",
-    2.1
-   ],
-   [
-    "laser-stabilization",
-    1.38
-   ],
-   [
-    "atomic-clocks",
-    1.2
-   ]
-  ],
-  "confidence": "medium",
-  "doi": null,
-  "keys": [
-   "arxiv:2604.03229",
-   "title:ascalableinfrastructureforstrontiumopticalclockswithintegratedphotonics|2026"
-  ],
-  "reason": "backlog'dan: güven düştü (taksonomi değişmiş olabilir)",
-  "record": {
-   "abstract": "Optical atomic clocks provide exceptionally accurate and precise signals for timekeeping and precision measurements, but they require high-power, free-space laser configurations that limit scalability. We introduce and explore a scalable infrastructure for strontium (Sr) optical-lattice clocks that incorporates co-design of atomic-beam slowing and a magneto-optical trap (MOT) from an effusion source, generation of complex, three-dimensional free-space laser configurations with a photonic integrated circuit (PIC) and metasurface (MS) optics, and laser stabilization to a frequency-comb supercontinuum generated with integrated nonlinear photonics. With these elements, we realize MOTs of all stable strontium isotopes ($^{84}$Sr, $^{86}$Sr, $^{87}$Sr, $^{88}$Sr) with populations commensurate with natural abundances, demonstrating precise beam control and robustness. Access to laser-cooled alkaline-earth atoms with scalable integrated photonics enables system engineering for optical clocks, quantum sensing, and quantum information, and our experiments demonstrate extensible technologies that advance toward a Sr optical clock largely free of bulk optics.",
-   "abstract_license": "cc0-1.0 (arxiv metadata)",
-   "arxiv": "2604.03229",
-   "authors": [
-    "Zheng Luo",
-    "Travis C. Briles",
-    "Zachary L. Newman",
-    "Aidan R. Jones",
-    "Andrew R. Ferdinand",
-    "Sindhu Jammi",
-    "Grisha Spektor",
-    "David R. Carlson",
-    "Akash Rakholia",
-    "Dan Sheredy",
-    "Parth Patel",
-    "Martin M. Boyd",
-    "Chad Ropp",
-    "Daron Westly",
-    "Vladimir A. Aksyuk",
-    "Wenqi Zhu",
-    "Junyeob Song",
-    "Amit Agrawal",
-    "Scott B. Papp"
-   ],
-   "categories": [
-    "arXiv:physics.app-ph",
-    "arXiv:physics.atom-ph"
-   ],
-   "cited_by_count": null,
-   "doi": null,
-   "is_retracted": null,
-   "keywords": [],
-   "language": "en",
-   "peer_reviewed": false,
-   "publication": "arXiv",
-   "publication_type": "preprint",
-   "published_date": "2026-04-03",
-   "related_versions": [],
-   "source_ids": [
-    "arxiv:2604.03229"
-   ],
-   "title": "A scalable infrastructure for strontium optical clocks with integrated photonics",
-   "topics": [],
-   "updated_date": "2026-04-03",
-   "url": "https://arxiv.org/abs/2604.03229"
-  },
-  "score": 5.38,
-  "seen": 1,
-  "suggested": "integrated-photonics",
-  "title": "A scalable infrastructure for strontium optical clocks with integrated photonics",
-  "url": "https://arxiv.org/abs/2604.03229"
  }
 ]

@@ -78,7 +78,10 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **3**.
+Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **5**.
+
+- [Digital health interventions for psoriasis management: a systematic review and meta-analysis of randomized controlled trials](Arastirmalar/2026-Zhang-Digital-health-interventions-for.md) — Zhang vd. (2026) · *Frontiers in Medicine* · hakemli · atıf: 1
+- [Technology Empowerment or Reinventing Barriers?—A Study on the Impact of Digital Health Literacy on Access to Basic Public Health Services among Elderly](Arastirmalar/2026-Ha-Technology-Empowerment-Reinventing-Barriers.md) — Ha (2026) · *Theoretical and Natural Science* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -90,6 +93,8 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 
 - [Effectiveness of a novel mobile health application in educating first-time complete denture wearers: a prospective randomized controlled clinical study](Mobil-Saglik/Arastirmalar/2026-Sooda-Effectiveness-novel-mobile-health.md) — Sooda vd. (2026) · *BMC Oral Health* · hakemli
 - [Mentorship for electronic health record quality improvement in Nigeria: A practice framework](Saglik-Bilisimi/Elektronik-Saglik-Kayitlari/Arastirmalar/2026-Popoola-Mentorship-for-electronic-health.md) — Popoola (2026) · *Innovation in Health for Society* · hakemli
+- [Technology Empowerment or Reinventing Barriers?—A Study on the Impact of Digital Health Literacy on Access to Basic Public Health Services among Elderly](Arastirmalar/2026-Ha-Technology-Empowerment-Reinventing-Barriers.md) — Ha (2026) · *Theoretical and Natural Science* · hakemli
+- [Digital health interventions for psoriasis management: a systematic review and meta-analysis of randomized controlled trials](Arastirmalar/2026-Zhang-Digital-health-interventions-for.md) — Zhang vd. (2026) · *Frontiers in Medicine* · hakemli · atıf: 1
 - [Mapping the evidence on implementation of clinical decision support systems in nurses' reverse triage decisions during disaster surges: A scoping review with a proposed conceptual framework](Saglik-Bilisimi/Klinik-Karar-Destek-Sistemleri/Arastirmalar/2026-Salasa-Mapping-the-evidence-implementation.md) — Salasa vd. (2026) · *International Emergency Nursing* · hakemli
 <!-- AUTO:RECENT:END -->
 

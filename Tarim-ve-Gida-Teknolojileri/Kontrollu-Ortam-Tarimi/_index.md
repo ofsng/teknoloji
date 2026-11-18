@@ -77,7 +77,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **2**.
 
 - [From Setpoints to System Dynamics: Integrating Light, CO2 and Fertigation in Controlled-Environment Agriculture](Arastirmalar/2026-Phaugat-From-Setpoints-System-Dynamics.md) — Phaugat vd. (2026) · *International Journal of Molecular Sciences* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -90,6 +90,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
 - [From Setpoints to System Dynamics: Integrating Light, CO2 and Fertigation in Controlled-Environment Agriculture](Arastirmalar/2026-Phaugat-From-Setpoints-System-Dynamics.md) — Phaugat vd. (2026) · *International Journal of Molecular Sciences* · hakemli
+- [Enter the tomatrix: model-driven ideotype design for dwarf tomato in vertical farming](Dikey-Tarim/Arastirmalar/2026-Butturini-Enter-the-tomatrix-model.md) — Butturini vd. (2026) · *in silico Plants* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

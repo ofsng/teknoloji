@@ -83,7 +83,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **3**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -95,6 +95,7 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 
 - [Blockchain Integrated Decentralized Cloud Storage and Immutable Smart Contract Platform for Secure and Trustworthy Collaborative BIM](Akilli-Sozlesmeler/Arastirmalar/2026-Sonmez-Blockchain-Integrated-Decentralized-Cloud.md) — Sönmez vd. (2026) · *Journal of Construction Engineering and Management* · hakemli
 - [Global decentralized stock exchange: an innovative permissioned-blockchain framework for integrated capital markets](Izinli-Blokzincirler/Arastirmalar/2026-Al-Awadhi-Global-decentralized-stock-exchange.md) — Al-Awadhi vd. (2026) · *Journal of Financial Regulation and Compliance* · hakemli
+- [Low-overhead trust mechanism for efficient cross-domain authentication in internet of vehicles based on blockchain sharding](Olceklendirme/Sharding/Arastirmalar/2026-Zhao-Low-overhead-trust-mechanism.md) — Zhao vd. (2026) · *Frontiers in Physics* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

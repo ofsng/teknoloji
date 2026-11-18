@@ -89,7 +89,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **5**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **7**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -99,6 +99,8 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Green Analytical Chemistry-Oriented RPLC Method for Determining the Dissociation Constant of the Nootropic Drug Piracetam in Binary Solvent Systems](Analitik-Kimya/Arastirmalar/2026-Daldal-Green-Analytical-Chemistry-Oriented.md) — Daldal vd. (2026) · *Journal of Chemical & Engineering Data* · hakemli
+- [Open Microfluidic Probe Enabled Regional Surface Modification of Single Cells by Click Chemistry](Organik-Kimya/Klik-Kimyasi/Arastirmalar/2026-Song-Open-Microfluidic-Probe-Enabled.md) — Song vd. (2026) · *Analytical Chemistry* · hakemli
 - [Kinetic Acceleration and the Stoichiometric Limit Dictate the Behavior of Reactivity-Enhanced Step-Growth Polymerization](Polimer-Kimyasi/Polimerizasyon-Yontemleri/Basamakli-Buyume-Polimerizasyonu/Arastirmalar/2026-Tang-Kinetic-Acceleration-and-the.md) — Tang vd. (2026) · *Macromolecules* · hakemli
 - [Quantum Sensing of Lithium Ions with Defect-Engineered Recognition Pockets in a TEMPO-Modified Covalent Organic Framework](Anorganik-Kimya/Kovalent-Organik-Kafesler/Arastirmalar/2026-Sun-Quantum-Sensing-Lithium-Ions.md) — Sun vd. (2026) · *Journal of the American Chemical Society* · hakemli
 - [Hexafluoroethane purification via molecular sieving in a molecule-trap metal-organic framework](Anorganik-Kimya/Metal-Organik-Kafesler/Arastirmalar/2026-Ruan-Hexafluoroethane-purification-via-molecular.md) — Ruan vd. (2026) · *Nature Communications* · hakemli

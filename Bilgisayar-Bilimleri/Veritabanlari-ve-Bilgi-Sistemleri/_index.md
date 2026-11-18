@@ -90,7 +90,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **7**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **8**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -105,6 +105,7 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [Pyramidal inhibitory lightweight autoassociative reconstruction for cost-constrained visual anomaly detection](Veri-Madenciligi/Anomali-Tespiti/Arastirmalar/2026-Fernandes-Pyramidal-inhibitory-lightweight-autoa.md) — Fernandes (2026) · *Discover Artificial Intelligence* · hakemli
 - [Rancang Bangun Sistem E-Commerce Koperasi Desa Merah Putih Silian Satu Berbasis Website dengan Fitur Rekomendasi Produk Menggunakan Algoritma Content-Based Filtering](Bilgi-Erisimi/Oneri-Sistemleri/Icerik-Tabanli-Filtreleme/Arastirmalar/2026-Meteng-Rancang-Bangun-Sistem-Commerce.md) — Meteng vd. (2026) · *Jurnal JTIK (Jurnal Teknologi Informasi dan Komunikasi)* · hakemli
 - [Robust learning under natural rating noise for collaborative filtering](Bilgi-Erisimi/Oneri-Sistemleri/Isbirlikci-Filtreleme/Arastirmalar/2026-Braida-Robust-learning-under-natural.md) — Braida vd. (2026) · *International Journal of Data Science and Analytics* · hakemli
+- [Characterizing Human and LLM Responses in Low-Resource Swahili Agricultural Information Retrieval](Bilgi-Erisimi/Arastirmalar/2026-Maginga-Characterizing-Human-and-LLM.md) — Maginga (2026) · *Information* · hakemli
 - [A Leakage-Controlled Prefix-Based Association Rule Mining and Ranking Framework for Predictive Process Monitoring](Veri-Madenciligi/Birliktelik-Kurali-Madenciligi/Arastirmalar/2026-Algazairi-Leakage-Controlled-Prefix-Based.md) — Algazairi vd. (2026) · *Al-Farooq Journal of Sciences* · hakemli
 - [Interpretable Early Termination of Web Navigation Agents via Closed Sequential Pattern Mining](Veri-Madenciligi/Sirali-Oruntu-Madenciligi/Arastirmalar/2026-Talavera-Interpretable-Early-Termination-Web.md) — Talavera vd. (2026) · *arXiv* · ön baskı / hakemsiz
 <!-- AUTO:RECENT:END -->
