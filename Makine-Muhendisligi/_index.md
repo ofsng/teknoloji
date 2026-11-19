@@ -83,7 +83,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **5**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **7**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -93,11 +93,13 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [High-Temperature Water-to-Water Heat Pumps for the Retrofit of a Residential Complex](Isil-Muhendislik/Iklimlendirme-Muhendisligi/Isi-Pompalari/Arastirmalar/2026-Hiris-High-Temperature-Water-Water.md) — Hiris vd. (2026) · *Buildings* · hakemli
 - [Rank reduction autoencoders for mechanical design: Learning structured latent manifolds for topology optimization](Makine-Tasarimi/Topoloji-Optimizasyonu/Arastirmalar/2026-Ben-Yelun-Rank-reduction-autoencoders-for.md) — Ben-Yelun vd. (2026) · *Computers & Structures* · hakemli · atıf: 3
 - [Mathematical Modeling and Comparative Analysis of Stability in Internal Combustion Engine and Electric Vehicles](Icten-Yanmali-Motorlar/Arastirmalar/2026-Tanakawin-Mathematical-Modeling-and-Comparative.md) — Tanakawin (2026) · *Journal of Research and Applications in Mechanical Engineering* · hakemli
 - [MODELING OF TECHNOLOGICAL EQUIPMENT FOR THE PURPOSE OF PLATE HEAT EXCHANGERS INTEGRATION INTO THE HYDRAULIC SYSTEM USING THE EXAMPLE OF HEAVY-DUTY VEHICLES](Isil-Muhendislik/Isi-Degistiriciler/Arastirmalar/2026-Salnikov-MODELING-TECHNOLOGICAL-EQUIPMENT-FOR.md) — Salnikov vd. (2026) · *Integrated Technologies and Energy Saving* · hakemli
 - [Study on flow and heat transfer characteristics of a D-type triple-period minimal surface heat exchanger](Isil-Muhendislik/Arastirmalar/2026-Wu-Study-flow-and-heat.md) — Wu vd. (2026) · *International Journal of Turbo and Jet Engines* · hakemli
 - [Experimental Assessment of Heat Transfer Enhancement in an Air Duct Using Removable Helical Rib Inserts with Pitch Ratios](Isil-Muhendislik/Isi-Transferi/Arastirmalar/2026-Hamad-Experimental-Assessment-Heat-Transfer.md) — Hamad vd. (2026) · *Journal of Engineering Research and Reports* · hakemli
+- [Describing function-based modal analysis](Muhendislik-Mekanigi/Titresim-Muhendisligi/Modal-Analiz/Arastirmalar/2026-Tiggelen-Describing-function-based-modal.md) — Tiggelen vd. (2026) · *Computers & Structures* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

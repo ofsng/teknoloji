@@ -75,7 +75,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **3**.
+
+- [Spatial prioritization of official offshore wind zones in the Colombian Caribbean: A comparative assessment of fixed-bottom and floating areas](Arastirmalar/2026-Robles-Algarin-Spatial-prioritization-official-o.md) — Robles-Algarín vd. (2026) · *Energy Exploration & Exploitation* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -85,6 +87,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Spatial prioritization of official offshore wind zones in the Colombian Caribbean: A comparative assessment of fixed-bottom and floating areas](Arastirmalar/2026-Robles-Algarin-Spatial-prioritization-official-o.md) — Robles-Algarín vd. (2026) · *Energy Exploration & Exploitation* · hakemli
 - [Economic viability of floating offshore wind in Portugal with varying market conditions and financial support mechanisms](Yuzer-Deniz-Ustu-Ruzgar/Arastirmalar/2026-White-Economic-viability-floating-offshore.md) — White vd. (2026) · *Wind energy science* · hakemli · atıf: 1
 - [Fabrication, Transportation, and Installation of Fixed and Floating Offshore Wind Turbines: A State of the Art Review](Yuzer-Deniz-Ustu-Ruzgar/Arastirmalar/2026-Hermanto-Fabrication-Transportation-and-Installa.md) — Hermanto vd. (2026) · *Maritime Park Journal of Maritime Technology and Society* · hakemli
 <!-- AUTO:RECENT:END -->

@@ -88,7 +88,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -98,6 +98,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Protocol for CRISPR-Cas9 gene editing of murine neutrophils for in vitro and in vivo mechanistic studies](CRISPR-Cas9/Arastirmalar/2026-Siwicki-Protocol-for-CRISPR-Cas9.md) — Siwicki vd. (2026) · *STAR Protocols* · hakemli
 - [Base editing-mediated precision genome engineering in Toxoplasma gondii](Baz-Duzenleme/Arastirmalar/2026-Liu-Base-editing-mediated-precision.md) — Liu vd. (2026) · *PLoS neglected tropical diseases* · hakemli
 <!-- AUTO:RECENT:END -->
 

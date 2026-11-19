@@ -80,7 +80,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **3**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **4**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -93,6 +93,7 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [Frequency-aware and depth-guided neural radiance fields for 3D reconstruction of complex disaster scenes](Goruntu-Olusturma/Sinirsel-Goruntu-Olusturma/Sinirsel-Isima-Alanlari/Arastirmalar/2026-Chen-Frequency-aware-and-depth.md) — Chen vd. (2026) · *Scientific Reports* · hakemli
 - [Physically Based Rendering in the Latent Space](Goruntu-Olusturma/Fiziksel-Tabanli-Goruntu-Olusturma/Arastirmalar/2026-Radovanovic-Physically-Based-Rendering-the.md) — Radovanovic vd. (2026) · *Computer Graphics Forum* · hakemli
 - [Path-Traced Inverse Rendering with Global Illumination in 3D Gaussian Fields](Goruntu-Olusturma/Kuresel-Aydinlatma/Arastirmalar/2026-Zhu-Path-Traced-Inverse-Rendering.md) — Zhu vd. (2026) · *ACM Transactions on Graphics* · hakemli · atıf: 2
+- [LiteTex-GS: Fast and Lightweight Texturing for Gaussian Splatting](Goruntu-Olusturma/Sinirsel-Goruntu-Olusturma/Gauss-Sicratma/Arastirmalar/2026-Li-LiteTex-Fast-and-Lightweight.md) — Li vd. (2026) · *arXiv* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

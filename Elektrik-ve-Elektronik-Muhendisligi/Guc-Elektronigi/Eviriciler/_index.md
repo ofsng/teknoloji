@@ -76,7 +76,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -86,6 +86,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Large-signal stability analysis of reduced-order droop-controlled grid-forming inverters in islanded microgrids](Sebeke-Kuran-Eviriciler/Arastirmalar/2026-Verma-Large-signal-stability-analysis.md) — Verma vd. (2026) · *International Journal of Emerging Electric Power Systems* · hakemli
 - [Improving the performance of grid-connected photovoltaic systems using a novel SPO-SHE-PWM algorithm with an AHB multilevel inverter](Cok-Seviyeli-Eviriciler/Arastirmalar/2026-Kahlane-Improving-the-performance-grid.md) — Kahlane vd. (2026) · *International Journal of Electronics* · hakemli
 <!-- AUTO:RECENT:END -->
 

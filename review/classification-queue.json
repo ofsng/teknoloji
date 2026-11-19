@@ -4907,6 +4907,61 @@
   "url": "https://arxiv.org/abs/2504.07099"
  },
  {
+  "added": "2026-11-19",
+  "arxiv": "2611.22061",
+  "candidates": [
+   [
+    "state-space-models",
+    6.6
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.22061",
+   "title:fmmambaanefficientnative2dselectivestatespacemodelwithstabilityawarediscretization|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "When applied to two-dimensional features such as images, Mamba-based methods either flatten the feature map into 1D sequences and fuse multiple scans, which breaks spatial adjacency and multiplies computation, or recurse directly on the 2D grid but rescale the recurrence with a fixed input-independent factor and aggregate only the predecessors on a single anti-diagonal, leaving the discrete step unconstrained by 2D stability theory. We propose \\textbf{FM-Mamba}, a native 2D selective state space model built on the general Fornasini--Marchesini (FM) model. Its coupled recurrence evolves along both spatial axes; cross-axis coupling induces a discrete diagonal-predecessor term $\\tilde A_0$, and two independent input-dependent step sizes $Δ_1(i,j)$, $Δ_2(i,j)$ govern propagation along the two axes, so that the coefficients adapt per position and per direction. A normalized ratio $r_k=a_{0,k}/(a_{1,k}a_{2,k})$ yields a closed-form piecewise bound on the two step sizes; when a configuration falls outside the stable interval the steps are projected onto this bound, and the criterion is re-verified per position after training, which suppresses systematic local amplification without global damping. The recurrence is executed by a dual-diagonal wavefront scan: each update gathers information from two anti-diagonals, and the input enters the current state through a single projection, so that neither training nor inference flattens the feature map. Code is available at https://github.com/BitSsm/FM-Mamba-Runtime",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.22061",
+   "authors": [
+    "Shengyuan Hu",
+    "Yiyong Sun",
+    "Weihang Shan",
+    "Yongzhe Chang"
+   ],
+   "categories": [
+    "arXiv:eess.SY",
+    "arXiv:cs.AI",
+    "arXiv:cs.CV"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-17",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.22061"
+   ],
+   "title": "FM-Mamba: An Efficient Native 2D Selective State Space Model with Stability-Aware Discretization",
+   "topics": [],
+   "updated_date": "2026-11-17",
+   "url": "https://arxiv.org/abs/2611.22061"
+  },
+  "score": 6.6,
+  "seen": 1,
+  "suggested": "state-space-models",
+  "title": "FM-Mamba: An Efficient Native 2D Selective State Space Model with Stability-Aware Discretization",
+  "url": "https://arxiv.org/abs/2611.22061"
+ },
+ {
   "added": "2026-11-14",
   "arxiv": null,
   "candidates": [
@@ -6519,6 +6574,260 @@
   "suggested": "motion-planning",
   "title": "DIVAL: Diffeomorphic Vector-Field Alignment for Nonholonomic Motion Planning",
   "url": "https://arxiv.org/abs/2611.14918"
+ },
+ {
+  "added": "2026-11-19",
+  "arxiv": "2611.22039",
+  "candidates": [
+   [
+    "reinforcement-learning",
+    6.3
+   ],
+   [
+    "trust-region-policy-methods",
+    4.02
+   ],
+   [
+    "llm-reasoning-methods",
+    3.48
+   ],
+   [
+    "supervised-learning",
+    3.1
+   ],
+   [
+    "decoder-only-transformers",
+    2.1
+   ],
+   [
+    "probabilistic-planning",
+    2.1
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.22039",
+   "title:rldeareinforcementlearningframeworkforinterpretableiterativedocumentediting|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Improving the quality, clarity, and flow of long documents remains a challenging problem in NLP, as human editing typically occurs through iterative refinement rather than a single-pass rewrite. Most existing automated systems act as black-box generators or rely on supervised learning, limiting interpretability and failing to capture the sequential nature of revisions. In this paper, we propose RLDE, an automated end-to-end metric-driven RL framework that formulates document revision as a reference-free MDP problem (unsupervised with respect to paired document-revision targets). Working with a limited action space (NOOP, INSERT, DELETE, REPLACE), RLDE leverages Pointer Networks for dynamic span selection at the token level and sends generative actions to the frozen BART-base model to obtain context-aware suggestions. PPO agents learn to optimize a multi-objective reward function based on readability, perplexity, and grammar metrics with the help of a novel SBERT-based Semantic Preservation Penalty constraint to avoid deletion degeneracy. Evaluations on the BEA-2019 dataset showed statistically significant results (p < 0.01) across all metrics, where Flesch Reading Ease increased from 49.8 to 59.4, perplexity decreased from 63.7 to 39.8, while preserving 93% of semantic information. When compared to Chain-of-Thought (CoT) prompt-engineered models like GPT-4 and LLaMA-2, RLDE shows high performance at a very low computational inference cost. Moreover, the quality of edits generated by RLDE has been verified via human evaluations, scoring 4.9/5 for meaning preservation and 4.4/5 for edit quality.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.22039",
+   "authors": [
+    "Nikhil Parkar",
+    "M. Marimuthu",
+    "Riya Joshi",
+    "Karthikeyan N"
+   ],
+   "categories": [
+    "arXiv:cs.CL",
+    "arXiv:cs.AI",
+    "arXiv:cs.LG"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-17",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.22039"
+   ],
+   "title": "RLDE: A Reinforcement Learning Framework for Interpretable Iterative Document Editing",
+   "topics": [],
+   "updated_date": "2026-11-17",
+   "url": "https://arxiv.org/abs/2611.22039"
+  },
+  "score": 6.3,
+  "seen": 1,
+  "suggested": "reinforcement-learning",
+  "title": "RLDE: A Reinforcement Learning Framework for Interpretable Iterative Document Editing",
+  "url": "https://arxiv.org/abs/2611.22039"
+ },
+ {
+  "added": "2026-11-19",
+  "arxiv": "2611.22052",
+  "candidates": [
+   [
+    "reinforcement-learning",
+    6.3
+   ],
+   [
+    "diffusion-models",
+    3.1
+   ],
+   [
+    "optimization",
+    0.26
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.22052",
+   "title:ridexrewardinformeddirectionalexplorationfordiffusionreinforcementlearning|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Reward-based diffusion post-training updates model parameters from task rewards. While existing approaches improve sampling and policy optimization, they still rely largely on isotropic random perturbations in a high-dimensional latent space for exploration. Such variation often spends the perturbation budget on changes with little influence on the target reward, making exploration inefficient. We study where diffusion models should explore and how to learn from that exploration. We introduce Reward-Informed Directional Exploration (RiDEx), which concentrates local exploration in reward-relevant subspaces of the denoising velocity field. Conditional residuals or differentiable reward gradients propose the subspace, and equal-and-opposite perturbations at the same generation state measure its terminal reward response. The reward difference supplies signed local supervision in the explored coordinates, while all generated images contribute to global DiffusionNFT learning. RiDEx thereby couples exploration-space selection with feedback about the changes it produces. On Stable Diffusion 3.5 Medium, RiDEx attains the highest peak rewards among the evaluated methods on four alignment and preference tasks. Its gradient-direction instantiation achieves 15x and 29x target-attainment speedups over DiffusionNFT on HPSv2 and PickScore, measured in H200 GPU hours. Controlled experiments confirm that reward-aligned directions elicit stronger responses at equal perturbation magnitude, and that applying their measured credit improves curve-average reward across all four tasks.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.22052",
+   "authors": [
+    "Song Yan",
+    "Chenfeng Wang",
+    "Wei Zhai",
+    "Xingchen Wang",
+    "Tao Zhang",
+    "Yawen Shao",
+    "Shi Pan",
+    "Min Li",
+    "Zheng-Jun Zha"
+   ],
+   "categories": [
+    "arXiv:cs.LG",
+    "arXiv:cs.CV"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-17",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.22052"
+   ],
+   "title": "RiDEx: Reward-Informed Directional Exploration for Diffusion Reinforcement Learning",
+   "topics": [],
+   "updated_date": "2026-11-17",
+   "url": "https://arxiv.org/abs/2611.22052"
+  },
+  "score": 6.3,
+  "seen": 1,
+  "suggested": "reinforcement-learning",
+  "title": "RiDEx: Reward-Informed Directional Exploration for Diffusion Reinforcement Learning",
+  "url": "https://arxiv.org/abs/2611.22052"
+ },
+ {
+  "added": "2026-11-19",
+  "arxiv": "2611.22054",
+  "candidates": [
+   [
+    "neural-circuits",
+    6.3
+   ],
+   [
+    "gaussian-processes",
+    1.2
+   ],
+   [
+    "analysis",
+    0.39
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.22054",
+   "title:asingleinferenceprocessunderliesthebehaviorandneuralcircuitsofworkingmemory|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Working memory holds past inputs online for future behavior. Despite decades of research, accounts of working memory remain divided across levels of analysis, with long-standing debates on whether its capacity reflects discrete slots or continuous resources, how attention improves recall, and whether its representations rely on persistent neural firing or activity-silent states. Here we show that MemGP, a theory that is specified at the computational, algorithmic, and circuit levels of analysis simultaneously, can explain diverse behavioral and neural phenomena in working memory. At the computational level, MemGP casts working memory as probabilistic inference over a continuous function on feature space, with a variational objective that balances memory strength against a Gaussian-process prior. At the algorithmic level, writing, storing, and reading of memories correspond to approximating this posterior with a finite set of inducing points, the resource that all items share. In simulations, MemGP reproduces load-dependent precision loss, attentional benefits during maintenance, and inter-item attraction and repulsion, in each case revealing multiple complex computational dependencies. At the circuit level, the algorithm analytically (without training) maps onto a recurrent circuit, including its architecture and dynamics. Beyond reproducing neural phenomena such as delay-dependent drift, this analytical map deduces center--surround connectivity, a property long assumed in attractor models, and a structured combination of persistent activity and synaptic weights to hold memories. Thus, a single inference objective not only jointly predicts the behavioral and neural signatures of working memory, but also addresses, across several instances and different levels of analysis, existing competing explanations.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.22054",
+   "authors": [
+    "Dongyu Gong",
+    "Mario Belledonne",
+    "Ilker Yildirim"
+   ],
+   "categories": [
+    "arXiv:q-bio.NC",
+    "arXiv:cs.LG"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-17",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.22054"
+   ],
+   "title": "A single inference process underlies the behavior and neural circuits of working memory",
+   "topics": [],
+   "updated_date": "2026-11-17",
+   "url": "https://arxiv.org/abs/2611.22054"
+  },
+  "score": 6.3,
+  "seen": 1,
+  "suggested": "neural-circuits",
+  "title": "A single inference process underlies the behavior and neural circuits of working memory",
+  "url": "https://arxiv.org/abs/2611.22054"
+ },
+ {
+  "added": "2026-11-19",
+  "arxiv": "2611.22063",
+  "candidates": [
+   [
+    "multigrid-methods",
+    6.3
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.22063",
+   "title:anonlinearmultigridmethodforthepreconditionedlatticeboltzmannequation|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "This work developed a preconditioned lattice Boltzmann equation (PLBE) smoother for the residual-driven full approximation scheme (FAS) multigrid to accelerate steady-state LBE calculations. To overcome the deterioration of LBE smoothing at low viscosity, we used a two- relaxation-time (TRT) collision model together with characteristic-velocity and kinetic precondition- ing to keep the relaxation frequency for the even-order moments within a favorable range, while independently selecting the relaxation frequency for the odd-order moments to reduce their local amplification factor. We further investigated F-, W-, and hybrid V/W-cycles to address residual stagnation observed with V-cycles at high Reynolds numbers. The 2D lid-driven cavity flow was used as a test case. At Re = 5000, TRT-PLBE-FAS achieves an approximately 27-fold speedup over single-grid TRT-PLBE. At Re = 20000 on a 20482 grid, the hybrid V/W-cycle reduces solution time by 14% compared with the W-cycle.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.22063",
+   "authors": [
+    "Xingzhou Ji",
+    "Li-Shi Luo"
+   ],
+   "categories": [
+    "arXiv:math.NA"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-17",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.22063"
+   ],
+   "title": "A nonlinear multigrid method for the preconditioned lattice Boltzmann equation",
+   "topics": [],
+   "updated_date": "2026-11-17",
+   "url": "https://arxiv.org/abs/2611.22063"
+  },
+  "score": 6.3,
+  "seen": 1,
+  "suggested": "multigrid-methods",
+  "title": "A nonlinear multigrid method for the preconditioned lattice Boltzmann equation",
+  "url": "https://arxiv.org/abs/2611.22063"
  },
  {
   "added": "2026-11-14",
@@ -10355,6 +10664,75 @@
   "url": "https://doi.org/10.3847/1538-3881/aeb422"
  },
  {
+  "added": "2026-11-19",
+  "arxiv": "2611.22057",
+  "candidates": [
+   [
+    "graph-neural-networks",
+    5.43
+   ],
+   [
+    "superconducting-qubits",
+    3.1
+   ],
+   [
+    "method-of-moments",
+    1.76
+   ],
+   [
+    "machine-learning",
+    1.2
+   ],
+   [
+    "electromagnetics",
+    0.26
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.22057",
+   "title:qcapaphysicscorrectedgraphneuralnetworkforthecapacitancematrixofanyplanarsuperconductingdevicelayout|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Electromagnetic simulations of device layouts to extract capacitance are computationally intensive, a major obstacle to accurate design of circuit devices. Machine learning models can bypass these simulations, but previous approaches have been restricted to layouts using only particular components, and require thousands of simulations of those same components as training data. We present QCap, a model that accurately predicts the Maxwell capacitance matrix of an arbitrary superconducting device layout in seconds, compared to minutes to hours of Ansys Q3D simulations. We develop a novel design-embedding algorithm that converts the layout into a universal graph format, allowing the model to work with any layout created with any tool. To achieve high accuracy, we obtain a coarse physics prior from a fast method of moments simulation of capacitance, then train the model to correct this prior. On 4,009 test designs withheld from training data the model outputs agree with Q3D simulations to a median error of 0.177%, and on never-seen component families it stays below 1% error. We demonstrate the model's scaling by obtaining the capacitance matrix of a 9-superconducting-qubit device in 12 seconds on a laptop (compared to 19.9 h and 228 GB of memory in Ansys) with sub-percent error, and capacitance of a (too large to simulate) 100-qubit, 781-conductor device in 3.4 min on a laptop. We provide the open-source models and data on SQuADDS and Hugging Face. Our results provide a powerful tool for large-scale accurate circuit design and guide the development of models to bypass other physical simulations.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.22057",
+   "authors": [
+    "Sadman Ahmed Shanto",
+    "Saikat Das",
+    "Eli M. Levenson-Falk"
+   ],
+   "categories": [
+    "arXiv:quant-ph",
+    "arXiv:physics.app-ph"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-17",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.22057"
+   ],
+   "title": "QCap: a physics-corrected graph neural network for the capacitance matrix of any planar superconducting device layout",
+   "topics": [],
+   "updated_date": "2026-11-17",
+   "url": "https://arxiv.org/abs/2611.22057"
+  },
+  "score": 5.43,
+  "seen": 1,
+  "suggested": "graph-neural-networks",
+  "title": "QCap: a physics-corrected graph neural network for the capacitance matrix of any planar superconducting device layout",
+  "url": "https://arxiv.org/abs/2611.22057"
+ },
+ {
   "added": "2026-11-07",
   "arxiv": "2611.07444",
   "candidates": [
@@ -10555,339 +10933,5 @@
   "suggested": "neural-operators",
   "title": "Learning inadequacy of Bayesian neural operators for PDE-constrained inference and design",
   "url": "https://arxiv.org/abs/2611.19115"
- },
- {
-  "added": "2026-11-05",
-  "arxiv": "2611.04129",
-  "candidates": [
-   [
-    "authentication-protocols",
-    5.1
-   ]
-  ],
-  "confidence": "medium",
-  "doi": null,
-  "keys": [
-   "arxiv:2611.04129",
-   "title:quantumidentityauthenticationprotocolviaperturbedprobabilityamplitudes|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "Quantum identity authentication is an effective solution for establishing mutual trust between communicating parties in the post-quantum era. To address the risk of partial secret information leakage under special measurements, this paper designs a quantum identity authentication protocol based on perturbed probability amplitudes. The protocol first proposes a method of encoding a random sequence onto the probability amplitudes of quantum entangled states, forming perturbed probability amplitudes, thereby reducing the involvement of shared information between the sender and receiver. Furthermore, it presents a method for generating n-bit random authentication information based on the n-bit pre-shared information, enhancing the randomness of the authentication information relative to an attacker. The proposed protocol can resist impersonation attack, CNOT attack, and entanglement measurement attack, and ensures backward security. Under equivalent security conditions, the amount of shared information is 1/n that in Chen et al.'s scheme and half that in Dutta et al.'s scheme. And each bit of the secret message has no risk of leakage under special measurements. It can also be extended to a bi-directional quantum identity authentication protocol.",
-   "abstract_license": "cc0-1.0 (arxiv metadata)",
-   "arxiv": "2611.04129",
-   "authors": [
-    "Xiangqun Fu",
-    "Zheng Han",
-    "Hongwei Li",
-    "Chun Zhou",
-    "Shuo Zhang",
-    "Jianhong Shi",
-    "Tan Li",
-    "Wansu Bao"
-   ],
-   "categories": [
-    "arXiv:quant-ph"
-   ],
-   "cited_by_count": null,
-   "doi": null,
-   "is_retracted": null,
-   "keywords": [],
-   "language": "en",
-   "peer_reviewed": false,
-   "publication": "arXiv",
-   "publication_type": "preprint",
-   "published_date": "2026-11-03",
-   "related_versions": [],
-   "source_ids": [
-    "arxiv:2611.04129"
-   ],
-   "title": "Quantum identity authentication protocol via perturbed probability amplitudes",
-   "topics": [],
-   "updated_date": "2026-11-03",
-   "url": "https://arxiv.org/abs/2611.04129"
-  },
-  "score": 5.1,
-  "seen": 2,
-  "suggested": "authentication-protocols",
-  "title": "Quantum identity authentication protocol via perturbed probability amplitudes",
-  "url": "https://arxiv.org/abs/2611.04129"
- },
- {
-  "added": "2026-11-05",
-  "arxiv": "2611.04441",
-  "candidates": [
-   [
-    "circuit-complexity",
-    5.1
-   ],
-   [
-    "pumps",
-    0.26
-   ]
-  ],
-  "confidence": "medium",
-  "doi": null,
-  "keys": [
-   "arxiv:2611.04441",
-   "title:circuitcomplexityofscalarandtensorperturbationsinluminaleinsteingaussbonnetinflation|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "We investigate the circuit complexity of primordial scalar and tensor perturbations in the luminal branch of Einstein--Gauss--Bonnet inflation. Starting from the quadratic perturbation actions, we construct the two-mode Hamiltonians and derive the evolution equations for the squeezing amplitudes and angles. Although the tensor speed is fixed to unity, the Gauss--Bonnet (GB) coupling remains dynamical through the scalar and tensor pump fields. We track the squeezing dynamics from the subhorizon to the superhorizon regime and evaluate the Nielsen wave-function complexity of the resulting two-mode squeezed states. The GB correction produces a clear separation in the squeezing amplitudes, while the unwrapped squeezing angles remain nearly phase locked. Consequently, the circuit complexity is controlled mainly by the amplitude evolution. A positive coupling enhances the scalar complexity but slightly suppresses the tensor complexity for the benchmarks considered. These opposite trends show that scalar and tensor Gaussian states retain distinct information about the same modified inflationary background even when tensor propagation is luminal.",
-   "abstract_license": "cc0-1.0 (arxiv metadata)",
-   "arxiv": "2611.04441",
-   "authors": [
-    "Tao Li",
-    "Hai-Bing Fu",
-    "Lei-Hua Liu"
-   ],
-   "categories": [
-    "arXiv:hep-th",
-    "arXiv:gr-qc"
-   ],
-   "cited_by_count": null,
-   "doi": null,
-   "is_retracted": null,
-   "keywords": [],
-   "language": "en",
-   "peer_reviewed": false,
-   "publication": "arXiv",
-   "publication_type": "preprint",
-   "published_date": "2026-11-03",
-   "related_versions": [],
-   "source_ids": [
-    "arxiv:2611.04441"
-   ],
-   "title": "Circuit Complexity of Scalar and Tensor Perturbations in Luminal Einstein--Gauss--Bonnet Inflation",
-   "topics": [],
-   "updated_date": "2026-11-03",
-   "url": "https://arxiv.org/abs/2611.04441"
-  },
-  "score": 5.1,
-  "seen": 2,
-  "suggested": "circuit-complexity",
-  "title": "Circuit Complexity of Scalar and Tensor Perturbations in Luminal Einstein--Gauss--Bonnet Inflation",
-  "url": "https://arxiv.org/abs/2611.04441"
- },
- {
-  "added": "2026-11-05",
-  "arxiv": "2611.04517",
-  "candidates": [
-   [
-    "neural-operators",
-    5.1
-   ]
-  ],
-  "confidence": "medium",
-  "doi": null,
-  "keys": [
-   "arxiv:2611.04517",
-   "title:geosimbenchmarkingmultifieldneuraloperatorsforgeodynamics|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "Learning reliable surrogates for geodynamic models requires benchmarks that resolve coupled fields and temporal stability. We present GeoSim, a benchmark of high-resolution two-dimensional mantle-plume simulations generated with I2VIS, comprising 237 trajectories across two parameter regimes, with six coupled fields, physical timestamps, and trajectory-level splits. GeoSim defines short-window prediction and autonomous rollout, and evaluates representative neural operators field by field. Across models, we observe a pronounced scalar--velocity gap: scalar fields are reconstructed accurately while velocity errors remain large, and short-window accuracy does not imply stable rollout. We also evaluate MFGNO (Multi-Field Graph Neural Operator), a joint multi-field graph baseline designed for this benchmark; on GeoSim-Plume1, under a fixed per-field objective, it reduces horizontal and vertical velocity errors by 58.4% and 38.5% relative to an independent-field graph baseline, while an explicit field-difference input shows no measurable benefit at this scale. GeoSim provides a reproducible benchmark for field-wise diagnosis and long-horizon evaluation of geodynamic surrogates.",
-   "abstract_license": "cc0-1.0 (arxiv metadata)",
-   "arxiv": "2611.04517",
-   "authors": [
-    "Hailong Liu",
-    "Dinghui Yang",
-    "Mengxue Liu",
-    "Rui Qi",
-    "Meng Zhao",
-    "Yihang Tang",
-    "Jin Wen",
-    "Zhilong Fang"
-   ],
-   "categories": [
-    "arXiv:physics.geo-ph"
-   ],
-   "cited_by_count": null,
-   "doi": null,
-   "is_retracted": null,
-   "keywords": [],
-   "language": "en",
-   "peer_reviewed": false,
-   "publication": "arXiv",
-   "publication_type": "preprint",
-   "published_date": "2026-11-03",
-   "related_versions": [],
-   "source_ids": [
-    "arxiv:2611.04517"
-   ],
-   "title": "GeoSim: Benchmarking Multi-Field Neural Operators for Geodynamics",
-   "topics": [],
-   "updated_date": "2026-11-03",
-   "url": "https://arxiv.org/abs/2611.04517"
-  },
-  "score": 5.1,
-  "seen": 2,
-  "suggested": "neural-operators",
-  "title": "GeoSim: Benchmarking Multi-Field Neural Operators for Geodynamics",
-  "url": "https://arxiv.org/abs/2611.04517"
- },
- {
-  "added": "2026-11-06",
-  "arxiv": "2611.06102",
-  "candidates": [
-   [
-    "set-theory",
-    5.1
-   ]
-  ],
-  "confidence": "medium",
-  "doi": null,
-  "keys": [
-   "arxiv:2611.06102",
-   "title:topologychangeandthegaussbonnettermincausalsettheorythesignofthecosmologicaltermandtheaxiondecayconstant|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "Causal set theory permits changes of spatial topology without the metric degeneracy that forbids them in continuum Lorentzian gravity. In four dimensions such changes enter the gravitational action only through the Gauss--Bonnet term, which is the Euler density. We show that the Euler density of a discrete space is exact, local and combinatorial: it sums to the Euler characteristic at any resolution and is supported on topological defects. The Gauss--Bonnet term of a causal set is therefore fixed rather than postulated. Because it is linear in the number of elements, which is the four-volume, it acts as a cosmological constant. Its coefficient follows without forming any functional derivative, so the known obstruction in the continuum does not arise. The everpresent cosmological constant of causal set theory assumes that the mean topological charge vanishes. We show that it does not. The species of opposite sign solves the field equations only if a positive cosmological constant is already present, and, being simply connected, it cannot carry the axion charge that supports the other species. Only one sign survives, and the sign of the cosmological term is derived rather than assumed. We recover the surviving transition from the causal order alone in every simulated sprinkling. The action of the corresponding axion wormhole then fixes the magnitude. The observed value requires an axion decay constant near the grand unification scale, and this result is insensitive to the one-loop prefactor and to the Gauss--Bonnet coupling.",
-   "abstract_license": "cc0-1.0 (arxiv metadata)",
-   "arxiv": "2611.06102",
-   "authors": [
-    "Stylianos A. Tsilioukas"
-   ],
-   "categories": [
-    "arXiv:gr-qc",
-    "arXiv:hep-th"
-   ],
-   "cited_by_count": null,
-   "doi": null,
-   "is_retracted": null,
-   "keywords": [],
-   "language": "en",
-   "peer_reviewed": false,
-   "publication": "arXiv",
-   "publication_type": "preprint",
-   "published_date": "2026-11-04",
-   "related_versions": [],
-   "source_ids": [
-    "arxiv:2611.06102"
-   ],
-   "title": "Topology change and the Gauss Bonnet term in causal set theory: the sign of the cosmological term and the axion decay constant",
-   "topics": [],
-   "updated_date": "2026-11-04",
-   "url": "https://arxiv.org/abs/2611.06102"
-  },
-  "score": 5.1,
-  "seen": 2,
-  "suggested": "set-theory",
-  "title": "Topology change and the Gauss Bonnet term in causal set theory: the sign of the cosmological term and the axion decay constant",
-  "url": "https://arxiv.org/abs/2611.06102"
- },
- {
-  "added": "2026-11-07",
-  "arxiv": "2611.07428",
-  "candidates": [
-   [
-    "space-weather",
-    5.1
-   ],
-   [
-    "antennas",
-    0.52
-   ],
-   [
-    "electromagnetics",
-    0.33
-   ]
-  ],
-  "confidence": "medium",
-  "doi": null,
-  "keys": [
-   "arxiv:2611.07428",
-   "title:preliminarygoniopolarimetricsimulationsforspaceweatherradioswarapolarimeter|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "Goniopolarimetry is a technique that measures the direction-of-arrival (DoA) using the polarization properties of the incident electromagnetic (EM) waves. This study aims to incorporate the technique of Goniopolarimetry for our proposed polarimeter, Space Weather Radio (SWARA) Polarimeter, to provide early warnings for space weather or solar events. We have performed preliminary simulations for a tri-monopole antenna configuration. The behaviour of the tri-monopole antenna with varying signal-to-noise (SNR) ratios along the field-of-view (FOV) was investigated using simulations. The angular localization error (ALE) variations, along with SNRs, were simulated to quantify the sensitivity of the Goniopolarimetric algorithm to galactic background noise. Future work will focus on determining the optimum effective length of the individual monopoles to maximize sensitivity and localization accuracy while ensuring efficient impedance matching with the receiver. The optimized antenna will be evaluated under realistic plasma environments through electromagnetic and plasma simulations to investigate the influence of plasma parameters.",
-   "abstract_license": "cc0-1.0 (arxiv metadata)",
-   "arxiv": "2611.07428",
-   "authors": [
-    "Poorva Singh",
-    "Mugundhan V.",
-    "Anshu Kumari"
-   ],
-   "categories": [
-    "arXiv:astro-ph.IM"
-   ],
-   "cited_by_count": null,
-   "doi": null,
-   "is_retracted": null,
-   "keywords": [],
-   "language": "en",
-   "peer_reviewed": false,
-   "publication": "arXiv",
-   "publication_type": "preprint",
-   "published_date": "2026-11-05",
-   "related_versions": [],
-   "source_ids": [
-    "arxiv:2611.07428"
-   ],
-   "title": "Preliminary Goniopolarimetric Simulations for Space Weather Radio (SWARA) Polarimeter",
-   "topics": [],
-   "updated_date": "2026-11-05",
-   "url": "https://arxiv.org/abs/2611.07428"
-  },
-  "score": 5.1,
-  "seen": 2,
-  "suggested": "space-weather",
-  "title": "Preliminary Goniopolarimetric Simulations for Space Weather Radio (SWARA) Polarimeter",
-  "url": "https://arxiv.org/abs/2611.07428"
- },
- {
-  "added": "2026-11-07",
-  "arxiv": "2611.07674",
-  "candidates": [
-   [
-    "stochastic-processes",
-    5.1
-   ]
-  ],
-  "confidence": "medium",
-  "doi": null,
-  "keys": [
-   "arxiv:2611.07674",
-   "title:instrumentalvariablesincontinuoustimestochasticprocesses|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "Causal questions often arise in systems that evolve in continuous time. While instrumental variable (IV) methods provide a principled approach to identify causal effects in static or discrete-time settings, even in the presence of unobserved confounding, they do not yet extend to continuous-time dynamics. In this work, we develop an IV framework for stationary continuous-time stochastic processes parameterized by stochastic differential equations (SDE), where the instrument itself takes the form of a stochastic process. We encode the structural sparsity and causal effects directly at the infinitesimal level of the drift, and contrast these assumptions with the IV assumptions on the discretized version of the same process. Based on these structural assumptions, we derive moment restrictions using path-valued instruments. We show how these restrictions simplify for Ornstein-Uhlenbeck processes and present an identification condition together with a corresponding consistent estimation method. Finally, we extend our estimation framework to nonlinear causal effects by expressing the path-based moment restrictions leveraging the signature kernel. Empirically, our method recovers causal effects in confounded continuous-time systems where maximum-likelihood-based estimation and discrete-time IV methods are systematically biased.",
-   "abstract_license": "cc0-1.0 (arxiv metadata)",
-   "arxiv": "2611.07674",
-   "authors": [
-    "Lars Pennig",
-    "Søren Wengel Mogensen",
-    "Niki Kilbertus"
-   ],
-   "categories": [
-    "arXiv:cs.LG"
-   ],
-   "cited_by_count": null,
-   "doi": null,
-   "is_retracted": null,
-   "keywords": [],
-   "language": "en",
-   "peer_reviewed": false,
-   "publication": "arXiv",
-   "publication_type": "preprint",
-   "published_date": "2026-11-05",
-   "related_versions": [],
-   "source_ids": [
-    "arxiv:2611.07674"
-   ],
-   "title": "Instrumental Variables in Continuous-Time Stochastic Processes",
-   "topics": [],
-   "updated_date": "2026-11-05",
-   "url": "https://arxiv.org/abs/2611.07674"
-  },
-  "score": 5.1,
-  "seen": 2,
-  "suggested": "stochastic-processes",
-  "title": "Instrumental Variables in Continuous-Time Stochastic Processes",
-  "url": "https://arxiv.org/abs/2611.07674"
  }
 ]

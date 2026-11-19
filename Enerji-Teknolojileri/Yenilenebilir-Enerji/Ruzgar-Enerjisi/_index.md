@@ -79,7 +79,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **7**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **9**.
 
 - [Accelerating Decarbonization of Electricity Generation by Incentivizing the Continuous Growth of Wind Energy in Mature Markets](Arastirmalar/2026-Haces-Fernandez-Accelerating-Decarbonization-Ele.md) — Haces-Fernandez (2026) · *Sustainability* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -91,13 +91,14 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Spatial prioritization of official offshore wind zones in the Colombian Caribbean: A comparative assessment of fixed-bottom and floating areas](Deniz-Ustu-Ruzgar/Arastirmalar/2026-Robles-Algarin-Spatial-prioritization-official-o.md) — Robles-Algarín vd. (2026) · *Energy Exploration & Exploitation* · hakemli
+- [A surrogate-assisted reinforcement learning framework for layout optimization and economic assessment of dense urban vertical-axis wind turbine arrays](Dikey-Eksenli-Ruzgar-Turbinleri/Arastirmalar/2026-Zaidi-surrogate-assisted-reinforcement-learning.md) — Zaidi (2026) · *Wind Engineering* · hakemli
 - [Economic viability of floating offshore wind in Portugal with varying market conditions and financial support mechanisms](Deniz-Ustu-Ruzgar/Yuzer-Deniz-Ustu-Ruzgar/Arastirmalar/2026-White-Economic-viability-floating-offshore.md) — White vd. (2026) · *Wind energy science* · hakemli · atıf: 1
 - [Aerodynamic Design and Numerical Assessment of a 1.5 kW Helical Vertical-Axis Wind Turbine Using DMST and Three-Dimensional CFD](Dikey-Eksenli-Ruzgar-Turbinleri/Arastirmalar/2026-Valdovinos-Aerodynamic-Design-and-Numerical.md) — Valdovinos vd. (2026) · *Eng—Advances in Engineering* · hakemli
 - [A critical systematic review of aero-structural optimization in horizontal-axis wind turbine blades using an evidence–constraint–robustness framework](Yatay-Eksenli-Ruzgar-Turbinleri/Arastirmalar/2026-R-critical-systematic-review-aero.md) — R. vd. (2026) · *Wind energy and engineering research.* · hakemli
 - [Fabrication, Transportation, and Installation of Fixed and Floating Offshore Wind Turbines: A State of the Art Review](Deniz-Ustu-Ruzgar/Yuzer-Deniz-Ustu-Ruzgar/Arastirmalar/2026-Hermanto-Fabrication-Transportation-and-Installa.md) — Hermanto vd. (2026) · *Maritime Park Journal of Maritime Technology and Society* · hakemli
 - [Accelerating Decarbonization of Electricity Generation by Incentivizing the Continuous Growth of Wind Energy in Mature Markets](Arastirmalar/2026-Haces-Fernandez-Accelerating-Decarbonization-Ele.md) — Haces-Fernandez (2026) · *Sustainability* · hakemli
 - [Wind Resource Assessment Using Measured and ERA5 Data for Wind Turbine Performance Evaluation at a Coastal Site in South Korea](Ruzgar-Kaynak-Degerlendirmesi/Arastirmalar/2026-Mehrabani-Wind-Resource-Assessment-Using.md) — Mehrabani vd. (2026) · *Energies* · hakemli
-- [Improving the Efficiency of Horizontal-Axis Wind Turbines Using High-Lift Devices](Yatay-Eksenli-Ruzgar-Turbinleri/Arastirmalar/2026-M-Improving-the-Efficiency-Horizontal.md) — M vd. (2026) · *Semarak Engineering Journal* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

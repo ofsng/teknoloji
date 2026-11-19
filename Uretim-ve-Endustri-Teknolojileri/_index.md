@@ -90,7 +90,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **24**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **25**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -100,6 +100,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [A volumetric additive manufacturing machine learning and video-correction method for engineering gelatin methacryloyl and poly(ethylene glycol) diacrylate hydrogel spheres and assembloids](Eklemeli-Imalat/Hazne-Fotopolimerizasyonu/Hacimsel-Eklemeli-Imalat/Arastirmalar/2026-Wheeler-volumetric-additive-manufacturing-machin.md) — Wheeler vd. (2026) · *Biofabrication* · hakemli
 - [Method for quantitative eddy current testing of rail cracks based on gated recurrent neural network](Kalite-Muhendisligi/Tahribatsiz-Muayene/Girdap-Akimi-Muayenesi/Arastirmalar/2026-Xie-Method-for-quantitative-eddy.md) — Xie vd. (2026) · *Nondestructive Testing And Evaluation* · hakemli
 - [A generic knowledge-based model for manufacturing machine reconfiguration in reconfigurable manufacturing systems](Uretim-Sistemleri/Yeniden-Yapilandirilabilir-Uretim-Sistemleri/Arastirmalar/2026-Allibe-generic-knowledge-based-model.md) — Allibe vd. (2026) · *International Journal of Production Research* · hakemli
 - [Justification of 4D printing over 3D printing for IoT and mechatronics applications using fuzzy analytical hierarchy process](Eklemeli-Imalat/4B-Baski/Arastirmalar/2026-Kumari-Justification-printing-over-printing.md) — Kumari vd. (2026) · *Journal of Intelligent & Fuzzy Systems* · hakemli
@@ -107,7 +108,6 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [A review of the selective laser sintering technology for bio-based nylon 11](Eklemeli-Imalat/Toz-Yatagi-Fuzyonu/Secici-Lazer-Sinterleme/Arastirmalar/2026-Wang-review-the-selective-laser.md) — Wang (2026) · *International Journal of Research in Engineering and Science* · hakemli
 - [Friction stir welding and additive friction stir deposition of high entropy alloys: A review](Birlestirme-Surecleri/Kaynak/Surtunme-Karistirma-Kaynagi/Arastirmalar/2026-Korganci-Friction-stir-welding-and.md) — Korgancı vd. (2026) · *Materials Science and Technology* · hakemli
 - [Design for additive manufacturing. The application to the AEC industry](Eklemeli-Imalat/Eklemeli-Imalat-icin-Tasarim/Arastirmalar/2026-Cruz-Design-for-additive-manufacturing.md) — Cruz vd. (2026) · *The Design Journal* · hakemli
-- [Explainable artificial intelligence for laser powder bed fusion alloys: breaking the formability–performance trade-off via collaborative control](Eklemeli-Imalat/Toz-Yatagi-Fuzyonu/Lazer-Toz-Yatagi-Fuzyonu/Arastirmalar/2026-Liu-Explainable-artificial-intelligence-for.md) — Liu vd. (2026) · *Advanced Materials Joining* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

@@ -85,7 +85,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **9**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **10**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -97,12 +97,12 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 
 - [Joint Clustering, Association, and Power Allocation in Cell-Free Massive MIMO-NOMA](Kablosuz-Haberlesme/MIMO-Sistemleri/Hucresiz-Masif-MIMO/Arastirmalar/2026-Hiremath-Joint-Clustering-Association-and.md) — Hiremath vd. (2026) · *International Journal of Electronics and Communication Engineering* · hakemli
 - [Towards high-capacity and robust free-space optical communications](Optik-Haberlesme/Serbest-Uzay-Optik-Haberlesme/Arastirmalar/2026-Wang-Towards-high-capacity-and.md) — Wang vd. (2026) · *Communications Physics* · hakemli
+- [Towards a Universal Semantic Basis: A Survey on the Fundamental Units of Semantic Communication in the LLM Era](Kablosuz-Haberlesme/Anlamsal-Haberlesme/Arastirmalar/2026-Chen-Towards-Universal-Semantic-Basis.md) — Chen (2026) · *Applied and Computational Engineering* · hakemli
 - [Overview of the Current Development Status and Key Technologies of 6G Integrated Sensing and Communication Technology](Kablosuz-Haberlesme/Butunlesik-Algilama-ve-Haberlesme/Arastirmalar/2026-Lin-Overview-the-Current-Development.md) — Lin (2026) · *Applied and Computational Engineering* · hakemli
 - [Slow-Shot-Based Routing Selection for Optical Satellite Networks with Dynamical Optical Inter-Satellite Links](Uydu-Haberlesmesi/Uydular-Arasi-Baglantilar/Arastirmalar/2026-Wang-Slow-Shot-Based-Routing.md) — Wang vd. (2026) · *Electronics* · hakemli
 - [Vertical Segmented Waveguide-Enabled Pinching Antenna (V-SWAN)-Assisted EDMA-NOMA Integrated Sensing and Communication Systems](Kablosuz-Haberlesme/Butunlesik-Algilama-ve-Haberlesme/Arastirmalar/2026-Hari-Vertical-Segmented-Waveguide-Enabled.md) — Hari vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [Adaptive scrambling-based hadamard transform for peak-to-average power ratio reduction in sixth-generation orthogonal time-frequency space waveforms](Haberlesme-Kurami/Modulasyon/Cok-Tasiyicili-Modulasyon/Dik-Zaman-Frekans-Uzayi/Arastirmalar/2026-Kumar-Adaptive-scrambling-based-hadamard.md) — Kumar vd. (2026) · *PeerJ Computer Science* · hakemli
 - [Performance analysis of dual-IRS-assisted NOMA for underwater visible light communication in turbulent channels](Kablosuz-Haberlesme/Gorunur-Isik-Haberlesmesi/Arastirmalar/2026-Praharsha-Performance-analysis-dual-IRS.md) — Praharsha vd. (2026) · *Scientific Reports* · hakemli
-- [Neuromorphic Camera for Multi-Target Pointing Acquisition and Tracking in Free Space Optical Communication](Optik-Haberlesme/Serbest-Uzay-Optik-Haberlesme/Arastirmalar/2026-Nardo-Neuromorphic-Camera-for-Multi.md) — Nardo vd. (2026) · *arXiv* · ön baskı / hakemsiz
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

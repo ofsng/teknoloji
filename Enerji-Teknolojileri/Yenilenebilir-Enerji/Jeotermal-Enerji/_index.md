@@ -77,7 +77,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **2**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **4**.
 
 - [Regional infrastructure repurposing: Pathways from assessment to geothermal energy production and storage](Arastirmalar/2026-Christi-Regional-infrastructure-repurposing-Path.md) — Christi vd. (2026) · *Applied Energy* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -89,6 +89,8 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [The Use of Phase Change Materials in Ground Source Heat Pump Applications: Research Review and Future Opportunities](Toprak-Kaynakli-Isi-Pompalari/Arastirmalar/2026-Khaleel-The-Use-Phase-Change.md) — Khaleel vd. (2026) · *Energy storage and applications* · hakemli
+- [Preventing water temperature drop in a flow-rate-controlled ground source heat pump system using a lining borehole ground heat exchanger](Toprak-Kaynakli-Isi-Pompalari/Arastirmalar/2026-Suzuki-Preventing-water-temperature-drop.md) — Suzuki vd. (2026) · *Case Studies in Thermal Engineering* · hakemli
 - [Regional infrastructure repurposing: Pathways from assessment to geothermal energy production and storage](Arastirmalar/2026-Christi-Regional-infrastructure-repurposing-Path.md) — Christi vd. (2026) · *Applied Energy* · hakemli
 - [Dynamic Performance Assessment of a PEMFC-Assisted Ground Source Heat Pump System with Cascade Waste Heat Recovery in Severe Cold Regions](Toprak-Kaynakli-Isi-Pompalari/Arastirmalar/2026-Qi-Dynamic-Performance-Assessment-PEMFC.md) — Qi vd. (2026) · *Processes* · hakemli
 <!-- AUTO:RECENT:END -->

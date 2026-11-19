@@ -78,7 +78,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **5**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **6**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -88,6 +88,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Green Hydrogen Production through Photoelectrochemical Water Splitting](Hidrojen-Uretimi/Fotoelektrokimyasal-Su-Ayristirma/Arastirmalar/2026-Venkanna-Green-Hydrogen-Production-through.md) — Venkanna vd. (2026) · *International Journal of Scientific Research in Science and Technology* · hakemli
 - [Synergistic Cu–Co Sites Enabled Reversible H 2 Storage and Release in Liquid Organic Hydrogen Carriers](Hidrojen-Depolama/Sivi-Organik-Hidrojen-Tasiyicilari/Arastirmalar/2026-Wang-Synergistic-CuCo-Sites-Enabled.md) — Wang vd. (2026) · *Angewandte Chemie* · hakemli
 - [Quantitative analysis of cathode polarization in a direct methanol fuel cell employing a methanol-tolerant Fe-N-C-type catalyst](Yakit-Hucreleri/Dogrudan-Metanol-Yakit-Hucreleri/Arastirmalar/2026-Nakagawa-Quantitative-analysis-cathode-polarizat.md) — Nakagawa vd. (2026) · *Journal of Power Sources* · hakemli
 - [Transition Metal Chalcogenides as Electrocatalysts for Anion Exchange Membrane Water Electrolysis](Hidrojen-Uretimi/Su-Elektrolizi/Arastirmalar/2026-Tamang-Transition-Metal-Chalcogenides-Electrocat.md) — Tamang vd. (2026) · *Chemistry of Materials* · hakemli

@@ -91,7 +91,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **9**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **10**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -101,6 +101,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [ULB: An ultra-lightweight block cipher](Simetrik-Anahtarli-Kriptografi/Blok-Sifreler/Hafif-Blok-Sifreler/Arastirmalar/2026-Wang-ULB-ultra-lightweight-block.md) — Wang vd. (2026) · *PLoS ONE* · hakemli
 - [Resultant-based verifiable threshold secret sharing for secure AI–blockchain ecosystems: towards quantum-safe cryptography](Guvenli-Cok-Tarafli-Hesaplama/Gizli-Paylasim/Arastirmalar/2026-Rasheed-Resultant-based-verifiable-threshold.md) — Rasheed vd. (2026) · *Frontiers in Blockchain* · hakemli
 - [SoK: Post-Quantum Cryptography (PQC) Integration in Software Development: Approaches, Gaps, and Future Directions](Kuantum-Sonrasi-Kriptografi/Arastirmalar/2026-N-SoK-Post-Quantum-Cryptography.md) — N. vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [A Systems-Level Performance Study of Post-Quantum TLS with ML-KEM and ML-DSA in Modern OpenSSL](Kuantum-Sonrasi-Kriptografi/Kafes-Tabanli-Kriptografi/Arastirmalar/2026-Dubetskyy-Systems-Level-Performance-Study.md) — Dubetskyy vd. (2026) · *Information* · hakemli

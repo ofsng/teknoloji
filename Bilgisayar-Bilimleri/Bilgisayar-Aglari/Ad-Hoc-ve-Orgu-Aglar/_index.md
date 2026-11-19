@@ -77,7 +77,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **4**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **5**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -87,6 +87,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [A 3D distance-augmented Gauss-Markov mobility model for QoS improvement in Mobile Ad hoc Networks](Mobil-Ad-Hoc-Aglar/Arastirmalar/2026-Barbhuyan-distance-augmented-Gauss-Markov.md) — Barbhuyan vd. (2026) · *Discover Computing* · hakemli
 - [Bio-Inspired Vehicular Ad-Hoc Network Routing Protocol A Review for VANET Security](Aracsal-Ad-Hoc-Aglar/Arastirmalar/2026-Fadhil-Bio-Inspired-Vehicular-Hoc.md) — Fadhil vd. (2026) · *Journal of Information and Cybersecurity* · hakemli
 - [FSTDO: a hybrid heuristic-algorithm-based multi-objective function formulation for multipath routing mechanism in MANET](Mobil-Ad-Hoc-Aglar/Arastirmalar/2026-Brahmaiah-FSTDO-hybrid-heuristic-algorithm.md) — Brahmaiah vd. (2026) · *Journal of Statistical Computation and Simulation* · hakemli
 - [Fire Bloom: Energy-Efficient Cluster-Based Routing Protocol for Scalable Wireless Sensor Networks](Kablosuz-Algilayici-Aglari/Arastirmalar/2026-Nagaraju-Fire-Bloom-Energy-Efficient.md) — Nagaraju vd. (2026) · *Journal of ICT Research and Applications* · hakemli

@@ -77,7 +77,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **2**.
 
 - [Hardware-tailored logical Clifford circuits for stabilizer codes](Arastirmalar/2025-Kuehnke-Hardware-tailored-logical-Clifford.md) — Kuehnke vd. (2025) · *arXiv* · ön baskı / hakemsiz
 <!-- AUTO:RESEARCH:END -->

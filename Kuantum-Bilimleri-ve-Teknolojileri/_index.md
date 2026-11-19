@@ -79,7 +79,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **22**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **24**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -89,6 +89,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Overcoming configuration bottleneck: Modular pathways to stable semiconductor spin-qubit arrays](Kuantum-Hesaplama/Kubit-Teknolojileri/Yari-Iletken-Spin-Kubitleri/Arastirmalar/2026-Zwolak-Overcoming-configuration-bottleneck-Modul.md) — Zwolak vd. (2026) · *Applied Physics Letters* · hakemli
 - [Optimal learning of quantum channels in diamond distance](Kuantum-Bilgi-Teorisi/Kuantum-Kanallari/Arastirmalar/2026-Mele-Optimal-learning-quantum-channels.md) — Mele vd. (2026) · *Nature Physics* · hakemli · atıf: 33
 - [Quantum approximate optimization algorithm with cat qubits](Kuantum-Hesaplama/Kuantum-Algoritmalari/Varyasyonel-Kuantum-Algoritmalari/Kuantum-Yaklasik-Optimizasyon-Algoritmasi/Arastirmalar/2026-Vikstal-Quantum-approximate-optimization-algorit.md) — Vikstål vd. (2026) · *Scientific Reports* · hakemli · atıf: 6
 - [Statistical benchmarking of optimization methods for a variational quantum eigensolver under quantum noise](Kuantum-Hesaplama/Kuantum-Algoritmalari/Varyasyonel-Kuantum-Algoritmalari/Varyasyonel-Kuantum-Ozdeger-Cozucu/Arastirmalar/2026-Illesova-Statistical-benchmarking-optimization-m.md) — Illésová vd. (2026) · *Physical Review A* · hakemli · atıf: 14
@@ -96,7 +97,6 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [A Variational Quantum Algorithm for Multi-Skill Project Scheduling](Kuantum-Hesaplama/Kuantum-Algoritmalari/Varyasyonel-Kuantum-Algoritmalari/Arastirmalar/2026-Martinez-Variational-Quantum-Algorithm-for.md) — Martinez vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [Remote Adiabatic Controlled-Z Gate between Distant Superconducting Qubits](Kuantum-Hesaplama/Kubit-Teknolojileri/Superiletken-Kubitler/Arastirmalar/2026-Xu-Remote-Adiabatic-Controlled-Gate.md) — Xu vd. (2026) · *Chinese Physics B* · hakemli · atıf: 1
 - [Scalable entanglement distribution framework for hybrid quantum networks](Kuantum-Iletisimi/Kuantum-Aglari/Arastirmalar/2026-Zhao-Scalable-entanglement-distribution-framewor.md) — Zhao vd. (2026) · *Physical Review A* · hakemli
-- [QECert: Formal Foundations for Quantum Error-Correction Theory in Lean](Kuantum-Hesaplama/Kuantum-Hata-Duzeltme/Arastirmalar/2026-He-QECert-Formal-Foundations-for.md) — He vd. (2026) · *arXiv* · ön baskı / hakemsiz
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

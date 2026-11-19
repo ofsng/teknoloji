@@ -89,7 +89,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **7**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **8**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -106,6 +106,7 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [Hexafluoroethane purification via molecular sieving in a molecule-trap metal-organic framework](Anorganik-Kimya/Metal-Organik-Kafesler/Arastirmalar/2026-Ruan-Hexafluoroethane-purification-via-molecular.md) — Ruan vd. (2026) · *Nature Communications* · hakemli
 - [Molecular Thermodynamics of Lower Critical Solution Temperature Ionic Liquid/Water Mixtures: Tetrabutylphosphonium Trifluoroacetate](Yesil-Kimya/Surdurulebilir-Cozuculer/Arastirmalar/2026-Parmar-Molecular-Thermodynamics-Lower-Critical.md) — Parmar vd. (2026) · *The Journal of Physical Chemistry B* · hakemli
 - [Assessment of Sub-50 nm Nanopipette Emitters for Native Electrospray Ionization Mass Spectrometry](Analitik-Kimya/Kutle-Spektrometrisi/Arastirmalar/2026-Byrd-Assessment-Sub-Nanopipette-Emitters.md) — Byrd vd. (2026) · *Journal of the American Society for Mass Spectrometry* · hakemli · atıf: 1
+- [Influence of Cell Type, Label Type, and Recovery Times on In-Cell Pulsed Dipolar Electron Paramagnetic Resonance Spectroscopy Data](Fizikokimya/Spektroskopi/Elektron-Paramanyetik-Rezonans/Arastirmalar/2026-Limbach-Influence-Cell-Type-Label.md) — Limbach vd. (2026) · *Applied Magnetic Resonance* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar
