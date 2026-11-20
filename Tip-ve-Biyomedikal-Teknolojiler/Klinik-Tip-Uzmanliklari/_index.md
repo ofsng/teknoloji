@@ -82,7 +82,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **3**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -92,6 +92,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Knowledge, awareness, and attitudes toward digital dentistry among dental students and professionals: a systematic review](Dis-Hekimligi/Dijital-Dis-Hekimligi/Arastirmalar/2026-Babak-Knowledge-awareness-and-attitudes.md) — Babak vd. (2026) · *BMC Medical Education* · hakemli
 - [Biomarkers for Cancer Immunotherapy: Advances, Challenges, and Clinical Applications](Onkoloji/Kanser-Immunoterapisi/Arastirmalar/2026-Abbasi-Biomarkers-for-Cancer-Immunotherapy.md) — Abbasi vd. (2026) · *International Journal of Molecular Sciences* · hakemli
 - [Artificial intelligence-driven biomarker discovery and response prediction in cancer immunotherapy: a pan-cancer perspective](Onkoloji/Kanser-Immunoterapisi/Arastirmalar/2026-Esmaeili-Artificial-intelligence-driven-biomarke.md) — Esmaeili vd. (2026) · *Journal of Translational Medicine* · hakemli
 <!-- AUTO:RECENT:END -->

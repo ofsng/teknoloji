@@ -79,7 +79,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -90,6 +90,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
 - [Classical Machine Learning-Based Approaches for Medical Image Analysis and Computer-Aided Diagnosis](Bilgisayar-Destekli-Teshis/Arastirmalar/2026-Cincar-Classical-Machine-Learning-Based.md) — Cincar vd. (2026) · *Technium Romanian Journal of Applied Sciences and Technology* · hakemli
+- [Explainable AI-Based Medical Image Segmentation and Radiomics for Brain Disorder Classification over Structural MRI](Tibbi-Goruntu-Bolutleme/Arastirmalar/2026-Alqahtani-Explainable-Based-Medical-Image.md) — Alqahtani vd. (2026) · *Bioengineering* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

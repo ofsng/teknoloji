@@ -1,5 +1,87 @@
 [
  {
+  "added": "2026-11-20",
+  "arxiv": "2501.08686",
+  "candidates": [
+   [
+    "retrieval-augmented-generation",
+    11.25
+   ],
+   [
+    "schema-matching",
+    9.1
+   ],
+   [
+    "knowledge-graphs",
+    7.9
+   ],
+   [
+    "instruction-tuning",
+    4.05
+   ],
+   [
+    "large-language-models",
+    3.88
+   ],
+   [
+    "analysis",
+    0.26
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.1145/3862591",
+  "keys": [
+   "arxiv:2501.08686",
+   "doi:10.1145/3862591",
+   "title:knowledgegraphbasedretrievalaugmentedgenerationforschemamatching|2025"
+  ],
+  "reason": "backlog'dan: güven düştü (taksonomi değişmiş olabilir)",
+  "record": {
+   "abstract": "Traditional similarity-based schema matching methods fail to resolve semantic ambiguities and conflicts in complex, domain-specific mappings due to a lack of commonsense and domain-specific knowledge. In parallel, large language models (LLMs) without sufficient background knowledge tend to hallucinate, further complicating schema matching. To overcome these limitations, we introduce KG-RAG4SM, a Knowledge Graph-based Retrieval-Augmented Generation for Schema Matching. This method integrates novel retrieval mechanisms, including LLM-based, vector-based, graph traversal-based, and hybrid techniques with advanced reranking schemes to extract the most relevant subgraphs from large external KGs. Our approach achieves superior results without requiring re-training, as evidenced by improvements of 39.79% in precision and 30.56% in F1 score over LLM-based state-of-the-art (SOTA) methods (e.g., Jellyfish-8B) on the MIMIC dataset, and enhancements of 69.20% in precision and 21.99% in F1 score over pre-trained language model (PLM)-based SOTA methods (e.g., SMAT) on the Synthea dataset. Additionally, KG-RAG4SM scales effectively across KGs from commonsense KGs to domain-specific ones, while its instruction-tuning knowledge exclusion component ensures truthful performance in end-to-end schema matching tasks despite the suboptimal relevance of KG context. Our empirical analysis and case studies from real-world scenarios show that the hallucination problem in LLMs for schema matching is well mitigated by our solution.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2501.08686",
+   "authors": [
+    "Chuangtao Ma",
+    "Sriom Chakrabarti",
+    "Arijit Khan",
+    "Bálint Molnár"
+   ],
+   "categories": [
+    "arXiv:cs.DB",
+    "arXiv:cs.CL",
+    "arXiv:cs.IR"
+   ],
+   "cited_by_count": null,
+   "doi": "10.1145/3862591",
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": null,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2025-01-15",
+   "related_versions": [
+    {
+     "doi": "10.1145/3862591",
+     "relation": "published_version",
+     "source": "arxiv"
+    }
+   ],
+   "source_ids": [
+    "arxiv:2501.08686"
+   ],
+   "title": "Knowledge Graph-based Retrieval-Augmented Generation for Schema Matching",
+   "topics": [],
+   "updated_date": "2026-11-06",
+   "url": "https://arxiv.org/abs/2501.08686"
+  },
+  "score": 11.25,
+  "seen": 1,
+  "suggested": "retrieval-augmented-generation",
+  "title": "Knowledge Graph-based Retrieval-Augmented Generation for Schema Matching",
+  "url": "https://arxiv.org/abs/2501.08686"
+ },
+ {
   "added": "2026-11-15",
   "arxiv": "2611.16151",
   "candidates": [
@@ -4200,6 +4282,75 @@
   "url": "https://arxiv.org/abs/2611.11761"
  },
  {
+  "added": "2026-11-20",
+  "arxiv": "2611.23698",
+  "candidates": [
+   [
+    "vision-language-models",
+    6.78
+   ],
+   [
+    "transmission-electron-microscopy",
+    5.2
+   ],
+   [
+    "electron-microscopy",
+    3.1
+   ],
+   [
+    "multimodal-foundation-models",
+    0.45
+   ],
+   [
+    "analysis",
+    0.33
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.23698",
+   "title:fastclosedloopstemnavigationusingvisionlanguagemodelswithtypeddecisions|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Closed-loop scanning transmission electron microscopy (STEM), in which each acquired image determines the next field of view and magnification, offers a route to autonomous atomic-scale materials analysis. Such a loop would automate navigation to defects and grain boundaries, a task that has long relied on operator judgment, and would enable systematic analysis of diverse local structures at scale. Realizing it hinges on the decision step, which must translate each acquired image into the next operation both quickly and correctly; yet which decision method can deliver both remains unclear. Here, we isolate this decision step. Using simulated atomic-resolution STEM images of a substitutional W dopant and a grain boundary in monolayer MoS$_2$, where the true target position is known and every method starts from identical conditions, we compared four vision-language models (VLMs) and three decision methods. Our results demonstrate the effectiveness of Typed Decision, which directly obtains the probabilities of candidate labels from a pretrained VLM, for closed-loop STEM navigation. Typed Decision showed the shortest decision latency for all models (0.13-0.21 s) and generally achieved the highest navigation success rate among the three methods: it was the best for all models in W dopant navigation (66-91%) and for the best-performing model, Cosmos-Reason2 32B, in grain boundary navigation (43%). Furthermore, navigation to the different targets, the W dopant and the grain boundary, was possible by natural-language specification alone, without task-specific training of the VLM. These results indicate that Typed Decision is an effective decision method for realizing fast, accurate, and flexible closed-loop STEM.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.23698",
+   "authors": [
+    "Shuichiro Ozawa",
+    "Izumi Takahara",
+    "Fumihiko Uesugi",
+    "Teruyasu Mizoguchi"
+   ],
+   "categories": [
+    "arXiv:cond-mat.mtrl-sci"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-18",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.23698"
+   ],
+   "title": "Fast closed-loop STEM navigation using vision-language models with typed decisions",
+   "topics": [],
+   "updated_date": "2026-11-18",
+   "url": "https://arxiv.org/abs/2611.23698"
+  },
+  "score": 6.78,
+  "seen": 1,
+  "suggested": "vision-language-models",
+  "title": "Fast closed-loop STEM navigation using vision-language models with typed decisions",
+  "url": "https://arxiv.org/abs/2611.23698"
+ },
+ {
   "added": "2026-11-16",
   "arxiv": null,
   "candidates": [
@@ -4559,6 +4710,75 @@
   "suggested": "structural-health-monitoring",
   "title": "Data Set of Load Tests and Structural Health Monitoring of a concrete Box Girder bridge",
   "url": "https://arxiv.org/abs/2412.15713"
+ },
+ {
+  "added": "2026-11-20",
+  "arxiv": "2611.23680",
+  "candidates": [
+   [
+    "covalent-organic-frameworks",
+    6.74
+   ],
+   [
+    "large-language-models",
+    3.88
+   ],
+   [
+    "computer-vision",
+    3.5
+   ],
+   [
+    "crystallography",
+    2.73
+   ],
+   [
+    "analysis",
+    0.26
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.23680",
+   "title:structuredextractionofdiffractiondatafromcovalentorganicframeworks|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Powder X-ray diffraction (PXRD) is the primary structural evidence for covalent organic frameworks (COFs) and many other materials. Yet decades of measured patterns exist only as images in published figures. Automatic recovery is difficult, because PXRD figures vary widely in format, from a single curve to crowded stacks with labels, insets, and neighboring plots that challenge traditional computer vision. This work presents a pipeline in which a vision large language model (LLM) interprets the layout of each figure, locating the diffraction plot and its curves and sketching a coarse trace of each, while classical computer vision (CV) refines every trace to pixel-level accuracy. Applied to 3,954 COF articles, the pipeline produces 11,445 calibrated diffraction curves, released in the open database COF-PEAK. Compared with a hand digitization of 60 panels, extracted peak positions differ by a median of only 0.07 degrees. Whereas papers usually report only a few peak angles, which limits further analysis, the digitized curves enable tracking how peak prominence, a possible marker of crystallinity, changes with synthesis conditions. Vision LLMs and classical CV can thus turn such figures into reusable experimental data.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.23680",
+   "authors": [
+    "Shenghan Gao",
+    "Zhiling Zheng"
+   ],
+   "categories": [
+    "arXiv:cs.CV",
+    "arXiv:cond-mat.mtrl-sci",
+    "arXiv:cs.AI"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-18",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.23680"
+   ],
+   "title": "Structured Extraction of Diffraction Data from Covalent Organic Frameworks",
+   "topics": [],
+   "updated_date": "2026-11-18",
+   "url": "https://arxiv.org/abs/2611.23680"
+  },
+  "score": 6.74,
+  "seen": 1,
+  "suggested": "covalent-organic-frameworks",
+  "title": "Structured Extraction of Diffraction Data from Covalent Organic Frameworks",
+  "url": "https://arxiv.org/abs/2611.23680"
  },
  {
   "added": "2026-11-09",
@@ -5846,6 +6066,98 @@
   "url": "https://arxiv.org/abs/2611.14880"
  },
  {
+  "added": "2026-11-20",
+  "arxiv": null,
+  "candidates": [
+   [
+    "single-cell-sequencing",
+    5.36
+   ],
+   [
+    "transcriptomics",
+    1.24
+   ],
+   [
+    "analysis",
+    1.05
+   ],
+   [
+    "geostationary-satellite-systems",
+    0.45
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.3791/72578",
+  "keys": [
+   "doi:10.3791/72578",
+   "title:autophagyactiveimmunecellclusterandcrucialgeneexpressioninnonunionviasinglecellsequencingandfunctionalenrichmentanalysis|2026"
+  ],
+  "reason": "backlog'dan: güven düştü (taksonomi değişmiş olabilir)",
+  "record": {
+   "abstract": "Fracture nonunion represents a great challenge for orthopedic clinicians. This study aimed to identify autophagy-active immune cell clusters and key genes associated with nonunion progression using single-cell profiles and RNA-seq data. scRNA-seq profiles related to femoral nonunion were derived from the GEO database, and cell cluster annotation was subsequently performed. The AUCell package was utilized to calculate active cells based on autophagy gene expression, and cell communication was analyzed using CellChat. Twenty-one distinct cell clusters were identified from the nonunion tissues, which were annotated into 14 major cell types, and macrophages exhibited the highest AUCell score. Intercellular communication analysis revealed that the total number and intensity of overall cell interactions in the nonunion were notably increased compared with normal tissue. Furthermore, three ligand-receptor pathways (SPP1, MIF, and FN1) were notably altered between M1 macrophages and multiple other cell types, including endothelial cells, fibroblasts, pericytes, and NK cells. By combining the scRNA-seq and transcriptomic analyses, 21 key genes were identified, of which 12 genes, including CCL8, CDO1, and CEBPD, showed potential discriminatory ability for nonunion (AUC > 0.9). Moreover, the PPI network, ceRNA network, and mRNA-TF network were established to predict co-expression molecules. The results highlight the pivotal role of autophagy-active macrophages in nonunion and identify altered ligand-receptor pathways and 21 key DEGs associated with disease progression.",
+   "abstract_license": null,
+   "arxiv": null,
+   "authors": [
+    "Guolong Zhao",
+    "Liang Sun",
+    "Dongchen Li",
+    "Qian Wang",
+    "Zhong Li",
+    "Kun Zhang",
+    "Ning Duan",
+    "Yao Lu"
+   ],
+   "categories": [
+    "OpenAlex-field:Medicine"
+   ],
+   "cited_by_count": 0,
+   "doi": "10.3791/72578",
+   "is_retracted": false,
+   "keywords": [
+    "nonunion",
+    "autophagy",
+    "immune cell clusters",
+    "macrophages",
+    "M1 macrophages",
+    "intercellular communication",
+    "osteopontin",
+    "macrophage migration inhibitory factor",
+    "FN1",
+    "CCL8",
+    "CDO1",
+    "CEBPD",
+    "differentially expressed genes",
+    "competing endogenous RNA network",
+    "protein-protein interaction network",
+    "transcriptional regulatory networks",
+    "femoral nonunion",
+    "biomarkers"
+   ],
+   "language": "en",
+   "oa_created": "2026-11-04",
+   "peer_reviewed": true,
+   "publication": "Journal of Visualized Experiments",
+   "publication_type": "article",
+   "published_date": "2026-11-03",
+   "related_versions": [],
+   "source_ids": [
+    "openalex:W7225172384"
+   ],
+   "title": "Autophagy-Active Immune Cell Cluster and Crucial Gene Expression in Nonunion Via Single-Cell Sequencing and Functional Enrichment Analysis",
+   "topics": [
+    "Bone fractures and treatments",
+    "Orthopedics and Sports Medicine"
+   ],
+   "updated_date": "2026-11-08",
+   "url": "https://doi.org/10.3791/72578"
+  },
+  "score": 5.36,
+  "seen": 1,
+  "suggested": "single-cell-sequencing",
+  "title": "Autophagy-Active Immune Cell Cluster and Crucial Gene Expression in Nonunion Via Single-Cell Sequencing and Functional Enrichment Analysis",
+  "url": "https://doi.org/10.3791/72578"
+ },
+ {
   "added": "2026-11-08",
   "arxiv": "2611.04096",
   "candidates": [
@@ -6828,6 +7140,284 @@
   "suggested": "multigrid-methods",
   "title": "A nonlinear multigrid method for the preconditioned lattice Boltzmann equation",
   "url": "https://arxiv.org/abs/2611.22063"
+ },
+ {
+  "added": "2026-11-20",
+  "arxiv": "2611.23674",
+  "candidates": [
+   [
+    "super-resolution",
+    6.3
+   ],
+   [
+    "vision-language-models",
+    3.94
+   ],
+   [
+    "multimodal-foundation-models",
+    2.1
+   ],
+   [
+    "large-language-models",
+    2.1
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.23674",
+   "title:learningwhattodegradearecoverabilityawarecurriculumforreliablesmartglassessuperresolution|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Degradations in smart-glasses images obscure small text and fine-grained structures needed by vision-language models (VLMs) for visual assistance. We introduce an high-resolution (HR)-referenced semantic evaluation protocol that compares VLM outputs on restored images with those on corresponding HR references. Our evaluation reveals two failure modes: generative SR can synthesize misleading details, whereas restoration-oriented SR can leave critical evidence blurred or ambiguous. These findings motivate improving faithful detail recovery in restoration-oriented SR, where a key training challenge is to provide sufficiently difficult inputs while retaining recoverable visual information. We propose ReDiC (Recoverability-Difficulty Curriculum), which combines a model-independent recoverability proxy with model-relative restoration difficulty to adapt training degradation severity. ReDiC increases severity when inputs are recoverable and restoration is easy, maintains challenging but recoverable conditions, and reduces severity when estimated recoverability is low. It modifies only training degradation generation, leaving the SR architecture and reconstruction objective unchanged. Across NAFNet, SwinIR, and MambaIR, ReDiC improves average PSNR by approximately 2.5 dB and HR-referenced semantic scores by about 3 points over the corresponding baselines on synthetic benchmarks, with further gains confirmed by LLM-based and human evaluations on 200 real smart-glasses captures.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.23674",
+   "authors": [
+    "Yaopeng Wang",
+    "Qingliang Wang",
+    "Yilun Jin",
+    "Xiujin Liu",
+    "Han Yue",
+    "Chen Xia",
+    "Renjie Zhu",
+    "Chuang Sheng"
+   ],
+   "categories": [
+    "arXiv:cs.CV"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-18",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.23674"
+   ],
+   "title": "Learning What to Degrade: A Recoverability-Aware Curriculum for Reliable Smart-Glasses Super-Resolution",
+   "topics": [],
+   "updated_date": "2026-11-18",
+   "url": "https://arxiv.org/abs/2611.23674"
+  },
+  "score": 6.3,
+  "seen": 1,
+  "suggested": "super-resolution",
+  "title": "Learning What to Degrade: A Recoverability-Aware Curriculum for Reliable Smart-Glasses Super-Resolution",
+  "url": "https://arxiv.org/abs/2611.23674"
+ },
+ {
+  "added": "2026-11-20",
+  "arxiv": "2611.23676",
+  "candidates": [
+   [
+    "dexterous-manipulation",
+    6.3
+   ],
+   [
+    "vision-language-action-models",
+    4.48
+   ],
+   [
+    "vision-language-models",
+    3.94
+   ],
+   [
+    "reinforcement-learning",
+    3.1
+   ],
+   [
+    "multimodal-foundation-models",
+    2.1
+   ],
+   [
+    "teleoperation",
+    1.85
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.23676",
+   "title:finetuningvlasfordexterousmanipulationtherightcheckpointisallyouneed|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Vision-Language-Action models have demonstrated strong manipulation capabilities. A limitation of VLA models is that most manipulation datasets focus on parallel-jaw gripper systems, making transfer to multi-finger hands challenging, particularly as teleoperation datasets are harder to collect with multi-fingered robots. In this work, we study how to best adapt VLAs to dexterous hands by pairing supervised fine-tuning (SFT) with diffusion-steering reinforcement learning (DSRL). Using $π_{0.5}$ and a LEAP hand, we evaluate five fine-tuning recipes across two simulation tasks using only a handful of demonstrations. Our empirical analysis yields three key insights: (1) SFT success is poorly correlated with post-DSRL success, meaning the best SFT checkpoint is rarely the most effective to steer; (2) freezing the vision-language model (VLM) and tuning only the action expert produces the most steerable policy for both training and out-of-distribution placements; and (3) low-rank adaptation (LoRA) is the least steerable approach. Consequently, we recommend an adaptation recipe that freezes the VLM, fully trains the action expert, and eschews SFT rollout success as a checkpoint selection metric.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.23676",
+   "authors": [
+    "Artur Kuramshin",
+    "Charlotte Cloutier",
+    "Michael Przystupa",
+    "Kirsty Ellis",
+    "Mohammad S. Akhter",
+    "Glen Berseth"
+   ],
+   "categories": [
+    "arXiv:cs.RO",
+    "arXiv:cs.LG"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-18",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.23676"
+   ],
+   "title": "Finetuning VLAs for Dexterous Manipulation: The Right Checkpoint Is All You Need",
+   "topics": [],
+   "updated_date": "2026-11-18",
+   "url": "https://arxiv.org/abs/2611.23676"
+  },
+  "score": 6.3,
+  "seen": 1,
+  "suggested": "dexterous-manipulation",
+  "title": "Finetuning VLAs for Dexterous Manipulation: The Right Checkpoint Is All You Need",
+  "url": "https://arxiv.org/abs/2611.23676"
+ },
+ {
+  "added": "2026-11-20",
+  "arxiv": "2611.23704",
+  "candidates": [
+   [
+    "trustworthy-ai",
+    6.3
+   ],
+   [
+    "foundation-models",
+    3.1
+   ],
+   [
+    "large-language-models",
+    2.74
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.23704",
+   "title:localizingtextanonymizationfortrustworthyaiextendingratbenchtomalaysianmicrodataandpii|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "As governments and organizations adopt foundation models for public services and workplace productivity, sensitive citizen, employee, and administrative text may enter LLM workflows through inference, retrieval, fine-tuning, or local model development. We examine whether text anonymizers transfer to new deployment settings by extending RAT-Bench to Malaysia using local microdata, Malaysian PII formats, and culturally grounded transcripts in Malaysian English and Bahasa Malaysia. We evaluate NER- and LLM-based anonymizers using an LLM attacker that infers attributes from anonymized text, measuring both re-identification success and text utility. Across Malaysian English and Bahasa Malaysia, the two LLM anonymizers provide the strongest explicit privacy-utility trade-offs, reducing Easy/Hard re-identification risk to 23-29% while preserving BLEU scores of 0.77-0.94. Non-LLM tools show sharper failure modes, either preserving utility while leaving high residual risk or reducing risk through severe over-redaction, especially in Bahasa Malaysia. These findings suggest that anonymizers should be evaluated against deployment-relevant languages, identifier formats, and cultural contexts before being relied on in public-sector, workplace, or local AI pipelines.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.23704",
+   "authors": [
+    "David Hong Liang Chew",
+    "Zexi Yao",
+    "Nataša Krčo",
+    "Matthieu Meeus",
+    "Waqas Khalid Obeidy",
+    "Yves-Alexandre de Montjoye"
+   ],
+   "categories": [
+    "arXiv:cs.CL"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-18",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.23704"
+   ],
+   "title": "Localizing Text Anonymization for Trustworthy AI: Extending RAT-Bench to Malaysian Microdata and PII",
+   "topics": [],
+   "updated_date": "2026-11-18",
+   "url": "https://arxiv.org/abs/2611.23704"
+  },
+  "score": 6.3,
+  "seen": 1,
+  "suggested": "trustworthy-ai",
+  "title": "Localizing Text Anonymization for Trustworthy AI: Extending RAT-Bench to Malaysian Microdata and PII",
+  "url": "https://arxiv.org/abs/2611.23704"
+ },
+ {
+  "added": "2026-11-20",
+  "arxiv": "2610.40184",
+  "candidates": [
+   [
+    "adaptive-optics",
+    6.3
+   ],
+   [
+    "turbulence",
+    2.02
+   ],
+   [
+    "actuators",
+    0.52
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.1051/0004-6361/202661638",
+  "keys": [
+   "arxiv:2610.40184",
+   "doi:10.1051/0004-6361/202661638",
+   "title:temporalregularizationofpetalmodesinsingleconjugateadaptiveopticssystemsthesoftlimiterapproach|2026"
+  ],
+  "reason": "backlog'dan: güven düştü (taksonomi değişmiş olabilir)",
+  "record": {
+   "abstract": "Extremely large telescopes (ELTs) rely on segmented mirrors and thick support structures that fragment the pupil. In single-conjugate AO (SCAO), this produces differential pistons, or petal modes. The Pyramid Wavefront Sensor (PWFS), baseline for ANDES, MICADO, HARMONI, and GMT-NGSAO, has poor sensitivity to these modes in the visible under realistic residual turbulence. We aim to prevent the \"Island Effect\", where poorly observed differential pistons accumulate and degrade the PSF, without compromising continuous-mode correction. We propose the Minimum Mean Square Error (MMSE) Soft-Limiter, a deterministic, lightweight controller combining a subspace MMSE estimator derived from von Kármán priors with a continuous temporal regularization. It acts as a leaky integrator applied only to the relative petal degrees of freedom. End-to-end SPECULA simulations of ELT/ANDES show that, while a classical integrator loses lock and wanders across multiple fringes at seeing $\\ge 1.0''$, the MMSE Soft-Limiter confines the differential piston within a single fringe over the $0.6-1.2''$ range. It bounds the petal excursion and its science-band impact under severe turbulence, while keeping optimal continuous-mode correction at good seeing, without the Strehl penalty of spatial mitigation such as Edge Actuator Coupling. We derive and verify the operating window for the leakage gain, $g \\lesssim g_{\\mathrm{eff}}/π$: below it, the fast loop retains genuine physical steps up to $λ_{WFS}/2$ with a small droop. This maintains a stable modulo-$λ_{WFS}$ wavefront on the fast sensor, letting a slower phasing sensor resolve integer ambiguities. As the window narrows with turbulence, its boundaries cross near $1.0''$ seeing; beyond this, retaining physical discontinuities becomes the sole responsibility of the phasing channel, a key design driver for segmented ELTs.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2610.40184",
+   "authors": [
+    "Guido Agapito",
+    "Jueqi Lin",
+    "Carmelo Arcidiacono",
+    "Giulia Carlà",
+    "Enrico Pinna",
+    "Fabio Rossi"
+   ],
+   "categories": [
+    "arXiv:astro-ph.IM"
+   ],
+   "cited_by_count": null,
+   "doi": "10.1051/0004-6361/202661638",
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": null,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-10-29",
+   "related_versions": [
+    {
+     "doi": "10.1051/0004-6361/202661638",
+     "relation": "published_version",
+     "source": "arxiv"
+    }
+   ],
+   "source_ids": [
+    "arxiv:2610.40184"
+   ],
+   "title": "Temporal regularization of petal modes in single conjugate adaptive optics systems: The soft-limiter approach",
+   "topics": [],
+   "updated_date": "2026-11-13",
+   "url": "https://arxiv.org/abs/2610.40184"
+  },
+  "score": 6.3,
+  "seen": 1,
+  "suggested": "adaptive-optics",
+  "title": "Temporal regularization of petal modes in single conjugate adaptive optics systems: The soft-limiter approach",
+  "url": "https://arxiv.org/abs/2610.40184"
  },
  {
   "added": "2026-11-14",
@@ -10311,627 +10901,5 @@
   "suggested": "mathematical-physics",
   "title": "Zimmer’s Conjecture for Non-uniform Lattices: Escape of Mass and Growth of Cocycles",
   "url": "https://doi.org/10.1007/s00039-026-00759-9"
- },
- {
-  "added": "2026-11-09",
-  "arxiv": "2605.30513",
-  "candidates": [
-   [
-    "astronomy-and-astrophysics",
-    3.7
-   ],
-   [
-    "calibration",
-    1.05
-   ]
-  ],
-  "confidence": "medium",
-  "doi": "10.3847/1538-4357/aeb09c",
-  "keys": [
-   "arxiv:2605.30513",
-   "doi:10.3847/1538-4357/aeb09c",
-   "title:thejadesmassmetallicityandfundamentalmetallicityrelationsatz2usingnewhighredshiftmetallicitycalibrations|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "Abstract We present measurements of the mass–metallicity relation (MZR) and fundamental metallicity relation (FMR) at 1.4 < z < 7.0 using stacked JWST/NIRSpec spectra of 601 star-forming galaxies from the JWST Advanced Deep Extragalactic Survey (JADES). Using the most up-to-date strong-line metallicity calibrations based on high-redshift galaxies, we derive gas-phase metallicities from composite spectra binned by stellar mass, redshift, and star-forming main sequence (SFMS) offset. We find that the MZR slope evolves weakly from z ∼ 0 out to ∼5, with γ ∼ 0.21 ± 0.03, while the normalization decreases smoothly with redshift at a rate of d log ( O / H ) / d z ∼ − 0.1 out to z ∼ 4. Beyond z ≳ 5, the low-mass end continues to decline in metallicity while the high-mass end remains broadly consistent with lower-redshift relations, producing a steeper overall MZR. We additionally find evidence for a shallow anticorrelation between deviations from the MZR and SFMS at fixed stellar mass at z ∼ 1.4−5. This anticorrelation, albeit with weaker star formation rate coupling than observed locally, suggests that an FMR is already beginning to emerge by z ∼ 5. Comparisons with recent observations and cosmological simulations show broad agreement, though no single simulation simultaneously reproduces the observed slopes and normalizations across all redshifts. Our results support a picture in which bursty star formation and strong stellar feedback increasingly shape the regulation of galaxy growth at high redshift, while also highlighting the need for substantially larger spectroscopic samples to robustly constrain the evolution of galaxy scaling relations at high redshift.",
-   "abstract_license": "cc-by",
-   "arxiv": "2605.30513",
-   "authors": [
-    "Natalie Lam",
-    "L. Clarke",
-    "Alice E. Shapley",
-    "Ryan L. Sanders",
-    "Michael W. Topping",
-    "Gabriel B. Brammer",
-    "Naveen A. Reddy",
-    "Shreya Karthikeyan"
-   ],
-   "categories": [
-    "OpenAlex-field:Physics and Astronomy"
-   ],
-   "cited_by_count": 4,
-   "doi": "10.3847/1538-4357/aeb09c",
-   "is_retracted": false,
-   "keywords": [
-    "mass-metallicity relation",
-    "fundamental metallicity relation",
-    "high-redshift galaxies",
-    "gas-phase metallicity",
-    "star-forming galaxies",
-    "star-forming main sequence",
-    "JADES",
-    "JWST NIRSpec",
-    "galaxy evolution",
-    "starburst",
-    "stellar feedback",
-    "galaxy scaling relations"
-   ],
-   "language": "en",
-   "oa_created": "2026-06-02",
-   "peer_reviewed": true,
-   "publication": "The Astrophysical Journal",
-   "publication_type": "article",
-   "published_date": "2026-11-06",
-   "related_versions": [],
-   "source_ids": [
-    "openalex:W7163030847"
-   ],
-   "title": "The JADES Mass–Metallicity and Fundamental Metallicity Relations at z ≳ 2 Using New High-redshift Metallicity Calibrations",
-   "topics": [
-    "Galaxies: Formation, Evolution, Phenomena",
-    "Astronomy and Astrophysics"
-   ],
-   "updated_date": "2026-11-08",
-   "url": "https://doi.org/10.3847/1538-4357/aeb09c"
-  },
-  "score": 3.7,
-  "seen": 1,
-  "suggested": "astronomy-and-astrophysics",
-  "title": "The JADES Mass–Metallicity and Fundamental Metallicity Relations at z ≳ 2 Using New High-redshift Metallicity Calibrations",
-  "url": "https://doi.org/10.3847/1538-4357/aeb09c"
- },
- {
-  "added": "2026-11-14",
-  "arxiv": "2510.02432",
-  "candidates": [
-   [
-    "astronomy-and-astrophysics",
-    3.7
-   ]
-  ],
-  "confidence": "medium",
-  "doi": "10.33232/001c.175199",
-  "keys": [
-   "arxiv:2510.02432",
-   "doi:10.33232/001c.175199",
-   "title:theentanglingofsupernovafeedbackimpactswithcoarseningsimulationresolution|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "It is often understood that supernova (SN) feedback in galaxies is responsible for regulating star formation (SF) and generating gaseous outflows. However, a detailed look at the small-scale effects of SNe on the interstellar medium (ISM) in simulations shows that the macroscopic processes of SF suppression and outflow generation proceed in distinct channels. We demonstrate this finding in two independent simulations of isolated dwarf galaxies with very high (m_gas ~ Msun) numerical resolution, LYRA and RIGEL. Our findings suggest that the macroscopic effect of a given SN on the galaxy is best predicted by its local density. Outflows are primarily linked to SNe in diffuse regions expanding to their cooling radii on large (~kpc) scales, while dense SF regions are disrupted in a localized (~pc) manner. However, these separate feedback channels are only distinguishable at very high resolutions capable of following mass scales ^2 . When averaging on coarser scales, ISM densities are greatly mis-estimated, and variations between different SF and SNe-affected regions are severely washed out. It therefore cannot be self-consistently determined, from coarse-resolution information alone , (1) whether a SN tends to contribute to outflows or direct SF suppression, and (2) the rate of SF in a given region. In particular, commonly used parameters in coarse-resolution (subgrid) models, such as the SN cooling radius and SF density threshold, may require more detailed treatments informed by high-resolution studies.",
-   "abstract_license": "cc-by",
-   "arxiv": "2510.02432",
-   "authors": [
-    "Eric Zhang",
-    "Laura V. Sales",
-    "Thales A. Gutcke",
-    "Yunwei Deng",
-    "Hui Li",
-    "Rüdiger Pakmor",
-    "Federico Marinacci",
-    "Volker Springel",
-    "Mark Vogelsberger",
-    "Paul Torrey",
-    "Boyuan Liu",
-    "Rahul Kannan",
-    "Aaron C. T. Smith",
-    "Greg L. Bryan"
-   ],
-   "categories": [
-    "OpenAlex-field:Physics and Astronomy"
-   ],
-   "cited_by_count": 4,
-   "doi": "10.33232/001c.175199",
-   "is_retracted": false,
-   "keywords": [
-    "supernova feedback",
-    "star formation regulation",
-    "galactic outflows",
-    "interstellar medium",
-    "dwarf galaxies",
-    "resolution dependence",
-    "subgrid-scale modeling",
-    "star formation suppression"
-   ],
-   "language": "en",
-   "oa_created": "2025-10-10",
-   "peer_reviewed": true,
-   "publication": "The Open Journal of Astrophysics",
-   "publication_type": "article",
-   "published_date": "2026-11-11",
-   "related_versions": [],
-   "source_ids": [
-    "openalex:W4415981265"
-   ],
-   "title": "The Entangling of Supernova Feedback Impacts with Coarsening Simulation Resolution",
-   "topics": [
-    "Galaxies: Formation, Evolution, Phenomena",
-    "Astronomy and Astrophysics"
-   ],
-   "updated_date": "2026-11-13",
-   "url": "https://doi.org/10.33232/001c.175199"
-  },
-  "score": 3.7,
-  "seen": 1,
-  "suggested": "astronomy-and-astrophysics",
-  "title": "The Entangling of Supernova Feedback Impacts with Coarsening Simulation Resolution",
-  "url": "https://doi.org/10.33232/001c.175199"
- },
- {
-  "added": "2026-11-16",
-  "arxiv": "2602.02661",
-  "candidates": [
-   [
-    "astronomy-and-astrophysics",
-    3.7
-   ],
-   [
-    "antennas",
-    1.31
-   ],
-   [
-    "calibration",
-    0.66
-   ],
-   [
-    "electromagnetics",
-    0.66
-   ],
-   [
-    "modulation",
-    0.26
-   ]
-  ],
-  "confidence": "medium",
-  "doi": "10.1093/rasti/rzag099",
-  "keys": [
-   "arxiv:2602.02661",
-   "doi:10.1093/rasti/rzag099",
-   "title:theelectromagneticallyisolatedglobalsignalestimationplatformeigsep|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "Abstract The Electromagnetically Isolated Global Signal Estimation Platform (EIGSEP) is a new instrument designed to measure the global 21-cm signal from Cosmic Dawn and the Epoch of Reionization, redshifted to frequencies below 250 MHz. To reduce spectral structure in the antenna beam associated with ground scattering, EIGSEP uses a shaped bowtie antenna suspended in a canyon, designed to keep terrain and conducting structures about 100 m away. We describe the current system design of EIGSEP, including the rotating antenna platform, a transmitter antenna to characterize the beam of the bowtie antenna, and auxiliary ground antennas. We then discuss the EIGSEP calibration scheme, which incorporates traditional Dicke switching in the receiver, and novel approaches that include beam mapping, beam modulation, and interferometric cross-correlation. The instrument has been deployed near Marjum Pass, Utah, for testing and initial data collection. We discuss the site characteristics and present the measured response of the suspended and rotating antenna to an external transmitter. We also present an in situ measurement of the antenna reflection coefficient, whose delay spectrum shows no detectable terrestrial scattering at delays below 590 ns, the round-trip light travel time to the nearest canyon terrain, demonstrating the electromagnetic isolation of the antenna. Absolutely calibrated sky spectra and the characterization of the antenna beam are deferred to forthcoming work.",
-   "abstract_license": "cc-by",
-   "arxiv": "2602.02661",
-   "authors": [
-    "Christian H. Bye",
-    "Aaron R Parsons",
-    "David Robert Deboer",
-    "Matt Dexter",
-    "Sean Donelan",
-    "Aaron Ewall-Wice",
-    "Adam Fahs",
-    "Pranav Karthik",
-    "Komal Kaur",
-    "Bahram Khalichi",
-    "Wei Liu",
-    "Raúl A. Monsalve",
-    "Reid Parsons",
-    "Richard J. Saeed",
-    "Richard J. Saeed",
-    "Charlie G. Tolley",
-    "Dominic Vazquez",
-    "Dirk Wright"
-   ],
-   "categories": [
-    "OpenAlex-field:Physics and Astronomy"
-   ],
-   "cited_by_count": 4,
-   "doi": "10.1093/rasti/rzag099",
-   "is_retracted": false,
-   "keywords": [
-    "HI 21 cm emission",
-    "cosmic dawn",
-    "cosmic reionization",
-    "bow-tie antenna",
-    "electromagnetic isolation",
-    "ground scattering",
-    "antenna calibration",
-    "antenna reflection coefficient",
-    "low-frequency radio astronomy"
-   ],
-   "language": "en",
-   "oa_created": "2026-02-06",
-   "peer_reviewed": true,
-   "publication": "RAS Techniques and Instruments",
-   "publication_type": "article",
-   "published_date": "2026-11-13",
-   "related_versions": [],
-   "source_ids": [
-    "openalex:W7127621416"
-   ],
-   "title": "The Electromagnetically Isolated Global Signal Estimation Platform (EIGSEP)",
-   "topics": [
-    "Radio Astronomy Observations and Technology",
-    "Astronomy and Astrophysics"
-   ],
-   "updated_date": "2026-11-15",
-   "url": "https://doi.org/10.1093/rasti/rzag099"
-  },
-  "score": 3.7,
-  "seen": 1,
-  "suggested": "astronomy-and-astrophysics",
-  "title": "The Electromagnetically Isolated Global Signal Estimation Platform (EIGSEP)",
-  "url": "https://doi.org/10.1093/rasti/rzag099"
- },
- {
-  "added": "2026-11-16",
-  "arxiv": "2606.27477",
-  "candidates": [
-   [
-    "astronomy-and-astrophysics",
-    3.7
-   ],
-   [
-    "spectroscopy",
-    0.52
-   ],
-   [
-    "bearings",
-    0.33
-   ]
-  ],
-  "confidence": "medium",
-  "doi": "10.3847/1538-3881/aeb422",
-  "keys": [
-   "arxiv:2606.27477",
-   "doi:10.3847/1538-3881/aeb422",
-   "title:fromyoungtoolderdisksjwstmirievidenceforfadingmolecularemissionandhintsforelevatedcoinupperscorpius|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "Abstract We present JWST/MIRI spectroscopy of 14 disks in the older (∼5–10 Myr) Upper Scorpius (USco) association and use slab of gas in local thermal equilibrium to infer basic gas properties. We find that one-half of these disks are molecular rich, with detections of H 2 O, CO 2 , HCN, C 2 H 2 , and H 2 , while the other one-half are molecular poor, showing no molecular emission other than H 2 . We further combine this sample with 10 other USco disks from the AGE-PRO program and compare the combined older sample to young (∼1–3 Myr) JDISCS Cycle 1 systems, which are analyzed in a similar manner. We find that USco disks have lower detection rates of major molecular species but a significantly higher detection rate of rarer C-bearing molecules such as C 4 H 2 . At a given accretion luminosity, molecular line luminosities are systematically lower in USco than in young disks, and the scaling relations with accretion luminosity differ between the two populations. Moreover, we find that about one-half of the older disks, preferentially the millimeter-faint and likely more compact disks, have observable mass ratios of C- to O-bearing molecules that are higher than the maximum values in the young sample. These results point to reduced inner-disk molecular gas masses, cooler emitting layers, and higher inner gas C/O ratios in older disks, the latter being consistent with pebble drift. Taken together, our findings provide evidence for chemical evolution of inner-disk gas from young to older systems, with important implications for the accretion of primordial planetary atmospheres.",
-   "abstract_license": "cc-by",
-   "arxiv": "2606.27477",
-   "authors": [
-    "Chengyan Xie",
-    "I. Pascucci",
-    "Feng Long",
-    "Uma Gorti",
-    "Andrea Banzatti",
-    "Richard A. Booth",
-    "Klaus M. Pontoppidan",
-    "Tamara Molyarova",
-    "John Carpenter",
-    "Min Fang",
-    "Yao Liu",
-    "Eshan Raul",
-    "Ke Zhang",
-    "Steve Ertel",
-    "Jordan Stone",
-    "A. Empey",
-    "Carlo F.Manara",
-    "Paola Pinilla",
-    "Colette Salyk",
-    "Benoît Tabone",
-    "Miguel Vioque",
-    "Lucas A. Cieza",
-    "Giovanni P. Rosotti",
-    "James M. Miley",
-    "Geoffrey A. Blake",
-    "Abygail R. Waggoner"
-   ],
-   "categories": [
-    "OpenAlex-field:Physics and Astronomy"
-   ],
-   "cited_by_count": 4,
-   "doi": "10.3847/1538-3881/aeb422",
-   "is_retracted": false,
-   "keywords": [
-    "protoplanetary disks",
-    "Upper Scorpius",
-    "disk chemical evolution",
-    "C/O ratio",
-    "pebble drift",
-    "accretion luminosity",
-    "diacetylene",
-    "planetary atmospheres"
-   ],
-   "language": "en",
-   "oa_created": "2026-06-30",
-   "peer_reviewed": true,
-   "publication": "The Astronomical Journal",
-   "publication_type": "article",
-   "published_date": "2026-11-13",
-   "related_versions": [],
-   "source_ids": [
-    "openalex:W7166509422"
-   ],
-   "title": "From Young to Older Disks: JWST/MIRI Evidence for Fading Molecular Emission and Hints for Elevated C/O in Upper Scorpius",
-   "topics": [
-    "Astrophysics and Star Formation Studies",
-    "Astronomy and Astrophysics"
-   ],
-   "updated_date": "2026-11-15",
-   "url": "https://doi.org/10.3847/1538-3881/aeb422"
-  },
-  "score": 3.7,
-  "seen": 1,
-  "suggested": "astronomy-and-astrophysics",
-  "title": "From Young to Older Disks: JWST/MIRI Evidence for Fading Molecular Emission and Hints for Elevated C/O in Upper Scorpius",
-  "url": "https://doi.org/10.3847/1538-3881/aeb422"
- },
- {
-  "added": "2026-11-19",
-  "arxiv": "2611.22057",
-  "candidates": [
-   [
-    "graph-neural-networks",
-    5.43
-   ],
-   [
-    "superconducting-qubits",
-    3.1
-   ],
-   [
-    "method-of-moments",
-    1.76
-   ],
-   [
-    "machine-learning",
-    1.2
-   ],
-   [
-    "electromagnetics",
-    0.26
-   ]
-  ],
-  "confidence": "medium",
-  "doi": null,
-  "keys": [
-   "arxiv:2611.22057",
-   "title:qcapaphysicscorrectedgraphneuralnetworkforthecapacitancematrixofanyplanarsuperconductingdevicelayout|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "Electromagnetic simulations of device layouts to extract capacitance are computationally intensive, a major obstacle to accurate design of circuit devices. Machine learning models can bypass these simulations, but previous approaches have been restricted to layouts using only particular components, and require thousands of simulations of those same components as training data. We present QCap, a model that accurately predicts the Maxwell capacitance matrix of an arbitrary superconducting device layout in seconds, compared to minutes to hours of Ansys Q3D simulations. We develop a novel design-embedding algorithm that converts the layout into a universal graph format, allowing the model to work with any layout created with any tool. To achieve high accuracy, we obtain a coarse physics prior from a fast method of moments simulation of capacitance, then train the model to correct this prior. On 4,009 test designs withheld from training data the model outputs agree with Q3D simulations to a median error of 0.177%, and on never-seen component families it stays below 1% error. We demonstrate the model's scaling by obtaining the capacitance matrix of a 9-superconducting-qubit device in 12 seconds on a laptop (compared to 19.9 h and 228 GB of memory in Ansys) with sub-percent error, and capacitance of a (too large to simulate) 100-qubit, 781-conductor device in 3.4 min on a laptop. We provide the open-source models and data on SQuADDS and Hugging Face. Our results provide a powerful tool for large-scale accurate circuit design and guide the development of models to bypass other physical simulations.",
-   "abstract_license": "cc0-1.0 (arxiv metadata)",
-   "arxiv": "2611.22057",
-   "authors": [
-    "Sadman Ahmed Shanto",
-    "Saikat Das",
-    "Eli M. Levenson-Falk"
-   ],
-   "categories": [
-    "arXiv:quant-ph",
-    "arXiv:physics.app-ph"
-   ],
-   "cited_by_count": null,
-   "doi": null,
-   "is_retracted": null,
-   "keywords": [],
-   "language": "en",
-   "peer_reviewed": false,
-   "publication": "arXiv",
-   "publication_type": "preprint",
-   "published_date": "2026-11-17",
-   "related_versions": [],
-   "source_ids": [
-    "arxiv:2611.22057"
-   ],
-   "title": "QCap: a physics-corrected graph neural network for the capacitance matrix of any planar superconducting device layout",
-   "topics": [],
-   "updated_date": "2026-11-17",
-   "url": "https://arxiv.org/abs/2611.22057"
-  },
-  "score": 5.43,
-  "seen": 1,
-  "suggested": "graph-neural-networks",
-  "title": "QCap: a physics-corrected graph neural network for the capacitance matrix of any planar superconducting device layout",
-  "url": "https://arxiv.org/abs/2611.22057"
- },
- {
-  "added": "2026-11-07",
-  "arxiv": "2611.07444",
-  "candidates": [
-   [
-    "long-short-term-memory",
-    5.12
-   ],
-   [
-    "machine-learning",
-    3.1
-   ],
-   [
-    "gaussian-processes",
-    1.2
-   ]
-  ],
-  "confidence": "medium",
-  "doi": null,
-  "keys": [
-   "arxiv:2611.07444",
-   "title:twostageresiduallearningforcalibrateduncertaintyinsolarirradianceforecasts|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "Accurate forecasting of renewable generation requires not only point predictions but also reliable estimates of the uncertainty attached to them, particularly at extended horizons. Machine learning models are increasingly used to predict solar output, but they typically report a single value and capture the associated uncertainty poorly. The standard remedy is to train a model to predict the parameters of an assumed probability distribution directly. Here we develop an alternative two-stage method, motivated by synthetic solar signal generation, in which the forecast error is modeled separately from the expected irradiance. A first long short-term memory (LSTM) network predicts the expected global horizontal irradiance, and a second network models the distribution of the forecast error, which is added back to the mean to give both the forecast and its uncertainty. Using historical weather data from the National Solar Radiation Database and a probability integral transform evaluation, we show that explicitly modeling the error brings the predicted standard deviation markedly closer to the historical value, reducing the deviation between the two by 34.6 percent for a standalone LSTM and by 56.5 percent when the LSTM is coupled to Gaussian process regression, the most reliable of the configurations tested. Because the method models the total forecast error directly, it captures the full predictive uncertainty that matters for decisions, rather than only the model contribution that dropout-based approaches estimate.",
-   "abstract_license": "cc0-1.0 (arxiv metadata)",
-   "arxiv": "2611.07444",
-   "authors": [
-    "RR Flanagan",
-    "E Kasha",
-    "PW Talbot",
-    "AS Epiny",
-    "MR Deinert"
-   ],
-   "categories": [
-    "arXiv:cs.LG",
-    "arXiv:eess.SY"
-   ],
-   "cited_by_count": null,
-   "doi": null,
-   "is_retracted": null,
-   "keywords": [],
-   "language": "en",
-   "peer_reviewed": false,
-   "publication": "arXiv",
-   "publication_type": "preprint",
-   "published_date": "2026-11-05",
-   "related_versions": [],
-   "source_ids": [
-    "arxiv:2611.07444"
-   ],
-   "title": "Two-stage residual learning for calibrated uncertainty in solar irradiance forecasts",
-   "topics": [],
-   "updated_date": "2026-11-05",
-   "url": "https://arxiv.org/abs/2611.07444"
-  },
-  "score": 5.12,
-  "seen": 2,
-  "suggested": "long-short-term-memory",
-  "title": "Two-stage residual learning for calibrated uncertainty in solar irradiance forecasts",
-  "url": "https://arxiv.org/abs/2611.07444"
- },
- {
-  "added": "2026-11-14",
-  "arxiv": "2505.22340",
-  "candidates": [
-   [
-    "molecular-physics",
-    3.1
-   ]
-  ],
-  "confidence": "medium",
-  "doi": "10.1007/s00222-026-01459-9",
-  "keys": [
-   "arxiv:2505.22340",
-   "doi:10.1007/s00222-026-01459-9",
-   "title:thehuangyangconjectureforthelowdensityfermigas|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "Abstract Our work establishes a three-term asymptotic expansion of the ground state energy of a dilute gas of spin $1/2$ 1 / 2 fermions with repulsive short-range interactions, validating a formula predicted by Huang and Yang in 1957. The formula is universal in the sense that it holds for a large class of interaction potentials and depends on those only via their scattering length. We have recently proved an upper bound on the ground state energy of the desired form, and the present work completes the program by proving the matching lower bound.",
-   "abstract_license": "cc-by",
-   "arxiv": "2505.22340",
-   "authors": [
-    "Emanuela L. Giacomelli",
-    "Christian Hainzl",
-    "Phan Thành Nam",
-    "Robert Seiringer"
-   ],
-   "categories": [
-    "OpenAlex-field:Physics and Astronomy"
-   ],
-   "cited_by_count": 13,
-   "doi": "10.1007/s00222-026-01459-9",
-   "is_retracted": false,
-   "keywords": [
-    "ground state energy",
-    "spin-1/2 fermions",
-    "asymptotic expansion",
-    "scattering length",
-    "lower bounds",
-    "upper bounds",
-    "dilute quantum gases"
-   ],
-   "language": "en",
-   "oa_created": "2025-10-10",
-   "peer_reviewed": true,
-   "publication": "Inventiones mathematicae",
-   "publication_type": "article",
-   "published_date": "2026-11-11",
-   "related_versions": [],
-   "source_ids": [
-    "openalex:W4416048293"
-   ],
-   "title": "The Huang–Yang conjecture for the low-density Fermi gas",
-   "topics": [
-    "Cold Atom Physics and Bose-Einstein Condensates",
-    "Atomic and Molecular Physics, and Optics"
-   ],
-   "updated_date": "2026-11-13",
-   "url": "https://doi.org/10.1007/s00222-026-01459-9"
-  },
-  "score": 3.1,
-  "seen": 1,
-  "suggested": "molecular-physics",
-  "title": "The Huang–Yang conjecture for the low-density Fermi gas",
-  "url": "https://doi.org/10.1007/s00222-026-01459-9"
- },
- {
-  "added": "2026-11-17",
-  "arxiv": "2611.19115",
-  "candidates": [
-   [
-    "neural-operators",
-    5.4
-   ],
-   [
-    "markov-chain-monte-carlo",
-    2.1
-   ],
-   [
-    "partial-differential-equations",
-    1.65
-   ],
-   [
-    "magnetic-resonance-imaging",
-    1.65
-   ],
-   [
-    "markov-chains",
-    1.2
-   ],
-   [
-    "digital-twins",
-    1.2
-   ]
-  ],
-  "confidence": "medium",
-  "doi": null,
-  "keys": [
-   "arxiv:2611.19115",
-   "title:learninginadequacyofbayesianneuraloperatorsforpdeconstrainedinferenceanddesign|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "Partial differential equations (PDEs) underpin predictive modeling across science, engineering and medicine. Their use in digital twins, parameter inference and optimal design requires repeated solutions across parameters and scenarios. For nonlinear, transient and multiphysics systems, these calculations can make numerical simulation prohibitively expensive. Here we introduce the residual-informed Bayesian neural operator (RI-BNO), which learns operator inadequacy using a posteriori error estimates from the governing PDEs and incorporates its correction and uncertainty into Bayesian training and prediction. We establish local error bounds for the residual-informed estimates under stability and smoothness assumptions. We demonstrate RI-BNO on a non-linear reaction-diffusion benchmark with DeepONet and latent-subspace architectures, Markov chain Monte Carlo inference of glioma parameter fields from magnetic resonance imaging, and Monte Carlo risk-averse optimization of three-dimensional thermal breaks in building envelopes under manufacturing uncertainty. Across the evaluated examples, RI-BNO improves agreement with finite element (FE) reference predictions, parameter posteriors and optimized designs while using half as many full nonlinear or transient training simulations as the vanilla Bayesian neural operator (vBNO). For thermal break design, online optimization time decreases from 178 hours with the FE model to 18 minutes with RI-BNO. These results demonstrate the value of explicit inadequacy modeling in neural operators for reliable PDE-based inference and design.",
-   "abstract_license": "cc0-1.0 (arxiv metadata)",
-   "arxiv": "2611.19115",
-   "authors": [
-    "Pratyush Kumar Singh",
-    "Lianghao Cao",
-    "E. Bruce Pitman",
-    "Danial Faghihi"
-   ],
-   "categories": [
-    "arXiv:cs.AI"
-   ],
-   "cited_by_count": null,
-   "doi": null,
-   "is_retracted": null,
-   "keywords": [],
-   "language": "en",
-   "peer_reviewed": false,
-   "publication": "arXiv",
-   "publication_type": "preprint",
-   "published_date": "2026-11-14",
-   "related_versions": [],
-   "source_ids": [
-    "arxiv:2611.19115"
-   ],
-   "title": "Learning inadequacy of Bayesian neural operators for PDE-constrained inference and design",
-   "topics": [],
-   "updated_date": "2026-11-14",
-   "url": "https://arxiv.org/abs/2611.19115"
-  },
-  "score": 5.4,
-  "seen": 1,
-  "suggested": "neural-operators",
-  "title": "Learning inadequacy of Bayesian neural operators for PDE-constrained inference and design",
-  "url": "https://arxiv.org/abs/2611.19115"
  }
 ]

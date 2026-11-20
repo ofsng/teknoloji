@@ -99,7 +99,7 @@
   "parent_uncertain": true,
   "reason": "synonym_of:neuro-fuzzy-systems",
   "status": "rejected",
-  "updated": "2026-11-19"
+  "updated": "2026-11-20"
  },
  "angle resolved photoemission spectroscopy": {
   "acronyms": [
@@ -196,8 +196,104 @@
   "parent_uncertain": true,
   "possible_duplicate": false,
   "status": "candidate",
-  "updated": "2026-11-19",
+  "updated": "2026-11-20",
   "variant_of": "spectroscopy"
+ },
+ "anion exchange membrane": {
+  "acronyms": [
+   "AEM",
+   "AEMs"
+  ],
+  "alias_proposal": true,
+  "category": "technology",
+  "created": "2026-11-20",
+  "display": "anion exchange membrane",
+  "evidence": {
+   "co_classified": {
+    "electrical-and-electronic-engineering": 2,
+    "fuel-cells": 2,
+    "hydrogen-production": 2,
+    "renewable-energy": 1,
+    "water-electrolysis": 3
+   },
+   "examples": [
+    {
+     "date": "2026-11-02",
+     "id": "doi:10.1021/acsomega.6c04852",
+     "title": "Alkyl Imidazolium Cation-Supported Poly(terphenyl- co -fluorene isatin) Anion Exchange Membrane for Anion Exchange Membrane Fuel Cells",
+     "url": "https://doi.org/10.1021/acsomega.6c04852"
+    },
+    {
+     "date": "2026-11-02",
+     "id": "doi:10.1021/acsaem.6c02981",
+     "title": "ZrO2-Embedded Crosslinked Poly(aryl piperidinium) Membranes with Enhanced Mechanical and Alkaline Stability for Anion Exchange Membrane Water Electrolyzers",
+     "url": "https://doi.org/10.1021/acsaem.6c02981"
+    },
+    {
+     "date": "2026-11-06",
+     "id": "doi:10.1021/acs.accounts.6c00727",
+     "title": "From Membranes to Catalyst Layers: Molecular and Interfacial Design of Anion-Exchange Polyelectrolytes",
+     "url": "https://doi.org/10.1021/acs.accounts.6c00727"
+    },
+    {
+     "date": "2026-11-08",
+     "id": "doi:10.3390/hydrogen7040189",
+     "title": "Challenges and Future Prospects of Hydrogen Technologies and Renewable Energy Integration in South Africa: A Review",
+     "url": "https://doi.org/10.3390/hydrogen7040189"
+    },
+    {
+     "date": "2026-11-12",
+     "id": "doi:10.1016/j.jpowsour.2026.241971",
+     "title": "Enhanced OER kinetics with NiFeLa LDH electrocatalysts supported onto Ta-doped SnO2",
+     "url": "https://doi.org/10.1016/j.jpowsour.2026.241971"
+    },
+    {
+     "date": "2026-11-12",
+     "id": "doi:10.1021/acs.nanolett.6c04157",
+     "title": "Sequential Monomer Addition Regulates Hydration in Branched Poly(aryl piperidinium) Membranes for Water Electrolysis",
+     "url": "https://doi.org/10.1021/acs.nanolett.6c04157"
+    }
+   ],
+   "first_authors": 10,
+   "months": 1,
+   "papers": 10,
+   "sources": [
+    "openalex"
+   ]
+  },
+  "key": "anion exchange membrane",
+  "literature_count": null,
+  "notes": [
+   "Mevcut teknolojinin (anion-exchange-membrane-electrolysis) eş anlamlısı; takma ad önerisi."
+  ],
+  "overlaps": [
+   {
+    "name": "Anion Exchange Membrane Electrolysis",
+    "similarity": 0.75,
+    "technology_id": "anion-exchange-membrane-electrolysis"
+   },
+   {
+    "name": "Proton Exchange Membrane Fuel Cells",
+    "similarity": 0.33,
+    "technology_id": "proton-exchange-membrane-fuel-cells"
+   },
+   {
+    "name": "Membrane Separation",
+    "similarity": 0.25,
+    "technology_id": "membrane-separation"
+   },
+   {
+    "name": "Membrane Bioreactors",
+    "similarity": 0.25,
+    "technology_id": "membrane-bioreactors"
+   }
+  ],
+  "parent_reason": "name_overlap (0.75)",
+  "parent_suggestion": "anion-exchange-membrane-electrolysis",
+  "parent_uncertain": true,
+  "reason": "synonym_of:anion-exchange-membrane-electrolysis",
+  "status": "rejected",
+  "updated": "2026-11-20"
  },
  "antiretroviral therapy": {
   "acronyms": [
@@ -210,11 +306,13 @@
    "co_classified": {
     "analytical-chemistry": 1,
     "association-rule-mining": 1,
+    "dna-methylation": 1,
     "dna-vaccines": 1,
+    "electronic-health-records": 1,
     "epigenetics": 2,
     "flow-cytometry": 2,
     "genome-wide-association-studies": 1,
-    "infectious-diseases": 31,
+    "infectious-diseases": 35,
     "innate-immunity": 1,
     "magnetic-resonance-imaging": 2,
     "molecular-biology": 1,
@@ -294,13 +392,13 @@
     "technology_id": "cell-therapy"
    }
   ],
-  "parent_reason": "co_classification (31/45)",
+  "parent_reason": "co_classification (35/51)",
   "parent_suggestion": "infectious-diseases",
   "parent_uncertain": false,
   "possible_duplicate": false,
   "reason": "category:clinical",
   "status": "rejected",
-  "updated": "2026-11-19"
+  "updated": "2026-11-20"
  },
  "artificial neural network": {
   "acronyms": [
@@ -334,6 +432,8 @@
     "compression-ignition-engines": 1,
     "computer-vision": 1,
     "continual-learning": 1,
+    "convolutional-neural-networks": 1,
+    "cyber-physical-systems": 1,
     "deep-learning": 4,
     "digital-twins": 1,
     "dimensionality-reduction": 2,
@@ -347,11 +447,12 @@
     "generative-adversarial-networks": 1,
     "genetic-algorithms": 2,
     "graphene": 1,
-    "heat-transfer": 8,
+    "heat-transfer": 9,
     "hyperparameter-optimization": 2,
     "laser-powder-bed-fusion": 1,
     "linear-classifiers": 1,
     "lithium-ion-batteries": 1,
+    "load-flow-analysis": 1,
     "machine-learning": 26,
     "measurement-uncertainty": 1,
     "mechanical-engineering": 1,
@@ -364,7 +465,8 @@
     "particle-swarm-optimization": 1,
     "perovskite-solar-cells": 1,
     "phase-locked-loops": 1,
-    "photovoltaics": 3,
+    "photovoltaics": 4,
+    "planetary-science": 1,
     "pose-estimation": 1,
     "power-generation-systems": 1,
     "power-quality": 1,
@@ -381,13 +483,13 @@
     "soil-mechanics": 2,
     "spectroscopy": 1,
     "spiking-neural-networks": 2,
-    "structural-engineering": 4,
+    "structural-engineering": 5,
     "supervised-learning": 1,
     "support-vector-machines": 2,
     "sustainable-solvents": 1,
     "thermal-energy-storage": 1,
     "thermal-radiation": 2,
-    "trajectory-optimization": 1,
+    "trajectory-optimization": 2,
     "transfer-learning": 2,
     "transportation-planning": 1,
     "tunnel-boring-machines": 1,
@@ -479,7 +581,7 @@
   "possible_duplicate": true,
   "reason": "category:generic",
   "status": "rejected",
-  "updated": "2026-11-19"
+  "updated": "2026-11-20"
  },
  "battery energy storage system": {
   "acronyms": [
@@ -495,7 +597,7 @@
     "diffusion-models": 1,
     "electric-power-systems": 1,
     "electric-vehicles": 3,
-    "electrical-and-electronic-engineering": 4,
+    "electrical-and-electronic-engineering": 5,
     "energy-storage": 10,
     "hydrogen-production": 1,
     "lithium-ion-batteries": 2,
@@ -505,6 +607,7 @@
     "photovoltaics": 1,
     "power-quality": 1,
     "power-transmission": 1,
+    "reinforcement-learning": 1,
     "robust-optimization": 1,
     "sliding-mode-control": 1,
     "smart-environments": 1,
@@ -553,9 +656,9 @@
      "url": "https://doi.org/10.3390/electricity7040132"
     }
    ],
-   "first_authors": 38,
+   "first_authors": 40,
    "months": 1,
-   "papers": 38,
+   "papers": 40,
    "sources": [
     "arxiv",
     "openalex"
@@ -592,7 +695,7 @@
   "parent_uncertain": false,
   "possible_duplicate": true,
   "status": "candidate",
-  "updated": "2026-11-19",
+  "updated": "2026-11-20",
   "variant_of": "energy-storage"
  },
  "bidirectional long short term memory": {
@@ -606,9 +709,10 @@
   "display": "bidirectional long short-term memory",
   "evidence": {
    "co_classified": {
-    "attention-mechanisms": 1,
+    "attention-mechanisms": 2,
     "contrastive-learning": 1,
     "deep-learning": 5,
+    "digital-twins": 1,
     "electrocardiography": 1,
     "electroencephalography": 1,
     "gas-sensors": 1,
@@ -623,6 +727,7 @@
     "protein-language-models": 1,
     "self-attention": 1,
     "sensor-fusion": 1,
+    "sentiment-analysis": 1,
     "soil-mechanics": 1,
     "structural-health-monitoring": 1,
     "transformer-architectures": 1,
@@ -666,9 +771,9 @@
      "url": "https://doi.org/10.1007/s10791-026-10719-4"
     }
    ],
-   "first_authors": 35,
+   "first_authors": 38,
    "months": 1,
-   "papers": 35,
+   "papers": 38,
    "sources": [
     "openalex",
     "arxiv"
@@ -704,7 +809,7 @@
   "parent_uncertain": false,
   "reason": "duplicate_of:long-short-term-memory",
   "status": "rejected",
-  "updated": "2026-11-19"
+  "updated": "2026-11-20"
  },
  "body mass index": {
   "acronyms": [
@@ -717,8 +822,9 @@
    "co_classified": {
     "advanced-therapies": 1,
     "cell-biology": 3,
+    "clinical-diagnostics": 1,
     "cognitive-neuroscience": 2,
-    "computed-tomography": 2,
+    "computed-tomography": 4,
     "ct-image-reconstruction": 1,
     "data-integration": 1,
     "digital-health": 1,
@@ -728,10 +834,10 @@
     "gene-therapy": 1,
     "genetic-testing": 1,
     "genome-wide-association-studies": 1,
-    "infectious-diseases": 4,
+    "infectious-diseases": 5,
     "k-nearest-neighbors": 1,
     "machine-learning": 4,
-    "magnetic-resonance-imaging": 3,
+    "magnetic-resonance-imaging": 4,
     "magnetic-resonance-spectroscopy": 1,
     "markov-chains": 1,
     "medical-imaging": 1,
@@ -739,6 +845,7 @@
     "microbial-ecology": 1,
     "mixture-models": 1,
     "molecular-biology": 2,
+    "pharmacokinetics-and-pharmacodynamics": 1,
     "support-vector-machines": 1,
     "transcranial-magnetic-stimulation": 1,
     "ventricular-assist-devices": 1,
@@ -823,7 +930,7 @@
   "possible_duplicate": false,
   "reason": "category:measurement",
   "status": "rejected",
-  "updated": "2026-11-19"
+  "updated": "2026-11-20"
  },
  "central nervous system": {
   "acronyms": [
@@ -840,19 +947,21 @@
     "car-t-cell-therapy": 1,
     "cell-cycle": 1,
     "cell-signaling": 1,
+    "cell-therapy": 1,
     "click-chemistry": 1,
     "developmental-neuroscience": 2,
     "drug-formulation": 1,
     "gene-therapy": 1,
     "genetic-testing": 1,
-    "induced-pluripotent-stem-cells": 1,
-    "infectious-diseases": 6,
+    "graph-neural-networks": 1,
+    "induced-pluripotent-stem-cells": 2,
+    "infectious-diseases": 7,
     "lipid-nanoparticles": 1,
     "liquid-biopsy": 3,
-    "magnetic-resonance-imaging": 7,
+    "magnetic-resonance-imaging": 8,
     "molecular-biology": 7,
     "molecular-diagnostics": 1,
-    "multi-omics": 1,
+    "multi-omics": 2,
     "nanoparticles": 1,
     "next-generation-sequencing": 5,
     "pharmaceutical-sciences": 1,
@@ -945,7 +1054,7 @@
   "possible_duplicate": false,
   "reason": "category:biological_entity",
   "status": "rejected",
-  "updated": "2026-11-19"
+  "updated": "2026-11-20"
  },
  "chimeric antigen receptor t cell": {
   "acronyms": [
@@ -958,7 +1067,7 @@
    "co_classified": {
     "bispecific-antibodies": 1,
     "cancer-immunotherapy": 1,
-    "car-t-cell-therapy": 13,
+    "car-t-cell-therapy": 14,
     "nk-cell-therapy": 1
    },
    "examples": [
@@ -999,9 +1108,9 @@
      "url": "https://doi.org/10.70267/emsgh.v3.117131"
     }
    ],
-   "first_authors": 16,
+   "first_authors": 17,
    "months": 1,
-   "papers": 16,
+   "papers": 17,
    "sources": [
     "openalex"
    ]
@@ -1033,12 +1142,12 @@
     "technology_id": "fuel-cells"
    }
   ],
-  "parent_reason": "co_classification (13/16)",
+  "parent_reason": "co_classification (14/17)",
   "parent_suggestion": "car-t-cell-therapy",
   "parent_uncertain": false,
   "reason": "category:biological_entity",
   "status": "rejected",
-  "updated": "2026-11-19"
+  "updated": "2026-11-20"
  },
  "circulating tumor cell": {
   "acronyms": [
@@ -1064,7 +1173,7 @@
     "dna-methylation": 1,
     "hybrid-imaging": 1,
     "lipid-nanoparticles": 1,
-    "liquid-biopsy": 2,
+    "liquid-biopsy": 3,
     "microfluidics": 1,
     "multi-omics": 2,
     "proteomics": 1
@@ -1107,9 +1216,9 @@
      "url": "https://doi.org/10.3389/fcell.2026.1975581"
     }
    ],
-   "first_authors": 10,
+   "first_authors": 11,
    "months": 1,
-   "papers": 10,
+   "papers": 11,
    "sources": [
     "openalex"
    ]
@@ -1146,7 +1255,7 @@
   "parent_uncertain": true,
   "reason": "category:biological_entity",
   "status": "rejected",
-  "updated": "2026-11-19"
+  "updated": "2026-11-20"
  },
  "deep neural network": {
   "acronyms": [
@@ -1161,14 +1270,17 @@
     "automatic-speech-recognition": 1,
     "cognitive-neuroscience": 2,
     "convolutional-neural-networks": 1,
-    "deep-learning": 2,
+    "deep-learning": 3,
     "differential-privacy": 1,
     "distributed-training": 1,
     "drug-discovery": 1,
     "earthquake-engineering": 1,
+    "electrical-and-electronic-engineering": 2,
     "electrical-discharge-machining": 1,
+    "feature-attribution-methods": 1,
     "federated-learning": 1,
     "genetic-algorithms": 1,
+    "graph-neural-networks": 1,
     "imitation-learning": 1,
     "industrial-internet-of-things": 1,
     "intrusion-detection-systems": 2,
@@ -1178,6 +1290,7 @@
     "medical-imaging": 1,
     "mixture-of-experts": 1,
     "mosfet": 1,
+    "multi-armed-bandits": 1,
     "multi-objective-optimization": 1,
     "network-architecture": 1,
     "ordinary-differential-equations": 1,
@@ -1185,9 +1298,11 @@
     "photovoltaics": 1,
     "physics-informed-neural-networks": 1,
     "protein-language-models": 1,
+    "reconfigurable-intelligent-surfaces": 1,
     "renewable-energy": 1,
     "spiking-neural-networks": 1,
     "systolic-arrays": 1,
+    "transfer-learning": 1,
     "variational-autoencoders": 1
    },
    "examples": [
@@ -1228,9 +1343,9 @@
      "url": "https://doi.org/10.71229/sm3azd71"
     }
    ],
-   "first_authors": 35,
+   "first_authors": 40,
    "months": 1,
-   "papers": 35,
+   "papers": 40,
    "sources": [
     "openalex",
     "arxiv"
@@ -1270,7 +1385,7 @@
   "possible_duplicate": true,
   "reason": "category:generic",
   "status": "rejected",
-  "updated": "2026-11-19"
+  "updated": "2026-11-20"
  },
  "deep reinforcement learning": {
   "acronyms": [
@@ -1288,11 +1403,13 @@
     "demand-response": 1,
     "electric-vehicles": 2,
     "energy-technologies": 1,
+    "fuel-cells": 1,
     "hybrid-electric-vehicles": 1,
     "imitation-learning": 1,
     "integrated-sensing-and-communication": 2,
     "multi-agent-reinforcement-learning": 1,
-    "reinforcement-learning": 25,
+    "reconfigurable-intelligent-surfaces": 1,
+    "reinforcement-learning": 27,
     "sliding-mode-control": 1
    },
    "examples": [
@@ -1333,9 +1450,9 @@
      "url": "https://doi.org/10.3390/electronics15215152"
     }
    ],
-   "first_authors": 39,
+   "first_authors": 40,
    "months": 1,
-   "papers": 39,
+   "papers": 40,
    "sources": [
     "openalex",
     "arxiv"
@@ -1372,7 +1489,7 @@
   "parent_uncertain": false,
   "possible_duplicate": true,
   "status": "candidate",
-  "updated": "2026-11-19",
+  "updated": "2026-11-20",
   "variant_of": "reinforcement-learning"
  },
  "dendritic cell": {
@@ -1397,10 +1514,11 @@
    "co_classified": {
     "adaptive-immunity": 3,
     "animal-science": 1,
-    "cancer-immunotherapy": 4,
+    "cancer-immunotherapy": 5,
     "car-t-cell-therapy": 1,
     "cell-biology": 1,
     "epigenetics": 1,
+    "immunology": 1,
     "innate-immunity": 1,
     "molecular-biology": 2,
     "molecular-docking": 1,
@@ -1446,9 +1564,9 @@
      "url": "https://doi.org/10.1631/jzus.b2500577"
     }
    ],
-   "first_authors": 19,
+   "first_authors": 21,
    "months": 1,
-   "papers": 19,
+   "papers": 21,
    "sources": [
     "openalex"
    ]
@@ -1485,7 +1603,106 @@
   "parent_uncertain": true,
   "reason": "category:biological_entity",
   "status": "rejected",
-  "updated": "2026-11-19"
+  "updated": "2026-11-20"
+ },
+ "diffusion tensor imaging": {
+  "acronyms": [
+   "DTI"
+  ],
+  "alias_proposal": true,
+  "ambiguous_acronyms": [
+   {
+    "acronym": "DTI",
+    "existing": "diffusion-mri-and-tractography"
+   }
+  ],
+  "category": "technology",
+  "created": "2026-11-20",
+  "display": "diffusion tensor imaging",
+  "evidence": {
+   "co_classified": {
+    "deep-learning": 1,
+    "functional-mri": 1,
+    "machine-learning": 1,
+    "magnetic-resonance-imaging": 8,
+    "magnetic-resonance-spectroscopy": 1
+   },
+   "examples": [
+    {
+     "date": "2026-11-04",
+     "id": "doi:10.64898/2026.11.03.26367189",
+     "title": "Epilepsy Lateralization by Elastic Net Regularization of a Diffusion Tensor Imaging Biomarker using Machine Learning",
+     "url": "https://doi.org/10.64898/2026.11.03.26367189"
+    },
+    {
+     "date": "2026-11-02",
+     "id": "doi:10.3389/fradi.2026.1942583",
+     "title": "Structural and functional network changes following thalamotomy for focal dystonia: a multimodal MRI study",
+     "url": "https://doi.org/10.3389/fradi.2026.1942583"
+    },
+    {
+     "date": "2026-11-02",
+     "id": "doi:10.1177/08977151261503851",
+     "title": "The Association of MRI-Derived Tissue Bridge Morphometrics with Baseline Impairment and Recovery in Traumatic Spinal Cord Injury: A Subanalysis of the RISCIS Randomized Controlled Trial",
+     "url": "https://doi.org/10.1177/08977151261503851"
+    },
+    {
+     "date": "2026-11-06",
+     "id": "doi:10.64898/2026.11.05.764523",
+     "title": "Clinical relevance of diffusion tensor imaging-based parameters estimated with deep learning: the effect of model retraining",
+     "url": "https://doi.org/10.64898/2026.11.05.764523"
+    },
+    {
+     "date": "2026-11-11",
+     "id": "doi:10.1002/jmri.70616",
+     "title": "White Matter and Normal‐Appearing White Matter in Low‐Disability Patients With Multiple Sclerosis: A Diffusion Tensor MRI Study",
+     "url": "https://doi.org/10.1002/jmri.70616"
+    },
+    {
+     "date": "2026-11-13",
+     "id": "doi:10.3390/tomography12110164",
+     "title": "Early Metabolic and Microstructural Responses of the Rat Hippocampus to BED-Matched Single-Fraction and Fractionated Whole-Brain Irradiation: A Multimodal MRI Study",
+     "url": "https://doi.org/10.3390/tomography12110164"
+    }
+   ],
+   "first_authors": 12,
+   "months": 1,
+   "papers": 12,
+   "sources": [
+    "openalex"
+   ]
+  },
+  "key": "diffusion tensor imaging",
+  "literature_count": null,
+  "notes": [],
+  "overlaps": [
+   {
+    "name": "Voltage Imaging",
+    "similarity": 0.25,
+    "technology_id": "voltage-imaging"
+   },
+   {
+    "name": "Ultrasound Imaging",
+    "similarity": 0.25,
+    "technology_id": "ultrasound-imaging"
+   },
+   {
+    "name": "Tensor Networks",
+    "similarity": 0.25,
+    "technology_id": "tensor-networks"
+   },
+   {
+    "name": "Spectral Imaging",
+    "similarity": 0.25,
+    "technology_id": "spectral-imaging"
+   }
+  ],
+  "parent_reason": "co_classification (8/12)",
+  "parent_suggestion": "magnetic-resonance-imaging",
+  "parent_uncertain": false,
+  "reason": "covered_by_alias:diffusion-mri-and-tractography",
+  "status": "rejected",
+  "updated": "2026-11-20"
  },
  "diffusion weighted imaging": {
   "acronyms": [
@@ -1582,7 +1799,7 @@
   "parent_uncertain": false,
   "possible_duplicate": false,
   "status": "candidate",
-  "updated": "2026-11-19"
+  "updated": "2026-11-20"
  },
  "digital elevation model": {
   "acronyms": [
@@ -1685,7 +1902,7 @@
   "parent_uncertain": true,
   "possible_duplicate": false,
   "status": "candidate",
-  "updated": "2026-11-19"
+  "updated": "2026-11-20"
  },
  "directed acyclic graph": {
   "acronyms": [
@@ -1697,6 +1914,7 @@
   "display": "directed acyclic graph",
   "evidence": {
    "co_classified": {
+    "blockchain": 1,
     "cancer-immunotherapy": 1,
     "cloud-computing": 1,
     "multi-agent-reinforcement-learning": 1,
@@ -1747,9 +1965,9 @@
      "url": "https://doi.org/10.3389/fonc.2026.1866263"
     }
    ],
-   "first_authors": 11,
+   "first_authors": 12,
    "months": 1,
-   "papers": 11,
+   "papers": 12,
    "sources": [
     "arxiv",
     "openalex"
@@ -1786,7 +2004,7 @@
   "parent_uncertain": true,
   "possible_duplicate": false,
   "status": "candidate",
-  "updated": "2026-11-19"
+  "updated": "2026-11-20"
  },
  "discrete element method": {
   "acronyms": [
@@ -1811,7 +2029,7 @@
     "multibody-dynamics": 1,
     "powder-bed-fusion": 1,
     "predictive-maintenance": 1,
-    "rock-mechanics": 1,
+    "rock-mechanics": 2,
     "rolling": 1,
     "ship-hydrodynamics": 2,
     "soil-mechanics": 3,
@@ -1857,9 +2075,9 @@
      "url": "https://doi.org/10.1177/09506608261494391"
     }
    ],
-   "first_authors": 25,
+   "first_authors": 26,
    "months": 1,
-   "papers": 25,
+   "papers": 26,
    "sources": [
     "openalex",
     "arxiv"
@@ -1896,7 +2114,7 @@
   "parent_uncertain": true,
   "possible_duplicate": true,
   "status": "candidate",
-  "updated": "2026-11-19"
+  "updated": "2026-11-20"
  },
  "distributed generation": {
   "acronyms": [
@@ -1991,7 +2209,7 @@
   "parent_uncertain": true,
   "possible_duplicate": false,
   "status": "candidate",
-  "updated": "2026-11-19"
+  "updated": "2026-11-20"
  },
  "electrochemical impedance spectroscopy": {
   "acronyms": [
@@ -2006,10 +2224,11 @@
     "electric-vehicles": 2,
     "electrical-and-electronic-engineering": 4,
     "fuel-cells": 1,
+    "graphene-oxide": 1,
     "hydrogen-embrittlement": 1,
-    "lithium-ion-batteries": 2,
+    "lithium-ion-batteries": 3,
     "magnesium-alloys": 1,
-    "molecular-biology": 1,
+    "molecular-biology": 2,
     "nanocomposites": 1,
     "nanoparticles": 1,
     "non-destructive-testing": 1,
@@ -2068,9 +2287,9 @@
      "url": "https://doi.org/10.1021/acsenergylett.6c02146"
     }
    ],
-   "first_authors": 36,
+   "first_authors": 39,
    "months": 1,
-   "papers": 36,
+   "papers": 39,
    "sources": [
     "openalex"
    ]
@@ -2106,7 +2325,7 @@
   "parent_uncertain": true,
   "possible_duplicate": false,
   "status": "candidate",
-  "updated": "2026-11-19",
+  "updated": "2026-11-20",
   "variant_of": "spectroscopy"
  },
  "endothelial cell": {
@@ -2203,7 +2422,7 @@
   "parent_uncertain": true,
   "reason": "category:biological_entity",
   "status": "rejected",
-  "updated": "2026-11-19"
+  "updated": "2026-11-20"
  },
  "energy dispersive spectroscopy": {
   "acronyms": [
@@ -2218,6 +2437,7 @@
     "electrical-discharge-machining": 1,
     "hexagonal-boron-nitride": 1,
     "iron-based-superconductors": 1,
+    "magnetic-materials": 1,
     "material-extrusion": 1,
     "mechanical-engineering": 2,
     "metal-organic-frameworks": 1,
@@ -2263,9 +2483,9 @@
      "url": "https://doi.org/10.3390/applbiosci5040116"
     }
    ],
-   "first_authors": 11,
+   "first_authors": 12,
    "months": 1,
-   "papers": 11,
+   "papers": 12,
    "sources": [
     "openalex"
    ]
@@ -2301,7 +2521,7 @@
   "parent_uncertain": true,
   "possible_duplicate": false,
   "status": "candidate",
-  "updated": "2026-11-19",
+  "updated": "2026-11-20",
   "variant_of": "spectroscopy"
  },
  "energy dispersive x ray spectroscopy": {
@@ -2317,6 +2537,7 @@
     "3d-integration": 1,
     "aluminum-alloys": 1,
     "analytical-chemistry": 1,
+    "cnc-machining": 1,
     "construction-materials": 1,
     "dental-materials": 2,
     "directed-energy-deposition": 1,
@@ -2422,8 +2643,117 @@
   "parent_uncertain": true,
   "possible_duplicate": false,
   "status": "candidate",
-  "updated": "2026-11-19",
+  "updated": "2026-11-20",
   "variant_of": "spectroscopy"
+ },
+ "energy management system": {
+  "acronyms": [
+   "EMS",
+   "EMSs"
+  ],
+  "alias_proposal": true,
+  "ambiguous_acronyms": [
+   {
+    "acronym": "EMS",
+    "existing": "mixture-models"
+   },
+   {
+    "acronym": "EMSs",
+    "existing": "mixture-models"
+   }
+  ],
+  "category": "technology",
+  "created": "2026-11-20",
+  "display": "energy management system",
+  "evidence": {
+   "co_classified": {
+    "digital-twins": 1,
+    "electric-vehicles": 1,
+    "electrical-and-electronic-engineering": 1,
+    "machine-learning": 1,
+    "microgrids": 1,
+    "particle-swarm-optimization": 1,
+    "renewable-energy": 1,
+    "smart-environments": 1,
+    "smart-grids": 1,
+    "thermal-energy-storage": 1
+   },
+   "examples": [
+    {
+     "date": "2026-11-02",
+     "id": "doi:10.1038/s41598-026-78583-2",
+     "title": "Coalition-based energy management of grid-connected smart homes in the day-ahead electricity market",
+     "url": "https://doi.org/10.1038/s41598-026-78583-2"
+    },
+    {
+     "date": "2026-11-03",
+     "id": "doi:10.3390/en19215274",
+     "title": "A Low-Carbon Control Strategy for a Wind–Hydrogen–Ammonia Coupled Thermal Power System",
+     "url": "https://doi.org/10.3390/en19215274"
+    },
+    {
+     "date": "2026-11-04",
+     "id": "doi:10.3390/eng7110609",
+     "title": "Comprehensive Degradation Modeling and Vine Copula-Based Stochastic Optimization for Hybrid Renewable–CHP Microgrid with Electrical and Thermal Energy Storage Using Enhanced Glider Snake Optimizer",
+     "url": "https://doi.org/10.3390/eng7110609"
+    },
+    {
+     "date": "2026-11-06",
+     "id": "doi:10.1177/01436244261503395",
+     "title": "Dynamic KNX-based energy management system with machine learning for energy optimization",
+     "url": "https://doi.org/10.1177/01436244261503395"
+    },
+    {
+     "date": "2026-11-10",
+     "id": "doi:10.59543/yrfek347",
+     "title": "Digital-Twin-Enabled Energy Management for Low-Carbon Port Cities: A Comparative Urban-Intelligence Framework for Genoa, Livorno and Naples",
+     "url": "https://doi.org/10.59543/yrfek347"
+    },
+    {
+     "date": "2026-11-11",
+     "id": "doi:10.3390/jlpea16040055",
+     "title": "Evaluation of Residential Photovoltaic Systems for Charging Electric Vehicles Using a Hardware-in-the-Loop Technique",
+     "url": "https://doi.org/10.3390/jlpea16040055"
+    }
+   ],
+   "first_authors": 10,
+   "months": 1,
+   "papers": 10,
+   "sources": [
+    "openalex"
+   ]
+  },
+  "key": "energy management system",
+  "literature_count": null,
+  "notes": [],
+  "overlaps": [
+   {
+    "name": "Energy Systems Modeling",
+    "similarity": 0.5,
+    "technology_id": "energy-systems-modeling"
+   },
+   {
+    "name": "Battery Management Systems",
+    "similarity": 0.5,
+    "technology_id": "battery-management-systems"
+   },
+   {
+    "name": "Wind Energy",
+    "similarity": 0.25,
+    "technology_id": "wind-energy"
+   },
+   {
+    "name": "Wave Energy",
+    "similarity": 0.25,
+    "technology_id": "wave-energy"
+   }
+  ],
+  "parent_reason": "name_overlap (0.5)",
+  "parent_suggestion": "energy-systems-modeling",
+  "parent_uncertain": true,
+  "reason": "covered_by_alias:mixture-models",
+  "status": "rejected",
+  "updated": "2026-11-20"
  },
  "energy storage system": {
   "acronyms": [
@@ -2439,7 +2769,8 @@
     "electric-power-systems": 1,
     "electric-vehicles": 1,
     "electrical-and-electronic-engineering": 2,
-    "energy-storage": 2,
+    "energy-storage": 3,
+    "internal-combustion-engines": 1,
     "mxenes": 1,
     "principal-component-analysis": 1,
     "smart-grids": 2
@@ -2482,11 +2813,12 @@
      "url": "https://doi.org/10.5370/kiee.2026.75.11.3023"
     }
    ],
-   "first_authors": 11,
+   "first_authors": 13,
    "months": 1,
-   "papers": 11,
+   "papers": 13,
    "sources": [
-    "openalex"
+    "openalex",
+    "arxiv"
    ]
   },
   "key": "energy storage system",
@@ -2520,7 +2852,7 @@
   "parent_uncertain": false,
   "possible_duplicate": true,
   "status": "candidate",
-  "updated": "2026-11-19",
+  "updated": "2026-11-20",
   "variant_of": "energy-storage"
  },
  "enzyme linked immunosorbent assay": {
@@ -2550,6 +2882,7 @@
     "cancer-immunotherapy": 1,
     "causal-inference": 1,
     "cell-biology": 1,
+    "clinical-diagnostics": 1,
     "cognitive-neuroscience": 1,
     "covalent-organic-frameworks": 1,
     "dental-materials": 1,
@@ -2564,7 +2897,7 @@
     "nanoparticles": 1,
     "non-coding-rna": 3,
     "organic-chemistry": 1,
-    "polymerase-chain-reaction": 5,
+    "polymerase-chain-reaction": 6,
     "transcranial-magnetic-stimulation": 1
    },
    "examples": [
@@ -2605,9 +2938,9 @@
      "url": "https://doi.org/10.3390/jcm15218547"
     }
    ],
-   "first_authors": 37,
+   "first_authors": 39,
    "months": 1,
-   "papers": 37,
+   "papers": 39,
    "sources": [
     "openalex"
    ]
@@ -2644,7 +2977,7 @@
   "possible_duplicate": false,
   "reason": "covered_by_alias:immunoassays",
   "status": "rejected",
-  "updated": "2026-11-19"
+  "updated": "2026-11-20"
  },
  "extended kalman filter": {
   "acronyms": [
@@ -2659,7 +2992,9 @@
     "artificial-intelligence": 1,
     "autonomous-mobile-robots": 1,
     "continuum-robots": 1,
+    "cyber-physical-systems": 1,
     "extended-and-unscented-kalman-filters": 1,
+    "fluid-power": 1,
     "global-navigation-satellite-systems": 2,
     "inertial-measurement-units": 1,
     "integrated-sensing-and-communication": 1,
@@ -2670,6 +3005,7 @@
     "nonlinear-control": 1,
     "parallel-computing": 1,
     "pose-estimation": 1,
+    "robust-control": 1,
     "safe-learning-control": 1,
     "sensor-fusion": 1,
     "wind-energy": 1
@@ -2712,9 +3048,9 @@
      "url": "https://doi.org/10.3390/act15110584"
     }
    ],
-   "first_authors": 20,
+   "first_authors": 23,
    "months": 1,
-   "papers": 20,
+   "papers": 23,
    "sources": [
     "openalex",
     "arxiv"
@@ -2752,7 +3088,7 @@
   "parent_uncertain": true,
   "reason": "synonym_of:extended-and-unscented-kalman-filters",
   "status": "rejected",
-  "updated": "2026-11-19"
+  "updated": "2026-11-20"
  },
  "field emission scanning electron microscopy": {
   "acronyms": [
@@ -2861,7 +3197,7 @@
   "parent_uncertain": false,
   "possible_duplicate": true,
   "status": "candidate",
-  "updated": "2026-11-19",
+  "updated": "2026-11-20",
   "variant_of": "scanning-electron-microscopy"
  },
  "fourier transform infrared spectroscopy": {
@@ -2876,10 +3212,12 @@
    "co_classified": {
     "additive-manufacturing": 1,
     "analytical-chemistry": 1,
+    "animal-nutrition": 1,
     "biodegradable-polymers": 1,
     "biodiesel": 1,
     "bioenergy": 1,
     "bioremediation": 1,
+    "carbon-nanotubes": 1,
     "cell-biology": 1,
     "chemical-recycling": 1,
     "civil-engineering": 2,
@@ -2889,7 +3227,7 @@
     "crystallography": 1,
     "dental-materials": 2,
     "desalination": 1,
-    "electrical-and-electronic-engineering": 1,
+    "electrical-and-electronic-engineering": 2,
     "electrical-discharge-machining": 1,
     "electron-microscopy": 1,
     "enhanced-oil-recovery": 2,
@@ -2906,7 +3244,7 @@
     "mechanical-engineering": 2,
     "membrane-separation": 1,
     "metabolomics": 1,
-    "metal-organic-frameworks": 1,
+    "metal-organic-frameworks": 2,
     "molecular-docking": 1,
     "multi-omics": 1,
     "multi-walled-carbon-nanotubes": 2,
@@ -2915,7 +3253,7 @@
     "nanofibers": 1,
     "nanomaterials": 1,
     "nanoparticles": 11,
-    "pharmaceutical-sciences": 7,
+    "pharmaceutical-sciences": 8,
     "polymer-science": 1,
     "polymerase-chain-reaction": 1,
     "quantum-dots": 1,
@@ -2924,14 +3262,14 @@
     "scanning-electron-microscopy": 17,
     "spectroscopy": 1,
     "steels": 1,
-    "structural-engineering": 10,
+    "structural-engineering": 11,
     "supercapacitors": 1,
     "surface-plasmon-resonance": 1,
     "sustainable-solvents": 1,
     "tandem-mass-spectrometry": 1,
     "tissue-engineering": 1,
     "transmission-electron-microscopy": 2,
-    "wastewater-treatment": 3,
+    "wastewater-treatment": 5,
     "water-electrolysis": 1,
     "zeolite-catalysis": 1
    },
@@ -3011,7 +3349,7 @@
   "parent_uncertain": true,
   "possible_duplicate": true,
   "status": "candidate",
-  "updated": "2026-11-19",
+  "updated": "2026-11-20",
   "variant_of": "spectroscopy"
  },
  "gaussian mixture model": {
@@ -3032,7 +3370,7 @@
     "object-detection": 1,
     "remote-sensing": 2,
     "topological-data-analysis": 1,
-    "variational-autoencoders": 1
+    "variational-autoencoders": 2
    },
    "examples": [
     {
@@ -3072,9 +3410,9 @@
      "url": "https://doi.org/10.38124/ijisrt/26oct667"
     }
    ],
-   "first_authors": 15,
+   "first_authors": 16,
    "months": 1,
-   "papers": 15,
+   "papers": 16,
    "sources": [
     "openalex",
     "arxiv"
@@ -3112,7 +3450,7 @@
   "parent_uncertain": false,
   "reason": "synonym_of:mixture-models",
   "status": "rejected",
-  "updated": "2026-11-19"
+  "updated": "2026-11-20"
  },
  "google earth engine": {
   "acronyms": [
@@ -3204,7 +3542,7 @@
   "parent_uncertain": true,
   "possible_duplicate": false,
   "status": "candidate",
-  "updated": "2026-11-19"
+  "updated": "2026-11-20"
  },
  "grey wolf optimizer": {
   "acronyms": [
@@ -3290,7 +3628,7 @@
   "parent_uncertain": true,
   "possible_duplicate": false,
   "status": "candidate",
-  "updated": "2026-11-19"
+  "updated": "2026-11-20"
  },
  "group relative policy optimization": {
   "acronyms": [
@@ -3307,11 +3645,12 @@
     "hierarchical-reinforcement-learning": 1,
     "image-quality-assessment": 1,
     "knowledge-distillation": 1,
-    "large-language-models": 4,
+    "large-language-models": 5,
     "llm-based-agents": 1,
     "llm-reasoning-methods": 1,
     "multi-agent-reinforcement-learning": 1,
     "natural-language-generation": 1,
+    "recommender-systems": 1,
     "reinforcement-learning": 4,
     "reinforcement-learning-from-human-feedback": 1,
     "video-understanding": 1,
@@ -3356,9 +3695,9 @@
      "url": "https://arxiv.org/abs/2611.06518"
     }
    ],
-   "first_authors": 22,
+   "first_authors": 24,
    "months": 1,
-   "papers": 22,
+   "papers": 24,
    "sources": [
     "arxiv",
     "openalex"
@@ -3395,7 +3734,7 @@
   "parent_uncertain": true,
   "possible_duplicate": false,
   "status": "candidate",
-  "updated": "2026-11-19",
+  "updated": "2026-11-20",
   "variant_of": "optimization"
  },
  "healthy control": {
@@ -3513,7 +3852,7 @@
   "possible_duplicate": false,
   "reason": "category:population",
   "status": "rejected",
-  "updated": "2026-11-19"
+  "updated": "2026-11-20"
  },
  "high resolution transmission electron microscopy": {
   "acronyms": [
@@ -3613,7 +3952,7 @@
   "parent_uncertain": false,
   "possible_duplicate": true,
   "status": "candidate",
-  "updated": "2026-11-19",
+  "updated": "2026-11-20",
   "variant_of": "transmission-electron-microscopy"
  },
  "infection prevention and control": {
@@ -3625,7 +3964,7 @@
   "display": "infection prevention and control",
   "evidence": {
    "co_classified": {
-    "infectious-diseases": 14,
+    "infectious-diseases": 15,
     "medical-devices": 1
    },
    "examples": [
@@ -3666,9 +4005,9 @@
      "url": "https://doi.org/10.1177/17571774261506636"
     }
    ],
-   "first_authors": 15,
+   "first_authors": 16,
    "months": 1,
-   "papers": 15,
+   "papers": 16,
    "sources": [
     "openalex"
    ]
@@ -3700,12 +4039,12 @@
     "technology_id": "process-control"
    }
   ],
-  "parent_reason": "co_classification (14/15)",
+  "parent_reason": "co_classification (15/16)",
   "parent_suggestion": "infectious-diseases",
   "parent_uncertain": false,
   "reason": "category:disease",
   "status": "rejected",
-  "updated": "2026-11-19"
+  "updated": "2026-11-20"
  },
  "interferometric synthetic aperture radar": {
   "acronyms": [
@@ -3727,7 +4066,7 @@
     "deep-learning": 1,
     "global-navigation-satellite-systems": 1,
     "machine-learning": 1,
-    "synthetic-aperture-radar": 8
+    "synthetic-aperture-radar": 9
    },
    "examples": [
     {
@@ -3767,9 +4106,9 @@
      "url": "https://doi.org/10.1038/s41598-026-76984-x"
     }
    ],
-   "first_authors": 12,
+   "first_authors": 13,
    "months": 1,
-   "papers": 12,
+   "papers": 13,
    "sources": [
     "openalex"
    ]
@@ -3804,7 +4143,202 @@
   "parent_uncertain": false,
   "reason": "covered_by_alias:satellite-geodesy",
   "status": "rejected",
-  "updated": "2026-11-19"
+  "updated": "2026-11-20"
+ },
+ "joint embedding predictive architecture": {
+  "acronyms": [
+   "JEPA",
+   "JEPAs"
+  ],
+  "category": "technology",
+  "created": "2026-11-20",
+  "display": "Joint-Embedding Predictive Architectures",
+  "evidence": {
+   "co_classified": {
+    "anomaly-detection": 1,
+    "large-language-models": 1,
+    "model-based-reinforcement-learning": 4,
+    "representation-learning": 5,
+    "spiking-neural-networks": 1
+   },
+   "examples": [
+    {
+     "date": "2026-11-02",
+     "id": "doi:10.1145/3856815",
+     "title": "Symbolic-JEPA: Where Symbolic AI Meets Joint-Embedding Predictive Architecture for NL–FOL Conversion",
+     "url": "https://doi.org/10.1145/3856815"
+    },
+    {
+     "date": "2026-11-04",
+     "id": "arxiv:2611.05847",
+     "title": "Time-to-Goal: Learned Temporal Metrics for Long-Horizon Planning with JEPA World Models",
+     "url": "https://arxiv.org/abs/2611.05847"
+    },
+    {
+     "date": "2026-11-11",
+     "id": "arxiv:2611.14961",
+     "title": "CommJEPA: When Predictive Representation Learning Meets Wireless Intelligence",
+     "url": "https://arxiv.org/abs/2611.14961"
+    },
+    {
+     "date": "2026-11-06",
+     "id": "arxiv:2611.08989",
+     "title": "LEF-JEPA: Denoising-Trained Latent Energy Fields for Spatial Representation Learning",
+     "url": "https://arxiv.org/abs/2611.08989"
+    },
+    {
+     "date": "2026-11-12",
+     "id": "arxiv:2611.16579",
+     "title": "ActWorld-JEPA: Action-Conditioned JEPA World Models Meet Latent Planning for End-to-End Autonomous Driving",
+     "url": "https://arxiv.org/abs/2611.16579"
+    },
+    {
+     "date": "2026-11-15",
+     "id": "arxiv:2611.19771",
+     "title": "JEPA4R: Embodied JEPA World Models with 4D Point Planning",
+     "url": "https://arxiv.org/abs/2611.19771"
+    }
+   ],
+   "first_authors": 12,
+   "months": 1,
+   "papers": 12,
+   "sources": [
+    "openalex",
+    "arxiv"
+   ]
+  },
+  "key": "joint embedding predictive architecture",
+  "literature_checked": "2026-11-20",
+  "literature_count": 662,
+  "notes": [],
+  "overlaps": [
+   {
+    "name": "VLIW Architectures",
+    "similarity": 0.2,
+    "technology_id": "vliw-architectures"
+   },
+   {
+    "name": "Transformer Architectures",
+    "similarity": 0.2,
+    "technology_id": "transformer-architectures"
+   },
+   {
+    "name": "Supercomputer Architectures",
+    "similarity": 0.2,
+    "technology_id": "supercomputer-architectures"
+   },
+   {
+    "name": "Software Architecture",
+    "similarity": 0.2,
+    "technology_id": "software-architecture"
+   }
+  ],
+  "parent_reason": "unknown",
+  "parent_suggestion": null,
+  "parent_uncertain": true,
+  "possible_duplicate": false,
+  "status": "candidate",
+  "updated": "2026-11-20"
+ },
+ "kolmogorov arnold network": {
+  "acronyms": [
+   "KAN",
+   "KANs"
+  ],
+  "category": "technology",
+  "created": "2026-11-20",
+  "display": "Kolmogorov-Arnold Network",
+  "evidence": {
+   "co_classified": {
+    "graph-attention-networks": 1,
+    "image-segmentation": 1,
+    "industrial-internet-of-things": 1,
+    "machine-learning": 1,
+    "non-invasive-bcis": 1,
+    "phase-shift-keying": 1,
+    "photovoltaics": 1,
+    "physics-informed-neural-networks": 2,
+    "surface-enhanced-raman-spectroscopy": 1,
+    "vehicle-dynamics": 1
+   },
+   "examples": [
+    {
+     "date": "2026-11-04",
+     "id": "doi:10.1080/1064119x.2026.2755863",
+     "title": "RANS-GPINN integrating residual-gradient enhancement and KAN for unsteady flow-field prediction around subsea pipelines",
+     "url": "https://doi.org/10.1080/1064119x.2026.2755863"
+    },
+    {
+     "date": "2026-11-05",
+     "id": "arxiv:2406.19662",
+     "title": "Finite basis Kolmogorov-Arnold networks: Domain decomposition for data-driven and physics-informed problems",
+     "url": "https://doi.org/10.1007/s10444-026-10376-7"
+    },
+    {
+     "date": "2026-11-06",
+     "id": "doi:10.1016/j.nxener.2026.101182",
+     "title": "Shading fault diagnosis in rooftop PV systems under real-world operating conditions using a physics-informed hybrid LSTM-KAN approach",
+     "url": "https://doi.org/10.1016/j.nxener.2026.101182"
+    },
+    {
+     "date": "2026-11-09",
+     "id": "doi:10.1177/09544070261502988",
+     "title": "Data-driven physics-informed adaptive weighted fusion framework for modeling tire longitudinal force-slip characteristics",
+     "url": "https://doi.org/10.1177/09544070261502988"
+    },
+    {
+     "date": "2026-11-11",
+     "id": "arxiv:2611.15241",
+     "title": "KQML-Liver: Interpretable Hybrid Quantum Machine Learning with Kolmogorov-Arnold Networks for Liver Disease Classification",
+     "url": "https://arxiv.org/abs/2611.15241"
+    },
+    {
+     "date": "2026-11-11",
+     "id": "doi:10.1371/journal.pone.0354012",
+     "title": "FedMamba-ChebKAN: Federated Mamba with Chebyshev-KAN for heterogeneous IIoT fault detection",
+     "url": "https://doi.org/10.1371/journal.pone.0354012"
+    }
+   ],
+   "first_authors": 11,
+   "months": 1,
+   "papers": 11,
+   "sources": [
+    "openalex",
+    "arxiv"
+   ]
+  },
+  "key": "kolmogorov arnold network",
+  "literature_checked": "2026-11-20",
+  "literature_count": 4633,
+  "notes": [],
+  "overlaps": [
+   {
+    "name": "Tensor Networks",
+    "similarity": 0.25,
+    "technology_id": "tensor-networks"
+   },
+   {
+    "name": "Residual Networks",
+    "similarity": 0.25,
+    "technology_id": "residual-networks"
+   },
+   {
+    "name": "Quantum Networks",
+    "similarity": 0.25,
+    "technology_id": "quantum-networks"
+   },
+   {
+    "name": "Overlay Networks",
+    "similarity": 0.25,
+    "technology_id": "overlay-networks"
+   }
+  ],
+  "parent_reason": "unknown",
+  "parent_suggestion": null,
+  "parent_uncertain": true,
+  "possible_duplicate": false,
+  "status": "candidate",
+  "updated": "2026-11-20"
  },
  "large vision language model": {
   "acronyms": [
@@ -3817,7 +4351,9 @@
   "evidence": {
    "co_classified": {
     "anomaly-detection": 1,
-    "vision-language-models": 14
+    "direct-preference-optimization": 1,
+    "video-understanding": 1,
+    "vision-language-models": 15
    },
    "examples": [
     {
@@ -3857,9 +4393,9 @@
      "url": "https://arxiv.org/abs/2611.06047"
     }
    ],
-   "first_authors": 15,
+   "first_authors": 18,
    "months": 1,
-   "papers": 15,
+   "papers": 18,
    "sources": [
     "arxiv",
     "openalex"
@@ -3896,7 +4432,7 @@
   "parent_uncertain": false,
   "possible_duplicate": true,
   "status": "candidate",
-  "updated": "2026-11-19",
+  "updated": "2026-11-20",
   "variant_of": "vision-language-models"
  },
  "laser interferometer space antenna": {
@@ -3988,7 +4524,7 @@
   "parent_uncertain": false,
   "possible_duplicate": false,
   "status": "candidate",
-  "updated": "2026-11-19",
+  "updated": "2026-11-20",
   "variant_of": "lasers"
  },
  "leaf area index": {
@@ -4003,9 +4539,9 @@
     "crop-science": 2,
     "data-assimilation": 2,
     "deep-learning": 1,
-    "machine-learning": 1,
+    "machine-learning": 2,
     "molecular-biology": 1,
-    "remote-sensing": 4
+    "remote-sensing": 5
    },
    "examples": [
     {
@@ -4045,9 +4581,9 @@
      "url": "https://doi.org/10.3832/ifor4798-019"
     }
    ],
-   "first_authors": 11,
+   "first_authors": 13,
    "months": 1,
-   "papers": 11,
+   "papers": 13,
    "sources": [
     "openalex"
    ]
@@ -4084,7 +4620,115 @@
   "parent_uncertain": true,
   "reason": "category:measurement",
   "status": "rejected",
-  "updated": "2026-11-19"
+  "updated": "2026-11-20"
+ },
+ "learning management system": {
+  "acronyms": [
+   "LMSs",
+   "LMS"
+  ],
+  "alias_proposal": true,
+  "ambiguous_acronyms": [
+   {
+    "acronym": "LMSs",
+    "existing": "adaptive-signal-processing"
+   },
+   {
+    "acronym": "LMS",
+    "existing": "adaptive-signal-processing"
+   }
+  ],
+  "category": "technology",
+  "created": "2026-11-20",
+  "display": "Learning Management System",
+  "evidence": {
+   "co_classified": {
+    "accessibility": 1,
+    "artificial-intelligence": 2,
+    "computer-science": 1,
+    "linear-classifiers": 1,
+    "long-short-term-memory": 1,
+    "machine-learning": 1,
+    "sentiment-analysis": 1,
+    "software-engineering": 1,
+    "software-security": 1
+   },
+   "examples": [
+    {
+     "date": "2026-11-03",
+     "id": "doi:10.59256/indjcst.20260503077",
+     "title": "A Concept Drift Adaptive Machine Learning Model for Predicting Student Academic Performance Using Learning Management System",
+     "url": "https://doi.org/10.59256/indjcst.20260503077"
+    },
+    {
+     "date": "2026-11-06",
+     "id": "doi:10.1038/s41598-026-72995-w",
+     "title": "Explainable multimodal learning analytics for model-based counterfactual decision support using literature-calibrated synthetic data",
+     "url": "https://doi.org/10.1038/s41598-026-72995-w"
+    },
+    {
+     "date": "2026-11-08",
+     "id": "doi:10.32870/ab6v5n23",
+     "title": "Digital Security in Online Education: An Analysis of Unsecured Moodle Communications during and after the COVID-19 Pandemic",
+     "url": "https://doi.org/10.32870/ab6v5n23"
+    },
+    {
+     "date": "2026-11-09",
+     "id": "doi:10.1007/s44163-026-02643-9",
+     "title": "Deep learning–driven learning analytics for enhancing digital literacy skills of media students using an explainable BiLSTM-attention framework",
+     "url": "https://doi.org/10.1007/s44163-026-02643-9"
+    },
+    {
+     "date": "2026-11-12",
+     "id": "doi:10.6007/ijarbss/v16-i11/29281",
+     "title": "Determinants of Learning Management System Implementation: The Role of Accessibility, Usability, and Digital Literacy on Students Satisfaction in UiTM Campus Seremban",
+     "url": "https://doi.org/10.6007/ijarbss/v16-i11/29281"
+    },
+    {
+     "date": "2026-11-12",
+     "id": "doi:10.1145/3860998",
+     "title": "Engaging Secondary Students in Data Science Learning Through a Mathematical Logic Approach: Insights from Surveys and Log Data",
+     "url": "https://doi.org/10.1145/3860998"
+    }
+   ],
+   "first_authors": 10,
+   "months": 1,
+   "papers": 10,
+   "sources": [
+    "openalex"
+   ]
+  },
+  "key": "learning management system",
+  "literature_count": null,
+  "notes": [],
+  "overlaps": [
+   {
+    "name": "Machine Learning Systems",
+    "similarity": 0.5,
+    "technology_id": "machine-learning-systems"
+   },
+   {
+    "name": "Battery Management Systems",
+    "similarity": 0.5,
+    "technology_id": "battery-management-systems"
+   },
+   {
+    "name": "Unsupervised Learning",
+    "similarity": 0.25,
+    "technology_id": "unsupervised-learning"
+   },
+   {
+    "name": "Type Systems",
+    "similarity": 0.25,
+    "technology_id": "type-systems"
+   }
+  ],
+  "parent_reason": "name_overlap (0.5)",
+  "parent_suggestion": "machine-learning-systems",
+  "parent_uncertain": true,
+  "reason": "covered_by_alias:adaptive-signal-processing",
+  "status": "rejected",
+  "updated": "2026-11-20"
  },
  "left ventricular assist device": {
   "acronyms": [
@@ -4096,7 +4740,7 @@
   "display": "left ventricular assist device",
   "evidence": {
    "co_classified": {
-    "ventricular-assist-devices": 13
+    "ventricular-assist-devices": 14
    },
    "examples": [
     {
@@ -4136,9 +4780,9 @@
      "url": "https://doi.org/10.1177/03913988261499929"
     }
    ],
-   "first_authors": 13,
+   "first_authors": 14,
    "months": 1,
-   "papers": 13,
+   "papers": 14,
    "sources": [
     "openalex"
    ]
@@ -4174,7 +4818,7 @@
   "parent_uncertain": false,
   "possible_duplicate": false,
   "status": "candidate",
-  "updated": "2026-11-19",
+  "updated": "2026-11-20",
   "variant_of": "ventricular-assist-devices"
  },
  "mesenchymal stem cell": {
@@ -4189,12 +4833,13 @@
   "evidence": {
    "co_classified": {
     "3d-cell-culture": 1,
-    "cell-biology": 10,
+    "cell-biology": 11,
     "cell-cycle": 4,
     "cell-signaling": 1,
     "cell-therapy": 2,
     "crispr-cas9": 1,
     "flow-cytometry": 6,
+    "histone-modification": 1,
     "induced-pluripotent-stem-cells": 2,
     "molecular-biology": 5,
     "molecular-dynamics-simulation": 1,
@@ -4202,7 +4847,7 @@
     "precision-medicine": 1,
     "preconditioning": 1,
     "scanning-electron-microscopy": 1,
-    "stem-cell-therapy": 8,
+    "stem-cell-therapy": 9,
     "tissue-engineering": 1,
     "transcriptomics": 2,
     "translation": 1
@@ -4286,7 +4931,7 @@
   "possible_duplicate": true,
   "reason": "category:biological_entity",
   "status": "rejected",
-  "updated": "2026-11-19",
+  "updated": "2026-11-20",
   "variant_of": "transmission-electron-microscopy"
  },
  "mesenchymal stromal cell": {
@@ -4386,7 +5031,7 @@
   "parent_uncertain": true,
   "reason": "category:biological_entity",
   "status": "rejected",
-  "updated": "2026-11-19"
+  "updated": "2026-11-20"
  },
  "model context protocol": {
   "acronyms": [
@@ -4410,11 +5055,12 @@
     "foundation-models": 1,
     "large-language-models": 5,
     "laser-powder-bed-fusion": 1,
-    "llm-based-agents": 2,
+    "llm-based-agents": 3,
     "machine-translation": 1,
     "mobile-robots": 1,
     "molecular-biology": 1,
     "pose-estimation": 1,
+    "question-answering": 1,
     "software-engineering": 1,
     "static-analysis": 1
    },
@@ -4456,9 +5102,9 @@
      "url": "https://arxiv.org/abs/2611.11104"
     }
    ],
-   "first_authors": 19,
+   "first_authors": 21,
    "months": 1,
-   "papers": 19,
+   "papers": 21,
    "sources": [
     "arxiv",
     "openalex"
@@ -4495,7 +5141,7 @@
   "parent_uncertain": true,
   "possible_duplicate": false,
   "status": "candidate",
-  "updated": "2026-11-19"
+  "updated": "2026-11-20"
  },
  "multimodal large language model": {
   "acronyms": [
@@ -4508,6 +5154,7 @@
   "evidence": {
    "co_classified": {
     "action-recognition": 1,
+    "affective-computing": 1,
     "analog-to-digital-converters": 1,
     "anomaly-detection": 1,
     "continual-learning": 1,
@@ -4515,8 +5162,10 @@
     "foundation-models": 1,
     "image-enhancement": 1,
     "image-quality-assessment": 1,
-    "large-language-models": 54,
+    "instruction-tuning": 1,
+    "large-language-models": 60,
     "llm-reasoning-methods": 1,
+    "model-based-reinforcement-learning": 1,
     "reinforcement-learning": 1,
     "reinforcement-learning-from-human-feedback": 1,
     "remote-sensing": 1,
@@ -4525,6 +5174,7 @@
     "sim-to-real-transfer": 1,
     "super-resolution": 1,
     "uncertainty-estimation-in-deep-learning": 1,
+    "video-understanding": 1,
     "vision-language-models": 4
    },
    "examples": [
@@ -4604,7 +5254,7 @@
   "parent_uncertain": false,
   "possible_duplicate": true,
   "status": "candidate",
-  "updated": "2026-11-19",
+  "updated": "2026-11-20",
   "variant_of": "large-language-models"
  },
  "multiple instance learning": {
@@ -4621,6 +5271,7 @@
     "deep-learning": 1,
     "foundation-models": 1,
     "image-classification": 2,
+    "large-language-models": 1,
     "machine-learning": 1,
     "spatial-transcriptomics": 1,
     "transfer-learning": 1
@@ -4663,9 +5314,9 @@
      "url": "https://arxiv.org/abs/2611.21565"
     }
    ],
-   "first_authors": 10,
+   "first_authors": 11,
    "months": 1,
-   "papers": 10,
+   "papers": 11,
    "sources": [
     "openalex",
     "arxiv"
@@ -4702,7 +5353,7 @@
   "parent_uncertain": true,
   "possible_duplicate": false,
   "status": "candidate",
-  "updated": "2026-11-19"
+  "updated": "2026-11-20"
  },
  "neural network": {
   "acronyms": [
@@ -4728,6 +5379,7 @@
     "machine-learning": 4,
     "model-predictive-control": 2,
     "neural-operators": 1,
+    "particle-physics": 1,
     "robust-control": 1,
     "small-modular-reactors": 1,
     "transfer-learning": 1
@@ -4770,9 +5422,9 @@
      "url": "https://doi.org/10.1038/s41598-026-73699-x"
     }
    ],
-   "first_authors": 21,
+   "first_authors": 22,
    "months": 1,
-   "papers": 21,
+   "papers": 22,
    "sources": [
     "openalex",
     "arxiv"
@@ -4812,7 +5464,7 @@
   "possible_duplicate": true,
   "reason": "category:generic",
   "status": "rejected",
-  "updated": "2026-11-19"
+  "updated": "2026-11-20"
  },
  "neural stem cell": {
   "acronyms": [
@@ -4824,6 +5476,7 @@
   "display": "neural stem cells",
   "evidence": {
    "co_classified": {
+    "cell-biology": 1,
     "cell-therapy": 1,
     "cellular-and-molecular-neuroscience": 1,
     "developmental-neuroscience": 1,
@@ -4871,9 +5524,9 @@
      "url": "https://doi.org/10.3389/fnagi.2026.1982635"
     }
    ],
-   "first_authors": 10,
+   "first_authors": 11,
    "months": 1,
-   "papers": 10,
+   "papers": 11,
    "sources": [
     "openalex"
    ]
@@ -4910,7 +5563,7 @@
   "parent_uncertain": false,
   "reason": "category:biological_entity",
   "status": "rejected",
-  "updated": "2026-11-19"
+  "updated": "2026-11-20"
  },
  "normalized difference vegetation index": {
   "acronyms": [
@@ -4921,7 +5574,7 @@
   "display": "Normalized Difference Vegetation Index",
   "evidence": {
    "co_classified": {
-    "atmospheric-sciences": 1,
+    "atmospheric-sciences": 2,
     "deep-learning": 1,
     "earth-sciences": 1,
     "environmental-monitoring": 1,
@@ -4932,8 +5585,9 @@
     "image-classification": 1,
     "machine-learning": 2,
     "mixture-models": 1,
+    "ontologies": 1,
     "precision-agriculture": 1,
-    "remote-sensing": 26,
+    "remote-sensing": 27,
     "synthetic-aperture-radar": 1
    },
    "examples": [
@@ -5009,13 +5663,13 @@
     "technology_id": "finite-difference-method"
    }
   ],
-  "parent_reason": "co_classification (26/40)",
+  "parent_reason": "co_classification (27/43)",
   "parent_suggestion": "remote-sensing",
   "parent_uncertain": false,
   "possible_duplicate": false,
   "reason": "category:measurement",
   "status": "rejected",
-  "updated": "2026-11-19"
+  "updated": "2026-11-20"
  },
  "on policy distillation": {
   "acronyms": [
@@ -5029,7 +5683,7 @@
     "flow-matching": 1,
     "knowledge-distillation": 1,
     "large-language-models": 2,
-    "reinforcement-learning": 4,
+    "reinforcement-learning": 5,
     "sequence-alignment": 1,
     "software-engineering": 1,
     "vision-language-models": 1
@@ -5072,9 +5726,9 @@
      "url": "https://arxiv.org/abs/2611.12799"
     }
    ],
-   "first_authors": 10,
+   "first_authors": 11,
    "months": 1,
-   "papers": 11,
+   "papers": 12,
    "sources": [
     "arxiv"
    ]
@@ -5110,7 +5764,7 @@
   "parent_uncertain": true,
   "possible_duplicate": false,
   "status": "candidate",
-  "updated": "2026-11-19",
+  "updated": "2026-11-20",
   "variant_of": "distillation"
  },
  "peripheral blood mononuclear cell": {
@@ -5123,6 +5777,7 @@
   "display": "peripheral blood mononuclear cells",
   "evidence": {
    "co_classified": {
+    "advanced-therapies": 1,
     "cancer-immunotherapy": 2,
     "car-t-cell-therapy": 1,
     "cellular-and-molecular-neuroscience": 1,
@@ -5135,13 +5790,15 @@
     "innate-immunity": 1,
     "metabolomics": 1,
     "molecular-biology": 2,
+    "molecular-docking": 1,
+    "nanoparticles": 1,
     "non-coding-rna": 1,
     "organ-on-a-chip": 1,
     "personalized-nutrition": 1,
     "proteomics": 1,
     "rna-interference": 1,
     "surface-enhanced-raman-spectroscopy": 1,
-    "transcriptomics": 1
+    "transcriptomics": 2
    },
    "examples": [
     {
@@ -5181,9 +5838,9 @@
      "url": "https://doi.org/10.64898/2026.11.01.763412"
     }
    ],
-   "first_authors": 33,
+   "first_authors": 37,
    "months": 1,
-   "papers": 33,
+   "papers": 37,
    "sources": [
     "openalex"
    ]
@@ -5222,7 +5879,7 @@
   "possible_duplicate": false,
   "reason": "category:biological_entity",
   "status": "rejected",
-  "updated": "2026-11-19"
+  "updated": "2026-11-20"
  },
  "phase change material": {
   "acronyms": [
@@ -5245,12 +5902,13 @@
   "display": "Phase change materials",
   "evidence": {
    "co_classified": {
+    "computational-fluid-dynamics": 1,
     "deep-learning": 1,
     "electronic-devices": 1,
     "ground-source-heat-pumps": 2,
     "heat-pipes-and-thermal-management": 1,
-    "heat-transfer": 2,
-    "latent-heat-storage": 2,
+    "heat-transfer": 3,
+    "latent-heat-storage": 3,
     "lithium-ion-batteries": 2,
     "mechanical-engineering": 4,
     "metasurfaces": 1,
@@ -5296,9 +5954,9 @@
      "url": "https://doi.org/10.3390/buildings16214385"
     }
    ],
-   "first_authors": 27,
+   "first_authors": 30,
    "months": 1,
-   "papers": 27,
+   "papers": 30,
    "sources": [
     "openalex"
    ]
@@ -5335,7 +5993,104 @@
   "possible_duplicate": true,
   "reason": "covered_by_alias:thermal-energy-storage-materials",
   "status": "rejected",
-  "updated": "2026-11-19"
+  "updated": "2026-11-20"
+ },
+ "photodynamic therapy": {
+  "acronyms": [
+   "PDT"
+  ],
+  "category": "technology",
+  "created": "2026-11-20",
+  "display": "photodynamic therapy",
+  "evidence": {
+   "co_classified": {
+    "covalent-organic-frameworks": 1,
+    "flow-cytometry": 1,
+    "light-sources": 1,
+    "metal-organic-frameworks": 1,
+    "nanoparticles": 2,
+    "quantum-algorithms": 1,
+    "quantum-dots": 1,
+    "robot-software-and-middleware": 1,
+    "ultrasonics": 1
+   },
+   "examples": [
+    {
+     "date": "2026-11-03",
+     "id": "doi:10.1021/acsanm.6c03999",
+     "title": "Energy-Transducing Scintillating Nanoparticles for Combined Proton Beam Therapy and Photodynamic Therapy",
+     "url": "https://doi.org/10.1021/acsanm.6c03999"
+    },
+    {
+     "date": "2026-11-04",
+     "id": "arxiv:2512.15889",
+     "title": "Quantum algorithms for photoreactivity in cancer-targeted photosensitizers",
+     "url": "https://doi.org/10.1103/nj6b-msgw"
+    },
+    {
+     "date": "2026-11-03",
+     "id": "doi:10.1002/adfm.79397",
+     "title": "Biomimetic Hybrid‐Membrane Nanoreactor for Deep‐Seated Photodynamic Immunotherapy of Hepatocellular Carcinoma via Dual Catalysis‐Enhanced ROS Amplification and cGAS‐STING Activation",
+     "url": "https://doi.org/10.1002/adfm.79397"
+    },
+    {
+     "date": "2026-11-05",
+     "id": "doi:10.1186/s12951-026-05205-4",
+     "title": "Biodegradable neodymium metal-organic frameworks for persistent NIR-II fluorescence imaging-guided photodynamic therapy with glutathione exhaustion",
+     "url": "https://doi.org/10.1186/s12951-026-05205-4"
+    },
+    {
+     "date": "2026-11-09",
+     "id": "doi:10.3390/ijms272110041",
+     "title": "Recent Advances in Nanoparticle-Based Strategies for Overcoming Hypoxia in Glioblastoma Photodynamic Therapy",
+     "url": "https://doi.org/10.3390/ijms272110041"
+    },
+    {
+     "date": "2026-11-10",
+     "id": "doi:10.1080/00914037.2026.2758273",
+     "title": "Photoactive carbon quantum dots-incorporated injectable hydrogel for synergistic photodynamic antibacterial activity and wound healing",
+     "url": "https://doi.org/10.1080/00914037.2026.2758273"
+    }
+   ],
+   "first_authors": 10,
+   "months": 1,
+   "papers": 10,
+   "sources": [
+    "openalex"
+   ]
+  },
+  "key": "photodynamic therapy",
+  "literature_checked": "2026-11-20",
+  "literature_count": 64306,
+  "notes": [],
+  "overlaps": [
+   {
+    "name": "Radiation Therapy",
+    "similarity": 0.33,
+    "technology_id": "radiation-therapy"
+   },
+   {
+    "name": "Phage Therapy",
+    "similarity": 0.33,
+    "technology_id": "phage-therapy"
+   },
+   {
+    "name": "Gene Therapy",
+    "similarity": 0.33,
+    "technology_id": "gene-therapy"
+   },
+   {
+    "name": "Cell Therapy",
+    "similarity": 0.33,
+    "technology_id": "cell-therapy"
+   }
+  ],
+  "parent_reason": "unknown",
+  "parent_suggestion": null,
+  "parent_uncertain": true,
+  "possible_duplicate": false,
+  "status": "candidate",
+  "updated": "2026-11-20"
  },
  "policy optimization": {
   "acronyms": [
@@ -5363,10 +6118,11 @@
     "large-language-models": 1,
     "mixture-of-experts": 1,
     "model-based-reinforcement-learning": 1,
-    "multi-agent-reinforcement-learning": 2,
+    "multi-agent-reinforcement-learning": 3,
+    "neuromodulation": 1,
     "open-ran": 1,
     "power-system-economics-and-markets": 1,
-    "reinforcement-learning": 11,
+    "reinforcement-learning": 14,
     "supervised-learning": 1,
     "trust-region-policy-methods": 1,
     "visual-servoing": 1
@@ -5409,9 +6165,9 @@
      "url": "https://doi.org/10.1080/17508975.2026.2751965"
     }
    ],
-   "first_authors": 28,
+   "first_authors": 33,
    "months": 1,
-   "papers": 28,
+   "papers": 33,
    "sources": [
     "arxiv",
     "openalex"
@@ -5447,7 +6203,7 @@
   "parent_uncertain": true,
   "reason": "covered_by_alias:trust-region-policy-methods",
   "status": "rejected",
-  "updated": "2026-11-19"
+  "updated": "2026-11-20"
  },
  "polydispersity index": {
   "acronyms": [
@@ -5462,7 +6218,7 @@
     "lipid-nanoparticles": 2,
     "liposomes": 1,
     "molecular-dynamics-simulation": 1,
-    "nanoparticles": 4,
+    "nanoparticles": 5,
     "pharmaceutical-sciences": 12,
     "quantitative-pcr": 1
    },
@@ -5504,9 +6260,9 @@
      "url": "https://doi.org/10.22159/ijap.2026v18i6.59930"
     }
    ],
-   "first_authors": 22,
+   "first_authors": 23,
    "months": 1,
-   "papers": 22,
+   "papers": 23,
    "sources": [
     "openalex"
    ]
@@ -5528,12 +6284,12 @@
     "technology_id": "graph-based-ann-indexes"
    }
   ],
-  "parent_reason": "co_classification (12/22)",
+  "parent_reason": "co_classification (12/23)",
   "parent_suggestion": "pharmaceutical-sciences",
   "parent_uncertain": false,
   "reason": "category:measurement",
   "status": "rejected",
-  "updated": "2026-11-19"
+  "updated": "2026-11-20"
  },
  "post training quantization": {
   "acronyms": [
@@ -5631,7 +6387,7 @@
   "parent_uncertain": true,
   "possible_duplicate": false,
   "status": "candidate",
-  "updated": "2026-11-19",
+  "updated": "2026-11-20",
   "variant_of": "quantization"
  },
  "proton exchange membrane": {
@@ -5645,8 +6401,10 @@
   "evidence": {
    "co_classified": {
     "direct-air-capture": 1,
+    "direct-methanol-fuel-cells": 1,
     "eddy-current-testing": 1,
     "electrical-and-electronic-engineering": 2,
+    "fuel-cells": 1,
     "hydrogen-production": 3,
     "knowledge-distillation": 1,
     "multi-agent-reinforcement-learning": 1,
@@ -5693,9 +6451,9 @@
      "url": "https://doi.org/10.1149/1945-7111/aebeff"
     }
    ],
-   "first_authors": 15,
+   "first_authors": 17,
    "months": 1,
-   "papers": 15,
+   "papers": 17,
    "sources": [
     "openalex"
    ]
@@ -5731,7 +6489,7 @@
   "parent_uncertain": true,
   "possible_duplicate": true,
   "status": "candidate",
-  "updated": "2026-11-19"
+  "updated": "2026-11-20"
  },
  "quadratic unconstrained binary optimization": {
   "acronyms": [
@@ -5739,10 +6497,10 @@
   ],
   "category": "technology",
   "created": "2026-11-14",
-  "display": "quadratic unconstrained binary optimization",
+  "display": "Quadratic Unconstrained Binary Optimization",
   "evidence": {
    "co_classified": {
-    "artificial-intelligence": 1,
+    "artificial-intelligence": 2,
     "automated-driving": 1,
     "composite-manufacturing": 1,
     "computer-science": 1,
@@ -5790,9 +6548,9 @@
      "url": "https://doi.org/10.3389/frqst.2026.1892943"
     }
    ],
-   "first_authors": 11,
+   "first_authors": 12,
    "months": 1,
-   "papers": 11,
+   "papers": 12,
    "sources": [
     "arxiv",
     "openalex"
@@ -5829,7 +6587,7 @@
   "parent_uncertain": true,
   "possible_duplicate": false,
   "status": "candidate",
-  "updated": "2026-11-19",
+  "updated": "2026-11-20",
   "variant_of": "optimization"
  },
  "quality control": {
@@ -5929,7 +6687,7 @@
   "parent_uncertain": true,
   "reason": "category:population",
   "status": "rejected",
-  "updated": "2026-11-19"
+  "updated": "2026-11-20"
  },
  "radial basis function neural network": {
   "acronyms": [
@@ -6027,7 +6785,7 @@
   "parent_uncertain": true,
   "possible_duplicate": false,
   "status": "candidate",
-  "updated": "2026-11-19"
+  "updated": "2026-11-20"
  },
  "refractive index": {
   "acronyms": [
@@ -6044,8 +6802,10 @@
   "display": "refractive index",
   "evidence": {
    "co_classified": {
+    "convolutional-neural-networks": 1,
     "machine-learning": 1,
     "magnetic-materials": 2,
+    "molecular-physics": 1,
     "optical-coherence-tomography": 1,
     "optical-fibers": 1,
     "optical-flow": 1,
@@ -6091,9 +6851,9 @@
      "url": "https://doi.org/10.1021/acsami.6c19051"
     }
    ],
-   "first_authors": 10,
+   "first_authors": 12,
    "months": 1,
-   "papers": 10,
+   "papers": 12,
    "sources": [
     "openalex"
    ]
@@ -6120,7 +6880,7 @@
   "parent_uncertain": true,
   "reason": "category:measurement",
   "status": "rejected",
-  "updated": "2026-11-19"
+  "updated": "2026-11-20"
  },
  "rna sequencing": {
   "acronyms": [
@@ -6138,13 +6898,16 @@
   "display": "RNA sequencing",
   "evidence": {
    "co_classified": {
+    "cell-cycle": 1,
+    "dna-methylation": 1,
     "epigenetics": 1,
     "induced-pluripotent-stem-cells": 1,
     "lipid-nanoparticles": 1,
     "metabolism": 1,
     "molecular-biology": 2,
-    "multi-omics": 1,
-    "transcriptomics": 13
+    "multi-omics": 2,
+    "transcription": 1,
+    "transcriptomics": 14
    },
    "examples": [
     {
@@ -6184,9 +6947,9 @@
      "url": "https://doi.org/10.1186/s12882-026-05477-w"
     }
    ],
-   "first_authors": 20,
+   "first_authors": 25,
    "months": 1,
-   "papers": 20,
+   "papers": 25,
    "sources": [
     "openalex"
    ]
@@ -6216,12 +6979,12 @@
     "technology_id": "rna-interference"
    }
   ],
-  "parent_reason": "co_classification (13/20)",
+  "parent_reason": "co_classification (14/25)",
   "parent_suggestion": "transcriptomics",
   "parent_uncertain": false,
   "reason": "covered_by_alias:transcriptomics",
   "status": "rejected",
-  "updated": "2026-11-19"
+  "updated": "2026-11-20"
  },
  "scanning transmission electron microscopy": {
   "acronyms": [
@@ -6240,7 +7003,8 @@
     "renewable-energy": 1,
     "transition-metal-dichalcogenides": 1,
     "transmission-electron-microscopy": 4,
-    "two-dimensional-materials": 1
+    "two-dimensional-materials": 1,
+    "vision-language-models": 1
    },
    "examples": [
     {
@@ -6280,11 +7044,12 @@
      "url": "https://doi.org/10.1021/acs.nanolett.6c04467"
     }
    ],
-   "first_authors": 11,
+   "first_authors": 12,
    "months": 1,
-   "papers": 11,
+   "papers": 12,
    "sources": [
-    "openalex"
+    "openalex",
+    "arxiv"
    ]
   },
   "key": "scanning transmission electron microscopy",
@@ -6319,7 +7084,7 @@
   "parent_uncertain": false,
   "reason": "synonym_of:transmission-electron-microscopy",
   "status": "rejected",
-  "updated": "2026-11-19"
+  "updated": "2026-11-20"
  },
  "second harmonic generation": {
   "acronyms": [
@@ -6332,7 +7097,7 @@
   "evidence": {
    "co_classified": {
     "color-center-qubits": 1,
-    "harmonic-generation": 17,
+    "harmonic-generation": 18,
     "inorganic-chemistry": 1,
     "magnetic-materials": 2,
     "nanoparticles": 1,
@@ -6376,9 +7141,9 @@
      "url": "https://doi.org/10.1007/s44371-026-01063-z"
     }
    ],
-   "first_authors": 24,
+   "first_authors": 25,
    "months": 1,
-   "papers": 24,
+   "papers": 25,
    "sources": [
     "openalex",
     "arxiv"
@@ -6416,7 +7181,7 @@
   "parent_uncertain": false,
   "reason": "synonym_of:harmonic-generation",
   "status": "rejected",
-  "updated": "2026-11-19"
+  "updated": "2026-11-20"
  },
  "segment anything model": {
   "acronyms": [
@@ -6433,13 +7198,14 @@
   "display": "Segment Anything Model",
   "evidence": {
    "co_classified": {
+    "computed-tomography": 1,
     "computer-vision": 1,
     "convolutional-neural-networks": 1,
     "domain-adaptation": 2,
     "image-classification": 1,
-    "image-segmentation": 1,
+    "image-segmentation": 2,
     "instance-segmentation": 1,
-    "machine-learning": 1,
+    "machine-learning": 2,
     "photovoltaics": 1,
     "semantic-segmentation": 1,
     "underwater-acoustics": 1,
@@ -6483,9 +7249,9 @@
      "url": "https://doi.org/10.1631/jzus.a2600333"
     }
    ],
-   "first_authors": 12,
+   "first_authors": 15,
    "months": 1,
-   "papers": 12,
+   "papers": 15,
    "sources": [
     "arxiv",
     "openalex"
@@ -6522,7 +7288,211 @@
   "parent_uncertain": true,
   "possible_duplicate": false,
   "status": "candidate",
-  "updated": "2026-11-19"
+  "updated": "2026-11-20"
+ },
+ "single atom catalyst": {
+  "acronyms": [
+   "SACs"
+  ],
+  "alias_proposal": true,
+  "ambiguous_acronyms": [
+   {
+    "acronym": "SACs",
+    "existing": "actor-critic-methods"
+   }
+  ],
+  "category": "technology",
+  "created": "2026-11-20",
+  "display": "single-atom catalysts",
+  "evidence": {
+   "co_classified": {
+    "analytical-chemistry": 1,
+    "convolutional-neural-networks": 1,
+    "direct-methanol-fuel-cells": 1,
+    "electrical-and-electronic-engineering": 1,
+    "electron-microscopy": 1,
+    "graphene": 1,
+    "hydrogen-production": 1,
+    "renewable-energy": 1,
+    "single-atom-catalysis": 1,
+    "transition-metal-dichalcogenides": 1,
+    "water-electrolysis": 1
+   },
+   "examples": [
+    {
+     "date": "2026-11-04",
+     "id": "doi:10.3389/fchem.2026.1984156",
+     "title": "Combined scaling relations and machine learning for predicting C-F bond activation energies in tetrafluoromethane",
+     "url": "https://doi.org/10.3389/fchem.2026.1984156"
+    },
+    {
+     "date": "2026-11-02",
+     "id": "doi:10.26599/nr.2026.94909307",
+     "title": "Modulation of the electronic structure of a single-atom Ni catalyst for sensitive and simultaneous detection of dopamine and hydroquinone",
+     "url": "https://doi.org/10.26599/nr.2026.94909307"
+    },
+    {
+     "date": "2026-11-08",
+     "id": "doi:10.3390/nano16211448",
+     "title": "Rational Design of Single-Atom Catalysts for the Hydrogen Evolution Reaction for Advancing Sustainable Energy Conversion and Storage",
+     "url": "https://doi.org/10.3390/nano16211448"
+    },
+    {
+     "date": "2026-11-11",
+     "id": "doi:10.1021/acs.energyfuels.6c04445",
+     "title": "Demystifying Multifunctional Electrocatalysis of 2D Monolayer Vanadium-Doped WS2 Transition Metal Dichalcogenide with Single-Atom Catalysts Toward Electrochemical O2 Reduction, O2 Evolution, and H2 Evolution Reactions",
+     "url": "https://doi.org/10.1021/acs.energyfuels.6c04445"
+    },
+    {
+     "date": "2026-11-11",
+     "id": "doi:10.1021/acsami.6c14830",
+     "title": "A Multimetallic Single-Atom Catalyst on a Defective Graphene Support toward Methanol Oxidation and Oxygen Reduction Reactions: Density Functional Theory, Machine Learning, and Experiments",
+     "url": "https://doi.org/10.1021/acsami.6c14830"
+    },
+    {
+     "date": "2026-11-12",
+     "id": "doi:10.1038/s41563-026-02783-4",
+     "title": "Proximal redox coupling enables oxidation damping for stable water electrolysis",
+     "url": "https://doi.org/10.1038/s41563-026-02783-4"
+    }
+   ],
+   "first_authors": 11,
+   "months": 1,
+   "papers": 11,
+   "sources": [
+    "openalex"
+   ]
+  },
+  "key": "single atom catalyst",
+  "literature_count": null,
+  "notes": [],
+  "overlaps": [
+   {
+    "name": "Single-Atom Catalysis",
+    "similarity": 0.5,
+    "technology_id": "single-atom-catalysis"
+   },
+   {
+    "name": "Ultracold Atoms",
+    "similarity": 0.25,
+    "technology_id": "ultracold-atoms"
+   },
+   {
+    "name": "Rydberg atoms",
+    "similarity": 0.25,
+    "technology_id": "neutral-atom-qubits"
+   },
+   {
+    "name": "Atom Interferometry",
+    "similarity": 0.25,
+    "technology_id": "atom-interferometry"
+   }
+  ],
+  "parent_reason": "name_overlap (0.5)",
+  "parent_suggestion": "single-atom-catalysis",
+  "parent_uncertain": true,
+  "reason": "covered_by_alias:actor-critic-methods",
+  "status": "rejected",
+  "updated": "2026-11-20"
+ },
+ "small language model": {
+  "acronyms": [
+   "SLMs",
+   "SLM"
+  ],
+  "alias_proposal": true,
+  "category": "technology",
+  "created": "2026-11-20",
+  "display": "Small Language Models",
+  "evidence": {
+   "co_classified": {
+    "bayesian-networks": 1,
+    "hierarchical-reinforcement-learning": 1,
+    "large-language-models": 4,
+    "parameter-efficient-fine-tuning": 1,
+    "reinforcement-learning": 1,
+    "uav-swarms": 1,
+    "vision-language-models": 1
+   },
+   "examples": [
+    {
+     "date": "2026-11-06",
+     "id": "doi:10.1007/s11548-026-03811-z",
+     "title": "RadStructAgent: agentic structuring of free-text chest X-ray reports with small language models",
+     "url": "https://doi.org/10.1007/s11548-026-03811-z"
+    },
+    {
+     "date": "2026-11-12",
+     "id": "arxiv:2611.16460",
+     "title": "Fine-Tuned Small Language Model for Synthetic Clinical Data Generation and Predictive Healthcare Analytics",
+     "url": "https://arxiv.org/abs/2611.16460"
+    },
+    {
+     "date": "2026-11-14",
+     "id": "arxiv:2611.19569",
+     "title": "Learning from Mutants: Teaching Small Language Models to Synthesise Loop Invariants",
+     "url": "https://arxiv.org/abs/2611.19569"
+    },
+    {
+     "date": "2026-11-16",
+     "id": "doi:10.12688/f1000research.187740.1",
+     "title": "Injecting Structural Graph Context into Small Language Models for Efficient Code Clone Detection",
+     "url": "https://doi.org/10.12688/f1000research.187740.1"
+    },
+    {
+     "date": "2026-11-16",
+     "id": "doi:10.1007/s40747-026-02583-y",
+     "title": "LinkModel: uncertainty-guided hybrid inference between small and large language models for out-of-distribution generalization",
+     "url": "https://doi.org/10.1007/s40747-026-02583-y"
+    },
+    {
+     "date": "2026-11-16",
+     "id": "doi:10.64898/2026.11.13.766436",
+     "title": "Evaluating Language Models as Orchestrators in a Tool-First Biomedical Discovery Platform",
+     "url": "https://doi.org/10.64898/2026.11.13.766436"
+    }
+   ],
+   "first_authors": 10,
+   "months": 1,
+   "papers": 10,
+   "sources": [
+    "openalex",
+    "arxiv"
+   ]
+  },
+  "key": "small language model",
+  "literature_count": null,
+  "notes": [
+   "Mevcut teknolojinin (speech-language-models) eş anlamlısı; takma ad önerisi."
+  ],
+  "overlaps": [
+   {
+    "name": "Vision-Language Models",
+    "similarity": 0.5,
+    "technology_id": "vision-language-models"
+   },
+   {
+    "name": "Speech-Language Models",
+    "similarity": 0.5,
+    "technology_id": "speech-language-models"
+   },
+   {
+    "name": "Protein Language Models",
+    "similarity": 0.5,
+    "technology_id": "protein-language-models"
+   },
+   {
+    "name": "Neural Language Models",
+    "similarity": 0.5,
+    "technology_id": "neural-language-models"
+   }
+  ],
+  "parent_reason": "name_overlap (0.5)",
+  "parent_suggestion": "protein-language-models",
+  "parent_uncertain": true,
+  "reason": "synonym_of:speech-language-models",
+  "status": "rejected",
+  "updated": "2026-11-20"
  },
  "standard model": {
   "acronyms": [
@@ -6617,7 +7587,7 @@
   "parent_uncertain": true,
   "possible_duplicate": true,
   "status": "candidate",
-  "updated": "2026-11-19"
+  "updated": "2026-11-20"
  },
  "structural similarity index": {
   "acronyms": [
@@ -6633,7 +7603,8 @@
     "computer-vision": 1,
     "convolutional-neural-networks": 1,
     "denoising-diffusion-probabilistic-models": 1,
-    "diffusion-models": 1,
+    "diffusion-models": 2,
+    "free-electron-lasers": 1,
     "generative-adversarial-networks": 1,
     "image-enhancement": 1,
     "magnetic-resonance-imaging": 1,
@@ -6680,9 +7651,9 @@
      "url": "https://doi.org/10.1186/s12880-026-02872-5"
     }
    ],
-   "first_authors": 13,
+   "first_authors": 15,
    "months": 1,
-   "papers": 13,
+   "papers": 15,
    "sources": [
     "arxiv",
     "openalex"
@@ -6720,7 +7691,7 @@
   "parent_uncertain": true,
   "reason": "category:measurement",
   "status": "rejected",
-  "updated": "2026-11-19"
+  "updated": "2026-11-20"
  },
  "supplementary cementitious material": {
   "acronyms": [
@@ -6747,7 +7718,7 @@
     "gradient-boosting": 1,
     "life-cycle-assessment": 3,
     "soil-mechanics": 1,
-    "structural-engineering": 7
+    "structural-engineering": 8
    },
    "examples": [
     {
@@ -6787,9 +7758,9 @@
      "url": "https://doi.org/10.1016/j.clay.2026.108464"
     }
    ],
-   "first_authors": 14,
+   "first_authors": 15,
    "months": 1,
-   "papers": 14,
+   "papers": 15,
    "sources": [
     "openalex"
    ]
@@ -6820,12 +7791,12 @@
     "technology_id": "superconducting-materials"
    }
   ],
-  "parent_reason": "co_classification (7/14)",
+  "parent_reason": "co_classification (8/15)",
   "parent_suggestion": "structural-engineering",
   "parent_uncertain": false,
   "possible_duplicate": false,
   "status": "candidate",
-  "updated": "2026-11-19"
+  "updated": "2026-11-20"
  },
  "synthetic minority over sampling technique": {
   "acronyms": [
@@ -6923,7 +7894,7 @@
   "parent_uncertain": true,
   "possible_duplicate": false,
   "status": "candidate",
-  "updated": "2026-11-19"
+  "updated": "2026-11-20"
  },
  "synthetic minority oversampling technique": {
   "acronyms": [
@@ -7020,7 +7991,7 @@
   "parent_uncertain": true,
   "possible_duplicate": false,
   "status": "candidate",
-  "updated": "2026-11-19"
+  "updated": "2026-11-20"
  },
  "systemic immune inflammation index": {
   "acronyms": [
@@ -7035,7 +8006,7 @@
     "computed-tomography": 1,
     "electronic-health-records": 1,
     "infectious-diseases": 3,
-    "machine-learning": 2,
+    "machine-learning": 3,
     "magnetic-resonance-imaging": 2,
     "molecular-biology": 1
    },
@@ -7077,9 +8048,9 @@
      "url": "https://doi.org/10.64898/2026.11.05.26367393"
     }
    ],
-   "first_authors": 12,
+   "first_authors": 13,
    "months": 1,
-   "papers": 12,
+   "papers": 13,
    "sources": [
     "openalex"
    ]
@@ -7106,7 +8077,7 @@
   "parent_uncertain": true,
   "reason": "category:measurement",
   "status": "rejected",
-  "updated": "2026-11-19"
+  "updated": "2026-11-20"
  },
  "technology acceptance model": {
   "acronyms": [
@@ -7123,8 +8094,8 @@
   "display": "Technology Acceptance Model",
   "evidence": {
    "co_classified": {
-    "artificial-intelligence": 2,
-    "augmented-reality": 2,
+    "artificial-intelligence": 3,
+    "augmented-reality": 3,
     "building-information-modeling": 1,
     "computer-science": 1,
     "electric-vehicles": 1,
@@ -7176,9 +8147,9 @@
      "url": "https://doi.org/10.1016/j.afres.2026.102809"
     }
    ],
-   "first_authors": 16,
+   "first_authors": 18,
    "months": 1,
-   "papers": 16,
+   "papers": 18,
    "sources": [
     "openalex"
    ]
@@ -7214,7 +8185,7 @@
   "parent_uncertain": true,
   "possible_duplicate": false,
   "status": "candidate",
-  "updated": "2026-11-19"
+  "updated": "2026-11-20"
  },
  "temporal convolutional network": {
   "acronyms": [
@@ -7234,9 +8205,10 @@
     "deep-learning": 2,
     "domain-adaptation": 1,
     "electric-vehicles": 1,
-    "electrical-and-electronic-engineering": 3,
+    "electrical-and-electronic-engineering": 4,
     "gradient-boosting": 1,
     "grasping": 1,
+    "lithium-ion-batteries": 1,
     "network-security": 1,
     "neuron-models": 1,
     "planetary-rovers": 1,
@@ -7283,9 +8255,9 @@
      "url": "https://doi.org/10.1922/comdem.v3i6s.18912"
     }
    ],
-   "first_authors": 21,
+   "first_authors": 23,
    "months": 1,
-   "papers": 21,
+   "papers": 23,
    "sources": [
     "openalex",
     "arxiv"
@@ -7325,7 +8297,7 @@
   "possible_duplicate": true,
   "status": "candidate",
   "structural": true,
-  "updated": "2026-11-19"
+  "updated": "2026-11-20"
  },
  "time sery foundation model": {
   "acronyms": [
@@ -7337,7 +8309,7 @@
   "evidence": {
    "co_classified": {
     "few-shot-learning": 1,
-    "foundation-models": 8,
+    "foundation-models": 10,
     "large-language-models": 1
    },
    "examples": [
@@ -7378,9 +8350,9 @@
      "url": "https://arxiv.org/abs/2611.14425"
     }
    ],
-   "first_authors": 10,
+   "first_authors": 12,
    "months": 1,
-   "papers": 10,
+   "papers": 12,
    "sources": [
     "arxiv",
     "openalex"
@@ -7417,7 +8389,7 @@
   "parent_uncertain": false,
   "possible_duplicate": true,
   "status": "candidate",
-  "updated": "2026-11-19",
+  "updated": "2026-11-20",
   "variant_of": "foundation-models"
  },
  "whole exome sequencing": {
@@ -7431,8 +8403,9 @@
    "co_classified": {
     "cellular-and-molecular-neuroscience": 1,
     "computed-tomography": 1,
-    "genetic-testing": 1,
+    "genetic-testing": 2,
     "magnetic-resonance-imaging": 2,
+    "molecular-biology": 1,
     "molecular-diagnostics": 1,
     "precision-medicine": 1,
     "sanger-sequencing": 1,
@@ -7477,15 +8450,16 @@
      "url": "https://doi.org/10.1186/s12920-026-02515-2"
     }
    ],
-   "first_authors": 10,
+   "first_authors": 12,
    "months": 1,
-   "papers": 10,
+   "papers": 12,
    "sources": [
     "openalex"
    ]
   },
   "key": "whole exome sequencing",
-  "literature_count": null,
+  "literature_checked": "2026-11-20",
+  "literature_count": 45716,
   "notes": [],
   "overlaps": [
    {
@@ -7514,7 +8488,7 @@
   "parent_uncertain": true,
   "possible_duplicate": false,
   "status": "candidate",
-  "updated": "2026-11-19"
+  "updated": "2026-11-20"
  },
  "whole genome sequencing": {
   "acronyms": [
@@ -7532,16 +8506,16 @@
     "embryonic-stem-cells": 1,
     "genetic-testing": 1,
     "genome-wide-association-studies": 1,
-    "infectious-diseases": 9,
+    "infectious-diseases": 10,
     "long-read-sequencing": 1,
     "machine-learning": 1,
     "molecular-biology": 1,
     "multi-omics": 1,
-    "next-generation-sequencing": 2,
+    "next-generation-sequencing": 3,
     "non-coding-rna": 1,
     "phylogenetics": 2,
     "sequence-analysis": 1,
-    "transcriptomics": 1
+    "transcriptomics": 2
    },
    "examples": [
     {
@@ -7581,9 +8555,9 @@
      "url": "https://doi.org/10.1212/nxg.0000000000200449"
     }
    ],
-   "first_authors": 27,
+   "first_authors": 30,
    "months": 1,
-   "papers": 27,
+   "papers": 30,
    "sources": [
     "openalex"
    ]
@@ -7619,7 +8593,7 @@
   "parent_uncertain": true,
   "possible_duplicate": false,
   "status": "candidate",
-  "updated": "2026-11-19"
+  "updated": "2026-11-20"
  },
  "world action model": {
   "acronyms": [
@@ -7632,14 +8606,18 @@
   "evidence": {
    "co_classified": {
     "diffusion-models": 2,
-    "flow-matching": 2,
+    "flow-matching": 3,
     "foundation-models": 1,
     "metric-geometry": 1,
     "mixture-of-experts": 1,
+    "reinforcement-learning": 1,
     "representation-learning": 1,
+    "robot-foundation-models": 1,
     "robot-learning": 1,
+    "trajectory-optimization": 1,
     "transformer-architectures": 1,
-    "vision-language-action-models": 2
+    "vision-language-action-models": 2,
+    "vision-language-models": 1
    },
    "examples": [
     {
@@ -7679,9 +8657,9 @@
      "url": "https://arxiv.org/abs/2611.15368"
     }
    ],
-   "first_authors": 12,
+   "first_authors": 17,
    "months": 1,
-   "papers": 12,
+   "papers": 17,
    "sources": [
     "arxiv"
    ]
@@ -7717,7 +8695,106 @@
   "parent_uncertain": true,
   "possible_duplicate": true,
   "status": "candidate",
-  "updated": "2026-11-19"
+  "updated": "2026-11-20"
+ },
+ "x ray absorption spectroscopy": {
+  "acronyms": [
+   "XAS"
+  ],
+  "category": "method",
+  "created": "2026-11-20",
+  "display": "X-ray absorption spectroscopy",
+  "evidence": {
+   "co_classified": {
+    "artificial-intelligence": 1,
+    "atomic-layer-deposition": 1,
+    "direct-methanol-fuel-cells": 1,
+    "electrical-and-electronic-engineering": 1,
+    "electron-paramagnetic-resonance": 1,
+    "energy-storage": 1,
+    "inorganic-chemistry": 1,
+    "metal-organic-frameworks": 1,
+    "solid-oxide-fuel-cells": 1,
+    "transmission-electron-microscopy": 1
+   },
+   "examples": [
+    {
+     "date": "2026-11-02",
+     "id": "doi:10.1021/acsengineeringau.6c00060",
+     "title": "Probing Bimetallicity in Catalytic Systems: A Practical Tutorial on Advanced Analytical Tools",
+     "url": "https://doi.org/10.1021/acsengineeringau.6c00060"
+    },
+    {
+     "date": "2026-11-02",
+     "id": "doi:10.1021/photonsci.6c00065",
+     "title": "Development of a Custom-Built Atomic Layer Deposition Reactor for In Situ Synchrotron GISAXS and XAS Characterization",
+     "url": "https://doi.org/10.1021/photonsci.6c00065"
+    },
+    {
+     "date": "2026-11-04",
+     "id": "doi:10.1038/s41598-026-79129-2",
+     "title": "Sustainable gasification-based biochar electrodes with post-synthetic nickel incorporation for advanced energy storage",
+     "url": "https://doi.org/10.1038/s41598-026-79129-2"
+    },
+    {
+     "date": "2026-11-10",
+     "id": "arxiv:2506.15784",
+     "title": "Fast simulations of X-ray absorption spectroscopy for battery materials on a quantum computer",
+     "url": "https://doi.org/10.22331/q-2026-11-10-2265"
+    },
+    {
+     "date": "2026-11-11",
+     "id": "doi:10.1021/acsami.6c14830",
+     "title": "A Multimetallic Single-Atom Catalyst on a Defective Graphene Support toward Methanol Oxidation and Oxygen Reduction Reactions: Density Functional Theory, Machine Learning, and Experiments",
+     "url": "https://doi.org/10.1021/acsami.6c14830"
+    },
+    {
+     "date": "2026-11-12",
+     "id": "doi:10.1088/1361-6595/aec191",
+     "title": "An in situ atmospheric-pressure dielectric barrier discharge setup for time-resolved synchrotron characterisation of cerium metal-organic frameworks",
+     "url": "https://doi.org/10.1088/1361-6595/aec191"
+    }
+   ],
+   "first_authors": 10,
+   "months": 1,
+   "papers": 10,
+   "sources": [
+    "openalex"
+   ]
+  },
+  "key": "x ray absorption spectroscopy",
+  "literature_checked": "2026-11-20",
+  "literature_count": 26633,
+  "notes": [],
+  "overlaps": [
+   {
+    "name": "X-ray Optics",
+    "similarity": 0.4,
+    "technology_id": "x-ray-optics"
+   },
+   {
+    "name": "X-ray Imaging",
+    "similarity": 0.4,
+    "technology_id": "x-ray-imaging"
+   },
+   {
+    "name": "X-ray diffraction",
+    "similarity": 0.4,
+    "technology_id": "crystallography"
+   },
+   {
+    "name": "X-ray Diffraction and Scattering",
+    "similarity": 0.33,
+    "technology_id": "x-ray-diffraction-and-scattering"
+   }
+  ],
+  "parent_reason": "name_overlap (0.4)",
+  "parent_suggestion": "x-ray-optics",
+  "parent_uncertain": true,
+  "possible_duplicate": true,
+  "status": "candidate",
+  "updated": "2026-11-20",
+  "variant_of": "spectroscopy"
  },
  "x ray photoelectron spectroscopy": {
   "acronyms": [
@@ -7738,14 +8815,14 @@
     "3d-integration": 1,
     "advanced-oxidation-processes": 1,
     "aluminum-alloys": 1,
-    "analytical-chemistry": 1,
+    "analytical-chemistry": 2,
     "carbon-dots": 1,
     "carbon-nanotubes": 3,
     "co2-electroreduction": 1,
     "confocal-microscopy": 1,
     "density-functional-theory": 1,
     "direct-methanol-fuel-cells": 1,
-    "electrical-and-electronic-engineering": 5,
+    "electrical-and-electronic-engineering": 6,
     "electron-paramagnetic-resonance": 1,
     "fischer-tropsch-synthesis": 1,
     "graphene": 2,
@@ -7756,10 +8833,10 @@
     "inorganic-chemistry": 2,
     "machine-learning": 1,
     "magnetic-materials": 2,
-    "metal-organic-frameworks": 3,
+    "metal-organic-frameworks": 4,
     "metal-oxide-nanoparticles": 1,
     "molecular-biology": 1,
-    "molecular-physics": 1,
+    "molecular-physics": 2,
     "nanofibers": 1,
     "natural-fiber-composites": 1,
     "renewable-energy": 10,
@@ -7770,7 +8847,9 @@
     "surface-chemistry": 1,
     "sustainable-solvents": 1,
     "thermoelectric-materials": 1,
+    "thin-film-deposition": 1,
     "transmission-electron-microscopy": 4,
+    "wastewater-treatment": 1,
     "water-electrolysis": 1,
     "water-treatment": 2
    },
@@ -7851,7 +8930,7 @@
   "possible_duplicate": true,
   "reason": "covered_by_alias:surface-analysis-techniques",
   "status": "rejected",
-  "updated": "2026-11-19",
+  "updated": "2026-11-20",
   "variant_of": "spectroscopy"
  }
 }

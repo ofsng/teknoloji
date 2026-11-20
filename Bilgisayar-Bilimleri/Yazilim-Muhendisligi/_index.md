@@ -87,7 +87,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **4**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **5**.
 
 - [Agentic Software Engineering: Foundational Pillars and a Research Roadmap](Arastirmalar/2026-Hassan-Agentic-Software-Engineering-Foundational.md) — Hassan vd. (2026) · *ACM Transactions on Software Engineering and Methodology* · hakemli · atıf: 86
 <!-- AUTO:RESEARCH:END -->
@@ -99,6 +99,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [How Safe Are AI-Generated Patches? A Large-scale Study on Security Risks in LLM and Agentic Automated Program Repair on SWE-bench](Yazilim-Bakimi-ve-Evrimi/Program-Onarimi/Arastirmalar/2026-Sajadi-How-Safe-Are-Generated.md) — Sajadi vd. (2026) · *ACM Transactions on Software Engineering and Methodology* · hakemli · atıf: 25
 - [Model-Driven Engineering for Agent-Based Modeling: A Review](Model-Gudumlu-Muhendislik/Arastirmalar/2026-Sanogo-Model-Driven-Engineering-for.md) — Sanogo vd. (2026) · *African Journal of Development Informatics* · hakemli
 - [Synergizing LLMs and Formal Methods for Neural-Symbolic Reasoning](Bicimsel-Yontemler/Arastirmalar/2026-Dong-Synergizing-LLMs-and-Formal.md) — Dong vd. (2026) · *Communications of the ACM* · hakemli
 - [Agentic Software Engineering: Foundational Pillars and a Research Roadmap](Arastirmalar/2026-Hassan-Agentic-Software-Engineering-Foundational.md) — Hassan vd. (2026) · *ACM Transactions on Software Engineering and Methodology* · hakemli · atıf: 86

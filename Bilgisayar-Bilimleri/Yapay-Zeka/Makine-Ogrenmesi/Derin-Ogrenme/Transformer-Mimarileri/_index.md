@@ -81,7 +81,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **4**.
+Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **5**.
 
 - [Advanced hybrid LSTM-transformer architecture for real-time multi-task prediction in engineering systems](Arastirmalar/2024-Cao-Advanced-hybrid-LSTM-transformer.md) — Cao vd. (2024) · *Scientific Reports* · hakemli · atıf: 178
 - [Attention Is All You Need](Arastirmalar/2017-Transformer.md) — Vaswani vd. (2017) · *Advances in Neural Information Processing Systems 30 (NIPS 2017)*
@@ -95,6 +95,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
 - [Positional encoding cross-attention ResNet50 framework for lung cancer classification across CT and histopathological imaging modalities](Konum-Kodlamalari/Arastirmalar/2026-Nivashini-Positional-encoding-cross-attention.md) — Nivashini vd. (2026) · *Scientific Reports* · hakemli
+- [Efficient Decoder-Only Transformer with Domain-Specific Byte Pair Encoding for Python Code Generation](Decoder-Only/Arastirmalar/2026-Venkateshwarlu-Efficient-Decoder-Only-Transforme.md) — Venkateshwarlu vd. (2026) · *International Journal of Latest Technology in Engineering Management & Applied Science* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

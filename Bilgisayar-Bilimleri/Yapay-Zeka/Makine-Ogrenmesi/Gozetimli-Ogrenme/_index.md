@@ -80,7 +80,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **4**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **5**.
 
 - [Automatic Evaluation of Open-Ended Mathematics Questions with Machine Learning](Arastirmalar/2026-KARACA-Automatic-Evaluation-Open-Ended.md) — KARACA vd. (2026) · *International Journal of Technology in Education and Science* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -92,6 +92,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [A TF-IDF and logistic regression baseline for binary sentiment classification of short texts](Dogrusal-Siniflandiricilar/Arastirmalar/2026-Mohsin-IDF-and-logistic-regression.md) — Mohsin vd. (2026) · *Future Technology* · hakemli · atıf: 1
 - [Desenvolvimento de algoritmo de k-nearest neighbors (vizinhos mais próximos) para classificação de imagens de organismos do plâncton.](k-En-Yakin-Komsu/Arastirmalar/2026-Manzi-Desenvolvimento-algoritmo-nearest-neighbor.md) — Manzi vd. (2026) · *Anais do Encontro Nacional de Pós Graduação* · hakemli
 - [Interpretable ESG risk analysis using decision trees and SHAP in applied machine learning](Karar-Agaclari/Arastirmalar/2026-Seera-Interpretable-ESG-risk-analysis.md) — Seera vd. (2026) · *Discover Computing* · hakemli
 - [Automatic Evaluation of Open-Ended Mathematics Questions with Machine Learning](Arastirmalar/2026-KARACA-Automatic-Evaluation-Open-Ended.md) — KARACA vd. (2026) · *International Journal of Technology in Education and Science* · hakemli

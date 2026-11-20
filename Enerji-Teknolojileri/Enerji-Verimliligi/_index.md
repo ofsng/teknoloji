@@ -77,7 +77,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **2**.
+
+- [Ways to Improve the Energy Efficiency of Uzbekistan's Industrial Sectors: Lessons Learned and Opportunities to Apply Chinese Practice](Arastirmalar/2026-Xuan-Ways-Improve-the-Energy.md) — Xuan (2026) · *American Journal of Economics and Business Management* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -88,6 +90,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
 - [Industrial energy efficiency starts with the team that operates the plant rather than with the purchase of new equipment](Endustriyel-Enerji-Verimliligi/Arastirmalar/2026-Santos-Industrial-energy-efficiency-starts.md) — Santos (2026) · *RCMOS - Revista Científica Multidisciplinar O Saber* · hakemli
+- [Ways to Improve the Energy Efficiency of Uzbekistan's Industrial Sectors: Lessons Learned and Opportunities to Apply Chinese Practice](Arastirmalar/2026-Xuan-Ways-Improve-the-Energy.md) — Xuan (2026) · *American Journal of Economics and Business Management* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

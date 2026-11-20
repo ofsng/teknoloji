@@ -80,7 +80,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **3**.
+Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **4**.
 
 - [Democratizing Optimization with Generative AI](Arastirmalar/2026-SimchiLevi-Democratizing-Optimization-with-Gener.md) — Simchi‐Levi vd. (2026) · *Operations Research* · hakemli · atıf: 13
 - [Community benchmarking of generative models for privacy-preserving synthetic bulk RNA-seq data generation](Arastirmalar/2026-Ozturk-Community-benchmarking-generative-models.md) — Öztürk vd. (2026) · *Genome biology* · hakemli · atıf: 3
@@ -93,6 +93,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Frequency-Adaptive Flow Matching for High-Fidelity Text-to-Speech Synthesis](Difuzyon-Modelleri/Akis-Esleme/Arastirmalar/2026-Liu-Frequency-Adaptive-Flow-Matching.md) — Liu vd. (2026) · *Electronics* · hakemli
 - [Community benchmarking of generative models for privacy-preserving synthetic bulk RNA-seq data generation](Arastirmalar/2026-Ozturk-Community-benchmarking-generative-models.md) — Öztürk vd. (2026) · *Genome biology* · hakemli · atıf: 3
 - [Democratizing Optimization with Generative AI](Arastirmalar/2026-SimchiLevi-Democratizing-Optimization-with-Gener.md) — Simchi‐Levi vd. (2026) · *Operations Research* · hakemli · atıf: 13
 - [Multi-tissue segmentation of knee MRI based on U-Net and conditional generative adversarial networks](Cekismeli-Uretici-Aglar/Arastirmalar/2026-Li-Multi-tissue-segmentation-knee.md) — Li vd. (2026) · *Frontiers in Molecular Biosciences* · hakemli

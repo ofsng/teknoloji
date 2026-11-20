@@ -85,7 +85,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **14**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **15**.
 
 - [Reinforcement Learning Control of Nonlinear Dynamical Systems: A Dynamics-Oriented Scoping Review](Arastirmalar/2026-Gu-Reinforcement-Learning-Control-Nonlinear.md) — Gu vd. (2026) · *AI* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -97,6 +97,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Dance choreography assistance system by hierarchical reinforcement learning and its real-time interaction optimization method](Hiyerarsik-Pekistirmeli-Ogrenme/Arastirmalar/2026-Hua-Dance-choreography-assistance-system.md) — Hua (2026) · *Discover Artificial Intelligence* · hakemli
 - [Multi-Armed Bandit-Based Model Selection for Incremental Phishing Detection: An Empirical Study of Accuracy, Cost, and Concept Drift](Cok-Kollu-Haydutlar/Arastirmalar/2026-Al-Tarawneh-Multi-Armed-Bandit-Based.md) — Al-Tarawneh vd. (2026) · *Information* · hakemli
 - [DreamLander: A 6-DOF World Model based Reinforcement Learning Planetary Lander](Model-Tabanli-Pekistirmeli-Ogrenme/Arastirmalar/2026-Nehma-DreamLander-DOF-World-Model.md) — Nehma vd. (2026) · *Nehma, G.M., Quinn, P., Tiwari, M., & Riano-Rios, C. (2026). DreamLander: A 6-DOF World Model Based Reinforcement Learning Planetary Lander. AIAA SCITECH 2026 Forum* · hakemli
 - [Deep Q-network path planning with stratified sampling and prioritized replay](Deger-Tabanli-Yontemler/Derin-Q-Aglari/Arastirmalar/2026-Zhang-Deep-network-path-planning.md) — Zhang vd. (2026) · *Future Technology* · hakemli
@@ -104,7 +105,6 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [SEER: A Scalable Event-Driven Runtime for Parallel Execution of Multi-Agent Reinforcement Learning Environments](Cok-Etmenli-Pekistirmeli-Ogrenme/Arastirmalar/2026-Su-SEER-Scalable-Event-Driven.md) — Su vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [Reinforcement Learning Control of Nonlinear Dynamical Systems: A Dynamics-Oriented Scoping Review](Arastirmalar/2026-Gu-Reinforcement-Learning-Control-Nonlinear.md) — Gu vd. (2026) · *AI* · hakemli
 - [H^2MARL: Hierarchical Heterogeneous Multi-agent Reinforcement Learning for Humanoid Robot Control](Cok-Etmenli-Pekistirmeli-Ogrenme/Arastirmalar/2026-Hu-2MARL-Hierarchical-Heterogeneous-Multi.md) — Hu vd. (2026) · *arXiv* · ön baskı / hakemsiz
-- [Regulating Autonomous Mobility-on-Demand Operators with Fixed and Adaptive Penalties: A Multi-Agent Reinforcement Learning Approach](Cok-Etmenli-Pekistirmeli-Ogrenme/Arastirmalar/2026-Kugler-Regulating-Autonomous-Mobility-Demand.md) — Kügler vd. (2026) · *arXiv* · ön baskı / hakemsiz
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

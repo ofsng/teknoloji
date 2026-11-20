@@ -90,7 +90,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **166**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **176**.
 
 - [METHODOLOGY FOR USING INTERACTIVE AND INNOVATIVE METHODS IN TEACHING COMPUTER SCIENCE](Arastirmalar/2026-Ozatovna-METHODOLOGY-FOR-USING-INTERACTIVE.md) — Ozatovna vd. (2026) · *HSR (London)* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -102,14 +102,14 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [A hybrid bio-inspired and machine learning framework for adaptive congestion control and multi-objective QoS optimization in heterogeneous network](Bilgisayar-Aglari/Ag-Protokolleri/Tasima-Katmani-Protokolleri/Tikaniklik-Denetimi/Arastirmalar/2026-Jagadish-hybrid-bio-inspired-and.md) — Jagadish vd. (2026) · *Scientific Reports* · hakemli
+- [Flash: Fast, Lightweight Private Set Intersection with Malicious Security Almost for Free](Kriptografi/Guvenli-Cok-Tarafli-Hesaplama/Ozel-Kume-Kesisimi/Arastirmalar/2026-Jiang-Flash-Fast-Lightweight-Private.md) — Jiang vd. (2026) · *Journal of Machine Learning and Information Security* · hakemli
+- [Dance choreography assistance system by hierarchical reinforcement learning and its real-time interaction optimization method](Yapay-Zeka/Makine-Ogrenmesi/Pekistirmeli-Ogrenme/Hiyerarsik-Pekistirmeli-Ogrenme/Arastirmalar/2026-Hua-Dance-choreography-assistance-system.md) — Hua (2026) · *Discover Artificial Intelligence* · hakemli
+- [How Safe Are AI-Generated Patches? A Large-scale Study on Security Risks in LLM and Agentic Automated Program Repair on SWE-bench](Yazilim-Muhendisligi/Yazilim-Bakimi-ve-Evrimi/Program-Onarimi/Arastirmalar/2026-Sajadi-How-Safe-Are-Generated.md) — Sajadi vd. (2026) · *ACM Transactions on Software Engineering and Methodology* · hakemli · atıf: 25
 - [A 3D distance-augmented Gauss-Markov mobility model for QoS improvement in Mobile Ad hoc Networks](Bilgisayar-Aglari/Ad-Hoc-ve-Orgu-Aglar/Mobil-Ad-Hoc-Aglar/Arastirmalar/2026-Barbhuyan-distance-augmented-Gauss-Markov.md) — Barbhuyan vd. (2026) · *Discover Computing* · hakemli
 - [ULB: An ultra-lightweight block cipher](Kriptografi/Simetrik-Anahtarli-Kriptografi/Blok-Sifreler/Hafif-Blok-Sifreler/Arastirmalar/2026-Wang-ULB-ultra-lightweight-block.md) — Wang vd. (2026) · *PLoS ONE* · hakemli
 - [An anatomy aware Mamba framework for video based 3D human pose estimation](Yapay-Zeka/Bilgisayarli-Goru/Poz-Kestirimi/Arastirmalar/2026-Song-anatomy-aware-Mamba-framework.md) — Song vd. (2026) · *Scientific Reports* · hakemli
 - [Model-Driven Engineering for Agent-Based Modeling: A Review](Yazilim-Muhendisligi/Model-Gudumlu-Muhendislik/Arastirmalar/2026-Sanogo-Model-Driven-Engineering-for.md) — Sanogo vd. (2026) · *African Journal of Development Informatics* · hakemli
-- [Frequency-aware and depth-guided neural radiance fields for 3D reconstruction of complex disaster scenes](Bilgisayar-Grafikleri/Goruntu-Olusturma/Sinirsel-Goruntu-Olusturma/Sinirsel-Isima-Alanlari/Arastirmalar/2026-Chen-Frequency-aware-and-depth.md) — Chen vd. (2026) · *Scientific Reports* · hakemli
-- [Constrained Actionable Counterfactual Explanations With Economic Cost Optimization for Algorithmic Recourse in Credit Scoring Systems](Yapay-Zeka/Aciklanabilir-Yapay-Zeka/Karsi-Olgusal-Aciklamalar/Arastirmalar/2026-Ikermane-Constrained-Actionable-Counterfactual-E.md) — Ikermane vd. (2026) · *Expert Systems* · hakemli
-- [Plane-Informed Dynamic Visual SLAM in Low-Texture Indoor Construction Environments](Yapay-Zeka/Bilgisayarli-Goru/Gorsel-SLAM/Arastirmalar/2026-Li-Plane-Informed-Dynamic-Visual.md) — Li vd. (2026) · *Journal of Computing in Civil Engineering* · hakemli
-- [Explainable breast cancer classification using machine learning deep learning and transfer learning across multiple data modalities](Yapay-Zeka/Makine-Ogrenmesi/Aktarim-Ogrenmesi/Arastirmalar/2026-Tiwari-Explainable-breast-cancer-classification.md) — Tiwari vd. (2026) · *Discover Computing* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

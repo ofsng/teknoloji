@@ -76,7 +76,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **3**.
+
+- [A Survey of Modelling Temporal Coherence in Neural Rendering and Video Generation](Arastirmalar/2026-Einabadi-Survey-Modelling-Temporal-Coherence.md) — Einabadi vd. (2026) · *Computer Graphics Forum* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -87,6 +89,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
 - [Frequency-aware and depth-guided neural radiance fields for 3D reconstruction of complex disaster scenes](Sinirsel-Isima-Alanlari/Arastirmalar/2026-Chen-Frequency-aware-and-depth.md) — Chen vd. (2026) · *Scientific Reports* · hakemli
+- [A Survey of Modelling Temporal Coherence in Neural Rendering and Video Generation](Arastirmalar/2026-Einabadi-Survey-Modelling-Temporal-Coherence.md) — Einabadi vd. (2026) · *Computer Graphics Forum* · hakemli
 - [LiteTex-GS: Fast and Lightweight Texturing for Gaussian Splatting](Gauss-Sicratma/Arastirmalar/2026-Li-LiteTex-Fast-and-Lightweight.md) — Li vd. (2026) · *arXiv* · hakemli
 <!-- AUTO:RECENT:END -->
 

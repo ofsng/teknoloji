@@ -77,7 +77,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **3**.
+
+- [Outpatient Care and Telehealth for Healthcare Transformation in Nigeria: A Narrative Review of Health Informatics Challenges and Opportunities](Arastirmalar/2026-Odis-Outpatient-Care-and-Telehealth.md) — Odis (2026) · *InfoScience Trends* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -87,6 +89,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Outpatient Care and Telehealth for Healthcare Transformation in Nigeria: A Narrative Review of Health Informatics Challenges and Opportunities](Arastirmalar/2026-Odis-Outpatient-Care-and-Telehealth.md) — Odis (2026) · *InfoScience Trends* · hakemli
 - [Mentorship for electronic health record quality improvement in Nigeria: A practice framework](Elektronik-Saglik-Kayitlari/Arastirmalar/2026-Popoola-Mentorship-for-electronic-health.md) — Popoola (2026) · *Innovation in Health for Society* · hakemli
 - [Mapping the evidence on implementation of clinical decision support systems in nurses' reverse triage decisions during disaster surges: A scoping review with a proposed conceptual framework](Klinik-Karar-Destek-Sistemleri/Arastirmalar/2026-Salasa-Mapping-the-evidence-implementation.md) — Salasa vd. (2026) · *International Emergency Nursing* · hakemli
 <!-- AUTO:RECENT:END -->

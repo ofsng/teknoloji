@@ -93,7 +93,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **16**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **19**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -103,14 +103,14 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Algebraic Structures and Their Applications in Coding Theory](Ayrik-Matematik/Kodlama-Teorisi/Arastirmalar/2026-Raut-Algebraic-Structures-and-Their.md) — Raut (2026) · *International Journal of Science Architecture Technology and Environment* · hakemli
+- [Generalized Multiscale Finite Element Method for Multicontinuum Time-Fractional Diffusion Model](Sayisal-Analiz/KDD-Sayisal-Yontemleri/Sonlu-Elemanlar-Yontemi/Arastirmalar/2026-Kalachikova-Generalized-Multiscale-Finite-Elemen.md) — Kalachikova vd. (2026) · *Advances in Applied Mathematics and Mechanics* · hakemli
 - [Extreme Local Statistics in Random Graphs: Maximum Tree Extension Counts](Ayrik-Matematik/Cizge-Teorisi/Rastgele-Cizgeler/Arastirmalar/2026-Araujo-Extreme-Local-Statistics-Random.md) — Araújo vd. (2026) · *Random Structures and Algorithms* · hakemli · atıf: 2
 - [Bayesian parameter estimation of SIR and SIRD models for COVID-19 in Indonesia using Metropolis–Hastings and Hamiltonian Monte Carlo](Istatistik/Istatistiksel-Cikarim/Bayesci-Istatistik/Markov-Zinciri-Monte-Carlo/Hamilton-Monte-Carlo/Arastirmalar/2026-Naftali-Bayesian-parameter-estimation-SIR.md) — Naftali vd. (2026) · *Communications in Mathematical Biology and Neuroscience* · hakemli
 - [A multi-objective optimization approach based on HBA-RF for lightweight design of automotive rear seats](Optimizasyon/Cok-Amacli-Optimizasyon/Arastirmalar/2026-Gao-multi-objective-optimization-approach.md) — Gao vd. (2026) · *Proceedings of the Institution of Mechanical Engineers Part D Journal of Automobile Engineering* · hakemli
 - [Review of the Fundamental Theory and Multidisciplinary Applications of Monte Carlo Methods](Monte-Carlo-Yontemleri/Arastirmalar/2026-Chang-Review-the-Fundamental-Theory.md) — Chang (2026) · *Theoretical and Natural Science* · hakemli
 - [Tight convex relaxation-based simplex branch-and-bound algorithm for generalized linear multiplicative programming](Optimizasyon/Tamsayi-ve-Kombinatoryal-Optimizasyon/Dal-ve-Sinir/Arastirmalar/2026-Zhang-Tight-convex-relaxation-based.md) — Zhang vd. (2026) · *Operations Research Perspectives* · hakemli
 - [Partial Differential Equations: Overview, Applications, and Numerical Solutions](Analiz/Kismi-Diferansiyel-Denklemler/Arastirmalar/2026-Babatunde-Partial-Differential-Equations-Overvie.md) — Babatunde vd. (2026) · *Mathematics* · hakemli
-- [Causal inference with real-world data in health care research: a scoping review protocol and study within a review protocol](Istatistik/Nedensel-Cikarim/Arastirmalar/2026-Erdmann-Causal-inference-with-real.md) — Erdmann vd. (2026) · *JBI Evidence Synthesis* · hakemli
-- [Last-Iterate Convergence of Stochastic Gradient Methods for Unbounded Problems](Optimizasyon/Stokastik-Optimizasyon/Stokastik-Gradyan-Yontemleri/Arastirmalar/2026-Vaidyan-Last-Iterate-Convergence-Stochastic.md) — Vaidyan vd. (2026) · *arXiv* · ön baskı / hakemsiz
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

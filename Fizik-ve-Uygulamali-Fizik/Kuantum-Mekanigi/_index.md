@@ -78,7 +78,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **3**.
+
+- [Quantum mechanics as observer-induced quotient graph dynamics](Arastirmalar/2026-Belinsky-Quantum-mechanics-observer-induced.md) — Belinsky vd. (2026) · *Laser Physics* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -90,6 +92,7 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 
 - [Rotating-Wave and Secular Approximations for Open Quantum Systems](Acik-Kuantum-Sistemleri/Arastirmalar/2026-Burgarth-Rotating-Wave-and-Secular.md) — Burgarth vd. (2026) · *Quantum* · hakemli · atıf: 1
 - [Irreversibility of quantum field theory in de Sitter: The C, F and A theorems](Kuantum-Alan-Teorisi/Arastirmalar/2026-Abate-Irreversibility-quantum-field-theory.md) — Abate vd. (2026) · *SciPost Physics* · hakemli · atıf: 7
+- [Quantum mechanics as observer-induced quotient graph dynamics](Arastirmalar/2026-Belinsky-Quantum-mechanics-observer-induced.md) — Belinsky vd. (2026) · *Laser Physics* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

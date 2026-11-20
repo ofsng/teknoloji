@@ -77,7 +77,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **2**.
 
 - [Review of the Fundamental Theory and Multidisciplinary Applications of Monte Carlo Methods](Arastirmalar/2026-Chang-Review-the-Fundamental-Theory.md) — Chang (2026) · *Theoretical and Natural Science* · hakemli
 <!-- AUTO:RESEARCH:END -->

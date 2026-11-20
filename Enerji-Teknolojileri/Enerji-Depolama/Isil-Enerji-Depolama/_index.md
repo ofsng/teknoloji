@@ -77,7 +77,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **2**.
+Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **3**.
 
 - [Recent Advances in Solar Still Technology: Design, Performance Enhancement, and Thermal Energy Storage.](Arastirmalar/2026-AlKhafaji-Recent-Advances-Solar-Still.md) — Al‐Khafaji vd. (2026) · *Journal of Science and Engineering Applications* · hakemli
 - [Review of research and commercial solar concentrated systems for process heat with thermal energy storage in Greece and Cyprus](Arastirmalar/2026-Alexopoulos-Review-research-and-commercial.md) — Alexopoulos vd. (2026) · *Green Energy and Sustainability* · hakemli
@@ -90,6 +90,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Uncovering the erratic behaviour of heat and reaction fronts in thermochemical energy storage with non-stoichiometric oxides](Termokimyasal-Enerji-Depolama/Arastirmalar/2026-Kasim-Uncovering-the-erratic-behaviour.md) — Kasim vd. (2026) · *Energy Conversion and Management* · hakemli
 - [Review of research and commercial solar concentrated systems for process heat with thermal energy storage in Greece and Cyprus](Arastirmalar/2026-Alexopoulos-Review-research-and-commercial.md) — Alexopoulos vd. (2026) · *Green Energy and Sustainability* · hakemli
 - [Recent Advances in Solar Still Technology: Design, Performance Enhancement, and Thermal Energy Storage.](Arastirmalar/2026-AlKhafaji-Recent-Advances-Solar-Still.md) — Al‐Khafaji vd. (2026) · *Journal of Science and Engineering Applications* · hakemli
 <!-- AUTO:RECENT:END -->

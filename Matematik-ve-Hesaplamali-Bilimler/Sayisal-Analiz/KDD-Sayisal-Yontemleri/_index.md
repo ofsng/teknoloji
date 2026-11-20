@@ -80,7 +80,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -88,7 +88,9 @@ Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
-_Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini göstermez; ön baskılar hakemli değildir._
+Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
+
+- [Generalized Multiscale Finite Element Method for Multicontinuum Time-Fractional Diffusion Model](Sonlu-Elemanlar-Yontemi/Arastirmalar/2026-Kalachikova-Generalized-Multiscale-Finite-Elemen.md) — Kalachikova vd. (2026) · *Advances in Applied Mathematics and Mechanics* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

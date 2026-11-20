@@ -81,7 +81,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **25**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **26**.
 
 - [RENEWABLE ENERGY INTEGRATION AND ENERGY SECURITY IN SOUTHEASTERN NIGERIA: CHALLENGES, OPPORTUNITIES, AND STRATEGIC PATHWAYS](Arastirmalar/2026-Ifeachor-RENEWABLE-ENERGY-INTEGRATION-AND.md) — Ifeachor (2026) · *British Journal of Advanced Research* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -93,6 +93,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Static-Torque Enhancement of Darrieus Vertical-Axis Wind Turbines with Dual-Airfoil Blades](Ruzgar-Enerjisi/Dikey-Eksenli-Ruzgar-Turbinleri/Arastirmalar/2026-Arana-Static-Torque-Enhancement-Darrieus.md) — Arana vd. (2026) · *Wind* · hakemli
 - [Spatial prioritization of official offshore wind zones in the Colombian Caribbean: A comparative assessment of fixed-bottom and floating areas](Ruzgar-Enerjisi/Deniz-Ustu-Ruzgar/Arastirmalar/2026-Robles-Algarin-Spatial-prioritization-official-o.md) — Robles-Algarín vd. (2026) · *Energy Exploration & Exploitation* · hakemli
 - [A surrogate-assisted reinforcement learning framework for layout optimization and economic assessment of dense urban vertical-axis wind turbine arrays](Ruzgar-Enerjisi/Dikey-Eksenli-Ruzgar-Turbinleri/Arastirmalar/2026-Zaidi-surrogate-assisted-reinforcement-learning.md) — Zaidi (2026) · *Wind Engineering* · hakemli
 - [Optimizing the Performance of Perovskite Solar Cells through Triple-Diode Model: Achieving Maximum Power Conversion Efficiency and Minimizing Statistical Errors](Gunes-Enerjisi/Fotovoltaik/Perovskit-Gunes-Hucreleri/Arastirmalar/2026-Subash-Optimizing-the-Performance-Perovskite.md) — Subash vd. (2026) · *Journal of Circuits Systems and Computers* · hakemli
@@ -100,7 +101,6 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [RENEWABLE ENERGY INTEGRATION AND ENERGY SECURITY IN SOUTHEASTERN NIGERIA: CHALLENGES, OPPORTUNITIES, AND STRATEGIC PATHWAYS](Arastirmalar/2026-Ifeachor-RENEWABLE-ENERGY-INTEGRATION-AND.md) — Ifeachor (2026) · *British Journal of Advanced Research* · hakemli
 - [Modelling annual wave-induced loss for floating photovoltaics under realistic weather conditions](Gunes-Enerjisi/Fotovoltaik/Yuzer-Fotovoltaik/Arastirmalar/2026-Nysted-Modelling-annual-wave-induced.md) — Nysted vd. (2026) · *Solar Energy* · hakemli
 - [The Use of Phase Change Materials in Ground Source Heat Pump Applications: Research Review and Future Opportunities](Jeotermal-Enerji/Toprak-Kaynakli-Isi-Pompalari/Arastirmalar/2026-Khaleel-The-Use-Phase-Change.md) — Khaleel vd. (2026) · *Energy storage and applications* · hakemli
-- [Preventing water temperature drop in a flow-rate-controlled ground source heat pump system using a lining borehole ground heat exchanger](Jeotermal-Enerji/Toprak-Kaynakli-Isi-Pompalari/Arastirmalar/2026-Suzuki-Preventing-water-temperature-drop.md) — Suzuki vd. (2026) · *Case Studies in Thermal Engineering* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar
