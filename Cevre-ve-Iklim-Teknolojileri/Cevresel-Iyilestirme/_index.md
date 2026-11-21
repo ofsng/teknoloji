@@ -78,7 +78,10 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **2**.
+
+- [Advances in Nanomaterials and Green Chemistry for Sustainable Chemical Engineering: Applications in Environmental Remediation and Energy Storage](Arastirmalar/2026-Swati-Advances-Nanomaterials-and-Green.md) — Swati vd. (2026) · *Journal of Global Social Transformation* · hakemli
+- [Recent Advances in Nanomaterials: Classification, Synthesis and Environmental Remediation](Arastirmalar/2026-Yunusov-Recent-Advances-Nanomaterials-Classifica.md) — Yunusov vd. (2026) · *Journal of Materials Science Research and Reviews* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -86,7 +89,10 @@ Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
-_Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini göstermez; ön baskılar hakemli değildir._
+Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
+
+- [Advances in Nanomaterials and Green Chemistry for Sustainable Chemical Engineering: Applications in Environmental Remediation and Energy Storage](Arastirmalar/2026-Swati-Advances-Nanomaterials-and-Green.md) — Swati vd. (2026) · *Journal of Global Social Transformation* · hakemli
+- [Recent Advances in Nanomaterials: Classification, Synthesis and Environmental Remediation](Arastirmalar/2026-Yunusov-Recent-Advances-Nanomaterials-Classifica.md) — Yunusov vd. (2026) · *Journal of Materials Science Research and Reviews* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

@@ -86,7 +86,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **7**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **8**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -96,6 +96,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [An Adaptive Compute-and-Wait Proof-of-Work Framework for Energy-Efficient and Scalable Blockchain Consensus](Dagitik-Defter-Teknolojileri/Blokzincir/Konsensus-Mekanizmalari/Proof-of-Work/Arastirmalar/2026-Kara-Adaptive-Compute-and-Wait.md) — Kara (2026) · *Network* · hakemli
 - [Secure Data Replication in Edge and Fog Computing Environments](Kenar-ve-Sis-Hesaplama/Arastirmalar/2026-Alalibo-Secure-Data-Replication-Edge.md) — Alalibo (2026) · *INTERNATIONAL JOURNAL OF COMPUTER SCIENCE AND MATHEMATICAL THEORY E-ISSN* · hakemli
 - [Energy-Aware Scheduling Using Nature-Inspired Algorithms in Cloud Computing](Bulut-Bilisim/Arastirmalar/2026-Memon-Energy-Aware-Scheduling-Using.md) — Memon vd. (2026) · *Computers* · hakemli
 - [Blockchain Integrated Decentralized Cloud Storage and Immutable Smart Contract Platform for Secure and Trustworthy Collaborative BIM](Dagitik-Defter-Teknolojileri/Blokzincir/Akilli-Sozlesmeler/Arastirmalar/2026-Sonmez-Blockchain-Integrated-Decentralized-Cloud.md) — Sönmez vd. (2026) · *Journal of Construction Engineering and Management* · hakemli

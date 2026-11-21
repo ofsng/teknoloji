@@ -83,7 +83,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -93,6 +93,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [A Comprehensive Training Course from the Production of Membrane Bound Proteins to Single Particle Cryo-Electron Microscopy 3D Reconstruction](Elektron-Mikroskobisi/Kriyo-Elektron-Mikroskobisi/Arastirmalar/2026-Valimehr-Comprehensive-Training-Course-from.md) — Valimehr vd. (2026) · *Journal of Chemical Education* · hakemli
 - [Unsupervised reward-driven image segmentation in automated scanning transmission electron microscopy experiments](Elektron-Mikroskobisi/Gecirimli-Elektron-Mikroskobisi/Arastirmalar/2026-Barakati-Unsupervised-reward-driven-image.md) — Barakati vd. (2026) · *Nanotechnology* · hakemli · atıf: 8
 <!-- AUTO:RECENT:END -->
 

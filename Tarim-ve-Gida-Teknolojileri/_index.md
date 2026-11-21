@@ -83,7 +83,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **10**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **11**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -93,6 +93,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [From Crop Residue to Groundwater: Quantifying the Transport Potential of Genetically Modified Crop-Derived Antibiotic Resistance Genes and RNA Interference Constructs in Soil](Bitki-Islahi/Genetigi-Degistirilmis-Bitkiler/Arastirmalar/2026-Contreras-From-Crop-Residue-Groundwater.md) — Contreras vd. (2026) · *ACS Agricultural Science & Technology* · hakemli
 - [Precision and Speed Breeding: Transforming Crop Improvement and Strengthening Food Security](Bitki-Islahi/Hizli-Islah/Arastirmalar/2026-Saikia-Precision-and-Speed-Breeding.md) — Saikia vd. (2026) · *Journal of Advances in Biology & Biotechnology* · hakemli
 - [Host range evaluation of Verticillium nonalfalfae isolate Vert56 used for biological control of Ailanthus altissima : grapevine cultivars exhibit resistance](Agronomi/Bitki-Koruma/Biyolojik-Mucadele/Arastirmalar/2026-Dauth-Host-range-evaluation-Verticillium.md) — Dauth vd. (2026) · *Biocontrol Science and Technology* · hakemli
 - [Ammonia excretion dynamics of the silverside (Basilichthys microlepidotus) during the juvenile-to-adult grow-out phase, under different body sizes and stocking densities in a recirculating aquaculture system (RAS)](Su-Urunleri/Devridaimli-Su-Urunleri-Sistemleri/Arastirmalar/2026-Mendez-Ammonia-excretion-dynamics-the.md) — Mendez vd. (2026) · *Latin American Journal of Aquatic Research* · hakemli
@@ -100,7 +101,6 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [Modern Breeding in Mungbean (Vigna radiata)- The Role of Marker-assisted Selection and Genomic Tools: A Review](Bitki-Islahi/Markor-Destekli-Seleksiyon/Arastirmalar/2026-Singh-Modern-Breeding-Mungbean-Vigna.md) — Singh vd. (2026) · *Legume Research - An International Journal* · hakemli
 - [Predatory Heteropteran Bugs as Potential Tools in Integrated Pest Management: A Review](Agronomi/Bitki-Koruma/Entegre-Zararli-Yonetimi/Arastirmalar/2026-Joshi-Predatory-Heteropteran-Bugs-Potential.md) — Joshi vd. (2026) · *Annual Research & Review in Biology* · hakemli
 - [Circular Economy in Animal Nutrition: Feed Valorisation, Precision Livestock Farming, and Sustainability](Hayvan-Bilimi/Hassas-Hayvancilik/Arastirmalar/2026-Papatsiros-Circular-Economy-Animal-Nutrition.md) — Papatsiros vd. (2026) · *Sci* · hakemli
-- [Integrating physiological indicators and Precision Livestock Farming to support European animal welfare frameworks: a systematic review](Hayvan-Bilimi/Hassas-Hayvancilik/Arastirmalar/2026-Pastorelli-Integrating-physiological-indicators.md) — Pastorelli vd. (2026) · *Veterinary Quarterly* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

@@ -77,7 +77,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **19**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **21**.
 
 - [Cell Therapy in Human and Veterinary Medicine: A One Health Perspective on Historical Evolution and European Regulatory Frameworks](Arastirmalar/2026-Gil-Chinchilla-Cell-Therapy-Human-and.md) — Gil-Chinchilla vd. (2026) · *Biomolecules* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -89,6 +89,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Before the CAR arrives: how neuro-oncological treatment history shapes CAR-T cell therapy in brain tumors](CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Baldo-Before-the-CAR-arrives.md) — Baldo vd. (2026) · *Frontiers in Immunology* · hakemli
 - [Identification of lead CD24 scFvs for integration into CAR T-cell therapy](CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Lysandrou-Identification-lead-CD24-scFvs.md) — Lysandrou vd. (2026) · *Frontiers in Immunology* · hakemli
 - [Advances in chimeric antigen receptor T (CAR-T) cell therapy and limitations for treating breast cancer requires next generation of CAR-T cells treatment](CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Nawaz-Advances-chimeric-antigen-receptor.md) — Nawaz vd. (2026) · *Cancer Cell International* · hakemli
 - [Hemostatic complications after CAR T-cell therapy: linking immunothrombotic mechanisms to phase-adapted management](CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Zhao-Hemostatic-complications-after-CAR.md) — Zhao vd. (2026) · *Journal of Translational Medicine* · hakemli
@@ -96,7 +97,6 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [Bridging to CD19 CAR T-cell therapy for large B-cell lymphoma: An analysis of 1,134 patients by the EBMT Lymphoma Working Party and the GoCART Coalition](CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Berning-Bridging-CD19-CAR-cell.md) — Berning vd. (2026) · *Bone Marrow Transplantation* · hakemli
 - [Feeding T cell enhancement of CAR-T cell therapy for minimal B cell malignancy: evidences from in vitro and in vivo models](CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Liu-Feeding-cell-enhancement-CAR.md) — Liu vd. (2026) · *BMC Medicine* · hakemli
 - [IP10 armoring enhances CLDN-18.2–directed CAR-T cell therapy in pancreatic cancer by promoting T cell infiltration and vascular remodeling, with additive benefits from IL-15 co-modification](CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Hu-IP10-armoring-enhances-CLDN.md) — Hu vd. (2026) · *Frontiers in Immunology* · hakemli
-- [Outcomes of CAR T cell therapy in diffuse large B cell lymphoma transformed from follicular lymphoma: a single center retrospective analysis](CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Xiong-Outcomes-CAR-cell-therapy.md) — Xiong vd. (2026) · *Frontiers in Immunology* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

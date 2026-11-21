@@ -94,7 +94,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **27**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **28**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -104,6 +104,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [HARICOT: De Novo Assembly of Raw Nanopore Signals using Fuzzy de Bruijn Graphs](Biyoenformatik-ve-Hesaplamali-Biyoloji/Dizi-Analizi/Genom-Birlestirme/Arastirmalar/2026-McConnell-HARICOT-Novo-Assembly-Raw.md) — McConnell vd. (2026) · *bioRxiv (Cold Spring Harbor Laboratory)* · ön baskı / hakemsiz
 - [Metabolic Engineering of Yarrowia lipolytica to Enhance Erythritol Biosynthesis](Endustriyel-Biyoteknoloji/Metabolik-Muhendislik/Arastirmalar/2026-Sun-Metabolic-Engineering-Yarrowia-lipolytica.md) — Sun vd. (2026) · *ACS Omega* · hakemli
 - [Protocol for CRISPR-Cas9 gene editing of murine neutrophils for in vitro and in vivo mechanistic studies](Genetik-ve-Genomik/Genom-Muhendisligi/Gen-Duzenleme/CRISPR-Cas-Sistemleri/CRISPR-Cas9/Arastirmalar/2026-Siwicki-Protocol-for-CRISPR-Cas9.md) — Siwicki vd. (2026) · *STAR Protocols* · hakemli
 - [Tuned Fitness Landscapes for Benchmarking Model-Guided Protein Design](Yapisal-Biyoloji/Protein-Tasarimi/Arastirmalar/2026-Thomas-Tuned-Fitness-Landscapes-for.md) — Thomas vd. (2026) · *Genetics* · hakemli · atıf: 7
@@ -111,7 +112,6 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [Base editing-mediated precision genome engineering in Toxoplasma gondii](Genetik-ve-Genomik/Genom-Muhendisligi/Gen-Duzenleme/CRISPR-Cas-Sistemleri/Baz-Duzenleme/Arastirmalar/2026-Liu-Base-editing-mediated-precision.md) — Liu vd. (2026) · *PLoS neglected tropical diseases* · hakemli
 - [A New Era in Therapeutics: Current Status of RNA Interference-Based Drugs](Molekuler-Biyoloji/Gen-Ifadesi-ve-Duzenlenmesi/RNA-Biyolojisi/RNA-Girisimi/Arastirmalar/2026-Koyluoglu-New-Era-Therapeutics-Current.md) — Köylüoğlu vd. (2026) · *Pharmata* · hakemli
 - [A Poisson-multinomial model for quantifying gene therapy vector integrity using quadplex digital PCR](Molekuler-Biyoloji/Polimeraz-Zincir-Reaksiyonu/Dijital-PCR/Arastirmalar/2026-Tereshko-Poisson-multinomial-model-for.md) — Tereshko vd. (2026) · *PLoS ONE* · hakemli
-- [Long-read sequencing of the Amami rabbit mitochondrial genome reveals extensive tandem repeats in the D-loop region overlooked in previous assemblies](Genetik-ve-Genomik/DNA-Dizileme/Uzun-Okuma-Dizileme/Arastirmalar/2026-Aoto-Long-read-sequencing-the.md) — Aoto vd. (2026) · *Scientific Reports* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

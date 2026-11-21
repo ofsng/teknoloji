@@ -26,7 +26,7 @@ collected_at: 2026-11-08
 last_checked_at: 2026-11-08
 content_verified: false
 identifier_verified: crossref
-retraction_checked: 2026-11-08
+retraction_checked: 2026-11-21
 ---
 
 # Human induced pluripotent stem cell ‐derived cortical neurons from monozygotic twins with the Gα o1 K278del mutation reveal disease mechanisms relevant to GNAO1 ‐related encephalopathy

@@ -85,7 +85,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **8**, alt teknolojiler dahil: **18**.
+Arşivdeki kayıtlar — bu düğüm: **8**, alt teknolojiler dahil: **19**.
 
 - [How Well Can Large Language Models Impersonate Individual Authors? A Comparative Evaluation](Arastirmalar/2026-Gupta-How-Well-Can-Large.md) — Gupta vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [AdSteer: Native Advertising in Large Language Model Generation](Arastirmalar/2026-Lin-AdSteer-Native-Advertising-Large.md) — Lin vd. (2026) · *arXiv* · ön baskı / hakemsiz
@@ -104,6 +104,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Understanding the Fundamental Design Decisions of Retrieval-Augmented Generation Systems](Erisimle-Zenginlestirilmis-Uretim/Arastirmalar/2026-Zhao-Understanding-the-Fundamental-Design.md) — Zhao vd. (2026) · *ACM Transactions on Software Engineering and Methodology* · hakemli · atıf: 49
 - [Calibration and Cross-Dataset Behavior in Malaria Microscopy with Parameter-Efficient Fine-Tuning: A Matched LoRA–PiSSA Evaluation](Parametre-Verimli-Ince-Ayar/Arastirmalar/2026-Boit-Calibration-and-Cross-Dataset.md) — Boit vd. (2026) · *Diagnostics* · hakemli
 - [FedReason: Large Language Models as Weight-Space Meta-Aggregators for Heterogeneous Federated Learning](Arastirmalar/2026-Ruzbahani-FedReason-Large-Language-Models.md) — Ruzbahani vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [Benchmarking Large Language Models on Heterogeneous Cognitive and Biomedical Knowledge Graphs: The Role of Graph Grounding in Multi-Hop Reasoning and Hallucination Mitigation](Arastirmalar/2026-Sarabadani-Benchmarking-Large-Language-Models.md) — Sarabadani vd. (2026) · *arXiv* · ön baskı / hakemsiz
@@ -111,7 +112,6 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [When, Where, How: Active In-Context Learning for Tabular Foundation Models](Baglam-Ici-Ogrenme/Arastirmalar/2026-Frey-When-Where-How-Active.md) — Frey (2026) · *arXiv* · ön baskı / hakemsiz
 - [CacheGraft: Enhancing Retrieval-Augmented Generation via Latent-Space Document Enrichment](Erisimle-Zenginlestirilmis-Uretim/Arastirmalar/2026-Lakshman-CacheGraft-Enhancing-Retrieval-Augmente.md) — Lakshman vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [ZeroRAG: Adaptive Semantic Peer Routing for Decentralized Retrieval-Augmented Generation](Erisimle-Zenginlestirilmis-Uretim/Arastirmalar/2026-Neague-ZeroRAG-Adaptive-Semantic-Peer.md) — Neague vd. (2026) · *arXiv*
-- [Embodied RAG++: Retrieval-Augmented Generation From What Exists to What Works in Embodied Scenes](Erisimle-Zenginlestirilmis-Uretim/Arastirmalar/2026-Yang-Embodied-RAG-Retrieval-Augmented.md) — Yang vd. (2026) · *arXiv* · ön baskı / hakemsiz
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

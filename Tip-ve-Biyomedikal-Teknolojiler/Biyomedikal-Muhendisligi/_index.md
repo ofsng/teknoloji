@@ -82,7 +82,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **3**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -92,6 +92,8 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Blue biomaterials: a comprehensive review of marine-derived decellularized extracellular matrices (dECM) for regenerative medicine](Rejeneratif-Tip/Arastirmalar/2026-Ye-Blue-biomaterials-comprehensive-review.md) — Ye vd. (2026) · *Blue Biotechnology* · hakemli
+- [Aligned Basement Membrane-Modified Collagen Scaffolds for Skeletal Muscle Tissue Engineering](Doku-Muhendisligi/Arastirmalar/2026-Boudreau-Aligned-Basement-Membrane-Modified.md) — Boudreau vd. (2026) · *ACS Biomaterials Science & Engineering* · hakemli
 - [Long-Term Outcomes After Left Ventricular Assist Device Exchange: Survival Rates and Postoperative Complications](Yapay-Organlar/Ventrikul-Destek-Cihazlari/Arastirmalar/2026-Kagawa-Long-Term-Outcomes-After.md) — Kagawa vd. (2026) · *Journal of Surgical Research* · hakemli
 <!-- AUTO:RECENT:END -->
 

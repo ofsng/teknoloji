@@ -76,7 +76,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -86,6 +86,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Hardware-Efficient Entanglement Distillation Using Bosonic Systems](Dolaniklik-Damitma/Arastirmalar/2026-Jacoby-Hardware-Efficient-Entanglement-Distillat.md) — Jacoby vd. (2026) · *Quantum* · hakemli
 - [Long-lived quantum memories with rare-earth ions doped in crystals](Kuantum-Bellekler/Arastirmalar/2026-Sa-Long-lived-quantum-memories.md) — Sa vd. (2026) · *Quantum Frontiers* · hakemli
 <!-- AUTO:RECENT:END -->
 

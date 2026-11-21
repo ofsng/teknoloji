@@ -218,6 +218,76 @@
   "url": "https://arxiv.org/abs/2611.07277"
  },
  {
+  "added": "2026-11-21",
+  "arxiv": null,
+  "candidates": [
+   [
+    "recommender-systems",
+    9.5
+   ],
+   [
+    "smart-contracts",
+    7.65
+   ],
+   [
+    "blockchain",
+    5.87
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.22266/ijies2026.1231.25",
+  "keys": [
+   "doi:10.22266/ijies2026.1231.25",
+   "title:ablockchainbaseddecentralizeddeepmatrixfactorizationrecommendersystem|2026"
+  ],
+  "reason": "backlog'dan: güven düştü (taksonomi değişmiş olabilir)",
+  "record": {
+   "abstract": "Recommender systems are widely used to support personalized item discovery; however, conventional centralized architectures still raise important concerns related to privacy exposure, reliance on a central authority, limited verifiability, data manipulation risks, and single-point-of-failure limitations.To address these issues, this research proposes a privacy-aware, blockchain-supported decentralized recommendation framework with off-chain recommendation computation and blockchain-based authorization and integrity verification, connecting Decentralized Communities-Deep Matrix Factorization (DC-DMF) with trusted authorized node selection, smart-contract-based announcement and finalization, and hash-based recommendation-delivery verification.The framework uses previously detected interest communities as the structural basis for community-aware recommendation computation.For each interest community, a trusted authorized node Ak is selected off-chain using social-relationship evidence from the social graph and then announced, confirmed, and finalized through a smart contract.Model training, recommendation ranking, and user-specific recommendation-package preparation are performed off-chain, while blockchain is used for authorization checks, compact hash-record storage, and delivery-integrity verification.The proposed framework was evaluated using the Douban Movie and Last.fm datasets under DMF-Whole network, CC-DMF, and DC-DMF recommendation scenarios.The results show that the voting stage was evaluated under different levels of available social-relationship evidence.Douban Movie provided limited social-relationship evidence, whereas Last.fm provided wider social-relationship evidence; however, both datasets produced finalized Ak values through the blockchain-based announcement and confirmation process.In Last.fm,DC-DMF mean Recall increased from 0.2915 at K=50 to 0.5588 at K=300, while CC-DMF mean Recall increased from 0.3473 to 0.6254.In Douban Movie, DC-DMF reported mean F1 values of 0.3129 and 0.3563 at K=10 and K=20, respectively, while CC-DMF reported mean F1 values of 0.2168 and 0.2267.In the recommendation-delivery stage, the stored delivery hashes matched the recomputed hashes of the corresponding off-chain recommendation packages, and the modification check showed that changing one recommended item in a representative package from each dataset resulted in a hash mismatch and rejection during verification.Overall, the results show that DC-DMF recommendation computation, blockchain-based community authorization, and hash-based delivery-integrity checking were integrated within the proposed on-chain/off-chain framework.",
+   "abstract_license": "cc-by-sa",
+   "arxiv": null,
+   "authors": [
+    "Ahmed M. Saheb",
+    "Huda Naji Nawaf"
+   ],
+   "categories": [
+    "OpenAlex-field:Computer Science"
+   ],
+   "cited_by_count": 0,
+   "doi": "10.22266/ijies2026.1231.25",
+   "is_retracted": false,
+   "keywords": [
+    "blockchain",
+    "deep matrix factorization",
+    "communities of interest",
+    "smart contracts",
+    "interpersonal relationships",
+    "Last.fm"
+   ],
+   "language": "en",
+   "oa_created": "2026-11-18",
+   "peer_reviewed": true,
+   "publication": "International journal of intelligent engineering and systems",
+   "publication_type": "article",
+   "published_date": "2026-12-31",
+   "related_versions": [],
+   "source_ids": [
+    "openalex:W7235341947"
+   ],
+   "title": "A Blockchain-based Decentralized Deep Matrix Factorization Recommender System",
+   "topics": [
+    "Recommender Systems and Techniques",
+    "Information Systems"
+   ],
+   "updated_date": "2026-11-20",
+   "url": "https://doi.org/10.22266/ijies2026.1231.25"
+  },
+  "score": 9.5,
+  "seen": 1,
+  "suggested": "recommender-systems",
+  "title": "A Blockchain-based Decentralized Deep Matrix Factorization Recommender System",
+  "url": "https://doi.org/10.22266/ijies2026.1231.25"
+ },
+ {
   "added": "2026-11-05",
   "arxiv": "2611.04574",
   "candidates": [
@@ -1687,6 +1757,73 @@
   "suggested": "robot-motion-planning",
   "title": "Graph-Sparse Distributed Predictive Control for Multi-Robot Motion Planning vianEdge-Consensus ADMM",
   "url": "https://arxiv.org/abs/2611.11755"
+ },
+ {
+  "added": "2026-11-21",
+  "arxiv": "2611.25336",
+  "candidates": [
+   [
+    "mixture-of-experts",
+    8.1
+   ],
+   [
+    "model-based-reinforcement-learning",
+    7.98
+   ],
+   [
+    "secure-multi-party-computation",
+    2.1
+   ],
+   [
+    "model-predictive-control",
+    1.79
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.25336",
+   "title:moremixtureofexpertsformultiphysicsroboticworldmodels|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "A robotic world model should predict how objects evolve under robot actions and physical dynamics. While recent 3D world models have shown strong predictive capabilities, they still struggle with the heterogeneous dynamics arising from diverse object interactions. To address this in a unified framework, we decompose robotic interactions into distinct physical regimes and assign each to a specialized motion expert. We introduce MoRE, a 3D world model with a mixture of motion experts organized around rigid, deformable, and prehensile dynamics. This design enables a single model to capture diverse physical behaviors while preserving regime-specific priors. Trained on mixed simulation and real-world data, MoRE integrates with Model Predictive Control (MPC) to support diverse manipulation tasks. Experiments show that MoRE improves prediction accuracy across physics regimes, leading to stronger real-world MPC performance. Code, data, and project website are available at https://alwaysleepy.github.io/MoRE-WM-site/.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.25336",
+   "authors": [
+    "Ziyu Zhu",
+    "Shaowei Liu",
+    "Albert J. Zhai",
+    "Henry Che",
+    "Wei-Chiu Ma",
+    "Shenlong Wang"
+   ],
+   "categories": [
+    "arXiv:cs.RO"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-19",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.25336"
+   ],
+   "title": "MoRE: Mixture-of-Experts for Multi-Physics Robotic World Models",
+   "topics": [],
+   "updated_date": "2026-11-19",
+   "url": "https://arxiv.org/abs/2611.25336"
+  },
+  "score": 8.1,
+  "seen": 1,
+  "suggested": "mixture-of-experts",
+  "title": "MoRE: Mixture-of-Experts for Multi-Physics Robotic World Models",
+  "url": "https://arxiv.org/abs/2611.25336"
  },
  {
   "added": "2026-11-08",
@@ -7420,6 +7557,78 @@
   "url": "https://arxiv.org/abs/2610.40184"
  },
  {
+  "added": "2026-11-21",
+  "arxiv": "2611.25373",
+  "candidates": [
+   [
+    "underwater-robots",
+    6.3
+   ],
+   [
+    "secure-multi-party-computation",
+    3.9
+   ],
+   [
+    "model-predictive-control",
+    2.29
+   ],
+   [
+    "computational-fluid-dynamics",
+    1.79
+   ],
+   [
+    "underwater-vehicles",
+    1.2
+   ],
+   [
+    "trajectory-optimization",
+    1.2
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.25373",
+   "title:differentiablehydrodynamicsforwholebodympcofunderwaterrobots|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Underwater vehicle-manipulator systems distribute actuation across thrusters and joint motors. Whole-body model predictive control (MPC), rather than separate vehicle and arm controllers, can coordinate both to extend the workspace and exploit the system's full kinematic capability. Doing so, however, requires a hydrodynamic model and derivatives throughout the prediction horizon. Computational fluid dynamics (CFD) captures geometry-dependent forces and moments for such a model, but is too expensive to evaluate online. We present a differentiable analytical hydrodynamic model combining smooth spherical-harmonic force and moment fields with a coupled added-inertia matrix identified from CFD. It compactly represents velocity and acceleration-dependent loads and provides their derivatives in closed form. These derivatives are propagated through free-floating vehicle--manipulator dynamics for whole-body trajectory optimization and receding-horizon control, jointly optimizing thruster forces and joint torques for reaching and continuous tracking. Held-out CFD tests validate the principal translational-force and rotational-moment fields and the added-inertia response. The analytical Jacobians evaluate faster and avoid the step-size sensitivity of central finite differences. Closed-loop Stonefish experiments demonstrate whole-body MPC in an independent marine simulator. By making geometry-dependent hydrodynamics directly available to gradient-based control, the model incorporates water forces and their sensitivities into motion allocation between the vehicle and arm, rather than treating them only as disturbances.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.25373",
+   "authors": [
+    "Hefan Wang",
+    "Yvan Petillot",
+    "Carlos Mastalli"
+   ],
+   "categories": [
+    "arXiv:cs.RO"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-19",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.25373"
+   ],
+   "title": "Differentiable Hydrodynamics for Whole-Body MPC of Underwater Robots",
+   "topics": [],
+   "updated_date": "2026-11-19",
+   "url": "https://arxiv.org/abs/2611.25373"
+  },
+  "score": 6.3,
+  "seen": 1,
+  "suggested": "underwater-robots",
+  "title": "Differentiable Hydrodynamics for Whole-Body MPC of Underwater Robots",
+  "url": "https://arxiv.org/abs/2611.25373"
+ },
+ {
   "added": "2026-11-14",
   "arxiv": null,
   "candidates": [
@@ -10713,193 +10922,5 @@
   "suggested": "artificial-intelligence",
   "title": "AI ethics by design: implementing customizable guardrails for responsible AI development",
   "url": "https://doi.org/10.1007/s43681-026-01492-7"
- },
- {
-  "added": "2026-11-08",
-  "arxiv": null,
-  "candidates": [
-   [
-    "machine-design",
-    4.54
-   ],
-   [
-    "mechanical-engineering",
-    3.1
-   ]
-  ],
-  "confidence": "medium",
-  "doi": null,
-  "keys": [],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "Ушбу мақолада пахта тозалаш заводларини тозалаш цехларида ўрнатилган пахта хомашёсини майда ифлосликлардан тозалайдиган машиналар конструксиялари келтирилган. Шунингдек, пахта хомашёсини майда ифлосликлардан тозаловчи машинани самарали усули таклиф этилган.",
-   "abstract_license": null,
-   "arxiv": null,
-   "authors": [
-    "Тоҳиржанова Гулноза",
-    "Абдуллаев Файзулло"
-   ],
-   "categories": [
-    "OpenAlex-field:Engineering"
-   ],
-   "cited_by_count": 0,
-   "doi": null,
-   "is_retracted": false,
-   "keywords": [
-    "cotton cleaning machines",
-    "cotton cleaning",
-    "raw cotton",
-    "impurity removal",
-    "machine design"
-   ],
-   "language": "en",
-   "oa_created": "2026-11-06",
-   "peer_reviewed": true,
-   "publication": "Latin American journal of education",
-   "publication_type": "article",
-   "published_date": "2026-11-04",
-   "related_versions": [],
-   "source_ids": [
-    "openalex:W7225364362"
-   ],
-   "title": "ЖИН МАШИНАСИДАН ЧИКАЁТГАН ТОЛАСИ БОР ЧИГИТЛАРНИ АЖРАТИБ ОЛИШНИНГ ЯНГИЧА УСУЛИ",
-   "topics": [
-    "Agricultural Engineering and Mechanization",
-    "Mechanical Engineering"
-   ],
-   "updated_date": "2026-11-07",
-   "url": "https://lajoe.org/index.php/LAJoE/article/view/2065"
-  },
-  "score": 4.54,
-  "seen": 1,
-  "suggested": "machine-design",
-  "title": "ЖИН МАШИНАСИДАН ЧИКАЁТГАН ТОЛАСИ БОР ЧИГИТЛАРНИ АЖРАТИБ ОЛИШНИНГ ЯНГИЧА УСУЛИ",
-  "url": "https://lajoe.org/index.php/LAJoE/article/view/2065"
- },
- {
-  "added": "2026-11-09",
-  "arxiv": "2601.14411",
-  "candidates": [
-   [
-    "harmonic-analysis",
-    3.24
-   ],
-   [
-    "analysis",
-    1.85
-   ]
-  ],
-  "confidence": "medium",
-  "doi": "10.1112/mtk.70138",
-  "keys": [
-   "arxiv:2601.14411",
-   "doi:10.1112/mtk.70138",
-   "title:astreamlinedproofofthekakeyasetconjectureinr3|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "Abstract We present a streamlined and simplified proof of the Kakeya set conjecture in .",
-   "abstract_license": null,
-   "arxiv": "2601.14411",
-   "authors": [
-    "Larry Guth",
-    "Hong Wang",
-    "Joshua Zahl"
-   ],
-   "categories": [
-    "OpenAlex-field:Mathematics"
-   ],
-   "cited_by_count": 12,
-   "doi": "10.1112/mtk.70138",
-   "is_retracted": false,
-   "keywords": [
-    "Kakeya sets",
-    "three-dimensional Euclidean space",
-    "Hausdorff dimension",
-    "fractal geometry"
-   ],
-   "language": "en",
-   "oa_created": "2026-01-23",
-   "peer_reviewed": true,
-   "publication": "Mathematika",
-   "publication_type": "article",
-   "published_date": "2026-11-06",
-   "related_versions": [],
-   "source_ids": [
-    "openalex:W7125397430"
-   ],
-   "title": "A streamlined proof of the Kakeya set conjecture in R3",
-   "topics": [
-    "Advanced Harmonic Analysis Research",
-    "Applied Mathematics"
-   ],
-   "updated_date": "2026-11-08",
-   "url": "https://doi.org/10.1112/mtk.70138"
-  },
-  "score": 3.24,
-  "seen": 1,
-  "suggested": "harmonic-analysis",
-  "title": "A streamlined proof of the Kakeya set conjecture in R3",
-  "url": "https://doi.org/10.1112/mtk.70138"
- },
- {
-  "added": "2026-11-14",
-  "arxiv": "2105.14541",
-  "candidates": [
-   [
-    "mathematical-physics",
-    3.1
-   ]
-  ],
-  "confidence": "medium",
-  "doi": "10.1007/s00039-026-00759-9",
-  "keys": [
-   "arxiv:2105.14541",
-   "doi:10.1007/s00039-026-00759-9",
-   "title:zimmersconjecturefornonuniformlatticesescapeofmassandgrowthofcocycles|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "We establish finiteness of low-dimensional actions of lattices in higher-rank semisimple Lie groups and establish Zimmer’s conjecture for many such groups. This builds on previous work of the authors handling the case of actions by cocompact lattices and of actions by $\\operatorname{SL}(n,\\mathbb{Z})$ . While the results are not sharp in all cases, they do dramatically improve all known results. The key difficulty overcome in this paper concerns escape of mass when taking limits of sequences of measures. Due to a need to control Lyapunov exponents for unbounded cocycles when taking such limits, quantitative controls on the concentration of mass at infinity are need and novel techniques are introduced to avoid “escape of Lyapunov exponent.”",
-   "abstract_license": "cc-by-nc-nd",
-   "arxiv": "2105.14541",
-   "authors": [
-    "Aaron Brown",
-    "David Fisher",
-    "Sebastián Hurtado"
-   ],
-   "categories": [
-    "OpenAlex-field:Mathematics"
-   ],
-   "cited_by_count": 16,
-   "doi": "10.1007/s00039-026-00759-9",
-   "is_retracted": false,
-   "keywords": [
-    "non-uniform lattices",
-    "Lyapunov exponents"
-   ],
-   "language": "en",
-   "oa_created": "2022-07-25",
-   "peer_reviewed": true,
-   "publication": "Geometric and Functional Analysis",
-   "publication_type": "article",
-   "published_date": "2026-11-11",
-   "related_versions": [],
-   "source_ids": [
-    "openalex:W4287163521"
-   ],
-   "title": "Zimmer’s Conjecture for Non-uniform Lattices: Escape of Mass and Growth of Cocycles",
-   "topics": [
-    "Mathematical Dynamics and Fractals",
-    "Mathematical Physics"
-   ],
-   "updated_date": "2026-11-13",
-   "url": "https://doi.org/10.1007/s00039-026-00759-9"
-  },
-  "score": 3.1,
-  "seen": 1,
-  "suggested": "mathematical-physics",
-  "title": "Zimmer’s Conjecture for Non-uniform Lattices: Escape of Mass and Growth of Cocycles",
-  "url": "https://doi.org/10.1007/s00039-026-00759-9"
  }
 ]

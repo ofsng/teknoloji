@@ -93,7 +93,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **36**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **38**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -103,14 +103,14 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Union3.1: Reducing Systematics in Supernova Cosmology with Self-consistent Measurements of Host Galaxy Properties for 2000 Type Ia Supernovae](Astronomi-ve-Astrofizik/Kozmoloji/Kozmik-Mikrodalga-Arka-Plan/Arastirmalar/2026-Hoyt-Union3-Reducing-Systematics-Supernova.md) — Hoyt vd. (2026) · *The Astrophysical Journal* · hakemli · atıf: 53
+- [Computational complexity of Berry phase estimation in topological phases of matter](Yogun-Madde-Fizigi/Maddenin-Topolojik-Fazlari/Arastirmalar/2026-Hayakawa-Computational-complexity-Berry-phase.md) — Hayakawa vd. (2026) · *Quantum* · hakemli · atıf: 6
 - [Realizing multi-orbital Emery models with ultracold atoms](Atom-Molekul-ve-Optik-Fizik/Ultrasoguk-Atomlar/Arastirmalar/2026-McCabe-Realizing-multi-orbital-Emery.md) — McCabe vd. (2026) · *PRX Quantum* · hakemli · atıf: 4
 - [Modelling Emergent Phenomena in Quantum Materials: Theoretical and Computational Advances in Condensed Matter Physics](Yogun-Madde-Fizigi/Arastirmalar/2026-Arshad-Modelling-Emergent-Phenomena-Quantum.md) — Arshad vd. (2026) · *Asian Journal of Advanced Research and Reports* · hakemli
 - [Loop Quantum Gravity Black Holes Surrounded by Quintessence](Genel-Gorelilik-ve-Kutlecekim/Kuantum-Kutlecekimi/Arastirmalar/2026-AlBadawi-Loop-Quantum-Gravity-Black.md) — Al‐Badawi vd. (2026) · *International Journal of Geometric Methods in Modern Physics* · hakemli · atıf: 4
 - [A Study on Comparison of Three Different Statistical Mechanics Theory](Termodinamik-ve-Istatistiksel-Fizik/Istatistiksel-Mekanik/Arastirmalar/2026-Jha-Study-Comparison-Three-Different.md) — Jha vd. (2026) · *Amrit Journal* · hakemli
 - [BCAT: A Block Causal Transformer for PDE Foundation Models for Fluid Dynamics](Akiskanlar-Dinamigi/Arastirmalar/2026-Liu-BCAT-Block-Causal-Transformer.md) — Liu vd. (2026) · *Journal of Artificial Intelligence Research* · hakemli · atıf: 21
 - [Rotating-Wave and Secular Approximations for Open Quantum Systems](Kuantum-Mekanigi/Acik-Kuantum-Sistemleri/Arastirmalar/2026-Burgarth-Rotating-Wave-and-Secular.md) — Burgarth vd. (2026) · *Quantum* · hakemli · atıf: 1
-- [Semiclassical picture of the Heisenberg spin glass in two dimensions](Yogun-Madde-Fizigi/Duzensiz-Sistemler/Arastirmalar/2026-Bracci-Testasecca-Semiclassical-picture-the-Heis.md) — Bracci-Testasecca vd. (2026) · *Physical review. B./Physical review. B* · hakemli · atıf: 4
-- [Exploring Chemical Concepts and Reactivity from Conceptual Density Functional Theory in Excited States via the ΔSCF Approach](Hesaplamali-Fizik/Yogunluk-Fonksiyoneli-Teorisi/Arastirmalar/2026-Wang-Exploring-Chemical-Concepts-and.md) — Wang vd. (2026) · *Journal of Chemical Theory and Computation* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

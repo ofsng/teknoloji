@@ -81,7 +81,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **4**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **5**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -91,6 +91,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [The influence of the 1/f component in non-invasive transcranial electrical stimulation waveforms on neural oscillations](Transkraniyal-Elektrik-Stimulasyonu/Arastirmalar/2026-Nakazono-The-influence-the-component.md) — Nakazono vd. (2026) · *Journal of NeuroEngineering and Rehabilitation* · hakemli
 - [Focused ultrasound neuromodulation of mediodorsal thalamus disrupts decision flexibility during reward learning](Odaklanmis-Ultrason-Noromodulasyonu/Arastirmalar/2026-Mackenzie-Focused-ultrasound-neuromodulation-med.md) — Mackenzie vd. (2026) · *Nature Communications* · hakemli · atıf: 2
 - [Vagus nerve stimulation in obesity: a systematic review and meta-analysis](Vagus-Siniri-Stimulasyonu/Arastirmalar/2026-Bradfield-Vagus-nerve-stimulation-obesity.md) — Bradfield vd. (2026) · *Frontiers in Neuroscience* · hakemli
 - [No Additional Benefit of 185 Hz Versus 130 Hz at Equivalent Energy in Deep Brain Stimulation for Tremor: A Randomized Prospective Clinical Trial](Derin-Beyin-Stimulasyonu/Arastirmalar/2026-Linden-Additional-Benefit-185-Versus.md) — Linden vd. (2026) · *Movement Disorders Clinical Practice* · hakemli

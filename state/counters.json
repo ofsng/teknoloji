@@ -1,48 +1,4 @@
 {
- "2026-11-13": {
-  "archived": 40,
-  "backfill": 0,
-  "by_source": {
-   "arxiv": 1,
-   "openalex": 39
-  },
-  "llm_calls": 0,
-  "llm_usd": 0.0,
-  "per_tech": {
-   "branch-and-bound": 1,
-   "car-t-cell-therapy": 2,
-   "controlled-environment-agriculture": 1,
-   "covalent-organic-frameworks": 1,
-   "disordered-systems-and-glasses": 1,
-   "embryonic-stem-cells": 3,
-   "external-beam-radiotherapy": 1,
-   "fiber-optic-gyroscopes": 1,
-   "generative-adversarial-networks": 1,
-   "hexagonal-boron-nitride": 3,
-   "high-performance-computing": 1,
-   "high-speed-imaging": 1,
-   "k-nearest-neighbors": 1,
-   "machine-translation": 1,
-   "monte-carlo-methods": 1,
-   "natural-fiber-composites": 1,
-   "next-generation-sequencing": 2,
-   "open-quantum-systems": 1,
-   "protein-language-models": 1,
-   "quantum-approximate-optimization-algorithm": 1,
-   "renewable-energy": 1,
-   "reusable-launch-vehicles": 1,
-   "self-healing-materials": 1,
-   "side-channel-attacks": 1,
-   "single-cell-analysis": 1,
-   "single-walled-carbon-nanotubes": 1,
-   "spatial-transcriptomics": 1,
-   "superconducting-nanowire-single-photon-detectors": 1,
-   "traffic-signal-control": 2,
-   "urban-air-mobility": 1,
-   "variational-quantum-eigensolver": 1,
-   "wastewater-based-epidemiology": 2
-  }
- },
  "2026-11-14": {
   "archived": 40,
   "backfill": 0,
@@ -372,6 +328,51 @@
    "uav-swarms": 1,
    "ultracold-atoms": 1,
    "vertical-axis-wind-turbines": 1
+  }
+ },
+ "2026-11-21": {
+  "archived": 40,
+  "backfill": 0,
+  "by_source": {
+   "arxiv": 1,
+   "openalex": 39
+  },
+  "llm_calls": 1,
+  "llm_usd": 0.0,
+  "per_tech": {
+   "authentication-protocols": 2,
+   "car-t-cell-therapy": 2,
+   "cosmic-microwave-background": 1,
+   "cryo-electron-microscopy": 1,
+   "empirical-software-engineering": 1,
+   "entanglement-distillation": 1,
+   "environmental-remediation": 2,
+   "genetically-modified-crops": 1,
+   "genome-assembly": 1,
+   "hydrogen-embrittlement": 1,
+   "instance-segmentation": 2,
+   "inverse-problems": 1,
+   "local-differential-privacy": 1,
+   "metallic-glasses": 1,
+   "natural-language-inference": 1,
+   "network-security": 2,
+   "neural-machine-translation": 1,
+   "prefabrication-and-modular-construction": 1,
+   "programmable-logic-controllers": 1,
+   "proof-of-work": 1,
+   "quantum-computing": 1,
+   "recommender-systems": 2,
+   "reconfigurable-manufacturing-systems": 1,
+   "regenerative-medicine": 1,
+   "retrieval-augmented-generation": 1,
+   "sheet-metal-forming": 1,
+   "task-and-motion-planning": 1,
+   "thermoelectric-materials": 2,
+   "tissue-engineering": 1,
+   "topological-phases-of-matter": 1,
+   "transcranial-electrical-stimulation": 1,
+   "underwater-vehicles": 1,
+   "virtual-private-networks": 1
   }
  }
 }

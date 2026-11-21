@@ -75,9 +75,10 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **2**.
 
 - [A generic knowledge-based model for manufacturing machine reconfiguration in reconfigurable manufacturing systems](Arastirmalar/2026-Allibe-generic-knowledge-based-model.md) — Allibe vd. (2026) · *International Journal of Production Research* · hakemli
+- [Components, Capabilities, Challenges, Characteristics of Reconfigurable Manufacturing System](Arastirmalar/2026-Hiwase-Components-Capabilities-Challenges-Charac.md) — Hiwase vd. (2026) · *International Journal of Science and Research (IJSR)* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -87,6 +88,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Components, Capabilities, Challenges, Characteristics of Reconfigurable Manufacturing System](Arastirmalar/2026-Hiwase-Components-Capabilities-Challenges-Charac.md) — Hiwase vd. (2026) · *International Journal of Science and Research (IJSR)* · hakemli
 - [A generic knowledge-based model for manufacturing machine reconfiguration in reconfigurable manufacturing systems](Arastirmalar/2026-Allibe-generic-knowledge-based-model.md) — Allibe vd. (2026) · *International Journal of Production Research* · hakemli
 <!-- AUTO:RECENT:END -->
 

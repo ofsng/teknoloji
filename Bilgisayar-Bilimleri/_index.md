@@ -90,7 +90,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **176**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **191**.
 
 - [METHODOLOGY FOR USING INTERACTIVE AND INNOVATIVE METHODS IN TEACHING COMPUTER SCIENCE](Arastirmalar/2026-Ozatovna-METHODOLOGY-FOR-USING-INTERACTIVE.md) — Ozatovna vd. (2026) · *HSR (London)* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -102,14 +102,14 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
-- [A hybrid bio-inspired and machine learning framework for adaptive congestion control and multi-objective QoS optimization in heterogeneous network](Bilgisayar-Aglari/Ag-Protokolleri/Tasima-Katmani-Protokolleri/Tikaniklik-Denetimi/Arastirmalar/2026-Jagadish-hybrid-bio-inspired-and.md) — Jagadish vd. (2026) · *Scientific Reports* · hakemli
-- [Flash: Fast, Lightweight Private Set Intersection with Malicious Security Almost for Free](Kriptografi/Guvenli-Cok-Tarafli-Hesaplama/Ozel-Kume-Kesisimi/Arastirmalar/2026-Jiang-Flash-Fast-Lightweight-Private.md) — Jiang vd. (2026) · *Journal of Machine Learning and Information Security* · hakemli
-- [Dance choreography assistance system by hierarchical reinforcement learning and its real-time interaction optimization method](Yapay-Zeka/Makine-Ogrenmesi/Pekistirmeli-Ogrenme/Hiyerarsik-Pekistirmeli-Ogrenme/Arastirmalar/2026-Hua-Dance-choreography-assistance-system.md) — Hua (2026) · *Discover Artificial Intelligence* · hakemli
-- [How Safe Are AI-Generated Patches? A Large-scale Study on Security Risks in LLM and Agentic Automated Program Repair on SWE-bench](Yazilim-Muhendisligi/Yazilim-Bakimi-ve-Evrimi/Program-Onarimi/Arastirmalar/2026-Sajadi-How-Safe-Are-Generated.md) — Sajadi vd. (2026) · *ACM Transactions on Software Engineering and Methodology* · hakemli · atıf: 25
-- [A 3D distance-augmented Gauss-Markov mobility model for QoS improvement in Mobile Ad hoc Networks](Bilgisayar-Aglari/Ad-Hoc-ve-Orgu-Aglar/Mobil-Ad-Hoc-Aglar/Arastirmalar/2026-Barbhuyan-distance-augmented-Gauss-Markov.md) — Barbhuyan vd. (2026) · *Discover Computing* · hakemli
-- [ULB: An ultra-lightweight block cipher](Kriptografi/Simetrik-Anahtarli-Kriptografi/Blok-Sifreler/Hafif-Blok-Sifreler/Arastirmalar/2026-Wang-ULB-ultra-lightweight-block.md) — Wang vd. (2026) · *PLoS ONE* · hakemli
-- [An anatomy aware Mamba framework for video based 3D human pose estimation](Yapay-Zeka/Bilgisayarli-Goru/Poz-Kestirimi/Arastirmalar/2026-Song-anatomy-aware-Mamba-framework.md) — Song vd. (2026) · *Scientific Reports* · hakemli
-- [Model-Driven Engineering for Agent-Based Modeling: A Review](Yazilim-Muhendisligi/Model-Gudumlu-Muhendislik/Arastirmalar/2026-Sanogo-Model-Driven-Engineering-for.md) — Sanogo vd. (2026) · *African Journal of Development Informatics* · hakemli
+- [Security Framework for Detection of Denial of Service (DoS) Attack on Virtual Private Networks for Efficient Data Transmission](Bilgisayar-Guvenligi/Ag-Guvenligi/Sanal-Ozel-Aglar/Arastirmalar/2026-Ede-Security-Framework-for-Detection.md) — Ede (2026) · *RESEARCH JOURNAL OF PURE SCIENCE AND TECHNOLOGY* · hakemli · atıf: 2
+- [Privacy-Utility Tradeoffs with Quantum Local Differential Privacy](Bilgisayar-Guvenligi/Gizliligi-Artiran-Teknolojiler/Diferansiyel-Gizlilik/Yerel-Diferansiyel-Gizlilik/Arastirmalar/2026-Nuradha-Privacy-Utility-Tradeoffs-with.md) — Nuradha vd. (2026) · *Quantum Science and Technology* · hakemli · atıf: 3
+- [An Adaptive Compute-and-Wait Proof-of-Work Framework for Energy-Efficient and Scalable Blockchain Consensus](Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Konsensus-Mekanizmalari/Proof-of-Work/Arastirmalar/2026-Kara-Adaptive-Compute-and-Wait.md) — Kara (2026) · *Network* · hakemli
+- [A Nonce-Bound Lightweight Mutual Authentication Protocol for UAV-Assisted Smart Mining Systems](Kriptografi/Kriptografik-Protokoller/Kimlik-Dogrulama-Protokolleri/Arastirmalar/2026-Li-Nonce-Bound-Lightweight-Mutual.md) — Li vd. (2026) · *Electronics* · hakemli
+- [Real-time instance segmentation of spine endoscopy images using a YOLO-V11 deep convolutional neural network](Yapay-Zeka/Bilgisayarli-Goru/Goruntu-Bolutleme/Ornek-Bolutleme/Arastirmalar/2026-Jung-Real-time-instance-segmentation.md) — Jung vd. (2026) · *PLoS ONE* · hakemli
+- [NatBDI: Combining BDI reasoning and natural language inference for autonomous agents](Yapay-Zeka/Dogal-Dil-Isleme/Dogal-Dil-Cikarimi/Arastirmalar/2026-Ichida-NatBDI-Combining-BDI-reasoning.md) — Ichida vd. (2026) · *Autonomous Agents and Multi-Agent Systems* · hakemli
+- [Syrian-English Neural Machine Translation Using Attention Mechanism and Ontology Enrichment](Yapay-Zeka/Dogal-Dil-Isleme/Makine-Cevirisi/Sinirsel-Makine-Cevirisi/Arastirmalar/2026-Al-Rakkad-Syrian-English-Neural-Machine.md) — Al-Rakkad vd. (2026) · *Journal of Computer-Assisted Linguistic Research* · hakemli
+- [Understanding the Fundamental Design Decisions of Retrieval-Augmented Generation Systems](Yapay-Zeka/Makine-Ogrenmesi/Temel-Modeller/Buyuk-Dil-Modelleri/Erisimle-Zenginlestirilmis-Uretim/Arastirmalar/2026-Zhao-Understanding-the-Fundamental-Design.md) — Zhao vd. (2026) · *ACM Transactions on Software Engineering and Methodology* · hakemli · atıf: 49
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

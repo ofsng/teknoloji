@@ -84,7 +84,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **9**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **10**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -95,13 +95,13 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
 - [Low-Damping and Lightweight Advantages of Suspending Inerter-Enabled Tuned Mass Dampers](Yapi-Muhendisligi/Deprem-Muhendisligi/Yapisal-Kontrol/Arastirmalar/2026-Zhao-Low-Damping-and-Lightweight.md) — Zhao vd. (2026) · *Journal of Structural Engineering* · hakemli
+- [Prefabrication and Modular Construction](Insaat-Teknolojileri/Moduler-Insaat/Arastirmalar/2026-Arthur-Prefabrication-and-Modular-Construction.md) — Arthur (2026) · *Revista Infoacceso* · hakemli
 - [Stakeholder perceptions toward green building adoption in Greater Kuala Lumpur](Yapi-Fizigi/Yesil-Bina/Arastirmalar/2026-Ramli-Stakeholder-perceptions-toward-green.md) — Ramli vd. (2026) · *International Journal of Building Pathology and Adaptation* · hakemli
 - [Experimental assessment of a disc spring–supported seismic friction damper (DSS-SFD) for reinforced concrete structures](Yapi-Muhendisligi/Betonarme-Yapilar/Arastirmalar/2026-Suk-Experimental-assessment-disc-springsupported.md) — Suk (2026) · *Journal of Vibration and Control* · hakemli
 - [Hybrid AI-Physics Modeling in Geotechnical Engineering: A Next-Generation Review of Theory-Guided Machine Learning for Smart and Resilient Infrastructure](Geoteknik-Muhendisligi/Arastirmalar/2026-Al-Jeznawi-Hybrid-Physics-Modeling-Geotechnical.md) — Al-Jeznawi vd. (2026) · *Infrastructures* · hakemli
 - [Enhancing Energy-Saving Capability in Metro Construction Within Ecologically Sensitive Areas: A Meta-Network Framework for Innovative Construction Management](Insaat-Teknolojileri/Insaat-Yonetimi/Arastirmalar/2026-Zhang-Enhancing-Energy-Saving-Capability.md) — Zhang vd. (2026) · *Sustainability* · hakemli
 - [Urban digital twins and digital twinning as a continuing planning practice](Akilli-Sehirler/Kentsel-Dijital-Ikizler/Arastirmalar/2026-Almulhim-Urban-digital-twins-and.md) — Almulhim vd. (2026) · *Frontiers in Sustainable Cities* · hakemli
 - [A conceptual framework to explain the role of building information modeling in smart cities](Insaat-Teknolojileri/Yapi-Bilgi-Modellemesi/Arastirmalar/2026-conceptual-framework-explain-the.md) — بخش vd. (2026) · *مجله حکمرانی و شهر هوشمند* · hakemli
-- [A Proposed Methodological Framework for Data-Driven Deep Learning Surrogate Modelling of Non-Revenue Water Prediction and Operational Control in Small-Sized Municipal Water Distribution Systems](Su-Kaynaklari-Muhendisligi/Su-Dagitim-Sistemleri/Arastirmalar/2026-Petro-Hernandez-Proposed-Methodological-Framewor.md) — Petro-Hernández vd. (2026) · *Algorithms* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

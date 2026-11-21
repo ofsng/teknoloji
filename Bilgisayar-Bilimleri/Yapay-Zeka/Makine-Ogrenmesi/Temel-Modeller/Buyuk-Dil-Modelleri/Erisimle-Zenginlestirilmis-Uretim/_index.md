@@ -76,8 +76,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **5**, alt teknolojiler dahil: **5**.
+Arşivdeki kayıtlar — bu düğüm: **6**, alt teknolojiler dahil: **6**.
 
+- [Understanding the Fundamental Design Decisions of Retrieval-Augmented Generation Systems](Arastirmalar/2026-Zhao-Understanding-the-Fundamental-Design.md) — Zhao vd. (2026) · *ACM Transactions on Software Engineering and Methodology* · hakemli · atıf: 49
 - [Signed but Steerable: Measuring and Closing the Text-Vector Integrity Gap in Offline Retrieval-Augmented Generation](Arastirmalar/2026-Feretzakis-Signed-but-Steerable-Measuring.md) — Feretzakis vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [CacheGraft: Enhancing Retrieval-Augmented Generation via Latent-Space Document Enrichment](Arastirmalar/2026-Lakshman-CacheGraft-Enhancing-Retrieval-Augmente.md) — Lakshman vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [ZeroRAG: Adaptive Semantic Peer Routing for Decentralized Retrieval-Augmented Generation](Arastirmalar/2026-Neague-ZeroRAG-Adaptive-Semantic-Peer.md) — Neague vd. (2026) · *arXiv*
@@ -92,6 +93,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Understanding the Fundamental Design Decisions of Retrieval-Augmented Generation Systems](Arastirmalar/2026-Zhao-Understanding-the-Fundamental-Design.md) — Zhao vd. (2026) · *ACM Transactions on Software Engineering and Methodology* · hakemli · atıf: 49
 - [CacheGraft: Enhancing Retrieval-Augmented Generation via Latent-Space Document Enrichment](Arastirmalar/2026-Lakshman-CacheGraft-Enhancing-Retrieval-Augmente.md) — Lakshman vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [ZeroRAG: Adaptive Semantic Peer Routing for Decentralized Retrieval-Augmented Generation](Arastirmalar/2026-Neague-ZeroRAG-Adaptive-Semantic-Peer.md) — Neague vd. (2026) · *arXiv*
 - [Embodied RAG++: Retrieval-Augmented Generation From What Exists to What Works in Embodied Scenes](Arastirmalar/2026-Yang-Embodied-RAG-Retrieval-Augmented.md) — Yang vd. (2026) · *arXiv* · ön baskı / hakemsiz

@@ -84,7 +84,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **9**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **10**.
 
 - [Modelling Emergent Phenomena in Quantum Materials: Theoretical and Computational Advances in Condensed Matter Physics](Arastirmalar/2026-Arshad-Modelling-Emergent-Phenomena-Quantum.md) — Arshad vd. (2026) · *Asian Journal of Advanced Research and Reports* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -96,6 +96,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Computational complexity of Berry phase estimation in topological phases of matter](Maddenin-Topolojik-Fazlari/Arastirmalar/2026-Hayakawa-Computational-complexity-Berry-phase.md) — Hayakawa vd. (2026) · *Quantum* · hakemli · atıf: 6
 - [Modelling Emergent Phenomena in Quantum Materials: Theoretical and Computational Advances in Condensed Matter Physics](Arastirmalar/2026-Arshad-Modelling-Emergent-Phenomena-Quantum.md) — Arshad vd. (2026) · *Asian Journal of Advanced Research and Reports* · hakemli
 - [Semiclassical picture of the Heisenberg spin glass in two dimensions](Duzensiz-Sistemler/Arastirmalar/2026-Bracci-Testasecca-Semiclassical-picture-the-Heis.md) — Bracci-Testasecca vd. (2026) · *Physical review. B./Physical review. B* · hakemli · atıf: 4
 - [Ion‐Modulated All‑Van Der Waals Spin–Orbit Torque Magnetic Tunnel Junctions With Multilevel Switching](Manyetizma/Spintronik/Manyetik-Tunel-Eklemleri/Arastirmalar/2026-Tian-IonModulated-AllVan-Der-Waals.md) — Tian vd. (2026) · *Advanced Functional Materials* · hakemli
@@ -103,7 +104,6 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [Robust power-law computing for edge intelligence using spin-orbit torque magnetic tunnel junctions](Manyetizma/Spintronik/Arastirmalar/2026-Xiong-Robust-power-law-computing.md) — Xiong vd. (2026) · *Applied Physics Reviews* · hakemli
 - [Cooper quartets and fractional vortices in frustrated Josephson junction dice arrays](Superiletkenlik/Josephson-Eklemleri/Arastirmalar/2026-Weerda-Cooper-quartets-and-fractional.md) — Weerda vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [Interplay of superconductivity and ferromagnetism in ferromagnetic semiconductor-based Josephson junctions](Superiletkenlik/Josephson-Eklemleri/Arastirmalar/2026-Hara-Interplay-superconductivity-and-ferromagnet.md) — Hara vd. (2026) · *arXiv* · ön baskı / hakemsiz
-- [Dynamic Instabilities and Pattern Formation in Chemotactic Active Matter](Yumusak-Yogun-Madde/Aktif-Madde/Arastirmalar/2026-Zhao-Dynamic-Instabilities-and-Pattern.md) — Zhao vd. (2026) · *arXiv* · ön baskı / hakemsiz
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

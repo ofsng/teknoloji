@@ -75,8 +75,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **2**.
 
+- [A Critical Reflection on the State of Data Analysis in Empirical Software Engineering](Arastirmalar/2026-Esposito-Critical-Reflection-the-State.md) — Esposito vd. (2026) · *ACM Transactions on Software Engineering and Methodology* · hakemli · atıf: 13
 - [Adapt the Object to the Subject: Representative Study Material for Empirical Software Engineering](Arastirmalar/2026-Unterbusch-Adapt-the-Object-the.md) — Unterbusch vd. (2026) · *arXiv* · ön baskı / hakemsiz
 <!-- AUTO:RESEARCH:END -->
 
@@ -87,6 +88,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [A Critical Reflection on the State of Data Analysis in Empirical Software Engineering](Arastirmalar/2026-Esposito-Critical-Reflection-the-State.md) — Esposito vd. (2026) · *ACM Transactions on Software Engineering and Methodology* · hakemli · atıf: 13
 - [Adapt the Object to the Subject: Representative Study Material for Empirical Software Engineering](Arastirmalar/2026-Unterbusch-Adapt-the-Object-the.md) — Unterbusch vd. (2026) · *arXiv* · ön baskı / hakemsiz
 <!-- AUTO:RECENT:END -->
 

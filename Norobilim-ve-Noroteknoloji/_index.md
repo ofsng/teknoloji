@@ -89,7 +89,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **7**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **8**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -99,6 +99,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [The influence of the 1/f component in non-invasive transcranial electrical stimulation waveforms on neural oscillations](Noromodulasyon/Transkraniyal-Elektrik-Stimulasyonu/Arastirmalar/2026-Nakazono-The-influence-the-component.md) — Nakazono vd. (2026) · *Journal of NeuroEngineering and Rehabilitation* · hakemli
 - [Focused ultrasound neuromodulation of mediodorsal thalamus disrupts decision flexibility during reward learning](Noromodulasyon/Odaklanmis-Ultrason-Noromodulasyonu/Arastirmalar/2026-Mackenzie-Focused-ultrasound-neuromodulation-med.md) — Mackenzie vd. (2026) · *Nature Communications* · hakemli · atıf: 2
 - [Revolutionizing mobility: Brain computer interfaces and their applications in prosthetics](Beyin-Bilgisayar-Arayuzleri/Arastirmalar/2026-Ryuzaki-Revolutionizing-mobility-Brain-computer.md) — Ryuzaki (2026) · *Proceedings of the Nova Scotian Institute of Science* · hakemli
 - [Neuroergonomic Comparison of User Experience and System Performance for SSVEP-Based Brain Computer Interfaces in Mixed Reality and Virtual Reality Environments](Beyin-Bilgisayar-Arayuzleri/Arastirmalar/2026-Qi-Neuroergonomic-Comparison-User-Experience.md) — Qi vd. (2026) · *International Journal of Human-Computer Interaction* · hakemli
