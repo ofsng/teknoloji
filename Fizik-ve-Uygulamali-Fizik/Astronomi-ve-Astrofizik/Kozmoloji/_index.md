@@ -77,7 +77,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **7**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **8**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -94,6 +94,7 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [Dark Energy Survey year 6 results: Cosmological constraints from galaxy clustering and weak lensing](Karanlik-Enerji/Arastirmalar/2026-Abbott-Dark-Energy-Survey-year.md) — Abbott vd. (2026) · *Physical review. D/Physical review. D.* · hakemli · atıf: 101
 - [Migdal ionization as a probe of light dark matter from nuclear transition](Karanlik-Madde/Arastirmalar/2026-Lou-Migdal-ionization-probe-light.md) — Lou vd. (2026) · *Journal of High Energy Physics* · hakemli
 - [The Role of Dark Matter in Driving Disk Perturbations: Application to LMC–SMC-like Galaxy Interactions](Karanlik-Madde/Arastirmalar/2026-Rathore-The-Role-Dark-Matter.md) — Rathore vd. (2026) · *The Astrophysical Journal* · hakemli
+- [Higgsino Dark Matter Interpretation of the LUX-ZEPLIN 248 keV Nuclear-Recoil Event](Karanlik-Madde/Arastirmalar/2026-Freese-Higgsino-Dark-Matter-Interpretation.md) — Freese vd. (2026) · *arXiv* · ön baskı / hakemsiz
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

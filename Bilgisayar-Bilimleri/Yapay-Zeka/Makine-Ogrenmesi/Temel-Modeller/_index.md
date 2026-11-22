@@ -77,7 +77,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **28**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **29**.
 
 - [SpaRRTa: A Synthetic Benchmark for Evaluating Spatial Intelligence in Visual Foundation Models](Arastirmalar/2026-Kargin-SpaRRTa-Synthetic-Benchmark-for.md) — Kargin vd. (2026) · *Int. J. Comput. Vis. 134, 521 (2026)* · hakemli
 <!-- AUTO:RESEARCH:END -->

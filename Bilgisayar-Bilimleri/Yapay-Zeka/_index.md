@@ -91,7 +91,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **123**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **129**.
 
 - [Artificial Intelligence Changes Cognition Systems](Arastirmalar/2026-Vorozhikhin-Artificial-Intelligence-Changes-Cogn.md) — Vorozhikhin vd. (2026) · *Statistics and Economics* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -103,14 +103,14 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [FuseSR+: Spatial-Temporal Fusion for High-Scale Super-Resolution](Bilgisayarli-Goru/Goruntu-Onarimi/Super-Cozunurluk/Arastirmalar/2026-Huo-FuseSR-Spatial-Temporal-Fusion.md) — Huo vd. (2026) · *ACM Transactions on Graphics* · hakemli
+- [Lossless Latent Diffusion Models](Makine-Ogrenmesi/Derin-Ogrenme/Uretken-Modeller/Difuzyon-Modelleri/Gizil-Difuzyon-Modelleri/Arastirmalar/2026-Xu-Lossless-Latent-Diffusion-Models.md) — Xu vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [Real-time instance segmentation of spine endoscopy images using a YOLO-V11 deep convolutional neural network](Bilgisayarli-Goru/Goruntu-Bolutleme/Ornek-Bolutleme/Arastirmalar/2026-Jung-Real-time-instance-segmentation.md) — Jung vd. (2026) · *PLoS ONE* · hakemli
 - [NatBDI: Combining BDI reasoning and natural language inference for autonomous agents](Dogal-Dil-Isleme/Dogal-Dil-Cikarimi/Arastirmalar/2026-Ichida-NatBDI-Combining-BDI-reasoning.md) — Ichida vd. (2026) · *Autonomous Agents and Multi-Agent Systems* · hakemli
 - [Syrian-English Neural Machine Translation Using Attention Mechanism and Ontology Enrichment](Dogal-Dil-Isleme/Makine-Cevirisi/Sinirsel-Makine-Cevirisi/Arastirmalar/2026-Al-Rakkad-Syrian-English-Neural-Machine.md) — Al-Rakkad vd. (2026) · *Journal of Computer-Assisted Linguistic Research* · hakemli
 - [Understanding the Fundamental Design Decisions of Retrieval-Augmented Generation Systems](Makine-Ogrenmesi/Temel-Modeller/Buyuk-Dil-Modelleri/Erisimle-Zenginlestirilmis-Uretim/Arastirmalar/2026-Zhao-Understanding-the-Fundamental-Design.md) — Zhao vd. (2026) · *ACM Transactions on Software Engineering and Methodology* · hakemli · atıf: 49
 - [Dance choreography assistance system by hierarchical reinforcement learning and its real-time interaction optimization method](Makine-Ogrenmesi/Pekistirmeli-Ogrenme/Hiyerarsik-Pekistirmeli-Ogrenme/Arastirmalar/2026-Hua-Dance-choreography-assistance-system.md) — Hua (2026) · *Discover Artificial Intelligence* · hakemli
 - [An anatomy aware Mamba framework for video based 3D human pose estimation](Bilgisayarli-Goru/Poz-Kestirimi/Arastirmalar/2026-Song-anatomy-aware-Mamba-framework.md) — Song vd. (2026) · *Scientific Reports* · hakemli
-- [Constrained Actionable Counterfactual Explanations With Economic Cost Optimization for Algorithmic Recourse in Credit Scoring Systems](Aciklanabilir-Yapay-Zeka/Karsi-Olgusal-Aciklamalar/Arastirmalar/2026-Ikermane-Constrained-Actionable-Counterfactual-E.md) — Ikermane vd. (2026) · *Expert Systems* · hakemli
-- [Plane-Informed Dynamic Visual SLAM in Low-Texture Indoor Construction Environments](Bilgisayarli-Goru/Gorsel-SLAM/Arastirmalar/2026-Li-Plane-Informed-Dynamic-Visual.md) — Li vd. (2026) · *Journal of Computing in Civil Engineering* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

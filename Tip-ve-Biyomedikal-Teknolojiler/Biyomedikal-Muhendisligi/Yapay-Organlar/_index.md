@@ -77,7 +77,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -87,6 +87,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Advanced Hybrid Closed-Loop Insulin Delivery System in Asian Patients With Type 1 Diabetes: Exploratory Study](Yapay-Pankreas/Arastirmalar/2026-Zeng-Advanced-Hybrid-Closed-Loop.md) — Zeng vd. (2026) · *JMIR Formative Research* · hakemli
 - [Long-Term Outcomes After Left Ventricular Assist Device Exchange: Survival Rates and Postoperative Complications](Ventrikul-Destek-Cihazlari/Arastirmalar/2026-Kagawa-Long-Term-Outcomes-After.md) — Kagawa vd. (2026) · *Journal of Surgical Research* · hakemli
 <!-- AUTO:RECENT:END -->
 

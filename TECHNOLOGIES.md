@@ -91,7 +91,7 @@ Ana disiplinler:
         - [Yönlendirme Protokolleri](Bilgisayar-Bilimleri/Bilgisayar-Aglari/Ag-Protokolleri/Ag-Katmani-Protokolleri/Yonlendirme-Protokolleri/_index.md) — *Routing Protocols*
           - [Çok Noktaya Yayın Yönlendirme](Bilgisayar-Bilimleri/Bilgisayar-Aglari/Ag-Protokolleri/Ag-Katmani-Protokolleri/Yonlendirme-Protokolleri/Cok-Noktaya-Yayin-Yonlendirme/_index.md) — *Multicast Routing*
           - [İç Ağ Geçidi Protokolleri](Bilgisayar-Bilimleri/Bilgisayar-Aglari/Ag-Protokolleri/Ag-Katmani-Protokolleri/Yonlendirme-Protokolleri/Ic-Ag-Gecidi-Protokolleri/_index.md) — *Interior Gateway Protocols*
-            - [Bağlantı Durumu Yönlendirme](Bilgisayar-Bilimleri/Bilgisayar-Aglari/Ag-Protokolleri/Ag-Katmani-Protokolleri/Yonlendirme-Protokolleri/Ic-Ag-Gecidi-Protokolleri/Baglanti-Durumu-Yonlendirme/_index.md) — *Link-State Routing*
+            - [Bağlantı Durumu Yönlendirme](Bilgisayar-Bilimleri/Bilgisayar-Aglari/Ag-Protokolleri/Ag-Katmani-Protokolleri/Yonlendirme-Protokolleri/Ic-Ag-Gecidi-Protokolleri/Baglanti-Durumu-Yonlendirme/_index.md) — *Link-State Routing* `[1 araştırma]`
             - [Uzaklık Vektörü Yönlendirme](Bilgisayar-Bilimleri/Bilgisayar-Aglari/Ag-Protokolleri/Ag-Katmani-Protokolleri/Yonlendirme-Protokolleri/Ic-Ag-Gecidi-Protokolleri/Uzaklik-Vektoru-Yonlendirme/_index.md) — *Distance-Vector Routing*
           - [Segment Yönlendirme](Bilgisayar-Bilimleri/Bilgisayar-Aglari/Ag-Protokolleri/Ag-Katmani-Protokolleri/Yonlendirme-Protokolleri/Segment-Yonlendirme/_index.md) — *Segment Routing*
           - [Sınır Ağ Geçidi Protokolü](Bilgisayar-Bilimleri/Bilgisayar-Aglari/Ag-Protokolleri/Ag-Katmani-Protokolleri/Yonlendirme-Protokolleri/Sinir-Ag-Gecidi-Protokolu/_index.md) — *Border Gateway Protocol*
@@ -348,7 +348,7 @@ Ana disiplinler:
       - [Tanımlama Mantıkları](Bilgisayar-Bilimleri/Hesaplama-Kurami/Bilgisayar-Biliminde-Mantik/Tanimlama-Mantiklari/_index.md) — *Description Logics*
       - [Zamansal Mantık](Bilgisayar-Bilimleri/Hesaplama-Kurami/Bilgisayar-Biliminde-Mantik/Zamansal-Mantik/_index.md) — *Temporal Logic*
     - [Hesaplamalı Karmaşıklık Teorisi](Bilgisayar-Bilimleri/Hesaplama-Kurami/Hesaplamali-Karmasiklik-Teorisi/_index.md) — *Computational Complexity Theory*
-      - [Devre Karmaşıklığı](Bilgisayar-Bilimleri/Hesaplama-Kurami/Hesaplamali-Karmasiklik-Teorisi/Devre-Karmasikligi/_index.md) — *Circuit Complexity*
+      - [Devre Karmaşıklığı](Bilgisayar-Bilimleri/Hesaplama-Kurami/Hesaplamali-Karmasiklik-Teorisi/Devre-Karmasikligi/_index.md) — *Circuit Complexity* `[1 araştırma]`
       - [Etkileşimli İspat Sistemleri](Bilgisayar-Bilimleri/Hesaplama-Kurami/Hesaplamali-Karmasiklik-Teorisi/Etkilesimli-Ispat-Sistemleri/_index.md) — *Interactive Proof Systems*
         - [Olasılıksal Denetlenebilir İspatlar](Bilgisayar-Bilimleri/Hesaplama-Kurami/Hesaplamali-Karmasiklik-Teorisi/Etkilesimli-Ispat-Sistemleri/Olasiliksal-Denetlenebilir-Ispatlar/_index.md) — *Probabilistically Checkable Proofs*
       - [İletişim Karmaşıklığı](Bilgisayar-Bilimleri/Hesaplama-Kurami/Hesaplamali-Karmasiklik-Teorisi/Iletisim-Karmasikligi/_index.md) — *Communication Complexity*
@@ -531,7 +531,7 @@ Ana disiplinler:
         - [İçerik Tabanlı Filtreleme](Bilgisayar-Bilimleri/Veritabanlari-ve-Bilgi-Sistemleri/Bilgi-Erisimi/Oneri-Sistemleri/Icerik-Tabanli-Filtreleme/_index.md) — *Content-Based Filtering* `[1 araştırma]`
         - [İşbirlikçi Filtreleme](Bilgisayar-Bilimleri/Veritabanlari-ve-Bilgi-Sistemleri/Bilgi-Erisimi/Oneri-Sistemleri/Isbirlikci-Filtreleme/_index.md) — *Collaborative Filtering* `[1 araştırma]`
           - [Öneri için Matris Ayrıştırma](Bilgisayar-Bilimleri/Veritabanlari-ve-Bilgi-Sistemleri/Bilgi-Erisimi/Oneri-Sistemleri/Isbirlikci-Filtreleme/Oneri-Matris-Ayristirma/_index.md) — *Matrix Factorization for Recommendation*
-        - [Sıralı Öneri](Bilgisayar-Bilimleri/Veritabanlari-ve-Bilgi-Sistemleri/Bilgi-Erisimi/Oneri-Sistemleri/Sirali-Oneri/_index.md) — *Sequential Recommendation*
+        - [Sıralı Öneri](Bilgisayar-Bilimleri/Veritabanlari-ve-Bilgi-Sistemleri/Bilgi-Erisimi/Oneri-Sistemleri/Sirali-Oneri/_index.md) — *Sequential Recommendation* `[1 araştırma]`
       - [Sıralamayı Öğrenme](Bilgisayar-Bilimleri/Veritabanlari-ve-Bilgi-Sistemleri/Bilgi-Erisimi/Siralamayi-Ogrenme/_index.md) — *Learning to Rank* `[1 araştırma]`
       - [Web Arama](Bilgisayar-Bilimleri/Veritabanlari-ve-Bilgi-Sistemleri/Bilgi-Erisimi/Web-Arama/_index.md) — *Web Search*
         - [Bağlantı Analizi](Bilgisayar-Bilimleri/Veritabanlari-ve-Bilgi-Sistemleri/Bilgi-Erisimi/Web-Arama/Baglanti-Analizi/_index.md) — *Link Analysis*
@@ -619,7 +619,7 @@ Ana disiplinler:
         - [Panoptik Bölütleme](Bilgisayar-Bilimleri/Yapay-Zeka/Bilgisayarli-Goru/Goruntu-Bolutleme/Panoptik-Bolutleme/_index.md) — *Panoptic Segmentation*
       - [Görüntü Onarımı](Bilgisayar-Bilimleri/Yapay-Zeka/Bilgisayarli-Goru/Goruntu-Onarimi/_index.md) — *Image Restoration*
         - [Görüntü Gürültü Giderme](Bilgisayar-Bilimleri/Yapay-Zeka/Bilgisayarli-Goru/Goruntu-Onarimi/Goruntu-Gurultu-Giderme/_index.md) — *Image Denoising*
-        - [Süper Çözünürlük](Bilgisayar-Bilimleri/Yapay-Zeka/Bilgisayarli-Goru/Goruntu-Onarimi/Super-Cozunurluk/_index.md) — *Super-Resolution*
+        - [Süper Çözünürlük](Bilgisayar-Bilimleri/Yapay-Zeka/Bilgisayarli-Goru/Goruntu-Onarimi/Super-Cozunurluk/_index.md) — *Super-Resolution* `[1 araştırma]`
       - [Görüntü Sınıflandırma](Bilgisayar-Bilimleri/Yapay-Zeka/Bilgisayarli-Goru/Goruntu-Siniflandirma/_index.md) — *Image Classification* `[1 araştırma]`
       - [Nesne Takibi](Bilgisayar-Bilimleri/Yapay-Zeka/Bilgisayarli-Goru/Nesne-Takibi/_index.md) — *Object Tracking*
       - [Nesne Tespiti](Bilgisayar-Bilimleri/Yapay-Zeka/Bilgisayarli-Goru/Nesne-Tespiti/_index.md) — *Object Detection* `[1 araştırma]`
@@ -692,7 +692,7 @@ Ana disiplinler:
       - [Nöroevrim](Bilgisayar-Bilimleri/Yapay-Zeka/Evrimsel-Hesaplama/Noroevrim/_index.md) — *Neuroevolution*
     - [Güvenilir Yapay Zeka](Bilgisayar-Bilimleri/Yapay-Zeka/Guvenilir-Yapay-Zeka/_index.md) — *Trustworthy AI*
       - [Çekişmeli Makine Öğrenmesi](Bilgisayar-Bilimleri/Yapay-Zeka/Guvenilir-Yapay-Zeka/Cekismeli-Makine-Ogrenmesi/_index.md) — *Adversarial Machine Learning*
-        - [Çekişmeli Örnekler](Bilgisayar-Bilimleri/Yapay-Zeka/Guvenilir-Yapay-Zeka/Cekismeli-Makine-Ogrenmesi/Cekismeli-Ornekler/_index.md) — *Adversarial Examples*
+        - [Çekişmeli Örnekler](Bilgisayar-Bilimleri/Yapay-Zeka/Guvenilir-Yapay-Zeka/Cekismeli-Makine-Ogrenmesi/Cekismeli-Ornekler/_index.md) — *Adversarial Examples* `[1 araştırma]`
         - [Model Çıkarma ve Tersine Çevirme Saldırıları](Bilgisayar-Bilimleri/Yapay-Zeka/Guvenilir-Yapay-Zeka/Cekismeli-Makine-Ogrenmesi/Model-Cikarma-Saldirilari/_index.md) — *Model Extraction and Inversion Attacks*
         - [Sertifikalı Gürbüzlük](Bilgisayar-Bilimleri/Yapay-Zeka/Guvenilir-Yapay-Zeka/Cekismeli-Makine-Ogrenmesi/Sertifikali-Gurbuzluk/_index.md) — *Certified Robustness*
         - [Veri Zehirleme](Bilgisayar-Bilimleri/Yapay-Zeka/Guvenilir-Yapay-Zeka/Cekismeli-Makine-Ogrenmesi/Veri-Zehirleme/_index.md) — *Data Poisoning*
@@ -730,7 +730,7 @@ Ana disiplinler:
           - [Eşdeğişimli Sinir Ağları](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Cizge-Sinir-Aglari/Esdegisimli-Sinir-Aglari/_index.md) — *Equivariant Neural Networks*
           - [Mesaj Geçirmeli Sinir Ağları](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Cizge-Sinir-Aglari/Mesaj-Gecirmeli-Sinir-Aglari/_index.md) — *Message Passing Neural Networks*
         - [Dikkat Mekanizmaları](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Dikkat-Mekanizmalari/_index.md) — *Attention Mechanisms*
-          - [Öz-Dikkat](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Dikkat-Mekanizmalari/Oz-Dikkat/_index.md) — *Self-Attention*
+          - [Öz-Dikkat](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Dikkat-Mekanizmalari/Oz-Dikkat/_index.md) — *Self-Attention* `[1 araştırma]`
           - [Verimli Dikkat](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Dikkat-Mekanizmalari/Verimli-Dikkat/_index.md) — *Efficient Attention*
         - [Durum Uzayı Dizi Modelleri](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Durum-Uzayi-Dizi-Modelleri/_index.md) — *State Space Sequence Models* `[emerging]`
         - [Evrişimli Sinir Ağları](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Evrisimli-Sinir-Aglari/_index.md) — *Convolutional Neural Networks* `[1 araştırma]`
@@ -763,7 +763,7 @@ Ana disiplinler:
           - [Çekişmeli Üretici Ağlar](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Uretken-Modeller/Cekismeli-Uretici-Aglar/_index.md) — *Generative Adversarial Networks* `[1 araştırma]`
           - [Difüzyon Modelleri](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Uretken-Modeller/Difuzyon-Modelleri/_index.md) — *Diffusion Models*
             - [Akış Eşleme](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Uretken-Modeller/Difuzyon-Modelleri/Akis-Esleme/_index.md) — *Flow Matching* `[emerging, 1 araştırma]`
-            - [Gizil Difüzyon Modelleri](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Uretken-Modeller/Difuzyon-Modelleri/Gizil-Difuzyon-Modelleri/_index.md) — *Latent Diffusion Models*
+            - [Gizil Difüzyon Modelleri](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Uretken-Modeller/Difuzyon-Modelleri/Gizil-Difuzyon-Modelleri/_index.md) — *Latent Diffusion Models* `[1 araştırma]`
             - [Gürültü Giderici Difüzyon Olasılıksal Modelleri](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Uretken-Modeller/Difuzyon-Modelleri/DDPM/_index.md) — *Denoising Diffusion Probabilistic Models*
             - [Skor Tabanlı Üretken Modeller](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Uretken-Modeller/Difuzyon-Modelleri/Skor-Tabanli-Uretken-Modeller/_index.md) — *Score-Based Generative Models*
           - [Enerji Tabanlı Modeller](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Uretken-Modeller/Enerji-Tabanli-Modeller/_index.md) — *Energy-Based Models*
@@ -808,7 +808,7 @@ Ana disiplinler:
         - [Gizli Markov Modelleri](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Olasiliksal-Grafik-Modeller/Gizli-Markov-Modelleri/_index.md) — *Hidden Markov Models*
         - [Koşullu Rastgele Alanlar](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Olasiliksal-Grafik-Modeller/Kosullu-Rastgele-Alanlar/_index.md) — *Conditional Random Fields*
       - [Otomatik Makine Öğrenmesi](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Otomatik-Makine-Ogrenmesi/_index.md) — *Automated Machine Learning*
-        - [Hiperparametre Optimizasyonu](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Otomatik-Makine-Ogrenmesi/Hiperparametre-Optimizasyonu/_index.md) — *Hyperparameter Optimization*
+        - [Hiperparametre Optimizasyonu](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Otomatik-Makine-Ogrenmesi/Hiperparametre-Optimizasyonu/_index.md) — *Hyperparameter Optimization* `[1 araştırma]`
       - [Öz-Gözetimli Öğrenme](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Oz-Gozetimli-Ogrenme/_index.md) — *Self-Supervised Learning* `[1 araştırma]`
         - [Karşıtlıklı Öğrenme](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Oz-Gozetimli-Ogrenme/Karsitlikli-Ogrenme/_index.md) — *Contrastive Learning* `[1 araştırma]`
         - [Maskeli Modelleme](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Oz-Gozetimli-Ogrenme/Maskeli-Modelleme/_index.md) — *Masked Modeling*
@@ -828,7 +828,7 @@ Ana disiplinler:
         - [Ters Pekiştirmeli Öğrenme](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Pekistirmeli-Ogrenme/Ters-Pekistirmeli-Ogrenme/_index.md) — *Inverse Reinforcement Learning* `[1 araştırma]`
       - [Sürekli Öğrenme](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Surekli-Ogrenme/_index.md) — *Continual Learning* `[1 araştırma]`
       - [Temel Modeller](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Temel-Modeller/_index.md) — *Foundation Models* `[emerging, 1 araştırma]`
-        - [Büyük Dil Modelleri](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Temel-Modeller/Buyuk-Dil-Modelleri/_index.md) — *Large Language Models* `[8 araştırma]`
+        - [Büyük Dil Modelleri](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Temel-Modeller/Buyuk-Dil-Modelleri/_index.md) — *Large Language Models* `[9 araştırma]`
           - [Bağlam İçi Öğrenme](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Temel-Modeller/Buyuk-Dil-Modelleri/Baglam-Ici-Ogrenme/_index.md) — *In-Context Learning* `[1 araştırma]`
           - [Erişimle Zenginleştirilmiş Üretim](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Temel-Modeller/Buyuk-Dil-Modelleri/Erisimle-Zenginlestirilmis-Uretim/_index.md) — *Retrieval-Augmented Generation* `[6 araştırma]`
           - [LLM Akıl Yürütme Yöntemleri](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Temel-Modeller/Buyuk-Dil-Modelleri/LLM-Akil-Yurutme-Yontemleri/_index.md) — *LLM Reasoning Methods* `[emerging]`
@@ -1061,7 +1061,7 @@ Ana disiplinler:
     - [Su Kalitesi İzleme](Cevre-ve-Iklim-Teknolojileri/Cevresel-Izleme/Su-Kalitesi-Izleme/_index.md) — *Water Quality Monitoring* `[1 araştırma]`
   - [Endüstriyel Ekoloji ve Döngüsel Ekonomi](Cevre-ve-Iklim-Teknolojileri/Dongusel-Ekonomi/_index.md) — *Industrial Ecology and Circular Economy*
   - [Hava Kirliliği Kontrolü](Cevre-ve-Iklim-Teknolojileri/Hava-Kirliligi-Kontrolu/_index.md) — *Air Pollution Control*
-    - [Baca Gazı Kükürt Giderimi](Cevre-ve-Iklim-Teknolojileri/Hava-Kirliligi-Kontrolu/Baca-Gazi-Kukurt-Giderimi/_index.md) — *Flue Gas Desulfurization*
+    - [Baca Gazı Kükürt Giderimi](Cevre-ve-Iklim-Teknolojileri/Hava-Kirliligi-Kontrolu/Baca-Gazi-Kukurt-Giderimi/_index.md) — *Flue Gas Desulfurization* `[1 araştırma]`
     - [İç Ortam Hava Temizleme](Cevre-ve-Iklim-Teknolojileri/Hava-Kirliligi-Kontrolu/Ic-Ortam-Hava-Temizleme/_index.md) — *Indoor Air Purification*
     - [Katalitik Konvertörler](Cevre-ve-Iklim-Teknolojileri/Hava-Kirliligi-Kontrolu/Katalitik-Konvertorler/_index.md) — *Catalytic Converters*
     - [NOx Kontrol Teknolojileri](Cevre-ve-Iklim-Teknolojileri/Hava-Kirliligi-Kontrolu/NOx-Kontrol-Teknolojileri/_index.md) — *NOx Control Technologies*
@@ -1076,7 +1076,7 @@ Ana disiplinler:
     - [Karbondioksit Giderimi](Cevre-ve-Iklim-Teknolojileri/Karbon-Yonetimi/Karbondioksit-Giderimi/_index.md) — *Carbon Dioxide Removal*
       - [Biyokömür](Cevre-ve-Iklim-Teknolojileri/Karbon-Yonetimi/Karbondioksit-Giderimi/Biyokomur/_index.md) — *Biochar*
       - [Hızlandırılmış Kaya Ayrışması](Cevre-ve-Iklim-Teknolojileri/Karbon-Yonetimi/Karbondioksit-Giderimi/Hizlandirilmis-Kaya-Ayrismasi/_index.md) — *Enhanced Rock Weathering* `[emerging, 1 araştırma]`
-      - [Karbon Yakalamalı Biyoenerji](Cevre-ve-Iklim-Teknolojileri/Karbon-Yonetimi/Karbondioksit-Giderimi/BECCS/_index.md) — *Bioenergy with Carbon Capture and Storage*
+      - [Karbon Yakalamalı Biyoenerji](Cevre-ve-Iklim-Teknolojileri/Karbon-Yonetimi/Karbondioksit-Giderimi/BECCS/_index.md) — *Bioenergy with Carbon Capture and Storage* `[1 araştırma]`
       - [Okyanus Alkalinite Artırımı](Cevre-ve-Iklim-Teknolojileri/Karbon-Yonetimi/Karbondioksit-Giderimi/Okyanus-Alkalinite-Artirimi/_index.md) — *Ocean Alkalinity Enhancement* `[emerging, güven: medium, 1 araştırma]`
     - [Karbon Kullanımı](Cevre-ve-Iklim-Teknolojileri/Karbon-Yonetimi/Karbon-Kullanimi/_index.md) — *Carbon Utilization*
     - [Karbon Muhasebesi ve MRV](Cevre-ve-Iklim-Teknolojileri/Karbon-Yonetimi/Karbon-Muhasebesi/_index.md) — *Carbon Accounting and MRV*
@@ -1098,7 +1098,7 @@ Ana disiplinler:
     - [Atık Su Arıtma](Cevre-ve-Iklim-Teknolojileri/Su-Aritma/Atik-Su-Aritma/_index.md) — *Wastewater Treatment* `[1 araştırma]`
       - [Aktif Çamur Süreci](Cevre-ve-Iklim-Teknolojileri/Su-Aritma/Atik-Su-Aritma/Aktif-Camur-Sureci/_index.md) — *Activated Sludge Process*
       - [Anaerobik Atık Su Arıtma](Cevre-ve-Iklim-Teknolojileri/Su-Aritma/Atik-Su-Aritma/Anaerobik-Atik-Su-Aritma/_index.md) — *Anaerobic Wastewater Treatment*
-      - [Besin Elementi Giderimi](Cevre-ve-Iklim-Teknolojileri/Su-Aritma/Atik-Su-Aritma/Besin-Elementi-Giderimi/_index.md) — *Nutrient Removal*
+      - [Besin Elementi Giderimi](Cevre-ve-Iklim-Teknolojileri/Su-Aritma/Atik-Su-Aritma/Besin-Elementi-Giderimi/_index.md) — *Nutrient Removal* `[1 araştırma]`
       - [Membran Biyoreaktörler](Cevre-ve-Iklim-Teknolojileri/Su-Aritma/Atik-Su-Aritma/Membran-Biyoreaktorler/_index.md) — *Membrane Bioreactors*
     - [İçme Suyu Arıtma](Cevre-ve-Iklim-Teknolojileri/Su-Aritma/Icme-Suyu-Aritma/_index.md) — *Drinking Water Treatment* `[3 araştırma]`
       - [Dezenfeksiyon Teknolojileri](Cevre-ve-Iklim-Teknolojileri/Su-Aritma/Icme-Suyu-Aritma/Dezenfeksiyon-Teknolojileri/_index.md) — *Disinfection Technologies*
@@ -1117,7 +1117,7 @@ Ana disiplinler:
 - [Elektrik ve Elektronik Mühendisliği](Elektrik-ve-Elektronik-Muhendisligi/_index.md) — *Electrical and Electronic Engineering*
   - [Analog ve Sayısal Elektronik](Elektrik-ve-Elektronik-Muhendisligi/Analog-ve-Sayisal-Elektronik/_index.md) — *Analog and Digital Electronics*
     - [Baskılı Devre Kartı Tasarımı](Elektrik-ve-Elektronik-Muhendisligi/Analog-ve-Sayisal-Elektronik/Baskili-Devre-Karti-Tasarimi/_index.md) — *Printed Circuit Board Design*
-      - [Güç Bütünlüğü](Elektrik-ve-Elektronik-Muhendisligi/Analog-ve-Sayisal-Elektronik/Baskili-Devre-Karti-Tasarimi/Guc-Butunlugu/_index.md) — *Power Integrity*
+      - [Güç Bütünlüğü](Elektrik-ve-Elektronik-Muhendisligi/Analog-ve-Sayisal-Elektronik/Baskili-Devre-Karti-Tasarimi/Guc-Butunlugu/_index.md) — *Power Integrity* `[1 araştırma]`
       - [Sinyal Bütünlüğü](Elektrik-ve-Elektronik-Muhendisligi/Analog-ve-Sayisal-Elektronik/Baskili-Devre-Karti-Tasarimi/Sinyal-Butunlugu/_index.md) — *Signal Integrity*
     - [Kuvvetlendiriciler](Elektrik-ve-Elektronik-Muhendisligi/Analog-ve-Sayisal-Elektronik/Kuvvetlendiriciler/_index.md) — *Amplifiers*
     - [Osilatörler](Elektrik-ve-Elektronik-Muhendisligi/Analog-ve-Sayisal-Elektronik/Osilatorler/_index.md) — *Oscillators*
@@ -1235,7 +1235,7 @@ Ana disiplinler:
       - [Donanım Tanımlama Dilleri](Elektrik-ve-Elektronik-Muhendisligi/Entegre-Devre-Tasarimi/Sayisal-Entegre-Devre-Tasarimi/Donanim-Tanimlama-Dilleri/_index.md) — *Hardware Description Languages*
       - [Düşük Güç Tasarım Teknikleri](Elektrik-ve-Elektronik-Muhendisligi/Entegre-Devre-Tasarimi/Sayisal-Entegre-Devre-Tasarimi/Dusuk-Guc-Tasarim-Teknikleri/_index.md) — *Low-Power Design Techniques*
       - [Fiziksel Tasarım](Elektrik-ve-Elektronik-Muhendisligi/Entegre-Devre-Tasarimi/Sayisal-Entegre-Devre-Tasarimi/Fiziksel-Tasarim/_index.md) — *Physical Design*
-      - [Mantık Sentezi](Elektrik-ve-Elektronik-Muhendisligi/Entegre-Devre-Tasarimi/Sayisal-Entegre-Devre-Tasarimi/Mantik-Sentezi/_index.md) — *Logic Synthesis*
+      - [Mantık Sentezi](Elektrik-ve-Elektronik-Muhendisligi/Entegre-Devre-Tasarimi/Sayisal-Entegre-Devre-Tasarimi/Mantik-Sentezi/_index.md) — *Logic Synthesis* `[1 araştırma]`
       - [Statik Zamanlama Analizi](Elektrik-ve-Elektronik-Muhendisligi/Entegre-Devre-Tasarimi/Sayisal-Entegre-Devre-Tasarimi/Statik-Zamanlama-Analizi/_index.md) — *Static Timing Analysis*
       - [Yüksek Seviye Sentez](Elektrik-ve-Elektronik-Muhendisligi/Entegre-Devre-Tasarimi/Sayisal-Entegre-Devre-Tasarimi/Yuksek-Seviye-Sentez/_index.md) — *High-Level Synthesis*
     - [Yonga Üstü Sistem Tasarımı](Elektrik-ve-Elektronik-Muhendisligi/Entegre-Devre-Tasarimi/Yonga-Ustu-Sistem-Tasarimi/_index.md) — *System-on-Chip Design*
@@ -1252,7 +1252,7 @@ Ana disiplinler:
       - [Endüktif Güç Aktarımı](Elektrik-ve-Elektronik-Muhendisligi/Guc-Elektronigi/Kablosuz-Guc-Aktarimi/Enduktif-Guc-Aktarimi/_index.md) — *Inductive Power Transfer* `[1 araştırma]`
       - [Kapasitif Güç Aktarımı](Elektrik-ve-Elektronik-Muhendisligi/Guc-Elektronigi/Kablosuz-Guc-Aktarimi/Kapasitif-Guc-Aktarimi/_index.md) — *Capacitive Power Transfer*
     - [Katı Hal Transformatörleri](Elektrik-ve-Elektronik-Muhendisligi/Guc-Elektronigi/Kati-Hal-Transformatorleri/_index.md) — *Solid-State Transformers* `[emerging, 1 araştırma]`
-    - [Motor Sürücüler](Elektrik-ve-Elektronik-Muhendisligi/Guc-Elektronigi/Motor-Suruculer/_index.md) — *Motor Drives*
+    - [Motor Sürücüler](Elektrik-ve-Elektronik-Muhendisligi/Guc-Elektronigi/Motor-Suruculer/_index.md) — *Motor Drives* `[2 araştırma]`
       - [Alan Yönlendirmeli Kontrol](Elektrik-ve-Elektronik-Muhendisligi/Guc-Elektronigi/Motor-Suruculer/Alan-Yonlendirmeli-Kontrol/_index.md) — *Field-Oriented Control* `[1 araştırma]`
       - [Doğrudan Moment Kontrolü](Elektrik-ve-Elektronik-Muhendisligi/Guc-Elektronigi/Motor-Suruculer/Dogrudan-Moment-Kontrolu/_index.md) — *Direct Torque Control* `[1 araştırma]`
   - [Sinyal İşleme](Elektrik-ve-Elektronik-Muhendisligi/Sinyal-Isleme/_index.md) — *Signal Processing*
@@ -1329,7 +1329,7 @@ Ana disiplinler:
 
 - [Enerji Teknolojileri](Enerji-Teknolojileri/_index.md) — *Energy Technologies* `[1 araştırma]`
   - [Enerji Depolama](Enerji-Teknolojileri/Enerji-Depolama/_index.md) — *Energy Storage* `[1 araştırma]`
-    - [Elektrokimyasal Enerji Depolama](Enerji-Teknolojileri/Enerji-Depolama/Elektrokimyasal-Enerji-Depolama/_index.md) — *Electrochemical Energy Storage*
+    - [Elektrokimyasal Enerji Depolama](Enerji-Teknolojileri/Enerji-Depolama/Elektrokimyasal-Enerji-Depolama/_index.md) — *Electrochemical Energy Storage* `[1 araştırma]`
       - [Akış Bataryaları](Enerji-Teknolojileri/Enerji-Depolama/Elektrokimyasal-Enerji-Depolama/Akis-Bataryalari/_index.md) — *Flow Batteries*
         - [Vanadyum Redoks Akış Bataryaları](Enerji-Teknolojileri/Enerji-Depolama/Elektrokimyasal-Enerji-Depolama/Akis-Bataryalari/Vanadyum-Redoks-Akis-Bataryalari/_index.md) — *Vanadium Redox Flow Batteries*
       - [Batarya Geri Dönüşümü](Enerji-Teknolojileri/Enerji-Depolama/Elektrokimyasal-Enerji-Depolama/Batarya-Geri-Donusumu/_index.md) — *Battery Recycling*
@@ -1350,7 +1350,7 @@ Ana disiplinler:
       - [Duyulur Isı Depolama](Enerji-Teknolojileri/Enerji-Depolama/Isil-Enerji-Depolama/Duyulur-Isi-Depolama/_index.md) — *Sensible Heat Storage*
       - [Gizli Isı Depolama](Enerji-Teknolojileri/Enerji-Depolama/Isil-Enerji-Depolama/Gizli-Isi-Depolama/_index.md) — *Latent Heat Storage*
       - [Termokimyasal Enerji Depolama](Enerji-Teknolojileri/Enerji-Depolama/Isil-Enerji-Depolama/Termokimyasal-Enerji-Depolama/_index.md) — *Thermochemical Energy Storage* `[1 araştırma]`
-    - [Mekanik Enerji Depolama](Enerji-Teknolojileri/Enerji-Depolama/Mekanik-Enerji-Depolama/_index.md) — *Mechanical Energy Storage*
+    - [Mekanik Enerji Depolama](Enerji-Teknolojileri/Enerji-Depolama/Mekanik-Enerji-Depolama/_index.md) — *Mechanical Energy Storage* `[1 araştırma]`
       - [Basınçlı Hava Enerji Depolama](Enerji-Teknolojileri/Enerji-Depolama/Mekanik-Enerji-Depolama/Basincli-Hava-Enerji-Depolama/_index.md) — *Compressed Air Energy Storage* `[1 araştırma]`
       - [Volan Enerji Depolama](Enerji-Teknolojileri/Enerji-Depolama/Mekanik-Enerji-Depolama/Volan-Enerji-Depolama/_index.md) — *Flywheel Energy Storage*
       - [Yerçekimi Enerji Depolama](Enerji-Teknolojileri/Enerji-Depolama/Mekanik-Enerji-Depolama/Yercekimi-Enerji-Depolama/_index.md) — *Gravity Energy Storage*
@@ -1433,7 +1433,7 @@ Ana disiplinler:
       - [Küçük ve Nehir Tipi Hidroelektrik](Enerji-Teknolojileri/Yenilenebilir-Enerji/Hidroelektrik/Nehir-Tipi-Hidroelektrik/_index.md) — *Small and Run-of-River Hydropower*
       - [Pompaj Depolamalı Hidroelektrik](Enerji-Teknolojileri/Yenilenebilir-Enerji/Hidroelektrik/Pompaj-Depolamali-Hidroelektrik/_index.md) — *Pumped-Storage Hydropower*
     - [Jeotermal Enerji](Enerji-Teknolojileri/Yenilenebilir-Enerji/Jeotermal-Enerji/_index.md) — *Geothermal Energy* `[1 araştırma]`
-      - [Geliştirilmiş Jeotermal Sistemler](Enerji-Teknolojileri/Yenilenebilir-Enerji/Jeotermal-Enerji/Gelistirilmis-Jeotermal-Sistemler/_index.md) — *Enhanced Geothermal Systems*
+      - [Geliştirilmiş Jeotermal Sistemler](Enerji-Teknolojileri/Yenilenebilir-Enerji/Jeotermal-Enerji/Gelistirilmis-Jeotermal-Sistemler/_index.md) — *Enhanced Geothermal Systems* `[1 araştırma]`
       - [Hidrotermal Sistemler](Enerji-Teknolojileri/Yenilenebilir-Enerji/Jeotermal-Enerji/Hidrotermal-Sistemler/_index.md) — *Hydrothermal Systems*
       - [Toprak Kaynaklı Isı Pompaları](Enerji-Teknolojileri/Yenilenebilir-Enerji/Jeotermal-Enerji/Toprak-Kaynakli-Isi-Pompalari/_index.md) — *Ground-Source Heat Pumps* `[3 araştırma]`
     - [Okyanus Enerjisi](Enerji-Teknolojileri/Yenilenebilir-Enerji/Okyanus-Enerjisi/_index.md) — *Ocean Energy*
@@ -1473,7 +1473,7 @@ Ana disiplinler:
       - [Nötrino Teleskopları](Fizik-ve-Uygulamali-Fizik/Astronomi-ve-Astrofizik/Astronomik-Enstrumantasyon/Notrino-Teleskoplari/_index.md) — *Neutrino Telescopes* `[1 araştırma]`
       - [Optik ve Kızılötesi Teleskoplar](Fizik-ve-Uygulamali-Fizik/Astronomi-ve-Astrofizik/Astronomik-Enstrumantasyon/Optik-ve-Kizilotesi-Teleskoplar/_index.md) — *Optical and Infrared Telescopes*
       - [Radyo Teleskopları ve İnterferometri](Fizik-ve-Uygulamali-Fizik/Astronomi-ve-Astrofizik/Astronomik-Enstrumantasyon/Radyo-Teleskoplari/_index.md) — *Radio Telescopes and Interferometry*
-      - [Uyarlanabilir Optik](Fizik-ve-Uygulamali-Fizik/Astronomi-ve-Astrofizik/Astronomik-Enstrumantasyon/Uyarlanabilir-Optik/_index.md) — *Adaptive Optics*
+      - [Uyarlanabilir Optik](Fizik-ve-Uygulamali-Fizik/Astronomi-ve-Astrofizik/Astronomik-Enstrumantasyon/Uyarlanabilir-Optik/_index.md) — *Adaptive Optics* `[1 araştırma]`
       - [X-ışını ve Gama Işını Teleskopları](Fizik-ve-Uygulamali-Fizik/Astronomi-ve-Astrofizik/Astronomik-Enstrumantasyon/X-isini-ve-Gama-Teleskoplari/_index.md) — *X-ray and Gamma-ray Telescopes*
     - [Çok Habercili Astronomi](Fizik-ve-Uygulamali-Fizik/Astronomi-ve-Astrofizik/Cok-Habercili-Astronomi/_index.md) — *Multi-Messenger Astronomy*
     - [Galaktik ve Galaksi Ötesi Astronomi](Fizik-ve-Uygulamali-Fizik/Astronomi-ve-Astrofizik/Galaktik-ve-Galaksi-Otesi/_index.md) — *Galactic and Extragalactic Astronomy*
@@ -1485,7 +1485,7 @@ Ana disiplinler:
     - [Güneş Fiziği](Fizik-ve-Uygulamali-Fizik/Astronomi-ve-Astrofizik/Gunes-Fizigi/_index.md) — *Solar Physics*
     - [Kozmoloji](Fizik-ve-Uygulamali-Fizik/Astronomi-ve-Astrofizik/Kozmoloji/_index.md) — *Cosmology*
       - [Karanlık Enerji](Fizik-ve-Uygulamali-Fizik/Astronomi-ve-Astrofizik/Kozmoloji/Karanlik-Enerji/_index.md) — *Dark Energy* `[1 araştırma]`
-      - [Karanlık Madde](Fizik-ve-Uygulamali-Fizik/Astronomi-ve-Astrofizik/Kozmoloji/Karanlik-Madde/_index.md) — *Dark Matter* `[5 araştırma]`
+      - [Karanlık Madde](Fizik-ve-Uygulamali-Fizik/Astronomi-ve-Astrofizik/Kozmoloji/Karanlik-Madde/_index.md) — *Dark Matter* `[6 araştırma]`
       - [Kozmik Mikrodalga Arka Plan](Fizik-ve-Uygulamali-Fizik/Astronomi-ve-Astrofizik/Kozmoloji/Kozmik-Mikrodalga-Arka-Plan/_index.md) — *Cosmic Microwave Background* `[1 araştırma]`
     - [Yıldız Astrofiziği](Fizik-ve-Uygulamali-Fizik/Astronomi-ve-Astrofizik/Yildiz-Astrofizigi/_index.md) — *Stellar Astrophysics*
     - [Yüksek Enerji Astrofiziği](Fizik-ve-Uygulamali-Fizik/Astronomi-ve-Astrofizik/Yuksek-Enerji-Astrofizigi/_index.md) — *High-Energy Astrophysics*
@@ -1514,7 +1514,7 @@ Ana disiplinler:
   - [Hızlandırıcı Fiziği](Fizik-ve-Uygulamali-Fizik/Hizlandirici-Fizigi/_index.md) — *Accelerator Physics*
     - [Dairesel Hızlandırıcılar](Fizik-ve-Uygulamali-Fizik/Hizlandirici-Fizigi/Dairesel-Hizlandiricilar/_index.md) — *Circular Accelerators*
     - [Doğrusal Hızlandırıcılar](Fizik-ve-Uygulamali-Fizik/Hizlandirici-Fizigi/Dogrusal-Hizlandiricilar/_index.md) — *Linear Accelerators*
-    - [Parçalanma Nötron Kaynakları](Fizik-ve-Uygulamali-Fizik/Hizlandirici-Fizigi/Parcalanma-Notron-Kaynaklari/_index.md) — *Spallation Neutron Sources*
+    - [Parçalanma Nötron Kaynakları](Fizik-ve-Uygulamali-Fizik/Hizlandirici-Fizigi/Parcalanma-Notron-Kaynaklari/_index.md) — *Spallation Neutron Sources* `[1 araştırma]`
     - [Plazma Uyanık Alanı Hızlandırma](Fizik-ve-Uygulamali-Fizik/Hizlandirici-Fizigi/Plazma-Uyanik-Alani-Hizlandirma/_index.md) — *Plasma Wakefield Acceleration* `[emerging]`
     - [Senkrotron Işık Kaynakları](Fizik-ve-Uygulamali-Fizik/Hizlandirici-Fizigi/Senkrotron-Isik-Kaynaklari/_index.md) — *Synchrotron Light Sources*
     - [Serbest Elektron Lazerleri](Fizik-ve-Uygulamali-Fizik/Hizlandirici-Fizigi/Serbest-Elektron-Lazerleri/_index.md) — *Free-Electron Lasers* `[1 araştırma]`
@@ -1590,7 +1590,7 @@ Ana disiplinler:
       - [Kristalografi](Fizik-ve-Uygulamali-Fizik/Yogun-Madde-Fizigi/Kati-Hal-Fizigi/Kristalografi/_index.md) — *Crystallography*
     - [Maddenin Topolojik Fazları](Fizik-ve-Uygulamali-Fizik/Yogun-Madde-Fizigi/Maddenin-Topolojik-Fazlari/_index.md) — *Topological Phases of Matter* `[1 araştırma]`
       - [Kuantum Hall Etkileri](Fizik-ve-Uygulamali-Fizik/Yogun-Madde-Fizigi/Maddenin-Topolojik-Fazlari/Kuantum-Hall-Etkileri/_index.md) — *Quantum Hall Effects*
-      - [Topolojik Yalıtkanlar](Fizik-ve-Uygulamali-Fizik/Yogun-Madde-Fizigi/Maddenin-Topolojik-Fazlari/Topolojik-Yalitkanlar/_index.md) — *Topological Insulators*
+      - [Topolojik Yalıtkanlar](Fizik-ve-Uygulamali-Fizik/Yogun-Madde-Fizigi/Maddenin-Topolojik-Fazlari/Topolojik-Yalitkanlar/_index.md) — *Topological Insulators* `[1 araştırma]`
       - [Topolojik Yarı Metaller](Fizik-ve-Uygulamali-Fizik/Yogun-Madde-Fizigi/Maddenin-Topolojik-Fazlari/Topolojik-Yari-Metaller/_index.md) — *Topological Semimetals* `[1 araştırma]`
     - [Manyetizma](Fizik-ve-Uygulamali-Fizik/Yogun-Madde-Fizigi/Manyetizma/_index.md) — *Magnetism*
       - [Altermanyetizma](Fizik-ve-Uygulamali-Fizik/Yogun-Madde-Fizigi/Manyetizma/Altermanyetizma/_index.md) — *Altermagnetism* `[emerging, güven: medium]`
@@ -1599,9 +1599,9 @@ Ana disiplinler:
         - [Magnonik](Fizik-ve-Uygulamali-Fizik/Yogun-Madde-Fizigi/Manyetizma/Spintronik/Magnonik/_index.md) — *Magnonics*
         - [Manyetik Tünel Eklemleri](Fizik-ve-Uygulamali-Fizik/Yogun-Madde-Fizigi/Manyetizma/Spintronik/Manyetik-Tunel-Eklemleri/_index.md) — *Magnetic Tunnel Junctions* `[1 araştırma]`
         - [Skyrmionik](Fizik-ve-Uygulamali-Fizik/Yogun-Madde-Fizigi/Manyetizma/Spintronik/Skyrmionik/_index.md) — *Skyrmionics* `[emerging]`
-        - [Spin-Yörünge Torku](Fizik-ve-Uygulamali-Fizik/Yogun-Madde-Fizigi/Manyetizma/Spintronik/Spin-Yorunge-Torku/_index.md) — *Spin-Orbit Torque*
+        - [Spin-Yörünge Torku](Fizik-ve-Uygulamali-Fizik/Yogun-Madde-Fizigi/Manyetizma/Spintronik/Spin-Yorunge-Torku/_index.md) — *Spin-Orbit Torque* `[1 araştırma]`
     - [Mezoskopik Fizik](Fizik-ve-Uygulamali-Fizik/Yogun-Madde-Fizigi/Mezoskopik-Fizik/_index.md) — *Mesoscopic Physics*
-    - [Moiré ve Twistronik](Fizik-ve-Uygulamali-Fizik/Yogun-Madde-Fizigi/Moire-ve-Twistronik/_index.md) — *Moire and Twistronics* `[emerging]`
+    - [Moiré ve Twistronik](Fizik-ve-Uygulamali-Fizik/Yogun-Madde-Fizigi/Moire-ve-Twistronik/_index.md) — *Moire and Twistronics* `[emerging, 1 araştırma]`
     - [Süperiletkenlik](Fizik-ve-Uygulamali-Fizik/Yogun-Madde-Fizigi/Superiletkenlik/_index.md) — *Superconductivity*
       - [Demir Tabanlı Süperiletkenler](Fizik-ve-Uygulamali-Fizik/Yogun-Madde-Fizigi/Superiletkenlik/Demir-Tabanli-Superiletkenler/_index.md) — *Iron-Based Superconductors*
       - [Geleneksel Süperiletkenler](Fizik-ve-Uygulamali-Fizik/Yogun-Madde-Fizigi/Superiletkenlik/Geleneksel-Superiletkenler/_index.md) — *Conventional Superconductors*
@@ -1889,7 +1889,7 @@ Ana disiplinler:
 
 - [Kimya ve Kimya Teknolojileri](Kimya-ve-Kimya-Teknolojileri/_index.md) — *Chemistry and Chemical Technologies*
   - [Analitik Kimya](Kimya-ve-Kimya-Teknolojileri/Analitik-Kimya/_index.md) — *Analytical Chemistry* `[1 araştırma]`
-    - [Atomik Spektrometri](Kimya-ve-Kimya-Teknolojileri/Analitik-Kimya/Atomik-Spektrometri/_index.md) — *Atomic Spectrometry*
+    - [Atomik Spektrometri](Kimya-ve-Kimya-Teknolojileri/Analitik-Kimya/Atomik-Spektrometri/_index.md) — *Atomic Spectrometry* `[1 araştırma]`
     - [Elektroanalitik Yöntemler](Kimya-ve-Kimya-Teknolojileri/Analitik-Kimya/Elektroanalitik-Yontemler/_index.md) — *Electroanalytical Methods*
     - [Kılcal Elektroforez](Kimya-ve-Kimya-Teknolojileri/Analitik-Kimya/Kilcal-Elektroforez/_index.md) — *Capillary Electrophoresis*
     - [Kimyasal Sensörler](Kimya-ve-Kimya-Teknolojileri/Analitik-Kimya/Kimyasal-Sensorler/_index.md) — *Chemical Sensors*
@@ -1994,7 +1994,7 @@ Ana disiplinler:
       - [Kontrollü Radikal Polimerizasyon](Kimya-ve-Kimya-Teknolojileri/Polimer-Kimyasi/Polimerizasyon-Yontemleri/Kontrollu-Radikal-Polimerizasyon/_index.md) — *Controlled Radical Polymerization*
     - [Supramoleküler Kimya](Kimya-ve-Kimya-Teknolojileri/Polimer-Kimyasi/Supramolekuler-Kimya/_index.md) — *Supramolecular Chemistry*
       - [Konuk-Konak Kimyası](Kimya-ve-Kimya-Teknolojileri/Polimer-Kimyasi/Supramolekuler-Kimya/Konuk-Konak-Kimyasi/_index.md) — *Host-Guest Chemistry*
-      - [Moleküler Makineler](Kimya-ve-Kimya-Teknolojileri/Polimer-Kimyasi/Supramolekuler-Kimya/Molekuler-Makineler/_index.md) — *Molecular Machines*
+      - [Moleküler Makineler](Kimya-ve-Kimya-Teknolojileri/Polimer-Kimyasi/Supramolekuler-Kimya/Molekuler-Makineler/_index.md) — *Molecular Machines* `[1 araştırma]`
   - [Tıbbi Kimya](Kimya-ve-Kimya-Teknolojileri/Tibbi-Kimya/_index.md) — *Medicinal Chemistry*
   - [Yeşil Kimya](Kimya-ve-Kimya-Teknolojileri/Yesil-Kimya/_index.md) — *Green Chemistry*
     - [Atom Ekonomisi ve Süreç Yoğunlaştırma](Kimya-ve-Kimya-Teknolojileri/Yesil-Kimya/Atom-Ekonomisi/_index.md) — *Atom Economy and Process Intensification*
@@ -2184,7 +2184,7 @@ Ana disiplinler:
     - [Akışkan Gücü](Makine-Muhendisligi/Muhendislik-Akiskanlar-Mekanigi/Akiskan-Gucu/_index.md) — *Fluid Power*
     - [Turbomakineler](Makine-Muhendisligi/Muhendislik-Akiskanlar-Mekanigi/Turbomakineler/_index.md) — *Turbomachinery*
       - [Buhar Türbinleri](Makine-Muhendisligi/Muhendislik-Akiskanlar-Mekanigi/Turbomakineler/Buhar-Turbinleri/_index.md) — *Steam Turbines*
-      - [Gaz Türbinleri](Makine-Muhendisligi/Muhendislik-Akiskanlar-Mekanigi/Turbomakineler/Gaz-Turbinleri/_index.md) — *Gas Turbines*
+      - [Gaz Türbinleri](Makine-Muhendisligi/Muhendislik-Akiskanlar-Mekanigi/Turbomakineler/Gaz-Turbinleri/_index.md) — *Gas Turbines* `[2 araştırma]`
       - [Kompresörler](Makine-Muhendisligi/Muhendislik-Akiskanlar-Mekanigi/Turbomakineler/Kompresorler/_index.md) — *Compressors*
       - [Pompalar](Makine-Muhendisligi/Muhendislik-Akiskanlar-Mekanigi/Turbomakineler/Pompalar/_index.md) — *Pumps*
     - [Yağlama Mühendisliği](Makine-Muhendisligi/Muhendislik-Akiskanlar-Mekanigi/Yaglama-Muhendisligi/_index.md) — *Lubrication Engineering*
@@ -2195,7 +2195,7 @@ Ana disiplinler:
       - [Plastisite Teorisi](Makine-Muhendisligi/Muhendislik-Mekanigi/Kati-Mekanigi/Plastisite-Teorisi/_index.md) — *Plasticity Theory*
       - [Temas Mekaniği](Makine-Muhendisligi/Muhendislik-Mekanigi/Kati-Mekanigi/Temas-Mekanigi/_index.md) — *Contact Mechanics*
       - [Viskoelastisite](Makine-Muhendisligi/Muhendislik-Mekanigi/Kati-Mekanigi/Viskoelastisite/_index.md) — *Viscoelasticity*
-    - [Statik ve Dinamik](Makine-Muhendisligi/Muhendislik-Mekanigi/Statik-ve-Dinamik/_index.md) — *Statics and Dynamics*
+    - [Statik ve Dinamik](Makine-Muhendisligi/Muhendislik-Mekanigi/Statik-ve-Dinamik/_index.md) — *Statics and Dynamics* `[1 araştırma]`
     - [Titreşim Mühendisliği](Makine-Muhendisligi/Muhendislik-Mekanigi/Titresim-Muhendisligi/_index.md) — *Vibration Engineering*
       - [Modal Analiz](Makine-Muhendisligi/Muhendislik-Mekanigi/Titresim-Muhendisligi/Modal-Analiz/_index.md) — *Modal Analysis* `[1 araştırma]`
       - [Rotor Dinamiği](Makine-Muhendisligi/Muhendislik-Mekanigi/Titresim-Muhendisligi/Rotor-Dinamigi/_index.md) — *Rotordynamics*
@@ -2259,7 +2259,7 @@ Ana disiplinler:
     - [Sürünme](Malzeme-Bilimi/Malzeme-Bozunmasi-ve-Hasari/Surunme/_index.md) — *Creep*
   - [Malzeme Karakterizasyonu](Malzeme-Bilimi/Malzeme-Karakterizasyonu/_index.md) — *Materials Characterization*
     - [Atom Probu Tomografisi](Malzeme-Bilimi/Malzeme-Karakterizasyonu/Atom-Probu-Tomografisi/_index.md) — *Atom Probe Tomography*
-    - [Elektron Mikroskobisi](Malzeme-Bilimi/Malzeme-Karakterizasyonu/Elektron-Mikroskobisi/_index.md) — *Electron Microscopy*
+    - [Elektron Mikroskobisi](Malzeme-Bilimi/Malzeme-Karakterizasyonu/Elektron-Mikroskobisi/_index.md) — *Electron Microscopy* `[1 araştırma]`
       - [Elektron Geri Saçılım Kırınımı](Malzeme-Bilimi/Malzeme-Karakterizasyonu/Elektron-Mikroskobisi/Elektron-Geri-Sacilim-Kirinimi/_index.md) — *Electron Backscatter Diffraction*
       - [Geçirimli Elektron Mikroskobisi](Malzeme-Bilimi/Malzeme-Karakterizasyonu/Elektron-Mikroskobisi/Gecirimli-Elektron-Mikroskobisi/_index.md) — *Transmission Electron Microscopy* `[1 araştırma]`
       - [Kriyo-Elektron Mikroskobisi](Malzeme-Bilimi/Malzeme-Karakterizasyonu/Elektron-Mikroskobisi/Kriyo-Elektron-Mikroskobisi/_index.md) — *Cryo-Electron Microscopy* `[1 araştırma]`
@@ -2395,7 +2395,7 @@ Ana disiplinler:
     - [Lie Teorisi](Matematik-ve-Hesaplamali-Bilimler/Cebir/Lie-Teorisi/_index.md) — *Lie Theory*
     - [Lineer Cebir](Matematik-ve-Hesaplamali-Bilimler/Cebir/Lineer-Cebir/_index.md) — *Linear Algebra*
       - [Çok Doğrusal Cebir ve Tensörler](Matematik-ve-Hesaplamali-Bilimler/Cebir/Lineer-Cebir/Cok-Dogrusal-Cebir-ve-Tensorler/_index.md) — *Multilinear Algebra and Tensors*
-      - [Sayısal Lineer Cebir](Matematik-ve-Hesaplamali-Bilimler/Cebir/Lineer-Cebir/Sayisal-Lineer-Cebir/_index.md) — *Numerical Linear Algebra*
+      - [Sayısal Lineer Cebir](Matematik-ve-Hesaplamali-Bilimler/Cebir/Lineer-Cebir/Sayisal-Lineer-Cebir/_index.md) — *Numerical Linear Algebra* `[1 araştırma]`
     - [Temsil Teorisi](Matematik-ve-Hesaplamali-Bilimler/Cebir/Temsil-Teorisi/_index.md) — *Representation Theory*
   - [Dinamik Sistemler](Matematik-ve-Hesaplamali-Bilimler/Dinamik-Sistemler/_index.md) — *Dynamical Systems*
     - [Çatallanma Teorisi](Matematik-ve-Hesaplamali-Bilimler/Dinamik-Sistemler/Catallanma-Teorisi/_index.md) — *Bifurcation Theory*
@@ -2584,7 +2584,7 @@ Ana disiplinler:
     - [Stokastik Kontrol](Mekatronik-ve-Kontrol-Sistemleri/Kontrol-Teorisi/Stokastik-Kontrol/_index.md) — *Stochastic Control*
     - [Uyarlamalı Kontrol](Mekatronik-ve-Kontrol-Sistemleri/Kontrol-Teorisi/Uyarlamali-Kontrol/_index.md) — *Adaptive Control* `[1 araştırma]`
   - [Mekatronik Sistem Tasarımı](Mekatronik-ve-Kontrol-Sistemleri/Mekatronik-Sistem-Tasarimi/_index.md) — *Mechatronic System Design*
-    - [Döngüde Donanım Benzetimi](Mekatronik-ve-Kontrol-Sistemleri/Mekatronik-Sistem-Tasarimi/Dongude-Donanim-Benzetimi/_index.md) — *Hardware-in-the-Loop Simulation*
+    - [Döngüde Donanım Benzetimi](Mekatronik-ve-Kontrol-Sistemleri/Mekatronik-Sistem-Tasarimi/Dongude-Donanim-Benzetimi/_index.md) — *Hardware-in-the-Loop Simulation* `[1 araştırma]`
     - [Eyleyiciler](Mekatronik-ve-Kontrol-Sistemleri/Mekatronik-Sistem-Tasarimi/Eyleyiciler/_index.md) — *Actuators*
       - [Elektrik Eyleyiciler](Mekatronik-ve-Kontrol-Sistemleri/Mekatronik-Sistem-Tasarimi/Eyleyiciler/Elektrik-Eyleyiciler/_index.md) — *Electric Actuators*
       - [Hidrolik Eyleyiciler](Mekatronik-ve-Kontrol-Sistemleri/Mekatronik-Sistem-Tasarimi/Eyleyiciler/Hidrolik-Eyleyiciler/_index.md) — *Hydraulic Actuators* `[1 araştırma]`
@@ -2692,7 +2692,7 @@ Ana disiplinler:
     - [Glia Biyolojisi](Norobilim-ve-Noroteknoloji/Hucresel-ve-Molekuler-Norobilim/Glia-Biyolojisi/_index.md) — *Glial Biology*
     - [İyon Kanalları](Norobilim-ve-Noroteknoloji/Hucresel-ve-Molekuler-Norobilim/Iyon-Kanallari/_index.md) — *Ion Channels* `[1 araştırma]`
     - [Nöral Plastisite](Norobilim-ve-Noroteknoloji/Hucresel-ve-Molekuler-Norobilim/Noral-Plastisite/_index.md) — *Neural Plasticity*
-    - [Sinaptik İletim](Norobilim-ve-Noroteknoloji/Hucresel-ve-Molekuler-Norobilim/Sinaptik-Iletim/_index.md) — *Synaptic Transmission*
+    - [Sinaptik İletim](Norobilim-ve-Noroteknoloji/Hucresel-ve-Molekuler-Norobilim/Sinaptik-Iletim/_index.md) — *Synaptic Transmission* `[1 araştırma]`
   - [Kemogenetik](Norobilim-ve-Noroteknoloji/Kemogenetik/_index.md) — *Chemogenetics*
   - [Klinik Nörobilim](Norobilim-ve-Noroteknoloji/Klinik-Norobilim/_index.md) — *Clinical Neuroscience*
     - [Nörodejenerasyon Araştırmaları](Norobilim-ve-Noroteknoloji/Klinik-Norobilim/Norodejenerasyon-Arastirmalari/_index.md) — *Neurodegeneration Research*
@@ -2742,7 +2742,7 @@ Ana disiplinler:
     - [Ağır Su Reaktörleri](Nukleer-Teknolojiler/Nukleer-Fisyon-Reaktorleri/Agir-Su-Reaktorleri/_index.md) — *Heavy-Water Reactors*
     - [Araştırma Reaktörleri](Nukleer-Teknolojiler/Nukleer-Fisyon-Reaktorleri/Arastirma-Reaktorleri/_index.md) — *Research Reactors*
     - [Gaz Soğutmalı Reaktörler](Nukleer-Teknolojiler/Nukleer-Fisyon-Reaktorleri/Gaz-Sogutmali-Reaktorler/_index.md) — *Gas-Cooled Reactors*
-      - [Yüksek Sıcaklık Gaz Soğutmalı Reaktörler](Nukleer-Teknolojiler/Nukleer-Fisyon-Reaktorleri/Gaz-Sogutmali-Reaktorler/Yuksek-Sicaklik-Gaz-Sogutmali-Reaktorler/_index.md) — *High-Temperature Gas-Cooled Reactors*
+      - [Yüksek Sıcaklık Gaz Soğutmalı Reaktörler](Nukleer-Teknolojiler/Nukleer-Fisyon-Reaktorleri/Gaz-Sogutmali-Reaktorler/Yuksek-Sicaklik-Gaz-Sogutmali-Reaktorler/_index.md) — *High-Temperature Gas-Cooled Reactors* `[1 araştırma]`
     - [Hafif Su Reaktörleri](Nukleer-Teknolojiler/Nukleer-Fisyon-Reaktorleri/Hafif-Su-Reaktorleri/_index.md) — *Light-Water Reactors*
       - [Basınçlı Su Reaktörleri](Nukleer-Teknolojiler/Nukleer-Fisyon-Reaktorleri/Hafif-Su-Reaktorleri/Basincli-Su-Reaktorleri/_index.md) — *Pressurized Water Reactors*
       - [Kaynar Su Reaktörleri](Nukleer-Teknolojiler/Nukleer-Fisyon-Reaktorleri/Hafif-Su-Reaktorleri/Kaynar-Su-Reaktorleri/_index.md) — *Boiling Water Reactors*
@@ -2848,7 +2848,7 @@ Ana disiplinler:
     - [Lazer Kararlılaştırma](Optik-ve-Fotonik/Lazerler/Lazer-Kararlilastirma/_index.md) — *Laser Stabilization*
     - [Optik Frekans Tarakları](Optik-ve-Fotonik/Lazerler/Optik-Frekans-Taraklari/_index.md) — *Optical Frequency Combs* `[1 araştırma]`
     - [Ultrahızlı Lazerler](Optik-ve-Fotonik/Lazerler/Ultrahizli-Lazerler/_index.md) — *Ultrafast Lasers*
-    - [Yarı İletken Lazerler](Optik-ve-Fotonik/Lazerler/Yari-Iletken-Lazerler/_index.md) — *Semiconductor Lasers*
+    - [Yarı İletken Lazerler](Optik-ve-Fotonik/Lazerler/Yari-Iletken-Lazerler/_index.md) — *Semiconductor Lasers* `[1 araştırma]`
       - [Dağıtık Geri Beslemeli Lazerler](Optik-ve-Fotonik/Lazerler/Yari-Iletken-Lazerler/Dagitik-Geri-Beslemeli-Lazerler/_index.md) — *Distributed Feedback Lasers*
       - [Dikey Kavite Yüzey Yayınımlı Lazerler](Optik-ve-Fotonik/Lazerler/Yari-Iletken-Lazerler/Dikey-Kavite-Yuzey-Yayinimli-Lazerler/_index.md) — *Vertical-Cavity Surface-Emitting Lasers*
       - [Kuantum Kaskad Lazerler](Optik-ve-Fotonik/Lazerler/Yari-Iletken-Lazerler/Kuantum-Kaskad-Lazerler/_index.md) — *Quantum Cascade Lasers* `[1 araştırma]`
@@ -3075,7 +3075,7 @@ Ana disiplinler:
       - [Isıl Olmayan Gıda İşleme](Tarim-ve-Gida-Teknolojileri/Gida-Bilimi-ve-Teknolojisi/Gida-Isleme/Isil-Olmayan-Gida-Isleme/_index.md) — *Non-Thermal Food Processing*
         - [Darbeli Elektrik Alan İşleme](Tarim-ve-Gida-Teknolojileri/Gida-Bilimi-ve-Teknolojisi/Gida-Isleme/Isil-Olmayan-Gida-Isleme/Darbeli-Elektrik-Alan-Isleme/_index.md) — *Pulsed Electric Field Processing*
         - [Soğuk Plazma Gıda İşleme](Tarim-ve-Gida-Teknolojileri/Gida-Bilimi-ve-Teknolojisi/Gida-Isleme/Isil-Olmayan-Gida-Isleme/Soguk-Plazma-Gida-Isleme/_index.md) — *Cold Plasma Food Processing* `[emerging]`
-        - [Yüksek Basınç İşleme](Tarim-ve-Gida-Teknolojileri/Gida-Bilimi-ve-Teknolojisi/Gida-Isleme/Isil-Olmayan-Gida-Isleme/Yuksek-Basinc-Isleme/_index.md) — *High-Pressure Processing*
+        - [Yüksek Basınç İşleme](Tarim-ve-Gida-Teknolojileri/Gida-Bilimi-ve-Teknolojisi/Gida-Isleme/Isil-Olmayan-Gida-Isleme/Yuksek-Basinc-Isleme/_index.md) — *High-Pressure Processing* `[1 araştırma]`
     - [Gıda Kimyası](Tarim-ve-Gida-Teknolojileri/Gida-Bilimi-ve-Teknolojisi/Gida-Kimyasi/_index.md) — *Food Chemistry*
     - [Gıda Mikrobiyolojisi](Tarim-ve-Gida-Teknolojileri/Gida-Bilimi-ve-Teknolojisi/Gida-Mikrobiyolojisi/_index.md) — *Food Microbiology*
     - [Gıda Muhafazası](Tarim-ve-Gida-Teknolojileri/Gida-Bilimi-ve-Teknolojisi/Gida-Muhafazasi/_index.md) — *Food Preservation*
@@ -3140,7 +3140,7 @@ Ana disiplinler:
     - [Yapay Organlar](Tip-ve-Biyomedikal-Teknolojiler/Biyomedikal-Muhendisligi/Yapay-Organlar/_index.md) — *Artificial Organs*
       - [Ventrikül Destek Cihazları](Tip-ve-Biyomedikal-Teknolojiler/Biyomedikal-Muhendisligi/Yapay-Organlar/Ventrikul-Destek-Cihazlari/_index.md) — *Ventricular Assist Devices* `[1 araştırma]`
       - [Yapay Böbrek ve Diyaliz](Tip-ve-Biyomedikal-Teknolojiler/Biyomedikal-Muhendisligi/Yapay-Organlar/Yapay-Bobrek-ve-Diyaliz/_index.md) — *Artificial Kidney and Dialysis*
-      - [Yapay Pankreas](Tip-ve-Biyomedikal-Teknolojiler/Biyomedikal-Muhendisligi/Yapay-Organlar/Yapay-Pankreas/_index.md) — *Artificial Pancreas*
+      - [Yapay Pankreas](Tip-ve-Biyomedikal-Teknolojiler/Biyomedikal-Muhendisligi/Yapay-Organlar/Yapay-Pankreas/_index.md) — *Artificial Pancreas* `[1 araştırma]`
   - [Cerrahi Teknolojiler](Tip-ve-Biyomedikal-Teknolojiler/Cerrahi-Teknolojiler/_index.md) — *Surgical Technologies*
     - [Ablasyon Teknolojileri](Tip-ve-Biyomedikal-Teknolojiler/Cerrahi-Teknolojiler/Ablasyon-Teknolojileri/_index.md) — *Ablation Technologies*
     - [Cerrahi Robotik](Tip-ve-Biyomedikal-Teknolojiler/Cerrahi-Teknolojiler/Cerrahi-Robotik/_index.md) — *Surgical Robotics*
@@ -3186,7 +3186,7 @@ Ana disiplinler:
       - [Viral Olmayan Gen Aktarımı](Tip-ve-Biyomedikal-Teknolojiler/Ileri-Tedaviler/Gen-Tedavisi/Viral-Olmayan-Gen-Aktarimi/_index.md) — *Non-Viral Gene Delivery* `[1 araştırma]`
       - [Viral Vektörle Gen Aktarımı](Tip-ve-Biyomedikal-Teknolojiler/Ileri-Tedaviler/Gen-Tedavisi/Viral-Vektorle-Gen-Aktarimi/_index.md) — *Viral Vector Gene Delivery*
     - [Hücre Tedavisi](Tip-ve-Biyomedikal-Teknolojiler/Ileri-Tedaviler/Hucre-Tedavisi/_index.md) — *Cell Therapy* `[1 araştırma]`
-      - [CAR-T Hücre Tedavisi](Tip-ve-Biyomedikal-Teknolojiler/Ileri-Tedaviler/Hucre-Tedavisi/CAR-T-Hucre-Tedavisi/_index.md) — *CAR-T Cell Therapy* `[18 araştırma]`
+      - [CAR-T Hücre Tedavisi](Tip-ve-Biyomedikal-Teknolojiler/Ileri-Tedaviler/Hucre-Tedavisi/CAR-T-Hucre-Tedavisi/_index.md) — *CAR-T Cell Therapy* `[19 araştırma]`
       - [Kök Hücre Tedavisi](Tip-ve-Biyomedikal-Teknolojiler/Ileri-Tedaviler/Hucre-Tedavisi/Kok-Hucre-Tedavisi/_index.md) — *Stem Cell Therapy* `[1 araştırma]`
       - [NK Hücre Tedavisi](Tip-ve-Biyomedikal-Teknolojiler/Ileri-Tedaviler/Hucre-Tedavisi/NK-Hucre-Tedavisi/_index.md) — *NK Cell Therapy* `[emerging, 1 araştırma]`
     - [RNA Tedavileri](Tip-ve-Biyomedikal-Teknolojiler/Ileri-Tedaviler/RNA-Tedavileri/_index.md) — *RNA Therapeutics*
@@ -3361,7 +3361,7 @@ Ana disiplinler:
     - [Ergonomi ve İnsan Faktörleri](Uretim-ve-Endustri-Teknolojileri/Endustri-Muhendisligi/Ergonomi/_index.md) — *Ergonomics and Human Factors*
     - [İş Etüdü](Uretim-ve-Endustri-Teknolojileri/Endustri-Muhendisligi/Is-Etudu/_index.md) — *Work Study*
     - [Tedarik Zinciri Mühendisliği](Uretim-ve-Endustri-Teknolojileri/Endustri-Muhendisligi/Tedarik-Zinciri-Muhendisligi/_index.md) — *Supply Chain Engineering*
-      - [Lojistik Optimizasyonu](Uretim-ve-Endustri-Teknolojileri/Endustri-Muhendisligi/Tedarik-Zinciri-Muhendisligi/Lojistik-Optimizasyonu/_index.md) — *Logistics Optimization*
+      - [Lojistik Optimizasyonu](Uretim-ve-Endustri-Teknolojileri/Endustri-Muhendisligi/Tedarik-Zinciri-Muhendisligi/Lojistik-Optimizasyonu/_index.md) — *Logistics Optimization* `[1 araştırma]`
     - [Tesis Yerleşimi ve Yer Seçimi](Uretim-ve-Endustri-Teknolojileri/Endustri-Muhendisligi/Tesis-Yerlesimi/_index.md) — *Facility Layout and Location*
     - [Üretim Planlama ve Kontrol](Uretim-ve-Endustri-Teknolojileri/Endustri-Muhendisligi/Uretim-Planlama-ve-Kontrol/_index.md) — *Production Planning and Control* `[1 araştırma]`
   - [Geleneksel Olmayan İşleme](Uretim-ve-Endustri-Teknolojileri/Geleneksel-Olmayan-Isleme/_index.md) — *Nontraditional Machining*

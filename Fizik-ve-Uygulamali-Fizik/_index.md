@@ -93,7 +93,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **38**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **44**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -103,14 +103,14 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Numerical Modeling and Sensitivity Analysis of Optical Turbulenceand Adaptive Optics Parameters Over the Zaouiat Ahansal SiteUsing ERA5 Reanalysis](Astronomi-ve-Astrofizik/Astronomik-Enstrumantasyon/Uyarlanabilir-Optik/Arastirmalar/2026-Oujaoura-Numerical-Modeling-and-Sensitivity.md) — Oujaoura vd. (2026) · *Research in Astronomy and Astrophysics* · hakemli
+- [Searches for heavy neutral lepton decays at spallation neutron sources](Hizlandirici-Fizigi/Parcalanma-Notron-Kaynaklari/Arastirmalar/2026-Romeri-Searches-for-heavy-neutral.md) — Romeri vd. (2026) · *Physical review. D/Physical review. D.* · hakemli · atıf: 1
+- [Symmetry breaking by interfacial dead layers: Self-induced spin-orbit torque in symmetric ferromagnets](Yogun-Madde-Fizigi/Manyetizma/Spintronik/Spin-Yorunge-Torku/Arastirmalar/2026-K-Symmetry-breaking-interfacial-dead.md) — K vd. (2026) · *Physical Review Applied* · hakemli
+- [Excitonic order tuned by electric fields and driven by interorbital Coulomb interactions in twisted bilayer graphene](Yogun-Madde-Fizigi/Moire-ve-Twistronik/Arastirmalar/2026-Fang-Excitonic-order-tuned-electric.md) — Fang vd. (2026) · *Journal of Physics Condensed Matter* · hakemli
 - [Union3.1: Reducing Systematics in Supernova Cosmology with Self-consistent Measurements of Host Galaxy Properties for 2000 Type Ia Supernovae](Astronomi-ve-Astrofizik/Kozmoloji/Kozmik-Mikrodalga-Arka-Plan/Arastirmalar/2026-Hoyt-Union3-Reducing-Systematics-Supernova.md) — Hoyt vd. (2026) · *The Astrophysical Journal* · hakemli · atıf: 53
 - [Computational complexity of Berry phase estimation in topological phases of matter](Yogun-Madde-Fizigi/Maddenin-Topolojik-Fazlari/Arastirmalar/2026-Hayakawa-Computational-complexity-Berry-phase.md) — Hayakawa vd. (2026) · *Quantum* · hakemli · atıf: 6
 - [Realizing multi-orbital Emery models with ultracold atoms](Atom-Molekul-ve-Optik-Fizik/Ultrasoguk-Atomlar/Arastirmalar/2026-McCabe-Realizing-multi-orbital-Emery.md) — McCabe vd. (2026) · *PRX Quantum* · hakemli · atıf: 4
 - [Modelling Emergent Phenomena in Quantum Materials: Theoretical and Computational Advances in Condensed Matter Physics](Yogun-Madde-Fizigi/Arastirmalar/2026-Arshad-Modelling-Emergent-Phenomena-Quantum.md) — Arshad vd. (2026) · *Asian Journal of Advanced Research and Reports* · hakemli
-- [Loop Quantum Gravity Black Holes Surrounded by Quintessence](Genel-Gorelilik-ve-Kutlecekim/Kuantum-Kutlecekimi/Arastirmalar/2026-AlBadawi-Loop-Quantum-Gravity-Black.md) — Al‐Badawi vd. (2026) · *International Journal of Geometric Methods in Modern Physics* · hakemli · atıf: 4
-- [A Study on Comparison of Three Different Statistical Mechanics Theory](Termodinamik-ve-Istatistiksel-Fizik/Istatistiksel-Mekanik/Arastirmalar/2026-Jha-Study-Comparison-Three-Different.md) — Jha vd. (2026) · *Amrit Journal* · hakemli
-- [BCAT: A Block Causal Transformer for PDE Foundation Models for Fluid Dynamics](Akiskanlar-Dinamigi/Arastirmalar/2026-Liu-BCAT-Block-Causal-Transformer.md) — Liu vd. (2026) · *Journal of Artificial Intelligence Research* · hakemli · atıf: 21
-- [Rotating-Wave and Secular Approximations for Open Quantum Systems](Kuantum-Mekanigi/Acik-Kuantum-Sistemleri/Arastirmalar/2026-Burgarth-Rotating-Wave-and-Secular.md) — Burgarth vd. (2026) · *Quantum* · hakemli · atıf: 1
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

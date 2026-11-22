@@ -79,7 +79,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **3**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -90,6 +90,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
 - [Stiffness-compensated Load-port Control of Series Elastic Actuators Using Online Stiffness Estimation](Eyleyiciler/Seri-Elastik-Eyleyiciler/Arastirmalar/2026-Lee-Stiffness-compensated-Load-port.md) — Lee (2026) · *Journal of Institute of Control Robotics and Systems* · hakemli
+- [Hardware-in-the-loop simulation study of modeling and thrust control of a high-bypass-ratio turbofan engine](Dongude-Donanim-Benzetimi/Arastirmalar/2026-Pan-Hardware-the-loop-simulation.md) — Pan vd. (2026) · *International Journal of Turbo and Jet Engines* · hakemli
 - [Prototype-assisted two-stage domain adaptation network for electro-hydraulic actuator fault diagnosis under variable operating conditions](Eyleyiciler/Hidrolik-Eyleyiciler/Arastirmalar/2026-Gou-Prototype-assisted-two-stage.md) — Gou vd. (2026) · *Proceedings of the Institution of Mechanical Engineers Part C Journal of Mechanical Engineering Science* · hakemli
 <!-- AUTO:RECENT:END -->
 

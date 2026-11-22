@@ -78,7 +78,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -88,6 +88,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Paving the Way for Link-State Routing in Satellite Networks with Fast and Seamless Ground Station Handovers](Ag-Katmani-Protokolleri/Yonlendirme-Protokolleri/Ic-Ag-Gecidi-Protokolleri/Baglanti-Durumu-Yonlendirme/Arastirmalar/2026-Rybowski-Paving-the-Way-for.md) — Rybowski vd. (2026) · *Proceedings of the ACM on Networking* · hakemli
 - [A hybrid bio-inspired and machine learning framework for adaptive congestion control and multi-objective QoS optimization in heterogeneous network](Tasima-Katmani-Protokolleri/Tikaniklik-Denetimi/Arastirmalar/2026-Jagadish-hybrid-bio-inspired-and.md) — Jagadish vd. (2026) · *Scientific Reports* · hakemli
 <!-- AUTO:RECENT:END -->
 

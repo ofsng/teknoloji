@@ -81,7 +81,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **26**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **27**.
 
 - [RENEWABLE ENERGY INTEGRATION AND ENERGY SECURITY IN SOUTHEASTERN NIGERIA: CHALLENGES, OPPORTUNITIES, AND STRATEGIC PATHWAYS](Arastirmalar/2026-Ifeachor-RENEWABLE-ENERGY-INTEGRATION-AND.md) — Ifeachor (2026) · *British Journal of Advanced Research* · hakemli
 <!-- AUTO:RESEARCH:END -->

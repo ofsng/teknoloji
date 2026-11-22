@@ -87,7 +87,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **52**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **54**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -97,14 +97,14 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Advanced Hybrid Closed-Loop Insulin Delivery System in Asian Patients With Type 1 Diabetes: Exploratory Study](Biyomedikal-Muhendisligi/Yapay-Organlar/Yapay-Pankreas/Arastirmalar/2026-Zeng-Advanced-Hybrid-Closed-Loop.md) — Zeng vd. (2026) · *JMIR Formative Research* · hakemli
+- [NKTR-255, a polymer-conjugated IL-15, enhances CAR T cell therapy by engaging endogenous antitumor immunity](Ileri-Tedaviler/Hucre-Tedavisi/CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Nutt-NKTR-255-polymer-conjugated.md) — Nutt vd. (2026) · *Cancer Immunology Research* · hakemli · atıf: 1
 - [Before the CAR arrives: how neuro-oncological treatment history shapes CAR-T cell therapy in brain tumors](Ileri-Tedaviler/Hucre-Tedavisi/CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Baldo-Before-the-CAR-arrives.md) — Baldo vd. (2026) · *Frontiers in Immunology* · hakemli
 - [Identification of lead CD24 scFvs for integration into CAR T-cell therapy](Ileri-Tedaviler/Hucre-Tedavisi/CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Lysandrou-Identification-lead-CD24-scFvs.md) — Lysandrou vd. (2026) · *Frontiers in Immunology* · hakemli
 - [Advances in chimeric antigen receptor T (CAR-T) cell therapy and limitations for treating breast cancer requires next generation of CAR-T cells treatment](Ileri-Tedaviler/Hucre-Tedavisi/CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Nawaz-Advances-chimeric-antigen-receptor.md) — Nawaz vd. (2026) · *Cancer Cell International* · hakemli
 - [Hemostatic complications after CAR T-cell therapy: linking immunothrombotic mechanisms to phase-adapted management](Ileri-Tedaviler/Hucre-Tedavisi/CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Zhao-Hemostatic-complications-after-CAR.md) — Zhao vd. (2026) · *Journal of Translational Medicine* · hakemli
 - [PET/CT in CAR T-Cell Therapy for Hematologic Malignancies: A Bibliometric and Clinically Annotated Analysis](Ileri-Tedaviler/Hucre-Tedavisi/CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Arslan-PET-CAR-Cell-Therapy.md) — Arslan vd. (2026) · *Hemato* · hakemli
 - [Bridging to CD19 CAR T-cell therapy for large B-cell lymphoma: An analysis of 1,134 patients by the EBMT Lymphoma Working Party and the GoCART Coalition](Ileri-Tedaviler/Hucre-Tedavisi/CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Berning-Bridging-CD19-CAR-cell.md) — Berning vd. (2026) · *Bone Marrow Transplantation* · hakemli
-- [Feeding T cell enhancement of CAR-T cell therapy for minimal B cell malignancy: evidences from in vitro and in vivo models](Ileri-Tedaviler/Hucre-Tedavisi/CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Liu-Feeding-cell-enhancement-CAR.md) — Liu vd. (2026) · *BMC Medicine* · hakemli
-- [The association between CCTA assessment and cardiac symptoms in patients with coronary artery disease: a photon-counting CT study](Tibbi-Goruntuleme/Bilgisayarli-Tomografi/Foton-Sayan-BT/Arastirmalar/2026-Ding-The-association-between-CCTA.md) — Ding vd. (2026) · *BMC Cardiovascular Disorders* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

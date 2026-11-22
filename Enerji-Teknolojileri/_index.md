@@ -84,7 +84,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **42**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **45**.
 
 - [The Role of Civil Engineering in Renewable Energy Storage: Contributions and Challenges](Arastirmalar/2026-Yao-The-Role-Civil-Engineering.md) — Yao (2026) · *Applied and Computational Engineering* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -99,11 +99,11 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [Uncovering the erratic behaviour of heat and reaction fronts in thermochemical energy storage with non-stoichiometric oxides](Enerji-Depolama/Isil-Enerji-Depolama/Termokimyasal-Enerji-Depolama/Arastirmalar/2026-Kasim-Uncovering-the-erratic-behaviour.md) — Kasim vd. (2026) · *Energy Conversion and Management* · hakemli
 - [Static-Torque Enhancement of Darrieus Vertical-Axis Wind Turbines with Dual-Airfoil Blades](Yenilenebilir-Enerji/Ruzgar-Enerjisi/Dikey-Eksenli-Ruzgar-Turbinleri/Arastirmalar/2026-Arana-Static-Torque-Enhancement-Darrieus.md) — Arana vd. (2026) · *Wind* · hakemli
 - [Review of research and commercial solar concentrated systems for process heat with thermal energy storage in Greece and Cyprus](Enerji-Depolama/Isil-Enerji-Depolama/Arastirmalar/2026-Alexopoulos-Review-research-and-commercial.md) — Alexopoulos vd. (2026) · *Green Energy and Sustainability* · hakemli
+- [Ultrahigh-Performance Mechanical Energy Storage in Helical Molecular Springs](Enerji-Depolama/Mekanik-Enerji-Depolama/Arastirmalar/2026-Ma-Ultrahigh-Performance-Mechanical-Energy.md) — Ma vd. (2026) · *The Journal of Physical Chemistry Letters* · hakemli
 - [Green Hydrogen Production through Photoelectrochemical Water Splitting](Hidrojen-Teknolojileri/Hidrojen-Uretimi/Fotoelektrokimyasal-Su-Ayristirma/Arastirmalar/2026-Venkanna-Green-Hydrogen-Production-through.md) — Venkanna vd. (2026) · *International Journal of Scientific Research in Science and Technology* · hakemli
 - [Spatial prioritization of official offshore wind zones in the Colombian Caribbean: A comparative assessment of fixed-bottom and floating areas](Yenilenebilir-Enerji/Ruzgar-Enerjisi/Deniz-Ustu-Ruzgar/Arastirmalar/2026-Robles-Algarin-Spatial-prioritization-official-o.md) — Robles-Algarín vd. (2026) · *Energy Exploration & Exploitation* · hakemli
 - [A surrogate-assisted reinforcement learning framework for layout optimization and economic assessment of dense urban vertical-axis wind turbine arrays](Yenilenebilir-Enerji/Ruzgar-Enerjisi/Dikey-Eksenli-Ruzgar-Turbinleri/Arastirmalar/2026-Zaidi-surrogate-assisted-reinforcement-learning.md) — Zaidi (2026) · *Wind Engineering* · hakemli
 - [Optimizing the Performance of Perovskite Solar Cells through Triple-Diode Model: Achieving Maximum Power Conversion Efficiency and Minimizing Statistical Errors](Yenilenebilir-Enerji/Gunes-Enerjisi/Fotovoltaik/Perovskit-Gunes-Hucreleri/Arastirmalar/2026-Subash-Optimizing-the-Performance-Perovskite.md) — Subash vd. (2026) · *Journal of Circuits Systems and Computers* · hakemli
-- [Economic viability of floating offshore wind in Portugal with varying market conditions and financial support mechanisms](Yenilenebilir-Enerji/Ruzgar-Enerjisi/Deniz-Ustu-Ruzgar/Yuzer-Deniz-Ustu-Ruzgar/Arastirmalar/2026-White-Economic-viability-floating-offshore.md) — White vd. (2026) · *Wind energy science* · hakemli · atıf: 1
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

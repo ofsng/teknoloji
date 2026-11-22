@@ -86,7 +86,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **22**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **25**.
 
 - [Life cycle assessment (LCA) in municipal solid waste management: public policies and regulation](Arastirmalar/2026-Schneider-Life-cycle-assessment-LCA.md) — Schneider vd. (2026) · *YACHAQ* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -98,14 +98,14 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Simultaneous Ammonia Nitrogen Removal and COD Reduction from Flue-Gas-Desulfurization Wastewater Using KH-550-Modified Tourmaline: Performance and Mechanisms](Hava-Kirliligi-Kontrolu/Baca-Gazi-Kukurt-Giderimi/Arastirmalar/2026-Zhao-Simultaneous-Ammonia-Nitrogen-Removal.md) — Zhao vd. (2026) · *Materials* · hakemli
+- [From waste management to carbon removal: Assessing municipal solid waste-based BECCS options in the UAE](Karbon-Yonetimi/Karbondioksit-Giderimi/BECCS/Arastirmalar/2026-Shbeeb-From-waste-management-carbon.md) — Shbeeb vd. (2026) · *Sustainable Energy Technologies and Assessments* · hakemli
+- [Seasonal Evaluation of Nutrient Removal from Simulated Wastewater Using Aquatic Plants in South Texas](Su-Aritma/Atik-Su-Aritma/Besin-Elementi-Giderimi/Arastirmalar/2026-Shrestha-Seasonal-Evaluation-Nutrient-Removal.md) — Shrestha vd. (2026) · *Environments* · hakemli
 - [Advances in Nanomaterials and Green Chemistry for Sustainable Chemical Engineering: Applications in Environmental Remediation and Energy Storage](Cevresel-Iyilestirme/Arastirmalar/2026-Swati-Advances-Nanomaterials-and-Green.md) — Swati vd. (2026) · *Journal of Global Social Transformation* · hakemli
 - [Chlorination-driven enrichment of Firmicutes in a full-scale drinking water treatment system revealed by 16 S rRNA gene sequencing](Su-Aritma/Icme-Suyu-Aritma/Arastirmalar/2026-Oliveira-Chlorination-driven-enrichment-Firmicut.md) — Oliveira vd. (2026) · *Environmental Monitoring and Assessment* · hakemli
 - [Sensitivity of marine cloud brightening over the Great Barrier Reef to spatial variability in aerosol forcing: a case study using a convection-permitting model](Iklim-Mudahalesi-Arastirmalari/Gunes-Isinimi-Modifikasyonu/Arastirmalar/2026-Zhao-Sensitivity-marine-cloud-brightening.md) — Zhao vd. (2026) · *Atmospheric chemistry and physics* · hakemli
 - [Converting Urban Solid Waste to Energy in Enugu Urban Area, Southeast, Nigeria](Kati-Atik-Yonetimi/Atiktan-Enerji/Arastirmalar/2026-Onyia-Converting-Urban-Solid-Waste.md) — Onyia (2026) · *WORLD JOURNAL OF INNOVATION AND MODERN TECHNOLOGY* · hakemli
 - [Sustainability in the Brewing Industry: A Review of Brewing Waste Valorization and Wastewater Treatment](Su-Aritma/Atik-Su-Aritma/Arastirmalar/2026-Drosou-Sustainability-the-Brewing-Industry.md) — Drosou vd. (2026) · *Sustainability* · hakemli
-- [Occurrence, Bioaccumulation, and Biomagnification of Organophosphate Flame Retardants in Aquatic and Terrestrial Food Chains from a Former E-Waste Recycling Region, South China](Kati-Atik-Yonetimi/Geri-Donusum-Teknolojileri/Elektronik-Atik-Geri-Donusumu/Arastirmalar/2026-Liu-Occurrence-Bioaccumulation-and-Biomagnificat.md) — Liu vd. (2026) · *Toxics* · hakemli
-- [Mathematical unification of methods for hybrid life cycle assessment](Yasam-Dongusu-Degerlendirmesi/Arastirmalar/2026-Weinold-Mathematical-unification-methods-for.md) — Weinold vd. (2026) · *Journal of Industrial Ecology* · hakemli
-- [Regional seawater-chemistry controls on ocean alkalinity enhancement efficiency: Carbonate precipitation risk under pH-equilibrated OAE](Karbon-Yonetimi/Karbondioksit-Giderimi/Okyanus-Alkalinite-Artirimi/Arastirmalar/2026-Alamooti-Regional-seawater-chemistry-controls.md) — Alamooti vd. (2026) · *Marine Pollution Bulletin* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

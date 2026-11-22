@@ -26,7 +26,7 @@ collected_at: 2026-11-08
 last_checked_at: 2026-11-08
 content_verified: false
 identifier_verified: crossref
-retraction_checked: 2026-11-08
+retraction_checked: 2026-11-22
 ---
 
 # Beyond Structural Classification: A 4S+G Functional Framework for Non-Coding RNA Biology in Cancer and Its Therapeutic Implications

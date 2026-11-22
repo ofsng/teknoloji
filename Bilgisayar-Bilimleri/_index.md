@@ -90,7 +90,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **191**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **200**.
 
 - [METHODOLOGY FOR USING INTERACTIVE AND INNOVATIVE METHODS IN TEACHING COMPUTER SCIENCE](Arastirmalar/2026-Ozatovna-METHODOLOGY-FOR-USING-INTERACTIVE.md) — Ozatovna vd. (2026) · *HSR (London)* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -102,14 +102,14 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Paving the Way for Link-State Routing in Satellite Networks with Fast and Seamless Ground Station Handovers](Bilgisayar-Aglari/Ag-Protokolleri/Ag-Katmani-Protokolleri/Yonlendirme-Protokolleri/Ic-Ag-Gecidi-Protokolleri/Baglanti-Durumu-Yonlendirme/Arastirmalar/2026-Rybowski-Paving-the-Way-for.md) — Rybowski vd. (2026) · *Proceedings of the ACM on Networking* · hakemli
+- [Combinatorial Approach to Circuit Complexity: From Approximate Quantum Codes to Lieb-Schultz-Mattis Constraints](Hesaplama-Kurami/Hesaplamali-Karmasiklik-Teorisi/Devre-Karmasikligi/Arastirmalar/2026-Yi-Combinatorial-Approach-Circuit-Complexity.md) — Yi vd. (2026) · *Physical Review Letters* · hakemli · atıf: 7
+- [Faster and Memory-Efficient Training of Sequential Recommendation Models for Large Catalogs](Veritabanlari-ve-Bilgi-Sistemleri/Bilgi-Erisimi/Oneri-Sistemleri/Sirali-Oneri/Arastirmalar/2026-Zhelnin-Faster-and-Memory-Efficient.md) — Zhelnin vd. (2026) · *ACM Transactions on Information Systems* · hakemli · atıf: 2
+- [FuseSR+: Spatial-Temporal Fusion for High-Scale Super-Resolution](Yapay-Zeka/Bilgisayarli-Goru/Goruntu-Onarimi/Super-Cozunurluk/Arastirmalar/2026-Huo-FuseSR-Spatial-Temporal-Fusion.md) — Huo vd. (2026) · *ACM Transactions on Graphics* · hakemli
+- [Lossless Latent Diffusion Models](Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Uretken-Modeller/Difuzyon-Modelleri/Gizil-Difuzyon-Modelleri/Arastirmalar/2026-Xu-Lossless-Latent-Diffusion-Models.md) — Xu vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [Security Framework for Detection of Denial of Service (DoS) Attack on Virtual Private Networks for Efficient Data Transmission](Bilgisayar-Guvenligi/Ag-Guvenligi/Sanal-Ozel-Aglar/Arastirmalar/2026-Ede-Security-Framework-for-Detection.md) — Ede (2026) · *RESEARCH JOURNAL OF PURE SCIENCE AND TECHNOLOGY* · hakemli · atıf: 2
 - [Privacy-Utility Tradeoffs with Quantum Local Differential Privacy](Bilgisayar-Guvenligi/Gizliligi-Artiran-Teknolojiler/Diferansiyel-Gizlilik/Yerel-Diferansiyel-Gizlilik/Arastirmalar/2026-Nuradha-Privacy-Utility-Tradeoffs-with.md) — Nuradha vd. (2026) · *Quantum Science and Technology* · hakemli · atıf: 3
 - [An Adaptive Compute-and-Wait Proof-of-Work Framework for Energy-Efficient and Scalable Blockchain Consensus](Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Konsensus-Mekanizmalari/Proof-of-Work/Arastirmalar/2026-Kara-Adaptive-Compute-and-Wait.md) — Kara (2026) · *Network* · hakemli
-- [A Nonce-Bound Lightweight Mutual Authentication Protocol for UAV-Assisted Smart Mining Systems](Kriptografi/Kriptografik-Protokoller/Kimlik-Dogrulama-Protokolleri/Arastirmalar/2026-Li-Nonce-Bound-Lightweight-Mutual.md) — Li vd. (2026) · *Electronics* · hakemli
-- [Real-time instance segmentation of spine endoscopy images using a YOLO-V11 deep convolutional neural network](Yapay-Zeka/Bilgisayarli-Goru/Goruntu-Bolutleme/Ornek-Bolutleme/Arastirmalar/2026-Jung-Real-time-instance-segmentation.md) — Jung vd. (2026) · *PLoS ONE* · hakemli
-- [NatBDI: Combining BDI reasoning and natural language inference for autonomous agents](Yapay-Zeka/Dogal-Dil-Isleme/Dogal-Dil-Cikarimi/Arastirmalar/2026-Ichida-NatBDI-Combining-BDI-reasoning.md) — Ichida vd. (2026) · *Autonomous Agents and Multi-Agent Systems* · hakemli
-- [Syrian-English Neural Machine Translation Using Attention Mechanism and Ontology Enrichment](Yapay-Zeka/Dogal-Dil-Isleme/Makine-Cevirisi/Sinirsel-Makine-Cevirisi/Arastirmalar/2026-Al-Rakkad-Syrian-English-Neural-Machine.md) — Al-Rakkad vd. (2026) · *Journal of Computer-Assisted Linguistic Research* · hakemli
-- [Understanding the Fundamental Design Decisions of Retrieval-Augmented Generation Systems](Yapay-Zeka/Makine-Ogrenmesi/Temel-Modeller/Buyuk-Dil-Modelleri/Erisimle-Zenginlestirilmis-Uretim/Arastirmalar/2026-Zhao-Understanding-the-Fundamental-Design.md) — Zhao vd. (2026) · *ACM Transactions on Software Engineering and Methodology* · hakemli · atıf: 49
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

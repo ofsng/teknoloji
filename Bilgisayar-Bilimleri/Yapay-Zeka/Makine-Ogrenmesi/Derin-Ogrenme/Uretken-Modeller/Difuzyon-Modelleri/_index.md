@@ -79,7 +79,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -89,6 +89,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Lossless Latent Diffusion Models](Gizil-Difuzyon-Modelleri/Arastirmalar/2026-Xu-Lossless-Latent-Diffusion-Models.md) — Xu vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [Frequency-Adaptive Flow Matching for High-Fidelity Text-to-Speech Synthesis](Akis-Esleme/Arastirmalar/2026-Liu-Frequency-Adaptive-Flow-Matching.md) — Liu vd. (2026) · *Electronics* · hakemli
 <!-- AUTO:RECENT:END -->
 

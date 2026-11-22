@@ -87,7 +87,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **46**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **50**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -97,6 +97,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Direction-Aware Timing Modeling for Reinforcement-Learning-Based Clock Arrival Time Optimization in Power-Integrity-Aware Physical Design](Analog-ve-Sayisal-Elektronik/Baskili-Devre-Karti-Tasarimi/Guc-Butunlugu/Arastirmalar/2026-HUANG-Direction-Aware-Timing-Modeling.md) — HUANG vd. (2026) · *ACM Transactions on Design Automation of Electronic Systems* · hakemli
 - [Efficiency Optimization of LLC Resonant Converters via Combined Analytical Modeling and Data-Assisted Visualization](Guc-Elektronigi/DA-DA-Donusturuculer/Rezonansli-Donusturuculer/Arastirmalar/2026-Athar-Efficiency-Optimization-LLC-Resonant.md) — Athar vd. (2026) · *Electronics* · hakemli
 - [Least ln-cosh-based adaptive filtering algorithm for graph signal processing](Sinyal-Isleme/Cizge-Sinyal-Isleme/Arastirmalar/2026-Zhang-Least-cosh-based-adaptive.md) — Zhang vd. (2026) · *IEEE Trans. Aerosp. Electron. Syst., early access, 2026* · hakemli
 - [Large-signal stability analysis of reduced-order droop-controlled grid-forming inverters in islanded microgrids](Guc-Elektronigi/Eviriciler/Sebeke-Kuran-Eviriciler/Arastirmalar/2026-Verma-Large-signal-stability-analysis.md) — Verma vd. (2026) · *International Journal of Emerging Electric Power Systems* · hakemli
@@ -104,7 +105,6 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [Centralized vehicle-to-grid coordination for behind-the-meter value in commercial fleets: Evidence and deployment lessons from a pilot demonstration](Elektrik-Guc-Sistemleri/Akilli-Sebekeler/Aractan-Sebekeye/Arastirmalar/2026-Egunjobi-Centralized-vehicle-grid-coordination.md) — Egunjobi vd. (2026) · *Energy Reports* · hakemli
 - [A blockchain-secured multi-agent GNN–XGBoost framework for intelligent energy coordination in IoT-enabled sustainable smart grids](Elektrik-Guc-Sistemleri/Akilli-Sebekeler/Arastirmalar/2026-Kommerla-blockchain-secured-multi-agent.md) — Kommerla vd. (2026) · *Scientific Reports* · hakemli
 - [Alternating Methods for Large-Scale AC Optimal Power Flow with Unit Commitment](Elektrik-Guc-Sistemleri/Elektrik-Piyasalari/Arastirmalar/2026-Brun-Alternating-Methods-for-Large.md) — Brun vd. (2026) · *Operations Research* · hakemli · atıf: 3
-- [Phased Array Antenna Surface Deformation Reconstruction Based on Modal Low-Rank Correction and Gaussian Process Data Migration](Elektromanyetik/Antenler/Faz-Dizili-Antenler/Arastirmalar/2026-Yan-Phased-Array-Antenna-Surface.md) — Yan vd. (2026) · *Micromachines* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

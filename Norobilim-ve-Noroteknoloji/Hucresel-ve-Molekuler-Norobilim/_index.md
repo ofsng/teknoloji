@@ -78,7 +78,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -88,6 +88,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Low Ouabain Concentration Differentially Modulates Spontaneous and Evoked Synaptic Transmission: Role of NCX Subtypes](Sinaptik-Iletim/Arastirmalar/2026-Stepanenko-Low-Ouabain-Concentration-Differentia.md) — Stepanenko vd. (2026) · *Current Issues in Molecular Biology* · hakemli
 - [Acid-sensing ion channels in pain and psychiatric disorders: from basic properties to comorbidity mechanisms](Iyon-Kanallari/Arastirmalar/2026-Li-Acid-sensing-ion-channels.md) — Li vd. (2026) · *Frontiers in Pharmacology* · hakemli
 <!-- AUTO:RECENT:END -->
 

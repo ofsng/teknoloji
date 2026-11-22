@@ -78,7 +78,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **2**.
 
 - [Sustainability in the Brewing Industry: A Review of Brewing Waste Valorization and Wastewater Treatment](Arastirmalar/2026-Drosou-Sustainability-the-Brewing-Industry.md) — Drosou vd. (2026) · *Sustainability* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -90,6 +90,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Seasonal Evaluation of Nutrient Removal from Simulated Wastewater Using Aquatic Plants in South Texas](Besin-Elementi-Giderimi/Arastirmalar/2026-Shrestha-Seasonal-Evaluation-Nutrient-Removal.md) — Shrestha vd. (2026) · *Environments* · hakemli
 - [Sustainability in the Brewing Industry: A Review of Brewing Waste Valorization and Wastewater Treatment](Arastirmalar/2026-Drosou-Sustainability-the-Brewing-Industry.md) — Drosou vd. (2026) · *Sustainability* · hakemli
 <!-- AUTO:RECENT:END -->
 

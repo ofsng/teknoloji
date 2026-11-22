@@ -85,8 +85,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **8**, alt teknolojiler dahil: **19**.
+Arşivdeki kayıtlar — bu düğüm: **9**, alt teknolojiler dahil: **20**.
 
+- [An Empirical Study on the Code Refactoring Capability of Large Language Models](Arastirmalar/2024-Cordeiro-Empirical-Study-the-Code.md) — Cordeiro vd. (2024) · *arXiv* · ön baskı / hakemsiz
 - [How Well Can Large Language Models Impersonate Individual Authors? A Comparative Evaluation](Arastirmalar/2026-Gupta-How-Well-Can-Large.md) — Gupta vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [AdSteer: Native Advertising in Large Language Model Generation](Arastirmalar/2026-Lin-AdSteer-Native-Advertising-Large.md) — Lin vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [Graph-Mediated Large Language Model Systems in the Agentic Era: Reasoning, Knowledge, Retrieval, Execution, and Coordination](Arastirmalar/2026-Liu-Graph-Mediated-Large-Language.md) — Liu vd. (2026) · *arXiv* · ön baskı / hakemsiz
@@ -94,7 +95,7 @@ Arşivdeki kayıtlar — bu düğüm: **8**, alt teknolojiler dahil: **19**.
 - [Benchmarking Large Language Models on Heterogeneous Cognitive and Biomedical Knowledge Graphs: The Role of Graph Grounding in Multi-Hop Reasoning and Hallucination Mitigation](Arastirmalar/2026-Sarabadani-Benchmarking-Large-Language-Models.md) — Sarabadani vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [Encoding and Propagation of Grammatical Number in Large Language Models](Arastirmalar/2026-Solinsky-Encoding-and-Propagation-Grammatical.md) — Solinsky vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [Large Language Model-Assisted Adaptive Heuristic Search for Agile Earth Observation Satellite Scheduling](Arastirmalar/2026-Wang-Large-Language-Model-Assisted.md) — Wang vd. (2026) · *arXiv* · ön baskı / hakemsiz
-- [Boundary-stratified safety evaluation of large language models for clinical decision support: a synthetic benchmark in chronic kidney disease renoprotective therapy](Arastirmalar/2026-Yeh-Boundary-stratified-safety-evaluation.md) — Yeh vd. (2026) · *Frontiers in Medicine* · hakemli
+- … ve 1 kayıt daha: [Arastirmalar/](Arastirmalar/)
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler

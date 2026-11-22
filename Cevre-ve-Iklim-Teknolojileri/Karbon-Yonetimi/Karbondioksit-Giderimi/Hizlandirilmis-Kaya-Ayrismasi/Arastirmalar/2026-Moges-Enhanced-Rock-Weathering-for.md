@@ -26,7 +26,7 @@ collected_at: 2026-11-08
 last_checked_at: 2026-11-08
 content_verified: false
 identifier_verified: crossref
-retraction_checked: 2026-11-08
+retraction_checked: 2026-11-22
 ---
 
 # Enhanced Rock Weathering for Carbon Dioxide Removal: An Integrated Review of Potential, Challenges, and Pathways to Scalable and Sustainable Implementation

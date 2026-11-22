@@ -80,7 +80,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -90,6 +90,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Numerical Modeling and Sensitivity Analysis of Optical Turbulenceand Adaptive Optics Parameters Over the Zaouiat Ahansal SiteUsing ERA5 Reanalysis](Uyarlanabilir-Optik/Arastirmalar/2026-Oujaoura-Numerical-Modeling-and-Sensitivity.md) — Oujaoura vd. (2026) · *Research in Astronomy and Astrophysics* · hakemli
 - [The Cosmic Neutrino Background is within Reach of Future Neutrino Telescopes](Notrino-Teleskoplari/Arastirmalar/2026-Herrera-The-Cosmic-Neutrino-Background.md) — Herrera vd. (2026) · *arXiv* · ön baskı / hakemsiz
 <!-- AUTO:RECENT:END -->
 

@@ -79,7 +79,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -89,6 +89,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Static and dynamic responses of elastoplastic beams with rectangular and asymmetric I-profile cross section subjected to lateral pressure loads](Statik-ve-Dinamik/Arastirmalar/2026-Fimreite-Static-and-dynamic-responses.md) — Fimreite vd. (2026) · *Marine Structures* · hakemli · atıf: 1
 - [Describing function-based modal analysis](Titresim-Muhendisligi/Modal-Analiz/Arastirmalar/2026-Tiggelen-Describing-function-based-modal.md) — Tiggelen vd. (2026) · *Computers & Structures* · hakemli
 <!-- AUTO:RECENT:END -->
 

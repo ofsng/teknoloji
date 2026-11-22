@@ -83,7 +83,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **6**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **7**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -93,6 +93,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [High-brightness 500 W-class fiber-combined blue semiconductor laser](Yari-Iletken-Lazerler/Arastirmalar/2026-Du-High-brightness-500-class.md) — Du vd. (2026) · *Applied Optics* · hakemli
 - [Ultra-low-intensity noise broadband femtosecond pulse generation in an Er-doped all-fiber laser](Fiber-Lazerler/Arastirmalar/2026-Yan-Ultra-low-intensity-noise.md) — Yan vd. (2026) · *Advanced Photonics Nexus* · hakemli
 - [Transient epitaxial dynamics and cascade continuity in long-duration terahertz quantum cascade laser growth](Yari-Iletken-Lazerler/Kuantum-Kaskad-Lazerler/Arastirmalar/2026-Li-Transient-epitaxial-dynamics-and.md) — Li vd. (2026) · *Journal of Applied Physics* · hakemli
 - [Soliton pulse generation in thulium-doped fiber laser incorporating nickel-H3BTC-MOF mode locker](Fiber-Lazerler/Arastirmalar/2026-Murad-Soliton-pulse-generation-thulium.md) — Murad vd. (2026) · *Journal of King Saud University - Science* · hakemli

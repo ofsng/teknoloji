@@ -90,7 +90,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **17**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **18**.
 
 - [Transformers in computer vision: a PRISMA-based systematic review, taxonomy and future perspectives](Arastirmalar/2026-Rony-Transformers-computer-vision-PRISMA.md) — Rony vd. (2026) · *Artificial Intelligence Review* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -102,6 +102,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [FuseSR+: Spatial-Temporal Fusion for High-Scale Super-Resolution](Goruntu-Onarimi/Super-Cozunurluk/Arastirmalar/2026-Huo-FuseSR-Spatial-Temporal-Fusion.md) — Huo vd. (2026) · *ACM Transactions on Graphics* · hakemli
 - [Real-time instance segmentation of spine endoscopy images using a YOLO-V11 deep convolutional neural network](Goruntu-Bolutleme/Ornek-Bolutleme/Arastirmalar/2026-Jung-Real-time-instance-segmentation.md) — Jung vd. (2026) · *PLoS ONE* · hakemli
 - [An anatomy aware Mamba framework for video based 3D human pose estimation](Poz-Kestirimi/Arastirmalar/2026-Song-anatomy-aware-Mamba-framework.md) — Song vd. (2026) · *Scientific Reports* · hakemli
 - [Plane-Informed Dynamic Visual SLAM in Low-Texture Indoor Construction Environments](Gorsel-SLAM/Arastirmalar/2026-Li-Plane-Informed-Dynamic-Visual.md) — Li vd. (2026) · *Journal of Computing in Civil Engineering* · hakemli
@@ -109,7 +110,6 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [Transformers in computer vision: a PRISMA-based systematic review, taxonomy and future perspectives](Arastirmalar/2026-Rony-Transformers-computer-vision-PRISMA.md) — Rony vd. (2026) · *Artificial Intelligence Review* · hakemli
 - [Marigold V2: Revisiting Diffusion Transformers for Monocular Depth Estimation](3B-Bilgisayarli-Goru/Derinlik-Kestirimi/Arastirmalar/2026-Pavlovic-Marigold-Revisiting-Diffusion-Transform.md) — Pavlovic vd. (2026) · *ACM Transactions on Graphics* · hakemli · atıf: 4
 - [ACMNet: An attention-convolution mixed neural network for semantic segmentation of high-resolution remote sensing images](Goruntu-Bolutleme/Anlamsal-Bolutleme/Arastirmalar/2026-Yu-ACMNet-attention-convolution-mixed.md) — Yu vd. (2026) · *PLoS ONE* · hakemli
-- [A review of medical image segmentation research based on bibliometrics](Goruntu-Bolutleme/Arastirmalar/2026-Li-review-medical-image-segmentation.md) — Li vd. (2026) · *Technology and Health Care* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

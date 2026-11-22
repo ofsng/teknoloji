@@ -78,7 +78,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **3**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -88,6 +88,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [From waste management to carbon removal: Assessing municipal solid waste-based BECCS options in the UAE](BECCS/Arastirmalar/2026-Shbeeb-From-waste-management-carbon.md) — Shbeeb vd. (2026) · *Sustainable Energy Technologies and Assessments* · hakemli
 - [Regional seawater-chemistry controls on ocean alkalinity enhancement efficiency: Carbonate precipitation risk under pH-equilibrated OAE](Okyanus-Alkalinite-Artirimi/Arastirmalar/2026-Alamooti-Regional-seawater-chemistry-controls.md) — Alamooti vd. (2026) · *Marine Pollution Bulletin* · hakemli
 - [Enhanced Rock Weathering for Carbon Dioxide Removal: An Integrated Review of Potential, Challenges, and Pathways to Scalable and Sustainable Implementation](Hizlandirilmis-Kaya-Ayrismasi/Arastirmalar/2026-Moges-Enhanced-Rock-Weathering-for.md) — Moges vd. (2026) · *Energy & Fuels* · hakemli
 <!-- AUTO:RECENT:END -->

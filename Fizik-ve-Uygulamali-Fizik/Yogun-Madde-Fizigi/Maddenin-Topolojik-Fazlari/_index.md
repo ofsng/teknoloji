@@ -78,7 +78,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **2**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **3**.
 
 - [Computational complexity of Berry phase estimation in topological phases of matter](Arastirmalar/2026-Hayakawa-Computational-complexity-Berry-phase.md) — Hayakawa vd. (2026) · *Quantum* · hakemli · atıf: 6
 <!-- AUTO:RESEARCH:END -->
@@ -92,6 +92,7 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 
 - [Computational complexity of Berry phase estimation in topological phases of matter](Arastirmalar/2026-Hayakawa-Computational-complexity-Berry-phase.md) — Hayakawa vd. (2026) · *Quantum* · hakemli · atıf: 6
 - [Evidence of Polarons and Their Ultrafast Optical Undressing in a Topological Semimetal](Topolojik-Yari-Metaller/Arastirmalar/2026-Hou-Evidence-Polarons-and-Their.md) — Hou vd. (2026) · *Nano Letters* · hakemli
+- [Dissipation driven boundary localization in higher order topological insulators](Topolojik-Yalitkanlar/Arastirmalar/2026-Ren-Dissipation-driven-boundary-localization.md) — Ren vd. (2026) · *arXiv* · ön baskı / hakemsiz
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar
