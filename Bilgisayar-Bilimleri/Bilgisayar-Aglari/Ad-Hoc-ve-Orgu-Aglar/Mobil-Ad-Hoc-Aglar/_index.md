@@ -75,7 +75,10 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **2**.
+
+- [A 3D distance-augmented Gauss-Markov mobility model for QoS improvement in Mobile Ad hoc Networks](Arastirmalar/2026-Barbhuyan-distance-augmented-Gauss-Markov.md) — Barbhuyan vd. (2026) · *Discover Computing* · hakemli
+- [FSTDO: a hybrid heuristic-algorithm-based multi-objective function formulation for multipath routing mechanism in MANET](Arastirmalar/2026-Brahmaiah-FSTDO-hybrid-heuristic-algorithm.md) — Brahmaiah vd. (2026) · *Journal of Statistical Computation and Simulation* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -83,7 +86,10 @@ Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
-_Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini göstermez; ön baskılar hakemli değildir._
+Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
+
+- [A 3D distance-augmented Gauss-Markov mobility model for QoS improvement in Mobile Ad hoc Networks](Arastirmalar/2026-Barbhuyan-distance-augmented-Gauss-Markov.md) — Barbhuyan vd. (2026) · *Discover Computing* · hakemli
+- [FSTDO: a hybrid heuristic-algorithm-based multi-objective function formulation for multipath routing mechanism in MANET](Arastirmalar/2026-Brahmaiah-FSTDO-hybrid-heuristic-algorithm.md) — Brahmaiah vd. (2026) · *Journal of Statistical Computation and Simulation* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

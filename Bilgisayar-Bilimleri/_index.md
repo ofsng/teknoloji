@@ -90,7 +90,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **125**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **200**.
+
+- [METHODOLOGY FOR USING INTERACTIVE AND INNOVATIVE METHODS IN TEACHING COMPUTER SCIENCE](Arastirmalar/2026-Ozatovna-METHODOLOGY-FOR-USING-INTERACTIVE.md) — Ozatovna vd. (2026) · *HSR (London)* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -100,14 +102,14 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
-- [Reinforcement Learning to Rank Using Coarse-grained Rewards](Veritabanlari-ve-Bilgi-Sistemleri/Bilgi-Erisimi/Siralamayi-Ogrenme/Arastirmalar/2026-Tu-Reinforcement-Learning-Rank-Using.md) — Tu vd. (2026) · *ACM Transactions on Information Systems* · hakemli · atıf: 7
-- [Motorcycle Rider Face Detection: An Experiment with R-CNN and Faster R-CNN](Yapay-Zeka/Bilgisayarli-Goru/Nesne-Tespiti/Iki-Asamali-Dedektorler/Arastirmalar/2026-Muhaqiqin-Motorcycle-Rider-Face-Detection.md) — Muhaqiqin vd. (2026) · *Journal of Artificial Intelligence and Technology Information (JAITI)* · hakemli
-- [Securing Agentic AI Enterprise Workflows Against Prompt Injection Tool Poisoning Memory Manipulation and Excessive Agency Threats](Yapay-Zeka/Cok-Etmenli-Sistemler/LLM-Tabanli-Etmenler/Arastirmalar/2026-Nwakamma-Securing-Agentic-Enterprise-Workflows.md) — Nwakamma (2026) · *WORLD JOURNAL OF INNOVATION AND MODERN TECHNOLOGY* · hakemli · atıf: 18
-- [Stein discrepancy for unsupervised domain adaptation](Yapay-Zeka/Makine-Ogrenmesi/Aktarim-Ogrenmesi/Alan-Uyarlama/Arastirmalar/2026-Seeger-Stein-discrepancy-for-unsupervised.md) — Seeger vd. (2026) · *Statistics and Computing* · hakemli · atıf: 1
-- [Applying ranked set sampling to Gaussian mixture models of Glasgow Coma Scale scores in intracerebral hemorrhage](Yapay-Zeka/Makine-Ogrenmesi/Gozetimsiz-Ogrenme/Kumeleme/Karisim-Modelleri/Arastirmalar/2026-Ahmed-Applying-ranked-set-sampling.md) — Ahmed vd. (2026) · *Scientific Reports* · hakemli
-- [Calibration and Cross-Dataset Behavior in Malaria Microscopy with Parameter-Efficient Fine-Tuning: A Matched LoRA–PiSSA Evaluation](Yapay-Zeka/Makine-Ogrenmesi/Temel-Modeller/Buyuk-Dil-Modelleri/Parametre-Verimli-Ince-Ayar/Arastirmalar/2026-Boit-Calibration-and-Cross-Dataset.md) — Boit vd. (2026) · *Diagnostics* · hakemli
-- [Multi-Armed Bandit-Based Model Selection for Incremental Phishing Detection: An Empirical Study of Accuracy, Cost, and Concept Drift](Yapay-Zeka/Makine-Ogrenmesi/Pekistirmeli-Ogrenme/Cok-Kollu-Haydutlar/Arastirmalar/2026-Al-Tarawneh-Multi-Armed-Bandit-Based.md) — Al-Tarawneh vd. (2026) · *Information* · hakemli
-- [Blockchain Integrated Decentralized Cloud Storage and Immutable Smart Contract Platform for Secure and Trustworthy Collaborative BIM](Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Akilli-Sozlesmeler/Arastirmalar/2026-Sonmez-Blockchain-Integrated-Decentralized-Cloud.md) — Sönmez vd. (2026) · *Journal of Construction Engineering and Management* · hakemli
+- [Paving the Way for Link-State Routing in Satellite Networks with Fast and Seamless Ground Station Handovers](Bilgisayar-Aglari/Ag-Protokolleri/Ag-Katmani-Protokolleri/Yonlendirme-Protokolleri/Ic-Ag-Gecidi-Protokolleri/Baglanti-Durumu-Yonlendirme/Arastirmalar/2026-Rybowski-Paving-the-Way-for.md) — Rybowski vd. (2026) · *Proceedings of the ACM on Networking* · hakemli
+- [Combinatorial Approach to Circuit Complexity: From Approximate Quantum Codes to Lieb-Schultz-Mattis Constraints](Hesaplama-Kurami/Hesaplamali-Karmasiklik-Teorisi/Devre-Karmasikligi/Arastirmalar/2026-Yi-Combinatorial-Approach-Circuit-Complexity.md) — Yi vd. (2026) · *Physical Review Letters* · hakemli · atıf: 7
+- [Faster and Memory-Efficient Training of Sequential Recommendation Models for Large Catalogs](Veritabanlari-ve-Bilgi-Sistemleri/Bilgi-Erisimi/Oneri-Sistemleri/Sirali-Oneri/Arastirmalar/2026-Zhelnin-Faster-and-Memory-Efficient.md) — Zhelnin vd. (2026) · *ACM Transactions on Information Systems* · hakemli · atıf: 2
+- [FuseSR+: Spatial-Temporal Fusion for High-Scale Super-Resolution](Yapay-Zeka/Bilgisayarli-Goru/Goruntu-Onarimi/Super-Cozunurluk/Arastirmalar/2026-Huo-FuseSR-Spatial-Temporal-Fusion.md) — Huo vd. (2026) · *ACM Transactions on Graphics* · hakemli
+- [Lossless Latent Diffusion Models](Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Uretken-Modeller/Difuzyon-Modelleri/Gizil-Difuzyon-Modelleri/Arastirmalar/2026-Xu-Lossless-Latent-Diffusion-Models.md) — Xu vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [Security Framework for Detection of Denial of Service (DoS) Attack on Virtual Private Networks for Efficient Data Transmission](Bilgisayar-Guvenligi/Ag-Guvenligi/Sanal-Ozel-Aglar/Arastirmalar/2026-Ede-Security-Framework-for-Detection.md) — Ede (2026) · *RESEARCH JOURNAL OF PURE SCIENCE AND TECHNOLOGY* · hakemli · atıf: 2
+- [Privacy-Utility Tradeoffs with Quantum Local Differential Privacy](Bilgisayar-Guvenligi/Gizliligi-Artiran-Teknolojiler/Diferansiyel-Gizlilik/Yerel-Diferansiyel-Gizlilik/Arastirmalar/2026-Nuradha-Privacy-Utility-Tradeoffs-with.md) — Nuradha vd. (2026) · *Quantum Science and Technology* · hakemli · atıf: 3
+- [An Adaptive Compute-and-Wait Proof-of-Work Framework for Energy-Efficient and Scalable Blockchain Consensus](Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Konsensus-Mekanizmalari/Proof-of-Work/Arastirmalar/2026-Kara-Adaptive-Compute-and-Wait.md) — Kara (2026) · *Network* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

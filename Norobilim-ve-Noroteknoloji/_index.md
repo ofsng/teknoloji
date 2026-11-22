@@ -89,7 +89,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **5**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **9**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -99,11 +99,14 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [The influence of the 1/f component in non-invasive transcranial electrical stimulation waveforms on neural oscillations](Noromodulasyon/Transkraniyal-Elektrik-Stimulasyonu/Arastirmalar/2026-Nakazono-The-influence-the-component.md) — Nakazono vd. (2026) · *Journal of NeuroEngineering and Rehabilitation* · hakemli
+- [Focused ultrasound neuromodulation of mediodorsal thalamus disrupts decision flexibility during reward learning](Noromodulasyon/Odaklanmis-Ultrason-Noromodulasyonu/Arastirmalar/2026-Mackenzie-Focused-ultrasound-neuromodulation-med.md) — Mackenzie vd. (2026) · *Nature Communications* · hakemli · atıf: 2
 - [Revolutionizing mobility: Brain computer interfaces and their applications in prosthetics](Beyin-Bilgisayar-Arayuzleri/Arastirmalar/2026-Ryuzaki-Revolutionizing-mobility-Brain-computer.md) — Ryuzaki (2026) · *Proceedings of the Nova Scotian Institute of Science* · hakemli
+- [Low Ouabain Concentration Differentially Modulates Spontaneous and Evoked Synaptic Transmission: Role of NCX Subtypes](Hucresel-ve-Molekuler-Norobilim/Sinaptik-Iletim/Arastirmalar/2026-Stepanenko-Low-Ouabain-Concentration-Differentia.md) — Stepanenko vd. (2026) · *Current Issues in Molecular Biology* · hakemli
 - [Neuroergonomic Comparison of User Experience and System Performance for SSVEP-Based Brain Computer Interfaces in Mixed Reality and Virtual Reality Environments](Beyin-Bilgisayar-Arayuzleri/Arastirmalar/2026-Qi-Neuroergonomic-Comparison-User-Experience.md) — Qi vd. (2026) · *International Journal of Human-Computer Interaction* · hakemli
+- [Acid-sensing ion channels in pain and psychiatric disorders: from basic properties to comorbidity mechanisms](Hucresel-ve-Molekuler-Norobilim/Iyon-Kanallari/Arastirmalar/2026-Li-Acid-sensing-ion-channels.md) — Li vd. (2026) · *Frontiers in Pharmacology* · hakemli
 - [Vagus nerve stimulation in obesity: a systematic review and meta-analysis](Noromodulasyon/Vagus-Siniri-Stimulasyonu/Arastirmalar/2026-Bradfield-Vagus-nerve-stimulation-obesity.md) — Bradfield vd. (2026) · *Frontiers in Neuroscience* · hakemli
 - [No Additional Benefit of 185 Hz Versus 130 Hz at Equivalent Energy in Deep Brain Stimulation for Tremor: A Randomized Prospective Clinical Trial](Noromodulasyon/Derin-Beyin-Stimulasyonu/Arastirmalar/2026-Linden-Additional-Benefit-185-Versus.md) — Linden vd. (2026) · *Movement Disorders Clinical Practice* · hakemli
-- [Transcranial magnetic stimulation to the dorsolateral prefrontal cortex modulates single-neuron activity in humans](Noromodulasyon/Transkraniyal-Manyetik-Stimulasyon/Arastirmalar/2026-Dickey-Transcranial-magnetic-stimulation-the.md) — Dickey vd. (2026) · *Proceedings of the National Academy of Sciences* · hakemli · atıf: 2
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

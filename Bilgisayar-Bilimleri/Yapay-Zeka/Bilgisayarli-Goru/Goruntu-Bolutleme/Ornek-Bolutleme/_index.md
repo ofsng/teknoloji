@@ -75,7 +75,10 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **2**.
+
+- [Real-time instance segmentation of spine endoscopy images using a YOLO-V11 deep convolutional neural network](Arastirmalar/2026-Jung-Real-time-instance-segmentation.md) — Jung vd. (2026) · *PLoS ONE* · hakemli
+- [Real-Time Instance Segmentation of Deep-Sea Polymetallic Nodules with Wavelet Statistical Cross-Attention and Reverse Convolution Upsampling](Arastirmalar/2026-Liu-Real-Time-Instance-Segmentation.md) — Liu vd. (2026) · *Journal of Marine Science and Engineering* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -83,7 +86,10 @@ Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
-_Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini göstermez; ön baskılar hakemli değildir._
+Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
+
+- [Real-time instance segmentation of spine endoscopy images using a YOLO-V11 deep convolutional neural network](Arastirmalar/2026-Jung-Real-time-instance-segmentation.md) — Jung vd. (2026) · *PLoS ONE* · hakemli
+- [Real-Time Instance Segmentation of Deep-Sea Polymetallic Nodules with Wavelet Statistical Cross-Attention and Reverse Convolution Upsampling](Arastirmalar/2026-Liu-Real-Time-Instance-Segmentation.md) — Liu vd. (2026) · *Journal of Marine Science and Engineering* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

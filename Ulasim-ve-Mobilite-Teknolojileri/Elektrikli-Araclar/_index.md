@@ -80,7 +80,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **3**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **4**.
 
 - [Causal spillover effects of electric vehicle charging station placement on local businesses: a staggered adoption study](Arastirmalar/2026-Silva-Causal-spillover-effects-electric.md) — Silva vd. (2026) · *npj Sustainable Mobility and Transport* · hakemli · atıf: 2
 <!-- AUTO:RESEARCH:END -->
@@ -92,6 +92,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Sustainable Fresh-Food Electric Vehicle Routing with Load-Dependent Energy Consumption and Battery Swapping: A PSO-Guided Adaptive Multi-Operator Genetic Algorithm](EA-Sarj-Teknolojileri/Batarya-Degisimi/Arastirmalar/2026-Li-Sustainable-Fresh-Food-Electric.md) — Li vd. (2026) · *Sustainability* · hakemli
 - [A Dual-Evaluation Collaborative Decision Deep Reinforcement Learning Strategy for Multi-Constraint Energy Management of Hybrid Electric Vehicles](Hibrit-Elektrikli-Araclar/Arastirmalar/2026-Zeng-Dual-Evaluation-Collaborative-Decision.md) — Zeng vd. (2026) · *Energies* · hakemli
 - [Incremental Cost-effectiveness Analysis of Battery Electric Vehicle (BEV) Electromobility in Metro Manila](Bataryali-Elektrikli-Araclar/Arastirmalar/2026-Merced-Incremental-Cost-effectiveness-Analysis.md) — Merced (2026) · *Journal of Energy Research and Reviews* · hakemli
 - [Causal spillover effects of electric vehicle charging station placement on local businesses: a staggered adoption study](Arastirmalar/2026-Silva-Causal-spillover-effects-electric.md) — Silva vd. (2026) · *npj Sustainable Mobility and Transport* · hakemli · atıf: 2

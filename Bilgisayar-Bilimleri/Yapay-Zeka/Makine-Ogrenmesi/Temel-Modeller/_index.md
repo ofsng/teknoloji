@@ -77,7 +77,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **26**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **29**.
+
+- [SpaRRTa: A Synthetic Benchmark for Evaluating Spatial Intelligence in Visual Foundation Models](Arastirmalar/2026-Kargin-SpaRRTa-Synthetic-Benchmark-for.md) — Kargin vd. (2026) · *Int. J. Comput. Vis. 134, 521 (2026)* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -87,6 +89,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Understanding the Fundamental Design Decisions of Retrieval-Augmented Generation Systems](Buyuk-Dil-Modelleri/Erisimle-Zenginlestirilmis-Uretim/Arastirmalar/2026-Zhao-Understanding-the-Fundamental-Design.md) — Zhao vd. (2026) · *ACM Transactions on Software Engineering and Methodology* · hakemli · atıf: 49
 - [Calibration and Cross-Dataset Behavior in Malaria Microscopy with Parameter-Efficient Fine-Tuning: A Matched LoRA–PiSSA Evaluation](Buyuk-Dil-Modelleri/Parametre-Verimli-Ince-Ayar/Arastirmalar/2026-Boit-Calibration-and-Cross-Dataset.md) — Boit vd. (2026) · *Diagnostics* · hakemli
 - [TokenDial: Continuous Attribute Control for Text-to-Video Generation in Visual Dial Space](Cok-Kipli-Temel-Modeller/Metinden-Video-Uretimi/Arastirmalar/2026-Liu-TokenDial-Continuous-Attribute-Control.md) — Liu vd. (2026) · *ACM Transactions on Graphics* · hakemli · atıf: 2
 - [Quantifying multi-lesion detection and localization in whole-body FDG PET/CT with a multimodal foundation model](Cok-Kipli-Temel-Modeller/Arastirmalar/2026-Liu-Quantifying-multi-lesion-detection.md) — Liu vd. (2026) · *Physics in Medicine and Biology* · hakemli
@@ -94,7 +97,6 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [FedReason: Large Language Models as Weight-Space Meta-Aggregators for Heterogeneous Federated Learning](Buyuk-Dil-Modelleri/Arastirmalar/2026-Ruzbahani-FedReason-Large-Language-Models.md) — Ruzbahani vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [Benchmarking Large Language Models on Heterogeneous Cognitive and Biomedical Knowledge Graphs: The Role of Graph Grounding in Multi-Hop Reasoning and Hallucination Mitigation](Buyuk-Dil-Modelleri/Arastirmalar/2026-Sarabadani-Benchmarking-Large-Language-Models.md) — Sarabadani vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [Encoding and Propagation of Grammatical Number in Large Language Models](Buyuk-Dil-Modelleri/Arastirmalar/2026-Solinsky-Encoding-and-Propagation-Grammatical.md) — Solinsky vd. (2026) · *arXiv* · ön baskı / hakemsiz
-- [When, Where, How: Active In-Context Learning for Tabular Foundation Models](Buyuk-Dil-Modelleri/Baglam-Ici-Ogrenme/Arastirmalar/2026-Frey-When-Where-How-Active.md) — Frey (2026) · *arXiv* · ön baskı / hakemsiz
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

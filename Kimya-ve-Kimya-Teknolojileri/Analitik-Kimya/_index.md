@@ -80,7 +80,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **3**.
+
+- [Green Analytical Chemistry-Oriented RPLC Method for Determining the Dissociation Constant of the Nootropic Drug Piracetam in Binary Solvent Systems](Arastirmalar/2026-Daldal-Green-Analytical-Chemistry-Oriented.md) — Daldal vd. (2026) · *Journal of Chemical & Engineering Data* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -90,6 +92,8 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Assessing the Representativeness of Cell Sampling in Single Cell-ICP-MS Using Ru-Based Cell Size Markers and LA-ICP-MS](Atomik-Spektrometri/Arastirmalar/2026-Nikolic-Assessing-the-Representativeness-Cell.md) — Nikolić vd. (2026) · *Analytical Chemistry* · hakemli
+- [Green Analytical Chemistry-Oriented RPLC Method for Determining the Dissociation Constant of the Nootropic Drug Piracetam in Binary Solvent Systems](Arastirmalar/2026-Daldal-Green-Analytical-Chemistry-Oriented.md) — Daldal vd. (2026) · *Journal of Chemical & Engineering Data* · hakemli
 - [Assessment of Sub-50 nm Nanopipette Emitters for Native Electrospray Ionization Mass Spectrometry](Kutle-Spektrometrisi/Arastirmalar/2026-Byrd-Assessment-Sub-Nanopipette-Emitters.md) — Byrd vd. (2026) · *Journal of the American Society for Mass Spectrometry* · hakemli · atıf: 1
 <!-- AUTO:RECENT:END -->
 

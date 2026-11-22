@@ -79,7 +79,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **3**, alt teknolojiler dahil: **5**.
+Arşivdeki kayıtlar — bu düğüm: **3**, alt teknolojiler dahil: **7**.
 
 - [GridXAI-diffusion an adaptive graph intelligence framework for interpretable data integrity analysis in smart grid cybersecurity systems](Arastirmalar/2026-Issac-GridXAI-diffusion-adaptive-graph.md) — Issac vd. (2026) · *Scientific Reports* · hakemli
 - [A blockchain-secured multi-agent GNN–XGBoost framework for intelligent energy coordination in IoT-enabled sustainable smart grids](Arastirmalar/2026-Kommerla-blockchain-secured-multi-agent.md) — Kommerla vd. (2026) · *Scientific Reports* · hakemli
@@ -93,11 +93,13 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Centralized vehicle-to-grid coordination for behind-the-meter value in commercial fleets: Evidence and deployment lessons from a pilot demonstration](Aractan-Sebekeye/Arastirmalar/2026-Egunjobi-Centralized-vehicle-grid-coordination.md) — Egunjobi vd. (2026) · *Energy Reports* · hakemli
 - [A blockchain-secured multi-agent GNN–XGBoost framework for intelligent energy coordination in IoT-enabled sustainable smart grids](Arastirmalar/2026-Kommerla-blockchain-secured-multi-agent.md) — Kommerla vd. (2026) · *Scientific Reports* · hakemli
 - [Digital twin–guided graph-transformer with meta-reinforcement learning for real-time adaptive cyber-attack mitigation in smart grids](Arastirmalar/2026-Manogaran-Digital-twinguided-graph-transformer.md) — Manogaran vd. (2026) · *Scientific Reports* · hakemli
 - [Hierarchical Reinforcement Learning for Degradation-Aware and Coordinated Control of Virtual Power Plants](Sanal-Guc-Santralleri/Arastirmalar/2026-Arjun-Hierarchical-Reinforcement-Learning-for.md) — Arjun vd. (2026) · *Industrial & Engineering Chemistry Research* · hakemli
 - [GridXAI-diffusion an adaptive graph intelligence framework for interpretable data integrity analysis in smart grid cybersecurity systems](Arastirmalar/2026-Issac-GridXAI-diffusion-adaptive-graph.md) — Issac vd. (2026) · *Scientific Reports* · hakemli
 - [Resource Modeling, Market Participation, and Coordinated Operation of Virtual Power Plants: A Review](Sanal-Guc-Santralleri/Arastirmalar/2026-Li-Resource-Modeling-Market-Participation.md) — Li vd. (2026) · *Energies* · hakemli
+- [Optimization of New Load Connection Points in Distribution Networks Considering Electricity–Carbon Trading and Demand Response](Talep-Yaniti/Arastirmalar/2026-Yi-Optimization-New-Load-Connection.md) — Yi vd. (2026) · *Energies* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

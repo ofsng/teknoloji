@@ -80,7 +80,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **3**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -90,6 +90,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Solving Time Complexity Issues in Storage Area Network using Enhanced Homomorphic Encryption](Depolama-Sistemleri/Depolama-Alani-Aglari/Arastirmalar/2026-Asimini-Hart-Solving-Time-Complexity-Issues.md) — Asimini-Hart (2026) · *INTERNATIONAL JOURNAL OF COMPUTER SCIENCE AND MATHEMATICAL THEORY E-ISSN* · hakemli
 - [Reducing Test Response Volume and Test Time in Direct-Access-Based High-Bandwidth Memory Testing](Yari-Iletken-Bellek/Ucucu-Bellek/DRAM/Yuksek-Bant-Genislikli-Bellek/Arastirmalar/2026-Koo-Reducing-Test-Response-Volume.md) — Koo vd. (2026) · *Electronics* · hakemli
 - [Read-reference voltage adaptation for 3D NAND flash memory via RBER-aware few-shot transfer learning](Yari-Iletken-Bellek/Ucucu-Olmayan-Bellek/Flash-Bellek/NAND-Flash/3B-NAND/Arastirmalar/2026-Li-Read-reference-voltage-adaptation.md) — Li vd. (2026) · *Scientific Reports* · hakemli
 <!-- AUTO:RECENT:END -->

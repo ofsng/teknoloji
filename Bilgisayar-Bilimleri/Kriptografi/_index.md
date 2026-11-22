@@ -91,7 +91,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **6**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **14**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -101,8 +101,14 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [A Nonce-Bound Lightweight Mutual Authentication Protocol for UAV-Assisted Smart Mining Systems](Kriptografik-Protokoller/Kimlik-Dogrulama-Protokolleri/Arastirmalar/2026-Li-Nonce-Bound-Lightweight-Mutual.md) — Li vd. (2026) · *Electronics* · hakemli
+- [Flash: Fast, Lightweight Private Set Intersection with Malicious Security Almost for Free](Guvenli-Cok-Tarafli-Hesaplama/Ozel-Kume-Kesisimi/Arastirmalar/2026-Jiang-Flash-Fast-Lightweight-Private.md) — Jiang vd. (2026) · *Journal of Machine Learning and Information Security* · hakemli
+- [ULB: An ultra-lightweight block cipher](Simetrik-Anahtarli-Kriptografi/Blok-Sifreler/Hafif-Blok-Sifreler/Arastirmalar/2026-Wang-ULB-ultra-lightweight-block.md) — Wang vd. (2026) · *PLoS ONE* · hakemli
+- [Harmonic Lyrebird Optimization with PyramidNet for Interested Region Selection-Based Image Steganography with Elliptic Curve Cryptography](Acik-Anahtarli-Kriptografi/Eliptik-Egri-Kriptografisi/Arastirmalar/2026-Eswari-Harmonic-Lyrebird-Optimization-with.md) — Eswari vd. (2026) · *Journal of Circuits Systems and Computers* · hakemli
+- [Resultant-based verifiable threshold secret sharing for secure AI–blockchain ecosystems: towards quantum-safe cryptography](Guvenli-Cok-Tarafli-Hesaplama/Gizli-Paylasim/Arastirmalar/2026-Rasheed-Resultant-based-verifiable-threshold.md) — Rasheed vd. (2026) · *Frontiers in Blockchain* · hakemli
+- [A Three-Layer Authentication Protocol for Secure Access Control in AI-Based Enterprise Document Management Systems](Kriptografik-Protokoller/Kimlik-Dogrulama-Protokolleri/Arastirmalar/2026-Park-Three-Layer-Authentication-Protocol.md) — Park (2026) · *Electronics* · hakemli
 - [SoK: Post-Quantum Cryptography (PQC) Integration in Software Development: Approaches, Gaps, and Future Directions](Kuantum-Sonrasi-Kriptografi/Arastirmalar/2026-N-SoK-Post-Quantum-Cryptography.md) — N. vd. (2026) · *arXiv* · ön baskı / hakemsiz
-- [Fully homomorphic encryption on LlaMA 3 model for partial privacy preserving LLM inference](Homomorfik-Sifreleme/Tam-Homomorfik-Sifreleme/Arastirmalar/2026-Abdennebi-Fully-homomorphic-encryption-LlaMA.md) — Abdennebi vd. (2026) · *Journal of Systems Architecture* · hakemli · atıf: 1
+- [A Systems-Level Performance Study of Post-Quantum TLS with ML-KEM and ML-DSA in Modern OpenSSL](Kuantum-Sonrasi-Kriptografi/Kafes-Tabanli-Kriptografi/Arastirmalar/2026-Dubetskyy-Systems-Level-Performance-Study.md) — Dubetskyy vd. (2026) · *Information* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

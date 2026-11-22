@@ -75,7 +75,10 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **2**.
+
+- [Loop Quantum Gravity Black Holes Surrounded by Quintessence](Arastirmalar/2026-AlBadawi-Loop-Quantum-Gravity-Black.md) — Al‐Badawi vd. (2026) · *International Journal of Geometric Methods in Modern Physics* · hakemli · atıf: 4
+- [Physical Predictions in Closed Quantum Gravity](Arastirmalar/2026-Nomura-Physical-Predictions-Closed-Quantum.md) — Nomura vd. (2026) · *arXiv* · ön baskı / hakemsiz
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -83,7 +86,10 @@ Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
-_Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini göstermez; ön baskılar hakemli değildir._
+Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
+
+- [Loop Quantum Gravity Black Holes Surrounded by Quintessence](Arastirmalar/2026-AlBadawi-Loop-Quantum-Gravity-Black.md) — Al‐Badawi vd. (2026) · *International Journal of Geometric Methods in Modern Physics* · hakemli · atıf: 4
+- [Physical Predictions in Closed Quantum Gravity](Arastirmalar/2026-Nomura-Physical-Predictions-Closed-Quantum.md) — Nomura vd. (2026) · *arXiv* · ön baskı / hakemsiz
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

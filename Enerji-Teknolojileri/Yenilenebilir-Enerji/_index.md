@@ -81,7 +81,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **13**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **27**.
 
 - [RENEWABLE ENERGY INTEGRATION AND ENERGY SECURITY IN SOUTHEASTERN NIGERIA: CHALLENGES, OPPORTUNITIES, AND STRATEGIC PATHWAYS](Arastirmalar/2026-Ifeachor-RENEWABLE-ENERGY-INTEGRATION-AND.md) — Ifeachor (2026) · *British Journal of Advanced Research* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -93,14 +93,14 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Static-Torque Enhancement of Darrieus Vertical-Axis Wind Turbines with Dual-Airfoil Blades](Ruzgar-Enerjisi/Dikey-Eksenli-Ruzgar-Turbinleri/Arastirmalar/2026-Arana-Static-Torque-Enhancement-Darrieus.md) — Arana vd. (2026) · *Wind* · hakemli
+- [Spatial prioritization of official offshore wind zones in the Colombian Caribbean: A comparative assessment of fixed-bottom and floating areas](Ruzgar-Enerjisi/Deniz-Ustu-Ruzgar/Arastirmalar/2026-Robles-Algarin-Spatial-prioritization-official-o.md) — Robles-Algarín vd. (2026) · *Energy Exploration & Exploitation* · hakemli
+- [A surrogate-assisted reinforcement learning framework for layout optimization and economic assessment of dense urban vertical-axis wind turbine arrays](Ruzgar-Enerjisi/Dikey-Eksenli-Ruzgar-Turbinleri/Arastirmalar/2026-Zaidi-surrogate-assisted-reinforcement-learning.md) — Zaidi (2026) · *Wind Engineering* · hakemli
 - [Optimizing the Performance of Perovskite Solar Cells through Triple-Diode Model: Achieving Maximum Power Conversion Efficiency and Minimizing Statistical Errors](Gunes-Enerjisi/Fotovoltaik/Perovskit-Gunes-Hucreleri/Arastirmalar/2026-Subash-Optimizing-the-Performance-Perovskite.md) — Subash vd. (2026) · *Journal of Circuits Systems and Computers* · hakemli
+- [Economic viability of floating offshore wind in Portugal with varying market conditions and financial support mechanisms](Ruzgar-Enerjisi/Deniz-Ustu-Ruzgar/Yuzer-Deniz-Ustu-Ruzgar/Arastirmalar/2026-White-Economic-viability-floating-offshore.md) — White vd. (2026) · *Wind energy science* · hakemli · atıf: 1
 - [RENEWABLE ENERGY INTEGRATION AND ENERGY SECURITY IN SOUTHEASTERN NIGERIA: CHALLENGES, OPPORTUNITIES, AND STRATEGIC PATHWAYS](Arastirmalar/2026-Ifeachor-RENEWABLE-ENERGY-INTEGRATION-AND.md) — Ifeachor (2026) · *British Journal of Advanced Research* · hakemli
-- [Regional infrastructure repurposing: Pathways from assessment to geothermal energy production and storage](Jeotermal-Enerji/Arastirmalar/2026-Christi-Regional-infrastructure-repurposing-Path.md) — Christi vd. (2026) · *Applied Energy* · hakemli
-- [Aerodynamic Design and Numerical Assessment of a 1.5 kW Helical Vertical-Axis Wind Turbine Using DMST and Three-Dimensional CFD](Ruzgar-Enerjisi/Dikey-Eksenli-Ruzgar-Turbinleri/Arastirmalar/2026-Valdovinos-Aerodynamic-Design-and-Numerical.md) — Valdovinos vd. (2026) · *Eng—Advances in Engineering* · hakemli
-- [Improved Biomass Production via Enhanced Inorganic Carbon Availability Using Crystalline Calcium Silicate Hydrate in a Marine Oleaginous Diatom Cultivation for Sustainable Aviation Fuel Production](Biyoenerji/Biyoyakitlar/Surdurulebilir-Havacilik-Yakitlari/Arastirmalar/2026-Murata-Improved-Biomass-Production-via.md) — Murata vd. (2026) · *ACS Sustainable Chemistry & Engineering* · hakemli
-- [Solar Energy Transition in a Pilgrimage City: A Document-Based Assessment of Renewable Energy Planning and Tourism Growth in Ayodhya, India](Gunes-Enerjisi/Arastirmalar/2026-Kumar-Solar-Energy-Transition-Pilgrimage.md) — Kumar vd. (2026) · *Physical Science International Journal* · hakemli
-- [Evaluation of a Dye-Sensitized Solar Cell (DSSC) device based on Agaricus bisporus extract](Gunes-Enerjisi/Fotovoltaik/Boya-Duyarli-Gunes-Hucreleri/Arastirmalar/2026-Zavala-Barba-Evaluation-Dye-Sensitized-Solar.md) — Zavala-Barba vd. (2026) · *ECORFAN Journal Republic of Guatemala* · hakemli
-- [Fabrication, Transportation, and Installation of Fixed and Floating Offshore Wind Turbines: A State of the Art Review](Ruzgar-Enerjisi/Deniz-Ustu-Ruzgar/Yuzer-Deniz-Ustu-Ruzgar/Arastirmalar/2026-Hermanto-Fabrication-Transportation-and-Installa.md) — Hermanto vd. (2026) · *Maritime Park Journal of Maritime Technology and Society* · hakemli
+- [Modelling annual wave-induced loss for floating photovoltaics under realistic weather conditions](Gunes-Enerjisi/Fotovoltaik/Yuzer-Fotovoltaik/Arastirmalar/2026-Nysted-Modelling-annual-wave-induced.md) — Nysted vd. (2026) · *Solar Energy* · hakemli
+- [The Use of Phase Change Materials in Ground Source Heat Pump Applications: Research Review and Future Opportunities](Jeotermal-Enerji/Toprak-Kaynakli-Isi-Pompalari/Arastirmalar/2026-Khaleel-The-Use-Phase-Change.md) — Khaleel vd. (2026) · *Energy storage and applications* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

@@ -77,7 +77,10 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
+Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **5**.
+
+- [A novel similarity metric to increase the number of rating predictions in recommender systems using hashing and node-embedding](Arastirmalar/2026-Muppana-novel-similarity-metric-increase.md) — Muppana vd. (2026) · *Web Intelligence* · hakemli
+- [Target User Attack on Federated Recommender Systems with Proxy Items and Its Countermeasure](Arastirmalar/2026-Zheng-Target-User-Attack-Federated.md) — Zheng vd. (2026) · *ACM Transactions on Information Systems* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -87,7 +90,10 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Faster and Memory-Efficient Training of Sequential Recommendation Models for Large Catalogs](Sirali-Oneri/Arastirmalar/2026-Zhelnin-Faster-and-Memory-Efficient.md) — Zhelnin vd. (2026) · *ACM Transactions on Information Systems* · hakemli · atıf: 2
+- [A novel similarity metric to increase the number of rating predictions in recommender systems using hashing and node-embedding](Arastirmalar/2026-Muppana-novel-similarity-metric-increase.md) — Muppana vd. (2026) · *Web Intelligence* · hakemli
 - [Rancang Bangun Sistem E-Commerce Koperasi Desa Merah Putih Silian Satu Berbasis Website dengan Fitur Rekomendasi Produk Menggunakan Algoritma Content-Based Filtering](Icerik-Tabanli-Filtreleme/Arastirmalar/2026-Meteng-Rancang-Bangun-Sistem-Commerce.md) — Meteng vd. (2026) · *Jurnal JTIK (Jurnal Teknologi Informasi dan Komunikasi)* · hakemli
+- [Target User Attack on Federated Recommender Systems with Proxy Items and Its Countermeasure](Arastirmalar/2026-Zheng-Target-User-Attack-Federated.md) — Zheng vd. (2026) · *ACM Transactions on Information Systems* · hakemli
 - [Robust learning under natural rating noise for collaborative filtering](Isbirlikci-Filtreleme/Arastirmalar/2026-Braida-Robust-learning-under-natural.md) — Braida vd. (2026) · *International Journal of Data Science and Analytics* · hakemli
 <!-- AUTO:RECENT:END -->
 

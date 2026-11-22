@@ -82,7 +82,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -92,6 +92,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Partial Differential Equations: Overview, Applications, and Numerical Solutions](Kismi-Diferansiyel-Denklemler/Arastirmalar/2026-Babatunde-Partial-Differential-Equations-Overvie.md) — Babatunde vd. (2026) · *Mathematics* · hakemli
 - [Practical and Lipschitz stability for generalized ordinary differential equations and functional Volterra–Stieltjes integral equations](Adi-Diferansiyel-Denklemler/Arastirmalar/2026-Afonso-Practical-and-Lipschitz-stability.md) — Afonso vd. (2026) · *Journal of Mathematical Analysis and Applications* · hakemli
 <!-- AUTO:RECENT:END -->
 

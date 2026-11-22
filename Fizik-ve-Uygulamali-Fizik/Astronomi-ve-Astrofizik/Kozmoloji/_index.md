@@ -77,7 +77,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **6**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **8**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -87,12 +87,14 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Union3.1: Reducing Systematics in Supernova Cosmology with Self-consistent Measurements of Host Galaxy Properties for 2000 Type Ia Supernovae](Kozmik-Mikrodalga-Arka-Plan/Arastirmalar/2026-Hoyt-Union3-Reducing-Systematics-Supernova.md) — Hoyt vd. (2026) · *The Astrophysical Journal* · hakemli · atıf: 53
 - [Anisotropic response in bilayer graphene for light dark matter detection](Karanlik-Madde/Arastirmalar/2026-Sherpa-Anisotropic-response-bilayer-graphene.md) — Sherpa vd. (2026) · *Physical review. D/Physical review. D.* · hakemli · atıf: 3
 - [Partial relief of the Hubble tension and a natural self-interacting dark matter candidate from staged symmetry breaking](Karanlik-Madde/Arastirmalar/2026-Hoelscher-Partial-relief-the-Hubble.md) — Hoelscher vd. (2026) · *Physical review. D/Physical review. D.* · hakemli · atıf: 1
 - [Coherent collective response in many-qubit systems for dark matter detection](Karanlik-Madde/Arastirmalar/2026-Kitano-Coherent-collective-response-many.md) — Kitano vd. (2026) · *Physical review. D/Physical review. D.* · hakemli · atıf: 1
 - [Dark Energy Survey year 6 results: Cosmological constraints from galaxy clustering and weak lensing](Karanlik-Enerji/Arastirmalar/2026-Abbott-Dark-Energy-Survey-year.md) — Abbott vd. (2026) · *Physical review. D/Physical review. D.* · hakemli · atıf: 101
 - [Migdal ionization as a probe of light dark matter from nuclear transition](Karanlik-Madde/Arastirmalar/2026-Lou-Migdal-ionization-probe-light.md) — Lou vd. (2026) · *Journal of High Energy Physics* · hakemli
 - [The Role of Dark Matter in Driving Disk Perturbations: Application to LMC–SMC-like Galaxy Interactions](Karanlik-Madde/Arastirmalar/2026-Rathore-The-Role-Dark-Matter.md) — Rathore vd. (2026) · *The Astrophysical Journal* · hakemli
+- [Higgsino Dark Matter Interpretation of the LUX-ZEPLIN 248 keV Nuclear-Recoil Event](Karanlik-Madde/Arastirmalar/2026-Freese-Higgsino-Dark-Matter-Interpretation.md) — Freese vd. (2026) · *arXiv* · ön baskı / hakemsiz
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

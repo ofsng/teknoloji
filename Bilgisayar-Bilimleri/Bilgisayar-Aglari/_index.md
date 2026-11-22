@@ -85,7 +85,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **7**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **13**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -95,13 +95,14 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Paving the Way for Link-State Routing in Satellite Networks with Fast and Seamless Ground Station Handovers](Ag-Protokolleri/Ag-Katmani-Protokolleri/Yonlendirme-Protokolleri/Ic-Ag-Gecidi-Protokolleri/Baglanti-Durumu-Yonlendirme/Arastirmalar/2026-Rybowski-Paving-the-Way-for.md) — Rybowski vd. (2026) · *Proceedings of the ACM on Networking* · hakemli
+- [A hybrid bio-inspired and machine learning framework for adaptive congestion control and multi-objective QoS optimization in heterogeneous network](Ag-Protokolleri/Tasima-Katmani-Protokolleri/Tikaniklik-Denetimi/Arastirmalar/2026-Jagadish-hybrid-bio-inspired-and.md) — Jagadish vd. (2026) · *Scientific Reports* · hakemli
+- [A 3D distance-augmented Gauss-Markov mobility model for QoS improvement in Mobile Ad hoc Networks](Ad-Hoc-ve-Orgu-Aglar/Mobil-Ad-Hoc-Aglar/Arastirmalar/2026-Barbhuyan-distance-augmented-Gauss-Markov.md) — Barbhuyan vd. (2026) · *Discover Computing* · hakemli
+- [Bio-Inspired Vehicular Ad-Hoc Network Routing Protocol A Review for VANET Security](Ad-Hoc-ve-Orgu-Aglar/Aracsal-Ad-Hoc-Aglar/Arastirmalar/2026-Fadhil-Bio-Inspired-Vehicular-Hoc.md) — Fadhil vd. (2026) · *Journal of Information and Cybersecurity* · hakemli
+- [A Design of Intelligent Autonomous Mining with Dynamic Time Warping Through Deep Learning for End-to-End Industrial Internet of Things Application](Nesnelerin-Interneti/Endustriyel-Nesnelerin-Interneti/Arastirmalar/2026-Satyavathi-Design-Intelligent-Autonomous-Mining.md) — Satyavathi vd. (2026) · *The International Journal of Maritime Engineering* · hakemli
+- [FSTDO: a hybrid heuristic-algorithm-based multi-objective function formulation for multipath routing mechanism in MANET](Ad-Hoc-ve-Orgu-Aglar/Mobil-Ad-Hoc-Aglar/Arastirmalar/2026-Brahmaiah-FSTDO-hybrid-heuristic-algorithm.md) — Brahmaiah vd. (2026) · *Journal of Statistical Computation and Simulation* · hakemli
 - [Adaptive confidence-aware deep authentication framework for secure industrial Internet of Things](Nesnelerin-Interneti/Endustriyel-Nesnelerin-Interneti/Arastirmalar/2026-Kalyanakumar-Adaptive-confidence-aware-deep.md) — Kalyanakumar vd. (2026) · *Scientific Reports* · hakemli
 - [Fuzzy-clustering–based multi-scale intrusion detection for the industrial internet of things](Nesnelerin-Interneti/Endustriyel-Nesnelerin-Interneti/Arastirmalar/2026-Yang-Fuzzy-clusteringbased-multi-scale.md) — Yang vd. (2026) · *PLoS ONE* · hakemli
-- [Software-Defined Networking in Modern Networks: A Systematic Literature Review of Architectures, Benefits, and Deployment Challenges (2020–2026)](Yazilim-Tanimli-Aglar/Arastirmalar/2026-Awan-Software-Defined-Networking-Modern.md) — Awan vd. (2026) · *Iconic Research and Engineering Journals* · hakemli
-- [Fire Bloom: Energy-Efficient Cluster-Based Routing Protocol for Scalable Wireless Sensor Networks](Ad-Hoc-ve-Orgu-Aglar/Kablosuz-Algilayici-Aglari/Arastirmalar/2026-Nagaraju-Fire-Bloom-Energy-Efficient.md) — Nagaraju vd. (2026) · *Journal of ICT Research and Applications* · hakemli
-- [Adaptive Anomaly Detection Method for Distributed Internet of Things Systems under Non-Stationary Traffic Conditions](Nesnelerin-Interneti/Arastirmalar/2026-Andreev-Adaptive-Anomaly-Detection-Method.md) — Andreev vd. (2026) · *Proceedings of Telecommunication Universities* · hakemli
-- [An Adaptive Trust-Based Approach to the Protection of Software-Defined Wireless Sensor Networks Against Multiple Types of DoS Attacks](Ad-Hoc-ve-Orgu-Aglar/Kablosuz-Algilayici-Aglari/Arastirmalar/2026-Wang-Adaptive-Trust-Based-Approach.md) — Wang vd. (2026) · *Electronics* · hakemli
-- [Evaluasi Kinerja Software-Defined Networking Pada Topologi Fat-Tree Untuk Efisiensi Bandwidth](Yazilim-Tanimli-Aglar/Arastirmalar/2026-Munaldi-Evaluasi-Kinerja-Software-Defined.md) — Munaldi vd. (2026) · *SMARTICS Journal* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

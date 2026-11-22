@@ -75,7 +75,11 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **3**, alt teknolojiler dahil: **3**.
+
+- [High-Performance Self-Powered Infrared Photodetector via Semiconducting Graphene Nanoribbon/Germanium Vertical Heterojunctions with Robust Thermal Stability](Arastirmalar/2026-Sun-High-Performance-Self-Powered.md) — Sun vd. (2026) · *ACS Applied Materials & Interfaces* · hakemli
+- [Molecular Engineering of Graphene Nanoribbons for Controlled Electronic Structure and Charge Transport](Arastirmalar/2026-Thanasekar-Molecular-Engineering-Graphene-Nanori.md) — Thanasekar vd. (2026) · *Small* · hakemli
+- [Ultra-narrow-gate single-electron transistors based on crossed graphene nanoribbons](Arastirmalar/2026-Wu-Ultra-narrow-gate-single.md) — Wu vd. (2026) · *Quantum Frontiers* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -83,7 +87,11 @@ Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
-_Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini göstermez; ön baskılar hakemli değildir._
+Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
+
+- [Molecular Engineering of Graphene Nanoribbons for Controlled Electronic Structure and Charge Transport](Arastirmalar/2026-Thanasekar-Molecular-Engineering-Graphene-Nanori.md) — Thanasekar vd. (2026) · *Small* · hakemli
+- [Ultra-narrow-gate single-electron transistors based on crossed graphene nanoribbons](Arastirmalar/2026-Wu-Ultra-narrow-gate-single.md) — Wu vd. (2026) · *Quantum Frontiers* · hakemli
+- [High-Performance Self-Powered Infrared Photodetector via Semiconducting Graphene Nanoribbon/Germanium Vertical Heterojunctions with Robust Thermal Stability](Arastirmalar/2026-Sun-High-Performance-Self-Powered.md) — Sun vd. (2026) · *ACS Applied Materials & Interfaces* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

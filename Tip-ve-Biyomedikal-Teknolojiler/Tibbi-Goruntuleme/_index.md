@@ -83,7 +83,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **7**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **9**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -93,13 +93,14 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [The association between CCTA assessment and cardiac symptoms in patients with coronary artery disease: a photon-counting CT study](Bilgisayarli-Tomografi/Foton-Sayan-BT/Arastirmalar/2026-Ding-The-association-between-CCTA.md) — Ding vd. (2026) · *BMC Cardiovascular Disorders* · hakemli
 - [18F-FDG PET/MRI and PET/CT for muscle and malignancy assessment in dermatomyositis](Hibrit-Goruntuleme/Arastirmalar/2026-Liao-18F-FDG-PET-MRI.md) — Liao vd. (2026) · *Frontiers in Immunology* · hakemli
 - [Diagnostic Efficacy of Magnetic Resonance Spectroscopy at Perilesional Edema of Neoplastic Brain Lesion for Detection of Glioma](Manyetik-Rezonans-Goruntuleme/Manyetik-Rezonans-Spektroskopisi/Arastirmalar/2026-Kamal-Diagnostic-Efficacy-Magnetic-Resonance.md) — Kamal vd. (2026) · *Journal of National Institute of Neurosciences Bangladesh* · hakemli
 - [Classical Machine Learning-Based Approaches for Medical Image Analysis and Computer-Aided Diagnosis](Tibbi-Goruntu-Analizi/Bilgisayar-Destekli-Teshis/Arastirmalar/2026-Cincar-Classical-Machine-Learning-Based.md) — Cincar vd. (2026) · *Technium Romanian Journal of Applied Sciences and Technology* · hakemli
 - [Magnetic Resonance Imaging in the Preoperative Assessment of Anal Fistula: Diagnostic Performance and Comparison of the St. James and Garg Classifications](Manyetik-Rezonans-Goruntuleme/Arastirmalar/2026-Hung-Magnetic-Resonance-Imaging-the.md) — Hung vd. (2026) · *Journal of Coloproctology* · hakemli
 - [Integrating Regulatory Planning and Metrology into Open-Source Medical Device Research: A Proposed Practice-Informed Framework from the A4IM Low-Field MRI Project](Manyetik-Rezonans-Goruntuleme/Dusuk-Alan-MRG/Arastirmalar/2026-Hanusova-Integrating-Regulatory-Planning-and.md) — Hanušová vd. (2026) · *Bioengineering* · hakemli
 - [Pathogen-specific positron emission tomography for Enterobacterales bone infection](Nukleer-Tip-Goruntuleme/Pozitron-Emisyon-Tomografisi/Arastirmalar/2026-Gordon-Pathogen-specific-positron-emission.md) — Gordon vd. (2026) · *Bone and Joint Research* · hakemli
-- [Multi-class classification of central and non-central geographic atrophy using optical coherence tomography](Optik-Tibbi-Goruntuleme/Optik-Koherens-Tomografi/Arastirmalar/2026-Siraz-Multi-class-classification-central.md) — Siraz vd. (2026) · *Experimental Biology and Medicine* · hakemli · atıf: 1
+- [Explainable AI-Based Medical Image Segmentation and Radiomics for Brain Disorder Classification over Structural MRI](Tibbi-Goruntu-Analizi/Tibbi-Goruntu-Bolutleme/Arastirmalar/2026-Alqahtani-Explainable-Based-Medical-Image.md) — Alqahtani vd. (2026) · *Bioengineering* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

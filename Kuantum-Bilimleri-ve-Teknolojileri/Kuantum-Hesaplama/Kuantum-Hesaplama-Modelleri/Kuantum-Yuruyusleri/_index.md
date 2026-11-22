@@ -75,7 +75,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **1**.
+
+- [Measuring Mixed-State Topological Invariant in Open Photonic Quantum Walk](Arastirmalar/2025-Wang-Measuring-Mixed-State-Topological.md) — Wang vd. (2025) · *Sci. Adv. 12, eaeh4906 (2026)* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -83,7 +85,9 @@ Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
-_Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini göstermez; ön baskılar hakemli değildir._
+Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
+
+- [Measuring Mixed-State Topological Invariant in Open Photonic Quantum Walk](Arastirmalar/2025-Wang-Measuring-Mixed-State-Topological.md) — Wang vd. (2025) · *Sci. Adv. 12, eaeh4906 (2026)* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

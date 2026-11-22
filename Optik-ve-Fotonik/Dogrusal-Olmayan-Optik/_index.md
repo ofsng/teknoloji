@@ -78,7 +78,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **3**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -88,6 +88,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [High-harmonic generation during ultrafast melting of a Mott insulating state](Yuksek-Harmonik-Uretimi/Arastirmalar/2026-Ikeda-High-harmonic-generation-during.md) — Ikeda vd. (2026) · *Nature Photonics* · hakemli · atıf: 4
 - [Dynamic electrical control of on-chip second-harmonic generation with ferroelectric NbOBr2](Harmonik-Uretimi/Arastirmalar/2026-Gong-Dynamic-electrical-control-chip.md) — Gong vd. (2026) · *Nature Nanotechnology* · hakemli · atıf: 4
 - [Segment-chirped periodically poled lithium niobate waveguides for broadband supercontinuum generation](Superkontinuum-Uretimi/Arastirmalar/2026-Li-Segment-chirped-periodically-poled.md) — Li vd. (2026) · *arXiv* · ön baskı / hakemsiz
 <!-- AUTO:RECENT:END -->

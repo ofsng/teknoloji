@@ -75,8 +75,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **2**.
+Arşivdeki kayıtlar — bu düğüm: **3**, alt teknolojiler dahil: **3**.
 
+- [Turbulence-aware free-space optical communication system hybrid CNN–LSTM channel modeling, adaptive prediction, and real-time mitigation](Arastirmalar/2026-Mokonnen-Turbulence-aware-free-space.md) — Mokonnen vd. (2026) · *Journal of Optical Communications* · hakemli
 - [Neuromorphic Camera for Multi-Target Pointing Acquisition and Tracking in Free Space Optical Communication](Arastirmalar/2026-Nardo-Neuromorphic-Camera-for-Multi.md) — Nardo vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [Towards high-capacity and robust free-space optical communications](Arastirmalar/2026-Wang-Towards-high-capacity-and.md) — Wang vd. (2026) · *Communications Physics* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -88,6 +89,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Turbulence-aware free-space optical communication system hybrid CNN–LSTM channel modeling, adaptive prediction, and real-time mitigation](Arastirmalar/2026-Mokonnen-Turbulence-aware-free-space.md) — Mokonnen vd. (2026) · *Journal of Optical Communications* · hakemli
 - [Towards high-capacity and robust free-space optical communications](Arastirmalar/2026-Wang-Towards-high-capacity-and.md) — Wang vd. (2026) · *Communications Physics* · hakemli
 - [Neuromorphic Camera for Multi-Target Pointing Acquisition and Tracking in Free Space Optical Communication](Arastirmalar/2026-Nardo-Neuromorphic-Camera-for-Multi.md) — Nardo vd. (2026) · *arXiv* · ön baskı / hakemsiz
 <!-- AUTO:RECENT:END -->

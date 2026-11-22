@@ -79,7 +79,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -90,6 +90,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
 - [Confidential Computing for Privacy-Preserving Machine Learning Across Distributed Enterprise Cloud Environments](Gizlilik-Korumali-Makine-Ogrenmesi/Arastirmalar/2026-Kulkarni-Confidential-Computing-for-Privacy.md) — Kulkarni (2026) · *Journal of Integrated Science Technology and Management* · hakemli
+- [Adversarial example detection for image captioning models via SPC-verify](Cekismeli-Makine-Ogrenmesi/Cekismeli-Ornekler/Arastirmalar/2026-Zhang-Adversarial-example-detection-for.md) — Zhang vd. (2026) · *Frontiers in Computer Science* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

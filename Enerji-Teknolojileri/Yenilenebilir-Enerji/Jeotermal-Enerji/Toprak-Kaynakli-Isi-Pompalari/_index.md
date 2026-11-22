@@ -76,9 +76,11 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **3**, alt teknolojiler dahil: **3**.
 
+- [The Use of Phase Change Materials in Ground Source Heat Pump Applications: Research Review and Future Opportunities](Arastirmalar/2026-Khaleel-The-Use-Phase-Change.md) — Khaleel vd. (2026) · *Energy storage and applications* · hakemli
 - [Dynamic Performance Assessment of a PEMFC-Assisted Ground Source Heat Pump System with Cascade Waste Heat Recovery in Severe Cold Regions](Arastirmalar/2026-Qi-Dynamic-Performance-Assessment-PEMFC.md) — Qi vd. (2026) · *Processes* · hakemli
+- [Preventing water temperature drop in a flow-rate-controlled ground source heat pump system using a lining borehole ground heat exchanger](Arastirmalar/2026-Suzuki-Preventing-water-temperature-drop.md) — Suzuki vd. (2026) · *Case Studies in Thermal Engineering* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -88,6 +90,8 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [The Use of Phase Change Materials in Ground Source Heat Pump Applications: Research Review and Future Opportunities](Arastirmalar/2026-Khaleel-The-Use-Phase-Change.md) — Khaleel vd. (2026) · *Energy storage and applications* · hakemli
+- [Preventing water temperature drop in a flow-rate-controlled ground source heat pump system using a lining borehole ground heat exchanger](Arastirmalar/2026-Suzuki-Preventing-water-temperature-drop.md) — Suzuki vd. (2026) · *Case Studies in Thermal Engineering* · hakemli
 - [Dynamic Performance Assessment of a PEMFC-Assisted Ground Source Heat Pump System with Cascade Waste Heat Recovery in Severe Cold Regions](Arastirmalar/2026-Qi-Dynamic-Performance-Assessment-PEMFC.md) — Qi vd. (2026) · *Processes* · hakemli
 <!-- AUTO:RECENT:END -->
 

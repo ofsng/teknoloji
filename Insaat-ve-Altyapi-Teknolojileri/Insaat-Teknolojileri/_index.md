@@ -79,7 +79,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **3**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -89,6 +89,8 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Prefabrication and Modular Construction](Moduler-Insaat/Arastirmalar/2026-Arthur-Prefabrication-and-Modular-Construction.md) — Arthur (2026) · *Revista Infoacceso* · hakemli
+- [Enhancing Energy-Saving Capability in Metro Construction Within Ecologically Sensitive Areas: A Meta-Network Framework for Innovative Construction Management](Insaat-Yonetimi/Arastirmalar/2026-Zhang-Enhancing-Energy-Saving-Capability.md) — Zhang vd. (2026) · *Sustainability* · hakemli
 - [A conceptual framework to explain the role of building information modeling in smart cities](Yapi-Bilgi-Modellemesi/Arastirmalar/2026-conceptual-framework-explain-the.md) — بخش vd. (2026) · *مجله حکمرانی و شهر هوشمند* · hakemli
 <!-- AUTO:RECENT:END -->
 

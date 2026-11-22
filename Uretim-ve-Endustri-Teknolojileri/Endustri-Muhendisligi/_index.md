@@ -80,7 +80,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -90,6 +90,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Load-Aware Metaheuristics for Green Multi-Depot Heterogeneous-Fleet Vehicle Routing: When Does the Load Term Matter?](Tedarik-Zinciri-Muhendisligi/Lojistik-Optimizasyonu/Arastirmalar/2026-Frikha-Load-Aware-Metaheuristics-for.md) — Frikha vd. (2026) · *Mathematics* · hakemli
 - [Digital Twins for Decision Support in Production Planning and Control: A Conceptual Framework and Research Directions](Uretim-Planlama-ve-Kontrol/Arastirmalar/2026-Ragazzini-Digital-Twins-for-Decision.md) — Ragazzini vd. (2026) · *Applied Sciences* · hakemli
 <!-- AUTO:RECENT:END -->
 

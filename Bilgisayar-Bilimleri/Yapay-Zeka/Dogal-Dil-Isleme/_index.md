@@ -86,7 +86,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **6**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **9**.
 
 - [From Manual Search to Artificial Intelligence: A Methodological Framework for Developing Patient Journey Models from Electronic Health Records Using Natural Language Processing](Arastirmalar/2026-Zhang-From-Manual-Search-Artificial.md) — Zhang vd. (2026) · *Healthcare* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -98,6 +98,8 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [NatBDI: Combining BDI reasoning and natural language inference for autonomous agents](Dogal-Dil-Cikarimi/Arastirmalar/2026-Ichida-NatBDI-Combining-BDI-reasoning.md) — Ichida vd. (2026) · *Autonomous Agents and Multi-Agent Systems* · hakemli
+- [Syrian-English Neural Machine Translation Using Attention Mechanism and Ontology Enrichment](Makine-Cevirisi/Sinirsel-Makine-Cevirisi/Arastirmalar/2026-Al-Rakkad-Syrian-English-Neural-Machine.md) — Al-Rakkad vd. (2026) · *Journal of Computer-Assisted Linguistic Research* · hakemli
 - [Machine Translation: Evolution, Multilingual Models, Evaluation, and Challenges](Makine-Cevirisi/Arastirmalar/2026-Sivakumar-Machine-Translation-Evolution-Multilin.md) — Sivakumar vd. (2026) · *Indian Journal of Computer Science and Technology* · hakemli
 - [AI-Based Voice to Form Filling System: A Review of Speech Recognition, Information Extraction and Intelligent Form Automation](Bilgi-Cikarimi/Arastirmalar/2026-Sakhare-Based-Voice-Form-Filling.md) — Sakhare vd. (2026) · *International Journal of Creative and Open Research in Engineering and Management* · hakemli
 - [A new framework for multilingual sentiment analysis in natural language processing using a pre-trained BERT model supported by multi-class machine learning methods](Duygu-Analizi/Arastirmalar/2026-Panahi-new-framework-for-multilingual.md) — Panahi vd. (2026) · *International Journal of Data Science and Analytics* · hakemli

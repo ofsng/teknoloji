@@ -75,11 +75,12 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **5**, alt teknolojiler dahil: **5**.
+Arşivdeki kayıtlar — bu düğüm: **6**, alt teknolojiler dahil: **6**.
 
 - [Anisotropic response in bilayer graphene for light dark matter detection](Arastirmalar/2026-Sherpa-Anisotropic-response-bilayer-graphene.md) — Sherpa vd. (2026) · *Physical review. D/Physical review. D.* · hakemli · atıf: 3
 - [Partial relief of the Hubble tension and a natural self-interacting dark matter candidate from staged symmetry breaking](Arastirmalar/2026-Hoelscher-Partial-relief-the-Hubble.md) — Hoelscher vd. (2026) · *Physical review. D/Physical review. D.* · hakemli · atıf: 1
 - [Coherent collective response in many-qubit systems for dark matter detection](Arastirmalar/2026-Kitano-Coherent-collective-response-many.md) — Kitano vd. (2026) · *Physical review. D/Physical review. D.* · hakemli · atıf: 1
+- [Higgsino Dark Matter Interpretation of the LUX-ZEPLIN 248 keV Nuclear-Recoil Event](Arastirmalar/2026-Freese-Higgsino-Dark-Matter-Interpretation.md) — Freese vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [Migdal ionization as a probe of light dark matter from nuclear transition](Arastirmalar/2026-Lou-Migdal-ionization-probe-light.md) — Lou vd. (2026) · *Journal of High Energy Physics* · hakemli
 - [The Role of Dark Matter in Driving Disk Perturbations: Application to LMC–SMC-like Galaxy Interactions](Arastirmalar/2026-Rathore-The-Role-Dark-Matter.md) — Rathore vd. (2026) · *The Astrophysical Journal* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -96,6 +97,7 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [Coherent collective response in many-qubit systems for dark matter detection](Arastirmalar/2026-Kitano-Coherent-collective-response-many.md) — Kitano vd. (2026) · *Physical review. D/Physical review. D.* · hakemli · atıf: 1
 - [Migdal ionization as a probe of light dark matter from nuclear transition](Arastirmalar/2026-Lou-Migdal-ionization-probe-light.md) — Lou vd. (2026) · *Journal of High Energy Physics* · hakemli
 - [The Role of Dark Matter in Driving Disk Perturbations: Application to LMC–SMC-like Galaxy Interactions](Arastirmalar/2026-Rathore-The-Role-Dark-Matter.md) — Rathore vd. (2026) · *The Astrophysical Journal* · hakemli
+- [Higgsino Dark Matter Interpretation of the LUX-ZEPLIN 248 keV Nuclear-Recoil Event](Arastirmalar/2026-Freese-Higgsino-Dark-Matter-Interpretation.md) — Freese vd. (2026) · *arXiv* · ön baskı / hakemsiz
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

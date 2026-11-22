@@ -77,7 +77,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **3**.
 
 - [Embedding stochastic dynamics in latent manifolds of recurrent neural networks](Arastirmalar/2026-Nartallo-Kaluarachchi-Embedding-stochastic-dynam.md) — Nartallo-Kaluarachchi vd. (2026) · *arXiv* · ön baskı / hakemsiz
 <!-- AUTO:RESEARCH:END -->
@@ -89,6 +89,8 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Random Forest Ensembles versus LSTM Networks in Applied Machine Learning: A Comparative Review of Healthcare, Finance and Energy Studies](Uzun-Kisa-Sureli-Bellek/Arastirmalar/2026-Kavitha-Random-Forest-Ensembles-versus.md) — Kavitha vd. (2026) · *International Journal Of Recent Trends In Multidisciplinary Research* · hakemli
+- [A hybrid neural deep belief networks-gated recurrent unit algorithm with a leakage-aware evaluation protocol for ECG-HRV-based cognitive load classification](Kapili-Yinelemeli-Birimler/Arastirmalar/2026-Keikhosrokiani-hybrid-neural-deep-belief.md) — Keikhosrokiani vd. (2026) · *Scientific Reports* · hakemli
 - [Embedding stochastic dynamics in latent manifolds of recurrent neural networks](Arastirmalar/2026-Nartallo-Kaluarachchi-Embedding-stochastic-dynam.md) — Nartallo-Kaluarachchi vd. (2026) · *arXiv* · ön baskı / hakemsiz
 <!-- AUTO:RECENT:END -->
 

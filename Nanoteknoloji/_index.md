@@ -84,7 +84,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **17**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **27**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -94,14 +94,14 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Surface-enhanced Raman spectroscopy on the membranes for antimicrobial resistance testing](Nanofotonik/Plazmonik/Yuzey-Guclendirmeli-Raman-Spektroskopisi/Arastirmalar/2026-Mushenkov-Surface-enhanced-Raman-spectroscopy.md) — Mushenkov vd. (2026) · *Frontiers in Microbiology* · hakemli · atıf: 1
+- [Engineering and Probing Atomic Defects in Two-Dimensional Transition Metal Dichalcogenides](Nanomalzemeler/Iki-Boyutlu-Malzemeler/Gecis-Metali-Dikalkojenitleri/Arastirmalar/2026-Li-Engineering-and-Probing-Atomic.md) — Li vd. (2026) · *Micromachines* · hakemli
+- [Molecular Engineering of Graphene Nanoribbons for Controlled Electronic Structure and Charge Transport](Nanomalzemeler/Karbon-Nanomalzemeler/Grafen/Grafen-Nanoseritler/Arastirmalar/2026-Thanasekar-Molecular-Engineering-Graphene-Nanori.md) — Thanasekar vd. (2026) · *Small* · hakemli
+- [Ultra-narrow-gate single-electron transistors based on crossed graphene nanoribbons](Nanomalzemeler/Karbon-Nanomalzemeler/Grafen/Grafen-Nanoseritler/Arastirmalar/2026-Wu-Ultra-narrow-gate-single.md) — Wu vd. (2026) · *Quantum Frontiers* · hakemli
+- [Activation of high-lying dormant states by cascaded transition control in core@shell upconversion nanoparticles](Nanomalzemeler/Nanoparcaciklar/Yukari-Donusum-Nanoparcaciklari/Arastirmalar/2026-Zeng-Activation-high-lying-dormant.md) — Zeng vd. (2026) · *Nature Communications* · hakemli
 - [Reflective, water-permeable diatomite masks enhancing output voltage of water-floating single-walled carbon nanotube thermoelectric generators](Nanomalzemeler/Karbon-Nanomalzemeler/Karbon-Nanotupler/Tek-Duvarli-Karbon-Nanotupler/Arastirmalar/2026-Ochiai-Reflective-water-permeable-diatomite.md) — Ochiai vd. (2026) · *Scientific Reports* · hakemli
 - [Field-Deployable and Ultrasensitive Surface-Enhanced Raman Spectroscopy for Waterborne Arsenic Monitoring Based on Headspace Formation of Arsenic–Silver Nanocomposites](Nanofotonik/Plazmonik/Yuzey-Guclendirmeli-Raman-Spektroskopisi/Arastirmalar/2026-Chen-Field-Deployable-and-Ultrasensitive.md) — Chen vd. (2026) · *ACS Sensors* · hakemli
 - [Deep-Learning-Empowered Gold Nanoparticle Dimer-Assisted Hyperbolic Metamaterial Surface Plasmon Resonance Fiber-Optic Sensor for Ultrasensitive Mercury Ion Detection](Nanofotonik/Plazmonik/Yuzey-Plazmon-Rezonansi/Arastirmalar/2026-Li-Deep-Learning-Empowered-Gold.md) — Li vd. (2026) · *ACS Applied Materials & Interfaces* · hakemli
-- [Examining the Effect of Hexagonal Boron Nitride on Morphological and Chemical Properties of Biopolymers Using Dual-Beam Methodology](Nanomalzemeler/Iki-Boyutlu-Malzemeler/Altigen-Bor-Nitrur/Arastirmalar/2026-Camic-Examining-the-Effect-Hexagonal.md) — Camic (2026) · *Kocaeli Journal of Science and Engineering* · hakemli
-- [Reversible Electric-Field-Induced Changes in the Thermal Resistance of Hexagonal Boron Nitride](Nanomalzemeler/Iki-Boyutlu-Malzemeler/Altigen-Bor-Nitrur/Arastirmalar/2026-Schaeffer-Reversible-Electric-Field-Induced.md) — Schaeffer vd. (2026) · *Nano Letters* · hakemli
-- [Antiambipolar and Bidirectional Photoresponse in Ternary van der Waals Heterostructure Transistors](Nanomalzemeler/Iki-Boyutlu-Malzemeler/Van-der-Waals-Heteroyapilari/Arastirmalar/2026-Han-Antiambipolar-and-Bidirectional-Photorespons.md) — Han vd. (2026) · *ACS Nano* · hakemli
-- [Fabrication of a Cellulolytic Enzyme Cocktail Immobilised on Magnetic Multi-walled Carbon Nanotubes: Catalytic Kinetics and Reusability](Nanomalzemeler/Karbon-Nanomalzemeler/Karbon-Nanotupler/Cok-Duvarli-Karbon-Nanotupler/Arastirmalar/2026-Low-Fabrication-Cellulolytic-Enzyme-Cocktail.md) — Low vd. (2026) · *Chemical and Biochemical Engineering Quarterly* · hakemli
-- [Recent Strategies in Electron Transport Layers Based on Metal Oxide Nanoparticles for Quantum Dot Light Emitting Diodes](Nanomalzemeler/Nanoparcaciklar/Arastirmalar/2026-Kim-Recent-Strategies-Electron-Transport.md) — Kim vd. (2026) · *Inorganics* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

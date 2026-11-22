@@ -80,7 +80,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -88,7 +88,10 @@ Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
-_Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini göstermez; ön baskılar hakemli değildir._
+Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
+
+- [A Nonce-Bound Lightweight Mutual Authentication Protocol for UAV-Assisted Smart Mining Systems](Kimlik-Dogrulama-Protokolleri/Arastirmalar/2026-Li-Nonce-Bound-Lightweight-Mutual.md) — Li vd. (2026) · *Electronics* · hakemli
+- [A Three-Layer Authentication Protocol for Secure Access Control in AI-Based Enterprise Document Management Systems](Kimlik-Dogrulama-Protokolleri/Arastirmalar/2026-Park-Three-Layer-Authentication-Protocol.md) — Park (2026) · *Electronics* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

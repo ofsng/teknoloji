@@ -79,7 +79,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -89,6 +89,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Stakeholder perceptions toward green building adoption in Greater Kuala Lumpur](Yesil-Bina/Arastirmalar/2026-Ramli-Stakeholder-perceptions-toward-green.md) — Ramli vd. (2026) · *International Journal of Building Pathology and Adaptation* · hakemli
 - [Decision making under uncertainty in fire safety engineering: An industrial Battery Energy Storage System Round Robin Study](Yangin-Guvenligi-Muhendisligi/Arastirmalar/2026-Funk-Decision-making-under-uncertainty.md) — Funk vd. (2026) · *Journal of Loss Prevention in the Process Industries* · hakemli
 <!-- AUTO:RECENT:END -->
 

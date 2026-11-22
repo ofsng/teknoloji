@@ -84,7 +84,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **3**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **4**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -97,6 +97,7 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [A flexible language model-assisted electronic design automation framework](Elektronik-Tasarim-Otomasyonu/Arastirmalar/2026-Sestito-flexible-language-model-assisted.md) — Sestito vd. (2026) · *Scientific Reports* · hakemli · atıf: 4
 - [Phase-Locked Loop Bandwidth Design and Partial Compensation Strategy for PMSM Position Estimation Based on Embedded Linear Hall Sensors](Analog-Entegre-Devre-Tasarimi/Faz-Kilitlemeli-Donguler/Arastirmalar/2026-Zhao-Phase-Locked-Loop-Bandwidth.md) — Zhao vd. (2026) · *Sensors* · hakemli
 - [Implementation of Radio Frequency Digital to Analog Converter Design for Satellite Telecommunication System](Analog-Entegre-Devre-Tasarimi/Veri-Donusturuculer/Sayisal-Analog-Donusturuculer/Arastirmalar/2026-Khaing-Implementation-Radio-Frequency-Digital.md) — Khaing vd. (2026) · *International Journal For Multidisciplinary Research* · hakemli
+- [LV-RM 3 : Logic Synthesis and Verification of Computing-in-Memory Systems Using 3-Input Resistive Majority Gates](Sayisal-Entegre-Devre-Tasarimi/Mantik-Sentezi/Arastirmalar/2026-Hu-Logic-Synthesis-and-Verification.md) — Hu vd. (2026) · *ACM Journal on Emerging Technologies in Computing Systems* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

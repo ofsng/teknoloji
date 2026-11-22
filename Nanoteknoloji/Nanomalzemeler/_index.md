@@ -82,7 +82,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **15**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **24**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -92,14 +92,14 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Engineering and Probing Atomic Defects in Two-Dimensional Transition Metal Dichalcogenides](Iki-Boyutlu-Malzemeler/Gecis-Metali-Dikalkojenitleri/Arastirmalar/2026-Li-Engineering-and-Probing-Atomic.md) — Li vd. (2026) · *Micromachines* · hakemli
+- [Molecular Engineering of Graphene Nanoribbons for Controlled Electronic Structure and Charge Transport](Karbon-Nanomalzemeler/Grafen/Grafen-Nanoseritler/Arastirmalar/2026-Thanasekar-Molecular-Engineering-Graphene-Nanori.md) — Thanasekar vd. (2026) · *Small* · hakemli
+- [Ultra-narrow-gate single-electron transistors based on crossed graphene nanoribbons](Karbon-Nanomalzemeler/Grafen/Grafen-Nanoseritler/Arastirmalar/2026-Wu-Ultra-narrow-gate-single.md) — Wu vd. (2026) · *Quantum Frontiers* · hakemli
+- [Activation of high-lying dormant states by cascaded transition control in core@shell upconversion nanoparticles](Nanoparcaciklar/Yukari-Donusum-Nanoparcaciklari/Arastirmalar/2026-Zeng-Activation-high-lying-dormant.md) — Zeng vd. (2026) · *Nature Communications* · hakemli
 - [Reflective, water-permeable diatomite masks enhancing output voltage of water-floating single-walled carbon nanotube thermoelectric generators](Karbon-Nanomalzemeler/Karbon-Nanotupler/Tek-Duvarli-Karbon-Nanotupler/Arastirmalar/2026-Ochiai-Reflective-water-permeable-diatomite.md) — Ochiai vd. (2026) · *Scientific Reports* · hakemli
 - [Examining the Effect of Hexagonal Boron Nitride on Morphological and Chemical Properties of Biopolymers Using Dual-Beam Methodology](Iki-Boyutlu-Malzemeler/Altigen-Bor-Nitrur/Arastirmalar/2026-Camic-Examining-the-Effect-Hexagonal.md) — Camic (2026) · *Kocaeli Journal of Science and Engineering* · hakemli
 - [Reversible Electric-Field-Induced Changes in the Thermal Resistance of Hexagonal Boron Nitride](Iki-Boyutlu-Malzemeler/Altigen-Bor-Nitrur/Arastirmalar/2026-Schaeffer-Reversible-Electric-Field-Induced.md) — Schaeffer vd. (2026) · *Nano Letters* · hakemli
-- [Antiambipolar and Bidirectional Photoresponse in Ternary van der Waals Heterostructure Transistors](Iki-Boyutlu-Malzemeler/Van-der-Waals-Heteroyapilari/Arastirmalar/2026-Han-Antiambipolar-and-Bidirectional-Photorespons.md) — Han vd. (2026) · *ACS Nano* · hakemli
-- [Fabrication of a Cellulolytic Enzyme Cocktail Immobilised on Magnetic Multi-walled Carbon Nanotubes: Catalytic Kinetics and Reusability](Karbon-Nanomalzemeler/Karbon-Nanotupler/Cok-Duvarli-Karbon-Nanotupler/Arastirmalar/2026-Low-Fabrication-Cellulolytic-Enzyme-Cocktail.md) — Low vd. (2026) · *Chemical and Biochemical Engineering Quarterly* · hakemli
-- [Recent Strategies in Electron Transport Layers Based on Metal Oxide Nanoparticles for Quantum Dot Light Emitting Diodes](Nanoparcaciklar/Arastirmalar/2026-Kim-Recent-Strategies-Electron-Transport.md) — Kim vd. (2026) · *Inorganics* · hakemli
-- [Resting-cell biocatalysis as a platform for cadmium sulfide quantum dot biosynthesis](Nanoparcaciklar/Kuantum-Noktalar/Arastirmalar/2026-SerranoPelejero-Resting-cell-biocatalysis-platfo.md) — Serrano‐Pelejero vd. (2026) · *Frontiers in Microbiology* · hakemli
-- [Engineered Dielectric Response of Liquid-Filled Interfacial Bubbles in van der Waals Heterostructures](Iki-Boyutlu-Malzemeler/Van-der-Waals-Heteroyapilari/Arastirmalar/2026-Park-Engineered-Dielectric-Response-Liquid.md) — Park vd. (2026) · *ACS Applied Materials & Interfaces* · hakemli
+- [High-Performance Self-Powered Infrared Photodetector via Semiconducting Graphene Nanoribbon/Germanium Vertical Heterojunctions with Robust Thermal Stability](Karbon-Nanomalzemeler/Grafen/Grafen-Nanoseritler/Arastirmalar/2026-Sun-High-Performance-Self-Powered.md) — Sun vd. (2026) · *ACS Applied Materials & Interfaces* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

@@ -80,7 +80,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **4**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **7**.
 
 - [Recent Strategies in Electron Transport Layers Based on Metal Oxide Nanoparticles for Quantum Dot Light Emitting Diodes](Arastirmalar/2026-Kim-Recent-Strategies-Electron-Transport.md) — Kim vd. (2026) · *Inorganics* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -92,9 +92,12 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Activation of high-lying dormant states by cascaded transition control in core@shell upconversion nanoparticles](Yukari-Donusum-Nanoparcaciklari/Arastirmalar/2026-Zeng-Activation-high-lying-dormant.md) — Zeng vd. (2026) · *Nature Communications* · hakemli
+- [Magnetic Nanoparticles in Precision Cancer Therapy: From Synthesis and Biological Interactions to Clinical Translation](Manyetik-Nanoparcaciklar/Arastirmalar/2026-Wang-Magnetic-Nanoparticles-Precision-Cancer.md) — Wang vd. (2026) · *International Journal of Molecular Sciences* · hakemli
 - [Recent Strategies in Electron Transport Layers Based on Metal Oxide Nanoparticles for Quantum Dot Light Emitting Diodes](Arastirmalar/2026-Kim-Recent-Strategies-Electron-Transport.md) — Kim vd. (2026) · *Inorganics* · hakemli
 - [Resting-cell biocatalysis as a platform for cadmium sulfide quantum dot biosynthesis](Kuantum-Noktalar/Arastirmalar/2026-SerranoPelejero-Resting-cell-biocatalysis-platfo.md) — Serrano‐Pelejero vd. (2026) · *Frontiers in Microbiology* · hakemli
 - [Dual-Interfacial Engineering of Charge-Transport Layers for Efficient Low-Current-Density Quantum Dot Light-Emitting Diodes](Kuantum-Noktalar/Arastirmalar/2026-Chen-Dual-Interfacial-Engineering-Charge.md) — Chen vd. (2026) · *ACS Applied Nano Materials* · hakemli
+- [Semi-Embedded Liquid Metal Nanoparticles on Co-Electrospun Nanofibers for Scalable and High-Sensitivity Flexible Surface-Enhanced Raman Scattering Platform](Metal-Nanoparcaciklar/Arastirmalar/2026-Chen-Semi-Embedded-Liquid-Metal.md) — Chen vd. (2026) · *ACS Applied Materials & Interfaces* · hakemli
 - [A review of the biogenic fabrication of metal oxide nanoparticles using phytochemical reducing and stabilizing agents across diverse systems](Metal-Oksit-Nanoparcaciklar/Arastirmalar/2026-Porkalai-review-the-biogenic-fabrication.md) — Porkalai vd. (2026) · *Discover Chemistry.* · hakemli
 <!-- AUTO:RECENT:END -->
 

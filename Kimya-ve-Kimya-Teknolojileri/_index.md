@@ -89,7 +89,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **5**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **12**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -99,11 +99,14 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Assessing the Representativeness of Cell Sampling in Single Cell-ICP-MS Using Ru-Based Cell Size Markers and LA-ICP-MS](Analitik-Kimya/Atomik-Spektrometri/Arastirmalar/2026-Nikolic-Assessing-the-Representativeness-Cell.md) — Nikolić vd. (2026) · *Analytical Chemistry* · hakemli
+- [From Fibrated Chrysene Networks to Molecular Machines: Registry-Programmed Geometry, Electromechanical Realization, and Constructive Existence](Polimer-Kimyasi/Supramolekuler-Kimya/Molekuler-Makineler/Arastirmalar/2026-Schaper-From-Fibrated-Chrysene-Networks.md) — Schaper (2026) · *Annals of the Chrysene Formalism* · hakemli · atıf: 4
+- [Contemporary synthetic tools for the total synthesis of natural products](Organik-Kimya/Organik-Sentez/Toplam-Sentez/Arastirmalar/2026-Blackwell-Contemporary-synthetic-tools-for.md) — Blackwell vd. (2026) · *Chemical Society Reviews* · hakemli
+- [Green Analytical Chemistry-Oriented RPLC Method for Determining the Dissociation Constant of the Nootropic Drug Piracetam in Binary Solvent Systems](Analitik-Kimya/Arastirmalar/2026-Daldal-Green-Analytical-Chemistry-Oriented.md) — Daldal vd. (2026) · *Journal of Chemical & Engineering Data* · hakemli
+- [Open Microfluidic Probe Enabled Regional Surface Modification of Single Cells by Click Chemistry](Organik-Kimya/Klik-Kimyasi/Arastirmalar/2026-Song-Open-Microfluidic-Probe-Enabled.md) — Song vd. (2026) · *Analytical Chemistry* · hakemli
 - [Kinetic Acceleration and the Stoichiometric Limit Dictate the Behavior of Reactivity-Enhanced Step-Growth Polymerization](Polimer-Kimyasi/Polimerizasyon-Yontemleri/Basamakli-Buyume-Polimerizasyonu/Arastirmalar/2026-Tang-Kinetic-Acceleration-and-the.md) — Tang vd. (2026) · *Macromolecules* · hakemli
 - [Quantum Sensing of Lithium Ions with Defect-Engineered Recognition Pockets in a TEMPO-Modified Covalent Organic Framework](Anorganik-Kimya/Kovalent-Organik-Kafesler/Arastirmalar/2026-Sun-Quantum-Sensing-Lithium-Ions.md) — Sun vd. (2026) · *Journal of the American Chemical Society* · hakemli
 - [Hexafluoroethane purification via molecular sieving in a molecule-trap metal-organic framework](Anorganik-Kimya/Metal-Organik-Kafesler/Arastirmalar/2026-Ruan-Hexafluoroethane-purification-via-molecular.md) — Ruan vd. (2026) · *Nature Communications* · hakemli
-- [Molecular Thermodynamics of Lower Critical Solution Temperature Ionic Liquid/Water Mixtures: Tetrabutylphosphonium Trifluoroacetate](Yesil-Kimya/Surdurulebilir-Cozuculer/Arastirmalar/2026-Parmar-Molecular-Thermodynamics-Lower-Critical.md) — Parmar vd. (2026) · *The Journal of Physical Chemistry B* · hakemli
-- [Assessment of Sub-50 nm Nanopipette Emitters for Native Electrospray Ionization Mass Spectrometry](Analitik-Kimya/Kutle-Spektrometrisi/Arastirmalar/2026-Byrd-Assessment-Sub-Nanopipette-Emitters.md) — Byrd vd. (2026) · *Journal of the American Society for Mass Spectrometry* · hakemli · atıf: 1
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

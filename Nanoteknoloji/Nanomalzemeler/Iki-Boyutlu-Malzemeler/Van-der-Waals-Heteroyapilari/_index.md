@@ -75,9 +75,10 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **2**.
+Arşivdeki kayıtlar — bu düğüm: **3**, alt teknolojiler dahil: **3**.
 
 - [Antiambipolar and Bidirectional Photoresponse in Ternary van der Waals Heterostructure Transistors](Arastirmalar/2026-Han-Antiambipolar-and-Bidirectional-Photorespons.md) — Han vd. (2026) · *ACS Nano* · hakemli
+- [Thermally Robust Room‐Temperature Interlayer Excitons in a Hybrid van der Waals Heterostructure](Arastirmalar/2026-Ko-Thermally-Robust-RoomTemperature-Interlayer.md) — Ko vd. (2026) · *Advanced Functional Materials* · hakemli
 - [Engineered Dielectric Response of Liquid-Filled Interfacial Bubbles in van der Waals Heterostructures](Arastirmalar/2026-Park-Engineered-Dielectric-Response-Liquid.md) — Park vd. (2026) · *ACS Applied Materials & Interfaces* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
@@ -89,6 +90,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
 - [Antiambipolar and Bidirectional Photoresponse in Ternary van der Waals Heterostructure Transistors](Arastirmalar/2026-Han-Antiambipolar-and-Bidirectional-Photorespons.md) — Han vd. (2026) · *ACS Nano* · hakemli
+- [Thermally Robust Room‐Temperature Interlayer Excitons in a Hybrid van der Waals Heterostructure](Arastirmalar/2026-Ko-Thermally-Robust-RoomTemperature-Interlayer.md) — Ko vd. (2026) · *Advanced Functional Materials* · hakemli
 - [Engineered Dielectric Response of Liquid-Filled Interfacial Bubbles in van der Waals Heterostructures](Arastirmalar/2026-Park-Engineered-Dielectric-Response-Liquid.md) — Park vd. (2026) · *ACS Applied Materials & Interfaces* · hakemli
 <!-- AUTO:RECENT:END -->
 

@@ -91,7 +91,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **92**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **129**.
 
 - [Artificial Intelligence Changes Cognition Systems](Arastirmalar/2026-Vorozhikhin-Artificial-Intelligence-Changes-Cogn.md) — Vorozhikhin vd. (2026) · *Statistics and Economics* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -103,14 +103,14 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
-- [Motorcycle Rider Face Detection: An Experiment with R-CNN and Faster R-CNN](Bilgisayarli-Goru/Nesne-Tespiti/Iki-Asamali-Dedektorler/Arastirmalar/2026-Muhaqiqin-Motorcycle-Rider-Face-Detection.md) — Muhaqiqin vd. (2026) · *Journal of Artificial Intelligence and Technology Information (JAITI)* · hakemli
-- [Securing Agentic AI Enterprise Workflows Against Prompt Injection Tool Poisoning Memory Manipulation and Excessive Agency Threats](Cok-Etmenli-Sistemler/LLM-Tabanli-Etmenler/Arastirmalar/2026-Nwakamma-Securing-Agentic-Enterprise-Workflows.md) — Nwakamma (2026) · *WORLD JOURNAL OF INNOVATION AND MODERN TECHNOLOGY* · hakemli · atıf: 18
-- [Stein discrepancy for unsupervised domain adaptation](Makine-Ogrenmesi/Aktarim-Ogrenmesi/Alan-Uyarlama/Arastirmalar/2026-Seeger-Stein-discrepancy-for-unsupervised.md) — Seeger vd. (2026) · *Statistics and Computing* · hakemli · atıf: 1
-- [Applying ranked set sampling to Gaussian mixture models of Glasgow Coma Scale scores in intracerebral hemorrhage](Makine-Ogrenmesi/Gozetimsiz-Ogrenme/Kumeleme/Karisim-Modelleri/Arastirmalar/2026-Ahmed-Applying-ranked-set-sampling.md) — Ahmed vd. (2026) · *Scientific Reports* · hakemli
-- [Calibration and Cross-Dataset Behavior in Malaria Microscopy with Parameter-Efficient Fine-Tuning: A Matched LoRA–PiSSA Evaluation](Makine-Ogrenmesi/Temel-Modeller/Buyuk-Dil-Modelleri/Parametre-Verimli-Ince-Ayar/Arastirmalar/2026-Boit-Calibration-and-Cross-Dataset.md) — Boit vd. (2026) · *Diagnostics* · hakemli
-- [Multi-Armed Bandit-Based Model Selection for Incremental Phishing Detection: An Empirical Study of Accuracy, Cost, and Concept Drift](Makine-Ogrenmesi/Pekistirmeli-Ogrenme/Cok-Kollu-Haydutlar/Arastirmalar/2026-Al-Tarawneh-Multi-Armed-Bandit-Based.md) — Al-Tarawneh vd. (2026) · *Information* · hakemli
-- [Machine Translation: Evolution, Multilingual Models, Evaluation, and Challenges](Dogal-Dil-Isleme/Makine-Cevirisi/Arastirmalar/2026-Sivakumar-Machine-Translation-Evolution-Multilin.md) — Sivakumar vd. (2026) · *Indian Journal of Computer Science and Technology* · hakemli
-- [Evaluation of Mamba Architecture Design Choices for Real-Time Speech Enhancement](Konusma-ve-Ses-Isleme/Konusma-Iyilestirme/Arastirmalar/2026-Korvel-Evaluation-Mamba-Architecture-Design.md) — Korvel vd. (2026) · *Applied Sciences* · hakemli
+- [FuseSR+: Spatial-Temporal Fusion for High-Scale Super-Resolution](Bilgisayarli-Goru/Goruntu-Onarimi/Super-Cozunurluk/Arastirmalar/2026-Huo-FuseSR-Spatial-Temporal-Fusion.md) — Huo vd. (2026) · *ACM Transactions on Graphics* · hakemli
+- [Lossless Latent Diffusion Models](Makine-Ogrenmesi/Derin-Ogrenme/Uretken-Modeller/Difuzyon-Modelleri/Gizil-Difuzyon-Modelleri/Arastirmalar/2026-Xu-Lossless-Latent-Diffusion-Models.md) — Xu vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [Real-time instance segmentation of spine endoscopy images using a YOLO-V11 deep convolutional neural network](Bilgisayarli-Goru/Goruntu-Bolutleme/Ornek-Bolutleme/Arastirmalar/2026-Jung-Real-time-instance-segmentation.md) — Jung vd. (2026) · *PLoS ONE* · hakemli
+- [NatBDI: Combining BDI reasoning and natural language inference for autonomous agents](Dogal-Dil-Isleme/Dogal-Dil-Cikarimi/Arastirmalar/2026-Ichida-NatBDI-Combining-BDI-reasoning.md) — Ichida vd. (2026) · *Autonomous Agents and Multi-Agent Systems* · hakemli
+- [Syrian-English Neural Machine Translation Using Attention Mechanism and Ontology Enrichment](Dogal-Dil-Isleme/Makine-Cevirisi/Sinirsel-Makine-Cevirisi/Arastirmalar/2026-Al-Rakkad-Syrian-English-Neural-Machine.md) — Al-Rakkad vd. (2026) · *Journal of Computer-Assisted Linguistic Research* · hakemli
+- [Understanding the Fundamental Design Decisions of Retrieval-Augmented Generation Systems](Makine-Ogrenmesi/Temel-Modeller/Buyuk-Dil-Modelleri/Erisimle-Zenginlestirilmis-Uretim/Arastirmalar/2026-Zhao-Understanding-the-Fundamental-Design.md) — Zhao vd. (2026) · *ACM Transactions on Software Engineering and Methodology* · hakemli · atıf: 49
+- [Dance choreography assistance system by hierarchical reinforcement learning and its real-time interaction optimization method](Makine-Ogrenmesi/Pekistirmeli-Ogrenme/Hiyerarsik-Pekistirmeli-Ogrenme/Arastirmalar/2026-Hua-Dance-choreography-assistance-system.md) — Hua (2026) · *Discover Artificial Intelligence* · hakemli
+- [An anatomy aware Mamba framework for video based 3D human pose estimation](Bilgisayarli-Goru/Poz-Kestirimi/Arastirmalar/2026-Song-anatomy-aware-Mamba-framework.md) — Song vd. (2026) · *Scientific Reports* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

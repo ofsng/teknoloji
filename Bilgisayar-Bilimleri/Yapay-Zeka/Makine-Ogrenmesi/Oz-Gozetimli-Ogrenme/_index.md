@@ -76,7 +76,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **2**.
+
+- [A subspecialty diagnostic system powered by self-supervised learning for cervical histopathology](Arastirmalar/2026-Wang-subspecialty-diagnostic-system-powered.md) — Wang vd. (2026) · *Nature Communications* · hakemli · atıf: 2
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -86,6 +88,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [A subspecialty diagnostic system powered by self-supervised learning for cervical histopathology](Arastirmalar/2026-Wang-subspecialty-diagnostic-system-powered.md) — Wang vd. (2026) · *Nature Communications* · hakemli · atıf: 2
 - [Mitigating Spurious Invariance in Contrastive Learning: A Probabilistic Self-Supervised Learning Framework for Medical Image Analysis](Karsitlikli-Ogrenme/Arastirmalar/2026-Wei-Mitigating-Spurious-Invariance-Contrastive.md) — Wei vd. (2026) · *IEEE Transactions on Medical Imaging, vol. 45, no. 7, pp. 3862-3877, 2026* · hakemli
 <!-- AUTO:RECENT:END -->
 

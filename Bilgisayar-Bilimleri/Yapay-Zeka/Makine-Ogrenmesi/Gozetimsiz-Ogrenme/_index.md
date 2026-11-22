@@ -78,7 +78,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **3**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -89,6 +89,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
 - [Applying ranked set sampling to Gaussian mixture models of Glasgow Coma Scale scores in intracerebral hemorrhage](Kumeleme/Karisim-Modelleri/Arastirmalar/2026-Ahmed-Applying-ranked-set-sampling.md) — Ahmed vd. (2026) · *Scientific Reports* · hakemli
+- [Comparative Analysis of Outlier Detection Methods with Emphasis on DBSCAN](Aykiri-Deger-Tespiti/Arastirmalar/2026-Badhan-Comparative-Analysis-Outlier-Detection.md) — Badhan vd. (2026) · *International Research Journal on Advanced Engineering Hub (IRJAEH)* · hakemli
 - [From "Birds of a Feather" to Data Insights: The Principles, Methods and Applications of Hierarchical Clustering Algorithms](Kumeleme/Hiyerarsik-Kumeleme/Arastirmalar/2026-Yang-From-Birds-Feather-Data.md) — Yang (2026) · *Applied and Computational Engineering* · hakemli
 <!-- AUTO:RECENT:END -->
 

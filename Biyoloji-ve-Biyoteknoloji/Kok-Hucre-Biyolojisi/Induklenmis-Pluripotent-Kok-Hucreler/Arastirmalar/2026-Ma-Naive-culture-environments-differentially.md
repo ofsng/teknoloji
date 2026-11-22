@@ -26,7 +26,7 @@ collected_at: 2026-11-08
 last_checked_at: 2026-11-08
 content_verified: false
 identifier_verified: crossref
-retraction_checked: 2026-11-08
+retraction_checked: 2026-11-22
 ---
 
 # Naïve culture environments differentially shape human endogenous retrovirus-K expression and transcriptional remodeling following transient naïve treatment of human induced pluripotent stem cells

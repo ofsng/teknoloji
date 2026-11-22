@@ -79,7 +79,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **4**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **9**.
+
+- [Demand aware optimization of hybrid energy storage systems for renewable electric vehicle charging stations under variable electricity demand](Arastirmalar/2026-Gamil-Demand-aware-optimization-hybrid.md) — Gamil vd. (2026) · *Scientific Reports* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -89,10 +91,14 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Uncovering the erratic behaviour of heat and reaction fronts in thermochemical energy storage with non-stoichiometric oxides](Isil-Enerji-Depolama/Termokimyasal-Enerji-Depolama/Arastirmalar/2026-Kasim-Uncovering-the-erratic-behaviour.md) — Kasim vd. (2026) · *Energy Conversion and Management* · hakemli
+- [Review of research and commercial solar concentrated systems for process heat with thermal energy storage in Greece and Cyprus](Isil-Enerji-Depolama/Arastirmalar/2026-Alexopoulos-Review-research-and-commercial.md) — Alexopoulos vd. (2026) · *Green Energy and Sustainability* · hakemli
+- [Ultrahigh-Performance Mechanical Energy Storage in Helical Molecular Springs](Mekanik-Enerji-Depolama/Arastirmalar/2026-Ma-Ultrahigh-Performance-Mechanical-Energy.md) — Ma vd. (2026) · *The Journal of Physical Chemistry Letters* · hakemli
 - [Capacity optimisation configuration of air–electricity–hydrogen hybrid energy storage systems incorporating advanced adiabatic compressed air energy storage](Mekanik-Enerji-Depolama/Basincli-Hava-Enerji-Depolama/Arastirmalar/2026-Zhang-Capacity-optimisation-configuration-airele.md) — Zhang vd. (2026) · *Energy Reports* · hakemli
+- [Olive-pomace-derived carbons for electrochemical energy storage: feedstock-process-structure-performance relationships](Elektrokimyasal-Enerji-Depolama/Arastirmalar/2026-Alouiz-Olive-pomace-derived-carbons.md) — Alouiz vd. (2026) · *Frontiers in Carbon* · hakemli
 - [The Technology of Lithium-Ion Batteries: An Alternative and Future Option to Meet Pakistan’s Energy Demands](Elektrokimyasal-Enerji-Depolama/Lityum-Iyon-Bataryalar/Arastirmalar/2026-Hussain-The-Technology-Lithium-Ion.md) — Hussain vd. (2026) · *The Nucleus* · hakemli
+- [Demand aware optimization of hybrid energy storage systems for renewable electric vehicle charging stations under variable electricity demand](Arastirmalar/2026-Gamil-Demand-aware-optimization-hybrid.md) — Gamil vd. (2026) · *Scientific Reports* · hakemli
 - [Recent Advances in Solar Still Technology: Design, Performance Enhancement, and Thermal Energy Storage.](Isil-Enerji-Depolama/Arastirmalar/2026-AlKhafaji-Recent-Advances-Solar-Still.md) — Al‐Khafaji vd. (2026) · *Journal of Science and Engineering Applications* · hakemli
-- [Computation of stability delay margins of microgrids with implementation of two types of superconducting magnetic energy storage systems](Superiletken-Manyetik-Enerji-Depolama/Arastirmalar/2026-Shakor-Computation-stability-delay-margins.md) — Shakor vd. (2026) · *Energy Reports* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

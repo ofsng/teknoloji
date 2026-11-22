@@ -96,7 +96,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **72**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **90**.
 
 - [Improving the Methodological, Information and Software Technology Support for Statistics Using the Analytical Capabilities of Artificial Intelligence and Machine Learning](Arastirmalar/2026-Khoroshilov-Improving-the-Methodological-Informa.md) — Khoroshilov vd. (2026) · *Statistics and Economics* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -108,14 +108,14 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Lossless Latent Diffusion Models](Derin-Ogrenme/Uretken-Modeller/Difuzyon-Modelleri/Gizil-Difuzyon-Modelleri/Arastirmalar/2026-Xu-Lossless-Latent-Diffusion-Models.md) — Xu vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [Understanding the Fundamental Design Decisions of Retrieval-Augmented Generation Systems](Temel-Modeller/Buyuk-Dil-Modelleri/Erisimle-Zenginlestirilmis-Uretim/Arastirmalar/2026-Zhao-Understanding-the-Fundamental-Design.md) — Zhao vd. (2026) · *ACM Transactions on Software Engineering and Methodology* · hakemli · atıf: 49
+- [Dance choreography assistance system by hierarchical reinforcement learning and its real-time interaction optimization method](Pekistirmeli-Ogrenme/Hiyerarsik-Pekistirmeli-Ogrenme/Arastirmalar/2026-Hua-Dance-choreography-assistance-system.md) — Hua (2026) · *Discover Artificial Intelligence* · hakemli
+- [Explainable breast cancer classification using machine learning deep learning and transfer learning across multiple data modalities](Aktarim-Ogrenmesi/Arastirmalar/2026-Tiwari-Explainable-breast-cancer-classification.md) — Tiwari vd. (2026) · *Discover Computing* · hakemli
+- [A subspecialty diagnostic system powered by self-supervised learning for cervical histopathology](Oz-Gozetimli-Ogrenme/Arastirmalar/2026-Wang-subspecialty-diagnostic-system-powered.md) — Wang vd. (2026) · *Nature Communications* · hakemli · atıf: 2
+- [Random Forest Ensembles versus LSTM Networks in Applied Machine Learning: A Comparative Review of Healthcare, Finance and Energy Studies](Derin-Ogrenme/Yinelemeli-Sinir-Aglari/Uzun-Kisa-Sureli-Bellek/Arastirmalar/2026-Kavitha-Random-Forest-Ensembles-versus.md) — Kavitha vd. (2026) · *International Journal Of Recent Trends In Multidisciplinary Research* · hakemli
+- [Metaheuristic Class Balancing and Hyperparameter Optimization for Diabetes Classification: A Two-Stage PSO–GA Framework](Otomatik-Makine-Ogrenmesi/Hiperparametre-Optimizasyonu/Arastirmalar/2026-Abid-Metaheuristic-Class-Balancing-and.md) — Abid vd. (2026) · *Bioengineering* · hakemli
 - [Stein discrepancy for unsupervised domain adaptation](Aktarim-Ogrenmesi/Alan-Uyarlama/Arastirmalar/2026-Seeger-Stein-discrepancy-for-unsupervised.md) — Seeger vd. (2026) · *Statistics and Computing* · hakemli · atıf: 1
-- [Applying ranked set sampling to Gaussian mixture models of Glasgow Coma Scale scores in intracerebral hemorrhage](Gozetimsiz-Ogrenme/Kumeleme/Karisim-Modelleri/Arastirmalar/2026-Ahmed-Applying-ranked-set-sampling.md) — Ahmed vd. (2026) · *Scientific Reports* · hakemli
-- [Calibration and Cross-Dataset Behavior in Malaria Microscopy with Parameter-Efficient Fine-Tuning: A Matched LoRA–PiSSA Evaluation](Temel-Modeller/Buyuk-Dil-Modelleri/Parametre-Verimli-Ince-Ayar/Arastirmalar/2026-Boit-Calibration-and-Cross-Dataset.md) — Boit vd. (2026) · *Diagnostics* · hakemli
-- [Multi-Armed Bandit-Based Model Selection for Incremental Phishing Detection: An Empirical Study of Accuracy, Cost, and Concept Drift](Pekistirmeli-Ogrenme/Cok-Kollu-Haydutlar/Arastirmalar/2026-Al-Tarawneh-Multi-Armed-Bandit-Based.md) — Al-Tarawneh vd. (2026) · *Information* · hakemli
-- [Few-Shot Learning for Ransomware Detection: A Narrative Review of Machine Learning, Deep Learning and Siamese Neural Network Approaches](Aktarim-Ogrenmesi/Az-Ornekle-Ogrenme/Arastirmalar/2026-Bello-Few-Shot-Learning-for.md) — Bello vd. (2026) · *FUDMA Journal of Sciences* · hakemli
-- [Community benchmarking of generative models for privacy-preserving synthetic bulk RNA-seq data generation](Derin-Ogrenme/Uretken-Modeller/Arastirmalar/2026-Ozturk-Community-benchmarking-generative-models.md) — Öztürk vd. (2026) · *Genome biology* · hakemli · atıf: 3
-- [DreamLander: A 6-DOF World Model based Reinforcement Learning Planetary Lander](Pekistirmeli-Ogrenme/Model-Tabanli-Pekistirmeli-Ogrenme/Arastirmalar/2026-Nehma-DreamLander-DOF-World-Model.md) — Nehma vd. (2026) · *Nehma, G.M., Quinn, P., Tiwari, M., & Riano-Rios, C. (2026). DreamLander: A 6-DOF World Model Based Reinforcement Learning Planetary Lander. AIAA SCITECH 2026 Forum* · hakemli
-- [TokenDial: Continuous Attribute Control for Text-to-Video Generation in Visual Dial Space](Temel-Modeller/Cok-Kipli-Temel-Modeller/Metinden-Video-Uretimi/Arastirmalar/2026-Liu-TokenDial-Continuous-Attribute-Control.md) — Liu vd. (2026) · *ACM Transactions on Graphics* · hakemli · atıf: 2
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

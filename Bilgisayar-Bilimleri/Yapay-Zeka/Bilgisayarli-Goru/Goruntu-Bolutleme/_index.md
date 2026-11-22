@@ -77,7 +77,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **4**.
 
 - [A review of medical image segmentation research based on bibliometrics](Arastirmalar/2026-Li-review-medical-image-segmentation.md) — Li vd. (2026) · *Technology and Health Care* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -89,7 +89,10 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Real-time instance segmentation of spine endoscopy images using a YOLO-V11 deep convolutional neural network](Ornek-Bolutleme/Arastirmalar/2026-Jung-Real-time-instance-segmentation.md) — Jung vd. (2026) · *PLoS ONE* · hakemli
+- [ACMNet: An attention-convolution mixed neural network for semantic segmentation of high-resolution remote sensing images](Anlamsal-Bolutleme/Arastirmalar/2026-Yu-ACMNet-attention-convolution-mixed.md) — Yu vd. (2026) · *PLoS ONE* · hakemli
 - [A review of medical image segmentation research based on bibliometrics](Arastirmalar/2026-Li-review-medical-image-segmentation.md) — Li vd. (2026) · *Technology and Health Care* · hakemli
+- [Real-Time Instance Segmentation of Deep-Sea Polymetallic Nodules with Wavelet Statistical Cross-Attention and Reverse Convolution Upsampling](Ornek-Bolutleme/Arastirmalar/2026-Liu-Real-Time-Instance-Segmentation.md) — Liu vd. (2026) · *Journal of Marine Science and Engineering* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

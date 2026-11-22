@@ -75,8 +75,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **2**.
 
+- [Surface-enhanced Raman spectroscopy on the membranes for antimicrobial resistance testing](Arastirmalar/2026-Mushenkov-Surface-enhanced-Raman-spectroscopy.md) — Mushenkov vd. (2026) · *Frontiers in Microbiology* · hakemli · atıf: 1
 - [Field-Deployable and Ultrasensitive Surface-Enhanced Raman Spectroscopy for Waterborne Arsenic Monitoring Based on Headspace Formation of Arsenic–Silver Nanocomposites](Arastirmalar/2026-Chen-Field-Deployable-and-Ultrasensitive.md) — Chen vd. (2026) · *ACS Sensors* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
@@ -87,6 +88,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Surface-enhanced Raman spectroscopy on the membranes for antimicrobial resistance testing](Arastirmalar/2026-Mushenkov-Surface-enhanced-Raman-spectroscopy.md) — Mushenkov vd. (2026) · *Frontiers in Microbiology* · hakemli · atıf: 1
 - [Field-Deployable and Ultrasensitive Surface-Enhanced Raman Spectroscopy for Waterborne Arsenic Monitoring Based on Headspace Formation of Arsenic–Silver Nanocomposites](Arastirmalar/2026-Chen-Field-Deployable-and-Ultrasensitive.md) — Chen vd. (2026) · *ACS Sensors* · hakemli
 <!-- AUTO:RECENT:END -->
 

@@ -78,7 +78,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **11**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **23**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -88,14 +88,14 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
-- [IP10 armoring enhances CLDN-18.2–directed CAR-T cell therapy in pancreatic cancer by promoting T cell infiltration and vascular remodeling, with additive benefits from IL-15 co-modification](Hucre-Tedavisi/CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Hu-IP10-armoring-enhances-CLDN.md) — Hu vd. (2026) · *Frontiers in Immunology* · hakemli
-- [Outcomes of CAR T cell therapy in diffuse large B cell lymphoma transformed from follicular lymphoma: a single center retrospective analysis](Hucre-Tedavisi/CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Xiong-Outcomes-CAR-cell-therapy.md) — Xiong vd. (2026) · *Frontiers in Immunology* · hakemli
-- [Beyond ICANS: Cellular and Molecular Mechanisms Linking CAR T-Cell Therapy to Long-Term Neurocognitive Outcomes](Hucre-Tedavisi/CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Fleischer-Beyond-ICANS-Cellular-and.md) — Fleischer vd. (2026) · *Cells* · hakemli
-- [Clinical and Mechanistic Insights into Non-ICANS Neurotoxicity Following BCMA CAR T-Cell Therapy](Hucre-Tedavisi/CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Mueller-Jensen-Clinical-and-Mechanistic-Insights.md) — Mueller-Jensen vd. (2026) · *Neurology* · hakemli
-- [Miv-cel CD19 CAR T-Cell Therapy Shows Efficacy and Safety in Stiff Person Syndrome in a Pivotal, Multicenter, Phase 2 Study (KYSA-8)](Hucre-Tedavisi/CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Piquet-Miv-cel-CD19-CAR.md) — Piquet vd. (2026) · *Neurology* · hakemli
-- [Optimizing infusion methods to enhance the efficacy of CAR-T cell therapy for solid tumors](Hucre-Tedavisi/CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Xue-Optimizing-infusion-methods-enhance.md) — Xue vd. (2026) · *BMC Cancer* · hakemli
-- [CAR-T cell therapy in hematology malignancies: breaking barriers, engineering the future](Hucre-Tedavisi/CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Alvizo-Baez-CAR-cell-therapy-hematology.md) — Alvizo-Báez vd. (2026) · *Frontiers in Immunology* · hakemli
-- [Peptide-functionalized biomaterials as emerging platforms to enhance CAR-NK cell therapy in solid tumors](Hucre-Tedavisi/NK-Hucre-Tedavisi/Arastirmalar/2026-Shokoohi-Peptide-functionalized-biomaterials-eme.md) — Shokoohi vd. (2026) · *Discover Materials* · hakemli
+- [NKTR-255, a polymer-conjugated IL-15, enhances CAR T cell therapy by engaging endogenous antitumor immunity](Hucre-Tedavisi/CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Nutt-NKTR-255-polymer-conjugated.md) — Nutt vd. (2026) · *Cancer Immunology Research* · hakemli · atıf: 1
+- [Before the CAR arrives: how neuro-oncological treatment history shapes CAR-T cell therapy in brain tumors](Hucre-Tedavisi/CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Baldo-Before-the-CAR-arrives.md) — Baldo vd. (2026) · *Frontiers in Immunology* · hakemli
+- [Identification of lead CD24 scFvs for integration into CAR T-cell therapy](Hucre-Tedavisi/CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Lysandrou-Identification-lead-CD24-scFvs.md) — Lysandrou vd. (2026) · *Frontiers in Immunology* · hakemli
+- [Advances in chimeric antigen receptor T (CAR-T) cell therapy and limitations for treating breast cancer requires next generation of CAR-T cells treatment](Hucre-Tedavisi/CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Nawaz-Advances-chimeric-antigen-receptor.md) — Nawaz vd. (2026) · *Cancer Cell International* · hakemli
+- [Hemostatic complications after CAR T-cell therapy: linking immunothrombotic mechanisms to phase-adapted management](Hucre-Tedavisi/CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Zhao-Hemostatic-complications-after-CAR.md) — Zhao vd. (2026) · *Journal of Translational Medicine* · hakemli
+- [PET/CT in CAR T-Cell Therapy for Hematologic Malignancies: A Bibliometric and Clinically Annotated Analysis](Hucre-Tedavisi/CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Arslan-PET-CAR-Cell-Therapy.md) — Arslan vd. (2026) · *Hemato* · hakemli
+- [Bridging to CD19 CAR T-cell therapy for large B-cell lymphoma: An analysis of 1,134 patients by the EBMT Lymphoma Working Party and the GoCART Coalition](Hucre-Tedavisi/CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Berning-Bridging-CD19-CAR-cell.md) — Berning vd. (2026) · *Bone Marrow Transplantation* · hakemli
+- [Feeding T cell enhancement of CAR-T cell therapy for minimal B cell malignancy: evidences from in vitro and in vivo models](Hucre-Tedavisi/CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Liu-Feeding-cell-enhancement-CAR.md) — Liu vd. (2026) · *BMC Medicine* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar
