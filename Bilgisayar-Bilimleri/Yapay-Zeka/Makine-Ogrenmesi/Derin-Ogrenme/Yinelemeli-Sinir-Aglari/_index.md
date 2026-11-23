@@ -77,7 +77,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **7**.
 
 - [Embedding stochastic dynamics in latent manifolds of recurrent neural networks](Arastirmalar/2026-Nartallo-Kaluarachchi-Embedding-stochastic-dynam.md) — Nartallo-Kaluarachchi vd. (2026) · *arXiv* · ön baskı / hakemsiz
 <!-- AUTO:RESEARCH:END -->
@@ -89,6 +89,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Long short-term memory based activity detection using skeleton joints data: a systematic review](Uzun-Kisa-Sureli-Bellek/Arastirmalar/2026-Kumar-Long-short-term-memory.md) — Kumar vd. (2026) · *IAES International Journal of Artificial Intelligence* · hakemli
 - [Embedding stochastic dynamics in latent manifolds of recurrent neural networks](Arastirmalar/2026-Nartallo-Kaluarachchi-Embedding-stochastic-dynam.md) — Nartallo-Kaluarachchi vd. (2026) · *arXiv* · ön baskı / hakemsiz
 <!-- AUTO:RECENT:END -->
 

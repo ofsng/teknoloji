@@ -75,7 +75,11 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **3**, alt teknolojiler dahil: **3**.
+
+- [Normalizing Flows: An Introduction and Review of Current Methods](Arastirmalar/2020-Kobyzev-Normalizing-Flows-Introduction-and.md) — Kobyzev vd. (2020) · *IEEE Transactions on Pattern Analysis and Machine Intelligence* · hakemli · atıf: 2140
+- [Adaptive Monte Carlo augmented with normalizing flows](Arastirmalar/2022-Gabrie-Adaptive-Monte-Carlo-augmented.md) — Gabrié vd. (2022) · *Proceedings of the National Academy of Sciences* · hakemli · atıf: 269
+- [Normalizing flows for atomic solids](Arastirmalar/2022-Wirnsberger-Normalizing-flows-for-atomic.md) — Wirnsberger vd. (2022) · *Machine Learning Science and Technology* · hakemli · atıf: 77
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler

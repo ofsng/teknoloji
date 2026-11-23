@@ -75,7 +75,10 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **2**.
+
+- [Performance Analysis of Different Optimizers for Deep Learning-Based Image Recognition](Arastirmalar/2019-Postalcioglu-Performance-Analysis-Different-Opti.md) — Postalcıoğlu (2019) · *International Journal of Pattern Recognition and Artificial Intelligence* · hakemli · atıf: 87
+- [A Comparative Study on the Training Effects of Different Optimizers for Deep Learning Models](Arastirmalar/2025-Yin-Comparative-Study-the-Training.md) — Yin (2025) · *Journal of Electronics and Information Science* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler

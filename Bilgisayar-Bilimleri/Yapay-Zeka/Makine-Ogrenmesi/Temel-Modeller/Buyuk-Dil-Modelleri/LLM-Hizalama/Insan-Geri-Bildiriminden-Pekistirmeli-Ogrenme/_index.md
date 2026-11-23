@@ -93,7 +93,6 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 
 - [Provable Zeroth-Order Safe Exploration for Reinforcement Learning from Human Feedback](Arastirmalar/2026-Chen-Provable-Zeroth-Order-Safe.md) — Chen vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [Reinforcement Learning from Human Feedback: A Statistical Perspective](Arastirmalar/2026-Liu-Reinforcement-Learning-from-Human.md) — Liu vd. (2026) · *Annual Review of Statistics and Its Application* · hakemli · atıf: 4
-- [Interactive Groupwise Comparison for Reinforcement Learning from Human Feedback](Arastirmalar/2025-Kompatscher-Interactive-Groupwise-Comparison-for.md) — Kompatscher vd. (2025) · *Computer Graphics Forum* · hakemli · atıf: 3
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

@@ -75,7 +75,11 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **3**, alt teknolojiler dahil: **3**.
+
+- [Message-passing neural networks for high-throughput polymer screening](Arastirmalar/2019-John-Message-passing-neural-networks.md) — John vd. (2019) · *The Journal of Chemical Physics* · hakemli · atıf: 181
+- [Predicting Infrared Spectra with Message Passing Neural Networks](Arastirmalar/2021-McGill-Predicting-Infrared-Spectra-with.md) — McGill vd. (2021) · *Journal of Chemical Information and Modeling* · hakemli · atıf: 123
+- [Retention Time Prediction with Message-Passing Neural Networks](Arastirmalar/2022-Osipenko-Retention-Time-Prediction-with.md) — Osipenko vd. (2022) · *Separations* · hakemli · atıf: 53
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler

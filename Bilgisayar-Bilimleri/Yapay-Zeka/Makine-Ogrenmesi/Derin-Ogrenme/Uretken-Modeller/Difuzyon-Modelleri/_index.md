@@ -79,7 +79,11 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **12**.
+Arşivdeki kayıtlar — bu düğüm: **3**, alt teknolojiler dahil: **15**.
+
+- [Opportunities and challenges of diffusion models for generative AI](Arastirmalar/2024-Chen-Opportunities-and-challenges-diffusion.md) — Chen vd. (2024) · *National Science Review* · hakemli · atıf: 270
+- [Diffusion models for robotic manipulation: a survey](Arastirmalar/2025-Wolf-Diffusion-models-for-robotic.md) — Wolf vd. (2025) · *Frontiers in Robotics and AI* · hakemli · atıf: 113
+- [Diffusion models for medical image reconstruction](Arastirmalar/2024-Webber-Diffusion-models-for-medical.md) — Webber vd. (2024) · *BJR|Artificial Intelligence* · hakemli · atıf: 110
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler

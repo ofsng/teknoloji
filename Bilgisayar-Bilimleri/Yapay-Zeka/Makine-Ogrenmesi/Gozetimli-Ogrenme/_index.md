@@ -80,7 +80,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **4**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **7**.
 
 - [Automatic Evaluation of Open-Ended Mathematics Questions with Machine Learning](Arastirmalar/2026-KARACA-Automatic-Evaluation-Open-Ended.md) — KARACA vd. (2026) · *International Journal of Technology in Education and Science* · hakemli
 <!-- AUTO:RESEARCH:END -->

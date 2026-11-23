@@ -95,7 +95,6 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [A Survey of Direct Preference Optimization: Datasets, Theories, Variants, and Applications](Dogrudan-Tercih-Optimizasyonu/Arastirmalar/2026-Xiao-Survey-Direct-Preference-Optimization.md) — Xiao vd. (2026) · *IEEE Transactions on Pattern Analysis and Machine Intelligence* · hakemli · atıf: 55
 - [Research Process of Autoregressive Direct Preference Optimization](Dogrudan-Tercih-Optimizasyonu/Arastirmalar/2026-Oi-Research-Process-Autoregressive-Direct.md) — Oi (2026) · *Journal of Natural Language Processing* · hakemli
 - [Quality Assessment for AI Generated Images With Instruction Tuning](Talimat-Ince-Ayari/Arastirmalar/2026-Wang-Quality-Assessment-for-Generated.md) — Wang vd. (2026) · *IEEE Transactions on Multimedia* · hakemli · atıf: 52
-- [Interactive Groupwise Comparison for Reinforcement Learning from Human Feedback](Insan-Geri-Bildiriminden-Pekistirmeli-Ogrenme/Arastirmalar/2025-Kompatscher-Interactive-Groupwise-Comparison-for.md) — Kompatscher vd. (2025) · *Computer Graphics Forum* · hakemli · atıf: 3
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

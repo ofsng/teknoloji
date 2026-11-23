@@ -75,7 +75,11 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **3**, alt teknolojiler dahil: **3**.
+
+- [Unlexicalized Transition-based Discontinuous Constituency Parsing](Arastirmalar/2019-Coavoux-Unlexicalized-Transition-based-Discontin.md) — Coavoux vd. (2019) · *Transactions of the Association for Computational Linguistics* · hakemli · atıf: 33
+- [Constituency Parsing Using LLMs](Arastirmalar/2025-Bai-Constituency-Parsing-Using-LLMs.md) — Bai vd. (2025) · *IEEE Transactions on Audio Speech and Language Processing* · hakemli · atıf: 31
+- [Discontinuous Combinatory Constituency Parsing](Arastirmalar/2023-Chen-Discontinuous-Combinatory-Constituency-Pars.md) — Chen vd. (2023) · *Transactions of the Association for Computational Linguistics* · hakemli · atıf: 6
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler

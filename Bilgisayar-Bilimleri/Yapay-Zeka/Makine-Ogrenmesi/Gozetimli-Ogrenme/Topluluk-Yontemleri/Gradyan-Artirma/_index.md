@@ -75,7 +75,10 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **2**.
+
+- [Gradient boosting machines, a tutorial](Arastirmalar/2013-Natekin-Gradient-boosting-machines-tutorial.md) — Natekin vd. (2013) · *Frontiers in Neurorobotics* · hakemli · atıf: 4795
+- [Identify DNA-Binding Proteins Through the Extreme Gradient Boosting Algorithm](Arastirmalar/2022-Zhao-Identify-DNA-Binding-Proteins.md) — Zhao vd. (2022) · *Frontiers in Genetics* · hakemli · atıf: 42
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler

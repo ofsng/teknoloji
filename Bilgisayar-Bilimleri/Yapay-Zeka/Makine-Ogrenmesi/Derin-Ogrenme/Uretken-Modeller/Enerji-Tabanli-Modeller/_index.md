@@ -75,7 +75,11 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **3**, alt teknolojiler dahil: **3**.
+
+- [Equilibrium Propagation: Bridging the Gap between Energy-Based Models and Backpropagation](Arastirmalar/2017-Scellier-Equilibrium-Propagation-Bridging-the.md) — Scellier vd. (2017) · *Frontiers in Computational Neuroscience* · hakemli · atıf: 886
+- [STDP-Compatible Approximation of Backpropagation in an Energy-Based Model](Arastirmalar/2017-Bengio-STDP-Compatible-Approximation-Backpropaga.md) — Bengio vd. (2017) · *Neural Computation* · hakemli · atıf: 130
+- [Training energy-based models for time-series imputation](Arastirmalar/2013-Brakel-Training-energy-based-models.md) — Brakel vd. (2013) · *Journal of Machine Learning Research* · hakemli · atıf: 41
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler

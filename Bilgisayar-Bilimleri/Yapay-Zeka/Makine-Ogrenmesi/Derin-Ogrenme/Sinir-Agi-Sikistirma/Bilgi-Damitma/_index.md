@@ -75,7 +75,11 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **3**, alt teknolojiler dahil: **3**.
+
+- [Knowledge Distillation and Student-Teacher Learning for Visual Intelligence: A Review and New Outlooks](Arastirmalar/2021-Wang-Knowledge-Distillation-and-Student.md) — Wang vd. (2021) · *IEEE Transactions on Pattern Analysis and Machine Intelligence* · hakemli · atıf: 1164
+- [A survey on knowledge distillation: Recent advancements](Arastirmalar/2024-Moslemi-survey-knowledge-distillation-Recent.md) — Moslemi vd. (2024) · *Machine Learning with Applications* · hakemli · atıf: 240
+- [Knowledge Distillation for Hybrid CNN–Vision Transformer Architectures: A Systematic Review](Arastirmalar/2026-Adam-Knowledge-Distillation-for-Hybrid.md) — Adam vd. (2026) · *International Comprehensive Technology and Science Journal* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -83,7 +87,9 @@ Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
-_Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini göstermez; ön baskılar hakemli değildir._
+Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
+
+- [Knowledge Distillation for Hybrid CNN–Vision Transformer Architectures: A Systematic Review](Arastirmalar/2026-Adam-Knowledge-Distillation-for-Hybrid.md) — Adam vd. (2026) · *International Comprehensive Technology and Science Journal* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

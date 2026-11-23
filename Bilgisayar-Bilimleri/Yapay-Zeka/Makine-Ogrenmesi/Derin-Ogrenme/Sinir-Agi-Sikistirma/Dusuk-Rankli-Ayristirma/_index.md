@@ -75,7 +75,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **1**.
+
+- [Reweighted Low-Rank Factorization With Deep Prior for Image Restoration](Arastirmalar/2022-Chen-Reweighted-Low-Rank-Factorization.md) — Chen vd. (2022) · *IEEE Transactions on Signal Processing* · hakemli · atıf: 35
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
