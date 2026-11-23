@@ -75,7 +75,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **3**.
 
 - [Robust learning under natural rating noise for collaborative filtering](Arastirmalar/2026-Braida-Robust-learning-under-natural.md) — Braida vd. (2026) · *International Journal of Data Science and Analytics* · hakemli
 <!-- AUTO:RESEARCH:END -->

@@ -77,7 +77,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **5**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **52**.
 
 - [A Systematic Literature Review of Blockchain and Distributed Ledger Technology for the Detection and Prevention of Phishing Attacks](Arastirmalar/2026-Odianosen-Systematic-Literature-Review-Blockchai.md) — Odianosen vd. (2026) · *Iconic Research and Engineering Journals* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -94,6 +94,9 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [A Systematic Literature Review of Blockchain and Distributed Ledger Technology for the Detection and Prevention of Phishing Attacks](Arastirmalar/2026-Odianosen-Systematic-Literature-Review-Blockchai.md) — Odianosen vd. (2026) · *Iconic Research and Engineering Journals* · hakemli
 - [Global decentralized stock exchange: an innovative permissioned-blockchain framework for integrated capital markets](Blokzincir/Izinli-Blokzincirler/Arastirmalar/2026-Al-Awadhi-Global-decentralized-stock-exchange.md) — Al-Awadhi vd. (2026) · *Journal of Financial Regulation and Compliance* · hakemli
 - [Low-overhead trust mechanism for efficient cross-domain authentication in internet of vehicles based on blockchain sharding](Blokzincir/Olceklendirme/Sharding/Arastirmalar/2026-Zhao-Low-overhead-trust-mechanism.md) — Zhao vd. (2026) · *Frontiers in Physics* · hakemli
+- [A Global Blockchain-IoT Architecture Integrating Layer-2 Protocols](Blokzincir/Olceklendirme/Katman-2/Arastirmalar/2026-Aghroud-Global-Blockchain-IoT-Architecture.md) — Aghroud vd. (2026) · *Engineering Technology & Applied Science Research* · hakemli
+- [eDAS: Extending Data Availability Sampling with Privacy and Compliance](Blokzincir/Olceklendirme/Veri-Erisilebilirligi-Orneklemesi/Arastirmalar/2026-Watkins-eDAS-Extending-Data-Availability.md) — Watkins vd. (2026) · *IACR Communications in Cryptology* · hakemli
+- [The Price of Interoperability: Exploring Cross-Chain Bridges and Their Economic Consequences](Blokzincir/Birlikte-Calisabilirlik/Zincirler-Arasi-Kopruler/Arastirmalar/2026-Cao-The-Price-Interoperability-Exploring.md) — Cao vd. (2026) · *Proceedings of the ACM on Measurement and Analysis of Computing Systems* · hakemli · atıf: 6
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

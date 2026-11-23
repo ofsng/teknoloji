@@ -75,9 +75,12 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **4**, alt teknolojiler dahil: **4**.
 
+- [Applications of Long Short-Term Memory (LSTM) Networks in Polymeric Sciences: A Review](Arastirmalar/2024-Malashin-Applications-Long-Short-Term.md) — Malashin vd. (2024) · *Polymers* · hakemli · atıf: 220
+- [Long short-term memory models of water quality in inland water environments](Arastirmalar/2023-Pyo-Long-short-term-memory.md) — Pyo vd. (2023) · *Water Research X* · hakemli · atıf: 128
 - [Random Forest Ensembles versus LSTM Networks in Applied Machine Learning: A Comparative Review of Healthcare, Finance and Energy Studies](Arastirmalar/2026-Kavitha-Random-Forest-Ensembles-versus.md) — Kavitha vd. (2026) · *International Journal Of Recent Trends In Multidisciplinary Research* · hakemli
+- [Long short-term memory based activity detection using skeleton joints data: a systematic review](Arastirmalar/2026-Kumar-Long-short-term-memory.md) — Kumar vd. (2026) · *IAES International Journal of Artificial Intelligence* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -88,6 +91,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
 - [Random Forest Ensembles versus LSTM Networks in Applied Machine Learning: A Comparative Review of Healthcare, Finance and Energy Studies](Arastirmalar/2026-Kavitha-Random-Forest-Ensembles-versus.md) — Kavitha vd. (2026) · *International Journal Of Recent Trends In Multidisciplinary Research* · hakemli
+- [Long short-term memory based activity detection using skeleton joints data: a systematic review](Arastirmalar/2026-Kumar-Long-short-term-memory.md) — Kumar vd. (2026) · *IAES International Journal of Artificial Intelligence* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

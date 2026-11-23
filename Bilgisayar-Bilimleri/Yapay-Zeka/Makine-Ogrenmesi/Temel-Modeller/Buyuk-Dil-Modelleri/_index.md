@@ -85,7 +85,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **9**, alt teknolojiler dahil: **21**.
+Arşivdeki kayıtlar — bu düğüm: **9**, alt teknolojiler dahil: **31**.
 
 - [An Empirical Study on the Code Refactoring Capability of Large Language Models](Arastirmalar/2024-Cordeiro-Empirical-Study-the-Code.md) — Cordeiro vd. (2024) · *arXiv* · ön baskı / hakemsiz
 - [How Well Can Large Language Models Impersonate Individual Authors? A Comparative Evaluation](Arastirmalar/2026-Gupta-How-Well-Can-Large.md) — Gupta vd. (2026) · *arXiv* · ön baskı / hakemsiz

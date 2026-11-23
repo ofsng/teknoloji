@@ -75,8 +75,11 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **4**, alt teknolojiler dahil: **4**.
 
+- [Light Gated Recurrent Units for Speech Recognition](Arastirmalar/2018-Ravanelli-Light-Gated-Recurrent-Units.md) — Ravanelli vd. (2018) · *IEEE Transactions on Emerging Topics in Computational Intelligence* · hakemli · atıf: 504
+- [A Gated Recurrent Unit Approach to Bitcoin Price Prediction](Arastirmalar/2020-Dutta-Gated-Recurrent-Unit-Approach.md) — Dutta vd. (2020) · *Journal of risk and financial management* · hakemli · atıf: 281
+- [Advancements and Challenges in Gated Recurrent Units (GRU) for Text Classification: A Systematic Literature Review](Arastirmalar/2024-Fairuzabadi-Advancements-and-Challenges-Gated.md) — Fairuzabadi vd. (2024) · *International Conference of Computer and Informatics Engineering (IC2IE)* · hakemli · atıf: 17
 - [A hybrid neural deep belief networks-gated recurrent unit algorithm with a leakage-aware evaluation protocol for ECG-HRV-based cognitive load classification](Arastirmalar/2026-Keikhosrokiani-hybrid-neural-deep-belief.md) — Keikhosrokiani vd. (2026) · *Scientific Reports* · hakemli
 <!-- AUTO:RESEARCH:END -->
 

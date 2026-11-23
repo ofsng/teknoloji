@@ -75,7 +75,11 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **3**, alt teknolojiler dahil: **3**.
+
+- [Segment Routing in Software Defined Networks: A Survey](Arastirmalar/2018-Abdullah-Segment-Routing-Software-Defined.md) — Abdullah vd. (2018) · *IEEE Communications Surveys & Tutorials* · hakemli · atıf: 98
+- [Experimental Demonstration of Segment Routing](Arastirmalar/2015-Sgambelluri-Experimental-Demonstration-Segment-R.md) — Sgambelluri vd. (2015) · *Journal of Lightwave Technology* · hakemli · atıf: 48
+- [Traffic Engineering With Three-Segments Routing](Arastirmalar/2020-Pereira-Traffic-Engineering-With-Three.md) — Pereira vd. (2020) · *IEEE Transactions on Network and Service Management* · hakemli · atıf: 35
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler

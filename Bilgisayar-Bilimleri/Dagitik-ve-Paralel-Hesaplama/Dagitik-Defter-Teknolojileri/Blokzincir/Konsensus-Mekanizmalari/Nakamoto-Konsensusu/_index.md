@@ -76,7 +76,11 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **3**, alt teknolojiler dahil: **3**.
+
+- [Tangle 2.0 Leaderless Nakamoto Consensus on the Heaviest DAG](Arastirmalar/2022-Muller-Tangle-Leaderless-Nakamoto-Consensus.md) — Müller vd. (2022) · *IEEE Access* · hakemli · atıf: 67
+- [Methods of security analysis for Nakamoto consensus](Arastirmalar/2021-Methods-security-analysis-for.md) — 周 vd. (2021) · *Scientia Sinica Informationis* · hakemli · atıf: 3
+- [The impact of network delay on Nakamoto consensus mechanism](Arastirmalar/2022-Lin-The-impact-network-delay.md) — Lin vd. (2022) · *Electronic Research Archive* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler

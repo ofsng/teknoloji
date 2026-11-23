@@ -75,7 +75,11 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **3**, alt teknolojiler dahil: **3**.
+
+- [Distributed Atomic Swap on Cryptocurrencies](Arastirmalar/2020-Ergun-Distributed-Atomic-Swap-Cryptocurrencies.md) — Ergun vd. (2020) · *Computer Engineering and Intelligent Systems* · hakemli · atıf: 2
+- [Atomic Swaps with Relaxed Assumptions](Arastirmalar/2026-Rosler-Atomic-Swaps-with-Relaxed.md) — Rösler vd. (2026) · *IACR Communications in Cryptology* · hakemli
+- [Scriptless Atomic Swap With Batch Processing](Arastirmalar/2026-Wang-Scriptless-Atomic-Swap-With.md) — Wang vd. (2026) · *IEEE Transactions on Information Forensics and Security* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -83,7 +87,10 @@ Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
-_Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini göstermez; ön baskılar hakemli değildir._
+Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
+
+- [Atomic Swaps with Relaxed Assumptions](Arastirmalar/2026-Rosler-Atomic-Swaps-with-Relaxed.md) — Rösler vd. (2026) · *IACR Communications in Cryptology* · hakemli
+- [Scriptless Atomic Swap With Batch Processing](Arastirmalar/2026-Wang-Scriptless-Atomic-Swap-With.md) — Wang vd. (2026) · *IEEE Transactions on Information Forensics and Security* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

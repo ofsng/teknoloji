@@ -75,10 +75,13 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **3**, alt teknolojiler dahil: **3**.
+Arşivdeki kayıtlar — bu düğüm: **6**, alt teknolojiler dahil: **6**.
 
+- [RLHF Deciphered: A Critical Analysis of Reinforcement Learning from Human Feedback for LLMs](Arastirmalar/2025-Chaudhari-RLHF-Deciphered-Critical-Analysis.md) — Chaudhari vd. (2025) · *ACM Computing Surveys* · hakemli · atıf: 193
 - [Dual Active Learning for Reinforcement Learning from Human Feedback](Arastirmalar/2026-Liu-Dual-Active-Learning-for.md) — Liu vd. (2026) · *Operations Research* · hakemli · atıf: 28
-- [Reinforcement Learning from Human Feedback: A Statistical Perspective](Arastirmalar/2026-Liu-Reinforcement-Learning-from-Human.md) — Liu vd. (2026) · *Annual Review of Statistics and Its Application* · hakemli · atıf: 3
+- [Reinforcement Learning from Human Feedback: A Statistical Perspective](Arastirmalar/2026-Liu-Reinforcement-Learning-from-Human.md) — Liu vd. (2026) · *Annual Review of Statistics and Its Application* · hakemli · atıf: 4
+- [Interactive Groupwise Comparison for Reinforcement Learning from Human Feedback](Arastirmalar/2025-Kompatscher-Interactive-Groupwise-Comparison-for.md) — Kompatscher vd. (2025) · *Computer Graphics Forum* · hakemli · atıf: 3
+- [Reinforcement Learning from Human Feedback - A Review](Arastirmalar/2024-Singh-Reinforcement-Learning-from-Human.md) — Singh vd. (2024) · *International Journal of Scientific Research in Science Engineering and Technology* · hakemli
 - [Provable Zeroth-Order Safe Exploration for Reinforcement Learning from Human Feedback](Arastirmalar/2026-Chen-Provable-Zeroth-Order-Safe.md) — Chen vd. (2026) · *arXiv* · ön baskı / hakemsiz
 <!-- AUTO:RESEARCH:END -->
 
@@ -91,7 +94,7 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 
 - [Dual Active Learning for Reinforcement Learning from Human Feedback](Arastirmalar/2026-Liu-Dual-Active-Learning-for.md) — Liu vd. (2026) · *Operations Research* · hakemli · atıf: 28
 - [Provable Zeroth-Order Safe Exploration for Reinforcement Learning from Human Feedback](Arastirmalar/2026-Chen-Provable-Zeroth-Order-Safe.md) — Chen vd. (2026) · *arXiv* · ön baskı / hakemsiz
-- [Reinforcement Learning from Human Feedback: A Statistical Perspective](Arastirmalar/2026-Liu-Reinforcement-Learning-from-Human.md) — Liu vd. (2026) · *Annual Review of Statistics and Its Application* · hakemli · atıf: 3
+- [Reinforcement Learning from Human Feedback: A Statistical Perspective](Arastirmalar/2026-Liu-Reinforcement-Learning-from-Human.md) — Liu vd. (2026) · *Annual Review of Statistics and Its Application* · hakemli · atıf: 4
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

@@ -90,7 +90,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **210**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **397**.
 
 - [METHODOLOGY FOR USING INTERACTIVE AND INNOVATIVE METHODS IN TEACHING COMPUTER SCIENCE](Arastirmalar/2026-Ozatovna-METHODOLOGY-FOR-USING-INTERACTIVE.md) — Ozatovna vd. (2026) · *HSR (London)* · hakemli
 <!-- AUTO:RESEARCH:END -->

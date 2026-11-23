@@ -1,6 +1,8 @@
 """OpenAlex API (https://help.openalex.org). Veri CC0. Anahtarsız: IP başına paylaşılan küçük günlük bütçe;
 ücretsiz anahtar (OPENALEX_API_KEY) kendi $1/gün bütçesini verir. Liste çağrısı ~$0.0001, arama ~$0.001.
 `from_created_date` ücretli plan gerektirdiğinden günlük toplama yayın tarihine göre yapılır."""
+import re
+
 from ..records import new_record
 
 API = "https://api.openalex.org/works"
@@ -54,6 +56,27 @@ def search_top(http, cfg, phrase, n, types="article|review", field="title_and_ab
     return _get(http, cfg, {"filter": f'{field}.search:"{q}",type:{types},has_abstract:true,'
                                       f'primary_location.source.type:journal|conference',
                             "sort": "cited_by_count:desc", "per_page": n})[0]
+
+
+# OpenAlex bazı derlemeleri `article` olarak etiketler; başlık kalıbı bunları makalelerin önüne alır.
+EXPLAINER_TITLE = re.compile(
+    r"\b(survey|review|overview|tutorial|primer|introduction|sok|state[- ]of[- ]the[- ]art|perspectives?|"
+    r"challenges|taxonomy|fundamentals|foundations)\b", re.I)
+
+
+def search_explainers(http, cfg, phrase, n):
+    """Alanı anlatan çalışmalar: önce başlığında ifade geçen derlemeler, sonra özgün makaleler (başlığı derleme
+    kalıbına uyanlar önce); her grup arama alakasına (relevance_score) göre sıralı. Ham atıf sayısı eski öncü
+    makaleleri kayırdığından kullanılmaz. Yalnızca İngilizce kayıtlar."""
+    q = phrase.replace('"', "")
+    base = f'title.search:"{q}",has_abstract:true,language:en,primary_location.source.type:journal|conference'
+    out = []
+    for typ in ("review", "article"):
+        recs = _get(http, cfg, {"filter": f"{base},type:{typ}", "sort": "relevance_score:desc", "per_page": n})[0]
+        if typ == "article":  # sıralama kararlı: alaka sırası grup içinde korunur
+            recs.sort(key=lambda r: not EXPLAINER_TITLE.search(r.get("title") or ""))
+        out += recs
+    return out
 
 
 def count_phrase(http, cfg, phrase):

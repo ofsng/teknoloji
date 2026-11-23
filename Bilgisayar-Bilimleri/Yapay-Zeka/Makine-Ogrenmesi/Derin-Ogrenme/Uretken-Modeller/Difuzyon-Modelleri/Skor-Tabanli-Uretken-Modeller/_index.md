@@ -75,7 +75,11 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **3**, alt teknolojiler dahil: **3**.
+
+- [Score-based generative models for calorimeter shower simulation](Arastirmalar/2022-Mikuni-Score-based-generative-models.md) — Mikuni vd. (2022) · *Physical review. D/Physical review. D.* · hakemli · atıf: 147
+- [Wavelet-Improved Score-Based Generative Model for Medical Imaging](Arastirmalar/2023-Wu-Wavelet-Improved-Score-Based.md) — Wu vd. (2023) · *IEEE Transactions on Medical Imaging* · hakemli · atıf: 115
+- [Score-Based Generative Models for PET Image Reconstruction](Arastirmalar/2024-Singh-Score-Based-Generative-Models.md) — Singh vd. (2024) · *The Journal of Machine Learning for Biomedical Imaging* · hakemli · atıf: 35
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler

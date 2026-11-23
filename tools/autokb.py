@@ -3,7 +3,7 @@
 
 Komutlar:
   daily                     Günlük çalışma: topla → tekilleştir → sınıflandır → arşivle → keşif → bakım → reindex
-  backfill ID [ID ...]      Belirli teknolojiler için önemli (çok atıf alan) tarihsel çalışmaları topla
+  backfill ID [ID ...]      Belirli teknolojiler için önemli tarihsel çalışmaları topla (--rank cited|explain)
   classify --title T [--abstract A]   Sınıflandırıcıyı tek kayıt üzerinde dene
   eval FILE                 Etiketli değerlendirme setinde sınıflandırma doğruluğunu ölç
   queue list|resolve N --tech ID|drop N
@@ -61,9 +61,9 @@ def cmd_backfill(args):
     cfg, http = make(args)
     with RunLock(cfg.state_dir):
         run = Run(cfg, http)
-        run.backfill(args.ids, args.per_tech)
+        run.backfill(args.ids, args.per_tech, args.rank)
         run.finish()
-    print(json.dumps({k: run.stats[k] for k in ("created", "merged", "unchanged", "backfill_created", "errors")},
+    print(json.dumps({k: run.stats[k] for k in ("created", "merged", "unchanged", "backfill_created", "backfill_off_context", "errors") if k in run.stats},
                      ensure_ascii=False))
     return 2 if run.stats["errors"] else 0
 
@@ -279,6 +279,8 @@ def main(argv=None):
     p = sub.add_parser("backfill")
     p.add_argument("ids", nargs="+")
     p.add_argument("--per-tech", type=int)
+    p.add_argument("--rank", choices=["cited", "explain"],
+                   help="cited: en çok atıf alanlar (varsayılan); explain: alanı anlatan derlemeler önce")
     p.set_defaults(fn=cmd_backfill)
     p = sub.add_parser("classify")
     p.add_argument("--title", required=True)

@@ -75,8 +75,11 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **4**, alt teknolojiler dahil: **4**.
 
+- [BlockEmulator: An Emulator Enabling to Test Blockchain Sharding Protocols](Arastirmalar/2025-Huang-BlockEmulator-Emulator-Enabling-Test.md) — Huang vd. (2025) · *IEEE Transactions on Services Computing* · hakemli · atıf: 79
+- [The State-of-the-Art and Promising Future of Blockchain Sharding](Arastirmalar/2024-Yang-The-State-the-Art.md) — Yang vd. (2024) · *IEEE Communications Magazine* · hakemli · atıf: 24
+- [A Review on Blockchain Sharding for Improving Scalability](Arastirmalar/2025-Morsidi-Review-Blockchain-Sharding-for.md) — Morsidi vd. (2025) · *Future Internet* · hakemli · atıf: 12
 - [Low-overhead trust mechanism for efficient cross-domain authentication in internet of vehicles based on blockchain sharding](Arastirmalar/2026-Zhao-Low-overhead-trust-mechanism.md) — Zhao vd. (2026) · *Frontiers in Physics* · hakemli
 <!-- AUTO:RESEARCH:END -->
 

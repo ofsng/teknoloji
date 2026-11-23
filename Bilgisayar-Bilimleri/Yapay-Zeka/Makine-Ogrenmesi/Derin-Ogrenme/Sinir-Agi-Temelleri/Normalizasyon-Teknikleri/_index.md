@@ -75,7 +75,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **1**.
+
+- [Normalization Techniques in Training DNNs: Methodology, Analysis and Application](Arastirmalar/2023-Huang-Normalization-Techniques-Training-DNNs.md) — Huang vd. (2023) · *IEEE Transactions on Pattern Analysis and Machine Intelligence* · hakemli · atıf: 771
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler

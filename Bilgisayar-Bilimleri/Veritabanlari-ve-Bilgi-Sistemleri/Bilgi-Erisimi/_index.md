@@ -81,7 +81,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **7**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **13**.
 
 - [Characterizing Human and LLM Responses in Low-Resource Swahili Agricultural Information Retrieval](Arastirmalar/2026-Maginga-Characterizing-Human-and-LLM.md) — Maginga (2026) · *Information* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -100,6 +100,7 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [Target User Attack on Federated Recommender Systems with Proxy Items and Its Countermeasure](Oneri-Sistemleri/Arastirmalar/2026-Zheng-Target-User-Attack-Federated.md) — Zheng vd. (2026) · *ACM Transactions on Information Systems* · hakemli
 - [Robust learning under natural rating noise for collaborative filtering](Oneri-Sistemleri/Isbirlikci-Filtreleme/Arastirmalar/2026-Braida-Robust-learning-under-natural.md) — Braida vd. (2026) · *International Journal of Data Science and Analytics* · hakemli
 - [Characterizing Human and LLM Responses in Low-Resource Swahili Agricultural Information Retrieval](Arastirmalar/2026-Maginga-Characterizing-Human-and-LLM.md) — Maginga (2026) · *Information* · hakemli
+- [Document Reordering for Efficient Dynamic Pruning in Traditional and Learned Sparse Retrieval](Erisim-Modelleri/Sinirsel-Bilgi-Erisimi/Ogrenilmis-Seyrek-Erisim/Arastirmalar/2026-Yafay-Document-Reordering-for-Efficient.md) — Yafay vd. (2026) · *IEEE Access* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

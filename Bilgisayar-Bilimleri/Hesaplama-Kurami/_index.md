@@ -81,7 +81,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **2**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **4**.
 
 - [From “Understanding” to “Learning Independently”: Cultivating Autonomous Learning Skills in Theory of Computation Course](Arastirmalar/2026-Wu-From-Understanding-Learning-Independently.md) — Wu vd. (2026) · *International Journal of Education and Humanities* · hakemli
 <!-- AUTO:RESEARCH:END -->

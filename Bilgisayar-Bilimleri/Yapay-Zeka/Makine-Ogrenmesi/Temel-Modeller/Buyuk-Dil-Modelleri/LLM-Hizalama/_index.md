@@ -79,7 +79,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **4**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **13**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -92,7 +92,10 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [Dual Active Learning for Reinforcement Learning from Human Feedback](Insan-Geri-Bildiriminden-Pekistirmeli-Ogrenme/Arastirmalar/2026-Liu-Dual-Active-Learning-for.md) — Liu vd. (2026) · *Operations Research* · hakemli · atıf: 28
 - [Provable Zeroth-Order Safe Exploration for Reinforcement Learning from Human Feedback](Insan-Geri-Bildiriminden-Pekistirmeli-Ogrenme/Arastirmalar/2026-Chen-Provable-Zeroth-Order-Safe.md) — Chen vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [GapDPO: Setwise Direct Preference Optimization for LLM Safety Alignment](Dogrudan-Tercih-Optimizasyonu/Arastirmalar/2026-Lim-GapDPO-Setwise-Direct-Preference.md) — Lim vd. (2026) · *Applied Sciences* · hakemli
-- [Reinforcement Learning from Human Feedback: A Statistical Perspective](Insan-Geri-Bildiriminden-Pekistirmeli-Ogrenme/Arastirmalar/2026-Liu-Reinforcement-Learning-from-Human.md) — Liu vd. (2026) · *Annual Review of Statistics and Its Application* · hakemli · atıf: 3
+- [Reinforcement Learning from Human Feedback: A Statistical Perspective](Insan-Geri-Bildiriminden-Pekistirmeli-Ogrenme/Arastirmalar/2026-Liu-Reinforcement-Learning-from-Human.md) — Liu vd. (2026) · *Annual Review of Statistics and Its Application* · hakemli · atıf: 4
+- [A Survey of Direct Preference Optimization: Datasets, Theories, Variants, and Applications](Dogrudan-Tercih-Optimizasyonu/Arastirmalar/2026-Xiao-Survey-Direct-Preference-Optimization.md) — Xiao vd. (2026) · *IEEE Transactions on Pattern Analysis and Machine Intelligence* · hakemli · atıf: 55
+- [Research Process of Autoregressive Direct Preference Optimization](Dogrudan-Tercih-Optimizasyonu/Arastirmalar/2026-Oi-Research-Process-Autoregressive-Direct.md) — Oi (2026) · *Journal of Natural Language Processing* · hakemli
+- [Quality Assessment for AI Generated Images With Instruction Tuning](Talimat-Ince-Ayari/Arastirmalar/2026-Wang-Quality-Assessment-for-Generated.md) — Wang vd. (2026) · *IEEE Transactions on Multimedia* · hakemli · atıf: 52
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

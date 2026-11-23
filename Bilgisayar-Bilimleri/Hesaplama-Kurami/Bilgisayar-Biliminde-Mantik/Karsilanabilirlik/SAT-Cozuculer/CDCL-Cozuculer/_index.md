@@ -75,7 +75,10 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **2**.
+
+- [Reusing the Assignment Trail in CDCL Solvers: System description](Arastirmalar/2011-Tak-Reusing-the-Assignment-Trail.md) — Tak vd. (2011) · *Journal on Satisfiability Boolean Modeling and Computation* · hakemli · atıf: 28
+- [Too much information: Why CDCL solvers need to forget learned clauses](Arastirmalar/2022-Kruger-Too-much-information-Why.md) — Krüger vd. (2022) · *PLoS ONE* · hakemli · atıf: 9
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler

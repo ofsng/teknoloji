@@ -78,7 +78,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **5**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -89,6 +89,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
 - [Distribution-Aware Dynamic Temperature Knowledge Distillation for Efficient Indian Sign Language Recognition on Edge Devices](Bilgi-Damitma/Arastirmalar/2026-Bhalgaonkar-Distribution-Aware-Dynamic-Temperatu.md) — Bhalgaonkar vd. (2026) · *International Journal of Engineering Trends and Technology* · hakemli
+- [Knowledge Distillation for Hybrid CNN–Vision Transformer Architectures: A Systematic Review](Bilgi-Damitma/Arastirmalar/2026-Adam-Knowledge-Distillation-for-Hybrid.md) — Adam vd. (2026) · *International Comprehensive Technology and Science Journal* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

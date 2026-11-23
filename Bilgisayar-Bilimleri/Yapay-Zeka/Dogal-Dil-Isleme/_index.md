@@ -86,7 +86,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **10**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **16**.
 
 - [From Manual Search to Artificial Intelligence: A Methodological Framework for Developing Patient Journey Models from Electronic Health Records Using Natural Language Processing](Arastirmalar/2026-Zhang-From-Manual-Search-Artificial.md) — Zhang vd. (2026) · *Healthcare* · hakemli
 <!-- AUTO:RESEARCH:END -->

@@ -75,8 +75,11 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **4**, alt teknolojiler dahil: **4**.
 
+- [A CNN Accelerator on FPGA Using Depthwise Separable Convolution](Arastirmalar/2018-Bai-CNN-Accelerator-FPGA-Using.md) — Bai vd. (2018) · *IEEE Transactions on Circuits & Systems II Express Briefs* · hakemli · atıf: 306
+- [An FPGA-Based CNN Accelerator Integrating Depthwise Separable Convolution](Arastirmalar/2019-Liu-FPGA-Based-CNN-Accelerator.md) — Liu vd. (2019) · *Electronics* · hakemli · atıf: 119
+- [Optimizing Depthwise Separable Convolution Operations on GPUs](Arastirmalar/2021-Lu-Optimizing-Depthwise-Separable-Convolution.md) — Lu vd. (2021) · *IEEE Transactions on Parallel and Distributed Systems* · hakemli · atıf: 104
 - [An Improved Systolic Array for Efficient Depthwise Separable Convolution](Arastirmalar/2026-Jo-Improved-Systolic-Array-for.md) — Jo vd. (2026) · *한국통신학회논문지* · hakemli
 <!-- AUTO:RESEARCH:END -->
 

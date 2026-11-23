@@ -75,7 +75,11 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **3**, alt teknolojiler dahil: **3**.
+
+- [ACTIVATION FUNCTIONS IN NEURAL NETWORKS](Arastirmalar/2020-Sharma-ACTIVATION-FUNCTIONS-NEURAL-NETWORKS.md) — Sharma vd. (2020) · *International Journal of Engineering Applied Sciences and Technology* · hakemli · atıf: 1680
+- [The Role of Neural Network Activation Functions](Arastirmalar/2020-Parhi-The-Role-Neural-Network.md) — Parhi vd. (2020) · *IEEE Signal Processing Letters* · hakemli · atıf: 170
+- [Quantum Activation Functions in Neural Networks: A Systematic Review of Approaches, Performance Impacts, and Practical Applications](Arastirmalar/2026-Santos-Quantum-Activation-Functions-Neural.md) — Santos vd. (2026) · *Advanced Quantum Technologies* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -83,7 +87,9 @@ Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
-_Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini göstermez; ön baskılar hakemli değildir._
+Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
+
+- [Quantum Activation Functions in Neural Networks: A Systematic Review of Approaches, Performance Impacts, and Practical Applications](Arastirmalar/2026-Santos-Quantum-Activation-Functions-Neural.md) — Santos vd. (2026) · *Advanced Quantum Technologies* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

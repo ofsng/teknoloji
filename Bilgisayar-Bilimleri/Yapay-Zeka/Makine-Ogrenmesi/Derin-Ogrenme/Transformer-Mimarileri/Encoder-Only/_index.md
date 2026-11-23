@@ -75,7 +75,11 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **3**, alt teknolojiler dahil: **3**.
+
+- [Evaluation of Encoder-Only Transformer for Multi-Step Traffic Flow Prediction](Arastirmalar/2025-Omar-Evaluation-Encoder-Only-Transformer.md) — Omar vd. (2025) · *IEEE Access* · hakemli · atıf: 8
+- [LayCoder: UI Layout Completion with an Encoder-Only Transformer and Layout Tokenizer](Arastirmalar/2026-Salama-LayCoder-Layout-Completion-with.md) — Salama vd. (2026) · *International Journal of Advanced Computer Science and Applications* · hakemli · atıf: 2
+- [Efficient Depression Detection based on Encoder-only Transformer Architecture: A Review](Arastirmalar/2026-Mishra-Efficient-Depression-Detection-based.md) — Mishra vd. (2026) · *International Journal of Global Mental Health Innovation Policy Action Culture & Transformation* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -83,7 +87,10 @@ Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
-_Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini göstermez; ön baskılar hakemli değildir._
+Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
+
+- [Efficient Depression Detection based on Encoder-only Transformer Architecture: A Review](Arastirmalar/2026-Mishra-Efficient-Depression-Detection-based.md) — Mishra vd. (2026) · *International Journal of Global Mental Health Innovation Policy Action Culture & Transformation* · hakemli
+- [LayCoder: UI Layout Completion with an Encoder-Only Transformer and Layout Tokenizer](Arastirmalar/2026-Salama-LayCoder-Layout-Completion-with.md) — Salama vd. (2026) · *International Journal of Advanced Computer Science and Applications* · hakemli · atıf: 2
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

@@ -75,7 +75,11 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **3**, alt teknolojiler dahil: **3**.
+
+- [A METHOD OF NEURAL NETWORK INITIALIZATION BASED ON MACHINE LEARNING](Arastirmalar/1997-Wang-METHOD-NEURAL-NETWORK-INITIALIZATION.md) — Wang (1997) · *Journal of Computer Research and Development* · hakemli · atıf: 1
+- [Reexamining the principle of mean-variance preservation for neural network initialization](Arastirmalar/2020-Luther-Reexamining-the-principle-mean.md) — Luther vd. (2020) · *Physical Review Research* · hakemli · atıf: 1
+- [Search for promising points of neural networks initialization](Arastirmalar/2026-Tolstykh-Search-for-promising-points.md) — Tolstykh vd. (2026) · *Scientific and technical journal of information technologies mechanics and optics* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -83,7 +87,9 @@ Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
-_Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini göstermez; ön baskılar hakemli değildir._
+Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
+
+- [Search for promising points of neural networks initialization](Arastirmalar/2026-Tolstykh-Search-for-promising-points.md) — Tolstykh vd. (2026) · *Scientific and technical journal of information technologies mechanics and optics* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

@@ -76,7 +76,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **6**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -84,7 +84,11 @@ Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
-_Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini göstermez; ön baskılar hakemli değildir._
+Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
+
+- [The Price of Interoperability: Exploring Cross-Chain Bridges and Their Economic Consequences](Zincirler-Arasi-Kopruler/Arastirmalar/2026-Cao-The-Price-Interoperability-Exploring.md) — Cao vd. (2026) · *Proceedings of the ACM on Measurement and Analysis of Computing Systems* · hakemli · atıf: 6
+- [Atomic Swaps with Relaxed Assumptions](Atomik-Takaslar/Arastirmalar/2026-Rosler-Atomic-Swaps-with-Relaxed.md) — Rösler vd. (2026) · *IACR Communications in Cryptology* · hakemli
+- [Scriptless Atomic Swap With Batch Processing](Atomik-Takaslar/Arastirmalar/2026-Wang-Scriptless-Atomic-Swap-With.md) — Wang vd. (2026) · *IEEE Transactions on Information Forensics and Security* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

@@ -76,7 +76,11 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **3**, alt teknolojiler dahil: **3**.
+
+- [An Overview of Variational Autoencoders for Source Separation, Finance, and Bio-Signal Applications](Arastirmalar/2021-Singh-Overview-Variational-Autoencoders-for.md) — Singh vd. (2021) · *Entropy* · hakemli · atıf: 128
+- [Predictive Coding, Variational Autoencoders, and Biological Connections](Arastirmalar/2022-Marino-Predictive-Coding-Variational-Autoencoder.md) — Marino (2022) · *Neural Computation* · hakemli · atıf: 69
+- [Precision measurement of stratum corneum thickness in OCT images using variational autoencoders and advanced DSP techniques](Arastirmalar/2026-Qin-Precision-measurement-stratum-corneum.md) — Qin vd. (2026) · *Frontiers in Bioengineering and Biotechnology* · hakemli · atıf: 1
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -84,7 +88,9 @@ Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
-_Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini göstermez; ön baskılar hakemli değildir._
+Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
+
+- [Precision measurement of stratum corneum thickness in OCT images using variational autoencoders and advanced DSP techniques](Arastirmalar/2026-Qin-Precision-measurement-stratum-corneum.md) — Qin vd. (2026) · *Frontiers in Bioengineering and Biotechnology* · hakemli · atıf: 1
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

@@ -76,8 +76,11 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **4**, alt teknolojiler dahil: **4**.
 
+- [Is Attention All Security Domain Needs? A Systematic Review of Self-attention Mechanism in Cybersecurity](Arastirmalar/2025-Dong-Attention-All-Security-Domain.md) — Dong (2025) · *IEEE/ACS International Conference on Computer Systems and Applications (AICCSA)* · hakemli · atıf: 2
+- [Recent Advances in Brain MRI Image Classification for Cancer Detection Using Transformer and Group Parallel Axial Attention with Quantum Self-Attention: A Systematic Review](Arastirmalar/2025-Wongchawalit-Recent-Advances-Brain-MRI.md) — Wongchawalit (2025) · *International Journal Of Recent Advances in Engineering & Technology* · hakemli
+- [Recent Advances in Environmental Weather Monitoring and Prediction System Using IoT and Multi-Model Progressive Dense Self-Attention: A Systematic Review](Arastirmalar/2025-Zambrano-Ortiz-Recent-Advances-Environmental-Wea.md) — Zambrano-Ortiz (2025) · *International Journal of Advanced Electrical and Electronics Engineering* · hakemli
 - [Computational Complexity of Self-Attention Algorithms for Efficient Transformer Architectures](Arastirmalar/2026-Akinrotimi-Computational-Complexity-Self-Attenti.md) — Akinrotimi vd. (2026) · *Computers* · hakemli
 <!-- AUTO:RESEARCH:END -->
 

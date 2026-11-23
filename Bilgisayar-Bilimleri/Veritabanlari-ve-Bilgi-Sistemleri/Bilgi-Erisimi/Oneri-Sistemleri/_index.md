@@ -77,7 +77,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **5**.
+Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **7**.
 
 - [A novel similarity metric to increase the number of rating predictions in recommender systems using hashing and node-embedding](Arastirmalar/2026-Muppana-novel-similarity-metric-increase.md) — Muppana vd. (2026) · *Web Intelligence* · hakemli
 - [Target User Attack on Federated Recommender Systems with Proxy Items and Its Countermeasure](Arastirmalar/2026-Zheng-Target-User-Attack-Federated.md) — Zheng vd. (2026) · *ACM Transactions on Information Systems* · hakemli

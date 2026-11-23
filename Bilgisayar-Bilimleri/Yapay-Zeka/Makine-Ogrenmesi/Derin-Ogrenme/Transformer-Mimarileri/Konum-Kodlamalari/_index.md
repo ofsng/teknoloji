@@ -75,8 +75,11 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **4**, alt teknolojiler dahil: **4**.
 
+- [Novel positional encodings to enable tree-based transformers](Arastirmalar/2019-Shiv-Novel-positional-encodings-enable.md) — Shiv vd. (2019) · *neural information processing systems* · hakemli · atıf: 195
+- [Positional encoding in transformer-based time series models: a survey](Arastirmalar/2026-Irani-Positional-encoding-transformer-based.md) — Irani vd. (2026) · *International Journal of Machine Learning and Cybernetics* · hakemli · atıf: 73
+- [Positional Encoding Image Prior](Arastirmalar/2026-Shabtay-Positional-Encoding-Image-Prior.md) — Shabtay vd. (2026) · *IEEE Transactions on Image Processing* · hakemli · atıf: 12
 - [Positional encoding cross-attention ResNet50 framework for lung cancer classification across CT and histopathological imaging modalities](Arastirmalar/2026-Nivashini-Positional-encoding-cross-attention.md) — Nivashini vd. (2026) · *Scientific Reports* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
@@ -88,6 +91,8 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
 - [Positional encoding cross-attention ResNet50 framework for lung cancer classification across CT and histopathological imaging modalities](Arastirmalar/2026-Nivashini-Positional-encoding-cross-attention.md) — Nivashini vd. (2026) · *Scientific Reports* · hakemli
+- [Positional encoding in transformer-based time series models: a survey](Arastirmalar/2026-Irani-Positional-encoding-transformer-based.md) — Irani vd. (2026) · *International Journal of Machine Learning and Cybernetics* · hakemli · atıf: 73
+- [Positional Encoding Image Prior](Arastirmalar/2026-Shabtay-Positional-Encoding-Image-Prior.md) — Shabtay vd. (2026) · *IEEE Transactions on Image Processing* · hakemli · atıf: 12
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

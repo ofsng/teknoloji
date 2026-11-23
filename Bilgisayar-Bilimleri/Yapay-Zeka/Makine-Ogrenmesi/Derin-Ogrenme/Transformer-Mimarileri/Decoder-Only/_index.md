@@ -75,8 +75,10 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **3**, alt teknolojiler dahil: **3**.
 
+- [Improving Knowledge Tracing through Multi-Source Scaling with Decoder-Only Transformers](Arastirmalar/2026-Guo-Improving-Knowledge-Tracing-through.md) — Guo vd. (2026) · *ACM Transactions on Intelligent Systems and Technology* · hakemli · atıf: 10
+- [Interpretable Merging-Vehicle Acceleration Prediction via a Decoder-Only Transformer and Attention Map Clustering](Arastirmalar/2026-Oh-Interpretable-Merging-Vehicle-Acceleration.md) — Oh vd. (2026) · *IEEE Access* · hakemli · atıf: 1
 - [Efficient Decoder-Only Transformer with Domain-Specific Byte Pair Encoding for Python Code Generation](Arastirmalar/2026-Venkateshwarlu-Efficient-Decoder-Only-Transforme.md) — Venkateshwarlu vd. (2026) · *International Journal of Latest Technology in Engineering Management & Applied Science* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
@@ -88,6 +90,8 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
 - [Efficient Decoder-Only Transformer with Domain-Specific Byte Pair Encoding for Python Code Generation](Arastirmalar/2026-Venkateshwarlu-Efficient-Decoder-Only-Transforme.md) — Venkateshwarlu vd. (2026) · *International Journal of Latest Technology in Engineering Management & Applied Science* · hakemli
+- [Improving Knowledge Tracing through Multi-Source Scaling with Decoder-Only Transformers](Arastirmalar/2026-Guo-Improving-Knowledge-Tracing-through.md) — Guo vd. (2026) · *ACM Transactions on Intelligent Systems and Technology* · hakemli · atıf: 10
+- [Interpretable Merging-Vehicle Acceleration Prediction via a Decoder-Only Transformer and Attention Map Clustering](Arastirmalar/2026-Oh-Interpretable-Merging-Vehicle-Acceleration.md) — Oh vd. (2026) · *IEEE Access* · hakemli · atıf: 1
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

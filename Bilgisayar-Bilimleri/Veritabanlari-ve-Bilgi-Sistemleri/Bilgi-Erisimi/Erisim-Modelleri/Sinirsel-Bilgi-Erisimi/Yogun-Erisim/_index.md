@@ -76,7 +76,11 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **3**, alt teknolojiler dahil: **3**.
+
+- [Toward Best Practices for Training Multilingual Dense Retrieval Models](Arastirmalar/2023-Zhang-Toward-Best-Practices-for.md) — Zhang vd. (2023) · *ACM Transactions on Information Systems* · hakemli · atıf: 65
+- [Exploring Dense Retrieval for Dialogue Response Selection](Arastirmalar/2024-Lan-Exploring-Dense-Retrieval-for.md) — Lan vd. (2024) · *ACM Transactions on Information Systems* · hakemli · atıf: 19
+- [Dense Retrieval with Continuous Explicit Feedback for Systematic Review Screening Prioritisation](Arastirmalar/2024-Mao-Dense-Retrieval-with-Continuous.md) — Mao vd. (2024) · *International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)* · hakemli · atıf: 9
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
