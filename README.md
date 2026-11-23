@@ -85,6 +85,10 @@ Biçim: [templates/tanitim.template.md](templates/tanitim.template.md).
 - "Neler bekleniyor" bölümüne yalnızca kaynakta geçen açık problemler yazılır; kendi tahminlerimiz yazılmaz.
 - Dosya `_index.md`'den ayrıdır; araştırma botu ona dokunmaz.
 - `kb.py check` bölüm sırasını, kaynak bağlarını ve uzunluğu denetler; içeriğin doğruluğunu denetlemez.
+- Toplu üretim: `python3 tools/autokb.py intro [ID ...] [--depth N] [--limit N]`. Araç her düğüm için OpenAlex'ten
+  derleme ağırlıklı bir kaynak paketi çeker (`.cache/intro/`), metni Claude API ile ya da `--from-answers` ile hazır
+  yanıttan yazar. Kaynaklar bölümü paketten üretildiği için yazar kaynak uyduramaz. Kaynaksız ifadeler atılır ve
+  mevcut bir `_tanitim.md` dosyasının üzerine yazılmaz.
 
 Otonom araştırma sistemi için bkz. [AUTOMATION.md](AUTOMATION.md).
 

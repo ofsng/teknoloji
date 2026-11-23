@@ -4,6 +4,8 @@
 Komutlar:
   daily                     Günlük çalışma: topla → tekilleştir → sınıflandır → arşivle → keşif → bakım → reindex
   backfill ID [ID ...]      Belirli teknolojiler için önemli tarihsel çalışmaları topla (--rank cited|explain)
+  intro [ID ...] [--depth N] [--limit N] [--packets-only | --from-answers]
+                            Tanıtım kartı (_tanitim.md): OpenAlex kaynak paketi → yazar (Claude API ya da hazır yanıt)
   classify --title T [--abstract A]   Sınıflandırıcıyı tek kayıt üzerinde dene
   eval FILE                 Etiketli değerlendirme setinde sınıflandırma doğruluğunu ölç
   queue list|resolve N --tech ID|drop N
@@ -66,6 +68,30 @@ def cmd_backfill(args):
     print(json.dumps({k: run.stats[k] for k in ("created", "merged", "unchanged", "backfill_created", "backfill_off_context", "errors") if k in run.stats},
                      ensure_ascii=False))
     return 2 if run.stats["errors"] else 0
+
+
+def cmd_intro(args):
+    from kbresearch import intro
+    from kbresearch.state import State
+    cfg, http = make(args)
+    with RunLock(cfg.state_dir):
+        state = State(cfg.state_dir, cfg.today)
+        counter = state.day_counter()
+        llm = None
+        if not (args.packets_only or args.from_answers):
+            llm = make_llm(cfg, counter)
+            if llm is None:
+                print("LLM yok: --packets-only ile paketleri hazırlayın ya da --from-answers kullanın", file=sys.stderr)
+                return 1
+        try:
+            stats = intro.run(cfg, http, llm, args.ids or None, args.depth, args.limit, args.packets_only,
+                              args.from_answers)
+        finally:
+            if llm is not None:
+                state.save_counters()
+    print(json.dumps({k: (v if not isinstance(v, list) or len(v) <= 20 else v[:20] + [f"... +{len(v) - 20}"])
+                      for k, v in stats.items()}, ensure_ascii=False, indent=1))
+    return 2 if stats["errors"] else 0
 
 
 def cmd_classify(args):
@@ -282,6 +308,14 @@ def main(argv=None):
     p.add_argument("--rank", choices=["cited", "explain"],
                    help="cited: en çok atıf alanlar (varsayılan); explain: alanı anlatan derlemeler önce")
     p.set_defaults(fn=cmd_backfill)
+    p = sub.add_parser("intro")
+    p.add_argument("ids", nargs="*")
+    p.add_argument("--depth", type=int)
+    p.add_argument("--limit", type=int)
+    g = p.add_mutually_exclusive_group()
+    g.add_argument("--packets-only", action="store_true", help="yalnızca kaynak paketlerini hazırla (.cache/intro)")
+    g.add_argument("--from-answers", action="store_true", help="<id>.answer.json yanıtlarından yaz")
+    p.set_defaults(fn=cmd_intro)
     p = sub.add_parser("classify")
     p.add_argument("--title", required=True)
     p.add_argument("--abstract")

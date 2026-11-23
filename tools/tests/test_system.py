@@ -973,3 +973,42 @@ Kısa bir tanım cümlesi. [1]
     def test_human_verified_requires_status(self):
         errs, _ = self.check(self.GOOD.replace("human_verified: false", "human_verified: true"))
         self.assertTrue(any("human_verified" in e for e in errs))
+
+
+class IntroRenderTest(unittest.TestCase):
+    """kbresearch.intro.render: kaynaklar paketten gelir, kaynaksız/uydurma numaralı ifadeler atılır."""
+
+    def packet(self, typ="technology"):
+        src = [{"n": i, "doi": f"10.1/x{i}", "title": f"Title {i}", "year": "2020", "authors": ["Ada Lovelace"],
+                "authors_more": False, "venue": "J", "type": "review", "abstract": "..."} for i in (1, 2, 3)]
+        return {"node": {"id": "zk-snarks", "title": "zk", "title_tr": "zk", "type": typ, "status": "established",
+                         "aliases": [], "path": [], "children": []}, "sources": src}
+
+    def answer(self):
+        return {"oz": {"metin": "Bir tanım", "kaynaklar": [2]},
+                "neden": [{"metin": "Uydurma kaynak.", "kaynaklar": [9]}, {"metin": "Geçerli.", "kaynaklar": [3, 2]}],
+                "gecmis": [{"etiket": "2019", "metin": "Olay.", "kaynaklar": [3]},
+                           {"etiket": "eskiden", "metin": "Yılsız.", "kaynaklar": [3]}],
+                "bugun": [{"metin": "Kaynaksız", "kaynaklar": []}], "beklenen": []}
+
+    def test_render_filters_and_renumbers(self):
+        from kbresearch import intro
+        text = intro.render(self.packet(), self.answer(), "2026-11-23", "test")
+        self.assertIn("Bir tanım. [1]", text)          # 2 → 1
+        self.assertIn("Geçerli. [1, 2]", text)         # 3 → 2
+        self.assertNotIn("Uydurma", text)
+        self.assertNotIn("Yılsız", text)               # teknoloji düğümünde etiket yıl olmalı
+        self.assertNotIn("Kaynaksız", text)
+        self.assertNotIn("x1", text)                   # kullanılmayan kaynak listelenmez
+        self.assertIn("2. Lovelace (2020). Title 3. J. https://doi.org/10.1/x3", text)
+        node = {"id": "zk-snarks", "dir": "X", "meta": {"type": "technology"}}
+        self.assertEqual(kb.check_intro(text, node)[0], [])
+
+    def test_discipline_branches_and_no_summary(self):
+        from kbresearch import intro
+        a = self.answer()
+        text = intro.render(self.packet("discipline"), a, "2026-11-23", "test")
+        self.assertIn("## Ana kollar", text)
+        self.assertIn("**eskiden** · Yılsız.", text)
+        a["oz"] = {"metin": "Kaynaksız öz", "kaynaklar": []}
+        self.assertIsNone(intro.render(self.packet(), a, "2026-11-23", "test"))

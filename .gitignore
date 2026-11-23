@@ -4,3 +4,4 @@ __pycache__/
 .obsidian/workspace*.json
 .DS_Store
 state/.lock
+.cache/
