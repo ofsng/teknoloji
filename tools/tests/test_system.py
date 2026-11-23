@@ -908,3 +908,68 @@ class BackfillRankTest(Base):
         run = Run(self.cfg, self.http([("api.openalex.org", json_resp({"results": [], "meta": {}}))]))
         run.backfill(["graph-neural-networks"], per_tech=1)
         self.assertTrue(any("cited_by_count" in c for c in self.opener.calls))
+
+
+class IntroCardTest(unittest.TestCase):
+    """_tanitim.md biçim denetimi (kb.check_intro)."""
+
+    NODE = {"id": "zk-snarks", "dir": "X/zk-SNARK", "meta": {"type": "technology"}}
+    GOOD = """---
+node: zk-snarks
+intro_status: ai_draft_sourced
+human_verified: false
+---
+
+## Öz
+
+Kısa bir tanım cümlesi. [1]
+
+## Neden önemli
+
+Önemli çünkü öyle. [1, 2]
+
+## Neler yapıldı
+
+- **2016** · Bir kilometre taşı. [2]
+
+## Bugün nerede
+
+## Neler bekleniyor
+
+- Açık bir problem. [1]
+
+## Kaynaklar
+
+1. A. (2016). Başlık. https://doi.org/10.1/x
+2. B. (2017). Başlık. https://doi.org/10.1/y
+"""
+
+    def check(self, text, node=None):
+        return kb.check_intro(text, node or self.NODE)
+
+    def test_valid_card_with_empty_block(self):
+        errs, _ = self.check(self.GOOD)
+        self.assertEqual(errs, [])
+
+    def test_uncited_line_and_missing_ref(self):
+        bad = self.GOOD.replace("Bir kilometre taşı. [2]", "Kaynaksız madde.").replace("Açık bir problem. [1]", "Sorun. [3]")
+        errs, _ = self.check(bad)
+        self.assertTrue(any("kaynaksız" in e for e in errs))
+        self.assertTrue(any("[3]" in e for e in errs))
+
+    def test_node_mismatch_and_heading_order(self):
+        errs, _ = self.check(self.GOOD.replace("node: zk-snarks", "node: other"))
+        self.assertTrue(any("node=" in e for e in errs))
+        errs, _ = self.check(self.GOOD.replace("## Bugün nerede\n", ""))
+        self.assertTrue(any("başlıklar" in e for e in errs))
+
+    def test_discipline_uses_main_branches(self):
+        node = {"id": "zk-snarks", "dir": "X", "meta": {"type": "discipline"}}
+        errs, _ = self.check(self.GOOD, node)
+        self.assertTrue(any("Ana kollar" in e for e in errs))
+        errs, _ = self.check(self.GOOD.replace("## Neler yapıldı", "## Ana kollar"), node)
+        self.assertEqual(errs, [])
+
+    def test_human_verified_requires_status(self):
+        errs, _ = self.check(self.GOOD.replace("human_verified: false", "human_verified: true"))
+        self.assertTrue(any("human_verified" in e for e in errs))
