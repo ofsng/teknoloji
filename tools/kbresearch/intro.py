@@ -11,12 +11,13 @@ kaynaksız ifadeler atılır; boşalan blok boş kalır. Var olan _tanitim.md'ni
 """
 import json
 import os
+import difflib
 import re
 import urllib.parse
 
 import kb
 from .pipeline import context_phrases, has_context
-from .sources import openalex
+from .sources import arxiv, openalex
 from .http import SourceUnavailable
 
 CACHE = ".cache/intro"
@@ -84,6 +85,51 @@ def fetch_packet(http, cfg, tree, nid, n=PER_NODE):
         if len(sources) >= n:
             break
     return {"node": node_info(tree, nid), "sources": sources}
+
+
+def _norm_title(t):
+    return re.sub(r"[^a-z0-9]+", " ", re.sub(r"<[^>]+>", "", (t or "").lower())).strip()
+
+
+def title_matches(claimed, actual):
+    a, b = _norm_title(claimed), _norm_title(actual)
+    if not a or not b:
+        return False
+    return a == b or (len(min(a, b, key=len)) >= 20 and (a in b or b in a)) or \
+        difflib.SequenceMatcher(None, a, b).ratio() >= 0.8
+
+
+def verify_source(http, cfg, item):
+    """Yazarın önerdiği kaynak (doi ya da arxiv + başlık) → paket kaynağı; kayıt yoksa ya da başlık
+    uyuşmazsa None. Künye yazardan değil Crossref/arXiv kaydından alınır."""
+    doi, ax = kb.norm_doi(item.get("doi")), (item.get("arxiv") or "").strip()
+    if doi:
+        resp = http.get("https://api.crossref.org/works/" + urllib.parse.quote(doi, safe="/"),
+                        {"mailto": cfg.contact_email} if cfg.contact_email else None)
+        if resp.status == 404:
+            return None
+        if resp.status != 200:
+            raise ValueError(f"Crossref HTTP {resp.status}")
+        m = resp.json()["message"]
+        title = (m.get("title") or [""])[0]
+        authors = [" ".join(x for x in [a.get("given"), a.get("family")] if x) or a.get("name") or ""
+                   for a in m.get("author") or []]
+        year = ((m.get("issued") or {}).get("date-parts") or [[None]])[0][0]
+        venue, url = (m.get("container-title") or [None])[0], None
+    elif ax:
+        recs = arxiv.fetch_ids(http, [ax])
+        if not recs:
+            return None
+        r = recs[0]
+        title, authors, year = r.get("title"), r.get("authors") or [], (r.get("published_date") or "")[:4]
+        venue, url = "arXiv", f"https://arxiv.org/abs/{ax}"
+    else:
+        return None
+    if not title_matches(item.get("baslik"), title):
+        return None
+    return {"n": int(item["n"]), "doi": doi, "url": url, "title": title, "year": str(year) if year else None,
+            "authors": [a for a in authors if a][:3], "authors_more": len(authors) > 3, "venue": venue,
+            "type": None, "abstract": None}
 
 
 def save_packet(nid, packet):
@@ -168,7 +214,8 @@ def render(packet, answer, today, written_by):
     for old in used:
         s = next(x for x in srcs if x["n"] == old)
         venue = f" {s['venue']}." if s.get("venue") else ""
-        out.append(f"{renum[old]}. {_authors(s)} ({s['year'] or 't.y.'}). {_clean(s['title'])}.{venue} https://doi.org/{urllib.parse.quote(s['doi'], safe='/:;()._-')}")
+        url = s.get("url") or "https://doi.org/" + urllib.parse.quote(s["doi"], safe="/:;()._-")
+        out.append(f"{renum[old]}. {_authors(s)} ({s['year'] or 't.y.'}). {_clean(s['title'])}.{venue} {url}")
     return "\n".join(out) + "\n"
 
 
@@ -185,8 +232,22 @@ def run(cfg, http, llm, ids=None, depth=None, limit=None, packets_only=False, fr
     tree = kb.Tree(with_research=False)
     stats = {"packets": 0, "no_sources": [], "written": [], "rejected": [], "skipped_no_answer": 0, "errors": []}
     for nid in target_ids(tree, ids, depth, limit):
-        packet = None
-        if os.path.exists(packet_path(nid)):
+        packet, answer, by = None, None, written_by
+        if from_answers and os.path.exists(answer_path(nid)):
+            with open(answer_path(nid), encoding="utf-8") as f:
+                answer = json.load(f)
+            if answer.get("kaynak_listesi"):
+                try:
+                    srcs = [v for v in (verify_source(http, cfg, it) for it in answer["kaynak_listesi"]) if v]
+                except (SourceUnavailable, ValueError) as e:
+                    stats["errors"].append(f"{nid}: {e}")
+                    break
+                dropped = len(answer["kaynak_listesi"]) - len(srcs)
+                if dropped:
+                    stats.setdefault("sources_dropped", []).append(f"{nid}: {dropped}")
+                packet = {"node": node_info(tree, nid), "sources": srcs}
+                by = "Claude (yapay zekâ taslağı; kaynakları yazar seçti, Crossref/arXiv ile doğrulandı)"
+        if packet is None and os.path.exists(packet_path(nid)):
             with open(packet_path(nid), encoding="utf-8") as f:
                 packet = json.load(f)
         elif not from_answers:
@@ -205,14 +266,12 @@ def run(cfg, http, llm, ids=None, depth=None, limit=None, packets_only=False, fr
         if packets_only:
             continue
         if from_answers:
-            if not os.path.exists(answer_path(nid)):
+            if answer is None:
                 stats["skipped_no_answer"] += 1
                 continue
-            with open(answer_path(nid), encoding="utf-8") as f:
-                answer = json.load(f)
         else:
             answer = write_with_llm(llm, packet)
-        text = render(packet, answer, cfg.today.isoformat(), written_by)
+        text = render(packet, answer, cfg.today.isoformat(), by)
         errs = kb.check_intro(text, tree.nodes[nid])[0] if text else ["öz yok"]
         if errs:
             stats["rejected"].append(f"{nid}: {errs[0]}")
