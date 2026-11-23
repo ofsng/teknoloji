@@ -77,7 +77,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **7**.
 
 - [Efficient quantum convolutional neural networks for image classification: overcoming hardware constraints](Arastirmalar/2026-Roseler-Efficient-quantum-convolutional-neural.md) — Röseler vd. (2026) · *Quantum Machine Intelligence* · hakemli · atıf: 10
 <!-- AUTO:RESEARCH:END -->

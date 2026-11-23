@@ -75,7 +75,11 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **3**, alt teknolojiler dahil: **3**.
+
+- [Novel positional encodings to enable tree-based transformers](Arastirmalar/2019-Shiv-Novel-positional-encodings-enable.md) — Shiv vd. (2019) · *neural information processing systems* · hakemli · atıf: 195
+- [Positional encoding in transformer-based time series models: a survey](Arastirmalar/2026-Irani-Positional-encoding-transformer-based.md) — Irani vd. (2026) · *International Journal of Machine Learning and Cybernetics* · hakemli · atıf: 73
+- [Positional Encoding Image Prior](Arastirmalar/2026-Shabtay-Positional-Encoding-Image-Prior.md) — Shabtay vd. (2026) · *IEEE Transactions on Image Processing* · hakemli · atıf: 12
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -83,7 +87,10 @@ Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
-_Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini göstermez; ön baskılar hakemli değildir._
+Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
+
+- [Positional encoding in transformer-based time series models: a survey](Arastirmalar/2026-Irani-Positional-encoding-transformer-based.md) — Irani vd. (2026) · *International Journal of Machine Learning and Cybernetics* · hakemli · atıf: 73
+- [Positional Encoding Image Prior](Arastirmalar/2026-Shabtay-Positional-Encoding-Image-Prior.md) — Shabtay vd. (2026) · *IEEE Transactions on Image Processing* · hakemli · atıf: 12
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

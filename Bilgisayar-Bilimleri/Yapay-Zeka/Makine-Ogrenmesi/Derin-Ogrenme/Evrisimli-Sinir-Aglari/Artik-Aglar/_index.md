@@ -75,7 +75,11 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **3**, alt teknolojiler dahil: **3**.
+
+- [Residual networks behave like ensembles of relatively shallow networks](Arastirmalar/2016-Veit-Residual-networks-behave-like.md) — Veit vd. (2016) · *neural information processing systems* · hakemli · atıf: 871
+- [Residual Networks of Residual Networks: Multilevel Residual Networks](Arastirmalar/2017-Zhang-Residual-Networks-Residual-Networks.md) — Zhang vd. (2017) · *IEEE Transactions on Circuits and Systems for Video Technology* · hakemli · atıf: 445
+- [Deep Residual Network in Network](Arastirmalar/2021-Alaeddine-Deep-Residual-Network-Network.md) — Alaeddine vd. (2021) · *Computational Intelligence and Neuroscience* · hakemli · atıf: 89
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler

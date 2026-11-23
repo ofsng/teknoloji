@@ -75,7 +75,11 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **3**, alt teknolojiler dahil: **3**.
+
+- [Geometric deep learning and equivariant neural networks](Arastirmalar/2023-Gerken-Geometric-deep-learning-and.md) — Gerken vd. (2023) · *Artificial Intelligence Review* · hakemli · atıf: 170
+- [What is... an Equivariant Neural Network?](Arastirmalar/2023-Lim-What-Equivariant-Neural-Network.md) — Lim vd. (2023) · *Notices of the American Mathematical Society* · hakemli · atıf: 32
+- [A feedforward unitary equivariant neural network](Arastirmalar/2023-Ma-feedforward-unitary-equivariant-neural.md) — Ma vd. (2023) · *Neural Networks* · hakemli · atıf: 10
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler

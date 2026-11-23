@@ -75,7 +75,11 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **3**, alt teknolojiler dahil: **3**.
+
+- [Legally Enforceable Smart-Contract Languages: A Systematic Literature Review](Arastirmalar/2021-Dwivedi-Legally-Enforceable-Smart-Contract.md) — Dwivedi vd. (2021) · *ACM Computing Surveys* · hakemli · atıf: 66
+- [Smart Contract Languages: A Multivocal Mapping Study](Arastirmalar/2021-VarelaVaca-Smart-Contract-Languages-Multivocal.md) — Varela‐Vaca vd. (2021) · *ACM Computing Surveys* · hakemli · atıf: 48
+- [Smart contract languages: A comparative analysis](Arastirmalar/2024-Bartoletti-Smart-contract-languages-comparative.md) — Bartoletti vd. (2024) · *Future Generation Computer Systems* · hakemli · atıf: 47
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler

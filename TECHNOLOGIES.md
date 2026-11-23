@@ -87,18 +87,18 @@ Ana disiplinler:
       - [Ağ Katmanı Protokolleri](Bilgisayar-Bilimleri/Bilgisayar-Aglari/Ag-Protokolleri/Ag-Katmani-Protokolleri/_index.md) — *Network Layer Protocols*
         - [Çok Protokollü Etiket Anahtarlama](Bilgisayar-Bilimleri/Bilgisayar-Aglari/Ag-Protokolleri/Ag-Katmani-Protokolleri/Cok-Protokollu-Etiket-Anahtarlama/_index.md) — *Multiprotocol Label Switching*
         - [İnternet Protokolü](Bilgisayar-Bilimleri/Bilgisayar-Aglari/Ag-Protokolleri/Ag-Katmani-Protokolleri/Internet-Protokolu/_index.md) — *Internet Protocol*
-          - [IPv6](Bilgisayar-Bilimleri/Bilgisayar-Aglari/Ag-Protokolleri/Ag-Katmani-Protokolleri/Internet-Protokolu/IPv6/_index.md)
+          - [IPv6](Bilgisayar-Bilimleri/Bilgisayar-Aglari/Ag-Protokolleri/Ag-Katmani-Protokolleri/Internet-Protokolu/IPv6/_index.md) `[1 araştırma]`
         - [Yönlendirme Protokolleri](Bilgisayar-Bilimleri/Bilgisayar-Aglari/Ag-Protokolleri/Ag-Katmani-Protokolleri/Yonlendirme-Protokolleri/_index.md) — *Routing Protocols*
-          - [Çok Noktaya Yayın Yönlendirme](Bilgisayar-Bilimleri/Bilgisayar-Aglari/Ag-Protokolleri/Ag-Katmani-Protokolleri/Yonlendirme-Protokolleri/Cok-Noktaya-Yayin-Yonlendirme/_index.md) — *Multicast Routing*
-          - [İç Ağ Geçidi Protokolleri](Bilgisayar-Bilimleri/Bilgisayar-Aglari/Ag-Protokolleri/Ag-Katmani-Protokolleri/Yonlendirme-Protokolleri/Ic-Ag-Gecidi-Protokolleri/_index.md) — *Interior Gateway Protocols*
-            - [Bağlantı Durumu Yönlendirme](Bilgisayar-Bilimleri/Bilgisayar-Aglari/Ag-Protokolleri/Ag-Katmani-Protokolleri/Yonlendirme-Protokolleri/Ic-Ag-Gecidi-Protokolleri/Baglanti-Durumu-Yonlendirme/_index.md) — *Link-State Routing*
-            - [Uzaklık Vektörü Yönlendirme](Bilgisayar-Bilimleri/Bilgisayar-Aglari/Ag-Protokolleri/Ag-Katmani-Protokolleri/Yonlendirme-Protokolleri/Ic-Ag-Gecidi-Protokolleri/Uzaklik-Vektoru-Yonlendirme/_index.md) — *Distance-Vector Routing*
-          - [Segment Yönlendirme](Bilgisayar-Bilimleri/Bilgisayar-Aglari/Ag-Protokolleri/Ag-Katmani-Protokolleri/Yonlendirme-Protokolleri/Segment-Yonlendirme/_index.md) — *Segment Routing*
-          - [Sınır Ağ Geçidi Protokolü](Bilgisayar-Bilimleri/Bilgisayar-Aglari/Ag-Protokolleri/Ag-Katmani-Protokolleri/Yonlendirme-Protokolleri/Sinir-Ag-Gecidi-Protokolu/_index.md) — *Border Gateway Protocol*
-            - [BGP Güvenliği](Bilgisayar-Bilimleri/Bilgisayar-Aglari/Ag-Protokolleri/Ag-Katmani-Protokolleri/Yonlendirme-Protokolleri/Sinir-Ag-Gecidi-Protokolu/BGP-Guvenligi/_index.md) — *BGP Security*
+          - [Çok Noktaya Yayın Yönlendirme](Bilgisayar-Bilimleri/Bilgisayar-Aglari/Ag-Protokolleri/Ag-Katmani-Protokolleri/Yonlendirme-Protokolleri/Cok-Noktaya-Yayin-Yonlendirme/_index.md) — *Multicast Routing* `[3 araştırma]`
+          - [İç Ağ Geçidi Protokolleri](Bilgisayar-Bilimleri/Bilgisayar-Aglari/Ag-Protokolleri/Ag-Katmani-Protokolleri/Yonlendirme-Protokolleri/Ic-Ag-Gecidi-Protokolleri/_index.md) — *Interior Gateway Protocols* `[2 araştırma]`
+            - [Bağlantı Durumu Yönlendirme](Bilgisayar-Bilimleri/Bilgisayar-Aglari/Ag-Protokolleri/Ag-Katmani-Protokolleri/Yonlendirme-Protokolleri/Ic-Ag-Gecidi-Protokolleri/Baglanti-Durumu-Yonlendirme/_index.md) — *Link-State Routing* `[3 araştırma]`
+            - [Uzaklık Vektörü Yönlendirme](Bilgisayar-Bilimleri/Bilgisayar-Aglari/Ag-Protokolleri/Ag-Katmani-Protokolleri/Yonlendirme-Protokolleri/Ic-Ag-Gecidi-Protokolleri/Uzaklik-Vektoru-Yonlendirme/_index.md) — *Distance-Vector Routing* `[3 araştırma]`
+          - [Segment Yönlendirme](Bilgisayar-Bilimleri/Bilgisayar-Aglari/Ag-Protokolleri/Ag-Katmani-Protokolleri/Yonlendirme-Protokolleri/Segment-Yonlendirme/_index.md) — *Segment Routing* `[3 araştırma]`
+          - [Sınır Ağ Geçidi Protokolü](Bilgisayar-Bilimleri/Bilgisayar-Aglari/Ag-Protokolleri/Ag-Katmani-Protokolleri/Yonlendirme-Protokolleri/Sinir-Ag-Gecidi-Protokolu/_index.md) — *Border Gateway Protocol* `[3 araştırma]`
+            - [BGP Güvenliği](Bilgisayar-Bilimleri/Bilgisayar-Aglari/Ag-Protokolleri/Ag-Katmani-Protokolleri/Yonlendirme-Protokolleri/Sinir-Ag-Gecidi-Protokolu/BGP-Guvenligi/_index.md) — *BGP Security* `[3 araştırma]`
       - [Bağlantı Katmanı Protokolleri](Bilgisayar-Bilimleri/Bilgisayar-Aglari/Ag-Protokolleri/Baglanti-Katmani-Protokolleri/_index.md) — *Link Layer Protocols*
         - [Ethernet](Bilgisayar-Bilimleri/Bilgisayar-Aglari/Ag-Protokolleri/Baglanti-Katmani-Protokolleri/Ethernet/_index.md)
-          - [Zamana Duyarlı Ağlar](Bilgisayar-Bilimleri/Bilgisayar-Aglari/Ag-Protokolleri/Baglanti-Katmani-Protokolleri/Ethernet/Zamana-Duyarli-Aglar/_index.md) — *Time-Sensitive Networking*
+          - [Zamana Duyarlı Ağlar](Bilgisayar-Bilimleri/Bilgisayar-Aglari/Ag-Protokolleri/Baglanti-Katmani-Protokolleri/Ethernet/Zamana-Duyarli-Aglar/_index.md) — *Time-Sensitive Networking* `[3 araştırma]`
         - [Ortam Erişim Denetimi Protokolleri](Bilgisayar-Bilimleri/Bilgisayar-Aglari/Ag-Protokolleri/Baglanti-Katmani-Protokolleri/Ortam-Erisim-Denetimi-Protokolleri/_index.md) — *Medium Access Control Protocols*
         - [Yayılan Ağaç Protokolleri](Bilgisayar-Bilimleri/Bilgisayar-Aglari/Ag-Protokolleri/Baglanti-Katmani-Protokolleri/Yayilan-Agac-Protokolleri/_index.md) — *Spanning Tree Protocols*
       - [Taşıma Katmanı Protokolleri](Bilgisayar-Bilimleri/Bilgisayar-Aglari/Ag-Protokolleri/Tasima-Katmani-Protokolleri/_index.md) — *Transport Layer Protocols*
@@ -182,8 +182,8 @@ Ana disiplinler:
         - [Fiziksel Klonlanamaz Fonksiyonlar](Bilgisayar-Bilimleri/Bilgisayar-Guvenligi/Sistem-Guvenligi/Donanim-Guvenligi/Fiziksel-Klonlanamaz-Fonksiyonlar/_index.md) — *Physically Unclonable Functions*
         - [Hata Enjeksiyonu Saldırıları](Bilgisayar-Bilimleri/Bilgisayar-Guvenligi/Sistem-Guvenligi/Donanim-Guvenligi/Hata-Enjeksiyonu-Saldirilari/_index.md) — *Fault Injection Attacks*
         - [Yan Kanal Saldırıları](Bilgisayar-Bilimleri/Bilgisayar-Guvenligi/Sistem-Guvenligi/Donanim-Guvenligi/Yan-Kanal-Saldirilari/_index.md) — *Side-Channel Attacks* `[1 araştırma]`
-          - [Geçici Yürütme Saldırıları](Bilgisayar-Bilimleri/Bilgisayar-Guvenligi/Sistem-Guvenligi/Donanim-Guvenligi/Yan-Kanal-Saldirilari/Gecici-Yurutme-Saldirilari/_index.md) — *Transient Execution Attacks*
-          - [Güç Analizi Saldırıları](Bilgisayar-Bilimleri/Bilgisayar-Guvenligi/Sistem-Guvenligi/Donanim-Guvenligi/Yan-Kanal-Saldirilari/Guc-Analizi-Saldirilari/_index.md) — *Power Analysis Attacks*
+          - [Geçici Yürütme Saldırıları](Bilgisayar-Bilimleri/Bilgisayar-Guvenligi/Sistem-Guvenligi/Donanim-Guvenligi/Yan-Kanal-Saldirilari/Gecici-Yurutme-Saldirilari/_index.md) — *Transient Execution Attacks* `[3 araştırma]`
+          - [Güç Analizi Saldırıları](Bilgisayar-Bilimleri/Bilgisayar-Guvenligi/Sistem-Guvenligi/Donanim-Guvenligi/Yan-Kanal-Saldirilari/Guc-Analizi-Saldirilari/_index.md) — *Power Analysis Attacks* `[3 araştırma]`
           - [Zamanlama ve Önbellek Saldırıları](Bilgisayar-Bilimleri/Bilgisayar-Guvenligi/Sistem-Guvenligi/Donanim-Guvenligi/Yan-Kanal-Saldirilari/Zamanlama-ve-Onbellek-Saldirilari/_index.md) — *Timing and Cache Attacks*
       - [Erişim Denetimi Modelleri](Bilgisayar-Bilimleri/Bilgisayar-Guvenligi/Sistem-Guvenligi/Erisim-Denetimi-Modelleri/_index.md) — *Access Control Models*
       - [Güvenilir Yürütme Ortamları](Bilgisayar-Bilimleri/Bilgisayar-Guvenligi/Sistem-Guvenligi/Guvenilir-Yurutme-Ortamlari/_index.md) — *Trusted Execution Environments*
@@ -253,36 +253,36 @@ Ana disiplinler:
     - [Dağıtık Defter Teknolojileri](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/_index.md) — *Distributed Ledger Technologies* `[1 araştırma]`
       - [Blokzincir](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/_index.md) — *Blockchain*
         - [Akıllı Sözleşmeler](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Akilli-Sozlesmeler/_index.md) — *Smart Contracts* `[1 araştırma]`
-          - [Akıllı Sözleşme Dilleri](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Akilli-Sozlesmeler/Akilli-Sozlesme-Dilleri/_index.md) — *Smart Contract Languages*
-          - [Akıllı Sözleşme Doğrulama](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Akilli-Sozlesmeler/Akilli-Sozlesme-Dogrulama/_index.md) — *Smart Contract Verification*
-          - [Akıllı Sözleşme Sanal Makineleri](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Akilli-Sozlesmeler/Akilli-Sozlesme-Sanal-Makineleri/_index.md) — *Smart Contract Virtual Machines*
+          - [Akıllı Sözleşme Dilleri](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Akilli-Sozlesmeler/Akilli-Sozlesme-Dilleri/_index.md) — *Smart Contract Languages* `[3 araştırma]`
+          - [Akıllı Sözleşme Doğrulama](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Akilli-Sozlesmeler/Akilli-Sozlesme-Dogrulama/_index.md) — *Smart Contract Verification* `[3 araştırma]`
+          - [Akıllı Sözleşme Sanal Makineleri](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Akilli-Sozlesmeler/Akilli-Sozlesme-Sanal-Makineleri/_index.md) — *Smart Contract Virtual Machines* `[1 araştırma]`
         - [Blokzincir Gizlilik Teknikleri](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Gizlilik-Teknikleri/_index.md) — *Blockchain Privacy Techniques*
         - [Blokzincir Hafif İstemcileri](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Hafif-Istemciler/_index.md) — *Blockchain Light Clients*
         - [Blokzincir Konsensüs Mekanizmaları](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Konsensus-Mekanizmalari/_index.md) — *Blockchain Consensus Mechanisms*
           - [Alan ve Zaman İspatı](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Konsensus-Mekanizmalari/Proof-of-Space-Time/_index.md) — *Proof of Space and Time*
-          - [Hisse İspatı](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Konsensus-Mekanizmalari/Proof-of-Stake/_index.md) — *Proof of Stake*
+          - [Hisse İspatı](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Konsensus-Mekanizmalari/Proof-of-Stake/_index.md) — *Proof of Stake* `[3 araştırma]`
             - [BFT Tarzı Hisse İspatı](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Konsensus-Mekanizmalari/Proof-of-Stake/BFT-Tabanli-Proof-of-Stake/_index.md) — *BFT-Style Proof of Stake*
-            - [Yetkilendirilmiş Hisse İspatı](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Konsensus-Mekanizmalari/Proof-of-Stake/Delegated-Proof-of-Stake/_index.md) — *Delegated Proof of Stake*
-          - [İş İspatı](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Konsensus-Mekanizmalari/Proof-of-Work/_index.md) — *Proof of Work*
-          - [Nakamoto Konsensüsü](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Konsensus-Mekanizmalari/Nakamoto-Konsensusu/_index.md) — *Nakamoto Consensus*
-          - [Yetki İspatı](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Konsensus-Mekanizmalari/Proof-of-Authority/_index.md) — *Proof of Authority*
+            - [Yetkilendirilmiş Hisse İspatı](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Konsensus-Mekanizmalari/Proof-of-Stake/Delegated-Proof-of-Stake/_index.md) — *Delegated Proof of Stake* `[3 araştırma]`
+          - [İş İspatı](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Konsensus-Mekanizmalari/Proof-of-Work/_index.md) — *Proof of Work* `[2 araştırma]`
+          - [Nakamoto Konsensüsü](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Konsensus-Mekanizmalari/Nakamoto-Konsensusu/_index.md) — *Nakamoto Consensus* `[3 araştırma]`
+          - [Yetki İspatı](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Konsensus-Mekanizmalari/Proof-of-Authority/_index.md) — *Proof of Authority* `[3 araştırma]`
         - [Blokzincirler Arası Birlikte Çalışabilirlik](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Birlikte-Calisabilirlik/_index.md) — *Blockchain Interoperability*
-          - [Atomik Takaslar](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Birlikte-Calisabilirlik/Atomik-Takaslar/_index.md) — *Atomic Swaps*
-          - [Zincirler Arası Köprüler](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Birlikte-Calisabilirlik/Zincirler-Arasi-Kopruler/_index.md) — *Cross-Chain Bridges*
+          - [Atomik Takaslar](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Birlikte-Calisabilirlik/Atomik-Takaslar/_index.md) — *Atomic Swaps* `[3 araştırma]`
+          - [Zincirler Arası Köprüler](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Birlikte-Calisabilirlik/Zincirler-Arasi-Kopruler/_index.md) — *Cross-Chain Bridges* `[3 araştırma]`
         - [Blokzincir Madencilik Donanımı](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Madencilik-Donanimi/_index.md) — *Blockchain Mining Hardware*
         - [Blokzincir Ölçeklendirme](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Olceklendirme/_index.md) — *Blockchain Scalability*
-          - [Blokzincir Parçalama](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Olceklendirme/Sharding/_index.md) — *Blockchain Sharding*
-          - [Katman-2 Protokolleri](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Olceklendirme/Katman-2/_index.md) — *Layer-2 Protocols*
+          - [Blokzincir Parçalama](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Olceklendirme/Sharding/_index.md) — *Blockchain Sharding* `[3 araştırma]`
+          - [Katman-2 Protokolleri](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Olceklendirme/Katman-2/_index.md) — *Layer-2 Protocols* `[1 araştırma]`
             - [Ödeme ve Durum Kanalları](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Olceklendirme/Katman-2/Durum-Kanallari/_index.md) — *Payment Channels and State Channels*
             - [Plasma Zincirleri](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Olceklendirme/Katman-2/Plasma-Zincirleri/_index.md) — *Plasma Chains*
-            - [Rollup'lar](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Olceklendirme/Katman-2/Rollups/_index.md) — *Rollups*
-              - [İyimser Rollup'lar](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Olceklendirme/Katman-2/Rollups/Optimistic-Rollups/_index.md) — *Optimistic Rollups*
-              - [ZK-Rollup'lar](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Olceklendirme/Katman-2/Rollups/ZK-Rollups/_index.md) — *ZK-Rollups* `[içerik: ai_draft_sourced]`
-          - [Veri Erişilebilirliği Örneklemesi](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Olceklendirme/Veri-Erisilebilirligi-Orneklemesi/_index.md) — *Data Availability Sampling* `[emerging]`
+            - [Rollup'lar](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Olceklendirme/Katman-2/Rollups/_index.md) — *Rollups* `[1 araştırma]`
+              - [İyimser Rollup'lar](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Olceklendirme/Katman-2/Rollups/Optimistic-Rollups/_index.md) — *Optimistic Rollups* `[3 araştırma]`
+              - [ZK-Rollup'lar](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Olceklendirme/Katman-2/Rollups/ZK-Rollups/_index.md) — *ZK-Rollups* `[içerik: ai_draft_sourced, 4 araştırma]`
+          - [Veri Erişilebilirliği Örneklemesi](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Olceklendirme/Veri-Erisilebilirligi-Orneklemesi/_index.md) — *Data Availability Sampling* `[emerging, 3 araştırma]`
         - [Blokzincir Veri Yapıları](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Blokzincir-Veri-Yapilari/_index.md) — *Blockchain Data Structures*
-          - [Merkle Ağaçları](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Blokzincir-Veri-Yapilari/Merkle-Agaclari/_index.md) — *Merkle Trees*
+          - [Merkle Ağaçları](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Blokzincir-Veri-Yapilari/Merkle-Agaclari/_index.md) — *Merkle Trees* `[3 araştırma]`
           - [Merkle Patricia Trie'leri](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Blokzincir-Veri-Yapilari/Merkle-Patricia-Trie-leri/_index.md) — *Merkle Patricia Tries*
-          - [Verkle Ağaçları](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Blokzincir-Veri-Yapilari/Verkle-Agaclari/_index.md) — *Verkle Trees* `[emerging]`
+          - [Verkle Ağaçları](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Blokzincir-Veri-Yapilari/Verkle-Agaclari/_index.md) — *Verkle Trees* `[emerging, 2 araştırma]`
         - [İzinli Blokzincirler](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/Blokzincir/Izinli-Blokzincirler/_index.md) — *Permissioned Blockchains* `[1 araştırma]`
       - [DAG Tabanlı Defterler](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Defter-Teknolojileri/DAG-Tabanli-Defterler/_index.md) — *DAG-Based Ledgers*
     - [Dağıtık Depolama Sistemleri](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Depolama-Sistemleri/_index.md) — *Distributed Storage Systems*
@@ -295,7 +295,7 @@ Ana disiplinler:
         - [Bizans Hata Toleransı](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Sistemler-Kurami/Dagitik-Konsensus/Bizans-Hata-Toleransi/_index.md) — *Byzantine Fault Tolerance*
           - [DAG Tabanlı BFT Protokolleri](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Sistemler-Kurami/Dagitik-Konsensus/Bizans-Hata-Toleransi/DAG-Tabanli-BFT-Protokolleri/_index.md) — *DAG-Based BFT Protocols* `[emerging]`
           - [HotStuff Ailesi Protokoller](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Sistemler-Kurami/Dagitik-Konsensus/Bizans-Hata-Toleransi/HotStuff-Ailesi-Protokoller/_index.md) — *HotStuff-Family Protocols*
-          - [Pratik Bizans Hata Toleransı](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Sistemler-Kurami/Dagitik-Konsensus/Bizans-Hata-Toleransi/Pratik-Bizans-Hata-Toleransi/_index.md) — *Practical Byzantine Fault Tolerance*
+          - [Pratik Bizans Hata Toleransı](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Sistemler-Kurami/Dagitik-Konsensus/Bizans-Hata-Toleransi/Pratik-Bizans-Hata-Toleransi/_index.md) — *Practical Byzantine Fault Tolerance* `[3 araştırma]`
         - [Çökme Hatası Toleranslı Konsensüs](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Sistemler-Kurami/Dagitik-Konsensus/Cokme-Hatasi-Toleransli-Konsensus/_index.md) — *Crash Fault-Tolerant Consensus*
           - [Paxos](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Sistemler-Kurami/Dagitik-Konsensus/Cokme-Hatasi-Toleransli-Konsensus/Paxos/_index.md)
           - [Raft](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Sistemler-Kurami/Dagitik-Konsensus/Cokme-Hatasi-Toleransli-Konsensus/Raft/_index.md)
@@ -310,7 +310,7 @@ Ana disiplinler:
         - [Doğrusallaştırılabilirlik](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Sistemler-Kurami/Tutarlilik-Modelleri/Dogrusallastirilabilirlik/_index.md) — *Linearizability*
         - [Nedensel Tutarlılık](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Sistemler-Kurami/Tutarlilik-Modelleri/Nedensel-Tutarlilik/_index.md) — *Causal Consistency*
         - [Nihai Tutarlılık](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Sistemler-Kurami/Tutarlilik-Modelleri/Nihai-Tutarlilik/_index.md) — *Eventual Consistency*
-          - [Çakışmasız Replike Veri Tipleri](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Sistemler-Kurami/Tutarlilik-Modelleri/Nihai-Tutarlilik/Cakismasiz-Replike-Veri-Tipleri/_index.md) — *Conflict-Free Replicated Data Types*
+          - [Çakışmasız Replike Veri Tipleri](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Dagitik-Sistemler-Kurami/Tutarlilik-Modelleri/Nihai-Tutarlilik/Cakismasiz-Replike-Veri-Tipleri/_index.md) — *Conflict-Free Replicated Data Types* `[3 araştırma]`
     - [Eşler Arası Sistemler](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Esler-Arasi-Sistemler/_index.md) — *Peer-to-Peer Systems*
       - [Dağıtık Karma Tabloları](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Esler-Arasi-Sistemler/Dagitik-Karma-Tablolari/_index.md) — *Distributed Hash Tables*
       - [Kaplama Ağları](Bilgisayar-Bilimleri/Dagitik-ve-Paralel-Hesaplama/Esler-Arasi-Sistemler/Kaplama-Aglari/_index.md) — *Overlay Networks*
@@ -338,7 +338,7 @@ Ana disiplinler:
     - [Bilgisayar Biliminde Mantık](Bilgisayar-Bilimleri/Hesaplama-Kurami/Bilgisayar-Biliminde-Mantik/_index.md) — *Logic in Computer Science*
       - [Karşılanabilirlik](Bilgisayar-Bilimleri/Hesaplama-Kurami/Bilgisayar-Biliminde-Mantik/Karsilanabilirlik/_index.md) — *Satisfiability*
         - [SAT Çözücüler](Bilgisayar-Bilimleri/Hesaplama-Kurami/Bilgisayar-Biliminde-Mantik/Karsilanabilirlik/SAT-Cozuculer/_index.md) — *SAT Solvers*
-          - [CDCL Çözücüler](Bilgisayar-Bilimleri/Hesaplama-Kurami/Bilgisayar-Biliminde-Mantik/Karsilanabilirlik/SAT-Cozuculer/CDCL-Cozuculer/_index.md) — *CDCL Solvers*
+          - [CDCL Çözücüler](Bilgisayar-Bilimleri/Hesaplama-Kurami/Bilgisayar-Biliminde-Mantik/Karsilanabilirlik/SAT-Cozuculer/CDCL-Cozuculer/_index.md) — *CDCL Solvers* `[2 araştırma]`
         - [Teori Modülo Karşılanabilirlik](Bilgisayar-Bilimleri/Hesaplama-Kurami/Bilgisayar-Biliminde-Mantik/Karsilanabilirlik/Teori-Modulo-Karsilanabilirlik/_index.md) — *Satisfiability Modulo Theories*
       - [Kipsel Mantık](Bilgisayar-Bilimleri/Hesaplama-Kurami/Bilgisayar-Biliminde-Mantik/Kipsel-Mantik/_index.md) — *Modal Logic*
       - [Otomatik Teorem İspatı](Bilgisayar-Bilimleri/Hesaplama-Kurami/Bilgisayar-Biliminde-Mantik/Otomatik-Teorem-Ispati/_index.md) — *Automated Theorem Proving*
@@ -523,14 +523,14 @@ Ana disiplinler:
       - [Erişim Modelleri](Bilgisayar-Bilimleri/Veritabanlari-ve-Bilgi-Sistemleri/Bilgi-Erisimi/Erisim-Modelleri/_index.md) — *Retrieval Models*
         - [Olasılıksal Erişim Modelleri](Bilgisayar-Bilimleri/Veritabanlari-ve-Bilgi-Sistemleri/Bilgi-Erisimi/Erisim-Modelleri/Olasiliksal-Erisim-Modelleri/_index.md) — *Probabilistic Retrieval Models*
         - [Sinirsel Bilgi Erişimi](Bilgisayar-Bilimleri/Veritabanlari-ve-Bilgi-Sistemleri/Bilgi-Erisimi/Erisim-Modelleri/Sinirsel-Bilgi-Erisimi/_index.md) — *Neural Information Retrieval*
-          - [Öğrenilmiş Seyrek Erişim](Bilgisayar-Bilimleri/Veritabanlari-ve-Bilgi-Sistemleri/Bilgi-Erisimi/Erisim-Modelleri/Sinirsel-Bilgi-Erisimi/Ogrenilmis-Seyrek-Erisim/_index.md) — *Learned Sparse Retrieval* `[emerging]`
-          - [Yoğun Erişim](Bilgisayar-Bilimleri/Veritabanlari-ve-Bilgi-Sistemleri/Bilgi-Erisimi/Erisim-Modelleri/Sinirsel-Bilgi-Erisimi/Yogun-Erisim/_index.md) — *Dense Retrieval*
+          - [Öğrenilmiş Seyrek Erişim](Bilgisayar-Bilimleri/Veritabanlari-ve-Bilgi-Sistemleri/Bilgi-Erisimi/Erisim-Modelleri/Sinirsel-Bilgi-Erisimi/Ogrenilmis-Seyrek-Erisim/_index.md) — *Learned Sparse Retrieval* `[emerging, 1 araştırma]`
+          - [Yoğun Erişim](Bilgisayar-Bilimleri/Veritabanlari-ve-Bilgi-Sistemleri/Bilgi-Erisimi/Erisim-Modelleri/Sinirsel-Bilgi-Erisimi/Yogun-Erisim/_index.md) — *Dense Retrieval* `[3 araştırma]`
         - [Vektör Uzayı Modeli](Bilgisayar-Bilimleri/Veritabanlari-ve-Bilgi-Sistemleri/Bilgi-Erisimi/Erisim-Modelleri/Vektor-Uzayi-Modeli/_index.md) — *Vector Space Model*
       - [İndeksleme ve Ters Dizinler](Bilgisayar-Bilimleri/Veritabanlari-ve-Bilgi-Sistemleri/Bilgi-Erisimi/Ters-Dizinler/_index.md) — *Indexing and Inverted Files*
       - [Öneri Sistemleri](Bilgisayar-Bilimleri/Veritabanlari-ve-Bilgi-Sistemleri/Bilgi-Erisimi/Oneri-Sistemleri/_index.md) — *Recommender Systems*
         - [İçerik Tabanlı Filtreleme](Bilgisayar-Bilimleri/Veritabanlari-ve-Bilgi-Sistemleri/Bilgi-Erisimi/Oneri-Sistemleri/Icerik-Tabanli-Filtreleme/_index.md) — *Content-Based Filtering* `[1 araştırma]`
         - [İşbirlikçi Filtreleme](Bilgisayar-Bilimleri/Veritabanlari-ve-Bilgi-Sistemleri/Bilgi-Erisimi/Oneri-Sistemleri/Isbirlikci-Filtreleme/_index.md) — *Collaborative Filtering* `[1 araştırma]`
-          - [Öneri için Matris Ayrıştırma](Bilgisayar-Bilimleri/Veritabanlari-ve-Bilgi-Sistemleri/Bilgi-Erisimi/Oneri-Sistemleri/Isbirlikci-Filtreleme/Oneri-Matris-Ayristirma/_index.md) — *Matrix Factorization for Recommendation*
+          - [Öneri için Matris Ayrıştırma](Bilgisayar-Bilimleri/Veritabanlari-ve-Bilgi-Sistemleri/Bilgi-Erisimi/Oneri-Sistemleri/Isbirlikci-Filtreleme/Oneri-Matris-Ayristirma/_index.md) — *Matrix Factorization for Recommendation* `[2 araştırma]`
         - [Sıralı Öneri](Bilgisayar-Bilimleri/Veritabanlari-ve-Bilgi-Sistemleri/Bilgi-Erisimi/Oneri-Sistemleri/Sirali-Oneri/_index.md) — *Sequential Recommendation*
       - [Sıralamayı Öğrenme](Bilgisayar-Bilimleri/Veritabanlari-ve-Bilgi-Sistemleri/Bilgi-Erisimi/Siralamayi-Ogrenme/_index.md) — *Learning to Rank* `[1 araştırma]`
       - [Web Arama](Bilgisayar-Bilimleri/Veritabanlari-ve-Bilgi-Sistemleri/Bilgi-Erisimi/Web-Arama/_index.md) — *Web Search*
@@ -675,8 +675,8 @@ Ana disiplinler:
         - [Eşgönderim Çözümleme](Bilgisayar-Bilimleri/Yapay-Zeka/Dogal-Dil-Isleme/Hesaplamali-Dilbilim-Temelleri/Esgonderim-Cozumleme/_index.md) — *Coreference Resolution*
         - [Sözcük Türü Etiketleme](Bilgisayar-Bilimleri/Yapay-Zeka/Dogal-Dil-Isleme/Hesaplamali-Dilbilim-Temelleri/Sozcuk-Turu-Etiketleme/_index.md) — *Part-of-Speech Tagging*
         - [Sözdizimsel Ayrıştırma](Bilgisayar-Bilimleri/Yapay-Zeka/Dogal-Dil-Isleme/Hesaplamali-Dilbilim-Temelleri/Sozdizimsel-Ayristirma/_index.md) — *Syntactic Parsing*
-          - [Bağlılık Ayrıştırma](Bilgisayar-Bilimleri/Yapay-Zeka/Dogal-Dil-Isleme/Hesaplamali-Dilbilim-Temelleri/Sozdizimsel-Ayristirma/Baglilik-Ayristirma/_index.md) — *Dependency Parsing*
-          - [Öbek Yapısı Ayrıştırma](Bilgisayar-Bilimleri/Yapay-Zeka/Dogal-Dil-Isleme/Hesaplamali-Dilbilim-Temelleri/Sozdizimsel-Ayristirma/Obek-Yapisi-Ayristirma/_index.md) — *Constituency Parsing*
+          - [Bağlılık Ayrıştırma](Bilgisayar-Bilimleri/Yapay-Zeka/Dogal-Dil-Isleme/Hesaplamali-Dilbilim-Temelleri/Sozdizimsel-Ayristirma/Baglilik-Ayristirma/_index.md) — *Dependency Parsing* `[3 araştırma]`
+          - [Öbek Yapısı Ayrıştırma](Bilgisayar-Bilimleri/Yapay-Zeka/Dogal-Dil-Isleme/Hesaplamali-Dilbilim-Temelleri/Sozdizimsel-Ayristirma/Obek-Yapisi-Ayristirma/_index.md) — *Constituency Parsing* `[3 araştırma]`
         - [Tokenleştirme](Bilgisayar-Bilimleri/Yapay-Zeka/Dogal-Dil-Isleme/Hesaplamali-Dilbilim-Temelleri/Tokenlestirme/_index.md) — *Tokenization*
       - [Makine Çevirisi](Bilgisayar-Bilimleri/Yapay-Zeka/Dogal-Dil-Isleme/Makine-Cevirisi/_index.md) — *Machine Translation* `[1 araştırma]`
         - [İstatistiksel Makine Çevirisi](Bilgisayar-Bilimleri/Yapay-Zeka/Dogal-Dil-Isleme/Makine-Cevirisi/Istatistiksel-Makine-Cevirisi/_index.md) — *Statistical Machine Translation* `[historical]`
@@ -727,53 +727,53 @@ Ana disiplinler:
         - [Çizge Sinir Ağları](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Cizge-Sinir-Aglari/_index.md) — *Graph Neural Networks* `[1 araştırma]`
           - [Çizge Dikkat Ağları](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Cizge-Sinir-Aglari/Cizge-Dikkat-Aglari/_index.md) — *Graph Attention Networks* `[2 araştırma]`
           - [Çizge Evrişimli Ağlar](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Cizge-Sinir-Aglari/Cizge-Evrisimli-Aglar/_index.md) — *Graph Convolutional Networks* `[1 araştırma]`
-          - [Eşdeğişimli Sinir Ağları](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Cizge-Sinir-Aglari/Esdegisimli-Sinir-Aglari/_index.md) — *Equivariant Neural Networks*
-          - [Mesaj Geçirmeli Sinir Ağları](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Cizge-Sinir-Aglari/Mesaj-Gecirmeli-Sinir-Aglari/_index.md) — *Message Passing Neural Networks*
+          - [Eşdeğişimli Sinir Ağları](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Cizge-Sinir-Aglari/Esdegisimli-Sinir-Aglari/_index.md) — *Equivariant Neural Networks* `[3 araştırma]`
+          - [Mesaj Geçirmeli Sinir Ağları](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Cizge-Sinir-Aglari/Mesaj-Gecirmeli-Sinir-Aglari/_index.md) — *Message Passing Neural Networks* `[3 araştırma]`
         - [Dikkat Mekanizmaları](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Dikkat-Mekanizmalari/_index.md) — *Attention Mechanisms*
-          - [Öz-Dikkat](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Dikkat-Mekanizmalari/Oz-Dikkat/_index.md) — *Self-Attention*
-          - [Verimli Dikkat](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Dikkat-Mekanizmalari/Verimli-Dikkat/_index.md) — *Efficient Attention*
+          - [Öz-Dikkat](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Dikkat-Mekanizmalari/Oz-Dikkat/_index.md) — *Self-Attention* `[3 araştırma]`
+          - [Verimli Dikkat](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Dikkat-Mekanizmalari/Verimli-Dikkat/_index.md) — *Efficient Attention* `[3 araştırma]`
         - [Durum Uzayı Dizi Modelleri](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Durum-Uzayi-Dizi-Modelleri/_index.md) — *State Space Sequence Models* `[emerging]`
         - [Evrişimli Sinir Ağları](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Evrisimli-Sinir-Aglari/_index.md) — *Convolutional Neural Networks* `[1 araştırma]`
-          - [Artık Ağlar](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Evrisimli-Sinir-Aglari/Artik-Aglar/_index.md) — *Residual Networks*
-          - [Derinlik Ayrılabilir Evrişimler](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Evrisimli-Sinir-Aglari/Derinlik-Ayrilabilir-Evrisimler/_index.md) — *Depthwise Separable Convolutions*
+          - [Artık Ağlar](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Evrisimli-Sinir-Aglari/Artik-Aglar/_index.md) — *Residual Networks* `[3 araştırma]`
+          - [Derinlik Ayrılabilir Evrişimler](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Evrisimli-Sinir-Aglari/Derinlik-Ayrilabilir-Evrisimler/_index.md) — *Depthwise Separable Convolutions* `[3 araştırma]`
           - [Genişletilmiş ve Deforme Edilebilir Evrişimler](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Evrisimli-Sinir-Aglari/Genisletilmis-Evrisimler/_index.md) — *Dilated and Deformable Convolutions*
         - [İleri Beslemeli Sinir Ağları](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Ileri-Beslemeli-Sinir-Aglari/_index.md) — *Feedforward Neural Networks*
         - [Örtük Sinirsel Temsiller](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Ortuk-Sinirsel-Temsiller/_index.md) — *Implicit Neural Representations* `[2 araştırma]`
         - [Otokodlayıcılar](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Otokodlayicilar/_index.md) — *Autoencoders*
         - [Sinir Ağı Sıkıştırma](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Sinir-Agi-Sikistirma/_index.md) — *Neural Network Compression*
-          - [Bilgi Damıtma](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Sinir-Agi-Sikistirma/Bilgi-Damitma/_index.md) — *Knowledge Distillation*
+          - [Bilgi Damıtma](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Sinir-Agi-Sikistirma/Bilgi-Damitma/_index.md) — *Knowledge Distillation* `[3 araştırma]`
           - [Budama](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Sinir-Agi-Sikistirma/Budama/_index.md) — *Pruning*
-          - [Düşük Ranklı Ayrıştırma](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Sinir-Agi-Sikistirma/Dusuk-Rankli-Ayristirma/_index.md) — *Low-Rank Factorization*
+          - [Düşük Ranklı Ayrıştırma](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Sinir-Agi-Sikistirma/Dusuk-Rankli-Ayristirma/_index.md) — *Low-Rank Factorization* `[1 araştırma]`
           - [Nicemleme](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Sinir-Agi-Sikistirma/Nicemleme/_index.md) — *Quantization*
         - [Sinir Ağı Temelleri](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Sinir-Agi-Temelleri/_index.md) — *Neural Network Fundamentals*
-          - [Aktivasyon Fonksiyonları](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Sinir-Agi-Temelleri/Aktivasyon-Fonksiyonlari/_index.md) — *Activation Functions*
-          - [Derin Öğrenmede Düzenlileştirme](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Sinir-Agi-Temelleri/Derin-Ogrenmede-Duzenlilestirme/_index.md) — *Regularization in Deep Learning*
-          - [Derin Öğrenme Optimizasyon Algoritmaları](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Sinir-Agi-Temelleri/Derin-Ogrenme-Optimizasyon-Algoritmalari/_index.md) — *Optimizers for Deep Learning*
+          - [Aktivasyon Fonksiyonları](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Sinir-Agi-Temelleri/Aktivasyon-Fonksiyonlari/_index.md) — *Activation Functions* `[3 araştırma]`
+          - [Derin Öğrenmede Düzenlileştirme](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Sinir-Agi-Temelleri/Derin-Ogrenmede-Duzenlilestirme/_index.md) — *Regularization in Deep Learning* `[3 araştırma]`
+          - [Derin Öğrenme Optimizasyon Algoritmaları](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Sinir-Agi-Temelleri/Derin-Ogrenme-Optimizasyon-Algoritmalari/_index.md) — *Optimizers for Deep Learning* `[2 araştırma]`
           - [Geri Yayılım](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Sinir-Agi-Temelleri/Geri-Yayilim/_index.md) — *Backpropagation*
-          - [Normalizasyon Teknikleri](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Sinir-Agi-Temelleri/Normalizasyon-Teknikleri/_index.md) — *Normalization Techniques*
-          - [Sinir Ağı İlklendirme](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Sinir-Agi-Temelleri/Sinir-Agi-Ilklendirme/_index.md) — *Neural Network Initialization*
+          - [Normalizasyon Teknikleri](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Sinir-Agi-Temelleri/Normalizasyon-Teknikleri/_index.md) — *Normalization Techniques* `[1 araştırma]`
+          - [Sinir Ağı İlklendirme](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Sinir-Agi-Temelleri/Sinir-Agi-Ilklendirme/_index.md) — *Neural Network Initialization* `[3 araştırma]`
         - [Sinir Mimarisi Arama](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Sinir-Mimarisi-Arama/_index.md) — *Neural Architecture Search* `[1 araştırma]`
         - [Transformer Mimarileri](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Transformer-Mimarileri/_index.md) — *Transformer Architectures* `[2 araştırma]`
           - [Görü Transformer'ları](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Transformer-Mimarileri/Goru-Transformer-lari/_index.md) — *Vision Transformers* `[1 araştırma]`
-          - [Kodlayıcı-Kod Çözücü Transformer'lar](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Transformer-Mimarileri/Encoder-Decoder/_index.md) — *Encoder-Decoder Transformers*
-          - [Konum Kodlamaları](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Transformer-Mimarileri/Konum-Kodlamalari/_index.md) — *Positional Encodings*
-          - [Yalnız Kod Çözücülü Transformer'lar](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Transformer-Mimarileri/Decoder-Only/_index.md) — *Decoder-Only Transformers*
-          - [Yalnız Kodlayıcılı Transformer'lar](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Transformer-Mimarileri/Encoder-Only/_index.md) — *Encoder-Only Transformers*
+          - [Kodlayıcı-Kod Çözücü Transformer'lar](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Transformer-Mimarileri/Encoder-Decoder/_index.md) — *Encoder-Decoder Transformers* `[2 araştırma]`
+          - [Konum Kodlamaları](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Transformer-Mimarileri/Konum-Kodlamalari/_index.md) — *Positional Encodings* `[3 araştırma]`
+          - [Yalnız Kod Çözücülü Transformer'lar](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Transformer-Mimarileri/Decoder-Only/_index.md) — *Decoder-Only Transformers* `[3 araştırma]`
+          - [Yalnız Kodlayıcılı Transformer'lar](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Transformer-Mimarileri/Encoder-Only/_index.md) — *Encoder-Only Transformers* `[3 araştırma]`
         - [Üretken Modeller](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Uretken-Modeller/_index.md) — *Generative Models* `[2 araştırma]`
           - [Çekişmeli Üretici Ağlar](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Uretken-Modeller/Cekismeli-Uretici-Aglar/_index.md) — *Generative Adversarial Networks* `[1 araştırma]`
-          - [Difüzyon Modelleri](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Uretken-Modeller/Difuzyon-Modelleri/_index.md) — *Diffusion Models*
-            - [Akış Eşleme](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Uretken-Modeller/Difuzyon-Modelleri/Akis-Esleme/_index.md) — *Flow Matching* `[emerging]`
-            - [Gizil Difüzyon Modelleri](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Uretken-Modeller/Difuzyon-Modelleri/Gizil-Difuzyon-Modelleri/_index.md) — *Latent Diffusion Models*
-            - [Gürültü Giderici Difüzyon Olasılıksal Modelleri](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Uretken-Modeller/Difuzyon-Modelleri/DDPM/_index.md) — *Denoising Diffusion Probabilistic Models*
-            - [Skor Tabanlı Üretken Modeller](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Uretken-Modeller/Difuzyon-Modelleri/Skor-Tabanli-Uretken-Modeller/_index.md) — *Score-Based Generative Models*
-          - [Enerji Tabanlı Modeller](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Uretken-Modeller/Enerji-Tabanli-Modeller/_index.md) — *Energy-Based Models*
-          - [Normalleştirici Akışlar](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Uretken-Modeller/Normallestirici-Akislar/_index.md) — *Normalizing Flows*
+          - [Difüzyon Modelleri](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Uretken-Modeller/Difuzyon-Modelleri/_index.md) — *Diffusion Models* `[3 araştırma]`
+            - [Akış Eşleme](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Uretken-Modeller/Difuzyon-Modelleri/Akis-Esleme/_index.md) — *Flow Matching* `[emerging, 3 araştırma]`
+            - [Gizil Difüzyon Modelleri](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Uretken-Modeller/Difuzyon-Modelleri/Gizil-Difuzyon-Modelleri/_index.md) — *Latent Diffusion Models* `[3 araştırma]`
+            - [Gürültü Giderici Difüzyon Olasılıksal Modelleri](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Uretken-Modeller/Difuzyon-Modelleri/DDPM/_index.md) — *Denoising Diffusion Probabilistic Models* `[3 araştırma]`
+            - [Skor Tabanlı Üretken Modeller](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Uretken-Modeller/Difuzyon-Modelleri/Skor-Tabanli-Uretken-Modeller/_index.md) — *Score-Based Generative Models* `[3 araştırma]`
+          - [Enerji Tabanlı Modeller](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Uretken-Modeller/Enerji-Tabanli-Modeller/_index.md) — *Energy-Based Models* `[3 araştırma]`
+          - [Normalleştirici Akışlar](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Uretken-Modeller/Normallestirici-Akislar/_index.md) — *Normalizing Flows* `[3 araştırma]`
           - [Otoregresif Modeller](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Uretken-Modeller/Otoregresif-Modeller/_index.md) — *Autoregressive Models*
-          - [Varyasyonel Otokodlayıcılar](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Uretken-Modeller/Varyasyonel-Otokodlayicilar/_index.md) — *Variational Autoencoders*
+          - [Varyasyonel Otokodlayıcılar](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Uretken-Modeller/Varyasyonel-Otokodlayicilar/_index.md) — *Variational Autoencoders* `[3 araştırma]`
         - [Uzmanlar Karışımı](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Mixture-of-Experts/_index.md) — *Mixture of Experts* `[1 araştırma]`
         - [Yinelemeli Sinir Ağları](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Yinelemeli-Sinir-Aglari/_index.md) — *Recurrent Neural Networks* `[1 araştırma]`
-          - [Kapılı Yinelemeli Birimler](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Yinelemeli-Sinir-Aglari/Kapili-Yinelemeli-Birimler/_index.md) — *Gated Recurrent Units*
-          - [Uzun Kısa Süreli Bellek](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Yinelemeli-Sinir-Aglari/Uzun-Kisa-Sureli-Bellek/_index.md) — *Long Short-Term Memory*
+          - [Kapılı Yinelemeli Birimler](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Yinelemeli-Sinir-Aglari/Kapili-Yinelemeli-Birimler/_index.md) — *Gated Recurrent Units* `[3 araştırma]`
+          - [Uzun Kısa Süreli Bellek](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Yinelemeli-Sinir-Aglari/Uzun-Kisa-Sureli-Bellek/_index.md) — *Long Short-Term Memory* `[3 araştırma]`
           - [Yankı Durumu Ağları ve Rezervuar Hesaplama](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Yinelemeli-Sinir-Aglari/Rezervuar-Hesaplama/_index.md) — *Echo State Networks and Reservoir Computing*
       - [Federe Öğrenme](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Federe-Ogrenme/_index.md) — *Federated Learning* `[1 araştırma]`
       - [Gözetimli Öğrenme](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Gozetimli-Ogrenme/_index.md) — *Supervised Learning* `[1 araştırma]`
@@ -783,12 +783,12 @@ Ana disiplinler:
         - [k-En Yakın Komşu](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Gozetimli-Ogrenme/k-En-Yakin-Komsu/_index.md) — *k-Nearest Neighbors* `[1 araştırma]`
         - [Naive Bayes Sınıflandırıcılar](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Gozetimli-Ogrenme/Naive-Bayes-Siniflandiricilar/_index.md) — *Naive Bayes Classifiers*
         - [Topluluk Yöntemleri](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Gozetimli-Ogrenme/Topluluk-Yontemleri/_index.md) — *Ensemble Methods*
-          - [Bagging ve Rastgele Ormanlar](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Gozetimli-Ogrenme/Topluluk-Yontemleri/Rastgele-Ormanlar/_index.md) — *Bagging and Random Forests*
-          - [Gradyan Artırma](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Gozetimli-Ogrenme/Topluluk-Yontemleri/Gradyan-Artirma/_index.md) — *Gradient Boosting*
+          - [Bagging ve Rastgele Ormanlar](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Gozetimli-Ogrenme/Topluluk-Yontemleri/Rastgele-Ormanlar/_index.md) — *Bagging and Random Forests* `[1 araştırma]`
+          - [Gradyan Artırma](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Gozetimli-Ogrenme/Topluluk-Yontemleri/Gradyan-Artirma/_index.md) — *Gradient Boosting* `[2 araştırma]`
       - [Gözetimsiz Öğrenme](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Gozetimsiz-Ogrenme/_index.md) — *Unsupervised Learning*
         - [Aykırı Değer Tespiti](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Gozetimsiz-Ogrenme/Aykiri-Deger-Tespiti/_index.md) — *Outlier Detection*
         - [Boyut İndirgeme](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Gozetimsiz-Ogrenme/Boyut-Indirgeme/_index.md) — *Dimensionality Reduction*
-          - [Manifold Öğrenme](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Gozetimsiz-Ogrenme/Boyut-Indirgeme/Manifold-Ogrenme/_index.md) — *Manifold Learning*
+          - [Manifold Öğrenme](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Gozetimsiz-Ogrenme/Boyut-Indirgeme/Manifold-Ogrenme/_index.md) — *Manifold Learning* `[3 araştırma]`
         - [Kümeleme](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Gozetimsiz-Ogrenme/Kumeleme/_index.md) — *Clustering*
           - [Hiyerarşik Kümeleme](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Gozetimsiz-Ogrenme/Kumeleme/Hiyerarsik-Kumeleme/_index.md) — *Hierarchical Clustering* `[1 araştırma]`
           - [Karışım Modelleri](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Gozetimsiz-Ogrenme/Kumeleme/Karisim-Modelleri/_index.md) — *Mixture Models* `[1 araştırma]`
@@ -835,11 +835,11 @@ Ana disiplinler:
           - [LLM Çıkarım Optimizasyonu](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Temel-Modeller/Buyuk-Dil-Modelleri/LLM-Cikarim-Optimizasyonu/_index.md) — *LLM Inference Optimization*
           - [LLM Hizalama](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Temel-Modeller/Buyuk-Dil-Modelleri/LLM-Hizalama/_index.md) — *LLM Alignment*
             - [Anayasal YZ ve YZ Geri Bildirimi](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Temel-Modeller/Buyuk-Dil-Modelleri/LLM-Hizalama/Anayasal-YZ/_index.md) — *Constitutional AI and AI Feedback* `[emerging]`
-            - [Doğrudan Tercih Optimizasyonu](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Temel-Modeller/Buyuk-Dil-Modelleri/LLM-Hizalama/Dogrudan-Tercih-Optimizasyonu/_index.md) — *Direct Preference Optimization* `[emerging, 1 araştırma]`
-            - [İnsan Geri Bildiriminden Pekiştirmeli Öğrenme](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Temel-Modeller/Buyuk-Dil-Modelleri/LLM-Hizalama/Insan-Geri-Bildiriminden-Pekistirmeli-Ogrenme/_index.md) — *Reinforcement Learning from Human Feedback* `[2 araştırma]`
-            - [Talimat İnce Ayarı](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Temel-Modeller/Buyuk-Dil-Modelleri/LLM-Hizalama/Talimat-Ince-Ayari/_index.md) — *Instruction Tuning*
+            - [Doğrudan Tercih Optimizasyonu](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Temel-Modeller/Buyuk-Dil-Modelleri/LLM-Hizalama/Dogrudan-Tercih-Optimizasyonu/_index.md) — *Direct Preference Optimization* `[emerging, 4 araştırma]`
+            - [İnsan Geri Bildiriminden Pekiştirmeli Öğrenme](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Temel-Modeller/Buyuk-Dil-Modelleri/LLM-Hizalama/Insan-Geri-Bildiriminden-Pekistirmeli-Ogrenme/_index.md) — *Reinforcement Learning from Human Feedback* `[5 araştırma]`
+            - [Talimat İnce Ayarı](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Temel-Modeller/Buyuk-Dil-Modelleri/LLM-Hizalama/Talimat-Ince-Ayari/_index.md) — *Instruction Tuning* `[3 araştırma]`
           - [LLM Ön Eğitimi](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Temel-Modeller/Buyuk-Dil-Modelleri/LLM-On-Egitimi/_index.md) — *LLM Pretraining*
-            - [Ölçekleme Yasaları](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Temel-Modeller/Buyuk-Dil-Modelleri/LLM-On-Egitimi/Olcekleme-Yasalari/_index.md) — *Scaling Laws*
+            - [Ölçekleme Yasaları](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Temel-Modeller/Buyuk-Dil-Modelleri/LLM-On-Egitimi/Olcekleme-Yasalari/_index.md) — *Scaling Laws* `[1 araştırma]`
           - [Parametre Verimli İnce Ayar](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Temel-Modeller/Buyuk-Dil-Modelleri/Parametre-Verimli-Ince-Ayar/_index.md) — *Parameter-Efficient Fine-Tuning* `[1 araştırma]`
           - [Uzun Bağlam Modelleme](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Temel-Modeller/Buyuk-Dil-Modelleri/Uzun-Baglam-Modelleme/_index.md) — *Long-Context Modeling* `[emerging]`
         - [Çok Kipli Temel Modeller](Bilgisayar-Bilimleri/Yapay-Zeka/Makine-Ogrenmesi/Temel-Modeller/Cok-Kipli-Temel-Modeller/_index.md) — *Multimodal Foundation Models* `[emerging, 1 araştırma]`

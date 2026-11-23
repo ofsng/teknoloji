@@ -75,7 +75,11 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **3**, alt teknolojiler dahil: **3**.
+
+- [An Image Authentication Scheme Using Merkle Tree Mechanisms](Arastirmalar/2019-Chen-Image-Authentication-Scheme-Using.md) — Chen vd. (2019) · *Future Internet* · hakemli · atıf: 57
+- [The Research of Traverse of Merkle Tree](Arastirmalar/2010-Si-quan-The-Research-Traverse-Merkle.md) — Si-quan (2010) · *Microcomputer Information* · hakemli
+- [Blockchain Merkle Tree](Arastirmalar/2023-Bo-riboyevna-Blockchain-Merkle-Tree.md) — Bo'riboyevna (2023) · *International Journal of Human Computing Studies* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler

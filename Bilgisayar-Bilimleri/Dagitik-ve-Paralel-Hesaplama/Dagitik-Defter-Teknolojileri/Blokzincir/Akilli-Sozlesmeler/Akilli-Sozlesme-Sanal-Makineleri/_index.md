@@ -75,7 +75,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **1**.
+
+- [SmartVM: A Smart Contract Virtual Machine for Fast On-Chain DNN Computations](Arastirmalar/2022-Li-SmartVM-Smart-Contract-Virtual.md) — Li vd. (2022) · *IEEE Transactions on Parallel and Distributed Systems* · hakemli · atıf: 16
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler

@@ -81,7 +81,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **3**.
+Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **14**.
 
 - [Advanced hybrid LSTM-transformer architecture for real-time multi-task prediction in engineering systems](Arastirmalar/2024-Cao-Advanced-hybrid-LSTM-transformer.md) — Cao vd. (2024) · *Scientific Reports* · hakemli · atıf: 178
 - [Attention Is All You Need](Arastirmalar/2017-Transformer.md) — Vaswani vd. (2017) · *Advances in Neural Information Processing Systems 30 (NIPS 2017)*
@@ -92,7 +92,15 @@ Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **3**.
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
-_Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini göstermez; ön baskılar hakemli değildir._
+Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
+
+- [Efficient Decoder-Only Transformer with Domain-Specific Byte Pair Encoding for Python Code Generation](Decoder-Only/Arastirmalar/2026-Venkateshwarlu-Efficient-Decoder-Only-Transforme.md) — Venkateshwarlu vd. (2026) · *International Journal of Latest Technology in Engineering Management & Applied Science* · hakemli
+- [Positional encoding in transformer-based time series models: a survey](Konum-Kodlamalari/Arastirmalar/2026-Irani-Positional-encoding-transformer-based.md) — Irani vd. (2026) · *International Journal of Machine Learning and Cybernetics* · hakemli · atıf: 73
+- [Improving Knowledge Tracing through Multi-Source Scaling with Decoder-Only Transformers](Decoder-Only/Arastirmalar/2026-Guo-Improving-Knowledge-Tracing-through.md) — Guo vd. (2026) · *ACM Transactions on Intelligent Systems and Technology* · hakemli · atıf: 10
+- [Efficient Depression Detection based on Encoder-only Transformer Architecture: A Review](Encoder-Only/Arastirmalar/2026-Mishra-Efficient-Depression-Detection-based.md) — Mishra vd. (2026) · *International Journal of Global Mental Health Innovation Policy Action Culture & Transformation* · hakemli
+- [Positional Encoding Image Prior](Konum-Kodlamalari/Arastirmalar/2026-Shabtay-Positional-Encoding-Image-Prior.md) — Shabtay vd. (2026) · *IEEE Transactions on Image Processing* · hakemli · atıf: 12
+- [Interpretable Merging-Vehicle Acceleration Prediction via a Decoder-Only Transformer and Attention Map Clustering](Decoder-Only/Arastirmalar/2026-Oh-Interpretable-Merging-Vehicle-Acceleration.md) — Oh vd. (2026) · *IEEE Access* · hakemli · atıf: 1
+- [LayCoder: UI Layout Completion with an Encoder-Only Transformer and Layout Tokenizer](Encoder-Only/Arastirmalar/2026-Salama-LayCoder-Layout-Completion-with.md) — Salama vd. (2026) · *International Journal of Advanced Computer Science and Applications* · hakemli · atıf: 2
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

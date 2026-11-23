@@ -86,7 +86,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **4**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **57**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -100,6 +100,10 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [A Systematic Literature Review of Blockchain and Distributed Ledger Technology for the Detection and Prevention of Phishing Attacks](Dagitik-Defter-Teknolojileri/Arastirmalar/2026-Odianosen-Systematic-Literature-Review-Blockchai.md) — Odianosen vd. (2026) · *Iconic Research and Engineering Journals* · hakemli
 - [Global decentralized stock exchange: an innovative permissioned-blockchain framework for integrated capital markets](Dagitik-Defter-Teknolojileri/Blokzincir/Izinli-Blokzincirler/Arastirmalar/2026-Al-Awadhi-Global-decentralized-stock-exchange.md) — Al-Awadhi vd. (2026) · *Journal of Financial Regulation and Compliance* · hakemli
 - [RISC-V Vector Processors for Edge AI and High-Performance Computing: A Focused Review of Architectures and Performance Evaluation Methods](Yuksek-Basarimli-Hesaplama/Arastirmalar/2026-Rajab-RISC-Vector-Processors-for.md) — Rajab vd. (2026) · *AlQalam Journal of Medical and Applied Sciences* · hakemli
+- [A Global Blockchain-IoT Architecture Integrating Layer-2 Protocols](Dagitik-Defter-Teknolojileri/Blokzincir/Olceklendirme/Katman-2/Arastirmalar/2026-Aghroud-Global-Blockchain-IoT-Architecture.md) — Aghroud vd. (2026) · *Engineering Technology & Applied Science Research* · hakemli
+- [eDAS: Extending Data Availability Sampling with Privacy and Compliance](Dagitik-Defter-Teknolojileri/Blokzincir/Olceklendirme/Veri-Erisilebilirligi-Orneklemesi/Arastirmalar/2026-Watkins-eDAS-Extending-Data-Availability.md) — Watkins vd. (2026) · *IACR Communications in Cryptology* · hakemli
+- [The Price of Interoperability: Exploring Cross-Chain Bridges and Their Economic Consequences](Dagitik-Defter-Teknolojileri/Blokzincir/Birlikte-Calisabilirlik/Zincirler-Arasi-Kopruler/Arastirmalar/2026-Cao-The-Price-Interoperability-Exploring.md) — Cao vd. (2026) · *Proceedings of the ACM on Measurement and Analysis of Computing Systems* · hakemli · atıf: 6
+- [Atomic Swaps with Relaxed Assumptions](Dagitik-Defter-Teknolojileri/Blokzincir/Birlikte-Calisabilirlik/Atomik-Takaslar/Arastirmalar/2026-Rosler-Atomic-Swaps-with-Relaxed.md) — Rösler vd. (2026) · *IACR Communications in Cryptology* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

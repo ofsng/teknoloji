@@ -75,7 +75,11 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **3**, alt teknolojiler dahil: **3**.
+
+- [Function-Level Bottleneck Analysis of Private Proof-of-Authority Ethereum Blockchain](Arastirmalar/2020-Toyoda-Function-Level-Bottleneck-Analysis.md) — Toyoda vd. (2020) · *IEEE Access* · hakemli · atıf: 75
+- [Decentralized Global Copyright System Based on Consortium Blockchain With Proof of Authority](Arastirmalar/2023-Islam-Decentralized-Global-Copyright-System.md) — Islam vd. (2023) · *IEEE Access* · hakemli · atıf: 33
+- [An efficient Proof-of-Authority consensus scheme against cloning attacks](Arastirmalar/2024-Lu-efficient-Proof-Authority-consensus.md) — Lu vd. (2024) · *Computer Communications* · hakemli · atıf: 12
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler

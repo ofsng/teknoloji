@@ -75,7 +75,11 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **3**, alt teknolojiler dahil: **3**.
+
+- [A Secure Link State Routing Protocol for NDN](Arastirmalar/2018-Wang-Secure-Link-State-Routing.md) — Wang vd. (2018) · *IEEE Access* · hakemli · atıf: 138
+- [Avoiding Transient Loops During the Convergence of Link-State Routing Protocols](Arastirmalar/2007-Francois-Avoiding-Transient-Loops-During.md) — Francois vd. (2007) · *IEEE/ACM Transactions on Networking* · hakemli · atıf: 130
+- [The Birth of Link-State Routing](Arastirmalar/2009-McQuillan-The-Birth-Link-State.md) — McQuillan (2009) · *IEEE Annals of the History of Computing* · hakemli · atıf: 6
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler

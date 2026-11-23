@@ -76,7 +76,10 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **8**.
+
+- [VoIP Performance over Different Interior Gateway Protocols](Arastirmalar/2009-Che-VoIP-Performance-over-Different.md) — Che vd. (2009) · *International Journal of Computer Network and Information Security* · hakemli · atıf: 24
+- [A Comparative Analysis of Interior Gateway Protocols in Large-Scale Enterprise Topologies](Arastirmalar/2024-Taha-Comparative-Analysis-Interior-Gateway.md) — Taha vd. (2024) · *Journal of Engineering Research and Sciences* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler

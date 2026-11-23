@@ -75,7 +75,11 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **3**, alt teknolojiler dahil: **3**.
+
+- [Practical Byzantine fault tolerance](Arastirmalar/1999-Castro-Practical-Byzantine-fault-tolerance.md) — Castro vd. (1999) · *Operating Systems Design and Implementation* · hakemli · atıf: 4034
+- [Practical byzantine fault tolerance and proactive recovery](Arastirmalar/2002-Castro-Practical-byzantine-fault-tolerance.md) — Castro vd. (2002) · *ACM Transactions on Computer Systems* · hakemli · atıf: 2592
+- [T-PBFT: An EigenTrust-based practical Byzantine fault tolerance consensus algorithm](Arastirmalar/2019-Gao-PBFT-EigenTrust-based-practical.md) — Gao vd. (2019) · *China Communications* · hakemli · atıf: 219
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler

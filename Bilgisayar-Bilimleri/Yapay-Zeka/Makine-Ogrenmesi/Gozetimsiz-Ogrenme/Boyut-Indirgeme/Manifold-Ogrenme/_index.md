@@ -75,7 +75,11 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **3**, alt teknolojiler dahil: **3**.
+
+- [Manifold Learning: What, How, and Why](Arastirmalar/2023-Meila-Manifold-Learning-What-How.md) — Meilă vd. (2023) · *Annual Review of Statistics and Its Application* · hakemli · atıf: 247
+- [Introduction to manifold learning](Arastirmalar/2012-Izenman-Introduction-manifold-learning.md) — Izenman (2012) · *Wiley Interdisciplinary Reviews Computational Statistics* · hakemli · atıf: 204
+- [A Survey of Manifold Learning for Images](Arastirmalar/2009-Pless-Survey-Manifold-Learning-for.md) — Pless vd. (2009) · *IPSJ Transactions on Computer Vision and Applications* · hakemli · atıf: 130
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler

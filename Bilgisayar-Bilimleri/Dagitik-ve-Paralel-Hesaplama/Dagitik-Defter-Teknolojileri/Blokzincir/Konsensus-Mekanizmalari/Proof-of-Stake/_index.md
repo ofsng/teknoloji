@@ -76,7 +76,11 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **3**, alt teknolojiler dahil: **6**.
+
+- [Blockchain without Waste: Proof-of-Stake](Arastirmalar/2020-Saleh-Blockchain-without-Waste-Proof.md) — Saleh (2020) · *Review of Financial Studies* · hakemli · atıf: 907
+- [A Survey on Long-Range Attacks for Proof of Stake Protocols](Arastirmalar/2019-Deirmentzoglou-Survey-Long-Range-Attacks.md) — Deirmentzoglou vd. (2019) · *IEEE Access* · hakemli · atıf: 205
+- [Features of Lightweight Proof of Stake Models for Enhancing Data Privacy in Telemedicine Systems: A Systematic Literature Review](Arastirmalar/2025-Walumbe-Features-Lightweight-Proof-Stake.md) — Walumbe vd. (2025) · *International Journal of Computer and Information Technology(2279-0764)* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler

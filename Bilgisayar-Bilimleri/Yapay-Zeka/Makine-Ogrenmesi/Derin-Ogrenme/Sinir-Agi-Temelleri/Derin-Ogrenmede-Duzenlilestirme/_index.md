@@ -75,7 +75,11 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **3**, alt teknolojiler dahil: **3**.
+
+- [Improving Interpretability and Regularization in Deep Learning](Arastirmalar/2017-Wu-Improving-Interpretability-and-Regularization.md) — Wu vd. (2017) · *IEEE/ACM Transactions on Audio Speech and Language Processing* · hakemli · atıf: 48
+- [Exploring Spatial Feature Regularization in Deep-Learning-Based TomoSAR Reconstruction: A Preliminary Study and Performance Analysis](Arastirmalar/2024-Zeng-Exploring-Spatial-Feature-Regularization.md) — Zeng vd. (2024) · *IEEE Transactions on Geoscience and Remote Sensing* · hakemli · atıf: 23
+- [Variational Characterizations of Local Entropy and Heat Regularization in Deep Learning](Arastirmalar/2019-Trillos-Variational-Characterizations-Local-Entr.md) — Trillos vd. (2019) · *Entropy* · hakemli · atıf: 4
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler

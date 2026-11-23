@@ -75,7 +75,10 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **2**.
+
+- [Cross Encoder-Decoder Transformer with Global-Local Visual Extractor for Medical Image Captioning](Arastirmalar/2022-Lee-Cross-Encoder-Decoder-Transformer.md) — Lee vd. (2022) · *Sensors* · hakemli · atıf: 30
+- [Encoder-Decoder Transformers for Textual Summaries on Social Media Content](Arastirmalar/2024-Papagiannopoulou-Encoder-Decoder-Transformers-fo.md) — Papagiannopoulou vd. (2024) · *Automation Control and Intelligent Systems* · hakemli · atıf: 4
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler

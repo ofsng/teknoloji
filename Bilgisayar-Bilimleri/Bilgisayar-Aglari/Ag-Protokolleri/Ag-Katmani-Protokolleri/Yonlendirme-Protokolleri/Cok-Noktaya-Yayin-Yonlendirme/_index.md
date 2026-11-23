@@ -75,7 +75,11 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **3**, alt teknolojiler dahil: **3**.
+
+- [Multicast routing for multimedia communication](Arastirmalar/1993-Kompella-Multicast-routing-for-multimedia.md) — Kompella vd. (1993) · *IEEE/ACM Transactions on Networking* · hakemli · atıf: 626
+- [Multicast routing extensions for OSPF](Arastirmalar/1994-Moy-Multicast-routing-extensions-for.md) — Moy (1994) · *Communications of the ACM* · hakemli · atıf: 271
+- [A Review of Multicast Routing Algorithm](Arastirmalar/2003-Liu-Review-Multicast-Routing-Algorithm.md) — Liu (2003) · *Journal of Hebei University of Technology* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler

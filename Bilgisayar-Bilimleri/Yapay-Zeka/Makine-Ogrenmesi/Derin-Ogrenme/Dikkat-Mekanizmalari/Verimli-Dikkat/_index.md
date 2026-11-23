@@ -75,7 +75,11 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **3**, alt teknolojiler dahil: **3**.
+
+- [EAPT: Efficient Attention Pyramid Transformer for Image Processing](Arastirmalar/2021-Lin-EAPT-Efficient-Attention-Pyramid.md) — Lin vd. (2021) · *IEEE Transactions on Multimedia* · hakemli · atıf: 685
+- [EANTrack: An Efficient Attention Network for Visual Tracking](Arastirmalar/2023-Gu-EANTrack-Efficient-Attention-Network.md) — Gu vd. (2023) · *IEEE Transactions on Automation Science and Engineering* · hakemli · atıf: 48
+- [Transfer and Inspiration of Efficient Attention Mechanisms from Long Context Language Models to Speech Recognition: A Systematic Review](Arastirmalar/2025-Yang-Transfer-and-Inspiration-Efficient.md) — Yang (2025) · *Journal of Cloud Computing and Data Analytics* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -83,7 +87,9 @@ Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
-_Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini göstermez; ön baskılar hakemli değildir._
+Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
+
+- [Transfer and Inspiration of Efficient Attention Mechanisms from Long Context Language Models to Speech Recognition: A Systematic Review](Arastirmalar/2025-Yang-Transfer-and-Inspiration-Efficient.md) — Yang (2025) · *Journal of Cloud Computing and Data Analytics* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

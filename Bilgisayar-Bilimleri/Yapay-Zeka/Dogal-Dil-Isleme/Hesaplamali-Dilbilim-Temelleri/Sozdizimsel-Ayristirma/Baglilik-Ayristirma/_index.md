@@ -75,7 +75,11 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **3**, alt teknolojiler dahil: **3**.
+
+- [Algorithms for Deterministic Incremental Dependency Parsing](Arastirmalar/2008-Nivre-Algorithms-for-Deterministic-Incremental.md) — Nivre (2008) · *Computational Linguistics* · hakemli · atıf: 530
+- [Dependency Parsing of Turkish](Arastirmalar/2008-Eryigit-Dependency-Parsing-Turkish.md) — Eryiğit vd. (2008) · *Computational Linguistics* · hakemli · atıf: 130
+- [Dependency Parsing](Arastirmalar/2010-Nivre-Dependency-Parsing.md) — Nivre (2010) · *Language and Linguistics Compass* · hakemli · atıf: 83
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler

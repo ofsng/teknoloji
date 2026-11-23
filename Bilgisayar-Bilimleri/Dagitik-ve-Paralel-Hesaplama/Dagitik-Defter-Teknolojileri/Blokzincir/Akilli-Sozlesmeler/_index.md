@@ -77,7 +77,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **8**.
 
 - [Blockchain Integrated Decentralized Cloud Storage and Immutable Smart Contract Platform for Secure and Trustworthy Collaborative BIM](Arastirmalar/2026-Sonmez-Blockchain-Integrated-Decentralized-Cloud.md) — Sönmez vd. (2026) · *Journal of Construction Engineering and Management* · hakemli
 <!-- AUTO:RESEARCH:END -->

@@ -75,7 +75,11 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **3**, alt teknolojiler dahil: **3**.
+
+- [Approaches to Conflict-free Replicated Data Types](Arastirmalar/2024-Almeida-Approaches-Conflict-free-Replicated.md) — Almeida (2024) · *ACM Computing Surveys* · hakemli · atıf: 72
+- [Review of joint text editing algorithms Conflict-free Replicated Data Types (CRDT)](Arastirmalar/2023-Rabeshko-Review-joint-text-editing.md) — Rabeshko vd. (2023) · *Вісник Черкаського державного технологічного університету* · hakemli · atıf: 1
+- [A Datalog Framework for Conflict-Free Replicated Data Types](Arastirmalar/2026-Yanakieva-Datalog-Framework-for-Conflict.md) — Yanakieva vd. (2026) · *Theory and Practice of Logic Programming* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -83,7 +87,9 @@ Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
-_Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini göstermez; ön baskılar hakemli değildir._
+Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
+
+- [A Datalog Framework for Conflict-Free Replicated Data Types](Arastirmalar/2026-Yanakieva-Datalog-Framework-for-Conflict.md) — Yanakieva vd. (2026) · *Theory and Practice of Logic Programming* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

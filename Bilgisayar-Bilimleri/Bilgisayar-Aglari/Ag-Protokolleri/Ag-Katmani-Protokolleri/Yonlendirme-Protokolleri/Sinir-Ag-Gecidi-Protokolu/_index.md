@@ -75,7 +75,11 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **3**, alt teknolojiler dahil: **6**.
+
+- [Secure Border Gateway Protocol (S-BGP)](Arastirmalar/2000-Kent-Secure-Border-Gateway-Protocol.md) — Kent vd. (2000) · *IEEE Journal on Selected Areas in Communications* · hakemli · atıf: 693
+- [The Implementation of Border Gateway Protocol Using Software-Defined Networks: A Systematic Literature Review](Arastirmalar/2021-Zhao-The-Implementation-Border-Gateway.md) — Zhao vd. (2021) · *IEEE Access* · hakemli · atıf: 19
+- [A Survey of Advanced Border Gateway Protocol Attack Detection Techniques](Arastirmalar/2024-Scott-Survey-Advanced-Border-Gateway.md) — Scott vd. (2024) · *Sensors* · hakemli · atıf: 14
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
