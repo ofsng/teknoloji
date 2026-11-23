@@ -80,7 +80,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **4**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **5**.
 
 - [High-performance annealing-free wurtzite ferroelectric field-effect transistors with ultrathin oxide semiconductors for neuromorphic computing](Arastirmalar/2026-Wang-High-performance-annealing-free.md) — Wang vd. (2026) · *Nature Communications* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -92,6 +92,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Cross-sectional geometry and doping co-optimization in triangular-channel gate-all-around FETs for the 2nm technology node](MOSFET/Kapi-Cevrelemeli-FET/Arastirmalar/2026-Cho-Cross-sectional-geometry-and.md) — Cho vd. (2026) · *Engineering Research Express* · hakemli
 - [Localized Trap-State Engineering of Subthreshold Swing in Amorphous In–Ga–O Thin-Film Transistors via Vertically Positioned Sn δ-Doping](Ince-Film-Transistorler/Arastirmalar/2026-Lee-Localized-Trap-State-Engineering.md) — Lee vd. (2026) · *ACS Applied Materials & Interfaces* · hakemli
 - [High-performance annealing-free wurtzite ferroelectric field-effect transistors with ultrathin oxide semiconductors for neuromorphic computing](Arastirmalar/2026-Wang-High-performance-annealing-free.md) — Wang vd. (2026) · *Nature Communications* · hakemli
 - [Sustainable and secure thin-film transistor platform with integrated optical–acoustic anticounterfeiting features for smart electronics](Ince-Film-Transistorler/Arastirmalar/2026-Biswas-Sustainable-and-secure-thin.md) — Biswas vd. (2026) · *Discover Applied Sciences* · hakemli

@@ -81,7 +81,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -91,6 +91,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Tunable coiled gradient nonlinear acoustic metamaterials for weak signal detection](Akustik-Metamalzemeler/Arastirmalar/2026-Chen-Tunable-coiled-gradient-nonlinear.md) — Chen vd. (2026) · *Journal of Vibration and Control* · hakemli
 - [Simulation of a Method for Detecting and Determining the Phase of Weak Underwater Acoustic Signals Based on the Analysis of the Spectrum of the Hydrophone Array Signal Matrix](Sualti-Akustigi/Arastirmalar/2026-Khobotov-Simulation-Method-for-Detecting.md) — Khobotov vd. (2026) · *Journal of Marine Science and Engineering* · hakemli
 <!-- AUTO:RECENT:END -->
 

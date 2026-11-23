@@ -79,7 +79,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **2**.
 
 - [Energy-Aware Scheduling Using Nature-Inspired Algorithms in Cloud Computing](Arastirmalar/2026-Memon-Energy-Aware-Scheduling-Using.md) — Memon vd. (2026) · *Computers* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -91,6 +91,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Serverless Computing: A Survey of Programming Model, Orchestration, and Opportunities](Sunucusuz-Hesaplama/Arastirmalar/2026-Chen-Serverless-Computing-Survey-Programming.md) — Chen vd. (2026) · *ACM Computing Surveys* · hakemli
 - [Energy-Aware Scheduling Using Nature-Inspired Algorithms in Cloud Computing](Arastirmalar/2026-Memon-Energy-Aware-Scheduling-Using.md) — Memon vd. (2026) · *Computers* · hakemli
 <!-- AUTO:RECENT:END -->
 

@@ -77,7 +77,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **5**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **7**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -87,6 +87,8 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Optimizing energy efficiency in IoT enabled wireless sensor networks via Gegenbauer graph neural network](Kablosuz-Algilayici-Aglari/Arastirmalar/2026-S-Optimizing-energy-efficiency-IoT.md) — S. vd. (2026) · *Scientific Reports* · hakemli
+- [A composable weather-aware NS-3 module for compound environmental modelling in mobile ad hoc network search-and-rescue simulation](Mobil-Ad-Hoc-Aglar/Arastirmalar/2026-Ghanem-composable-weather-aware-module.md) — Ghanem vd. (2026) · *SIMULATION* · hakemli
 - [A 3D distance-augmented Gauss-Markov mobility model for QoS improvement in Mobile Ad hoc Networks](Mobil-Ad-Hoc-Aglar/Arastirmalar/2026-Barbhuyan-distance-augmented-Gauss-Markov.md) — Barbhuyan vd. (2026) · *Discover Computing* · hakemli
 - [Bio-Inspired Vehicular Ad-Hoc Network Routing Protocol A Review for VANET Security](Aracsal-Ad-Hoc-Aglar/Arastirmalar/2026-Fadhil-Bio-Inspired-Vehicular-Hoc.md) — Fadhil vd. (2026) · *Journal of Information and Cybersecurity* · hakemli
 - [FSTDO: a hybrid heuristic-algorithm-based multi-objective function formulation for multipath routing mechanism in MANET](Mobil-Ad-Hoc-Aglar/Arastirmalar/2026-Brahmaiah-FSTDO-hybrid-heuristic-algorithm.md) — Brahmaiah vd. (2026) · *Journal of Statistical Computation and Simulation* · hakemli

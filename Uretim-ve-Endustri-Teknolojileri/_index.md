@@ -90,7 +90,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **29**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **30**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -100,6 +100,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Comparative study of local dry underwater and dry gas metal arc welding of mild steel](Birlestirme-Surecleri/Kaynak/Ark-Kaynagi/Arastirmalar/2026-Yadav-Comparative-study-local-dry.md) — Yadav vd. (2026) · *International Journal of Intelligent Unmanned Systems* · hakemli
 - [Bridging the simulation-to-reality gap in sheet metal forming via delta modeling](Sekillendirme-Surecleri/Sac-Metal-Sekillendirme/Arastirmalar/2026-Baum-Bridging-the-simulation-reality.md) — Baum vd. (2026) · *Production Engineering* · hakemli
 - [Components, Capabilities, Challenges, Characteristics of Reconfigurable Manufacturing System](Uretim-Sistemleri/Yeniden-Yapilandirilabilir-Uretim-Sistemleri/Arastirmalar/2026-Hiwase-Components-Capabilities-Challenges-Charac.md) — Hiwase vd. (2026) · *International Journal of Science and Research (IJSR)* · hakemli
 - [A volumetric additive manufacturing machine learning and video-correction method for engineering gelatin methacryloyl and poly(ethylene glycol) diacrylate hydrogel spheres and assembloids](Eklemeli-Imalat/Hazne-Fotopolimerizasyonu/Hacimsel-Eklemeli-Imalat/Arastirmalar/2026-Wheeler-volumetric-additive-manufacturing-machin.md) — Wheeler vd. (2026) · *Biofabrication* · hakemli
@@ -107,7 +108,6 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [A generic knowledge-based model for manufacturing machine reconfiguration in reconfigurable manufacturing systems](Uretim-Sistemleri/Yeniden-Yapilandirilabilir-Uretim-Sistemleri/Arastirmalar/2026-Allibe-generic-knowledge-based-model.md) — Allibe vd. (2026) · *International Journal of Production Research* · hakemli
 - [Load-Aware Metaheuristics for Green Multi-Depot Heterogeneous-Fleet Vehicle Routing: When Does the Load Term Matter?](Endustri-Muhendisligi/Tedarik-Zinciri-Muhendisligi/Lojistik-Optimizasyonu/Arastirmalar/2026-Frikha-Load-Aware-Metaheuristics-for.md) — Frikha vd. (2026) · *Mathematics* · hakemli
 - [Justification of 4D printing over 3D printing for IoT and mechatronics applications using fuzzy analytical hierarchy process](Eklemeli-Imalat/4B-Baski/Arastirmalar/2026-Kumari-Justification-printing-over-printing.md) — Kumari vd. (2026) · *Journal of Intelligent & Fuzzy Systems* · hakemli
-- [Analysis of interfacial force interaction in the internal polymer flow in the hot end of material extrusion additive manufacturing](Eklemeli-Imalat/Malzeme-Ekstruzyonu/Arastirmalar/2026-Nzebuka-Analysis-interfacial-force-interaction.md) — Nzebuka vd. (2026) · *The International Journal of Advanced Manufacturing Technology* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

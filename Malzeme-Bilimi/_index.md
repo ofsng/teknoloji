@@ -91,7 +91,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **18**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **19**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -101,6 +101,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Thermal Barrier Coatings (TBC) For Carbon Fiber-Reinforced Polymer (CFRP) Composites: A Review](Kompozit-Malzemeler/Polimer-Matrisli-Kompozitler/Karbon-Fiber-Takviyeli-Polimerler/Arastirmalar/2026-Mahardika-Thermal-Barrier-Coatings-TBC.md) — Mahardika vd. (2026) · *International Journal of Health Sciences* · hakemli
 - [Atomistic Study of Alloying Effects in (Bi1– x Sb x )2Te3 Thermoelectric Materials Using Neuroevolution Potentials](Elektronik-ve-Optik-Malzemeler/Termoelektrik-Malzemeler/Arastirmalar/2026-Kushwaha-Atomistic-Study-Alloying-Effects.md) — Kushwaha vd. (2026) · *ACS Applied Energy Materials* · hakemli
 - [Recent advances in thermoelectric materials: Mechanism-driven design and systematic optimization](Elektronik-ve-Optik-Malzemeler/Termoelektrik-Malzemeler/Arastirmalar/2026-Zhang-Recent-advances-thermoelectric-materials.md) — Zhang vd. (2026) · *International Journal of Modern Physics B* · hakemli
 - [A Comprehensive Training Course from the Production of Membrane Bound Proteins to Single Particle Cryo-Electron Microscopy 3D Reconstruction](Malzeme-Karakterizasyonu/Elektron-Mikroskobisi/Kriyo-Elektron-Mikroskobisi/Arastirmalar/2026-Valimehr-Comprehensive-Training-Course-from.md) — Valimehr vd. (2026) · *Journal of Chemical Education* · hakemli
@@ -108,7 +109,6 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [Unsupervised reward-driven image segmentation in automated scanning transmission electron microscopy experiments](Malzeme-Karakterizasyonu/Elektron-Mikroskobisi/Gecirimli-Elektron-Mikroskobisi/Arastirmalar/2026-Barakati-Unsupervised-reward-driven-image.md) — Barakati vd. (2026) · *Nanotechnology* · hakemli · atıf: 8
 - [Green chemistry and biodegradable polymers: an environmental perspective](Polimer-Bilimi/Biyobozunur-Polimerler/Arastirmalar/2026-Seyidova-Green-chemistry-and-biodegradable.md) — Seyidova vd. (2026) · *International Journal of Environmental Science and Technology* · hakemli
 - [Artificial Intelligence-Driven Discovery and Autonomous Optimization of Perovskite Photovoltaics: From Materials Design and Property Prediction to Self-Driving Laboratories](Hesaplamali-Malzeme-Bilimi/Malzeme-Enformatigi/Otonom-Laboratuvarlar/Arastirmalar/2026-Mahiny-Artificial-Intelligence-Driven-Discovery.md) — Mahiny vd. (2026) · *ACS Materials Au* · hakemli
-- [Fluorescence Detection of Fe(II) Senses Mechanistic Differences in Pitting Corrosion between 3D-Printed and Wrought Stainless Steel 304](Metalik-Malzemeler/Celikler/Paslanmaz-Celikler/Arastirmalar/2026-Li-Fluorescence-Detection-Senses-Mechanistic.md) — Li vd. (2026) · *ACS Applied Engineering Materials* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

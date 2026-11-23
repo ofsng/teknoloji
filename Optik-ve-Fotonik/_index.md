@@ -96,7 +96,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **21**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **22**.
 
 - [Beyond the lossless idealization: disturbance, losses, and real-air detection limits of a topological photonic crystal gas sensor](Arastirmalar/2026-Elsayed-Beyond-the-lossless-idealization.md) — Elsayed vd. (2026) · *Modern Physics Letters B* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -108,6 +108,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [MoO₂-Coated Photonic Crystal Fiber Biosensor for High-Sensitivity Detection of Cancer Cells](Optik-Fiberler/Fotonik-Kristal-Fiberler/Arastirmalar/2026-Zhai-MoO2-Coated-Photonic-Crystal.md) — Zhai vd. (2026) · *Plasmonics* · hakemli
 - [High-brightness 500 W-class fiber-combined blue semiconductor laser](Lazerler/Yari-Iletken-Lazerler/Arastirmalar/2026-Du-High-brightness-500-class.md) — Du vd. (2026) · *Applied Optics* · hakemli
 - [Nondoped Blue and Two Color Hybrid White Organic Light Emitting Diodes Using a New Bipolar Blue Emitter](Isik-Kaynaklari/Arastirmalar/2026-Oh-Nondoped-Blue-and-Two.md) — Oh vd. (2026) · *Applied Sciences* · hakemli
 - [ANALYSIS OF ELECTRIC CROSSTALK IN SILICON PHOTONIC INTEGRATED CIRCUITS](Tumlesik-Fotonik/Silisyum-Fotonik/Arastirmalar/2026-Abaychi-ANALYSIS-ELECTRIC-CROSSTALK-SILICON.md) — Abaychi vd. (2026) · *Kufa Journal of Engineering* · hakemli
@@ -115,7 +116,6 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [Ultra-low-intensity noise broadband femtosecond pulse generation in an Er-doped all-fiber laser](Lazerler/Fiber-Lazerler/Arastirmalar/2026-Yan-Ultra-low-intensity-noise.md) — Yan vd. (2026) · *Advanced Photonics Nexus* · hakemli
 - [Beyond the lossless idealization: disturbance, losses, and real-air detection limits of a topological photonic crystal gas sensor](Arastirmalar/2026-Elsayed-Beyond-the-lossless-idealization.md) — Elsayed vd. (2026) · *Modern Physics Letters B* · hakemli
 - [Mapping the High-Field Response of Superconducting Nanowire Single-Photon Detectors](Fotodedektorler/Superiletken-Nanotel-Tek-Foton-Dedektorleri/Arastirmalar/2026-Agarwal-Mapping-the-High-Field.md) — Agarwal vd. (2026) · *arXiv* · ön baskı / hakemsiz
-- [Rational Selection of Hole Contacts with an Organic Light-Emitting Diode Industry p-Dopant for Fully Vacuum-Processed Perovskite/Silicon Tandems](Isik-Kaynaklari/Organik-Isik-Yayan-Diyotlar/Arastirmalar/2026-Moon-Rational-Selection-Hole-Contacts.md) — Moon vd. (2026) · *ACS Energy Letters* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

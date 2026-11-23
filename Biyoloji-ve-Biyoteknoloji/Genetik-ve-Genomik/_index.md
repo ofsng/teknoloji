@@ -86,7 +86,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **9**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **10**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -96,6 +96,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Dominant resistance alleles accelerate population suppression by CRISPR-based gene drive](Genom-Muhendisligi/Gen-Suruculeri/Arastirmalar/2026-Chen-Dominant-resistance-alleles-accelerate.md) — Chen vd. (2026) · *iScience* · hakemli · atıf: 1
 - [Protocol for CRISPR-Cas9 gene editing of murine neutrophils for in vitro and in vivo mechanistic studies](Genom-Muhendisligi/Gen-Duzenleme/CRISPR-Cas-Sistemleri/CRISPR-Cas9/Arastirmalar/2026-Siwicki-Protocol-for-CRISPR-Cas9.md) — Siwicki vd. (2026) · *STAR Protocols* · hakemli
 - [Base editing-mediated precision genome engineering in Toxoplasma gondii](Genom-Muhendisligi/Gen-Duzenleme/CRISPR-Cas-Sistemleri/Baz-Duzenleme/Arastirmalar/2026-Liu-Base-editing-mediated-precision.md) — Liu vd. (2026) · *PLoS neglected tropical diseases* · hakemli
 - [Long-read sequencing of the Amami rabbit mitochondrial genome reveals extensive tandem repeats in the D-loop region overlooked in previous assemblies](DNA-Dizileme/Uzun-Okuma-Dizileme/Arastirmalar/2026-Aoto-Long-read-sequencing-the.md) — Aoto vd. (2026) · *Scientific Reports* · hakemli
@@ -103,7 +104,6 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [DNA methylation and Polycomb-mediated repression at plant transposable elements: Antagonism, cooperation and a continuum of epigenetic silencing states](Epigenetik/DNA-Metilasyonu/Arastirmalar/2026-Hure-DNA-methylation-and-Polycomb.md) — Hure vd. (2026) · *Current Opinion in Plant Biology* · hakemli
 - [Cases of tick-borne encephalitis identified by metagenomic next-generation sequencing, China](DNA-Dizileme/Yeni-Nesil-Dizileme/Arastirmalar/2026-Zhang-Cases-tick-borne-encephalitis.md) — Zhang vd. (2026) · *ASM Case Reports* · hakemli
 - [Metagenomic next-generation sequencing as an adjunctive diagnostic tool for Clonorchis sinensis infection: a case report](DNA-Dizileme/Yeni-Nesil-Dizileme/Arastirmalar/2026-Zhang-Metagenomic-next-generation-sequencing.md) — Zhang vd. (2026) · *Future Microbiology* · hakemli
-- [Adjusting for medication status in genome-wide association studies](Insan-Genetigi/Genom-Boyu-Iliskilendirme-Calismalari/Arastirmalar/2026-Chong-Adjusting-for-medication-status.md) — Chong vd. (2026) · *PLoS Genetics* · hakemli · atıf: 2
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

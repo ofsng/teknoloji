@@ -77,7 +77,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **2**.
 
 - [Efficient quantum convolutional neural networks for image classification: overcoming hardware constraints](Arastirmalar/2026-Roseler-Efficient-quantum-convolutional-neural.md) — Röseler vd. (2026) · *Quantum Machine Intelligence* · hakemli · atıf: 10
 <!-- AUTO:RESEARCH:END -->
@@ -89,6 +89,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [An Improved Systolic Array for Efficient Depthwise Separable Convolution](Derinlik-Ayrilabilir-Evrisimler/Arastirmalar/2026-Jo-Improved-Systolic-Array-for.md) — Jo vd. (2026) · *한국통신학회논문지* · hakemli
 - [Efficient quantum convolutional neural networks for image classification: overcoming hardware constraints](Arastirmalar/2026-Roseler-Efficient-quantum-convolutional-neural.md) — Röseler vd. (2026) · *Quantum Machine Intelligence* · hakemli · atıf: 10
 <!-- AUTO:RECENT:END -->
 

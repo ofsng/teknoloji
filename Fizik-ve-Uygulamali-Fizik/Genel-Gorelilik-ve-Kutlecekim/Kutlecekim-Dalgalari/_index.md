@@ -79,7 +79,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 Arşivdeki kayıtlar — bu düğüm: **4**, alt teknolojiler dahil: **6**.
 
 - [Exorcising ghosts with gravitational waves](Arastirmalar/2026-Lambiase-Exorcising-ghosts-with-gravitational.md) — Lambiase vd. (2026) · *Physical Review Letters* · hakemli · atıf: 5
-- [Nonthermal leptogenesis via cosmological gravitational particle production is tested by inflationary gravitational waves](Arastirmalar/2026-Chowdhury-Nonthermal-leptogenesis-via-cosmologic.md) — Chowdhury vd. (2026) · *Physical review. D/Physical review. D.* · hakemli · atıf: 2
+- [Nonthermal leptogenesis via cosmological gravitational particle production is tested by inflationary gravitational waves](Arastirmalar/2026-Chowdhury-Nonthermal-leptogenesis-via-cosmologic.md) — Chowdhury vd. (2026) · *Physical review. D/Physical review. D.* · hakemli · atıf: 4
 - [Bayesian nonparametric estimation of correlated gravitational wave detector network noise using matrix-gamma process priors](Arastirmalar/2026-Liu-Bayesian-nonparametric-estimation-correlated.md) — Liu vd. (2026) · *Physical review. D/Physical review. D.* · hakemli · atıf: 2
 - [Three-dimensional wave optics for weak-field lensing of gravitational waves](Arastirmalar/2026-Carrillo-Gonzalez-Three-dimensional-wave-optics.md) — Carrillo-González vd. (2026) · *Monthly Notices of the Royal Astronomical Society* · hakemli · atıf: 1
 <!-- AUTO:RESEARCH:END -->
@@ -95,7 +95,7 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [Three-dimensional wave optics for weak-field lensing of gravitational waves](Arastirmalar/2026-Carrillo-Gonzalez-Three-dimensional-wave-optics.md) — Carrillo-González vd. (2026) · *Monthly Notices of the Royal Astronomical Society* · hakemli · atıf: 1
 - [Exorcising ghosts with gravitational waves](Arastirmalar/2026-Lambiase-Exorcising-ghosts-with-gravitational.md) — Lambiase vd. (2026) · *Physical Review Letters* · hakemli · atıf: 5
 - [Bayesian nonparametric estimation of correlated gravitational wave detector network noise using matrix-gamma process priors](Arastirmalar/2026-Liu-Bayesian-nonparametric-estimation-correlated.md) — Liu vd. (2026) · *Physical review. D/Physical review. D.* · hakemli · atıf: 2
-- [Nonthermal leptogenesis via cosmological gravitational particle production is tested by inflationary gravitational waves](Arastirmalar/2026-Chowdhury-Nonthermal-leptogenesis-via-cosmologic.md) — Chowdhury vd. (2026) · *Physical review. D/Physical review. D.* · hakemli · atıf: 2
+- [Nonthermal leptogenesis via cosmological gravitational particle production is tested by inflationary gravitational waves](Arastirmalar/2026-Chowdhury-Nonthermal-leptogenesis-via-cosmologic.md) — Chowdhury vd. (2026) · *Physical review. D/Physical review. D.* · hakemli · atıf: 4
 - [Full-Stokes response to a stochastic gravitational-wave background in pulsar timing arrays: Fully analytic overlap reduction functions at finite distance and coherence of close pulsar pairs](Pulsar-Zamanlama-Dizileri/Arastirmalar/2026-Zhou-Full-Stokes-response-stochastic.md) — Zhou vd. (2026) · *arXiv* · ön baskı / hakemsiz
 <!-- AUTO:RECENT:END -->
 

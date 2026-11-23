@@ -76,7 +76,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -86,6 +86,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [MoO₂-Coated Photonic Crystal Fiber Biosensor for High-Sensitivity Detection of Cancer Cells](Fotonik-Kristal-Fiberler/Arastirmalar/2026-Zhai-MoO2-Coated-Photonic-Crystal.md) — Zhai vd. (2026) · *Plasmonics* · hakemli
 - [(OFC 2026) When Less is More: Emerging Network-Wide Use Cases for Hollow-Core Fibers in Optical Networks (Invited)](Oyuk-Cekirdekli-Fiberler/Arastirmalar/2026-Ibrahimi-OFC-2026-When-Less.md) — Ibrahimi vd. (2026) · *Journal of Optical Communications and Networking* · hakemli
 <!-- AUTO:RECENT:END -->
 

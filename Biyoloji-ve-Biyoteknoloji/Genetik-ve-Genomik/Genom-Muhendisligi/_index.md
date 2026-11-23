@@ -77,7 +77,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **3**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -87,6 +87,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Dominant resistance alleles accelerate population suppression by CRISPR-based gene drive](Gen-Suruculeri/Arastirmalar/2026-Chen-Dominant-resistance-alleles-accelerate.md) — Chen vd. (2026) · *iScience* · hakemli · atıf: 1
 - [Protocol for CRISPR-Cas9 gene editing of murine neutrophils for in vitro and in vivo mechanistic studies](Gen-Duzenleme/CRISPR-Cas-Sistemleri/CRISPR-Cas9/Arastirmalar/2026-Siwicki-Protocol-for-CRISPR-Cas9.md) — Siwicki vd. (2026) · *STAR Protocols* · hakemli
 - [Base editing-mediated precision genome engineering in Toxoplasma gondii](Gen-Duzenleme/CRISPR-Cas-Sistemleri/Baz-Duzenleme/Arastirmalar/2026-Liu-Base-editing-mediated-precision.md) — Liu vd. (2026) · *PLoS neglected tropical diseases* · hakemli
 <!-- AUTO:RECENT:END -->

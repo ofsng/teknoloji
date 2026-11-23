@@ -79,7 +79,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -89,6 +89,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Recent Trends and Challenges in Deep Learning-Based CSI Feedback in Massive MIMO Systems](Masif-MIMO/Arastirmalar/2026-Kim-Recent-Trends-and-Challenges.md) — Kim vd. (2026) · *한국통신학회논문지* · hakemli
 - [Joint Clustering, Association, and Power Allocation in Cell-Free Massive MIMO-NOMA](Hucresiz-Masif-MIMO/Arastirmalar/2026-Hiremath-Joint-Clustering-Association-and.md) — Hiremath vd. (2026) · *International Journal of Electronics and Communication Engineering* · hakemli
 <!-- AUTO:RECENT:END -->
 

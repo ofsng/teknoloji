@@ -86,7 +86,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **4**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **6**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -96,6 +96,8 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Cross-sectional geometry and doping co-optimization in triangular-channel gate-all-around FETs for the 2nm technology node](Alan-Etkili-Transistorler/MOSFET/Kapi-Cevrelemeli-FET/Arastirmalar/2026-Cho-Cross-sectional-geometry-and.md) — Cho vd. (2026) · *Engineering Research Express* · hakemli
+- [Sustainable Alumina/Silk Fibroin Hybrid Dielectrics for Low-Temperature Fabrication of Flexible Organic Electronics](Organik-Elektronik/Arastirmalar/2026-Natali-Sustainable-Alumina-Silk-Fibroin.md) — Natali vd. (2026) · *ACS Omega* · hakemli
 - [Localized Trap-State Engineering of Subthreshold Swing in Amorphous In–Ga–O Thin-Film Transistors via Vertically Positioned Sn δ-Doping](Alan-Etkili-Transistorler/Ince-Film-Transistorler/Arastirmalar/2026-Lee-Localized-Trap-State-Engineering.md) — Lee vd. (2026) · *ACS Applied Materials & Interfaces* · hakemli
 - [High-performance annealing-free wurtzite ferroelectric field-effect transistors with ultrathin oxide semiconductors for neuromorphic computing](Alan-Etkili-Transistorler/Arastirmalar/2026-Wang-High-performance-annealing-free.md) — Wang vd. (2026) · *Nature Communications* · hakemli
 - [Sustainable and secure thin-film transistor platform with integrated optical–acoustic anticounterfeiting features for smart electronics](Alan-Etkili-Transistorler/Ince-Film-Transistorler/Arastirmalar/2026-Biswas-Sustainable-and-secure-thin.md) — Biswas vd. (2026) · *Discover Applied Sciences* · hakemli

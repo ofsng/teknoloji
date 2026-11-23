@@ -84,7 +84,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **13**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **14**.
 
 - [Modelling Emergent Phenomena in Quantum Materials: Theoretical and Computational Advances in Condensed Matter Physics](Arastirmalar/2026-Arshad-Modelling-Emergent-Phenomena-Quantum.md) — Arshad vd. (2026) · *Asian Journal of Advanced Research and Reports* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -101,9 +101,9 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [Computational complexity of Berry phase estimation in topological phases of matter](Maddenin-Topolojik-Fazlari/Arastirmalar/2026-Hayakawa-Computational-complexity-Berry-phase.md) — Hayakawa vd. (2026) · *Quantum* · hakemli · atıf: 6
 - [Modelling Emergent Phenomena in Quantum Materials: Theoretical and Computational Advances in Condensed Matter Physics](Arastirmalar/2026-Arshad-Modelling-Emergent-Phenomena-Quantum.md) — Arshad vd. (2026) · *Asian Journal of Advanced Research and Reports* · hakemli
 - [Semiclassical picture of the Heisenberg spin glass in two dimensions](Duzensiz-Sistemler/Arastirmalar/2026-Bracci-Testasecca-Semiclassical-picture-the-Heis.md) — Bracci-Testasecca vd. (2026) · *Physical review. B./Physical review. B* · hakemli · atıf: 4
+- [Agile spatiospectral and spatiotemporal optical vortices and skyrmions\\from liquid crystal textures](Yumusak-Yogun-Madde/Sivi-Kristaller/Arastirmalar/2026-Alonso-Agile-spatiospectral-and-spatiotemporal.md) — Alonso vd. (2026) · *Optica* · hakemli · atıf: 1
 - [Ion‐Modulated All‑Van Der Waals Spin–Orbit Torque Magnetic Tunnel Junctions With Multilevel Switching](Manyetizma/Spintronik/Manyetik-Tunel-Eklemleri/Arastirmalar/2026-Tian-IonModulated-AllVan-Der-Waals.md) — Tian vd. (2026) · *Advanced Functional Materials* · hakemli
 - [Evidence of Polarons and Their Ultrafast Optical Undressing in a Topological Semimetal](Maddenin-Topolojik-Fazlari/Topolojik-Yari-Metaller/Arastirmalar/2026-Hou-Evidence-Polarons-and-Their.md) — Hou vd. (2026) · *Nano Letters* · hakemli
-- [Robust power-law computing for edge intelligence using spin-orbit torque magnetic tunnel junctions](Manyetizma/Spintronik/Arastirmalar/2026-Xiong-Robust-power-law-computing.md) — Xiong vd. (2026) · *Applied Physics Reviews* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

@@ -79,7 +79,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **2**.
 
 - [Experimental Assessment of Heat Transfer Enhancement in an Air Duct Using Removable Helical Rib Inserts with Pitch Ratios](Arastirmalar/2026-Hamad-Experimental-Assessment-Heat-Transfer.md) — Hamad vd. (2026) · *Journal of Engineering Research and Reports* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -91,6 +91,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [A direct experimental link between three-phase contact line behavior and microscale heat transfer mechanisms beneath individual bubbles](Mikro-Olcekli-Isi-Transferi/Arastirmalar/2026-Roodbari-direct-experimental-link-between.md) — Roodbari vd. (2026) · *International Journal of Heat and Mass Transfer* · hakemli
 - [Experimental Assessment of Heat Transfer Enhancement in an Air Duct Using Removable Helical Rib Inserts with Pitch Ratios](Arastirmalar/2026-Hamad-Experimental-Assessment-Heat-Transfer.md) — Hamad vd. (2026) · *Journal of Engineering Research and Reports* · hakemli
 <!-- AUTO:RECENT:END -->
 

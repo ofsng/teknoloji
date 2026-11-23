@@ -374,6 +374,85 @@
   "url": "https://doi.org/10.1103/x55b-1cfv"
  },
  {
+  "added": "2026-11-23",
+  "arxiv": "2409.13642",
+  "candidates": [
+   [
+    "large-language-models",
+    7.18
+   ],
+   [
+    "multi-agent-systems",
+    4.8
+   ],
+   [
+    "deep-learning",
+    3.1
+   ],
+   [
+    "software-testing",
+    3.1
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.1145/3871043",
+  "keys": [
+   "arxiv:2409.13642",
+   "doi:10.1145/3871043",
+   "title:llm4flmultiagentfaultlocalizationviagraphnavigationandverbalreasoning|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Locating and fixing software faults is challenging. Traditional Spectrum-Based Fault Localization (SBFL) uses test coverage and failure data but often suffers from low accuracy due to a lack of semantic understanding of code. Deep-learning approaches can improve localization, but require extensive training data and computational resources. Recent Large Language Models (LLMs) offer a promising alternative with stronger code reasoning capabilities. However, existing LLM-based fault localization techniques still struggle at the repository level due to large context windows and positional bias, in which important debugging signals may be buried in large contexts. In this work, we introduce LLM4FL , a multi-LLM-agent-based fault localization technique designed to address these challenges. LLM4FL uses three specialized agents. The Context Extraction Agent divides and prioritizes covered methods into token-fitting groups using an order-aware strategy based on Ochiai suspiciousness scores. The Debugger Agent navigates the repository through graph-based retrieval to generate failure reasoning and rank suspicious methods. The Reviewer Agent then re-evaluates and re-ranks the results through iterative self-refinement and verbal reasoning. Evaluated on Defects4J, LLM4FL improves Top-1 accuracy over prior LLM-based approaches, including AutoFL and SoapFL , by 14.5% and 4.58%, respectively. Our ablation study further highlights the importance of LLM4FL's design choices, with failure reason generation improving Top-1 performance by 12.5% and order-aware division substantially improving localization accuracy by 18.07%.",
+   "abstract_license": null,
+   "arxiv": "2409.13642",
+   "authors": [
+    "Md Nakhla Rafi",
+    "Dong Jae Kim",
+    "Tse-Hsun Peter Chen",
+    "Shaowei Wang"
+   ],
+   "categories": [
+    "OpenAlex-field:Computer Science"
+   ],
+   "cited_by_count": 33,
+   "doi": "10.1145/3871043",
+   "is_retracted": false,
+   "keywords": [
+    "fault location",
+    "large language models",
+    "multi-agent systems",
+    "spectrum-based fault localization",
+    "graph-based retrieval",
+    "verbal reasoning",
+    "self-refinement",
+    "Defects4J"
+   ],
+   "language": "en",
+   "oa_created": "2024-10-26",
+   "peer_reviewed": true,
+   "publication": "ACM Transactions on Software Engineering and Methodology",
+   "publication_type": "article",
+   "published_date": "2026-11-20",
+   "related_versions": [],
+   "source_ids": [
+    "openalex:W4403780002"
+   ],
+   "title": "LLM4FL: Multi-Agent Fault Localization via Graph Navigation and Verbal Reasoning",
+   "topics": [
+    "Software Testing and Debugging Techniques",
+    "Software"
+   ],
+   "updated_date": "2026-11-23",
+   "url": "https://doi.org/10.1145/3871043"
+  },
+  "score": 7.18,
+  "seen": 1,
+  "suggested": "large-language-models",
+  "title": "LLM4FL: Multi-Agent Fault Localization via Graph Navigation and Verbal Reasoning",
+  "url": "https://doi.org/10.1145/3871043"
+ },
+ {
   "added": "2026-11-05",
   "arxiv": "2611.04574",
   "candidates": [
@@ -746,6 +825,272 @@
   "url": "https://doi.org/10.1126/sciadv.aee5380"
  },
  {
+  "added": "2026-11-23",
+  "arxiv": "2509.18321",
+  "candidates": [
+   [
+    "magnonics",
+    6.75
+   ],
+   [
+    "condensed-matter-physics",
+    3.7
+   ],
+   [
+    "neuromorphic-computing",
+    1.8
+   ],
+   [
+    "wave-propagation",
+    1.2
+   ],
+   [
+    "spectroscopy",
+    0.52
+   ],
+   [
+    "pumps",
+    0.26
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.1126/sciadv.aeg1429",
+  "keys": [
+   "arxiv:2509.18321",
+   "doi:10.1126/sciadv.aeg1429",
+   "title:anallmagnonicneuronwithtunablefadingmemory|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Magnonics offers nanometer-scale wave propagation and strong nonlinearities, making it attractive for neuromorphic applications such as artificial neurons. Yet, magnonic elements with interconnections solely within the magnonic system remain challenging, preventing the realization of interconnected magnonic neurons to date. Here, we experimentally demonstrate an all-magnonic neuron that reacts to magnon inputs with thresholded, amplified magnon firing and subsequent self-reset, enabling all-magnonic operation and cascading. Our approach is based on micro-antenna excitation on an ultralow damping garnet with perpendicular magnetic anisotropy, where we exploit the positive magnon frequency shift to realize nonlinear activation. Using Brillouin light scattering spectroscopy, we uncover a transient neuron response with tunable fading memory: A 25% change in pump power results in a three-order-of-magnitude tuning in memory time, which we harness, demonstrating temporal integration of up to 50 magnon pulses. Last, we realize neuron triggering in a cascade of three neurons, highlighting its potential for connected magnonic circuits.",
+   "abstract_license": "cc-by",
+   "arxiv": "2509.18321",
+   "authors": [
+    "David Breitbach",
+    "Moritz Bechberger",
+    "Hanadi Mortada",
+    "Björn Heinz",
+    "Roman V. Verba",
+    "Qi Wang",
+    "Carsten Dubs",
+    "Mario Carpentieri",
+    "Giovanni Finocchio",
+    "Davi R. Rodrigues",
+    "Alexandre Abbass Hamadeh",
+    "Philipp Pirro"
+   ],
+   "categories": [
+    "OpenAlex-field:Physics and Astronomy"
+   ],
+   "cited_by_count": 13,
+   "doi": "10.1126/sciadv.aeg1429",
+   "is_retracted": false,
+   "keywords": [
+    "magnonics",
+    "artificial neurons",
+    "neuromorphic computing",
+    "fading memory",
+    "perpendicular magnetic anisotropy",
+    "nonlinear activation",
+    "temporal integration"
+   ],
+   "language": "en",
+   "oa_created": "2025-10-10",
+   "peer_reviewed": true,
+   "publication": "Science Advances",
+   "publication_type": "article",
+   "published_date": "2026-11-20",
+   "related_versions": [],
+   "source_ids": [
+    "openalex:W4416257679"
+   ],
+   "title": "An all-magnonic neuron with tunable fading memory",
+   "topics": [
+    "Magnetic properties of thin films",
+    "Condensed Matter Physics"
+   ],
+   "updated_date": "2026-11-23",
+   "url": "https://doi.org/10.1126/sciadv.aeg1429"
+  },
+  "score": 6.75,
+  "seen": 1,
+  "suggested": "magnonics",
+  "title": "An all-magnonic neuron with tunable fading memory",
+  "url": "https://doi.org/10.1126/sciadv.aeg1429"
+ },
+ {
+  "added": "2026-11-23",
+  "arxiv": "2404.08564",
+  "candidates": [
+   [
+    "knowledge-distillation",
+    6.14
+   ],
+   [
+    "federated-learning",
+    6.14
+   ],
+   [
+    "continual-learning",
+    5.74
+   ],
+   [
+    "large-language-models",
+    4.34
+   ],
+   [
+    "natural-language-processing",
+    4.34
+   ],
+   [
+    "computer-vision",
+    3.74
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.1145/3857792",
+  "keys": [
+   "arxiv:2404.08564",
+   "doi:10.1145/3857792",
+   "title:federateddistillationasurvey|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Federated learning (FL) enables collaborative model training without centralizing clients’ raw data, but parameter exchange can impose substantial communication costs and usually requires compatible model architectures. Federated distillation (FD) instead transfers predictive or intermediate knowledge through knowledge distillation (KD), which can support heterogeneous models and reduce communication in suitable settings. These benefits are not automatic: their magnitude depends on the transmitted knowledge, reference data, communication schedule, and threat model. This survey provides a challenge-centered synthesis of FD. We first formalize a representative public-data, response-based FD protocol and then organize existing methods by the FL challenges they address, including data, system, and model heterogeneity, client drift, catastrophic forgetting, communication cost, and privacy risk. We further review applications in industrial engineering, computer vision, natural language processing, and healthcare, including recent federated adaptation of large language models. Finally, we identify five research priorities: richer transferred knowledge, joint treatment of interacting forms of heterogeneity, communication-aware distillation, threat-model-driven privacy protection, and standardized theory, benchmarks, and evaluation.",
+   "abstract_license": "cc-by",
+   "arxiv": "2404.08564",
+   "authors": [
+    "Li Lin",
+    "Jianping Gou",
+    "Baosheng Yu",
+    "Lan Du",
+    "Tao Zhang",
+    "Dacheng Tao"
+   ],
+   "categories": [
+    "OpenAlex-field:Computer Science"
+   ],
+   "cited_by_count": 40,
+   "doi": "10.1145/3857792",
+   "is_retracted": false,
+   "keywords": [
+    "federated distillation",
+    "federated learning",
+    "knowledge distillation",
+    "model heterogeneity",
+    "communication overhead",
+    "catastrophic forgetting",
+    "client drift",
+    "privacy risks",
+    "threat model"
+   ],
+   "language": "en",
+   "oa_created": "2024-04-16",
+   "peer_reviewed": true,
+   "publication": "ACM Computing Surveys",
+   "publication_type": "article",
+   "published_date": "2026-11-20",
+   "related_versions": [],
+   "source_ids": [
+    "openalex:W4394839129"
+   ],
+   "title": "Federated Distillation: A Survey",
+   "topics": [
+    "Privacy-Preserving Technologies in Data",
+    "Artificial Intelligence"
+   ],
+   "updated_date": "2026-11-23",
+   "url": "https://doi.org/10.1145/3857792"
+  },
+  "score": 6.14,
+  "seen": 1,
+  "suggested": "knowledge-distillation",
+  "title": "Federated Distillation: A Survey",
+  "url": "https://doi.org/10.1145/3857792"
+ },
+ {
+  "added": "2026-11-23",
+  "arxiv": "2606.30713",
+  "candidates": [
+   [
+    "dark-matter",
+    6.92
+   ],
+   [
+    "cosmic-microwave-background",
+    4.02
+   ],
+   [
+    "astronomy-and-astrophysics",
+    3.7
+   ],
+   [
+    "cosmology",
+    2.73
+   ],
+   [
+    "clustering",
+    0.26
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.1103/1nvh-twns",
+  "keys": [
+   "arxiv:2606.30713",
+   "doi:10.1103/1nvh-twns",
+   "title:galaxypowerspectrumattwolooporderimplicationsforweaklensingsurveysandnewphysics|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "We compute the galaxy power spectrum at two-loop order in cosmological perturbation theory (effective field theory, EFT). We derive galaxy bias operators through the fifth order and obtain two-loop renormalization conditions for their bias coefficients. We also derive the relevant higher-derivative and stochastic contributions, and implement IR resummation using . We obtain complete dark-matter and galaxy renormalization conditions for the higher-derivative operators at the power spectrum, bispectrum, and trispectrum level. Having identified the redundant operators, we find that the two-loop galaxy-galaxy and galaxy-matter power spectra require 28 additional bias, higher derivative, and stochastic parameters per galaxy sample relative to the one-loop model. We compare our computation with the galaxy-galaxy and galaxy-matter power spectra from the PT Challenge N-body simulation at z = 0.61 and find a per mille-level agreement up to k = 0.85 h Mpc − 1 . We show that even with conservative priors on all EFT parameters, the two-loop model produces an unbiased measurement of the mass fluctuation amplitude σ 8 with three times narrower error-bars than the linear theory model. The improvement over the one-loop model is ≃ 40 % . This suggests significant gains in the two-loop EFT analyses of galaxy clustering and galaxy–lensing two-point functions (`` 2 × 2 pt’’) from CMB lensing maps and imaging surveys like Euclid, LSST, and Roman. In addition, our two-loop computation offers a probe of new physics scenarios that modify the shape of the matter power spectrum at wavenumbers ( 0.4 − 0.8 ) h Mpc − 1 such as the presence of ultra-light axion dark matter sub-components with masses m a ∼ 10 − 24 eV.",
+   "abstract_license": null,
+   "arxiv": "2606.30713",
+   "authors": [
+    "Mikhail M. Ivanov"
+   ],
+   "categories": [
+    "OpenAlex-field:Physics and Astronomy"
+   ],
+   "cited_by_count": 7,
+   "doi": "10.1103/1nvh-twns",
+   "is_retracted": false,
+   "keywords": [
+    "galaxy power spectrum",
+    "renormalization conditions",
+    "higher-derivative operators",
+    "stochastic operators",
+    "infrared resummation",
+    "sigma_8",
+    "weak gravitational lensing",
+    "CMB lensing",
+    "axion dark matter",
+    "modified gravity"
+   ],
+   "language": "en",
+   "oa_created": "2026-07-02",
+   "peer_reviewed": true,
+   "publication": "Physical review. D/Physical review. D.",
+   "publication_type": "article",
+   "published_date": "2026-11-20",
+   "related_versions": [],
+   "source_ids": [
+    "openalex:W7166872943"
+   ],
+   "title": "Galaxy power spectrum at two-loop order: Implications for weak lensing surveys and new physics",
+   "topics": [
+    "Cosmology and Gravitation Theories",
+    "Astronomy and Astrophysics"
+   ],
+   "updated_date": "2026-11-23",
+   "url": "https://doi.org/10.1103/1nvh-twns"
+  },
+  "score": 6.92,
+  "seen": 1,
+  "suggested": "dark-matter",
+  "title": "Galaxy power spectrum at two-loop order: Implications for weak lensing surveys and new physics",
+  "url": "https://doi.org/10.1103/1nvh-twns"
+ },
+ {
   "added": "2026-11-16",
   "arxiv": "2604.11897",
   "candidates": [
@@ -899,6 +1244,84 @@
   "url": "https://doi.org/10.1103/8hld-d211"
  },
  {
+  "added": "2026-11-23",
+  "arxiv": "2506.08083",
+  "candidates": [
+   [
+    "string-theory",
+    5.9
+   ],
+   [
+    "cosmic-microwave-background",
+    4.02
+   ],
+   [
+    "astronomy-and-astrophysics",
+    3.7
+   ],
+   [
+    "cosmology",
+    2.73
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.1142/s0218271826500719",
+  "keys": [
+   "arxiv:2506.08083",
+   "doi:10.1142/s0218271826500719",
+   "title:perturbativekahlermoduliinflation|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "In this work, we present two classes of inflationary models in the framework of type IIB string theory. The inflatons correspond to blow-up Kähler modulus arising from compactifying type IIB string theory on a Calabi–Yau. Using perturbative corrections, we first highlight a procedure for stabilizing more than one Kähler modulus. For the case of two Kähler moduli, we explicitly construct two classes of inflationary potentials within the Kähler cone which satisfy both EFT and cosmological constraints. The first class of models, arising from moduli redefinition of the blow-up mode, garners a potential of the form [Formula: see text] align with CMB data with scalar-to-tensor ratio [Formula: see text]. The second class of models, which have been recently proposed as loop blow-up inflation, have a form [Formula: see text], also agrees with CMB data with scalar-to tensor-ratio [Formula: see text]. Our work differs from the original loop blow-up inflation in terms of stabilization mechanism and subsequently the scalar-to tensor ratio.",
+   "abstract_license": null,
+   "arxiv": "2506.08083",
+   "authors": [
+    "Mishaal Hai",
+    "Ahmed Rakin Kamal",
+    "Noshin Ferdous Shamma",
+    "Md Shaikot Jahan Shuvo"
+   ],
+   "categories": [
+    "OpenAlex-field:Physics and Astronomy"
+   ],
+   "cited_by_count": 36,
+   "doi": "10.1142/s0218271826500719",
+   "is_retracted": false,
+   "keywords": [
+    "type IIB string theory",
+    "Calabi-Yau compactification",
+    "inflationary potential",
+    "Kähler cone",
+    "tensor-to-scalar ratio",
+    "CMB constraints",
+    "effective field theory constraints"
+   ],
+   "language": "en",
+   "oa_created": "2025-10-10",
+   "peer_reviewed": true,
+   "publication": "International Journal of Modern Physics D",
+   "publication_type": "article",
+   "published_date": "2026-11-20",
+   "related_versions": [],
+   "source_ids": [
+    "openalex:W4417253716"
+   ],
+   "title": "Perturbative Kähler moduli inflation",
+   "topics": [
+    "Cosmology and Gravitation Theories",
+    "Astronomy and Astrophysics"
+   ],
+   "updated_date": "2026-11-23",
+   "url": "https://doi.org/10.1142/s0218271826500719"
+  },
+  "score": 5.9,
+  "seen": 1,
+  "suggested": "string-theory",
+  "title": "Perturbative Kähler moduli inflation",
+  "url": "https://doi.org/10.1142/s0218271826500719"
+ },
+ {
   "added": "2026-11-15",
   "arxiv": "2611.16184",
   "candidates": [
@@ -1033,6 +1456,193 @@
   "suggested": "dark-energy",
   "title": "Testing General Relativity by Reconstructing Dark Energy and the Growth Index with Physics-Informed Neural Networks",
   "url": "https://arxiv.org/abs/2611.19117"
+ },
+ {
+  "added": "2026-11-23",
+  "arxiv": "2010.14694",
+  "candidates": [
+   [
+    "causal-inference",
+    5.64
+   ],
+   [
+    "deep-learning",
+    5.04
+   ],
+   [
+    "machine-learning",
+    3.6
+   ],
+   [
+    "statistics",
+    1.85
+   ],
+   [
+    "analysis",
+    1.85
+   ],
+   [
+    "optimization",
+    1.85
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.1080/01621459.2026.2763634",
+  "keys": [
+   "arxiv:2010.14694",
+   "doi:10.1080/01621459.2026.2763634",
+   "title:deeplearningforindividualheterogeneity|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "This paper integrates deep neural networks (DNNs) into structural models to increase flexibility and capture rich heterogeneity while preserving interpretability. Economic (or scientific or domain-restricted) structure and machine learning are complements in empirical modeling, not substitutes: DNNs provide the capacity to learn complex, nonlinear heterogeneity, while the structure ensures the estimates remain interpretable and suitable for decision-making and policy analysis. We start with a standard parametric structural model and then enrich its parameters into fully flexible functions, which are estimated using a DNN with the model structure built in. We illustrate our framework with an application to demand estimation in consumer choice. We show that by enriching a demand model we can capture rich heterogeneity exploit it to create personalized pricing. Optimization is not possible without structure, but cannot be heterogeneous without machine learning. The same lessons apply to precision dosing, adaptive treatment, educational testing, and other targeting settings. We provide theoretical justification for our proposed methodology: nonasymptotic bounds and a novel and general influence function for feasible inference via double machine learning, so that the latter can be easily applied in numerous new contexts. These results may be of interest in other contexts as they generalize prior work.",
+   "abstract_license": "cc-by-nc-nd",
+   "arxiv": "2010.14694",
+   "authors": [
+    "Max H. Farrell",
+    "Tengyuan Liang",
+    "Sanjog Misra"
+   ],
+   "categories": [
+    "OpenAlex-field:Mathematics"
+   ],
+   "cited_by_count": 60,
+   "doi": "10.1080/01621459.2026.2763634",
+   "is_retracted": false,
+   "keywords": [
+    "deep neural network",
+    "structural model",
+    "heterogeneity",
+    "consumer demand estimation",
+    "personalized pricing",
+    "double machine learning",
+    "influence function",
+    "non-asymptotic bounds",
+    "interpretability",
+    "precision dosing",
+    "adaptive therapy",
+    "educational testing",
+    "causal inference"
+   ],
+   "language": "en",
+   "oa_created": "2020-11-09",
+   "peer_reviewed": true,
+   "publication": "Journal of the American Statistical Association",
+   "publication_type": "article",
+   "published_date": "2026-11-20",
+   "related_versions": [],
+   "source_ids": [
+    "openalex:W3095138361"
+   ],
+   "title": "Deep Learning for Individual Heterogeneity*",
+   "topics": [
+    "Advanced Causal Inference Techniques",
+    "Statistics and Probability"
+   ],
+   "updated_date": "2026-11-23",
+   "url": "https://doi.org/10.1080/01621459.2026.2763634"
+  },
+  "score": 5.64,
+  "seen": 1,
+  "suggested": "causal-inference",
+  "title": "Deep Learning for Individual Heterogeneity*",
+  "url": "https://doi.org/10.1080/01621459.2026.2763634"
+ },
+ {
+  "added": "2026-11-23",
+  "arxiv": "2603.12196",
+  "candidates": [
+   [
+    "high-temperature-superconductors",
+    6.11
+   ],
+   [
+    "condensed-matter-physics",
+    5.9
+   ],
+   [
+    "superconductivity",
+    4.88
+   ],
+   [
+    "magnetism",
+    3.61
+   ],
+   [
+    "critical-minerals-processing",
+    1.08
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.1103/b884-4h1s",
+  "keys": [
+   "arxiv:2603.12196",
+   "doi:10.1103/b884-4h1s",
+   "title:superconductinghalfdomeinbilayernickelates|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Understanding how superconductivity emerges and collapses in correlated electron systems remains a central challenge in condensed matter physics. As a recently discovered member of the high temperature superconductor family, bilayer nickelates provide a new opportunity for examining this problem. Their pronounced sensitivity to oxygen stoichiometry, while posing challenges for stabilizing superconductivity, simultaneously offers an effective control parameter for tuning electronic phases. Here we report a superconducting half-dome in compressively strained bilayer nickelate thin films as a function of continuous tuning of oxygen stoichiometry. Starting from an optimally superconducting state, increasing oxygen stoichiometry gradually suppresses superconductivity toward a metallic phase, whereas decreasing oxygen stoichiometry drives a granular superconductor-to-insulator transition while leaving the superconducting onset intact. This half-dome structure is consistent with the contrasting roles played by interstitial oxygen versus oxygen vacancies—namely, the dominance of doping versus scattering. Notably, the half-dome emerges consistently across samples with different rare-earth combinations, with or without alkaline-earth doping, revealing a general feature of the bilayer nickelate phase diagram and informing opportunities for further enhancing superconductivity.",
+   "abstract_license": "cc-by",
+   "arxiv": "2603.12196",
+   "authors": [
+    "Yidi Liu",
+    "Bai Yang Wang",
+    "Jiarui Li",
+    "Yaoju Tarn",
+    "Lopa Bhatt",
+    "Michael Colletta",
+    "Yi-Ming Wu",
+    "Sang-Jun Lee",
+    "Cheng-Tai Kuo",
+    "Jun-Sik Lee",
+    "Berit Hansen Goodge",
+    "David A. Muller",
+    "Zhi-Xun Shen",
+    "Srinivas Raghu",
+    "Harold Y. Hwang",
+    "Yijun Yu"
+   ],
+   "categories": [
+    "OpenAlex-field:Physics and Astronomy"
+   ],
+   "cited_by_count": 22,
+   "doi": "10.1103/b884-4h1s",
+   "is_retracted": false,
+   "keywords": [
+    "bilayer nickelates",
+    "oxygen stoichiometry",
+    "compressive strain",
+    "superconductivity suppression",
+    "oxygen vacancies",
+    "interstitial oxygen",
+    "phase diagram",
+    "high-temperature superconductivity",
+    "thin films"
+   ],
+   "language": "en",
+   "oa_created": "2026-03-14",
+   "peer_reviewed": true,
+   "publication": "Physical Review X",
+   "publication_type": "article",
+   "published_date": "2026-11-20",
+   "related_versions": [],
+   "source_ids": [
+    "openalex:W7135192002"
+   ],
+   "title": "Superconducting Half-Dome in Bilayer Nickelates",
+   "topics": [
+    "Physics of Superconductivity and Magnetism",
+    "Condensed Matter Physics"
+   ],
+   "updated_date": "2026-11-23",
+   "url": "https://doi.org/10.1103/b884-4h1s"
+  },
+  "score": 6.11,
+  "seen": 1,
+  "suggested": "high-temperature-superconductors",
+  "title": "Superconducting Half-Dome in Bilayer Nickelates",
+  "url": "https://doi.org/10.1103/b884-4h1s"
  },
  {
   "added": "2026-11-16",
@@ -1574,6 +2184,88 @@
   "url": "https://arxiv.org/abs/2611.11793"
  },
  {
+  "added": "2026-11-23",
+  "arxiv": "2506.22087",
+  "candidates": [
+   [
+    "reinforcement-learning",
+    6.14
+   ],
+   [
+    "trajectory-optimization",
+    3.3
+   ],
+   [
+    "derivative-free-optimization",
+    3.21
+   ],
+   [
+    "artificial-intelligence",
+    3.1
+   ],
+   [
+    "optimization",
+    1.84
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.1177/02783649261495978",
+  "keys": [
+   "arxiv:2506.22087",
+   "doi:10.1177/02783649261495978",
+   "title:anintroductiontozeroorderoptimizationtechniquesforrobotics|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Zero-order optimization techniques are becoming increasingly popular in robotics due to their ability to handle non-differentiable functions and escape local minima. These advantages make them particularly useful for trajectory optimization and policy optimization. In this work, we propose a mathematical tutorial on random search. It offers a simple and unifying perspective for understanding a wide range of algorithms commonly used in robotics. Leveraging this viewpoint, we classify many trajectory optimization methods under a common framework and derive novel competitive RL algorithms.",
+   "abstract_license": null,
+   "arxiv": "2506.22087",
+   "authors": [
+    "Armand Jordana",
+    "Jianghan Zhang",
+    "Joseph Amigo",
+    "Ludovic Righetti"
+   ],
+   "categories": [
+    "OpenAlex-field:Computer Science"
+   ],
+   "cited_by_count": 15,
+   "doi": "10.1177/02783649261495978",
+   "is_retracted": false,
+   "keywords": [
+    "derivative-free optimization",
+    "random search",
+    "trajectory optimization",
+    "policy optimization",
+    "non-differentiable functions",
+    "local minima escape",
+    "reinforcement learning algorithms"
+   ],
+   "language": "en",
+   "oa_created": "2025-10-10",
+   "peer_reviewed": true,
+   "publication": "The International Journal of Robotics Research",
+   "publication_type": "article",
+   "published_date": "2026-11-20",
+   "related_versions": [],
+   "source_ids": [
+    "openalex:W4416260999"
+   ],
+   "title": "An introduction to zero-order optimization techniques for robotics",
+   "topics": [
+    "Reinforcement Learning in Robotics",
+    "Artificial Intelligence"
+   ],
+   "updated_date": "2026-11-23",
+   "url": "https://doi.org/10.1177/02783649261495978"
+  },
+  "score": 6.14,
+  "seen": 1,
+  "suggested": "reinforcement-learning",
+  "title": "An introduction to zero-order optimization techniques for robotics",
+  "url": "https://doi.org/10.1177/02783649261495978"
+ },
+ {
   "added": "2026-11-16",
   "arxiv": "2503.20646",
   "candidates": [
@@ -1807,6 +2499,82 @@
   "suggested": "variational-quantum-algorithms",
   "title": "Improved parameter initialization for the (local) unitary cluster Jastrow ansatz",
   "url": "https://doi.org/10.22331/q-2026-11-19-2278"
+ },
+ {
+  "added": "2026-11-23",
+  "arxiv": "2408.16070",
+  "candidates": [
+   [
+    "quantum-simulation",
+    5.9
+   ],
+   [
+    "tensor-networks",
+    3.1
+   ],
+   [
+    "molecular-physics",
+    3.1
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.22331/q-2026-11-20-2279",
+  "keys": [
+   "arxiv:2408.16070",
+   "doi:10.22331/q-2026-11-20-2279",
+   "title:symmetriescorrelationfunctionsandentanglementofgeneralquantummotzkinspinchains|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Motzkin spin-chains, which include `colorless' (integer spin s = 1 ) and `colorful' ( s ≥ 2 ) variants, are one-dimensional (1D) local integer spin models notable for their lack of a conformal field theory (CFT) description of their low-energy physics, despite being gapless. The colorful variants are particularly unusual, as they exhibit power-law violation of the area-law of entanglement entropy (as n in system size n ), rather than a logarithmic violation as seen in a CFT. In this work, we analytically discover several unique properties of these models, potentially suggesting a new universality class for their low-energy physics. We identify a complex structure of symmetries and unexpected scaling behavior in spin-spin correlations, which deviate from known 1D universality classes. Specifically, the s = 1 chain exhibits U ( 1 ) spontaneous symmetry breaking and ferromagnetic order. Meanwhile, the s ≥ 2 chains do not appear to spontaneously break any symmetries, but display quasi-long-range algebraic order with power-law decaying correlations, inconsistent with standard Berezinskii-Kosterlitz-Thouless (BKT) critical exponents. We also derive asymptotic scaling expressions, with explicit additive constants, for entanglement measures in both colorless and colorful chains, generalizing previous results of Movassagh \\cite{movassagh2017entanglement}, while providing benchmarks for potential quantum simulation experiments. The n entanglement scaling implies that any matrix-product-state description of these ground states requires bond dimension e Ω ( n ) ; this superpolynomial cost of the standard 1D tensor-network toolkit, along with the analytical tractability of their ground state properties, positions Motzkin spin chains as intriguing testbeds for quantum simulation of many-body physics.",
+   "abstract_license": "cc-by",
+   "arxiv": "2408.16070",
+   "authors": [
+    "Varun Menon",
+    "Andi Gu",
+    "Ramis Movassagh"
+   ],
+   "categories": [
+    "OpenAlex-field:Physics and Astronomy"
+   ],
+   "cited_by_count": 14,
+   "doi": "10.22331/q-2026-11-20-2279",
+   "is_retracted": false,
+   "keywords": [
+    "area law violation",
+    "entanglement entropy scaling",
+    "spin-spin correlations",
+    "power-law correlations",
+    "quasi-long-range order",
+    "spontaneous symmetry breaking",
+    "universality class",
+    "matrix product states",
+    "bond dimension",
+    "quantum simulation"
+   ],
+   "language": "en",
+   "oa_created": "2024-09-22",
+   "peer_reviewed": true,
+   "publication": "Quantum",
+   "publication_type": "article",
+   "published_date": "2026-11-20",
+   "related_versions": [],
+   "source_ids": [
+    "openalex:W4402706338"
+   ],
+   "title": "Symmetries, correlation functions, and entanglement of general quantum Motzkin spin-chains",
+   "topics": [
+    "Quantum many-body systems",
+    "Atomic and Molecular Physics, and Optics"
+   ],
+   "updated_date": "2026-11-23",
+   "url": "https://doi.org/10.22331/q-2026-11-20-2279"
+  },
+  "score": 5.9,
+  "seen": 1,
+  "suggested": "quantum-simulation",
+  "title": "Symmetries, correlation functions, and entanglement of general quantum Motzkin spin-chains",
+  "url": "https://doi.org/10.22331/q-2026-11-20-2279"
  },
  {
   "added": "2026-11-05",
@@ -2227,6 +2995,79 @@
   "suggested": "deep-learning",
   "title": "Cognitive AI–Driven Risk and Personality Validity Profiling: Deep Learning Fusion for Psychological Test Reliability and Patient-Specific Aneurysm Rupture Prediction",
   "url": "https://jchr.org/index.php/JCHR/article/view/17792"
+ },
+ {
+  "added": "2026-11-23",
+  "arxiv": "2405.03910",
+  "candidates": [
+   [
+    "causal-inference",
+    5.64
+   ],
+   [
+    "analysis",
+    2.9
+   ],
+   [
+    "statistics",
+    1.85
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.1086/743440",
+  "keys": [
+   "arxiv:2405.03910",
+   "doi:10.1086/743440",
+   "title:aprimerontheanalysisofrandomizedexperimentsandasurveyofsomerecentadvances|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "The past two decades have witnessed a surge of new research in the analysis of randomized experiments. The emergence of this literature may seem surprising given the widespread use and long history of experiments as the \"gold standard\" in program evaluation, but this body of work has revealed many subtle aspects of randomized experiments that may have been previously unappreciated. This article provides an overview of some of these topics, primarily focused on stratification, regression adjustment, and cluster randomization.",
+   "abstract_license": null,
+   "arxiv": "2405.03910",
+   "authors": [
+    "Yuehao Bai",
+    "Azeem M. Shaikh",
+    "Max Tabord‐Meehan"
+   ],
+   "categories": [
+    "OpenAlex-field:Mathematics"
+   ],
+   "cited_by_count": 16,
+   "doi": "10.1086/743440",
+   "is_retracted": false,
+   "keywords": [
+    "randomized experiments",
+    "program evaluation",
+    "stratification",
+    "regression adjustment",
+    "cluster randomization",
+    "causal inference",
+    "treatment effects"
+   ],
+   "language": "en",
+   "oa_created": "2024-05-11",
+   "peer_reviewed": true,
+   "publication": "Journal of Political Economy Microeconomics",
+   "publication_type": "article",
+   "published_date": "2026-11-20",
+   "related_versions": [],
+   "source_ids": [
+    "openalex:W4396813750"
+   ],
+   "title": "A Primer on the Analysis of Randomized Experiments and a Survey of Some Recent Advances",
+   "topics": [
+    "Advanced Causal Inference Techniques",
+    "Statistics and Probability"
+   ],
+   "updated_date": "2026-11-23",
+   "url": "https://doi.org/10.1086/743440"
+  },
+  "score": 5.64,
+  "seen": 1,
+  "suggested": "causal-inference",
+  "title": "A Primer on the Analysis of Randomized Experiments and a Survey of Some Recent Advances",
+  "url": "https://doi.org/10.1086/743440"
  },
  {
   "added": "2026-11-14",
@@ -3638,6 +4479,75 @@
   "url": "https://doi.org/10.1126/science.aec3042"
  },
  {
+  "added": "2026-11-23",
+  "arxiv": "2404.03422",
+  "candidates": [
+   [
+    "mixture-models",
+    5.34
+   ],
+   [
+    "artificial-intelligence",
+    3.1
+   ],
+   [
+    "maximum-likelihood-estimation",
+    2.48
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.1086/743475",
+  "keys": [
+   "arxiv:2404.03422",
+   "doi:10.1086/743475",
+   "title:empiricalbayesforthereluctantfrequentist|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Empirical Bayes methods offer valuable tools for a large class of compound decision problems. In this tutorial we describe some basic principles of the empirical Bayes paradigm stressing their frequentist interpretation. Emphasis is placed on recent developments of nonparametric maximum likelihood methods for estimating mixture models. A more extensive introductory treatment will eventually be available in \\citet{kg24}. The methods are illustrated with an extended application to models of heterogeneous income dynamics based on PSID data.",
+   "abstract_license": null,
+   "arxiv": "2404.03422",
+   "authors": [
+    "Roger W. Koenker",
+    "Jiaying Gu"
+   ],
+   "categories": [
+    "OpenAlex-field:Computer Science"
+   ],
+   "cited_by_count": 11,
+   "doi": "10.1086/743475",
+   "is_retracted": false,
+   "keywords": [
+    "empirical Bayes",
+    "frequentist interpretation",
+    "nonparametric maximum likelihood estimation",
+    "Panel Study of Income Dynamics"
+   ],
+   "language": "en",
+   "oa_created": "2024-04-06",
+   "peer_reviewed": true,
+   "publication": "Journal of Political Economy Microeconomics",
+   "publication_type": "article",
+   "published_date": "2026-11-20",
+   "related_versions": [],
+   "source_ids": [
+    "openalex:W4394007494"
+   ],
+   "title": "Empirical Bayes for the Reluctant Frequentist",
+   "topics": [
+    "Bayesian Methods and Mixture Models",
+    "Artificial Intelligence"
+   ],
+   "updated_date": "2026-11-23",
+   "url": "https://doi.org/10.1086/743475"
+  },
+  "score": 5.34,
+  "seen": 1,
+  "suggested": "mixture-models",
+  "title": "Empirical Bayes for the Reluctant Frequentist",
+  "url": "https://doi.org/10.1086/743475"
+ },
+ {
   "added": "2026-11-14",
   "arxiv": "2509.14203",
   "candidates": [
@@ -3781,6 +4691,80 @@
   "suggested": "neutral-atom-qubits",
   "title": "Tuning long-range interactions in Sr Rydberg atoms: the effect of series perturbations",
   "url": "https://doi.org/10.1088/1361-6455/aebb7c"
+ },
+ {
+  "added": "2026-11-23",
+  "arxiv": null,
+  "candidates": [
+   [
+    "cognitive-neuroscience",
+    4.7
+   ],
+   [
+    "neuroimaging",
+    3.16
+   ],
+   [
+    "accessibility",
+    0.26
+   ],
+   [
+    "analysis",
+    0.26
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.1002/hbm.70695",
+  "keys": [
+   "doi:10.1002/hbm.70695",
+   "title:addressinginconsistencyinfunctionalneuroimagingareplicabledatadrivenmultiscalefunctionalatlasforcanonicalbrainnetworks|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "The advent of multiple neuroimaging methodologies has greatly aided in the conceptualization of large-scale functional brain networks in the field of cognitive neuroscience. However, there is inconsistency across studies in both nomenclature and the functional entities being described. There is a need for a unifying framework that standardizes terminology across studies while also bringing analyses and results into the same reference space. Here we improve the accessibility of a previously developed whole-brain template of canonical functional brain networks, expanding it into a powerful atlas, by manually labeling, organizing, and describing these networks with terms familiar to the fields of cognitive and affective neuroscience. These data-driven functional networks were developed by utilizing more than 100,000 resting-state fMRI datasets and are highly replicable across individual subjects and datasets and capture information from multiple spatial scales. The current report seeks to help optimize the utility of this atlas in future neuroimaging analyses by enhancing the comparability and easing the interpretation of new findings. The benefits of this atlas are not limited to future template-based or reference-guided analyses, but also extend to other data-driven neuroimaging approaches across modalities, such as those using blind independent component analysis (ICA). Future studies utilizing this atlas will contribute to greater harmonization and standardization in functional neuroimaging research.",
+   "abstract_license": "cc-by-nc-nd",
+   "arxiv": null,
+   "authors": [
+    "Kyle M. Jensen",
+    "Jessica A. Turner",
+    "Lucina Q. Uddin",
+    "Vince D. Calhoun",
+    "Armin Iraji"
+   ],
+   "categories": [
+    "OpenAlex-field:Neuroscience"
+   ],
+   "cited_by_count": 35,
+   "doi": "10.1002/hbm.70695",
+   "is_retracted": false,
+   "keywords": [
+    "functional brain networks",
+    "resting-state fMRI",
+    "terminology standardization"
+   ],
+   "language": "en",
+   "oa_created": "2024-09-11",
+   "peer_reviewed": true,
+   "publication": "Human Brain Mapping",
+   "publication_type": "article",
+   "published_date": "2026-11-20",
+   "related_versions": [],
+   "source_ids": [
+    "openalex:W4402391275"
+   ],
+   "title": "Addressing Inconsistency in Functional Neuroimaging: A Replicable Data‐Driven Multi‐Scale Functional Atlas for Canonical Brain Networks",
+   "topics": [
+    "Functional Brain Connectivity Studies",
+    "Cognitive Neuroscience"
+   ],
+   "updated_date": "2026-11-23",
+   "url": "https://doi.org/10.1002/hbm.70695"
+  },
+  "score": 4.7,
+  "seen": 1,
+  "suggested": "cognitive-neuroscience",
+  "title": "Addressing Inconsistency in Functional Neuroimaging: A Replicable Data‐Driven Multi‐Scale Functional Atlas for Canonical Brain Networks",
+  "url": "https://doi.org/10.1002/hbm.70695"
  },
  {
   "added": "2026-11-14",
@@ -4924,6 +5908,107 @@
   "suggested": "foundations-of-quantum-mechanics",
   "title": "High energy photon polarimetry at lepton colliders: Quantum information from converted photons",
   "url": "https://doi.org/10.1103/nn51-zg5k"
+ },
+ {
+  "added": "2026-11-23",
+  "arxiv": "2603.21969",
+  "candidates": [
+   [
+    "altermagnetism",
+    4.48
+   ],
+   [
+    "condensed-matter-physics",
+    3.7
+   ],
+   [
+    "magnetism",
+    3.25
+   ],
+   [
+    "tunneling",
+    1.12
+   ],
+   [
+    "nanowires",
+    0.52
+   ],
+   [
+    "fast-fourier-transform",
+    0.45
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.1103/jndg-x9tw",
+  "keys": [
+   "arxiv:2603.21969",
+   "doi:10.1103/jndg-x9tw",
+   "title:visualizingspinpolarizationofanaltermagnetkv2se2oviaspinselectivetunneling|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Altermagnetism, a recently identified magnetic phase that combines vanishing net magnetization with momentum-dependent spin splitting, challenges the conventional dichotomy between ferromagnets and antiferromagnets. While several candidate materials have been proposed, microscopic experimental evidence linking crystal symmetry, electronic structure and d-wave spin polarization remains scarce. Here we report spin-sensitive tunneling and quasiparticle-interference (QPI) measurements on the metallic surface altermagnet KV2Se2O. Using an SmB6-nanowire tip, we observe a temperature-dependent phase contrast of impurity-induced Friedel oscillations and a bias-dependent reversal of the raw-FFT QPI anisotropy between the qx and qy channels. The W-tip controls instead show mostly in-phase oscillations and a non-sign-reversing QPI anisotropy. Together with numerical simulations, these observations support momentum-dependent spin polarization that follows a characteristic d-wave form factor. Our results establish KV2Se2O as a material platform to study the interplay between spin-valley locking, Fermi-surface instability and unconventional magnetism, and highlight spin-selective tunneling as a local probe of compensated magnetic spin textures.",
+   "abstract_license": "cc-by",
+   "arxiv": "2603.21969",
+   "authors": [
+    "Guofei Yang",
+    "Chuang Li",
+    "Chengwei Wang",
+    "Xudong Zhao",
+    "Yifan Wan",
+    "Hengrui Gui",
+    "Guoqing Zeng",
+    "Saizheng Cao",
+    "Chuqiao Hu",
+    "Qihe Yu",
+    "Yujia Zhang",
+    "Dong Chen",
+    "Yu Liu",
+    "Yu Song",
+    "Yongjun Zhang",
+    "Fei Liu",
+    "Lun‐Hui Hu",
+    "Lin Jiao",
+    "Huiqiu Yuan"
+   ],
+   "categories": [
+    "OpenAlex-field:Physics and Astronomy"
+   ],
+   "cited_by_count": 17,
+   "doi": "10.1103/jndg-x9tw",
+   "is_retracted": false,
+   "keywords": [
+    "altermagnetism",
+    "quasiparticle interference",
+    "Friedel oscillations",
+    "spin-valley locking",
+    "Fermi surface instability",
+    "unconventional magnetism",
+    "momentum-dependent spin splitting"
+   ],
+   "language": "en",
+   "oa_created": "2026-03-25",
+   "peer_reviewed": true,
+   "publication": "Physical Review X",
+   "publication_type": "article",
+   "published_date": "2026-11-20",
+   "related_versions": [],
+   "source_ids": [
+    "openalex:W7140223060"
+   ],
+   "title": "Visualizing spin-polarization of an altermagnet KV 2 Se 2 O via spin-selective tunneling",
+   "topics": [
+    "Magnetic properties of thin films",
+    "Condensed Matter Physics"
+   ],
+   "updated_date": "2026-11-23",
+   "url": "https://doi.org/10.1103/jndg-x9tw"
+  },
+  "score": 4.48,
+  "seen": 1,
+  "suggested": "altermagnetism",
+  "title": "Visualizing spin-polarization of an altermagnet KV 2 Se 2 O via spin-selective tunneling",
+  "url": "https://doi.org/10.1103/jndg-x9tw"
  },
  {
   "added": "2026-11-16",
@@ -9262,6 +10347,153 @@
   "url": "https://doi.org/10.1007/s44214-026-00113-y"
  },
  {
+  "added": "2026-11-23",
+  "arxiv": "2601.16961",
+  "candidates": [
+   [
+    "quantum-simulation",
+    3.9
+   ],
+   [
+    "molecular-physics",
+    3.1
+   ],
+   [
+    "cellular-automata",
+    3.0
+   ],
+   [
+    "translation",
+    0.26
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.1103/r726-r5xr",
+  "keys": [
+   "arxiv:2601.16961",
+   "doi:10.1103/r726-r5xr",
+   "title:engineeringdiscretelocaldynamicsingloballydrivendualspeciesatomarrays|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "We introduce a method for engineering discrete local dynamics in globally driven dual-species neutral atom experiments, allowing us to study emergent digital models through uniform analog controls. Leveraging the new opportunities offered by dual-species systems, such as species-alternated driving, our construction exploits simple Floquet protocols on static atom arrangements and benefits of generalized blockade regimes (different inter- and intra-species interactions). We focus on discrete dynamical models that are special instances of quantum cellular automata and explicitly consider a number of relevant examples, including the kicked-Ising model, the Floquet Kitaev honeycomb model, and the digitization of a broad family of translation-invariant nearest-neighbor Hamiltonians (e.g., for Trotterized evolution). As an application, we study chaotic features of discretized many-body dynamics that can be detected by leveraging only demonstrated capabilities of globally driven experiments, and benchmark their ability to discriminate chaotic evolution.",
+   "abstract_license": "cc-by",
+   "arxiv": "2601.16961",
+   "authors": [
+    "Francesco Cesa",
+    "Andrea Di Fini",
+    "David Aram Korbany",
+    "Roberto Tricarico",
+    "Hannes Bernien",
+    "Hannes Pichler",
+    "Lorenzo Piroli"
+   ],
+   "categories": [
+    "OpenAlex-field:Physics and Astronomy"
+   ],
+   "cited_by_count": 11,
+   "doi": "10.1103/r726-r5xr",
+   "is_retracted": false,
+   "keywords": [
+    "Floquet engineering",
+    "quantum cellular automata",
+    "Trotterization",
+    "chaos detection",
+    "many-body dynamics",
+    "digital quantum simulation",
+    "neutral atoms"
+   ],
+   "language": "en",
+   "oa_created": "2026-08-19",
+   "peer_reviewed": true,
+   "publication": "PRX Quantum",
+   "publication_type": "article",
+   "published_date": "2026-11-20",
+   "related_versions": [],
+   "source_ids": [
+    "openalex:W7203719561"
+   ],
+   "title": "Engineering Discrete Local Dynamics in Globally Driven Dual-Species Atom Arrays",
+   "topics": [
+    "Quantum many-body systems",
+    "Atomic and Molecular Physics, and Optics"
+   ],
+   "updated_date": "2026-11-23",
+   "url": "https://doi.org/10.1103/r726-r5xr"
+  },
+  "score": 3.9,
+  "seen": 1,
+  "suggested": "quantum-simulation",
+  "title": "Engineering Discrete Local Dynamics in Globally Driven Dual-Species Atom Arrays",
+  "url": "https://doi.org/10.1103/r726-r5xr"
+ },
+ {
+  "added": "2026-11-23",
+  "arxiv": null,
+  "candidates": [
+   [
+    "astronomy-and-astrophysics",
+    3.7
+   ],
+   [
+    "hydrothermal-systems",
+    1.2
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.7554/elife.72856",
+  "keys": [
+   "doi:10.7554/elife.72856",
+   "title:akineticerrorfilteringmechanismforenzymefreecopyingofnucleicacidsequences|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Accurate copying of nucleic acid sequences is essential for self-replicating systems. Modern cells achieve error ratios as low as 10-9 with sophisticated enzymes capable of kinetic proofreading. In contrast, experiments probing enzyme-free copying of RNA and DNA as potential prebiotic replication processes find error ratios on the order of 10%. Given this low intrinsic copying fidelity, plausible scenarios for the spontaneous emergence of molecular evolution require an accuracy-enhancing mechanism. Here, we study a 'kinetic error filtering' scenario that dramatically boosts the likelihood of producing exact copies of nucleic acid sequences. The mechanism exploits the observation that initial errors in template-directed polymerization of both DNA and RNA are likely to trigger a cascade of consecutive errors and significantly stall downstream extension. We incorporate these characteristics into a mathematical model with experimentally estimated parameters, and leverage this model to probe to what extent accurate and faulty polymerization products can be kinetically discriminated. Limiting the time window for polymerization prevents completion of erroneous strands, resulting in a pool in which full-length products show an enhanced accuracy. This comes at the price of a concomitant reduction in yield. However, the yield rate and the fidelity can be simultaneously increased by kinetic error filtering, if the templates are not too long. Within cyclically varying environments, e.g., temperature cycles in hydrothermal systems, repeated copying attempts could produce exact copies of sequences as long as 50mers within their lifetime, facilitating the emergence and maintenance of catalytically active oligonucleotides.",
+   "abstract_license": "cc-by",
+   "arxiv": null,
+   "authors": [
+    "Tobias Göppel",
+    "Benedikt Obermayer",
+    "Irene A. Chen",
+    "Ulrich Gerland"
+   ],
+   "categories": [
+    "OpenAlex-field:Physics and Astronomy"
+   ],
+   "cited_by_count": 16,
+   "doi": "10.7554/elife.72856",
+   "is_retracted": false,
+   "keywords": [
+    "template polymerization",
+    "error propagation",
+    "polymerization yield",
+    "self-replicating systems"
+   ],
+   "language": "en",
+   "oa_created": "2021-08-16",
+   "peer_reviewed": true,
+   "publication": "eLife",
+   "publication_type": "article",
+   "published_date": "2026-11-20",
+   "related_versions": [],
+   "source_ids": [
+    "openalex:W3193152742"
+   ],
+   "title": "A kinetic error filtering mechanism for enzyme-free copying of nucleic acid sequences",
+   "topics": [
+    "Origins and Evolution of Life",
+    "Astronomy and Astrophysics"
+   ],
+   "updated_date": "2026-11-23",
+   "url": "https://doi.org/10.7554/elife.72856"
+  },
+  "score": 3.7,
+  "seen": 1,
+  "suggested": "astronomy-and-astrophysics",
+  "title": "A kinetic error filtering mechanism for enzyme-free copying of nucleic acid sequences",
+  "url": "https://doi.org/10.7554/elife.72856"
+ },
+ {
   "added": "2026-11-16",
   "arxiv": "2605.16489",
   "candidates": [
@@ -9736,6 +10968,231 @@
   "url": "https://doi.org/10.70382/tijbees.v13i4.0113"
  },
  {
+  "added": "2026-11-23",
+  "arxiv": "2604.21732",
+  "candidates": [
+   [
+    "superconducting-qubits",
+    3.9
+   ],
+   [
+    "condensed-matter-physics",
+    3.7
+   ],
+   [
+    "machine-learning",
+    3.6
+   ],
+   [
+    "bayesian-optimization",
+    3.26
+   ],
+   [
+    "spintronics",
+    3.25
+   ],
+   [
+    "quantum-dots",
+    3.0
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.1103/r1v9-mff5",
+  "keys": [
+   "arxiv:2604.21732",
+   "doi:10.1103/r1v9-mff5",
+   "title:tailoringgermaniumheterostructuresforquantumdeviceswithmachinelearning|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Germanium (Ge) quantum wells are emerging as versatile platforms for quantum devices, supporting high-quality spin qubits and integration with superconducting leads. These applications benefit from strong intrinsic spin-orbit interaction (SOI), enabling efficient electrical control and engineering of spin degrees of freedom. The most advanced Ge/SiGe heterostructures to date, based on compressively strained Ge channels within strain-relaxed silicon-germanium (SiGe) barriers, exhibit weak SOI due to the heavy-hole character of the wave function, posing challenges for spin-based quantum devices and requiring complex device designs for fast qubit manipulation. In this work, we demonstrate that concrete heterostructure modifications can overcome these limitations, enhancing SOI by up to three orders of magnitude. Specifically, we propose to enrich unstrained Ge channels by localized, strained silicon spikes. Leveraging a multi-objective Bayesian optimization, we optimize the spike profile to maximize SOI, while ensuring compatibility with current epitaxial growth processes and robustness against realistic variations of growth parameters. Our heterostructure substantially enhances device performance, yielding up to two orders of magnitude higher quantum-dot spin qubit quality factors than state-of-the-art materials. We also predict GHz-scale spin splittings for hybrid superconducting Andreev spin qubits. These novel Ge heterostructures with engineered Si concentration profiles can open pathways to scalable quantum and spintronic applications.",
+   "abstract_license": null,
+   "arxiv": "2604.21732",
+   "authors": [
+    "Patrick Del Vecchio",
+    "Kevin Rossi",
+    "Giordano Scappucci",
+    "Stefano Bosco"
+   ],
+   "categories": [
+    "OpenAlex-field:Physics and Astronomy"
+   ],
+   "cited_by_count": 7,
+   "doi": "10.1103/r1v9-mff5",
+   "is_retracted": false,
+   "keywords": [
+    "germanium quantum wells",
+    "Ge/SiGe heterostructures",
+    "spin-orbit coupling",
+    "spin qubits",
+    "quantum dots",
+    "superconducting qubits",
+    "strain engineering",
+    "multi-objective Bayesian optimization",
+    "spin splitting",
+    "spintronics",
+    "quantum devices"
+   ],
+   "language": "en",
+   "oa_created": "2026-04-25",
+   "peer_reviewed": true,
+   "publication": "Physical Review Applied",
+   "publication_type": "article",
+   "published_date": "2026-11-20",
+   "related_versions": [],
+   "source_ids": [
+    "openalex:W7155499242"
+   ],
+   "title": "Tailoring germanium heterostructures for quantum devices with machine learning",
+   "topics": [
+    "Quantum and electron transport phenomena",
+    "Condensed Matter Physics"
+   ],
+   "updated_date": "2026-11-23",
+   "url": "https://doi.org/10.1103/r1v9-mff5"
+  },
+  "score": 3.9,
+  "seen": 1,
+  "suggested": "superconducting-qubits",
+  "title": "Tailoring germanium heterostructures for quantum devices with machine learning",
+  "url": "https://doi.org/10.1103/r1v9-mff5"
+ },
+ {
+  "added": "2026-11-23",
+  "arxiv": "2601.02507",
+  "candidates": [
+   [
+    "particle-physics",
+    3.48
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.1007/jhep11(2026)201",
+  "keys": [
+   "arxiv:2601.02507",
+   "doi:10.1007/jhep11(2026)201",
+   "title:axionwormholesandtheadscftfactorizationproblem|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "This work investigates the relevance of Euclidean and complex axion wormholes to the AdS/CFT factorization problem. We use a framework that defines bulk gravitational path integrals by integrating over a real Lorentz-signature contour and then, as needed, perhaps further analytically continuing the resulting functions of boundary conditions. For technical reasons we focus on the case of 2+1 bulk dimensions. The AdS boundary conditions (in any dimension) require us to impose Dirichlet boundary conditions on the standard Euclidean axion χ E . Fixing its asymptotic values on two boundary spheres to ±χ E , ∞ , we find such wormholes to be subdominant to a UV-sensitive endpoint contribution for χ E , ∞ near the real axis, and that (with our conventions) they become dominant only for χ E , ∞ near the negative imaginary axis. Furthermore, such wormholes are irrelevant to our computation for Im χ E , ∞ > 0 (in the sense that the associated ascent contour fails to intersect the contour of integration). The relevance of the wormhole saddle for real positive χ E , ∞ is in fact a matter of choice, as the saddle then lies on a Stokes’ line at which the relevant intersection number changes from zero to one.",
+   "abstract_license": "cc-by",
+   "arxiv": "2601.02507",
+   "authors": [
+    "Jesse Held",
+    "Molly Kaplan",
+    "Donald M. Marolf",
+    "Zhencheng Wang"
+   ],
+   "categories": [
+    "OpenAlex-field:Physics and Astronomy"
+   ],
+   "cited_by_count": 17,
+   "doi": "10.1007/jhep11(2026)201",
+   "is_retracted": false,
+   "keywords": [
+    "Euclidean wormholes",
+    "gravitational path integral",
+    "2+1 dimensions",
+    "Dirichlet boundary conditions",
+    "asymptotic boundary conditions",
+    "Stokes lines",
+    "saddle points",
+    "asymptotic expansion",
+    "AdS/CFT correspondence"
+   ],
+   "language": "en",
+   "oa_created": "2026-01-08",
+   "peer_reviewed": true,
+   "publication": "Journal of High Energy Physics",
+   "publication_type": "article",
+   "published_date": "2026-11-20",
+   "related_versions": [],
+   "source_ids": [
+    "openalex:W7118265973"
+   ],
+   "title": "Axion wormholes and the AdS/CFT factorization problem",
+   "topics": [
+    "Black Holes and Theoretical Physics",
+    "Nuclear and High Energy Physics"
+   ],
+   "updated_date": "2026-11-23",
+   "url": "https://doi.org/10.1007/jhep11(2026)201"
+  },
+  "score": 3.48,
+  "seen": 1,
+  "suggested": "particle-physics",
+  "title": "Axion wormholes and the AdS/CFT factorization problem",
+  "url": "https://doi.org/10.1007/jhep11(2026)201"
+ },
+ {
+  "added": "2026-11-23",
+  "arxiv": "2607.07255",
+  "candidates": [
+   [
+    "particle-physics",
+    3.48
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.1103/hxwv-chdc",
+  "keys": [
+   "arxiv:2607.07255",
+   "doi:10.1103/hxwv-chdc",
+   "title:airyfunctionsfromquantummtheory|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "We show that Airy function partition functions for M2-brane theories may be derived from relative equivariant localization of quantum M-theory. The eleven-dimensional Chern–Simons coupling gives the cubic term in the grand potential, while the X 8 correction gives the charge shift. Fixing the M2-brane charge turns the localized M-theory path integral into an Airy integral. In this way we derive the ABJM result, its toric Calabi–Yau generalizations, and gravitational blocks for black holes and other spacetimes, up to the prefactor and non-perturbative corrections.",
+   "abstract_license": null,
+   "arxiv": "2607.07255",
+   "authors": [
+    "Pietro Benetti Genolini",
+    "Florian Gaar",
+    "Jerome P. Gauntlett",
+    "Jaeha Park",
+    "James Sparks"
+   ],
+   "categories": [
+    "OpenAlex-field:Physics and Astronomy"
+   ],
+   "cited_by_count": 17,
+   "doi": "10.1103/hxwv-chdc",
+   "is_retracted": false,
+   "keywords": [
+    "Airy functions",
+    "M2-branes",
+    "equivariant localization",
+    "grand potential",
+    "ABJM theory",
+    "toric Calabi-Yau manifolds",
+    "non-perturbative corrections"
+   ],
+   "language": "en",
+   "oa_created": "2026-07-10",
+   "peer_reviewed": true,
+   "publication": "Physical Review Letters",
+   "publication_type": "article",
+   "published_date": "2026-11-20",
+   "related_versions": [],
+   "source_ids": [
+    "openalex:W7167805035"
+   ],
+   "title": "Airy functions from quantum M-theory",
+   "topics": [
+    "Black Holes and Theoretical Physics",
+    "Nuclear and High Energy Physics"
+   ],
+   "updated_date": "2026-11-23",
+   "url": "https://doi.org/10.1103/hxwv-chdc"
+  },
+  "score": 3.48,
+  "seen": 1,
+  "suggested": "particle-physics",
+  "title": "Airy functions from quantum M-theory",
+  "url": "https://doi.org/10.1103/hxwv-chdc"
+ },
+ {
   "added": "2026-11-09",
   "arxiv": null,
   "candidates": [
@@ -9809,1385 +11266,5 @@
   "suggested": "convolutional-neural-networks",
   "title": "Gaze reinstatement during working memory for natural scenes",
   "url": "https://doi.org/10.1523/jneurosci.2151-25.2026"
- },
- {
-  "added": "2026-11-08",
-  "arxiv": null,
-  "candidates": [
-   [
-    "nanoparticles",
-    4.89
-   ],
-   [
-    "scanning-electron-microscopy",
-    4.34
-   ],
-   [
-    "silicon",
-    3.25
-   ],
-   [
-    "electron-microscopy",
-    3.1
-   ],
-   [
-    "nanomaterials",
-    2.55
-   ],
-   [
-    "spectroscopy",
-    0.52
-   ]
-  ],
-  "confidence": "medium",
-  "doi": "10.17586/2220-8054-2026-17-5-655-666",
-  "keys": [
-   "doi:10.17586/2220-8054-2026-17-5-655-666",
-   "title:hierarchicalporousnanomaterialsbasedonselfassemblyofporousnickeloxideandporoussiliconnanoparticlesforsensors|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "The assembly of hybrid compositions based on hierarchical nanoparticles by varying the parameters of the primary structural blocks is discussed. Porous nickel oxide particles obtained by green synthesis and porous silicon nanoparticles with n- and p-type conductivity were used as primary structural blocks in a combination of two size ranges. Scanning electron microscopy and energy-dispersive X-ray spectroscopy were used to characterize the morphology elemental composition of the particles and compositions. Dynamic light scattering and electrophoretic light scattering were used to characterize the hydrodynamic diameter and zeta potential of the particles and compositions. It was found that the assembly features of hybrid compositions are mainly by the parameters of the larger particle from the pair of primary building blocks, the shape of the particles (isotropic; or anisotropic), and the distribution of the particles surface properties. The particle assembly mechanism is discussed in terms of heterocoagulation of same-charged particles, considering processes at interfaces and changes in the zeta potentials of the primary particles.",
-   "abstract_license": "other-oa",
-   "arxiv": null,
-   "authors": [
-    "Kamilya Khalugarova",
-    "Yu. M. Spivak",
-    "Вячеслав Алексеевич Мошников",
-    "Michael Shumilo",
-    "Dmitry V. Korolev",
-    "V. Y. Bobov"
-   ],
-   "categories": [
-    "OpenAlex-field:Materials Science"
-   ],
-   "cited_by_count": 0,
-   "doi": "10.17586/2220-8054-2026-17-5-655-666",
-   "is_retracted": false,
-   "keywords": [],
-   "language": "en",
-   "oa_created": "2026-11-07",
-   "peer_reviewed": true,
-   "publication": "Nanosystems Physics Chemistry Mathematics",
-   "publication_type": "article",
-   "published_date": "2026-11-04",
-   "related_versions": [],
-   "source_ids": [
-    "openalex:W7225390061"
-   ],
-   "title": "Hierarchical porous nanomaterials based on self-assembly of porous nickel oxide and porous silicon nanoparticles for sensors",
-   "topics": [
-    "Silicon Nanostructures and Photoluminescence",
-    "Materials Chemistry"
-   ],
-   "updated_date": "2026-11-07",
-   "url": "https://doi.org/10.17586/2220-8054-2026-17-5-655-666"
-  },
-  "score": 4.89,
-  "seen": 1,
-  "suggested": "nanoparticles",
-  "title": "Hierarchical porous nanomaterials based on self-assembly of porous nickel oxide and porous silicon nanoparticles for sensors",
-  "url": "https://doi.org/10.17586/2220-8054-2026-17-5-655-666"
- },
- {
-  "added": "2026-11-06",
-  "arxiv": "2611.05987",
-  "candidates": [
-   [
-    "quantum-computing",
-    5.55
-   ],
-   [
-    "quantum-field-theory",
-    4.25
-   ]
-  ],
-  "confidence": "medium",
-  "doi": null,
-  "keys": [
-   "arxiv:2611.05987",
-   "title:quantumcomputingforentanglementasymmetryandthequantummpembaeffectinfieldtheory|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "We construct a quantum measurement protocol for estimating the Rényi entanglement asymmetry, which quantifies symmetry breaking at the level of a subsystem and provides a probe of the quantum Mpemba effect. The protocol combines the SWAP test with a charge-resolving procedure based on randomized symmetry rotations. For a fixed additive accuracy $ε$, the required number of measurements scales as $\\mathcal{O}(ε^{-2})$ without explicit dependence on the total system size, making the protocol particularly attractive for quantum many-body systems and lattice quantum field theories. As a representative application, we study the quantum Mpemba effect in the lattice Schwinger model with a $θ$ term using classical state-vector simulations. We further estimate the resources required to implement the protocol on noisy intermediate-scale quantum (NISQ) devices, fault-tolerant quantum computers (FTQCs), and a representative early-FTQC architecture. Our results provide a measurement-efficient framework for investigating anomalous symmetry-restoration dynamics in quantum many-body systems and quantum field theories.",
-   "abstract_license": "cc0-1.0 (arxiv metadata)",
-   "arxiv": "2611.05987",
-   "authors": [
-    "Keisuke Fujii",
-    "Harunobu Fujimura",
-    "Masazumi Honda",
-    "Duc Truyen Le"
-   ],
-   "categories": [
-    "arXiv:hep-lat",
-    "arXiv:hep-th",
-    "arXiv:quant-ph"
-   ],
-   "cited_by_count": null,
-   "doi": null,
-   "is_retracted": null,
-   "keywords": [],
-   "language": "en",
-   "peer_reviewed": false,
-   "publication": "arXiv",
-   "publication_type": "preprint",
-   "published_date": "2026-11-04",
-   "related_versions": [],
-   "source_ids": [
-    "arxiv:2611.05987"
-   ],
-   "title": "Quantum Computing for Entanglement Asymmetry and the Quantum Mpemba Effect in Field Theory",
-   "topics": [],
-   "updated_date": "2026-11-04",
-   "url": "https://arxiv.org/abs/2611.05987"
-  },
-  "score": 5.55,
-  "seen": 2,
-  "suggested": "quantum-computing",
-  "title": "Quantum Computing for Entanglement Asymmetry and the Quantum Mpemba Effect in Field Theory",
-  "url": "https://arxiv.org/abs/2611.05987"
- },
- {
-  "added": "2026-11-08",
-  "arxiv": null,
-  "candidates": [
-   [
-    "field-effect-transistors",
-    4.82
-   ],
-   [
-    "electrical-and-electronic-engineering",
-    4.3
-   ],
-   [
-    "organic-electronics",
-    4.22
-   ],
-   [
-    "organic-semiconductors",
-    1.2
-   ],
-   [
-    "thermal-analysis",
-    0.58
-   ],
-   [
-    "photovoltaics",
-    0.52
-   ]
-  ],
-  "confidence": "medium",
-  "doi": "10.17586/2220-8054-2026-17-5-689-702",
-  "keys": [
-   "doi:10.17586/2220-8054-2026-17-5-689-702",
-   "title:highlysoluble34dialkylthiophenefunctionalized1benzothieno32b1benzothiophenesandconjugatedpolymersbasedonthem|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "In this work, a series of novel 3,4-dialkylthiophene-functionalized [1]benzothieno[3,2- b][1]benzothiophenes (BTBT) with different alkyl chain length (C4, C8, C12 and C16) was synthesized and investigated. These π-conjugated molecules possess outstanding solubility (> 50 g/L in chloroform at 20 ◦C) and have active protons in thiophene rings that allowed their further oxidative polymerization in the presence of iron(III) chloride to obtain π-conjugated polymers with high molar weights (M w up to 772 kDa). Phase behavior, thermal stability, optical, electronic and film forming properties of the monomers and polymers were characterized by DSC, TGA, SAXS and WAXS methods, UV-Vis absorption spectroscopy, cyclic voltammetry, POM and AFM. SAXS/WAXS measurements showed that polymerization suppresses long-range crystallinity of the monomers but the polymers preserved short-range lamellar-like ordering on the 1 – 3 nm length scale due to aromatic backbone-alkyl side groups segregation. Their nanometer-scale thin films in organic field-effect transistors showed the charge carrier mobility up to 10 −3 cm 2 V −1 s −1 only for the monomer C8 with dioctyl groups, while the polymers manifested the absence of field-effect due to their low ordered structure. This work clearly demonstrates the trade-off between solubility and charge carrier mobility in organic semiconductors.",
-   "abstract_license": "other-oa",
-   "arxiv": null,
-   "authors": [
-    "L. L. Levkov",
-    "Polina A. Shaposhnik",
-    "Evgeniya A. Svidchenko",
-    "Nikolay Mikhaylovich Surin",
-    "Yaroslava O. Titova",
-    "Roman A. Samodelkin",
-    "Azaliia F. Akhkiamova",
-    "Oleg V. Borshchev",
-    "Dimitri A. Ivanov",
-    "V. V. Ivanov",
-    "Sergey Anatol'evich Ponomarenko"
-   ],
-   "categories": [
-    "OpenAlex-field:Engineering"
-   ],
-   "cited_by_count": 0,
-   "doi": "10.17586/2220-8054-2026-17-5-689-702",
-   "is_retracted": false,
-   "keywords": [],
-   "language": "en",
-   "oa_created": "2026-11-07",
-   "peer_reviewed": true,
-   "publication": "Nanosystems Physics Chemistry Mathematics",
-   "publication_type": "article",
-   "published_date": "2026-11-04",
-   "related_versions": [],
-   "source_ids": [
-    "openalex:W7225377920"
-   ],
-   "title": "Highly soluble 3,4-dialkylthiophene-functionalized [1]benzothieno[3,2-b][1]benzothiophenes and conjugated polymers based on them",
-   "topics": [
-    "Organic Electronics and Photovoltaics",
-    "Electrical and Electronic Engineering"
-   ],
-   "updated_date": "2026-11-07",
-   "url": "https://doi.org/10.17586/2220-8054-2026-17-5-689-702"
-  },
-  "score": 4.82,
-  "seen": 1,
-  "suggested": "electronic-devices",
-  "title": "Highly soluble 3,4-dialkylthiophene-functionalized [1]benzothieno[3,2-b][1]benzothiophenes and conjugated polymers based on them",
-  "url": "https://doi.org/10.17586/2220-8054-2026-17-5-689-702"
- },
- {
-  "added": "2026-11-08",
-  "arxiv": null,
-  "candidates": [
-   [
-    "electric-power-systems",
-    4.82
-   ],
-   [
-    "electrical-and-electronic-engineering",
-    4.3
-   ],
-   [
-    "gas-turbines",
-    3.1
-   ],
-   [
-    "photovoltaics",
-    0.52
-   ],
-   [
-    "optimization",
-    0.26
-   ]
-  ],
-  "confidence": "medium",
-  "doi": "10.62051/ijepes.v5n3.03",
-  "keys": [
-   "doi:10.62051/ijepes.v5n3.03",
-   "title:energyflexibilityoradequacyadualdecompositionofinvestmentvalueinmultistageprovincialcapacityexpansion|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "Capacity-expansion studies increasingly add flexibility requirements, but a plan does not reveal whether an investment serves energy, flexibility or adequacy. This paper decomposes the value of every resource in a multi-stage capacity-expansion linear program of a three-zone province (2030–2040). The model couples hourly energy balances on representative days with a reserve requirement growing with wind and photovoltaic (PV) output, an adequacy margin, a carbon cap, heat-constrained coal units and energy-deliverable reserves, and every plan is re-evaluated on a full chronological year. Dual variables split each fleet’s rent into energy volume, energy timing, reserve, adequacy, carbon and cost components, which sum to the investment cost by the zero-profit condition. In the base case, adequacy pays the full cost of open-cycle gas turbines and about half of the storage rent, energy timing most of the rest, and reserve less than 1%. Wind and PV variability appears as a timing discount of 13% and 22% of their energy value in 2040. The flexibility requirement raises the total cost by 0.09%, because capacity built for adequacy also holds reserve; without the adequacy margin it costs 0.7% and the plan sheds load in the full-year check.",
-   "abstract_license": "cc-by-nc",
-   "arxiv": null,
-   "authors": [
-    "Liu Xufei",
-    "Kai Chen",
-    "Han Zhou",
-    "Youxiang Wang",
-    "Haoqin Yang",
-    "Ruiqin Duan",
-    "Congtong Zhang",
-    "Binbin Zhou"
-   ],
-   "categories": [
-    "OpenAlex-field:Engineering"
-   ],
-   "cited_by_count": 0,
-   "doi": "10.62051/ijepes.v5n3.03",
-   "is_retracted": false,
-   "keywords": [],
-   "language": "en",
-   "oa_created": "2026-11-07",
-   "peer_reviewed": true,
-   "publication": "International Journal of Electric Power and Energy Studies",
-   "publication_type": "article",
-   "published_date": "2026-11-04",
-   "related_versions": [],
-   "source_ids": [
-    "openalex:W7225389095"
-   ],
-   "title": "Energy, Flexibility or Adequacy? A Dual Decomposition of Investment Value in Multi-Stage Provincial Capacity Expansion",
-   "topics": [
-    "Electric Power System Optimization",
-    "Electrical and Electronic Engineering"
-   ],
-   "updated_date": "2026-11-07",
-   "url": "https://doi.org/10.62051/ijepes.v5n3.03"
-  },
-  "score": 4.82,
-  "seen": 1,
-  "suggested": "electric-power-systems",
-  "title": "Energy, Flexibility or Adequacy? A Dual Decomposition of Investment Value in Multi-Stage Provincial Capacity Expansion",
-  "url": "https://doi.org/10.62051/ijepes.v5n3.03"
- },
- {
-  "added": "2026-11-08",
-  "arxiv": null,
-  "candidates": [
-   [
-    "nanoparticles",
-    4.82
-   ],
-   [
-    "nanocomposites",
-    2.2
-   ],
-   [
-    "analysis",
-    0.79
-   ]
-  ],
-  "confidence": "medium",
-  "doi": "10.17586/2220-8054-2026-17-5-610-620",
-  "keys": [
-   "doi:10.17586/2220-8054-2026-17-5-610-620",
-   "title:influenceanalysisoftheenergyandstructuralpropertiesofsilvernanoparticlesontheirelasticcharacteristics|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "The calculation of the minimum potential energy of the face-centered crystal lattice, spherical equilibrium forms of silver nanoparticles consisting of 365 atoms, has been performed. It has been revealed that the change in the potential energy of a spherical silver nanoparticle with a minimum potential energy consisting of 365 atoms by 1 % leads to an increase in the modulus of elasticity by 9.5 times compared to a cubic facecentered lattice consisting of the same number of silver atoms. It has been established that the structure of the core of the spherical equilibrium form of a silver nanoparticle with minimal potential energy is identical to the structure of the crystalline body-centered lattice of silver. The results of this study can be used to determine the elastic properties of nanocomposite materials containing silver nanoparticles, in combination with their known optical properties.",
-   "abstract_license": "other-oa",
-   "arxiv": null,
-   "authors": [
-    "Andrey A. Shushkov"
-   ],
-   "categories": [
-    "OpenAlex-field:Materials Science"
-   ],
-   "cited_by_count": 0,
-   "doi": "10.17586/2220-8054-2026-17-5-610-620",
-   "is_retracted": false,
-   "keywords": [],
-   "language": "en",
-   "oa_created": "2026-11-07",
-   "peer_reviewed": true,
-   "publication": "Nanosystems Physics Chemistry Mathematics",
-   "publication_type": "article",
-   "published_date": "2026-11-04",
-   "related_versions": [],
-   "source_ids": [
-    "openalex:W7225404629"
-   ],
-   "title": "Influence analysis of the energy and structural properties of silver nanoparticles on their elastic characteristics",
-   "topics": [
-    "Microstructure and mechanical properties",
-    "Metals and Alloys"
-   ],
-   "updated_date": "2026-11-07",
-   "url": "https://doi.org/10.17586/2220-8054-2026-17-5-610-620"
-  },
-  "score": 4.82,
-  "seen": 1,
-  "suggested": "nanoparticles",
-  "title": "Influence analysis of the energy and structural properties of silver nanoparticles on their elastic characteristics",
-  "url": "https://doi.org/10.17586/2220-8054-2026-17-5-610-620"
- },
- {
-  "added": "2026-11-17",
-  "arxiv": "2611.19123",
-  "candidates": [
-   [
-    "llm-based-agents",
-    5.82
-   ],
-   [
-    "agent-architectures",
-    3.1
-   ]
-  ],
-  "confidence": "medium",
-  "doi": null,
-  "keys": [
-   "arxiv:2611.19123",
-   "title:beyondplainmcpdodecisionmodelsandcodemodemaketoolusecheaperandfaster|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "Model Context Protocol (MCP) gateways manage tool catalogs for language model agents using two primary paradigms: code mode where agents write scripts against tool stubs and decision layers which are cheap routers that preselect tool subsets. Using a controlled harness across 12 servers, up to 1,958 distractor tools, and three open-weight agents including Qwen, Gemma, and Nemotron, we present a preregistered evaluation on a sealed test split to determine when each approach succeeds. Code mode substantially outperforms plain MCP, cutting token usage by 70 to 90 percent while significantly boosting utility. Declaring return-shape hints in code mode stubs is a first-order variable, swinging success by up to 39.5 points for lower-performing agents, an effect larger than adding a router. The central hypothesis that a decision layer in front of code mode beats code mode alone is not confirmed, showing minor, statistically non-significant improvements for weaker agents and a slight cost for the strongest. We publicly release our harness, a finetuned 4B tool selection model, and all evaluation traces to support robust community experimentation on local AI privacy and agent architectures.",
-   "abstract_license": "cc0-1.0 (arxiv metadata)",
-   "arxiv": "2611.19123",
-   "authors": [
-    "Abhishek Rai"
-   ],
-   "categories": [
-    "arXiv:cs.SE",
-    "arXiv:cs.AI",
-    "arXiv:cs.CL"
-   ],
-   "cited_by_count": null,
-   "doi": null,
-   "is_retracted": null,
-   "keywords": [],
-   "language": "en",
-   "peer_reviewed": false,
-   "publication": "arXiv",
-   "publication_type": "preprint",
-   "published_date": "2026-11-14",
-   "related_versions": [],
-   "source_ids": [
-    "arxiv:2611.19123"
-   ],
-   "title": "Beyond Plain MCP: Do Decision Models and Code Mode Make Tool Use Cheaper and Faster?",
-   "topics": [],
-   "updated_date": "2026-11-14",
-   "url": "https://arxiv.org/abs/2611.19123"
-  },
-  "score": 5.82,
-  "seen": 1,
-  "suggested": "llm-based-agents",
-  "title": "Beyond Plain MCP: Do Decision Models and Code Mode Make Tool Use Cheaper and Faster?",
-  "url": "https://arxiv.org/abs/2611.19123"
- },
- {
-  "added": "2026-11-14",
-  "arxiv": "2605.25473",
-  "candidates": [
-   [
-    "quantum-field-theory",
-    4.12
-   ],
-   [
-    "number-theory",
-    3.1
-   ],
-   [
-    "algebra",
-    2.81
-   ]
-  ],
-  "confidence": "medium",
-  "doi": "10.1007/jhep11(2026)101",
-  "keys": [
-   "arxiv:2605.25473",
-   "doi:10.1007/jhep11(2026)101",
-   "title:thediagrammarofquantummagnusian|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "A bstract The logarithm of the time-evolution operator has been termed Magnusian, on account of the fact that its expansion describes the Magnus series. The diagrammatic expansion and computation of the classical Magnusian have been completely established in terms of tree graphs and their Hopf algebra. Recent works initiated extensions into quantum field theory, revealing general structures of loop expansions while finding intriguing relations between different diagrams. In this work, we advance the loop expansion further by providing an efficient diagrammatic algorithm to calculate the weight factor of each graph in the quantum Magnusian, known as the Murua coefficient. This is achieved by incorporating two complementary perspectives on the Magnusian at the same time: the color basis and the black-and-white basis. We extract the Murua coefficients from the Magnus series by utilizing these two bases while implementing an exponentiated Wick contraction. In turn, we identify the loop-level extension of Murua’s recursive formula. Eventually, we establish a set of edge-contraction rules which facilitate a direct recursive computation of the Murua coefficients at the purely diagrammatic level, without referencing or directly manipulating the underlying Magnus expansion. This shows that the matrix elements of the quantum Magnusian can be computed from graph manipulations alone.",
-   "abstract_license": "cc-by",
-   "arxiv": "2605.25473",
-   "authors": [
-    "Li Guo",
-    "Joon-Hwi Kim",
-    "Jung-Wook Kim",
-    "Sungsoo Kim",
-    "Sangmin Lee",
-    "Jian-Rong Li"
-   ],
-   "categories": [
-    "OpenAlex-field:Mathematics"
-   ],
-   "cited_by_count": 3,
-   "doi": "10.1007/jhep11(2026)101",
-   "is_retracted": false,
-   "keywords": [
-    "evolution operator",
-    "loop expansion",
-    "diagrammatic expansion",
-    "tree graphs",
-    "Hopf algebras",
-    "Wick contractions",
-    "recursive formula",
-    "quantum field theory"
-   ],
-   "language": "en",
-   "oa_created": "2026-05-27",
-   "peer_reviewed": true,
-   "publication": "Journal of High Energy Physics",
-   "publication_type": "article",
-   "published_date": "2026-11-11",
-   "related_versions": [],
-   "source_ids": [
-    "openalex:W7162411777"
-   ],
-   "title": "The diagrammar of quantum Magnusian",
-   "topics": [
-    "Advanced Topics in Algebra",
-    "Algebra and Number Theory"
-   ],
-   "updated_date": "2026-11-13",
-   "url": "https://doi.org/10.1007/jhep11(2026)101"
-  },
-  "score": 4.12,
-  "seen": 1,
-  "suggested": "quantum-field-theory",
-  "title": "The diagrammar of quantum Magnusian",
-  "url": "https://doi.org/10.1007/jhep11(2026)101"
- },
- {
-  "added": "2026-11-09",
-  "arxiv": "2311.00989",
-  "candidates": [
-   [
-    "algebraic-geometry",
-    3.98
-   ],
-   [
-    "geometry-and-topology",
-    3.7
-   ],
-   [
-    "number-theory",
-    3.1
-   ]
-  ],
-  "confidence": "medium",
-  "doi": "10.1515/crelle-2026-0078",
-  "keys": [
-   "arxiv:2311.00989",
-   "doi:10.1515/crelle-2026-0078",
-   "title:afrobeniusversionoftiansalphainvariant|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "Abstract For a pair ( X , L ) (X,L) consisting of a projective variety 𝑋 over a perfect field of characteristic p > 0 p>0 and an ample line bundle 𝐿 on 𝑋, we introduce and study a positive characteristic analog of Tian’s 𝛼-invariant, which we call the α F \\alpha_{F} -invariant . We utilize the theory of 𝐹-singularities in positive characteristics, and our approach is based on replacing klt singularities with the closely related notion of global 𝐹-regularity. We show that the α F \\alpha_{F} -invariant of a pair ( X , L ) (X,L) can be understood in terms of the global Frobenius splittings of the linear systems | m ⁢ L | m ≥ 0 \\lvert mL\\rvert_{m\\geq 0} . We establish inequalities relating the α F \\alpha_{F} -invariant with the 𝐹-signature, and use that to prove the positivity of the α F \\alpha_{F} -invariant for all globally 𝐹-regular projective varieties (with respect to any ample 𝐿 on 𝑋). When 𝑋 is a Fano variety and L = − K X L=-K_{X} , we prove that the α F \\alpha_{F} -invariant of 𝑋 is always bounded above by 1 2 \\frac{1}{2} and establish tighter comparisons with the 𝐹-signature. We also show that, for toric Fano varieties, the α F",
-   "abstract_license": null,
-   "arxiv": "2311.00989",
-   "authors": [
-    "Suchitra Pande"
-   ],
-   "categories": [
-    "OpenAlex-field:Mathematics"
-   ],
-   "cited_by_count": 4,
-   "doi": "10.1515/crelle-2026-0078",
-   "is_retracted": false,
-   "keywords": [
-    "Frobenius splitting",
-    "F-signature",
-    "F-singularities",
-    "klt singularities",
-    "positive characteristic",
-    "projective varieties",
-    "ample line bundles",
-    "Fano varieties",
-    "toric Fano varieties",
-    "linear systems"
-   ],
-   "language": "en",
-   "oa_created": "2023-11-04",
-   "peer_reviewed": true,
-   "publication": "Journal für die reine und angewandte Mathematik (Crelles Journal)",
-   "publication_type": "article",
-   "published_date": "2026-11-06",
-   "related_versions": [],
-   "source_ids": [
-    "openalex:W4388328978"
-   ],
-   "title": "A Frobenius version of Tian’s alpha-invariant",
-   "topics": [
-    "Algebraic Geometry and Number Theory",
-    "Geometry and Topology"
-   ],
-   "updated_date": "2026-11-08",
-   "url": "https://doi.org/10.1515/crelle-2026-0078"
-  },
-  "score": 3.98,
-  "seen": 1,
-  "suggested": "algebraic-geometry",
-  "title": "A Frobenius version of Tian’s alpha-invariant",
-  "url": "https://doi.org/10.1515/crelle-2026-0078"
- },
- {
-  "added": "2026-11-09",
-  "arxiv": "2603.18973",
-  "candidates": [
-   [
-    "dark-energy",
-    3.98
-   ],
-   [
-    "astronomy-and-astrophysics",
-    3.7
-   ],
-   [
-    "spectroscopy",
-    0.52
-   ]
-  ],
-  "confidence": "medium",
-  "doi": "10.3847/1538-4357/aeacd4",
-  "keys": [
-   "arxiv:2603.18973",
-   "doi:10.3847/1538-4357/aeacd4",
-   "title:idmageiithestarformingsatellitesoflowmasshosts|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "Abstract We present the first results of the ongoing Identifying Dwarfs of Magellanic Cloud Analog GalaxiEs (ID-MAGE) survey. This includes new velocities of 78 satellite candidates identified around 35 nearby LMC- and SMC-mass hosts ( D = 4–10 Mpc). Using new Green Bank Telescope H i observations, new optical long-slit spectroscopy from SALT and MDM 2.4 m, and Dark Energy Spectroscopic Instrument DR1, we find six are velocity-confirmed satellite galaxies (6.5 × 10 5 ≤ M ⋆ / M ⊙ ≤ 1.5 × 10 7 ) and 72 are background galaxies. Our results underscore the ability of spectroscopic follow-up to effectively separate satellites from background galaxies. Including the six newly velocity-confirmed satellites and the 19 satellites confirmed in the literature, the ID-MAGE hosts have a combined total of 25 confirmed satellites. This confirmed satellite sample includes the complete satellite populations of three hosts (UGC 04426: zero satellites; UGC 08201: zero satellites; NGC 3432: four satellites), which we compare to simulations and known satellite systems from previous systematic searches around low-mass hosts. Our confirmed satellite sample is nearly complete for the most massive satellites ( M ⋆ > 10 7 M ⊙ ). We find these satellites have a quenched fraction of 10%–25%, placing them between the <5% quenched fraction of isolated galaxies and the 40%–70% quenched fraction of Milky Way–analog satellites in the same stellar mass range (10 7 M ⊙ < M ⋆ < 10 8 M ⊙ ). This demonstrates the impact that low-mass galaxies have on the evolution of their satellites.",
-   "abstract_license": "cc-by",
-   "arxiv": "2603.18973",
-   "authors": [
-    "Laura E. Hunter",
-    "Burçı̇n Mutlu-Pakdı̇l",
-    "Michael B. Farnell",
-    "David J. Sand",
-    "Kristine Spekkens",
-    "Paul Bennet",
-    "S. Campana",
-    "Heidi Jo Newberg",
-    "Denija Crnojević",
-    "Amandine Doliva-Dolinsky",
-    "Emmanuel Durodola",
-    "Michael G. Jones",
-    "Donghyeon J. Khim",
-    "Laurella C. Marin",
-    "Ricardo J. Mendez",
-    "Deepthi S. Prabhu",
-    "Dennis Zaritsky"
-   ],
-   "categories": [
-    "OpenAlex-field:Physics and Astronomy"
-   ],
-   "cited_by_count": 4,
-   "doi": "10.3847/1538-4357/aeacd4",
-   "is_retracted": false,
-   "keywords": [
-    "satellite galaxies",
-    "dwarf galaxies",
-    "star formation quenching",
-    "quenched fraction",
-    "galaxy evolution",
-    "spectroscopic follow-up"
-   ],
-   "language": "en",
-   "oa_created": "2026-03-21",
-   "peer_reviewed": true,
-   "publication": "The Astrophysical Journal",
-   "publication_type": "article",
-   "published_date": "2026-11-06",
-   "related_versions": [],
-   "source_ids": [
-    "openalex:W7139950815"
-   ],
-   "title": "ID-MAGE. II. The Star-forming Satellites of Low-mass Hosts",
-   "topics": [
-    "Galaxies: Formation, Evolution, Phenomena",
-    "Astronomy and Astrophysics"
-   ],
-   "updated_date": "2026-11-08",
-   "url": "https://doi.org/10.3847/1538-4357/aeacd4"
-  },
-  "score": 3.98,
-  "seen": 1,
-  "suggested": "dark-energy",
-  "title": "ID-MAGE. II. The Star-forming Satellites of Low-mass Hosts",
-  "url": "https://doi.org/10.3847/1538-4357/aeacd4"
- },
- {
-  "added": "2026-11-09",
-  "arxiv": "2506.09884",
-  "candidates": [
-   [
-    "particle-physics",
-    3.48
-   ],
-   [
-    "bootstrap",
-    1.31
-   ]
-  ],
-  "confidence": "medium",
-  "doi": "10.1007/jhep11(2026)065",
-  "keys": [
-   "arxiv:2506.09884",
-   "doi:10.1007/jhep11(2026)065",
-   "title:bootstrappinggravitywithcrossingsymmetricdispersionrelations|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "A bstract We derive bounds on Wilson coefficients in gravitational effective field theories using fully crossing symmetric dispersion relations. These sum rules naturally isolate finite subsets of low-energy couplings without relying on the forward limit or specific high-energy completions. We validate our method by matching bounds computed previously for scalar scattering with gravity as well as for graviton scattering. For graviton scattering we construct crossing symmetric combinations of the maximal helicity violating amplitude. We also derive new bounds on the coupling of gravitons to a massive spin-4 state at tree level. These results demonstrate the power of crossing symmetric sum rules as a tool in the S-matrix bootstrap.",
-   "abstract_license": "cc-by",
-   "arxiv": "2506.09884",
-   "authors": [
-    "Celina Pasiecznik"
-   ],
-   "categories": [
-    "OpenAlex-field:Physics and Astronomy"
-   ],
-   "cited_by_count": 12,
-   "doi": "10.1007/jhep11(2026)065",
-   "is_retracted": false,
-   "keywords": [
-    "Wilson coefficients",
-    "sum rules",
-    "S-matrix bootstrap",
-    "graviton scattering",
-    "forward limit"
-   ],
-   "language": "en",
-   "oa_created": "2025-10-10",
-   "peer_reviewed": true,
-   "publication": "Journal of High Energy Physics",
-   "publication_type": "article",
-   "published_date": "2026-11-06",
-   "related_versions": [],
-   "source_ids": [
-    "openalex:W4417308925"
-   ],
-   "title": "Bootstrapping gravity with crossing symmetric dispersion relations",
-   "topics": [
-    "Black Holes and Theoretical Physics",
-    "Nuclear and High Energy Physics"
-   ],
-   "updated_date": "2026-11-08",
-   "url": "https://doi.org/10.1007/jhep11(2026)065"
-  },
-  "score": 3.48,
-  "seen": 1,
-  "suggested": "particle-physics",
-  "title": "Bootstrapping gravity with crossing symmetric dispersion relations",
-  "url": "https://doi.org/10.1007/jhep11(2026)065"
- },
- {
-  "added": "2026-11-09",
-  "arxiv": "2607.08654",
-  "candidates": [
-   [
-    "astronomy-and-astrophysics",
-    3.7
-   ],
-   [
-    "cosmology",
-    2.73
-   ],
-   [
-    "calibration",
-    0.79
-   ]
-  ],
-  "confidence": "medium",
-  "doi": "10.1103/2nwh-4rmv",
-  "keys": [
-   "arxiv:2607.08654",
-   "doi:10.1103/2nwh-4rmv",
-   "title:candistancedualityviolationsavelatetimesolutionstothehubbletension|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "The discrepancy between early- and late-Universe determinations of the Hubble constant may point to physics beyond $Λ$CDM or to unaccounted-for systematics. Numerous late-time modifications to the expansion history have been proposed to alleviate this discrepancy, with limited success. Recent works have shown that, when the sound-horizon and supernova calibrations are held fixed, any purely late-time resolution requires a violation of the cosmic distance duality relation (CDDR). Recasting the tension in the $r_d$-$M_B$ plane, we show explicitly that distance duality, together with BAO and uncalibrated supernova data and a fixed sound-horizon calibration, determines $H_0$ independently of the late-time expansion history. We then test the viability of the required CDDR violation by separately constraining reciprocity violation and photon number non-conservation, deriving a new constraint on reciprocity-violating distortions of angular-diameter distances from BAO and cosmic-chronometer data. Combining this result with existing photon-number-conservation constraints, we find that the level of distance-duality violation needed to resolve the tension is strongly disfavoured by current data. We therefore conclude that, for fixed sound-horizon and supernova calibrations, no modification confined to the late-time expansion history -- even one violating distance duality -- can resolve the Hubble tension, pointing instead toward early-Universe physics or unresolved local systematics.",
-   "abstract_license": null,
-   "arxiv": "2607.08654",
-   "authors": [
-    "Yashi Tiwari",
-    "Ujjwal Upadhyay",
-    "Shao-Jiang Wang",
-    "Vivian Poulin"
-   ],
-   "categories": [
-    "OpenAlex-field:Physics and Astronomy"
-   ],
-   "cited_by_count": 7,
-   "doi": "10.1103/2nwh-4rmv",
-   "is_retracted": false,
-   "keywords": [
-    "Hubble tension",
-    "Hubble constant",
-    "supernova calibration",
-    "BaO",
-    "cosmic chronometers",
-    "angular diameter distance",
-    "modified gravity",
-    "early universe physics"
-   ],
-   "language": "en",
-   "oa_created": "2026-07-11",
-   "peer_reviewed": true,
-   "publication": "Physical review. D/Physical review. D.",
-   "publication_type": "article",
-   "published_date": "2026-11-06",
-   "related_versions": [],
-   "source_ids": [
-    "openalex:W7167928252"
-   ],
-   "title": "Can distance duality violation save late-time solutions to the Hubble tension?",
-   "topics": [
-    "Cosmology and Gravitation Theories",
-    "Astronomy and Astrophysics"
-   ],
-   "updated_date": "2026-11-07",
-   "url": "https://doi.org/10.1103/2nwh-4rmv"
-  },
-  "score": 3.7,
-  "seen": 1,
-  "suggested": "astronomy-and-astrophysics",
-  "title": "Can distance duality violation save late-time solutions to the Hubble tension?",
-  "url": "https://doi.org/10.1103/2nwh-4rmv"
- },
- {
-  "added": "2026-11-16",
-  "arxiv": "2510.19904",
-  "candidates": [
-   [
-    "astronomy-and-astrophysics",
-    3.7
-   ],
-   [
-    "ray-tracing",
-    1.2
-   ],
-   [
-    "optimization",
-    0.26
-   ]
-  ],
-  "confidence": "medium",
-  "doi": "10.33232/001c.175274",
-  "keys": [
-   "arxiv:2510.19904",
-   "doi:10.33232/001c.175274",
-   "title:thesyntheticabsorptionlinespectralalmanacsalsa|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "We create the first large-scale mock spectroscopic survey of gas absorption sightlines traversing the interstellar medium (ISM), circumgalactic medium (CGM), and intergalactic medium (IGM) surrounding galaxies of virtual Universes. That is, we create mock, or synthetic, absorption spectra by drawing lines-of-sight through cosmological hydrodynamical simulations, using a new mesh-free Voronoi ray-tracing algorithm. The result is the Synthetic Absorption Line Spectral Almanac (SALSA), which is publicly released on a feature-rich online science platform (www.tng-project.org/spectra). It spans a range of ions, transitions, instruments, observational characteristics, assumptions, redshifts, and simulations. These include, but are not limited to: (ions) HI, OI, CI, MgI, MgII, FeII, SiII, CaII, ZnII, SiIII, SiIV, NV, CII, CIV, OVI; (instruments) SDSS-BOSS, KECK-HIRES, UVES, COS, DESI, 4MOST, WEAVE, XSHOOTER; (model choices) with/without dust depletion, noise, quasar continua, foregrounds; (redshift) from z=0 to z~6; (ancillary data) integrated equivalent widths, column densities, distances and properties of nearby galaxies; (simulations) IllustrisTNG including TNG50, TNG-Cluster, EAGLE, and SIMBA. We also provide line-of-sight integrals, including Faraday rotation measure (RM) probing magnetic fields, and dispersion measure (DM) as traced by fast radio bursts (FRBs). This scope is not fixed, and will grow and evolve with community interest and requests over time. The resulting dataset is generic and broadly applicable, enabling diverse science goals such as: (i) studies of the underlying physical gas structures giving rise to particular absorption signatures, (ii) galaxy-absorber and halo-absorber correlations, (iii) virtual surveys and survey strategy optimization, (iv) stacking experiments and the identification of faint absorption features, (v) assessment of data reduction methods and completeness calculations, (vi) inference of physical properties from observables, and (vii) apples-to-apples comparisons between simulations and data.",
-   "abstract_license": "cc-by",
-   "arxiv": "2510.19904",
-   "authors": [
-    "Dylan Nelson",
-    "Céline Péroux",
-    "Philipp Richter",
-    "Matthew M. Pieri",
-    "Sebastián López",
-    "Rongmon Bordoloi",
-    "Siwei Zou",
-    "Joseph N. Burchett",
-    "R. L. Davies",
-    "Rahul Ramesh",
-    "Matthew C. Smith",
-    "Sanchayeeta Borthakur",
-    "Christopher W. Churchill"
-   ],
-   "categories": [
-    "OpenAlex-field:Physics and Astronomy"
-   ],
-   "cited_by_count": 7,
-   "doi": "10.33232/001c.175274",
-   "is_retracted": false,
-   "keywords": [
-    "interstellar medium",
-    "circumgalactic medium",
-    "intergalactic medium",
-    "cosmological hydrodynamical simulations",
-    "IllustrisTNG",
-    "eagle",
-    "SIMBA",
-    "dust depletion",
-    "rotation measure",
-    "dispersion measure",
-    "fast radio bursts",
-    "equivalent widths",
-    "column density",
-    "stacking"
-   ],
-   "language": "en",
-   "oa_created": "2025-10-25",
-   "peer_reviewed": true,
-   "publication": "The Open Journal of Astrophysics",
-   "publication_type": "article",
-   "published_date": "2026-11-13",
-   "related_versions": [],
-   "source_ids": [
-    "openalex:W4416617133"
-   ],
-   "title": "The Synthetic Absorption Line Spectral Almanac (SALSA)",
-   "topics": [
-    "Galaxies: Formation, Evolution, Phenomena",
-    "Astronomy and Astrophysics"
-   ],
-   "updated_date": "2026-11-15",
-   "url": "https://doi.org/10.33232/001c.175274"
-  },
-  "score": 3.7,
-  "seen": 1,
-  "suggested": "astronomy-and-astrophysics",
-  "title": "The Synthetic Absorption Line Spectral Almanac (SALSA)",
-  "url": "https://doi.org/10.33232/001c.175274"
- },
- {
-  "added": "2026-11-22",
-  "arxiv": "2606.20257",
-  "candidates": [
-   [
-    "particle-physics",
-    3.48
-   ],
-   [
-    "calorimeters",
-    2.99
-   ]
-  ],
-  "confidence": "medium",
-  "doi": "10.1103/5dn8-b39f",
-  "keys": [
-   "arxiv:2606.20257",
-   "doi:10.1103/5dn8-b39f",
-   "title:measurementsofchargedparticlepseudorapidityandtransversemomentumdistributionsinooandnenecollisionsatsnn536tevwiththeatlasdetector|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "Measurements of charged-particle transverse momentum spectra, multiplicity, and mean transverse momentum are presented as a function of pseudorapidity and collision centrality in O+O and Ne+Ne collisions at s NN = 5.36 TeV using 27.7 μ b − 1 and 53.1 μ b − 1 data sets recorded by the ATLAS experiment at the LHC. The collision centrality is characterized by the total transverse energy measured in the ATLAS forward calorimeters. The kinematics of charged particles are reconstructed with the inner detector over the fiducial pseudorapidity and transverse momentum ranges | η | < 2.5 and 0.27 < p T < 5 GeV using data from the ATLAS inner detector. The per-event charged-particle pseudorapidity density d n / d η and mean transverse momentum ⟨ p T ⟩ are measured over this fiducial range as a function of η . The results are reported in 5%-wide centrality intervals covering the 5–80% centrality range, and in 1%-wide intervals covering the 0–5% centrality range. Invariant per-event yields are evaluated as a function of η and p T . Their p T dependence is fitted to estimate extrapolated d n / d η and ⟨ p T ⟩ values over 0 < p T < 5 GeV. To evaluate the impact of using pseudorapidity instead of rapidity, measurements are also performed as a function of rapidity computed using a pion mass hypothesis. The fiducial and extrapolated results are compared with hydrodynamic calculations.",
-   "abstract_license": null,
-   "arxiv": "2606.20257",
-   "authors": [
-    "G. Aad",
-    "E. Aakvaag",
-    "Braden Keim Abbott",
-    "Sara Abdelhameed",
-    "K. Abeling",
-    "Nils Julius Abicht",
-    "S. H. Abidi",
-    "Mohammed Aboelela",
-    "A. Aboulhorma",
-    "H. Abramowicz",
-    "B M. Acharya",
-    "A. Ackermann",
-    "C. Adam Bourdarios",
-    "Leszek Adamczyk",
-    "Sagar Addepalli",
-    "Matthew John Addison",
-    "J Adelman",
-    "A. Adiguzel",
-    "Tim Adye",
-    "A. A. Affolder",
-    "Y. Afik",
-    "M. N. Agaras",
-    "A. Aggarwal",
-    "C. Agheorghiesei",
-    "A. Ahmad",
-    "F. Ahmadov",
-    "Sudha Ahuja",
-    "Sonakshi Ahuja",
-    "X. Ai",
-    "G. Aielli",
-    "A. Aikot",
-    "M. Ait Tamlihat",
-    "T. P. A. Åkesson",
-    "Daiya Akiyama",
-    "N. N. Akolkar",
-    "S. Aktas",
-    "G. L. Alberghi",
-    "Justin Albert",
-    "U. Alberti",
-    "P Albicocco",
-    "Sara Alderweireldt",
-    "Z. L. Alegria",
-    "M. Aleksa",
-    "I N Aleksandrov",
-    "Calin Alexa",
-    "Theodoros Alexopoulos",
-    "Fabrizio Alfonsi",
-    "M. Algren",
-    "M. Alhroob",
-    "B. Ali",
-    "H. M. J. Ali",
-    "S. Ali",
-    "Samuel William Alibocus",
-    "M. Aliev",
-    "G Alimonti",
-    "Corentin Allaire",
-    "Benedict Allbrooke",
-    "D. R. Allen",
-    "Jonny Allen",
-    "Julia Frances Allen",
-    "Camron Stephen Alley",
-    "E. R. Almazan",
-    "A ALOISIO",
-    "F. Alonso",
-    "C. Alpigiani",
-    "A. Álvarez Fernández",
-    "M. Alves Cardoso",
-    "Mariagrazia Alviggi",
-    "Mohamed Aly",
-    "Yara Do Amaral Coutinho",
-    "C. Amelung",
-    "Maximilian Amerl",
-    "T. Amezza",
-    "B. Amini",
-    "K. Amirie",
-    "Artem Amirkhanov",
-    "Dimitra Amperiadou",
-    "S. An",
-    "C. Anastopoulos",
-    "T. Andeen",
-    "J. K. Anders",
-    "Adam Campbell Anderson",
-    "A. Andreazza",
-    "S. Angelidakis",
-    "O. Angelo-Macias",
-    "A. Angerami",
-    "A. V. Anisenkov",
-    "A. Annovi",
-    "C. Antel",
-    "E. Antipov",
-    "M. Antonelli",
-    "Fabio Anulli",
-    "M. Aoki",
-    "T. Aoki",
-    "M. A. Aparo",
-    "Ludovica Aperio Bella",
-    "Matteo Apicella",
-    "C. Appelt",
-    "Aram Apyan",
-    "M. Arampatzi"
-   ],
-   "categories": [
-    "OpenAlex-field:Physics and Astronomy"
-   ],
-   "cited_by_count": 11,
-   "doi": "10.1103/5dn8-b39f",
-   "is_retracted": false,
-   "keywords": [
-    "charged particle pseudorapidity distribution",
-    "transverse momentum distribution",
-    "O+O collisions",
-    "Ne+Ne collisions",
-    "heavy-ion collisions",
-    "collision centrality",
-    "pseudorapidity density",
-    "mean transverse momentum",
-    "total transverse energy",
-    "rapidity",
-    "hydrodynamic model",
-    "quark-gluon plasma",
-    "LHC"
-   ],
-   "language": "en",
-   "oa_created": "2026-06-24",
-   "peer_reviewed": true,
-   "publication": "Physical Review C",
-   "publication_type": "article",
-   "published_date": "2026-11-19",
-   "related_versions": [],
-   "source_ids": [
-    "openalex:W7165721827"
-   ],
-   "title": "Measurements of charged-particle pseudorapidity and transverse momentum distributions in O+O and Ne+Ne collisions at s N N = 5.36 TeV with the ATLAS detector",
-   "topics": [
-    "High-Energy Particle Collisions Research",
-    "Nuclear and High Energy Physics"
-   ],
-   "updated_date": "2026-11-21",
-   "url": "https://doi.org/10.1103/5dn8-b39f"
-  },
-  "score": 3.48,
-  "seen": 1,
-  "suggested": "particle-physics",
-  "title": "Measurements of charged-particle pseudorapidity and transverse momentum distributions in O+O and Ne+Ne collisions at s N N = 5.36 TeV with the ATLAS detector",
-  "url": "https://doi.org/10.1103/5dn8-b39f"
- },
- {
-  "added": "2026-11-05",
-  "arxiv": "2611.04412",
-  "candidates": [
-   [
-    "density-estimation",
-    5.4
-   ],
-   [
-    "electromagnetic-compatibility",
-    0.45
-   ],
-   [
-    "clustering",
-    0.33
-   ]
-  ],
-  "confidence": "medium",
-  "doi": null,
-  "keys": [
-   "arxiv:2611.04412",
-   "title:bandwidthrulesfordirichletkerneldensityestimationonthesimplex|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "Dirichlet kernels provide a natural tool for density estimation on the simplex, but data-driven bandwidth selection for them has been mostly limited to likelihood cross-validation (LCV). We develop bandwidth selectors for Dirichlet kernel estimators of densities and projected first derivatives for compositional data. Using a Dirichlet mixture as the reference model, we derive an exact representation of the mean integrated squared error (MISE) and define the exact MISE (EMI) selector. We also derive a closed-form least-squares cross-validation (LSCV) criterion and introduce the reference-smoothed least-squares (RSLS) selector, which replaces the unstable leave-one-out term of LSCV with the fitted Dirichlet mixture. For derivative estimation, we obtain projected derivatives of the Dirichlet density and their integrability conditions, extend the new bandwidth selectors, and carry out kernel mean shift clustering on the simplex. Simulations show that EMI is the most competitive selector for larger samples and Dirichlet-like targets, RSLS generally performs best for small samples and is more stable than LSCV for derivative estimation, and LCV remains competitive for non-Dirichlet targets in density estimation. Applications to wholesale customer expenditure and sectoral employment data illustrate density estimation and clustering, respectively.",
-   "abstract_license": "cc0-1.0 (arxiv metadata)",
-   "arxiv": "2611.04412",
-   "authors": [
-    "Jiajin Xie",
-    "Eduardo García-Portugués",
-    "Yong Wang"
-   ],
-   "categories": [
-    "arXiv:stat.ME"
-   ],
-   "cited_by_count": null,
-   "doi": null,
-   "is_retracted": null,
-   "keywords": [],
-   "language": "en",
-   "peer_reviewed": false,
-   "publication": "arXiv",
-   "publication_type": "preprint",
-   "published_date": "2026-11-03",
-   "related_versions": [],
-   "source_ids": [
-    "arxiv:2611.04412"
-   ],
-   "title": "Bandwidth rules for Dirichlet kernel density estimation on the simplex",
-   "topics": [],
-   "updated_date": "2026-11-03",
-   "url": "https://arxiv.org/abs/2611.04412"
-  },
-  "score": 5.4,
-  "seen": 2,
-  "suggested": "density-estimation",
-  "title": "Bandwidth rules for Dirichlet kernel density estimation on the simplex",
-  "url": "https://arxiv.org/abs/2611.04412"
- },
- {
-  "added": "2026-11-06",
-  "arxiv": "2611.05843",
-  "candidates": [
-   [
-    "inverse-problems",
-    5.4
-   ],
-   [
-    "generative-models",
-    2.35
-   ],
-   [
-    "statistics",
-    0.33
-   ]
-  ],
-  "confidence": "medium",
-  "doi": null,
-  "keys": [
-   "arxiv:2611.05843",
-   "title:dualflowjointimagemeasurementflowforinverseproblems|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "Existing generative model-based approaches to linear inverse problems typically use the acquired noisy measurement to condition or guide sampling in the image domain. In this work, we introduce Dual Flow, a novel joint flow model for solving linear inverse problems by jointly estimating the clean image and its corresponding noise-free measurement from the observation. Specifically, Dual Flow formulates image reconstruction and measurement denoising as a coupled estimation problem, using coupled flows in the image and measurement domains. The acquired noisy measurement $\\mathbf{y}_0$ is used only to initialize the measurement state; thereafter, the image and measurement states are jointly updated based on their current values. By construction, the final image and measurement estimates are guaranteed to satisfy the underlying forward model. We derive the sampling updates for the joint flow and show that they are governed by the conditional mean of the clean image given the current joint state. We further derive a closed-form expression for a sufficient statistic of the joint state and show that the required conditional mean can be obtained by solving an image-domain Gaussian denoising problem involving operator-dependent, correlated noise. We train a velocity-prediction network using this formulation to estimate the conditional mean from the derived sufficient statistic. Dual Flow requires no hyperparameter tuning beyond selecting the number of inference steps and achieves substantially shorter reconstruction times than competing methods. Extensive experiments across various linear inverse problems and image datasets demonstrate state-of-the-art performance in both distortion metrics and perceptual quality. Additional analyses assess robustness to model mismatch, as well as the ability to generate diverse plausible reconstructions and characterize reconstruction uncertainty.",
-   "abstract_license": "cc0-1.0 (arxiv metadata)",
-   "arxiv": "2611.05843",
-   "authors": [
-    "Sevket Ege Yesilyurt",
-    "Figen S. Oktem"
-   ],
-   "categories": [
-    "arXiv:eess.IV",
-    "arXiv:cs.CV"
-   ],
-   "cited_by_count": null,
-   "doi": null,
-   "is_retracted": null,
-   "keywords": [],
-   "language": "en",
-   "peer_reviewed": false,
-   "publication": "arXiv",
-   "publication_type": "preprint",
-   "published_date": "2026-11-04",
-   "related_versions": [],
-   "source_ids": [
-    "arxiv:2611.05843"
-   ],
-   "title": "Dual Flow: Joint Image-Measurement Flow for Inverse Problems",
-   "topics": [],
-   "updated_date": "2026-11-04",
-   "url": "https://arxiv.org/abs/2611.05843"
-  },
-  "score": 5.4,
-  "seen": 2,
-  "suggested": "inverse-problems",
-  "title": "Dual Flow: Joint Image-Measurement Flow for Inverse Problems",
-  "url": "https://arxiv.org/abs/2611.05843"
- },
- {
-  "added": "2026-11-06",
-  "arxiv": "2611.05968",
-  "candidates": [
-   [
-    "digital-twins",
-    5.4
-   ],
-   [
-    "automated-driving",
-    1.2
-   ]
-  ],
-  "confidence": "medium",
-  "doi": null,
-  "keys": [
-   "arxiv:2611.05968",
-   "title:intersiminnovativeintersectiondigitaltwinsforhumanintheloopdrivingsimulation|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "Innovative intersection designs can improve roadway safety and operational efficiency, but their uncommon geometries may create challenges for driver comprehension during early deployment. Evaluating these designs through full-scale field implementation can also be costly. This paper presents InterSim, a Unity game engine-based human-in-the-loop (HITL) driving simulator that constructs digital twins of site-specific innovative intersections in a virtual environment. InterSim links the real world and the simulation world through two closed cycles: a digital twin cycle that builds each intersection twin from agency design and traffic data and returns evidence from simulation to the agency, and an HITL cycle in which human drivers or automated driving algorithms operate the ego vehicle under identical scenario conditions. The research capabilities of InterSim are demonstrated through two case studies: a surrogate safety study compares post-encroachment time distributions between a Reduced Conflict Intersection and a standard intersection under different traffic volumes; an eco-driving study compares human drivers with a rule-based agent using vehicle-to-infrastructure information and reveals differences in emission and driving behavior. These studies demonstrate that InterSim provides a reusable digital twin platform for investigating innovative intersection designs from diverse perspectives. Demo video and open-source code can be accessed at https://purduedigitaltwin.github.io/InterSim/",
-   "abstract_license": "cc0-1.0 (arxiv metadata)",
-   "arxiv": "2611.05968",
-   "authors": [
-    "Luyang Jiang",
-    "Chuheng Wei",
-    "Yaguang Li",
-    "Shaoqi Wang",
-    "Yupeng Zhou",
-    "Hyunsoo Yun",
-    "Xishun Liao",
-    "Brandon Pitts",
-    "Ziran Wang"
-   ],
-   "categories": [
-    "arXiv:cs.CE",
-    "arXiv:cs.CY",
-    "arXiv:cs.ET"
-   ],
-   "cited_by_count": null,
-   "doi": null,
-   "is_retracted": null,
-   "keywords": [],
-   "language": "en",
-   "peer_reviewed": false,
-   "publication": "arXiv",
-   "publication_type": "preprint",
-   "published_date": "2026-11-04",
-   "related_versions": [],
-   "source_ids": [
-    "arxiv:2611.05968"
-   ],
-   "title": "InterSim: Innovative Intersection Digital Twins for Human-in-the-Loop Driving Simulation",
-   "topics": [],
-   "updated_date": "2026-11-04",
-   "url": "https://arxiv.org/abs/2611.05968"
-  },
-  "score": 5.4,
-  "seen": 2,
-  "suggested": "digital-twins",
-  "title": "InterSim: Innovative Intersection Digital Twins for Human-in-the-Loop Driving Simulation",
-  "url": "https://arxiv.org/abs/2611.05968"
- },
- {
-  "added": "2026-11-07",
-  "arxiv": "2611.07653",
-  "candidates": [
-   [
-    "drug-discovery",
-    5.4
-   ],
-   [
-    "autonomous-systems",
-    1.2
-   ]
-  ],
-  "confidence": "medium",
-  "doi": null,
-  "keys": [
-   "arxiv:2611.07653",
-   "title:pharmagents2towardsautonomousendtoenddrugdiscovery|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "Drug discovery requires continuous scientific decision-making across a vast research space. We introduce PharmAgents2, an autonomous system for end-to-end drug discovery that combines knowledge-enhanced decision-making with organized large-scale exploration. Paper2Skill extracts transferable scientific decision knowledge from public sources and, together with expert-developed skills, supports research decisions. Self-Scaling Discovery expands exploration through parallel agents inheriting research context and decision-making capabilities across targets, scientific hypotheses, and discovery strategies. We introduce PharmAgents-Bench v0.1, comprising 121 questions across nine decision scenarios and three end-to-end tasks assessed with expert-defined process rubrics. PharmAgents2 outperforms evaluated baselines in most decision categories and achieves the highest process scores on all three end-to-end tasks. In three real-world studies, autonomous investigations generated findings subsequently supported by human-executed experiments. For LpxH, PharmAgents2 hypothesized a previously unreported allosteric site and screened compounds against it, identifying a novel inhibitor scaffold with experimentally confirmed inhibitory activity and binding. For JAK1, it prioritized a covalent inhibition strategy and nominated compounds with experimentally demonstrated activity. Starting from a known bioactive molecule, Self-Scaling Discovery explored candidate targets across the proteome and identified a new binding target, with the interaction subsequently confirmed experimentally. PharmAgents2 represents a prototype of a virtual pharmaceutical company, marking a step toward autonomous end-to-end drug discovery.",
-   "abstract_license": "cc0-1.0 (arxiv metadata)",
-   "arxiv": "2611.07653",
-   "authors": [
-    "Haichuan Tan",
-    "Bowen Gao",
-    "Tao Huang",
-    "Jiaxin Tan",
-    "Xin Hong",
-    "Baoguo Yao",
-    "Yifei Wang",
-    "Zhichao Deng",
-    "Hanji Du",
-    "Dapeng Jiang",
-    "Yiheng Li",
-    "Weiwei Ma",
-    "Xin Ma",
-    "Yuqi Shi",
-    "Zixiang Wang",
-    "Kelin Wu",
-    "Tianxiang Wu",
-    "Wenxuan Xie",
-    "Jie Zang",
-    "Huiyu Zhang",
-    "Mojia Zhang",
-    "Yuying Zhang",
-    "Ya-Qin Zhang",
-    "Wei-Ying Ma",
-    "Yanyan Lan"
-   ],
-   "categories": [
-    "arXiv:cs.AI",
-    "arXiv:q-bio.QM"
-   ],
-   "cited_by_count": null,
-   "doi": null,
-   "is_retracted": null,
-   "keywords": [],
-   "language": "en",
-   "peer_reviewed": false,
-   "publication": "arXiv",
-   "publication_type": "preprint",
-   "published_date": "2026-11-05",
-   "related_versions": [],
-   "source_ids": [
-    "arxiv:2611.07653"
-   ],
-   "title": "PharmAgents2: Towards Autonomous End-to-End Drug Discovery",
-   "topics": [],
-   "updated_date": "2026-11-05",
-   "url": "https://arxiv.org/abs/2611.07653"
-  },
-  "score": 5.4,
-  "seen": 2,
-  "suggested": "drug-discovery",
-  "title": "PharmAgents2: Towards Autonomous End-to-End Drug Discovery",
-  "url": "https://arxiv.org/abs/2611.07653"
- },
- {
-  "added": "2026-11-08",
-  "arxiv": null,
-  "candidates": [
-   [
-    "electric-vehicles",
-    4.7
-   ],
-   [
-    "electrical-and-electronic-engineering",
-    4.3
-   ]
-  ],
-  "confidence": "medium",
-  "doi": "10.22299/apst.2026.288032",
-  "keys": [
-   "doi:10.22299/apst.2026.288032",
-   "title:technoeconomicfeasibilityofevchargingstationdeploymentinresidentialbuildingsacondominiumcasestudyinbangkok|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "The rapid growth of electric vehicle (EV) adoption in Thailand has increased demand for charging infrastructure, particularly at high-density residential buildings with parking and electrical-capacity constraints. This study evaluates the techno-economic feasibility of installing two 60 kW DC chargers and two 22 kW AC chargers at a condominium in Bangkok, with an initial investment of THB 1,990,500 excluding VAT. The assessment integrates project quotations, site-specific electrical designs, charger specifications, and scenario-based financial modeling. Technical feasibility was assessed based on installation requirements, electrical compatibility, and safety provisions, while economic feasibility was evaluated using net present value (NPV), internal rate of return (IRR), and simple payback period (PB). The proposed configuration satisfied the specified technical requirements. Three utilization scenarios considered DC charging for 4–6 h/day and AC charging for 10–14 h/day. Electricity costs were modeled at THB 4.50/kWh, with additional increases of 2.5% and 5% and corresponding adjustments to charging prices. A 10-year project lifetime and a 5.5% discount rate were assumed. The results showed NPVs ranging from THB 382,947.62 to THB 3,527,186.83, IRRs from 9.34% to 34.94%, and PBs from 2.72 to 6.32 years. The best-performing scenario, with DC and AC utilization of 6 and 14 h/day, respectively, achieved an NPV of THB 3,527,186.83, an IRR of 34.94%, and a PB of 2.72 years. Charger utilization, particularly DC utilization, was a key determinant of economic viability. Mixed AC/DC charging infrastructure may therefore be economically attractive under the modeled conditions, although the utilization assumptions were not validated using long-term measured charging-demand data.",
-   "abstract_license": "cc-by-nc-nd",
-   "arxiv": null,
-   "authors": [
-    "Chatchaphon Ketviriyakit",
-    "Pasura Aungkulanon",
-    "Pongchanun Luangpaiboon",
-    "Lakkana Ruekkasaem"
-   ],
-   "categories": [
-    "OpenAlex-field:Engineering"
-   ],
-   "cited_by_count": 0,
-   "doi": "10.22299/apst.2026.288032",
-   "is_retracted": false,
-   "keywords": [],
-   "language": "en",
-   "oa_created": "2026-11-07",
-   "peer_reviewed": true,
-   "publication": "Asia-Pacific Journal of Science and Technology",
-   "publication_type": "article",
-   "published_date": "2026-11-04",
-   "related_versions": [],
-   "source_ids": [
-    "openalex:W7225388766"
-   ],
-   "title": "Techno-Economic Feasibility of EV Charging Station Deployment in Residential Buildings: A Condominium Case Study in Bangkok",
-   "topics": [
-    "Electric Vehicles and Infrastructure",
-    "Electrical and Electronic Engineering"
-   ],
-   "updated_date": "2026-11-07",
-   "url": "https://doi.org/10.22299/apst.2026.288032"
-  },
-  "score": 4.7,
-  "seen": 1,
-  "suggested": "electric-vehicles",
-  "title": "Techno-Economic Feasibility of EV Charging Station Deployment in Residential Buildings: A Condominium Case Study in Bangkok",
-  "url": "https://doi.org/10.22299/apst.2026.288032"
  }
 ]

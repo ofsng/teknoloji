@@ -75,7 +75,10 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **2**.
+
+- [GSAlign: Optical Alignment for Photorealistic Dynamic 3D Reconstruction from UGC in Web3](Arastirmalar/2026-Ding-GSAlign-Optical-Alignment-for.md) — Ding vd. (2026) · *ACM Transactions on Multimedia Computing Communications and Applications* · hakemli · atıf: 1
+- [Refraction-aware calibration and rectification for accurate underwater stereo 3D reconstruction](Arastirmalar/2026-Zhang-Refraction-aware-calibration-and.md) — Zhang vd. (2026) · *Measurement Science and Technology* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -83,7 +86,10 @@ Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
-_Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini göstermez; ön baskılar hakemli değildir._
+Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
+
+- [GSAlign: Optical Alignment for Photorealistic Dynamic 3D Reconstruction from UGC in Web3](Arastirmalar/2026-Ding-GSAlign-Optical-Alignment-for.md) — Ding vd. (2026) · *ACM Transactions on Multimedia Computing Communications and Applications* · hakemli · atıf: 1
+- [Refraction-aware calibration and rectification for accurate underwater stereo 3D reconstruction](Arastirmalar/2026-Zhang-Refraction-aware-calibration-and.md) — Zhang vd. (2026) · *Measurement Science and Technology* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

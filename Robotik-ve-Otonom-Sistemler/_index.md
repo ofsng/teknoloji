@@ -89,7 +89,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **9**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **10**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -99,6 +99,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [A Single Human Video as a Motion Prior: Residual Reinforcement Learning and Diffusion Distillation for Vision-Based Dexterous Manipulation](Robot-Manipulasyonu/Becerikli-Manipulasyon/Arastirmalar/2026-Huang-Single-Human-Video-Motion.md) — Huang vd. (2026) · *Electronics* · hakemli
 - [Visibility-Aware Task and Motion Planning with Task-Centric Perception](Robot-Hareket-Planlama/Gorev-ve-Hareket-Planlama/Arastirmalar/2026-Chintalapudi-Visibility-Aware-Task-and.md) — Chintalapudi vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [Performance- and Mechanical-Work-Aware Control Reconfiguration of a Mecanum-Wheeled Mobile Robot After Complete Wheel Actuator Failure](Robot-Turleri/Mobil-Robotlar/Arastirmalar/2026-Nguyen-Performance-and-Mechanical-Work.md) — Nguyen vd. (2026) · *Automation* · hakemli
 - [MXene-PS-Based Soft Actuator with Deformation Reversal Capability through Time-Sequence Difference of Asymmetric Water Absorption Kinetics](Robot-Turleri/Yumusak-Robotik/Yumusak-Eyleyiciler/Arastirmalar/2026-Chen-MXene-Based-Soft-Actuator.md) — Chen vd. (2026) · *ACS Nano* · hakemli
@@ -106,7 +107,6 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [Reflection-Robust Stereo Visual-Inertial Odometry via Kalman-Filtered Ground-Height Estimation](Robot-Algilama/Eszamanli-Konum-Belirleme-ve-Haritalama/Gorsel-Ataletsel-Odometri/Arastirmalar/2026-Hwang-Reflection-Robust-Stereo-Visual.md) — Hwang vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [Online Adaptation to Latent Physical Properties for Learning from Demonstration](Robot-Ogrenmesi/Gosterimden-Ogrenme/Arastirmalar/2026-Kajitsuka-Online-Adaptation-Latent-Physical.md) — Kajitsuka vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [A human-centric large language model interface for monitoring and control of autonomous mobile robots via digital twins in industry 5.0](Robot-Turleri/Mobil-Robotlar/Otonom-Mobil-Robotlar/Arastirmalar/2026-Pitel-human-centric-large-language.md) — Piteľ vd. (2026) · *Production & Manufacturing Research* · hakemli
-- [Model-free observer-based voltage control of non-holonomic mobile robot using reinforcement learning](Robot-Turleri/Mobil-Robotlar/Arastirmalar/2026-Khodamipour-Model-free-observer-based.md) — Khodamipour (2026) · *Scientific Reports* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

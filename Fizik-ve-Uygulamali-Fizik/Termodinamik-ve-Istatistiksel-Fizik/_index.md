@@ -78,7 +78,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -89,6 +89,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
 - [A Study on Comparison of Three Different Statistical Mechanics Theory](Istatistiksel-Mekanik/Arastirmalar/2026-Jha-Study-Comparison-Three-Different.md) — Jha vd. (2026) · *Amrit Journal* · hakemli
+- [Stochastic Thermodynamics for Autoregressive Generative Models: A Non-Markovian Perspective](Stokastik-Termodinamik/Arastirmalar/2026-Sagawa-Stochastic-Thermodynamics-for-Autoregress.md) — Sagawa (2026) · *PRX Intelligence 1, 023013 (2026)* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

@@ -17,13 +17,13 @@ classification_confidence: high
 classification_method: deterministic
 keywords: ["right-handed neutrinos", "seesaw mechanism", "cosmic inflation", "gravitational particle production", "inflationary gravitational waves", "baryon asymmetry"]
 source_ids: ["openalex:W7160627155"]
-cited_by_count: 2
-content_status: metadata_only
-abstract_license:
+cited_by_count: 4
+content_status: abstract_only
+abstract_license: cc-by
 retraction_status: none_reported
 related_versions: []
 collected_at: 2026-11-06
-last_checked_at: 2026-11-08
+last_checked_at: 2026-11-23
 content_verified: false
 identifier_verified: crossref
 retraction_checked: 2026-11-08
@@ -33,7 +33,9 @@ retraction_checked: 2026-11-08
 
 ## 1. Araştırmanın özeti
 
-_Özet kaynakta mevcut; yeniden yayım lisansı doğrulanamadığından depoya kopyalanmadı. Özet için kaynağa bakın: https://doi.org/10.1103/mzv7-7v5q_
+> We explore the coincidence of scales between cosmic inflation and right-handed neutrinos in seesaw models. We show that inflation models, which will be tested by next-generation cosmic microwave background experiments, can produce right-handed neutrinos in sufficient abundance to explain the observed baryon asymmetry of the Universe. The model can be tested by gravitational wave signatures from cosmic inflation and particle production.
+
+*Özet kaynağı: openalex:W7160627155 — lisans: cc-by. Tam metin incelenmedi.*
 
 ## 2. Ele aldığı problem
 

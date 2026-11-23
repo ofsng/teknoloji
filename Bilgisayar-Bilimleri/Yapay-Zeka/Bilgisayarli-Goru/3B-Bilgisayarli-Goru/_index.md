@@ -79,7 +79,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **2**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **4**.
 
 - [Spectral 3D Computer Vision -- A Review](Arastirmalar/2023-Sun-Spectral-Computer-Vision-Review.md) — Sun vd. (2023) · *arXiv* · ön baskı / hakemsiz
 <!-- AUTO:RESEARCH:END -->
@@ -91,6 +91,8 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [GSAlign: Optical Alignment for Photorealistic Dynamic 3D Reconstruction from UGC in Web3](3B-Yeniden-Yapilandirma/Arastirmalar/2026-Ding-GSAlign-Optical-Alignment-for.md) — Ding vd. (2026) · *ACM Transactions on Multimedia Computing Communications and Applications* · hakemli · atıf: 1
+- [Refraction-aware calibration and rectification for accurate underwater stereo 3D reconstruction](3B-Yeniden-Yapilandirma/Arastirmalar/2026-Zhang-Refraction-aware-calibration-and.md) — Zhang vd. (2026) · *Measurement Science and Technology* · hakemli
 - [Marigold V2: Revisiting Diffusion Transformers for Monocular Depth Estimation](Derinlik-Kestirimi/Arastirmalar/2026-Pavlovic-Marigold-Revisiting-Diffusion-Transform.md) — Pavlovic vd. (2026) · *ACM Transactions on Graphics* · hakemli · atıf: 4
 <!-- AUTO:RECENT:END -->
 

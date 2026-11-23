@@ -88,7 +88,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **4**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **5**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -98,6 +98,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [From Resistive to FET-Type Gas Sensors: Enhanced Capability through the Addition of Terminals](Kimyasal-ve-Gaz-Sensorleri/Gaz-Sensorleri/Arastirmalar/2026-Yuan-From-Resistive-FET-Type.md) — Yuan vd. (2026) · *Nano Letters* · hakemli
 - [Modeling zero-bias drift in a fiber-optic gyroscope using Dynamic Mode Decomposition (DMD)](Ataletsel-Sensorler/Jiroskoplar/Fiber-Optik-Jiroskoplar/Arastirmalar/2026-Fomichev-Modeling-zero-bias-drift.md) — Fomichev vd. (2026) · *Journal of Radio Electronics* · hakemli
 - [Influence of Probing System Configuration and Sampling Strategy on Roundness and Cylindricity Measurements Using a Coordinate Measuring Machine](Metroloji/Boyutsal-Metroloji/Koordinat-Olcum-Makineleri/Arastirmalar/2026-Kubatova-Influence-Probing-System-Configuration.md) — Kubátová vd. (2026) · *Materials* · hakemli
 - [Toward city-scale structural health monitoring: Architectural gaps, a modular plug-and-play framework, and research directions](Yapisal-Saglik-Izleme/Arastirmalar/2026-Okur-Toward-city-scale-structural.md) — Okur (2026) · *Advances in Structural Engineering* · hakemli

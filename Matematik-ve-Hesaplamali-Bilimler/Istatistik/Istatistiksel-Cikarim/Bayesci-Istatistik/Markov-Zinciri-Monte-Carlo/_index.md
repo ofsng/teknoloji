@@ -76,7 +76,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **2**.
+
+- [Quantum-enhanced Markov Chain Monte Carlo for Combinatorial Optimization](Arastirmalar/2026-Marshall-Quantum-enhanced-Markov-Chain.md) — Marshall vd. (2026) · *Physical Review Research* · hakemli · atıf: 11
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -86,6 +88,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Quantum-enhanced Markov Chain Monte Carlo for Combinatorial Optimization](Arastirmalar/2026-Marshall-Quantum-enhanced-Markov-Chain.md) — Marshall vd. (2026) · *Physical Review Research* · hakemli · atıf: 11
 - [Bayesian parameter estimation of SIR and SIRD models for COVID-19 in Indonesia using Metropolis–Hastings and Hamiltonian Monte Carlo](Hamilton-Monte-Carlo/Arastirmalar/2026-Naftali-Bayesian-parameter-estimation-SIR.md) — Naftali vd. (2026) · *Communications in Mathematical Biology and Neuroscience* · hakemli
 <!-- AUTO:RECENT:END -->
 

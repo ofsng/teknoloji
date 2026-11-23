@@ -87,7 +87,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **54**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **60**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -97,14 +97,14 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Implementing a Clinical Decision Support System for Pressure Injury Risk Management in Intensive Care Nursing: A Mixed‐Methods Evaluation](Dijital-Saglik/Saglik-Bilisimi/Klinik-Karar-Destek-Sistemleri/Arastirmalar/2026-Adibelli-Implementing-Clinical-Decision-Support.md) — Adıbelli vd. (2026) · *Journal of Advanced Nursing* · hakemli
+- [What is phage therapy?](Ileri-Tedaviler/Faj-Tedavisi/Arastirmalar/2026-Rose-What-phage-therapy.md) — Rose vd. (2026) · *Archives of Disease in Childhood Education & Practice* · hakemli
+- [Long-term follow-up and late complications of CAR-T cell therapy](Ileri-Tedaviler/Hucre-Tedavisi/CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Fatobene-Long-term-follow-and.md) — Fatobene vd. (2026) · *JOURNAL OF BONE MARROW TRANSPLANTATION AND CELLULAR THERAPY* · hakemli
+- [Prospective digital neurocognitive and patient-reported symptom monitoring in adults scheduled for CAR T-cell therapy: feasibility and exploratory patient-level observations from a single-center cohort](Ileri-Tedaviler/Hucre-Tedavisi/CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Fleischer-Prospective-digital-neurocognitive-and.md) — Fleischer vd. (2026) · *Supportive Care in Cancer* · hakemli
+- [CAR T-Cell Therapy in Multiple Myeloma](Ileri-Tedaviler/Hucre-Tedavisi/CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Maiolino-CAR-Cell-Therapy-Multiple.md) — Maiolino vd. (2026) · *JOURNAL OF BONE MARROW TRANSPLANTATION AND CELLULAR THERAPY* · hakemli
+- [Molecular diagnostics and liquid biopsy approaches in diffuse midline glioma: an update and literature review](Klinik-Teshis/Molekuler-Teshis/Sivi-Biyopsi/Arastirmalar/2026-Damodharan-Molecular-diagnostics-and-liquid.md) — Damodharan vd. (2026) · *Child s Nervous System* · hakemli
 - [Advanced Hybrid Closed-Loop Insulin Delivery System in Asian Patients With Type 1 Diabetes: Exploratory Study](Biyomedikal-Muhendisligi/Yapay-Organlar/Yapay-Pankreas/Arastirmalar/2026-Zeng-Advanced-Hybrid-Closed-Loop.md) — Zeng vd. (2026) · *JMIR Formative Research* · hakemli
 - [NKTR-255, a polymer-conjugated IL-15, enhances CAR T cell therapy by engaging endogenous antitumor immunity](Ileri-Tedaviler/Hucre-Tedavisi/CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Nutt-NKTR-255-polymer-conjugated.md) — Nutt vd. (2026) · *Cancer Immunology Research* · hakemli · atıf: 1
-- [Before the CAR arrives: how neuro-oncological treatment history shapes CAR-T cell therapy in brain tumors](Ileri-Tedaviler/Hucre-Tedavisi/CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Baldo-Before-the-CAR-arrives.md) — Baldo vd. (2026) · *Frontiers in Immunology* · hakemli
-- [Identification of lead CD24 scFvs for integration into CAR T-cell therapy](Ileri-Tedaviler/Hucre-Tedavisi/CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Lysandrou-Identification-lead-CD24-scFvs.md) — Lysandrou vd. (2026) · *Frontiers in Immunology* · hakemli
-- [Advances in chimeric antigen receptor T (CAR-T) cell therapy and limitations for treating breast cancer requires next generation of CAR-T cells treatment](Ileri-Tedaviler/Hucre-Tedavisi/CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Nawaz-Advances-chimeric-antigen-receptor.md) — Nawaz vd. (2026) · *Cancer Cell International* · hakemli
-- [Hemostatic complications after CAR T-cell therapy: linking immunothrombotic mechanisms to phase-adapted management](Ileri-Tedaviler/Hucre-Tedavisi/CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Zhao-Hemostatic-complications-after-CAR.md) — Zhao vd. (2026) · *Journal of Translational Medicine* · hakemli
-- [PET/CT in CAR T-Cell Therapy for Hematologic Malignancies: A Bibliometric and Clinically Annotated Analysis](Ileri-Tedaviler/Hucre-Tedavisi/CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Arslan-PET-CAR-Cell-Therapy.md) — Arslan vd. (2026) · *Hemato* · hakemli
-- [Bridging to CD19 CAR T-cell therapy for large B-cell lymphoma: An analysis of 1,134 patients by the EBMT Lymphoma Working Party and the GoCART Coalition](Ileri-Tedaviler/Hucre-Tedavisi/CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Berning-Bridging-CD19-CAR-cell.md) — Berning vd. (2026) · *Bone Marrow Transplantation* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

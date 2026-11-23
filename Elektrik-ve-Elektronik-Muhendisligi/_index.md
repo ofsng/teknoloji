@@ -87,7 +87,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **50**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **53**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -97,14 +97,14 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Design of an RF MEMS Switched Metamaterial Patch Antenna for Sensing Applications](Elektromanyetik/RF-ve-Mikrodalga/RF-MEMS/Arastirmalar/2026-Cismaru-Design-MEMS-Switched-Metamaterial.md) — Cismaru vd. (2026) · *Sensors* · hakemli
+- [Cross-sectional geometry and doping co-optimization in triangular-channel gate-all-around FETs for the 2nm technology node](Elektronik-Cihazlar/Alan-Etkili-Transistorler/MOSFET/Kapi-Cevrelemeli-FET/Arastirmalar/2026-Cho-Cross-sectional-geometry-and.md) — Cho vd. (2026) · *Engineering Research Express* · hakemli
+- [Sustainable Alumina/Silk Fibroin Hybrid Dielectrics for Low-Temperature Fabrication of Flexible Organic Electronics](Elektronik-Cihazlar/Organik-Elektronik/Arastirmalar/2026-Natali-Sustainable-Alumina-Silk-Fibroin.md) — Natali vd. (2026) · *ACS Omega* · hakemli
 - [Direction-Aware Timing Modeling for Reinforcement-Learning-Based Clock Arrival Time Optimization in Power-Integrity-Aware Physical Design](Analog-ve-Sayisal-Elektronik/Baskili-Devre-Karti-Tasarimi/Guc-Butunlugu/Arastirmalar/2026-HUANG-Direction-Aware-Timing-Modeling.md) — HUANG vd. (2026) · *ACM Transactions on Design Automation of Electronic Systems* · hakemli
 - [Efficiency Optimization of LLC Resonant Converters via Combined Analytical Modeling and Data-Assisted Visualization](Guc-Elektronigi/DA-DA-Donusturuculer/Rezonansli-Donusturuculer/Arastirmalar/2026-Athar-Efficiency-Optimization-LLC-Resonant.md) — Athar vd. (2026) · *Electronics* · hakemli
 - [Least ln-cosh-based adaptive filtering algorithm for graph signal processing](Sinyal-Isleme/Cizge-Sinyal-Isleme/Arastirmalar/2026-Zhang-Least-cosh-based-adaptive.md) — Zhang vd. (2026) · *IEEE Trans. Aerosp. Electron. Syst., early access, 2026* · hakemli
 - [Large-signal stability analysis of reduced-order droop-controlled grid-forming inverters in islanded microgrids](Guc-Elektronigi/Eviriciler/Sebeke-Kuran-Eviriciler/Arastirmalar/2026-Verma-Large-signal-stability-analysis.md) — Verma vd. (2026) · *International Journal of Emerging Electric Power Systems* · hakemli
 - [BeiDou positioning signal interference recognition and processing algorithm based on time-frequency analysis](Sinyal-Isleme/Zaman-Frekans-Analizi/Arastirmalar/2026-Yuan-BeiDou-positioning-signal-interference.md) — Yuan vd. (2026) · *Discover Computing* · hakemli
-- [Centralized vehicle-to-grid coordination for behind-the-meter value in commercial fleets: Evidence and deployment lessons from a pilot demonstration](Elektrik-Guc-Sistemleri/Akilli-Sebekeler/Aractan-Sebekeye/Arastirmalar/2026-Egunjobi-Centralized-vehicle-grid-coordination.md) — Egunjobi vd. (2026) · *Energy Reports* · hakemli
-- [A blockchain-secured multi-agent GNN–XGBoost framework for intelligent energy coordination in IoT-enabled sustainable smart grids](Elektrik-Guc-Sistemleri/Akilli-Sebekeler/Arastirmalar/2026-Kommerla-blockchain-secured-multi-agent.md) — Kommerla vd. (2026) · *Scientific Reports* · hakemli
-- [Alternating Methods for Large-Scale AC Optimal Power Flow with Unit Commitment](Elektrik-Guc-Sistemleri/Elektrik-Piyasalari/Arastirmalar/2026-Brun-Alternating-Methods-for-Large.md) — Brun vd. (2026) · *Operations Research* · hakemli · atıf: 3
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

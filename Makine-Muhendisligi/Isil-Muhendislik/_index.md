@@ -80,7 +80,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **4**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **5**.
 
 - [Study on flow and heat transfer characteristics of a D-type triple-period minimal surface heat exchanger](Arastirmalar/2026-Wu-Study-flow-and-heat.md) — Wu vd. (2026) · *International Journal of Turbo and Jet Engines* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -92,6 +92,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [A direct experimental link between three-phase contact line behavior and microscale heat transfer mechanisms beneath individual bubbles](Isi-Transferi/Mikro-Olcekli-Isi-Transferi/Arastirmalar/2026-Roodbari-direct-experimental-link-between.md) — Roodbari vd. (2026) · *International Journal of Heat and Mass Transfer* · hakemli
 - [High-Temperature Water-to-Water Heat Pumps for the Retrofit of a Residential Complex](Iklimlendirme-Muhendisligi/Isi-Pompalari/Arastirmalar/2026-Hiris-High-Temperature-Water-Water.md) — Hiris vd. (2026) · *Buildings* · hakemli
 - [MODELING OF TECHNOLOGICAL EQUIPMENT FOR THE PURPOSE OF PLATE HEAT EXCHANGERS INTEGRATION INTO THE HYDRAULIC SYSTEM USING THE EXAMPLE OF HEAVY-DUTY VEHICLES](Isi-Degistiriciler/Arastirmalar/2026-Salnikov-MODELING-TECHNOLOGICAL-EQUIPMENT-FOR.md) — Salnikov vd. (2026) · *Integrated Technologies and Energy Saving* · hakemli
 - [Study on flow and heat transfer characteristics of a D-type triple-period minimal surface heat exchanger](Arastirmalar/2026-Wu-Study-flow-and-heat.md) — Wu vd. (2026) · *International Journal of Turbo and Jet Engines* · hakemli

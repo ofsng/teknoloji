@@ -77,9 +77,10 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **2**.
+Arşivdeki kayıtlar — bu düğüm: **3**, alt teknolojiler dahil: **3**.
 
 - [Fire Bloom: Energy-Efficient Cluster-Based Routing Protocol for Scalable Wireless Sensor Networks](Arastirmalar/2026-Nagaraju-Fire-Bloom-Energy-Efficient.md) — Nagaraju vd. (2026) · *Journal of ICT Research and Applications* · hakemli
+- [Optimizing energy efficiency in IoT enabled wireless sensor networks via Gegenbauer graph neural network](Arastirmalar/2026-S-Optimizing-energy-efficiency-IoT.md) — S. vd. (2026) · *Scientific Reports* · hakemli
 - [An Adaptive Trust-Based Approach to the Protection of Software-Defined Wireless Sensor Networks Against Multiple Types of DoS Attacks](Arastirmalar/2026-Wang-Adaptive-Trust-Based-Approach.md) — Wang vd. (2026) · *Electronics* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
@@ -90,6 +91,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Optimizing energy efficiency in IoT enabled wireless sensor networks via Gegenbauer graph neural network](Arastirmalar/2026-S-Optimizing-energy-efficiency-IoT.md) — S. vd. (2026) · *Scientific Reports* · hakemli
 - [Fire Bloom: Energy-Efficient Cluster-Based Routing Protocol for Scalable Wireless Sensor Networks](Arastirmalar/2026-Nagaraju-Fire-Bloom-Energy-Efficient.md) — Nagaraju vd. (2026) · *Journal of ICT Research and Applications* · hakemli
 - [An Adaptive Trust-Based Approach to the Protection of Software-Defined Wireless Sensor Networks Against Multiple Types of DoS Attacks](Arastirmalar/2026-Wang-Adaptive-Trust-Based-Approach.md) — Wang vd. (2026) · *Electronics* · hakemli
 <!-- AUTO:RECENT:END -->

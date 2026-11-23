@@ -90,7 +90,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **7**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **8**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -100,6 +100,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Toward practical deep-reinforcement-learning flow control in wings: Sensor placement effects on turbulent separation suppression](Aerodinamik/Akis-Kontrolu/Arastirmalar/2026-Montala-Toward-practical-deep-reinforcement.md) — Montalà vd. (2026) · *International Journal of Heat and Fluid Flow* · hakemli
 - [Non-Fragile Formation Under Sojourn-Probability-Based Stochastic Communication for UAV Swarms](Insansiz-Hava-Araclari/IHA-Suruleri/Arastirmalar/2026-Gao-Non-Fragile-Formation-Under.md) — Gao vd. (2026) · *Sensors* · hakemli
 - [Assessment of directed water vapor radiometer-based tropospheric corrections in GNSS precise point positioning](Uydu-Teknolojisi/Kuresel-Uydu-Seyrusefer-Sistemleri/Hassas-Nokta-Konumlama/Arastirmalar/2026-Vollmair-Assessment-directed-water-vapor.md) — Vollmair vd. (2026) · *GPS Solutions* · hakemli
 - [A Comprehensive Review on Next Generation Unmanned Aerial Vehicles: Hydrogen Fuel Cell Technology](Insansiz-Hava-Araclari/Arastirmalar/2026-Sahin-Comprehensive-Review-Next-Generation.md) — Şahin vd. (2026) · *Drones* · hakemli

@@ -87,7 +87,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **6**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **8**.
+
+- [Dynamic multi-user optical wireless communication across a wide field-of-view enabled by a metasurface beam router](Arastirmalar/2026-Chen-Dynamic-multi-user-optical.md) — Chen vd. (2026) · *Optics Letters* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -97,6 +99,8 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Dynamic multi-user optical wireless communication across a wide field-of-view enabled by a metasurface beam router](Arastirmalar/2026-Chen-Dynamic-multi-user-optical.md) — Chen vd. (2026) · *Optics Letters* · hakemli
+- [Recent Trends and Challenges in Deep Learning-Based CSI Feedback in Massive MIMO Systems](MIMO-Sistemleri/Masif-MIMO/Arastirmalar/2026-Kim-Recent-Trends-and-Challenges.md) — Kim vd. (2026) · *한국통신학회논문지* · hakemli
 - [Joint Clustering, Association, and Power Allocation in Cell-Free Massive MIMO-NOMA](MIMO-Sistemleri/Hucresiz-Masif-MIMO/Arastirmalar/2026-Hiremath-Joint-Clustering-Association-and.md) — Hiremath vd. (2026) · *International Journal of Electronics and Communication Engineering* · hakemli
 - [Towards a Universal Semantic Basis: A Survey on the Fundamental Units of Semantic Communication in the LLM Era](Anlamsal-Haberlesme/Arastirmalar/2026-Chen-Towards-Universal-Semantic-Basis.md) — Chen (2026) · *Applied and Computational Engineering* · hakemli
 - [Overview of the Current Development Status and Key Technologies of 6G Integrated Sensing and Communication Technology](Butunlesik-Algilama-ve-Haberlesme/Arastirmalar/2026-Lin-Overview-the-Current-Development.md) — Lin (2026) · *Applied and Computational Engineering* · hakemli

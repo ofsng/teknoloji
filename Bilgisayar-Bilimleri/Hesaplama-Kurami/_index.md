@@ -81,7 +81,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **2**.
+
+- [From “Understanding” to “Learning Independently”: Cultivating Autonomous Learning Skills in Theory of Computation Course](Arastirmalar/2026-Wu-From-Understanding-Learning-Independently.md) — Wu vd. (2026) · *International Journal of Education and Humanities* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -92,6 +94,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
 - [Combinatorial Approach to Circuit Complexity: From Approximate Quantum Codes to Lieb-Schultz-Mattis Constraints](Hesaplamali-Karmasiklik-Teorisi/Devre-Karmasikligi/Arastirmalar/2026-Yi-Combinatorial-Approach-Circuit-Complexity.md) — Yi vd. (2026) · *Physical Review Letters* · hakemli · atıf: 7
+- [From “Understanding” to “Learning Independently”: Cultivating Autonomous Learning Skills in Theory of Computation Course](Arastirmalar/2026-Wu-From-Understanding-Learning-Independently.md) — Wu vd. (2026) · *International Journal of Education and Humanities* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar
