@@ -231,6 +231,70 @@ def replace_section(text, number, content):
     return text[:m.end()] + "\n\n" + content.strip() + "\n\n" + text[end:]
 
 
+# ---------------------------------------------------------------- tanıtım kartı (_tanitim.md)
+# Her düğüm klasöründe isteğe bağlı, _index.md'den ayrı bir dosya: bot onu hiç değiştirmez.
+# Biçim: templates/tanitim.template.md. Her cümle/madde [n] ile Kaynaklar'daki bir girdiye bağlanır.
+
+INTRO = "_tanitim.md"
+INTRO_HEADINGS = ["Öz", "Neden önemli", "Neler yapıldı", "Bugün nerede", "Neler bekleniyor", "Kaynaklar"]
+INTRO_ALT = {"Neler yapıldı": "Ana kollar"}  # ana disiplinlerde kilometre taşları yerine ana kollar
+INTRO_STATUSES = ("ai_draft_sourced", "human_verified")
+CITE_RE = re.compile(r"\[(\d+(?:\s*,\s*\d+)*)\]")
+INTRO_HEAD_RE = re.compile(r"^## (.+?)[ \t]*$", re.M)
+
+
+def intro_blocks(body):
+    """{başlık: metin} — başlık sırası korunur."""
+    ms = list(INTRO_HEAD_RE.finditer(body))
+    return {m.group(1): body[m.end():(ms[i + 1].start() if i + 1 < len(ms) else len(body))].strip()
+            for i, m in enumerate(ms)}
+
+
+def check_intro(text, node):
+    """(hatalar, uyarılar) — yalnızca biçim ve kaynak bağları; içeriğin doğruluğunu denetlemez."""
+    errs, warns = [], []
+    meta, body = parse_frontmatter(text)
+    where = os.path.join(node["dir"], INTRO)
+    if meta.get("node") != node["id"]:
+        errs.append(f"{where}: node='{meta.get('node')}' fakat klasör düğümü '{node['id']}'")
+    if meta.get("intro_status") not in INTRO_STATUSES:
+        errs.append(f"{where}: intro_status geçersiz: {meta.get('intro_status')}")
+    if meta.get("human_verified") is True and meta.get("intro_status") != "human_verified":
+        errs.append(f"{where}: human_verified=true yalnızca intro_status: human_verified ile")
+    blocks = intro_blocks(body)
+    expected = [INTRO_ALT.get(h, h) if node["meta"].get("type") == "discipline" else h for h in INTRO_HEADINGS]
+    if list(blocks) != expected:
+        errs.append(f"{where}: başlıklar {expected} sırasında olmalı; bulunan {list(blocks)}")
+        return errs, warns
+    refs = {int(m.group(1)) for m in re.finditer(r"^(\d+)\. \S", blocks["Kaynaklar"], re.M)}
+    if not refs:
+        errs.append(f"{where}: Kaynaklar boş")
+    used = set()
+    for h in expected[:-1]:
+        content = blocks[h]
+        if not content:
+            continue  # kaynak bulunamayan blok boş kalır
+        units = [l for l in content.splitlines() if l.strip()] if content.lstrip().startswith("-") else [content]
+        for u in units:
+            cites = [int(x) for m in CITE_RE.finditer(u) for x in m.group(1).split(",")]
+            if not cites:
+                errs.append(f"{where}: '{h}' içinde kaynaksız ifade: {u.strip()[:60]}")
+            for c in cites:
+                if c not in refs:
+                    errs.append(f"{where}: [{c}] Kaynaklar'da yok")
+                used.add(c)
+    for r in sorted(refs - used):
+        warns.append(f"{where}: kaynak {r} metinde kullanılmıyor")
+    if not blocks["Öz"]:
+        errs.append(f"{where}: Öz boş olamaz")
+    elif len(CITE_RE.sub("", blocks["Öz"]).split()) > 25:
+        warns.append(f"{where}: Öz 25 kelimeyi aşıyor")
+    words = len(CITE_RE.sub("", "\n".join(blocks[h] for h in expected[:-1])).split())
+    if not 60 <= words <= 220:
+        warns.append(f"{where}: metin {words} kelime (hedef 120–180)")
+    return errs, warns
+
+
 def strip_blocks(content):
     return re.sub(r"<!-- AUTO:(?:\w+:)?BEGIN.*?<!-- AUTO:(?:\w+:)?END -->", "", content, flags=re.S).strip()
 
@@ -980,6 +1044,13 @@ def cmd_check(args):
     for k, paths in seen.items():
         if len(set(paths)) > 1:
             errors.append(f"Mükerrer araştırma ({k}): " + ", ".join(sorted(set(paths))))
+    # tanıtım kartları
+    for nid, n in tree.nodes.items():
+        p = os.path.join(ROOT, n["dir"], INTRO)
+        if os.path.exists(p):
+            e, w = check_intro(read(p), n)
+            errors += e
+            warnings += w
     # kırık bağlantılar
     for dirpath, dirnames, filenames in os.walk(ROOT):
         dirnames[:] = [d for d in dirnames if not d.startswith(".")]

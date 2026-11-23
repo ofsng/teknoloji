@@ -73,6 +73,19 @@ Gövde 14 bölümlüdür: 1 Tanım, 2 Çalışma prensibi, 3 Tarihçe, 4 Temel k
 Otomatik kısımlar `<!-- AUTO... -->` blokları arasındadır. Diğer bölümler elle ya da bilgi bakımcısıyla ve
 **yalnızca doğrulanabilir kaynaklarla** doldurulur; araçlar dolu bir bölümün üzerine asla yazmaz.
 
+### Tanıtım kartı (`_tanitim.md`)
+
+Her düğüm klasöründe isteğe bağlı, kısa (120–180 kelime) ve standart bir tanıtım dosyası bulunabilir.
+Sırasıyla şu bölümlerden oluşur: Öz, Neden önemli, Neler yapıldı, Bugün nerede, Neler bekleniyor ve
+Kaynaklar. Ana disiplinlerde "Neler yapıldı" yerine "Ana kollar" bölümü kullanılır.
+Biçim: [templates/tanitim.template.md](templates/tanitim.template.md).
+
+- Her cümle ya da madde `[n]` ile Kaynaklar'daki bir girdiye bağlanır.
+- Kaynak bulunamayan bölüm boş bırakılır.
+- "Neler bekleniyor" bölümüne yalnızca kaynakta geçen açık problemler yazılır; kendi tahminlerimiz yazılmaz.
+- Dosya `_index.md`'den ayrıdır; araştırma botu ona dokunmaz.
+- `kb.py check` bölüm sırasını, kaynak bağlarını ve uzunluğu denetler; içeriğin doğruluğunu denetlemez.
+
 Otonom araştırma sistemi için bkz. [AUTOMATION.md](AUTOMATION.md).
 
 ## Günlük kullanım
