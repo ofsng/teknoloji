@@ -155,7 +155,9 @@ def write_with_llm(llm, packet):
 
 
 def _authors(s):
-    names = [a.split()[-1] if a else "?" for a in s["authors"]]
+    # Kurumsal yazar ("Planck Collaboration") tam adıyla; kişilerde soyadı
+    names = [(a if re.search(r"collaboration|consortium|group|team", a, re.I) else a.split()[-1]) if a else "?"
+             for a in s["authors"]]
     if not names:
         return "Yazar belirtilmemiş"
     if s["authors_more"] or len(names) > 2:
