@@ -1012,3 +1012,19 @@ class IntroRenderTest(unittest.TestCase):
         self.assertIn("**eskiden** · Yılsız.", text)
         a["oz"] = {"metin": "Kaynaksız öz", "kaynaklar": []}
         self.assertIsNone(intro.render(self.packet(), a, "2026-11-23", "test"))
+
+
+class IntroDedupeTest(unittest.TestCase):
+    def test_reprint_merged_into_earliest(self):
+        from kbresearch import intro
+        src = [{"n": 1, "doi": "10.1/a", "title": "Same Paper", "year": "2007", "authors": ["A B"], "authors_more": False,
+                "venue": "J", "type": "article", "abstract": "."},
+               {"n": 2, "doi": "10.1/b", "title": "Same paper", "year": "1996", "authors": ["A B"], "authors_more": False,
+                "venue": "J", "type": "article", "abstract": "."}]
+        packet = {"node": {"id": "x", "title": "x", "title_tr": "x", "type": "technology", "status": "established",
+                           "aliases": [], "path": [], "children": []}, "sources": src}
+        text = intro.render(packet, {"oz": {"metin": "Tanım", "kaynaklar": [1, 2]}, "neden": [], "gecmis": [],
+                                     "bugun": [], "beklenen": []}, "2026-11-24", "t")
+        self.assertIn("Tanım. [1]", text)
+        self.assertIn("1. B (1996)", text)
+        self.assertNotIn("2007", text)
