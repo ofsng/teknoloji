@@ -80,7 +80,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -90,6 +90,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Robust Adaptive Beamforming for LEO Satellite Constellations Under Joint Doppler, Position, and CSI Uncertainty](Alcak-Yorunge-Uydu-Takimyildizlari/Arastirmalar/2026-Elnashar-Robust-Adaptive-Beamforming-for.md) — Elnashar (2026) · *International Journal of Satellite Communications and Networking* · hakemli
 - [Slow-Shot-Based Routing Selection for Optical Satellite Networks with Dynamical Optical Inter-Satellite Links](Uydular-Arasi-Baglantilar/Arastirmalar/2026-Wang-Slow-Shot-Based-Routing.md) — Wang vd. (2026) · *Electronics* · hakemli
 <!-- AUTO:RECENT:END -->
 

@@ -79,7 +79,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **3**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -91,6 +91,7 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 
 - [Stiffness-compensated Load-port Control of Series Elastic Actuators Using Online Stiffness Estimation](Seri-Elastik-Eyleyiciler/Arastirmalar/2026-Lee-Stiffness-compensated-Load-port.md) — Lee (2026) · *Journal of Institute of Control Robotics and Systems* · hakemli
 - [Prototype-assisted two-stage domain adaptation network for electro-hydraulic actuator fault diagnosis under variable operating conditions](Hidrolik-Eyleyiciler/Arastirmalar/2026-Gou-Prototype-assisted-two-stage.md) — Gou vd. (2026) · *Proceedings of the Institution of Mechanical Engineers Part C Journal of Mechanical Engineering Science* · hakemli
+- [Simulation-based LuGre modelling and voltage-scheduled control of low-voltage stick-slip piezoelectric actuators](Piezoelektrik-Eyleyiciler/Arastirmalar/2026-Saxena-Simulation-based-LuGre-modelling.md) — Saxena vd. (2026) · *Scientific Reports* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

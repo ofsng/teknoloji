@@ -93,7 +93,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **24**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **25**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -110,7 +110,7 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [Extreme Local Statistics in Random Graphs: Maximum Tree Extension Counts](Ayrik-Matematik/Cizge-Teorisi/Rastgele-Cizgeler/Arastirmalar/2026-Araujo-Extreme-Local-Statistics-Random.md) — Araújo vd. (2026) · *Random Structures and Algorithms* · hakemli · atıf: 2
 - [Bayesian parameter estimation of SIR and SIRD models for COVID-19 in Indonesia using Metropolis–Hastings and Hamiltonian Monte Carlo](Istatistik/Istatistiksel-Cikarim/Bayesci-Istatistik/Markov-Zinciri-Monte-Carlo/Hamilton-Monte-Carlo/Arastirmalar/2026-Naftali-Bayesian-parameter-estimation-SIR.md) — Naftali vd. (2026) · *Communications in Mathematical Biology and Neuroscience* · hakemli
 - [On the Arithmetic Properties of A Truncated Power-Residue Function and Related Diophantine Equations](Sayilar-Teorisi/Diofant-Denklemleri/Arastirmalar/2026-Bouderbala-the-Arithmetic-Properties-Truncated.md) — Bouderbala vd. (2026) · *Annales Mathematicae Silesianae* · hakemli
-- [A multi-objective optimization approach based on HBA-RF for lightweight design of automotive rear seats](Optimizasyon/Cok-Amacli-Optimizasyon/Arastirmalar/2026-Gao-multi-objective-optimization-approach.md) — Gao vd. (2026) · *Proceedings of the Institution of Mechanical Engineers Part D Journal of Automobile Engineering* · hakemli
+- [The differential geometry of curves in Rossi sphere](Geometri-ve-Topoloji/Diferansiyel-Geometri/Arastirmalar/2026-Chiu-The-differential-geometry-curves.md) — Chiu vd. (2026) · *Complex Variables and Elliptic Equations* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

@@ -87,7 +87,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **8**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **9**.
 
 - [Dynamic multi-user optical wireless communication across a wide field-of-view enabled by a metasurface beam router](Arastirmalar/2026-Chen-Dynamic-multi-user-optical.md) — Chen vd. (2026) · *Optics Letters* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -104,9 +104,9 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [Joint Clustering, Association, and Power Allocation in Cell-Free Massive MIMO-NOMA](MIMO-Sistemleri/Hucresiz-Masif-MIMO/Arastirmalar/2026-Hiremath-Joint-Clustering-Association-and.md) — Hiremath vd. (2026) · *International Journal of Electronics and Communication Engineering* · hakemli
 - [Towards a Universal Semantic Basis: A Survey on the Fundamental Units of Semantic Communication in the LLM Era](Anlamsal-Haberlesme/Arastirmalar/2026-Chen-Towards-Universal-Semantic-Basis.md) — Chen (2026) · *Applied and Computational Engineering* · hakemli
 - [Overview of the Current Development Status and Key Technologies of 6G Integrated Sensing and Communication Technology](Butunlesik-Algilama-ve-Haberlesme/Arastirmalar/2026-Lin-Overview-the-Current-Development.md) — Lin (2026) · *Applied and Computational Engineering* · hakemli
+- [Coupled-phase transmission and reflection design with Cramé–Rao bound guarantees for STAR-RIS-assisted integrated sensing and communication](Butunlesik-Algilama-ve-Haberlesme/Arastirmalar/2026-Nishad-Coupled-phase-transmission-and.md) — Nishad vd. (2026) · *Scientific Reports* · hakemli
 - [Vertical Segmented Waveguide-Enabled Pinching Antenna (V-SWAN)-Assisted EDMA-NOMA Integrated Sensing and Communication Systems](Butunlesik-Algilama-ve-Haberlesme/Arastirmalar/2026-Hari-Vertical-Segmented-Waveguide-Enabled.md) — Hari vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [Performance analysis of dual-IRS-assisted NOMA for underwater visible light communication in turbulent channels](Gorunur-Isik-Haberlesmesi/Arastirmalar/2026-Praharsha-Performance-analysis-dual-IRS.md) — Praharsha vd. (2026) · *Scientific Reports* · hakemli
-- [Spatial SWIPT multiplexing and physical layer security enabled by near-field focusing and wavefront precoding](Fiziksel-Katman-Guvenligi/Arastirmalar/2026-Ayestaran-Spatial-SWIPT-multiplexing-and.md) — Ayestarán (2026) · *Physical Communication* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

@@ -75,11 +75,13 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **4**, alt teknolojiler dahil: **4**.
+Arşivdeki kayıtlar — bu düğüm: **6**, alt teknolojiler dahil: **6**.
 
 - [Explainable artificial intelligence for laser powder bed fusion alloys: breaking the formability–performance trade-off via collaborative control](Arastirmalar/2026-Liu-Explainable-artificial-intelligence-for.md) — Liu vd. (2026) · *Advanced Materials Joining* · hakemli
 - [Multi-Response Process-Thickness-Property Optimization of Thin-Walled AlSi10Mg Alloy Fabricated by Laser Powder Bed Fusion](Arastirmalar/2026-Majeed-Multi-Response-Process-Thickness.md) — Majeed vd. (2026) · *Journal of Manufacturing and Materials Processing* · hakemli
+- [Processing of CuAg7Zr and CuCr1Zr via laser powder bed fusion and the effects of oxidation on reflectance](Arastirmalar/2026-Novak-Processing-CuAg7Zr-and-CuCr1Zr.md) — Novak vd. (2026) · *European Journal of Materials* · hakemli
 - [Microstructure evolution and mechanical performance optimization of 30CrMnSiNi2A steel processed by laser powder bed fusion combined with heat treatment](Arastirmalar/2026-Wang-Microstructure-evolution-and-mechanical.md) — Wang vd. (2026) · *Materials Science and Technology* · hakemli
+- [Comparing the refreshing and single batch powder reuse methods for AlSi7Mg produced by laser powder bed fusion](Arastirmalar/2026-Warner-Comparing-the-refreshing-and.md) — Warner vd. (2026) · *The International Journal of Advanced Manufacturing Technology* · hakemli
 - [Synergistic Effects of Carbon/Nitrogen Content and Laser Powder Bed Fusion Parameters on the Hot Cracking Behavior and Microstructural Evolution of a Ni–Co‐Based Superalloy](Arastirmalar/2026-Yu-Synergistic-Effects-Carbon-Nitrogen.md) — Yu vd. (2026) · *Advanced Engineering Materials* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
@@ -90,6 +92,8 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Comparing the refreshing and single batch powder reuse methods for AlSi7Mg produced by laser powder bed fusion](Arastirmalar/2026-Warner-Comparing-the-refreshing-and.md) — Warner vd. (2026) · *The International Journal of Advanced Manufacturing Technology* · hakemli
+- [Processing of CuAg7Zr and CuCr1Zr via laser powder bed fusion and the effects of oxidation on reflectance](Arastirmalar/2026-Novak-Processing-CuAg7Zr-and-CuCr1Zr.md) — Novak vd. (2026) · *European Journal of Materials* · hakemli
 - [Explainable artificial intelligence for laser powder bed fusion alloys: breaking the formability–performance trade-off via collaborative control](Arastirmalar/2026-Liu-Explainable-artificial-intelligence-for.md) — Liu vd. (2026) · *Advanced Materials Joining* · hakemli
 - [Multi-Response Process-Thickness-Property Optimization of Thin-Walled AlSi10Mg Alloy Fabricated by Laser Powder Bed Fusion](Arastirmalar/2026-Majeed-Multi-Response-Process-Thickness.md) — Majeed vd. (2026) · *Journal of Manufacturing and Materials Processing* · hakemli
 - [Microstructure evolution and mechanical performance optimization of 30CrMnSiNi2A steel processed by laser powder bed fusion combined with heat treatment](Arastirmalar/2026-Wang-Microstructure-evolution-and-mechanical.md) — Wang vd. (2026) · *Materials Science and Technology* · hakemli

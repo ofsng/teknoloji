@@ -25,7 +25,8 @@ related_versions: []
 collected_at: 2026-11-15
 last_checked_at: 2026-11-15
 content_verified: false
-identifier_verified: false
+identifier_verified: crossref
+retraction_checked: 2026-11-24
 ---
 
 # A Comparative Analysis of Interior Gateway Protocols in Large-Scale Enterprise Topologies

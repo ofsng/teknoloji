@@ -80,7 +80,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **6**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **7**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -90,6 +90,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [A Multimodal Dataset of Traditional Lanna Dance: Motion Capture, 3D Reconstruction, and Cultural Metadata](Bilgisayar-Animasyonu/Hareket-Yakalama/Arastirmalar/2026-Julrode-Multimodal-Dataset-Traditional-Lanna.md) — Julrode vd. (2026) · *Data* · hakemli
 - [Frequency-aware and depth-guided neural radiance fields for 3D reconstruction of complex disaster scenes](Goruntu-Olusturma/Sinirsel-Goruntu-Olusturma/Sinirsel-Isima-Alanlari/Arastirmalar/2026-Chen-Frequency-aware-and-depth.md) — Chen vd. (2026) · *Scientific Reports* · hakemli
 - [A Survey of Modelling Temporal Coherence in Neural Rendering and Video Generation](Goruntu-Olusturma/Sinirsel-Goruntu-Olusturma/Arastirmalar/2026-Einabadi-Survey-Modelling-Temporal-Coherence.md) — Einabadi vd. (2026) · *Computer Graphics Forum* · hakemli
 - [Physically Based Rendering in the Latent Space](Goruntu-Olusturma/Fiziksel-Tabanli-Goruntu-Olusturma/Arastirmalar/2026-Radovanovic-Physically-Based-Rendering-the.md) — Radovanovic vd. (2026) · *Computer Graphics Forum* · hakemli

@@ -76,7 +76,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **7**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **8**.
+
+- [AttentioScope: a multi-indicator quantification framework with attention mechanism based on thyroid fine-needle aspiration smear images](Arastirmalar/2026-Lv-AttentioScope-multi-indicator-quantification.md) — Lv vd. (2026) · *Frontiers in Endocrinology* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -86,6 +88,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [AttentioScope: a multi-indicator quantification framework with attention mechanism based on thyroid fine-needle aspiration smear images](Arastirmalar/2026-Lv-AttentioScope-multi-indicator-quantification.md) — Lv vd. (2026) · *Frontiers in Endocrinology* · hakemli
 - [Computational Complexity of Self-Attention Algorithms for Efficient Transformer Architectures](Oz-Dikkat/Arastirmalar/2026-Akinrotimi-Computational-Complexity-Self-Attenti.md) — Akinrotimi vd. (2026) · *Computers* · hakemli
 - [Transfer and Inspiration of Efficient Attention Mechanisms from Long Context Language Models to Speech Recognition: A Systematic Review](Verimli-Dikkat/Arastirmalar/2025-Yang-Transfer-and-Inspiration-Efficient.md) — Yang (2025) · *Journal of Cloud Computing and Data Analytics* · hakemli
 <!-- AUTO:RECENT:END -->

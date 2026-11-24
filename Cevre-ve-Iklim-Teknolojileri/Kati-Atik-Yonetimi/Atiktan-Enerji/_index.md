@@ -75,8 +75,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **2**.
 
+- [Waste-to-Energy in Malaysia: Technologies, Biomass Resources, Municipal Solid Waste Management, Techno-Economic Feasibility, Environmental Impacts and Future Prospects](Arastirmalar/2026-Faizal-Waste-Energy-Malaysia-Technologies.md) — Faizal vd. (2026) · *International Journal of Research and Innovation in Social Science* · hakemli
 - [Converting Urban Solid Waste to Energy in Enugu Urban Area, Southeast, Nigeria](Arastirmalar/2026-Onyia-Converting-Urban-Solid-Waste.md) — Onyia (2026) · *WORLD JOURNAL OF INNOVATION AND MODERN TECHNOLOGY* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
@@ -87,6 +88,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Waste-to-Energy in Malaysia: Technologies, Biomass Resources, Municipal Solid Waste Management, Techno-Economic Feasibility, Environmental Impacts and Future Prospects](Arastirmalar/2026-Faizal-Waste-Energy-Malaysia-Technologies.md) — Faizal vd. (2026) · *International Journal of Research and Innovation in Social Science* · hakemli
 - [Converting Urban Solid Waste to Energy in Enugu Urban Area, Southeast, Nigeria](Arastirmalar/2026-Onyia-Converting-Urban-Solid-Waste.md) — Onyia (2026) · *WORLD JOURNAL OF INNOVATION AND MODERN TECHNOLOGY* · hakemli
 <!-- AUTO:RECENT:END -->
 

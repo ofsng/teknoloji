@@ -25,7 +25,7 @@ related_versions: []
 collected_at: 2026-11-15
 last_checked_at: 2026-11-15
 content_verified: false
-identifier_verified: false
+identifier_verified: crossref
 ---
 
 # A Systematic Literature Review of Proof of Work and Proof of Activity Privacy and Performance

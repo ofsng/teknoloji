@@ -1,49 +1,4 @@
 {
- "2026-11-16": {
-  "archived": 40,
-  "backfill": 0,
-  "by_source": {
-   "openalex": 40
-  },
-  "llm_calls": 0,
-  "llm_usd": 0.0,
-  "per_tech": {
-   "3d-integration": 1,
-   "active-matter": 1,
-   "bifacial-photovoltaics": 1,
-   "biological-control": 1,
-   "car-t-cell-therapy": 3,
-   "cell-therapy": 1,
-   "differential-evolution": 1,
-   "dye-sensitized-solar-cells": 1,
-   "edge-and-fog-computing": 1,
-   "fiber-lasers": 3,
-   "field-oriented-control": 1,
-   "global-navigation-satellite-systems": 1,
-   "hamiltonian-monte-carlo": 1,
-   "heat-exchangers": 1,
-   "high-harmonic-generation": 1,
-   "industrial-internet-of-things": 1,
-   "integrated-sensing-and-communication": 1,
-   "neutrino-physics": 1,
-   "non-destructive-testing": 1,
-   "organic-light-emitting-diodes": 1,
-   "partial-differential-equations": 1,
-   "photon-counting-ct": 1,
-   "physically-based-rendering": 1,
-   "positional-encodings": 1,
-   "quantum-gravity": 2,
-   "quantum-monte-carlo": 2,
-   "rna-interference": 1,
-   "stainless-steels": 1,
-   "topology-optimization": 1,
-   "two-dimensional-materials": 1,
-   "underwater-acoustics": 1,
-   "vehicle-to-grid": 1,
-   "vehicular-ad-hoc-networks": 1,
-   "wave-propagation": 1
-  }
- },
  "2026-11-17": {
   "archived": 40,
   "backfill": 0,
@@ -379,6 +334,53 @@
    "theory-of-computation": 1,
    "wireless-communications": 1,
    "wireless-sensor-networks": 1
+  }
+ },
+ "2026-11-24": {
+  "archived": 40,
+  "backfill": 0,
+  "by_source": {
+   "arxiv": 1,
+   "openalex": 39
+  },
+  "llm_calls": 0,
+  "llm_usd": 0.0,
+  "per_tech": {
+   "approximate-nearest-neighbor-search": 1,
+   "attention-mechanisms": 1,
+   "automatic-speech-recognition": 1,
+   "clinical-decision-support-systems": 3,
+   "dark-energy": 1,
+   "dc-dc-converters": 1,
+   "differential-geometry": 1,
+   "district-heating-and-cooling": 1,
+   "explainable-ai": 1,
+   "graph-neural-networks": 1,
+   "image-compression": 1,
+   "industrial-automation": 1,
+   "integrated-sensing-and-communication": 1,
+   "iron-based-superconductors": 1,
+   "laser-powder-bed-fusion": 2,
+   "leo-satellite-constellations": 1,
+   "liquid-crystal-displays": 1,
+   "llm-alignment": 1,
+   "motion-capture": 1,
+   "multi-agent-reinforcement-learning": 1,
+   "near-eye-displays": 1,
+   "optical-communications": 1,
+   "organ-on-a-chip": 2,
+   "panoptic-segmentation": 1,
+   "parameter-efficient-fine-tuning": 1,
+   "piezoelectric-actuators": 1,
+   "soil-fertility-and-plant-nutrition": 1,
+   "static-analysis": 1,
+   "tandem-mass-spectrometry": 2,
+   "tandem-solar-cells": 1,
+   "thin-film-solar-cells": 1,
+   "ultra-reliable-low-latency-communication": 1,
+   "vanadium-redox-flow-batteries": 1,
+   "waste-to-energy": 1,
+   "wi-fi": 1
   }
  }
 }

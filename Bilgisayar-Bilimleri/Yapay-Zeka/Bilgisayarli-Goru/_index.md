@@ -90,7 +90,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **20**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **21**.
 
 - [Transformers in computer vision: a PRISMA-based systematic review, taxonomy and future perspectives](Arastirmalar/2026-Rony-Transformers-computer-vision-PRISMA.md) — Rony vd. (2026) · *Artificial Intelligence Review* · hakemli
 <!-- AUTO:RESEARCH:END -->

@@ -91,7 +91,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **101**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **103**.
 
 - [An Interpretable Deep Learning Model for Early Disease Diagnosis Leveraging SHAP Explanations](Arastirmalar/2026-Jain-Interpretable-Deep-Learning-Model.md) — Jain (2026) · *International Journal of Advanced Research in Science Communication and Technology* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -105,12 +105,12 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 
 - [An Improved Systolic Array for Efficient Depthwise Separable Convolution](Evrisimli-Sinir-Aglari/Derinlik-Ayrilabilir-Evrisimler/Arastirmalar/2026-Jo-Improved-Systolic-Array-for.md) — Jo vd. (2026) · *한국통신학회논문지* · hakemli
 - [Lossless Latent Diffusion Models](Uretken-Modeller/Difuzyon-Modelleri/Gizil-Difuzyon-Modelleri/Arastirmalar/2026-Xu-Lossless-Latent-Diffusion-Models.md) — Xu vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [A lightweight graph neural network with decoupled static and dynamic representations for temporal link prediction in social networks](Cizge-Sinir-Aglari/Arastirmalar/2026-Han-lightweight-graph-neural-network.md) — Han vd. (2026) · *Scientific Reports* · hakemli
+- [AttentioScope: a multi-indicator quantification framework with attention mechanism based on thyroid fine-needle aspiration smear images](Dikkat-Mekanizmalari/Arastirmalar/2026-Lv-AttentioScope-multi-indicator-quantification.md) — Lv vd. (2026) · *Frontiers in Endocrinology* · hakemli
 - [Random Forest Ensembles versus LSTM Networks in Applied Machine Learning: A Comparative Review of Healthcare, Finance and Energy Studies](Yinelemeli-Sinir-Aglari/Uzun-Kisa-Sureli-Bellek/Arastirmalar/2026-Kavitha-Random-Forest-Ensembles-versus.md) — Kavitha vd. (2026) · *International Journal Of Recent Trends In Multidisciplinary Research* · hakemli
 - [Positional encoding cross-attention ResNet50 framework for lung cancer classification across CT and histopathological imaging modalities](Transformer-Mimarileri/Konum-Kodlamalari/Arastirmalar/2026-Nivashini-Positional-encoding-cross-attention.md) — Nivashini vd. (2026) · *Scientific Reports* · hakemli
 - [Computational Complexity of Self-Attention Algorithms for Efficient Transformer Architectures](Dikkat-Mekanizmalari/Oz-Dikkat/Arastirmalar/2026-Akinrotimi-Computational-Complexity-Self-Attenti.md) — Akinrotimi vd. (2026) · *Computers* · hakemli
 - [Distribution-Aware Dynamic Temperature Knowledge Distillation for Efficient Indian Sign Language Recognition on Edge Devices](Sinir-Agi-Sikistirma/Bilgi-Damitma/Arastirmalar/2026-Bhalgaonkar-Distribution-Aware-Dynamic-Temperatu.md) — Bhalgaonkar vd. (2026) · *International Journal of Engineering Trends and Technology* · hakemli
-- [Efficient Decoder-Only Transformer with Domain-Specific Byte Pair Encoding for Python Code Generation](Transformer-Mimarileri/Decoder-Only/Arastirmalar/2026-Venkateshwarlu-Efficient-Decoder-Only-Transforme.md) — Venkateshwarlu vd. (2026) · *International Journal of Latest Technology in Engineering Management & Applied Science* · hakemli
-- [Frequency-Adaptive Flow Matching for High-Fidelity Text-to-Speech Synthesis](Uretken-Modeller/Difuzyon-Modelleri/Akis-Esleme/Arastirmalar/2026-Liu-Frequency-Adaptive-Flow-Matching.md) — Liu vd. (2026) · *Electronics* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

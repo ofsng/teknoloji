@@ -79,7 +79,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **3**.
 
 - [Assessment of Sub-50 nm Nanopipette Emitters for Native Electrospray Ionization Mass Spectrometry](Arastirmalar/2026-Byrd-Assessment-Sub-Nanopipette-Emitters.md) — Byrd vd. (2026) · *Journal of the American Society for Mass Spectrometry* · hakemli · atıf: 1
 <!-- AUTO:RESEARCH:END -->
@@ -91,6 +91,8 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Development and full validation of a UPLC-MS/MS method for the simultaneous quantification of esketamine, noresketamine, and hydroxynoresketamine in beagle dog plasma and its application to a pharmacokinetic study](Tandem-Kutle-Spektrometrisi/Arastirmalar/2026-Zhou-Development-and-full-validation.md) — Zhou vd. (2026) · *Frontiers in Pharmacology* · hakemli
+- [MATRIX EFFECTS IN LIQUID CHROMATOGRAPHY-TANDEM MASS SPECTROMETRY BIOANALYSIS: MECHANISTIC FOUNDATIONS, REGULATORY EXPECTATIONS, AND PRACTICAL MITIGATION STRATEGIES](Tandem-Kutle-Spektrometrisi/Arastirmalar/2026-Pandiyan-MATRIX-EFFECTS-LIQUID-CHROMATOGRAPHY.md) — Pandiyan vd. (2026) · *Asian Journal of Pharmaceutical and Clinical Research* · hakemli
 - [Assessment of Sub-50 nm Nanopipette Emitters for Native Electrospray Ionization Mass Spectrometry](Arastirmalar/2026-Byrd-Assessment-Sub-Nanopipette-Emitters.md) — Byrd vd. (2026) · *Journal of the American Society for Mass Spectrometry* · hakemli · atıf: 1
 <!-- AUTO:RECENT:END -->
 

@@ -90,7 +90,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **397**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **409**.
 
 - [METHODOLOGY FOR USING INTERACTIVE AND INNOVATIVE METHODS IN TEACHING COMPUTER SCIENCE](Arastirmalar/2026-Ozatovna-METHODOLOGY-FOR-USING-INTERACTIVE.md) — Ozatovna vd. (2026) · *HSR (London)* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -102,14 +102,14 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Enhancing throughput and Fairness in Dense WLANs Using Graph Neural Network-driven Multi-agent Reinforcement Learning](Yapay-Zeka/Makine-Ogrenmesi/Pekistirmeli-Ogrenme/Cok-Etmenli-Pekistirmeli-Ogrenme/Arastirmalar/2026-Gamal-Enhancing-throughput-and-Fairness.md) — Gamal vd. (2026) · *International journal of intelligent engineering and systems* · hakemli
+- [SJG: A Skyline Joint Graph for Multi-Component Approximate Nearest Neighbor Search](Veritabanlari-ve-Bilgi-Sistemleri/Bilgi-Erisimi/Yaklasik-En-Yakin-Komsu-Arama/Arastirmalar/2026-Ma-SJG-Skyline-Joint-Graph.md) — Ma vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [Optimizing energy efficiency in IoT enabled wireless sensor networks via Gegenbauer graph neural network](Bilgisayar-Aglari/Ad-Hoc-ve-Orgu-Aglar/Kablosuz-Algilayici-Aglari/Arastirmalar/2026-S-Optimizing-energy-efficiency-IoT.md) — S. vd. (2026) · *Scientific Reports* · hakemli
 - [A composable weather-aware NS-3 module for compound environmental modelling in mobile ad hoc network search-and-rescue simulation](Bilgisayar-Aglari/Ad-Hoc-ve-Orgu-Aglar/Mobil-Ad-Hoc-Aglar/Arastirmalar/2026-Ghanem-composable-weather-aware-module.md) — Ghanem vd. (2026) · *SIMULATION* · hakemli
 - [Serverless Computing: A Survey of Programming Model, Orchestration, and Opportunities](Dagitik-ve-Paralel-Hesaplama/Bulut-Bilisim/Sunucusuz-Hesaplama/Arastirmalar/2026-Chen-Serverless-Computing-Survey-Programming.md) — Chen vd. (2026) · *ACM Computing Surveys* · hakemli
 - [GSAlign: Optical Alignment for Photorealistic Dynamic 3D Reconstruction from UGC in Web3](Yapay-Zeka/Bilgisayarli-Goru/3B-Bilgisayarli-Goru/3B-Yeniden-Yapilandirma/Arastirmalar/2026-Ding-GSAlign-Optical-Alignment-for.md) — Ding vd. (2026) · *ACM Transactions on Multimedia Computing Communications and Applications* · hakemli · atıf: 1
 - [SpecEvaluator enables structured multi-expert quality assessment of speech dialogue systems with specialized large audio models](Yapay-Zeka/Dogal-Dil-Isleme/Diyalog-Sistemleri/Arastirmalar/2026-Wang-SpecEvaluator-enables-structured-multi.md) — Wang vd. (2026) · *Scientific Reports* · hakemli
 - [An Improved Systolic Array for Efficient Depthwise Separable Convolution](Yapay-Zeka/Makine-Ogrenmesi/Derin-Ogrenme/Evrisimli-Sinir-Aglari/Derinlik-Ayrilabilir-Evrisimler/Arastirmalar/2026-Jo-Improved-Systolic-Array-for.md) — Jo vd. (2026) · *한국통신학회논문지* · hakemli
-- [Dual Active Learning for Reinforcement Learning from Human Feedback](Yapay-Zeka/Makine-Ogrenmesi/Temel-Modeller/Buyuk-Dil-Modelleri/LLM-Hizalama/Insan-Geri-Bildiriminden-Pekistirmeli-Ogrenme/Arastirmalar/2026-Liu-Dual-Active-Learning-for.md) — Liu vd. (2026) · *Operations Research* · hakemli · atıf: 28
-- [Paving the Way for Link-State Routing in Satellite Networks with Fast and Seamless Ground Station Handovers](Bilgisayar-Aglari/Ag-Protokolleri/Ag-Katmani-Protokolleri/Yonlendirme-Protokolleri/Ic-Ag-Gecidi-Protokolleri/Baglanti-Durumu-Yonlendirme/Arastirmalar/2026-Rybowski-Paving-the-Way-for.md) — Rybowski vd. (2026) · *Proceedings of the ACM on Networking* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

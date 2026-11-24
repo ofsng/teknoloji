@@ -75,7 +75,10 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **2**.
+
+- [MATRIX EFFECTS IN LIQUID CHROMATOGRAPHY-TANDEM MASS SPECTROMETRY BIOANALYSIS: MECHANISTIC FOUNDATIONS, REGULATORY EXPECTATIONS, AND PRACTICAL MITIGATION STRATEGIES](Arastirmalar/2026-Pandiyan-MATRIX-EFFECTS-LIQUID-CHROMATOGRAPHY.md) — Pandiyan vd. (2026) · *Asian Journal of Pharmaceutical and Clinical Research* · hakemli
+- [Development and full validation of a UPLC-MS/MS method for the simultaneous quantification of esketamine, noresketamine, and hydroxynoresketamine in beagle dog plasma and its application to a pharmacokinetic study](Arastirmalar/2026-Zhou-Development-and-full-validation.md) — Zhou vd. (2026) · *Frontiers in Pharmacology* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -83,7 +86,10 @@ Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
-_Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini göstermez; ön baskılar hakemli değildir._
+Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
+
+- [Development and full validation of a UPLC-MS/MS method for the simultaneous quantification of esketamine, noresketamine, and hydroxynoresketamine in beagle dog plasma and its application to a pharmacokinetic study](Arastirmalar/2026-Zhou-Development-and-full-validation.md) — Zhou vd. (2026) · *Frontiers in Pharmacology* · hakemli
+- [MATRIX EFFECTS IN LIQUID CHROMATOGRAPHY-TANDEM MASS SPECTROMETRY BIOANALYSIS: MECHANISTIC FOUNDATIONS, REGULATORY EXPECTATIONS, AND PRACTICAL MITIGATION STRATEGIES](Arastirmalar/2026-Pandiyan-MATRIX-EFFECTS-LIQUID-CHROMATOGRAPHY.md) — Pandiyan vd. (2026) · *Asian Journal of Pharmaceutical and Clinical Research* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

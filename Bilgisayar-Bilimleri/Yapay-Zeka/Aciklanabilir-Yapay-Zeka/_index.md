@@ -78,7 +78,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **2**.
+
+- [Explainable AI in Medical Tasks: A Systematic Review of Methods, Applications, and Modalities of Explanation](Arastirmalar/2026-Sakib-Explainable-Medical-Tasks-Systematic.md) — Sakib vd. (2026) · *Machine Learning and Knowledge Extraction* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -88,6 +90,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Explainable AI in Medical Tasks: A Systematic Review of Methods, Applications, and Modalities of Explanation](Arastirmalar/2026-Sakib-Explainable-Medical-Tasks-Systematic.md) — Sakib vd. (2026) · *Machine Learning and Knowledge Extraction* · hakemli
 - [Constrained Actionable Counterfactual Explanations With Economic Cost Optimization for Algorithmic Recourse in Credit Scoring Systems](Karsi-Olgusal-Aciklamalar/Arastirmalar/2026-Ikermane-Constrained-Actionable-Counterfactual-E.md) — Ikermane vd. (2026) · *Expert Systems* · hakemli
 <!-- AUTO:RECENT:END -->
 

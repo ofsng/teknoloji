@@ -84,7 +84,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -92,7 +92,10 @@ Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
-_Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini göstermez; ön baskılar hakemli değildir._
+Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
+
+- [Slim super multi-view virtual reality near-eye display using micro-lens array and dynamically driven point light source array](Goze-Yakin-Ekranlar/Arastirmalar/2026-Kim-Slim-super-multi-view.md) — Kim vd. (2026) · *Optics & Laser Technology* · hakemli
+- [Liquid Crystal Display Equipment Development for Body Mass Index, Blood Pressure, Temperature and Sugar Level](Sivi-Kristal-Ekranlar/Arastirmalar/2026-Ejiko-Liquid-Crystal-Display-Equipment.md) — Ejiko (2026) · *INTERNATIONAL JOURNAL OF MEDICAL EVALUATION AND PHYSICAL REPORT* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

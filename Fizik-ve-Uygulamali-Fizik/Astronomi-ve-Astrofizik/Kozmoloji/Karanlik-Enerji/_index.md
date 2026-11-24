@@ -75,9 +75,10 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **2**.
 
 - [Dark Energy Survey year 6 results: Cosmological constraints from galaxy clustering and weak lensing](Arastirmalar/2026-Abbott-Dark-Energy-Survey-year.md) — Abbott vd. (2026) · *Physical review. D/Physical review. D.* · hakemli · atıf: 101
+- [Constraints on cosmology and baryonic feedback with joint analysis of Dark Energy Survey Year 3 lensing data and ACT DR6 thermal Sunyaev-Zel'dovich effect observations](Arastirmalar/2025-Pandey-Constraints-cosmology-and-baryonic.md) — Pandey vd. (2025) · *arXiv* · ön baskı / hakemsiz
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler

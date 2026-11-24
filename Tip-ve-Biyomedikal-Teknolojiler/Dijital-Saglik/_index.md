@@ -78,7 +78,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **7**.
+Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **10**.
 
 - [Digital health interventions for psoriasis management: a systematic review and meta-analysis of randomized controlled trials](Arastirmalar/2026-Zhang-Digital-health-interventions-for.md) — Zhang vd. (2026) · *Frontiers in Medicine* · hakemli · atıf: 1
 - [Technology Empowerment or Reinventing Barriers?—A Study on the Impact of Digital Health Literacy on Access to Basic Public Health Services among Elderly](Arastirmalar/2026-Ha-Technology-Empowerment-Reinventing-Barriers.md) — Ha (2026) · *Theoretical and Natural Science* · hakemli
@@ -92,12 +92,13 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
 - [Implementing a Clinical Decision Support System for Pressure Injury Risk Management in Intensive Care Nursing: A Mixed‐Methods Evaluation](Saglik-Bilisimi/Klinik-Karar-Destek-Sistemleri/Arastirmalar/2026-Adibelli-Implementing-Clinical-Decision-Support.md) — Adıbelli vd. (2026) · *Journal of Advanced Nursing* · hakemli
+- [Multi-Modal AI-Based Healthcare Diagnostic and Clinical Decision Support System](Saglik-Bilisimi/Klinik-Karar-Destek-Sistemleri/Arastirmalar/2026-Mishra-Multi-Modal-Based-Healthcare.md) — Mishra vd. (2026) · *International Journal of Scientific Research in Computer Science Engineering and Information Technology* · hakemli
 - [Outpatient Care and Telehealth for Healthcare Transformation in Nigeria: A Narrative Review of Health Informatics Challenges and Opportunities](Saglik-Bilisimi/Arastirmalar/2026-Odis-Outpatient-Care-and-Telehealth.md) — Odis (2026) · *InfoScience Trends* · hakemli
+- [Expert Perspectives on Transparency and Trust in AI-Based Clinical Decision Support Systems for Chest X-Ray Diagnosis: Qualitative Study](Saglik-Bilisimi/Klinik-Karar-Destek-Sistemleri/Arastirmalar/2026-Sriviboon-Expert-Perspectives-Transparency-and.md) — Sriviboon vd. (2026) · *JMIR Medical Informatics* · hakemli
 - [Effectiveness of a novel mobile health application in educating first-time complete denture wearers: a prospective randomized controlled clinical study](Mobil-Saglik/Arastirmalar/2026-Sooda-Effectiveness-novel-mobile-health.md) — Sooda vd. (2026) · *BMC Oral Health* · hakemli
 - [Mentorship for electronic health record quality improvement in Nigeria: A practice framework](Saglik-Bilisimi/Elektronik-Saglik-Kayitlari/Arastirmalar/2026-Popoola-Mentorship-for-electronic-health.md) — Popoola (2026) · *Innovation in Health for Society* · hakemli
 - [Technology Empowerment or Reinventing Barriers?—A Study on the Impact of Digital Health Literacy on Access to Basic Public Health Services among Elderly](Arastirmalar/2026-Ha-Technology-Empowerment-Reinventing-Barriers.md) — Ha (2026) · *Theoretical and Natural Science* · hakemli
 - [Digital health interventions for psoriasis management: a systematic review and meta-analysis of randomized controlled trials](Arastirmalar/2026-Zhang-Digital-health-interventions-for.md) — Zhang vd. (2026) · *Frontiers in Medicine* · hakemli · atıf: 1
-- [Mapping the evidence on implementation of clinical decision support systems in nurses' reverse triage decisions during disaster surges: A scoping review with a proposed conceptual framework](Saglik-Bilisimi/Klinik-Karar-Destek-Sistemleri/Arastirmalar/2026-Salasa-Mapping-the-evidence-implementation.md) — Salasa vd. (2026) · *International Emergency Nursing* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

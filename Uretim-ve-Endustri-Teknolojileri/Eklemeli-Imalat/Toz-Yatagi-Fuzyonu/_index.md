@@ -77,7 +77,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **6**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **8**.
 
 - [Comprehensive Review on Additive Manufacturing of Plastic and Composite Parts for Aerospace by Powder Bed Fusion](Arastirmalar/2026-Patrizii-Comprehensive-Review-Additive-Manufactu.md) — Patrizii vd. (2026) · *Powders* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -89,6 +89,8 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Comparing the refreshing and single batch powder reuse methods for AlSi7Mg produced by laser powder bed fusion](Lazer-Toz-Yatagi-Fuzyonu/Arastirmalar/2026-Warner-Comparing-the-refreshing-and.md) — Warner vd. (2026) · *The International Journal of Advanced Manufacturing Technology* · hakemli
+- [Processing of CuAg7Zr and CuCr1Zr via laser powder bed fusion and the effects of oxidation on reflectance](Lazer-Toz-Yatagi-Fuzyonu/Arastirmalar/2026-Novak-Processing-CuAg7Zr-and-CuCr1Zr.md) — Novak vd. (2026) · *European Journal of Materials* · hakemli
 - [A review of the selective laser sintering technology for bio-based nylon 11](Secici-Lazer-Sinterleme/Arastirmalar/2026-Wang-review-the-selective-laser.md) — Wang (2026) · *International Journal of Research in Engineering and Science* · hakemli
 - [Explainable artificial intelligence for laser powder bed fusion alloys: breaking the formability–performance trade-off via collaborative control](Lazer-Toz-Yatagi-Fuzyonu/Arastirmalar/2026-Liu-Explainable-artificial-intelligence-for.md) — Liu vd. (2026) · *Advanced Materials Joining* · hakemli
 - [Multi-Response Process-Thickness-Property Optimization of Thin-Walled AlSi10Mg Alloy Fabricated by Laser Powder Bed Fusion](Lazer-Toz-Yatagi-Fuzyonu/Arastirmalar/2026-Majeed-Multi-Response-Process-Thickness.md) — Majeed vd. (2026) · *Journal of Manufacturing and Materials Processing* · hakemli

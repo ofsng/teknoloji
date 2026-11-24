@@ -21,11 +21,11 @@ cited_by_count: 33
 content_status: abstract_only
 abstract_license: cc-by
 retraction_status: none_reported
-related_versions: []
+related_versions: [{"relation": "preprint", "doi": "10.36227/techrxiv.16564218", "source": "crossref"}, {"relation": "preprint", "doi": "10.36227/techrxiv.16564218.v1", "source": "crossref"}]
 collected_at: 2026-11-15
 last_checked_at: 2026-11-15
 content_verified: false
-identifier_verified: false
+identifier_verified: crossref
 ---
 
 # Decentralized Global Copyright System Based on Consortium Blockchain With Proof of Authority

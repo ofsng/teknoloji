@@ -85,7 +85,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **8**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **10**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -95,14 +95,14 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [2D-TMDC Hole Transport Layers for Back-Surface Passivation in Thin-Film Solar Cells](Ince-Film-Gunes-Hucreleri/Arastirmalar/2026-Haridas-TMDC-Hole-Transport-Layers.md) — Haridas vd. (2026) · *Nanomaterials* · hakemli
 - [Optimizing the Performance of Perovskite Solar Cells through Triple-Diode Model: Achieving Maximum Power Conversion Efficiency and Minimizing Statistical Errors](Perovskit-Gunes-Hucreleri/Arastirmalar/2026-Subash-Optimizing-the-Performance-Perovskite.md) — Subash vd. (2026) · *Journal of Circuits Systems and Computers* · hakemli
 - [Modelling annual wave-induced loss for floating photovoltaics under realistic weather conditions](Yuzer-Fotovoltaik/Arastirmalar/2026-Nysted-Modelling-annual-wave-induced.md) — Nysted vd. (2026) · *Solar Energy* · hakemli
+- [Breaking the 35% Efficiency Milestone: Material Innovations and Interface Mechanisms in Monolithic Perovskite/Silicon Tandem Solar Cells](Tandem-Gunes-Hucreleri/Arastirmalar/2026-Xue-Breaking-the-Efficiency-Milestone.md) — Xue vd. (2026) · *Advanced Functional Materials* · hakemli
 - [Physics-informed neural modeling of TiO2 photoanode thickness-dependent electron transport and photovoltaic performance in dye-sensitized solar cells](Boya-Duyarli-Gunes-Hucreleri/Arastirmalar/2026-Naidu-Physics-informed-neural-modeling.md) — Naidu vd. (2026) · *Journal of Computational Electronics* · hakemli
 - [Robust Multi-Objective Sizing and Operation of an Autonomous Bifacial Photovoltaic Water-Supply Pumping System](Cift-Yuzlu-Fotovoltaik/Arastirmalar/2026-Belsky-Robust-Multi-Objective-Sizing.md) — Belsky vd. (2026) · *Energies* · hakemli
 - [Conventional and Emerging Counter Electrode Materials for Dye-Sensitized Solar Cells: A Comprehensive Review](Boya-Duyarli-Gunes-Hucreleri/Arastirmalar/2026-Akhtaruzzaman-Conventional-and-Emerging-Counter.md) — Akhtaruzzaman vd. (2026) · *Materials* · hakemli
 - [Evaluation of a Dye-Sensitized Solar Cell (DSSC) device based on Agaricus bisporus extract](Boya-Duyarli-Gunes-Hucreleri/Arastirmalar/2026-Zavala-Barba-Evaluation-Dye-Sensitized-Solar.md) — Zavala-Barba vd. (2026) · *ECORFAN Journal Republic of Guatemala* · hakemli
-- [Synergistic enhancement of quasi-solid-state dye-sensitized solar cells using carotenoids and santalin as co-sensitizers](Boya-Duyarli-Gunes-Hucreleri/Arastirmalar/2026-Chaudhari-Synergistic-enhancement-quasi-solid.md) — Chaudhari vd. (2026) · *Materials for Renewable and Sustainable Energy* · hakemli
-- [Influence of row spacings on the thermal performance of floating photovoltaic arrays at the Occhito Dam reservoir, Italy: A numerical study](Yuzer-Fotovoltaik/Arastirmalar/2026-Jahromi-Influence-row-spacings-the.md) — Jahromi vd. (2026) · *Solar Energy* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

@@ -79,7 +79,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **3**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **4**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -91,6 +91,7 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 
 - [Cooper quartets and fractional vortices in frustrated Josephson junction dice arrays](Josephson-Eklemleri/Arastirmalar/2026-Weerda-Cooper-quartets-and-fractional.md) — Weerda vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [Interplay of superconductivity and ferromagnetism in ferromagnetic semiconductor-based Josephson junctions](Josephson-Eklemleri/Arastirmalar/2026-Hara-Interplay-superconductivity-and-ferromagnet.md) — Hara vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [Moiré Engineering of Square-Lattice Hubbard Models for Copper- and Iron-Based Superconductors](Demir-Tabanli-Superiletkenler/Arastirmalar/2026-Kariyado-Moire-Engineering-Square-Lattice.md) — Kariyado vd. (2026) · *arXiv* · ön baskı / hakemsiz
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

@@ -5833,6 +5833,66 @@
   "url": "https://arxiv.org/abs/2601.03942"
  },
  {
+  "added": "2026-11-24",
+  "arxiv": "2611.29158",
+  "candidates": [
+   [
+    "digital-twins",
+    7.15
+   ],
+   [
+    "unmanned-aerial-vehicles",
+    1.8
+   ],
+   [
+    "global-navigation-satellite-systems",
+    1.35
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.29158",
+   "title:implementationandsoftwareintheloopevaluationofatransdomaindigitaltwinarchitectureforautonomousguidanceofthephoenixvtoluavwithoutonlinegnss|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Autonomous UAV guidance in emergency response, infrastructure monitoring, and cargo transportation requires reliable navigation. However, satellite-based positioning may become unavailable or unreliable in enclosed spaces, blind spots caused by natural obstacles and structures, and environments affected by radio interference and signal spoofing during electronic warfare. This study designs, implements, and evaluates a system based on a Trans-Domain Digital Twin (TDDT) for autonomous guidance of the Phoenix VTOL UAV. Independent navigation, flight dynamics, and meteorological models are coordinated within a cycle of state estimation, prediction, decision-making, command execution, and feedback. Data from inertial, magnetic, pressure, and airspeed sensors, together with environmental information, form the basis for estimation and prediction. Furthermore, a shared state, temporal synchronization, preservation of information provenance, and command traceability establish continuity between models and decisions. The system was tested with a simulated physical twin in a software-in-the-loop environment. Vertical takeoff, movement toward the destination, landing, and autonomous stopping were recorded, and the dynamic model was adjusted to a limited extent based on sensor-derived feedback. Separating the evaluation reference from navigation inputs enabled independent assessment of positioning error and computational performance. The results confirm operational coordination, decision traceability, and closed-loop guidance under the tested conditions, providing a reproducible platform for the development and evaluation of navigation without satellite-based positioning.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.29158",
+   "authors": [
+    "Mansoorali Amiri"
+   ],
+   "categories": [
+    "arXiv:cs.RO",
+    "arXiv:cs.SE",
+    "arXiv:eess.SY"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-22",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.29158"
+   ],
+   "title": "Implementation and Software-in-the-Loop Evaluation of a Trans-Domain Digital Twin Architecture for Autonomous Guidance of the Phoenix VTOL UAV Without Online GNSS",
+   "topics": [],
+   "updated_date": "2026-11-22",
+   "url": "https://arxiv.org/abs/2611.29158"
+  },
+  "score": 7.15,
+  "seen": 1,
+  "suggested": "digital-twins",
+  "title": "Implementation and Software-in-the-Loop Evaluation of a Trans-Domain Digital Twin Architecture for Autonomous Guidance of the Phoenix VTOL UAV Without Online GNSS",
+  "url": "https://arxiv.org/abs/2611.29158"
+ },
+ {
   "added": "2026-11-09",
   "arxiv": "2607.08816",
   "candidates": [
@@ -9744,6 +9804,71 @@
   "url": "https://arxiv.org/abs/2611.25373"
  },
  {
+  "added": "2026-11-24",
+  "arxiv": "2611.29143",
+  "candidates": [
+   [
+    "artificial-intelligence",
+    6.3
+   ],
+   [
+    "machine-learning",
+    5.02
+   ],
+   [
+    "autonomous-mobile-robots",
+    0.45
+   ],
+   [
+    "magnetic-sensors",
+    0.45
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.29143",
+   "title:towardsedgeartificialintelligenceforpredictingantimicrobialresistanceinmycobacteriumtuberculosis|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Antimicrobial resistance (AMR) in Mycobacterium tuberculosis (MTB) poses a major challenge to global tuberculosis control, as multidrug-resistant strains limit available treatment options. Rapid and accurate prediction of drug resistance from genomic data could support timely treatment decisions and public health interventions. However, many existing computational approaches for genomic AMR prediction rely on computationally intensive pipelines, limiting their suitability for deployment on resource-constrained edge devices. This limitation is particularly relevant in hospital settings in low- and middle-income countries, where computing infrastructure and access to high-performance computational resources may be limited. To address this challenge, we present a lightweight, novel machine learning (ML) approach suitable for running on edge devices that combines 4-mer frequency features derived from whole-genome sequences with a Random Forest classifier to predict antibiotic resistance in MTB. The proposed ML approach achieved an average area under the receiver operating characteristic curve of 0.82 across 20 antibiotics on an independent test set.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.29143",
+   "authors": [
+    "Nishat Tasnim",
+    "Faisal Ahmed",
+    "Rokan Uddin Faruqui"
+   ],
+   "categories": [
+    "arXiv:cs.LG",
+    "arXiv:q-bio.QM"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-22",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.29143"
+   ],
+   "title": "Towards Edge Artificial Intelligence for Predicting Antimicrobial Resistance in Mycobacterium tuberculosis",
+   "topics": [],
+   "updated_date": "2026-11-22",
+   "url": "https://arxiv.org/abs/2611.29143"
+  },
+  "score": 6.3,
+  "seen": 1,
+  "suggested": "artificial-intelligence",
+  "title": "Towards Edge Artificial Intelligence for Predicting Antimicrobial Resistance in Mycobacterium tuberculosis",
+  "url": "https://arxiv.org/abs/2611.29143"
+ },
+ {
   "added": "2026-11-14",
   "arxiv": null,
   "candidates": [
@@ -11124,147 +11249,5 @@
   "suggested": "particle-physics",
   "title": "Axion wormholes and the AdS/CFT factorization problem",
   "url": "https://doi.org/10.1007/jhep11(2026)201"
- },
- {
-  "added": "2026-11-23",
-  "arxiv": "2607.07255",
-  "candidates": [
-   [
-    "particle-physics",
-    3.48
-   ]
-  ],
-  "confidence": "medium",
-  "doi": "10.1103/hxwv-chdc",
-  "keys": [
-   "arxiv:2607.07255",
-   "doi:10.1103/hxwv-chdc",
-   "title:airyfunctionsfromquantummtheory|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "We show that Airy function partition functions for M2-brane theories may be derived from relative equivariant localization of quantum M-theory. The eleven-dimensional Chern–Simons coupling gives the cubic term in the grand potential, while the X 8 correction gives the charge shift. Fixing the M2-brane charge turns the localized M-theory path integral into an Airy integral. In this way we derive the ABJM result, its toric Calabi–Yau generalizations, and gravitational blocks for black holes and other spacetimes, up to the prefactor and non-perturbative corrections.",
-   "abstract_license": null,
-   "arxiv": "2607.07255",
-   "authors": [
-    "Pietro Benetti Genolini",
-    "Florian Gaar",
-    "Jerome P. Gauntlett",
-    "Jaeha Park",
-    "James Sparks"
-   ],
-   "categories": [
-    "OpenAlex-field:Physics and Astronomy"
-   ],
-   "cited_by_count": 17,
-   "doi": "10.1103/hxwv-chdc",
-   "is_retracted": false,
-   "keywords": [
-    "Airy functions",
-    "M2-branes",
-    "equivariant localization",
-    "grand potential",
-    "ABJM theory",
-    "toric Calabi-Yau manifolds",
-    "non-perturbative corrections"
-   ],
-   "language": "en",
-   "oa_created": "2026-07-10",
-   "peer_reviewed": true,
-   "publication": "Physical Review Letters",
-   "publication_type": "article",
-   "published_date": "2026-11-20",
-   "related_versions": [],
-   "source_ids": [
-    "openalex:W7167805035"
-   ],
-   "title": "Airy functions from quantum M-theory",
-   "topics": [
-    "Black Holes and Theoretical Physics",
-    "Nuclear and High Energy Physics"
-   ],
-   "updated_date": "2026-11-23",
-   "url": "https://doi.org/10.1103/hxwv-chdc"
-  },
-  "score": 3.48,
-  "seen": 1,
-  "suggested": "particle-physics",
-  "title": "Airy functions from quantum M-theory",
-  "url": "https://doi.org/10.1103/hxwv-chdc"
- },
- {
-  "added": "2026-11-09",
-  "arxiv": null,
-  "candidates": [
-   [
-    "convolutional-neural-networks",
-    4.12
-   ],
-   [
-    "motor-systems",
-    3.1
-   ],
-   [
-    "cognitive-neuroscience",
-    3.1
-   ]
-  ],
-  "confidence": "medium",
-  "doi": "10.1523/jneurosci.2151-25.2026",
-  "keys": [
-   "doi:10.1523/jneurosci.2151-25.2026",
-   "title:gazereinstatementduringworkingmemoryfornaturalscenes|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "Abstract The information we hold in mind with working memory (WM) may propagate beyond the cortex and out to the peripheral motor system. For instance, directionally biased hand and eye movements can express simple visuo-spatial features during WM maintenance. If such sensorimotor inflections are a form of WM representation, they may also express more multifaceted and task-adaptive information than just spatial location. Here, we ask whether gaze patterns carry item-specific detail about complex stimuli held in mind, and whether gaze prospectively adapts to the behavioral task demands. To do this, we tracked human eye movements (male and female) during WM for naturalistic images, and we manipulated which image features were most task-relevant (visual or semantic). In two experiments, we found that the eyes moved in complex, item-specific spatiotemporal sequences during WM maintenance. Delay period gaze patterns retraced the scanpaths from stimulus encoding, echoing the ‘gaze reinstatement’ that aligns with neural pattern reactivation during long-term memory retrieval. Therefore, gaze patterns during WM may reinstate visual encoding processes for maintenance. We also used time-resolved representational similarity analyses, guided by convolutional neural network modeling, to test the specificity of WM gaze patterns across a trial. We found that gaze representations were more distinct when the task prioritized visual detail, and also ramped up in anticipation of the WM probe. Therefore, oculomotor WM signals are malleable to when and how the content will be used. These results suggest that the earliest levels of visual processing reflect prospectively-oriented and functionally flexible WM content representations. Significance The eyes are an outwardly accessible extension of the brain. They are the first stop for visual processing, but may also offer a rich window into underlying cognition. For instance, pupil dilation can reflect changing cognitive load, and eye movement biases can reflect basic spatial information about content held in mind with working memory. Working memory is a critical neuro-cognitive function, but its physiological bases remain under debate. Here, we show that eye movements code for more than simple spatial WM, and instead express intricate patterns that read out the complex, real-world stimuli held in mind. This work shows how cognitive states influence oculomotor functions, and also advances theories of WM representation to include the earliest stages of sensory processing.",
-   "abstract_license": "cc-by-nc-sa",
-   "arxiv": null,
-   "authors": [
-    "Yueying Dong",
-    "Yun-chen Hung",
-    "Lana Gaspariani",
-    "Anastasia Kiyonaga"
-   ],
-   "categories": [
-    "OpenAlex-field:Neuroscience"
-   ],
-   "cited_by_count": 4,
-   "doi": "10.1523/jneurosci.2151-25.2026",
-   "is_retracted": false,
-   "keywords": [
-    "working memory",
-    "eye movements",
-    "natural images",
-    "scan paths",
-    "memory representation",
-    "visual encoding",
-    "convolutional neural networks",
-    "task-relevant features",
-    "memory maintenance"
-   ],
-   "language": "en",
-   "oa_created": "2025-10-10",
-   "peer_reviewed": true,
-   "publication": "Journal of Neuroscience",
-   "publication_type": "article",
-   "published_date": "2026-11-06",
-   "related_versions": [],
-   "source_ids": [
-    "openalex:W4414699781"
-   ],
-   "title": "Gaze reinstatement during working memory for natural scenes",
-   "topics": [
-    "Visual perception and processing mechanisms",
-    "Cognitive Neuroscience"
-   ],
-   "updated_date": "2026-11-08",
-   "url": "https://doi.org/10.1523/jneurosci.2151-25.2026"
-  },
-  "score": 4.12,
-  "seen": 1,
-  "suggested": "convolutional-neural-networks",
-  "title": "Gaze reinstatement during working memory for natural scenes",
-  "url": "https://doi.org/10.1523/jneurosci.2151-25.2026"
  }
 ]

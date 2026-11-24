@@ -77,7 +77,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **2**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **3**.
 
 - [Ways to Improve the Energy Efficiency of Uzbekistan's Industrial Sectors: Lessons Learned and Opportunities to Apply Chinese Practice](Arastirmalar/2026-Xuan-Ways-Improve-the-Energy.md) — Xuan (2026) · *American Journal of Economics and Business Management* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -89,6 +89,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Experimental Evaluation of Surfactant Drag Reducing Agents for Use in District Heating and Cooling Networks](Bolgesel-Isitma/Arastirmalar/2026-Nimwegen-Experimental-Evaluation-Surfactant-Drag.md) — Nimwegen vd. (2026) · *Energies* · hakemli
 - [Industrial energy efficiency starts with the team that operates the plant rather than with the purchase of new equipment](Endustriyel-Enerji-Verimliligi/Arastirmalar/2026-Santos-Industrial-energy-efficiency-starts.md) — Santos (2026) · *RCMOS - Revista Científica Multidisciplinar O Saber* · hakemli
 - [Ways to Improve the Energy Efficiency of Uzbekistan's Industrial Sectors: Lessons Learned and Opportunities to Apply Chinese Practice](Arastirmalar/2026-Xuan-Ways-Improve-the-Energy.md) — Xuan (2026) · *American Journal of Economics and Business Management* · hakemli
 <!-- AUTO:RECENT:END -->

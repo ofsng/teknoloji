@@ -75,8 +75,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **2**.
+Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **3**.
 
+- [ANALYSIS OF A NON-ISOLATED FORM OF DC-DC CONVERTER WITH ENHANCED QUADRATIC VOLTAGE GAIN](Arastirmalar/2026-Duraisamy-ANALYSIS-NON-ISOLATED-FORM.md) — Duraisamy vd. (2026) · *REVUE ROUMAINE DES SCIENCES TECHNIQUES — SÉRIE ÉLECTROTECHNIQUE ET ÉNERGÉTIQUE* · hakemli
 - [Design and Simulation of a Bidirectional Two-Stage DC/DC Converter with Partial Switch Sharing for Vehicle-to-Vehicle Charging Applications](Arastirmalar/2026-Kagan-Design-and-Simulation-Bidirectional.md) — Kağan vd. (2026) · *International journal of engineering inventions.* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
@@ -87,6 +88,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [ANALYSIS OF A NON-ISOLATED FORM OF DC-DC CONVERTER WITH ENHANCED QUADRATIC VOLTAGE GAIN](Arastirmalar/2026-Duraisamy-ANALYSIS-NON-ISOLATED-FORM.md) — Duraisamy vd. (2026) · *REVUE ROUMAINE DES SCIENCES TECHNIQUES — SÉRIE ÉLECTROTECHNIQUE ET ÉNERGÉTIQUE* · hakemli
 - [Efficiency Optimization of LLC Resonant Converters via Combined Analytical Modeling and Data-Assisted Visualization](Rezonansli-Donusturuculer/Arastirmalar/2026-Athar-Efficiency-Optimization-LLC-Resonant.md) — Athar vd. (2026) · *Electronics* · hakemli
 - [Design and Simulation of a Bidirectional Two-Stage DC/DC Converter with Partial Switch Sharing for Vehicle-to-Vehicle Charging Applications](Arastirmalar/2026-Kagan-Design-and-Simulation-Bidirectional.md) — Kağan vd. (2026) · *International journal of engineering inventions.* · hakemli
 <!-- AUTO:RECENT:END -->

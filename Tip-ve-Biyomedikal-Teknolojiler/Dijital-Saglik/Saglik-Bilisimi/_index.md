@@ -77,7 +77,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **4**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **7**.
 
 - [Outpatient Care and Telehealth for Healthcare Transformation in Nigeria: A Narrative Review of Health Informatics Challenges and Opportunities](Arastirmalar/2026-Odis-Outpatient-Care-and-Telehealth.md) — Odis (2026) · *InfoScience Trends* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -90,8 +90,11 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
 - [Implementing a Clinical Decision Support System for Pressure Injury Risk Management in Intensive Care Nursing: A Mixed‐Methods Evaluation](Klinik-Karar-Destek-Sistemleri/Arastirmalar/2026-Adibelli-Implementing-Clinical-Decision-Support.md) — Adıbelli vd. (2026) · *Journal of Advanced Nursing* · hakemli
+- [Multi-Modal AI-Based Healthcare Diagnostic and Clinical Decision Support System](Klinik-Karar-Destek-Sistemleri/Arastirmalar/2026-Mishra-Multi-Modal-Based-Healthcare.md) — Mishra vd. (2026) · *International Journal of Scientific Research in Computer Science Engineering and Information Technology* · hakemli
 - [Outpatient Care and Telehealth for Healthcare Transformation in Nigeria: A Narrative Review of Health Informatics Challenges and Opportunities](Arastirmalar/2026-Odis-Outpatient-Care-and-Telehealth.md) — Odis (2026) · *InfoScience Trends* · hakemli
+- [Expert Perspectives on Transparency and Trust in AI-Based Clinical Decision Support Systems for Chest X-Ray Diagnosis: Qualitative Study](Klinik-Karar-Destek-Sistemleri/Arastirmalar/2026-Sriviboon-Expert-Perspectives-Transparency-and.md) — Sriviboon vd. (2026) · *JMIR Medical Informatics* · hakemli
 - [Mentorship for electronic health record quality improvement in Nigeria: A practice framework](Elektronik-Saglik-Kayitlari/Arastirmalar/2026-Popoola-Mentorship-for-electronic-health.md) — Popoola (2026) · *Innovation in Health for Society* · hakemli
+- [PathoGuide: A Hybrid AI Clinical Decision Support System for Evidence-Based Antimicrobial Prescribing in Resource-Constrained Settings](Klinik-Karar-Destek-Sistemleri/Arastirmalar/2026-Gray-PathoGuide-Hybrid-Clinical-Decision.md) — Gray (2026) · *Algorithmica International Journal of Computational Sciences* · hakemli
 - [Mapping the evidence on implementation of clinical decision support systems in nurses' reverse triage decisions during disaster surges: A scoping review with a proposed conceptual framework](Klinik-Karar-Destek-Sistemleri/Arastirmalar/2026-Salasa-Mapping-the-evidence-implementation.md) — Salasa vd. (2026) · *International Emergency Nursing* · hakemli
 <!-- AUTO:RECENT:END -->
 

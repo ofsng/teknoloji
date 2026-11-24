@@ -85,7 +85,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **3**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -95,6 +95,8 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Slim super multi-view virtual reality near-eye display using micro-lens array and dynamically driven point light source array](Ekran-Teknolojileri/Goze-Yakin-Ekranlar/Arastirmalar/2026-Kim-Slim-super-multi-view.md) — Kim vd. (2026) · *Optics & Laser Technology* · hakemli
+- [Liquid Crystal Display Equipment Development for Body Mass Index, Blood Pressure, Temperature and Sugar Level](Ekran-Teknolojileri/Sivi-Kristal-Ekranlar/Arastirmalar/2026-Ejiko-Liquid-Crystal-Display-Equipment.md) — Ejiko (2026) · *INTERNATIONAL JOURNAL OF MEDICAL EVALUATION AND PHYSICAL REPORT* · hakemli
 - [Load-resistance-dependent charge reduction in a droplet-based electricity generator revealed by synchronized charge analysis and high-speed imaging](Yuksek-Hizli-Goruntuleme/Arastirmalar/2026-Suzuki-Load-resistance-dependent-charge.md) — Suzuki vd. (2026) · *Japanese Journal of Applied Physics* · hakemli
 <!-- AUTO:RECENT:END -->
 

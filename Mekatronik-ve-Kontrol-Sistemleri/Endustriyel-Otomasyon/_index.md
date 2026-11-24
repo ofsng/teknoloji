@@ -79,7 +79,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **2**.
+
+- [MODERN METHODS FOR AUTOMATING TECHNOLOGICAL PROCESSES IN THE FOOD INDUSTRY](Arastirmalar/2026-kizi-MODERN-METHODS-FOR-AUTOMATING.md) — kizi (2026) · *HSR (London)* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -90,6 +92,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
 - [LSTM Network Architecture based on Programmable Logic Controllers](Programlanabilir-Mantik-Denetleyicileri/Arastirmalar/2026-Shevchenko-LSTM-Network-Architecture-based.md) — Shevchenko vd. (2026) · *PROGRAMMNAYA INGENERIA* · hakemli
+- [MODERN METHODS FOR AUTOMATING TECHNOLOGICAL PROCESSES IN THE FOOD INDUSTRY](Arastirmalar/2026-kizi-MODERN-METHODS-FOR-AUTOMATING.md) — kizi (2026) · *HSR (London)* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

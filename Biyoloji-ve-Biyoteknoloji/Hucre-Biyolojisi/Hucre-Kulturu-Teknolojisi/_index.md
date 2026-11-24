@@ -79,7 +79,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -87,7 +87,10 @@ Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
-_Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini göstermez; ön baskılar hakemli değildir._
+Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
+
+- [Toward Dynamic Biointerface Toxicology of Micro- and Nanoplastics Using Organoids and Organ-on-a-Chip Models](Cip-Ustunde-Organ/Arastirmalar/2026-Xie-Toward-Dynamic-Biointerface-Toxicology.md) — Xie vd. (2026) · *Environmental Science & Technology* · hakemli
+- [Modeling Venezuelan Equine Encephalitis Virus Infection of the Liver and Evaluation of a Host-Directed Therapeutic in an Organ-on-a-Chip Platform](Cip-Ustunde-Organ/Arastirmalar/2026-Galarza-Modeling-Venezuelan-Equine-Encephalitis.md) — Galarza vd. (2026) · *Viruses* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

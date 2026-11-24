@@ -85,7 +85,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **14**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **16**.
 
 - [Metal Additive Manufacturing of Engineering Alloys: Process–Material Interactions, Defect Formation, Property Optimization and a Decision-Making Framework](Arastirmalar/2026-Rocha-Metal-Additive-Manufacturing-Engineering.md) — Rocha vd. (2026) · *Journal of Mechanical Engineering and Manufacturing* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -97,14 +97,14 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Comparing the refreshing and single batch powder reuse methods for AlSi7Mg produced by laser powder bed fusion](Toz-Yatagi-Fuzyonu/Lazer-Toz-Yatagi-Fuzyonu/Arastirmalar/2026-Warner-Comparing-the-refreshing-and.md) — Warner vd. (2026) · *The International Journal of Advanced Manufacturing Technology* · hakemli
+- [Processing of CuAg7Zr and CuCr1Zr via laser powder bed fusion and the effects of oxidation on reflectance](Toz-Yatagi-Fuzyonu/Lazer-Toz-Yatagi-Fuzyonu/Arastirmalar/2026-Novak-Processing-CuAg7Zr-and-CuCr1Zr.md) — Novak vd. (2026) · *European Journal of Materials* · hakemli
 - [A volumetric additive manufacturing machine learning and video-correction method for engineering gelatin methacryloyl and poly(ethylene glycol) diacrylate hydrogel spheres and assembloids](Hazne-Fotopolimerizasyonu/Hacimsel-Eklemeli-Imalat/Arastirmalar/2026-Wheeler-volumetric-additive-manufacturing-machin.md) — Wheeler vd. (2026) · *Biofabrication* · hakemli
 - [Justification of 4D printing over 3D printing for IoT and mechatronics applications using fuzzy analytical hierarchy process](4B-Baski/Arastirmalar/2026-Kumari-Justification-printing-over-printing.md) — Kumari vd. (2026) · *Journal of Intelligent & Fuzzy Systems* · hakemli
 - [Analysis of interfacial force interaction in the internal polymer flow in the hot end of material extrusion additive manufacturing](Malzeme-Ekstruzyonu/Arastirmalar/2026-Nzebuka-Analysis-interfacial-force-interaction.md) — Nzebuka vd. (2026) · *The International Journal of Advanced Manufacturing Technology* · hakemli
 - [A review of the selective laser sintering technology for bio-based nylon 11](Toz-Yatagi-Fuzyonu/Secici-Lazer-Sinterleme/Arastirmalar/2026-Wang-review-the-selective-laser.md) — Wang (2026) · *International Journal of Research in Engineering and Science* · hakemli
 - [Design for additive manufacturing. The application to the AEC industry](Eklemeli-Imalat-icin-Tasarim/Arastirmalar/2026-Cruz-Design-for-additive-manufacturing.md) — Cruz vd. (2026) · *The Design Journal* · hakemli
 - [Explainable artificial intelligence for laser powder bed fusion alloys: breaking the formability–performance trade-off via collaborative control](Toz-Yatagi-Fuzyonu/Lazer-Toz-Yatagi-Fuzyonu/Arastirmalar/2026-Liu-Explainable-artificial-intelligence-for.md) — Liu vd. (2026) · *Advanced Materials Joining* · hakemli
-- [Multi-Response Process-Thickness-Property Optimization of Thin-Walled AlSi10Mg Alloy Fabricated by Laser Powder Bed Fusion](Toz-Yatagi-Fuzyonu/Lazer-Toz-Yatagi-Fuzyonu/Arastirmalar/2026-Majeed-Multi-Response-Process-Thickness.md) — Majeed vd. (2026) · *Journal of Manufacturing and Materials Processing* · hakemli
-- [Microstructure evolution and mechanical performance optimization of 30CrMnSiNi2A steel processed by laser powder bed fusion combined with heat treatment](Toz-Yatagi-Fuzyonu/Lazer-Toz-Yatagi-Fuzyonu/Arastirmalar/2026-Wang-Microstructure-evolution-and-mechanical.md) — Wang vd. (2026) · *Materials Science and Technology* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar
