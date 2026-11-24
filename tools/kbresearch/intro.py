@@ -178,6 +178,16 @@ def render(packet, answer, today, written_by):
     """Yanıt + paket → _tanitim.md metni. Kaynaksız ya da paket dışı numaralı ifadeler atılır;
     yalnızca kullanılan kaynaklar listelenir ve yeniden numaralanır."""
     node, srcs = packet["node"], packet["sources"]
+    # Aynı çalışmanın yeniden basımı (aynı başlık) ayrı kaynak sayılmaz: en eski baskıda birleştirilir.
+    first = {}
+    for s in sorted(srcs, key=lambda x: (x.get("year") or "9999", x["n"])):
+        first.setdefault(_norm_title(s.get("title")), s["n"])
+    alias = {s["n"]: first[_norm_title(s.get("title"))] for s in srcs}
+    answer = json.loads(json.dumps(answer))
+    for blk in [answer.get("oz") or {}] + [c for k in ("neden", "gecmis", "bugun", "beklenen") for c in answer.get(k) or []]:
+        if blk.get("kaynaklar"):
+            blk["kaynaklar"] = list(dict.fromkeys(alias.get(int(x), int(x)) for x in blk["kaynaklar"]))
+    srcs = [s for s in srcs if alias[s["n"]] == s["n"]]
     valid = {s["n"] for s in srcs}
 
     def ok(c):
