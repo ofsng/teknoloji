@@ -1,0 +1,45 @@
+name: intro-packets
+
+# Tanıtım kartları için OpenAlex kaynak paketlerini (anahtarlı, yüksek kota) hazırlar ve iş çıktısı (artifact)
+# olarak yükler. Depoya hiçbir şey yazmaz. Yerelde: gh run download <run> -n intro-packets -D .cache/intro
+
+on:
+  workflow_dispatch:
+    inputs:
+      min_depth:
+        description: "En küçük derinlik"
+        default: "3"
+      max_depth:
+        description: "En büyük derinlik"
+        default: "8"
+
+permissions:
+  contents: read
+
+jobs:
+  packets:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    env:
+      OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
+      KB_CONTACT_EMAIL: ${{ vars.KB_CONTACT_EMAIL }}
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+
+      - name: Kaynak paketleri
+        run: |
+          set +e
+          for d in $(seq "${{ inputs.min_depth }}" "${{ inputs.max_depth }}"); do
+            python3 tools/autokb.py intro --packets-only --depth "$d" | tail -c 2000
+          done
+          ls .cache/intro | wc -l
+
+      - uses: actions/upload-artifact@v6
+        with:
+          name: intro-packets
+          path: .cache/intro/
+          retention-days: 30
