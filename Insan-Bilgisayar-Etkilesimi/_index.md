@@ -88,7 +88,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **8**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **9**.
 
 - [Human-Computer Interaction Insights from Web Portals in Consumer Banking](Arastirmalar/2026-Shrivastav-Human-Computer-Interaction-Insights.md) — Shrivastav (2026) · *International Journal of Medical Research And Innovation in Applied Science (IJMRIAS)* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -100,6 +100,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Personalized Learning in Mixed Reality: A Systematic Review of Adaptive Feedback, Coaching, and AI in Higher and Professional Education](Genisletilmis-Gerceklik/Karma-Gerceklik/Arastirmalar/2026-Marougkas-Personalized-Learning-Mixed-Reality.md) — Marougkas vd. (2026) · *Applied Sciences* · hakemli
 - [Augmented Reality, Virtual Reality, and the Metaverse in Cybersecurity Education and Training: A Systematic Literature Review](Genisletilmis-Gerceklik/Arastirmalar/2026-Augmented-Reality-Virtual-Reality.md) — Λαμπρόπουλος vd. (2026) · *Information* · hakemli
 - [Bounded Adaptive Agency in Intelligent Products: Designing Scope, Control, and Non-Intrusion in Human-AI Interaction](Insan-Yapay-Zeka-Etkilesimi/Arastirmalar/2026-Wang-Bounded-Adaptive-Agency-Intelligent.md) — Wang vd. (2026) · *International Journal of Human-Computer Interaction* · hakemli
 - [User-Centered Design of Interactive Recommender Systems for Cancer Patients and Caregivers](Etkilesim-Tasarimi/Kullanici-Merkezli-Tasarim/Arastirmalar/2026-Brusilovsky-User-Centered-Design-Interactive.md) — Brusilovsky vd. (2026) · *ACM Transactions on Recommender Systems* · hakemli
@@ -107,7 +108,6 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [Human-Computer Interaction Insights from Web Portals in Consumer Banking](Arastirmalar/2026-Shrivastav-Human-Computer-Interaction-Insights.md) — Shrivastav (2026) · *International Journal of Medical Research And Innovation in Applied Science (IJMRIAS)* · hakemli
 - [The Impact of Virtual and Augmented Reality on Modern Software Applications](Genisletilmis-Gerceklik/Artirilmis-Gerceklik/Arastirmalar/2026-Shrivastav-The-Impact-Virtual-and.md) — Shrivastav (2026) · *Global Journal of Innovative Research Perspectives (GJIRP)* · hakemli
 - [Ageing, Digital Literacy, and Interaction Modality in Immersive Virtual Reality: Psychomotor Performance, Cognitive Flexibility, and Their Associations with Processing Speed](Genisletilmis-Gerceklik/Sanal-Gerceklik/Arastirmalar/2026-Kourtesis-Ageing-Digital-Literacy-and.md) — Kourtesis vd. (2026) · *Virtual Worlds* · hakemli
-- [Usability Analysis of the BSB Mobile Application of Bank Sumsel Babel Using Heuristic Evaluation](Kullanilabilirlik-Muhendisligi/Sezgisel-Degerlendirme/Arastirmalar/2026-Pratama-Usability-Analysis-the-BSB.md) — Pratama (2026) · *Journal La Multiapp* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

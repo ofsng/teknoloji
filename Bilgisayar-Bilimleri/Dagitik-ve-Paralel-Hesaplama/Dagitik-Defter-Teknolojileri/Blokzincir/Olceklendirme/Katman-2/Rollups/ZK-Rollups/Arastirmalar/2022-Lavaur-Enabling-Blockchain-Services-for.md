@@ -21,11 +21,12 @@ cited_by_count: 60
 content_status: abstract_only
 abstract_license: cc-by
 retraction_status: none_reported
-related_versions: []
+related_versions: [{"relation": "preprint", "doi": "10.20944/preprints202208.0023.v1", "source": "crossref"}]
 collected_at: 2026-11-15
 last_checked_at: 2026-11-15
 content_verified: false
-identifier_verified: false
+identifier_verified: crossref
+retraction_checked: 2026-11-25
 ---
 
 # Enabling Blockchain Services for IoE with Zk-Rollups

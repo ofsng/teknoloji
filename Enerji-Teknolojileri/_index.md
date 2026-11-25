@@ -84,7 +84,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **49**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **52**.
 
 - [The Role of Civil Engineering in Renewable Energy Storage: Contributions and Challenges](Arastirmalar/2026-Yao-The-Role-Civil-Engineering.md) — Yao (2026) · *Applied and Computational Engineering* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -96,14 +96,14 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Techno-Economic and Performance Assessment of Battery versus Green Hydrogen Storage Systems for Large-Scale Grid Decarbonization](Enerji-Depolama/Elektrokimyasal-Enerji-Depolama/Akis-Bataryalari/Vanadyum-Redoks-Akis-Bataryalari/Arastirmalar/2026-Adak-Techno-Economic-and-Performance.md) — Adak vd. (2026) · *International Journal of Scientific Research in Science and Technology* · hakemli
 - [A BIF-derived MnO@BCN/graphite felt electrode for high-performance vanadium redox flow batteries](Enerji-Depolama/Elektrokimyasal-Enerji-Depolama/Akis-Bataryalari/Vanadyum-Redoks-Akis-Bataryalari/Arastirmalar/2026-Xiao-BIF-derived-MnO-BCN.md) — Xiao vd. (2026) · *Chemical Communications* · hakemli
 - [Uncovering the erratic behaviour of heat and reaction fronts in thermochemical energy storage with non-stoichiometric oxides](Enerji-Depolama/Isil-Enerji-Depolama/Termokimyasal-Enerji-Depolama/Arastirmalar/2026-Kasim-Uncovering-the-erratic-behaviour.md) — Kasim vd. (2026) · *Energy Conversion and Management* · hakemli
+- [Integration of Fog-Intelligent and Federated Learning for Decentralized Green Hydrogen Storage Systems: A Review](Hidrojen-Teknolojileri/Hidrojen-Depolama/Arastirmalar/2026-Monye-Integration-Fog-Intelligent-and.md) — Monye vd. (2026) · *International Journal of Energy Research Science and Engineering* · hakemli
 - [Static-Torque Enhancement of Darrieus Vertical-Axis Wind Turbines with Dual-Airfoil Blades](Yenilenebilir-Enerji/Ruzgar-Enerjisi/Dikey-Eksenli-Ruzgar-Turbinleri/Arastirmalar/2026-Arana-Static-Torque-Enhancement-Darrieus.md) — Arana vd. (2026) · *Wind* · hakemli
 - [Review of research and commercial solar concentrated systems for process heat with thermal energy storage in Greece and Cyprus](Enerji-Depolama/Isil-Enerji-Depolama/Arastirmalar/2026-Alexopoulos-Review-research-and-commercial.md) — Alexopoulos vd. (2026) · *Green Energy and Sustainability* · hakemli
 - [Ultrahigh-Performance Mechanical Energy Storage in Helical Molecular Springs](Enerji-Depolama/Mekanik-Enerji-Depolama/Arastirmalar/2026-Ma-Ultrahigh-Performance-Mechanical-Energy.md) — Ma vd. (2026) · *The Journal of Physical Chemistry Letters* · hakemli
 - [Green Hydrogen Production through Photoelectrochemical Water Splitting](Hidrojen-Teknolojileri/Hidrojen-Uretimi/Fotoelektrokimyasal-Su-Ayristirma/Arastirmalar/2026-Venkanna-Green-Hydrogen-Production-through.md) — Venkanna vd. (2026) · *International Journal of Scientific Research in Science and Technology* · hakemli
-- [Spatial prioritization of official offshore wind zones in the Colombian Caribbean: A comparative assessment of fixed-bottom and floating areas](Yenilenebilir-Enerji/Ruzgar-Enerjisi/Deniz-Ustu-Ruzgar/Arastirmalar/2026-Robles-Algarin-Spatial-prioritization-official-o.md) — Robles-Algarín vd. (2026) · *Energy Exploration & Exploitation* · hakemli
-- [A surrogate-assisted reinforcement learning framework for layout optimization and economic assessment of dense urban vertical-axis wind turbine arrays](Yenilenebilir-Enerji/Ruzgar-Enerjisi/Dikey-Eksenli-Ruzgar-Turbinleri/Arastirmalar/2026-Zaidi-surrogate-assisted-reinforcement-learning.md) — Zaidi (2026) · *Wind Engineering* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

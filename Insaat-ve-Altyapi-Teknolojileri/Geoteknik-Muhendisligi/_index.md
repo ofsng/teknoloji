@@ -80,7 +80,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **2**.
 
 - [Hybrid AI-Physics Modeling in Geotechnical Engineering: A Next-Generation Review of Theory-Guided Machine Learning for Smart and Resilient Infrastructure](Arastirmalar/2026-Al-Jeznawi-Hybrid-Physics-Modeling-Geotechnical.md) — Al-Jeznawi vd. (2026) · *Infrastructures* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -92,6 +92,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Geotechnical assessment of the effects of blast-induced ground vibrations on structural integrity and open-pit slope stability](Sev-Stabilitesi/Arastirmalar/2026-Kanu-Geotechnical-assessment-the-effects.md) — Kanu vd. (2026) · *PLoS ONE* · hakemli
 - [Hybrid AI-Physics Modeling in Geotechnical Engineering: A Next-Generation Review of Theory-Guided Machine Learning for Smart and Resilient Infrastructure](Arastirmalar/2026-Al-Jeznawi-Hybrid-Physics-Modeling-Geotechnical.md) — Al-Jeznawi vd. (2026) · *Infrastructures* · hakemli
 <!-- AUTO:RECENT:END -->
 

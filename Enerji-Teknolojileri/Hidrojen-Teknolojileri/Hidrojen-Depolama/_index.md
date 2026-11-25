@@ -78,7 +78,10 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **3**.
+
+- [Integration of Fog-Intelligent and Federated Learning for Decentralized Green Hydrogen Storage Systems: A Review](Arastirmalar/2026-Monye-Integration-Fog-Intelligent-and.md) — Monye vd. (2026) · *International Journal of Energy Research Science and Engineering* · hakemli
+- [Self-foaming Fe–Sn powder beds for durable hydrogen storage and release](Arastirmalar/2026-Zhang-Self-foaming-FeSn-powder.md) — Zhang vd. (2026) · *Materials Today* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -88,7 +91,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Integration of Fog-Intelligent and Federated Learning for Decentralized Green Hydrogen Storage Systems: A Review](Arastirmalar/2026-Monye-Integration-Fog-Intelligent-and.md) — Monye vd. (2026) · *International Journal of Energy Research Science and Engineering* · hakemli
 - [Synergistic Cu–Co Sites Enabled Reversible H 2 Storage and Release in Liquid Organic Hydrogen Carriers](Sivi-Organik-Hidrojen-Tasiyicilari/Arastirmalar/2026-Wang-Synergistic-CuCo-Sites-Enabled.md) — Wang vd. (2026) · *Angewandte Chemie* · hakemli
+- [Self-foaming Fe–Sn powder beds for durable hydrogen storage and release](Arastirmalar/2026-Zhang-Self-foaming-FeSn-powder.md) — Zhang vd. (2026) · *Materials Today* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

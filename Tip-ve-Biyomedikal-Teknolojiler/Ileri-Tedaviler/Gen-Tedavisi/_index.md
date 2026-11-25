@@ -77,7 +77,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **2**.
+
+- [AMCP Market Insights: Examining the current and future state of hemophilia B gene therapy in managed care](Arastirmalar/2026-Flavin-AMCP-Market-Insights-Examining.md) — Flavin vd. (2026) · *Journal of Managed Care & Specialty Pharmacy* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -87,6 +89,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [AMCP Market Insights: Examining the current and future state of hemophilia B gene therapy in managed care](Arastirmalar/2026-Flavin-AMCP-Market-Insights-Examining.md) — Flavin vd. (2026) · *Journal of Managed Care & Specialty Pharmacy* · hakemli
 - [Calcium phosphate nanoparticles as non-viral gene delivery systems: current advances and challenges](Viral-Olmayan-Gen-Aktarimi/Arastirmalar/2026-Fusacchia-Calcium-phosphate-nanoparticles-non.md) — Fusacchia vd. (2026) · *Journal of Materials Science Materials in Medicine* · hakemli
 <!-- AUTO:RECENT:END -->
 

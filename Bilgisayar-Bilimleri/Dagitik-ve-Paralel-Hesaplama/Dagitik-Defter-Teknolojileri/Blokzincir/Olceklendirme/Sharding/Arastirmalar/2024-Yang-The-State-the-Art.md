@@ -21,11 +21,12 @@ cited_by_count: 24
 content_status: metadata_only
 abstract_license:
 retraction_status: none_reported
-related_versions: []
+related_versions: [{"relation": "preprint", "doi": "10.36227/techrxiv.170630359.94721690/v1", "source": "crossref"}]
 collected_at: 2026-11-15
 last_checked_at: 2026-11-15
 content_verified: false
-identifier_verified: false
+identifier_verified: crossref
+retraction_checked: 2026-11-25
 ---
 
 # The State-of-the-Art and Promising Future of Blockchain Sharding

@@ -91,7 +91,6 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 
 - [A Global Blockchain-IoT Architecture Integrating Layer-2 Protocols](Arastirmalar/2026-Aghroud-Global-Blockchain-IoT-Architecture.md) — Aghroud vd. (2026) · *Engineering Technology & Applied Science Research* · hakemli
 - [A Study on Performance Improvement of Blockchain-Based Distributed Cloud Storage System Using Optimistic Rollup](Rollups/Optimistic-Rollups/Arastirmalar/2026-Hwang-Study-Performance-Improvement-Blockchain.md) — Hwang vd. (2026) · *한국통신학회논문지* · hakemli
-- [A Study on the Expansion and Performance Analysis of Ethereum Blockchain Architecture Based on Optimistic Rollup](Rollups/Optimistic-Rollups/Arastirmalar/2025-Heo-Study-the-Expansion-and.md) — Heo vd. (2025) · *한국통신학회논문지* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

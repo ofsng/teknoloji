@@ -87,7 +87,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **54**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **56**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -102,9 +102,9 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [Sustainable Alumina/Silk Fibroin Hybrid Dielectrics for Low-Temperature Fabrication of Flexible Organic Electronics](Elektronik-Cihazlar/Organik-Elektronik/Arastirmalar/2026-Natali-Sustainable-Alumina-Silk-Fibroin.md) — Natali vd. (2026) · *ACS Omega* · hakemli
 - [ANALYSIS OF A NON-ISOLATED FORM OF DC-DC CONVERTER WITH ENHANCED QUADRATIC VOLTAGE GAIN](Guc-Elektronigi/DA-DA-Donusturuculer/Arastirmalar/2026-Duraisamy-ANALYSIS-NON-ISOLATED-FORM.md) — Duraisamy vd. (2026) · *REVUE ROUMAINE DES SCIENCES TECHNIQUES — SÉRIE ÉLECTROTECHNIQUE ET ÉNERGÉTIQUE* · hakemli
 - [Direction-Aware Timing Modeling for Reinforcement-Learning-Based Clock Arrival Time Optimization in Power-Integrity-Aware Physical Design](Analog-ve-Sayisal-Elektronik/Baskili-Devre-Karti-Tasarimi/Guc-Butunlugu/Arastirmalar/2026-HUANG-Direction-Aware-Timing-Modeling.md) — HUANG vd. (2026) · *ACM Transactions on Design Automation of Electronic Systems* · hakemli
+- [Direct immersion cooling for thermal management of power electronics](Guc-Elektronigi/Arastirmalar/2026-Jadhav-Direct-immersion-cooling-for.md) — Jadhav vd. (2026) · *International Journal of Heat and Mass Transfer* · hakemli
 - [Efficiency Optimization of LLC Resonant Converters via Combined Analytical Modeling and Data-Assisted Visualization](Guc-Elektronigi/DA-DA-Donusturuculer/Rezonansli-Donusturuculer/Arastirmalar/2026-Athar-Efficiency-Optimization-LLC-Resonant.md) — Athar vd. (2026) · *Electronics* · hakemli
 - [Least ln-cosh-based adaptive filtering algorithm for graph signal processing](Sinyal-Isleme/Cizge-Sinyal-Isleme/Arastirmalar/2026-Zhang-Least-cosh-based-adaptive.md) — Zhang vd. (2026) · *IEEE Trans. Aerosp. Electron. Syst., early access, 2026* · hakemli
-- [Large-signal stability analysis of reduced-order droop-controlled grid-forming inverters in islanded microgrids](Guc-Elektronigi/Eviriciler/Sebeke-Kuran-Eviriciler/Arastirmalar/2026-Verma-Large-signal-stability-analysis.md) — Verma vd. (2026) · *International Journal of Emerging Electric Power Systems* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

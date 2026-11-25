@@ -80,7 +80,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -90,6 +90,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Reactor physics and thermal hydraulics analysis of lead-cooled fast reactors](Kursun-Sogutmali-Hizli-Reaktorler/Arastirmalar/2026-Espinosa-Paredes-Reactor-physics-and-thermal.md) — Espinosa-Paredes vd. (2026) · *Nuclear Engineering and Design* · hakemli
 - [A Perturbation Theory Based Analysis of Reactivity Feedbacks During Transients in Molten Salt Reactors](Ergimis-Tuz-Reaktorleri/Arastirmalar/2026-Deanesi-Perturbation-Theory-Based-Analysis.md) — Deanesi vd. (2026) · *Nuclear Science and Engineering* · hakemli
 <!-- AUTO:RECENT:END -->
 

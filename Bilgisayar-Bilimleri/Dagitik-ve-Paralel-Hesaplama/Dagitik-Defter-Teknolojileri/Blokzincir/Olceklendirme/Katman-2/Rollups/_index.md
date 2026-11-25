@@ -89,7 +89,6 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
 - [A Study on Performance Improvement of Blockchain-Based Distributed Cloud Storage System Using Optimistic Rollup](Optimistic-Rollups/Arastirmalar/2026-Hwang-Study-Performance-Improvement-Blockchain.md) — Hwang vd. (2026) · *한국통신학회논문지* · hakemli
-- [A Study on the Expansion and Performance Analysis of Ethereum Blockchain Architecture Based on Optimistic Rollup](Optimistic-Rollups/Arastirmalar/2025-Heo-Study-the-Expansion-and.md) — Heo vd. (2025) · *한국통신학회논문지* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

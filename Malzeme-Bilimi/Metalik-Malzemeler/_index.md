@@ -84,7 +84,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **6**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **7**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -98,6 +98,7 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [Fluorescence Detection of Fe(II) Senses Mechanistic Differences in Pitting Corrosion between 3D-Printed and Wrought Stainless Steel 304](Celikler/Paslanmaz-Celikler/Arastirmalar/2026-Li-Fluorescence-Detection-Senses-Mechanistic.md) — Li vd. (2026) · *ACS Applied Engineering Materials* · hakemli
 - [Synergistic Protection Mechanism and Corrosion Resistance of Manganese Phosphate–Silane Composite Sealing Coating on AZ91D Magnesium Alloy](Hafif-Alasimlar/Magnezyum-Alasimlari/Arastirmalar/2026-Huang-Synergistic-Protection-Mechanism-and.md) — Huang vd. (2026) · *Metals* · hakemli
 - [Microstructure and properties of Ti-Al-Sn-Zr-Mo-Nb-Ta-W-Si cast high-temperature titanium alloy](Hafif-Alasimlar/Titanyum-Alasimlari/Arastirmalar/2026-Liu-Microstructure-and-properties-cast.md) — Liu vd. (2026) · *China Foundry* · hakemli
+- [The Influence of Heat Treatments of Sustainable Zinc on Microstructure and Mechanical Properties](Fiziksel-Metalurji/Isil-Islem/Arastirmalar/2026-HASAN-The-Influence-Heat-Treatments.md) — HASAN vd. (2026) · *Materials Science* · hakemli
 - [Anomalous thermal and elastic properties of an epitaxial NiTi film exhibiting R-phase](Sekil-Hafizali-Alasimlar/Arastirmalar/2026-Repcek-Anomalous-thermal-and-elastic.md) — Repček vd. (2026) · *Smart Materials and Structures* · hakemli
 - [Phase prediction of high-entropy alloys via transfer learning with domain adaptation and oversampling](Yuksek-Entropili-Alasimlar/Arastirmalar/2026-Wen-Phase-prediction-high-entropy.md) — Wen vd. (2026) · *Materials & Design* · hakemli
 <!-- AUTO:RECENT:END -->

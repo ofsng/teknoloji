@@ -79,7 +79,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **3**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **4**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -90,6 +90,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
 - [Applying ranked set sampling to Gaussian mixture models of Glasgow Coma Scale scores in intracerebral hemorrhage](Karisim-Modelleri/Arastirmalar/2026-Ahmed-Applying-ranked-set-sampling.md) — Ahmed vd. (2026) · *Scientific Reports* · hakemli
+- [Extensive evaluation of R-SCRAW: a recursive spectral clustering algorithm for intelligent grouping in dense wireless networks](Spektral-Kumeleme/Arastirmalar/2026-Guedes-Extensive-evaluation-SCRAW-recursive.md) — Guedes vd. (2026) · *Annals of Telecommunications* · hakemli
 - [Unsupervised separation of benign and malignant tissue in Nigerian breast histopathology photomicrographs: an exploratory evaluation of K-means and fuzzy C-means clustering](Merkez-Tabanli-Kumeleme/Arastirmalar/2026-Odili-Unsupervised-separation-benign-and.md) — Odili vd. (2026) · *BMC Medical Imaging* · hakemli
 - [From "Birds of a Feather" to Data Insights: The Principles, Methods and Applications of Hierarchical Clustering Algorithms](Hiyerarsik-Kumeleme/Arastirmalar/2026-Yang-From-Birds-Feather-Data.md) — Yang (2026) · *Applied and Computational Engineering* · hakemli
 <!-- AUTO:RECENT:END -->

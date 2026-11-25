@@ -80,7 +80,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **6**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **7**.
 
 - [Enabling quantum communication in ultra-large-scale networks](Arastirmalar/2026-Radicchi-Enabling-quantum-communication-ultra.md) — Radicchi (2026) · *Physical Review A* · hakemli · atıf: 1
 <!-- AUTO:RESEARCH:END -->
@@ -92,6 +92,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Advances in Device-Independent and Semi-Device-Independent Quantum Random Number Generation](Kuantum-Rastgele-Sayi-Uretimi/Arastirmalar/2026-Tang-Advances-Device-Independent-and.md) — Tang (2026) · *Transactions on Computer Science and Intelligent Systems Research* · hakemli
 - [Enabling quantum communication in ultra-large-scale networks](Arastirmalar/2026-Radicchi-Enabling-quantum-communication-ultra.md) — Radicchi (2026) · *Physical Review A* · hakemli · atıf: 1
 - [Hardware-Efficient Entanglement Distillation Using Bosonic Systems](Kuantum-Tekrarlayicilar/Dolaniklik-Damitma/Arastirmalar/2026-Jacoby-Hardware-Efficient-Entanglement-Distillat.md) — Jacoby vd. (2026) · *Quantum* · hakemli
 - [Scalable entanglement distribution framework for hybrid quantum networks](Kuantum-Aglari/Arastirmalar/2026-Zhao-Scalable-entanglement-distribution-framewor.md) — Zhao vd. (2026) · *Physical Review A* · hakemli

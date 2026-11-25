@@ -85,7 +85,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **39**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **40**.
+
+- [A Method for Identifying Insiders in Corporate Computer Networks](Arastirmalar/2026-Ushakov-Method-for-Identifying-Insiders.md) — Ushakov (2026) · *Proceedings of Telecommunication Universities* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler

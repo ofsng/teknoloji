@@ -80,7 +80,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **4**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **5**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -92,6 +92,7 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 
 - [Toward Dynamic Biointerface Toxicology of Micro- and Nanoplastics Using Organoids and Organ-on-a-Chip Models](Hucre-Kulturu-Teknolojisi/Cip-Ustunde-Organ/Arastirmalar/2026-Xie-Toward-Dynamic-Biointerface-Toxicology.md) — Xie vd. (2026) · *Environmental Science & Technology* · hakemli
 - [Modeling Venezuelan Equine Encephalitis Virus Infection of the Liver and Evaluation of a Host-Directed Therapeutic in an Organ-on-a-Chip Platform](Hucre-Kulturu-Teknolojisi/Cip-Ustunde-Organ/Arastirmalar/2026-Galarza-Modeling-Venezuelan-Equine-Encephalitis.md) — Galarza vd. (2026) · *Viruses* · hakemli
+- [Lectin flow cytometry for cell surface glycan profiling: an accessible approach to Glycophenotyping](Akis-Sitometrisi/Arastirmalar/2026-Tenorio-Lectin-flow-cytometry-for.md) — Tenorio vd. (2026) · *Glycobiology* · hakemli
 - [Human REXO4 is Required for Cell Cycle Progression](Hucre-Dongusu/Arastirmalar/2026-Abdusamad-Human-REXO4-Required-for.md) — Abdusamad vd. (2026) · *Molecular Biology of the Cell* · hakemli · atıf: 2
 - [Single-Cell Analysis of the Microbiota-Gut-Brain Axis Mechanism: A Proposal in Exploring Diet Intervention in Fecal Microbiome Transplantation Mice](Tek-Hucre-Analizi/Arastirmalar/2026-Cui-Single-Cell-Analysis-the.md) — Cui vd. (2026) · *Theoretical and Natural Science* · hakemli
 <!-- AUTO:RECENT:END -->

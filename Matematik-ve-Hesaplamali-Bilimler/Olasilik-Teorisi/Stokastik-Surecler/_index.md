@@ -78,7 +78,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -88,6 +88,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Spatio-temporal Hawkes point processes: statistical inference and simulation strategies](Nokta-Surecleri/Arastirmalar/2026-Bernabeu-Spatio-temporal-Hawkes-point.md) — Bernabeu vd. (2026) · *Communications in Statistics - Simulation and Computation* · hakemli · atıf: 3
 - [Nonparametric modelling of continuous-time Markov chains with scalable exact and approximate gradients](Markov-Zincirleri/Arastirmalar/2026-Monti-Nonparametric-modelling-continuous-time.md) — Monti vd. (2026) · *Journal of the Royal Statistical Society Series B (Statistical Methodology)* · hakemli · atıf: 4
 <!-- AUTO:RECENT:END -->
 

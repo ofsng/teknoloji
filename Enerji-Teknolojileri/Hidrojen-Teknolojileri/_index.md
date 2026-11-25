@@ -78,7 +78,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **6**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **8**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -88,9 +88,11 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Integration of Fog-Intelligent and Federated Learning for Decentralized Green Hydrogen Storage Systems: A Review](Hidrojen-Depolama/Arastirmalar/2026-Monye-Integration-Fog-Intelligent-and.md) — Monye vd. (2026) · *International Journal of Energy Research Science and Engineering* · hakemli
 - [Green Hydrogen Production through Photoelectrochemical Water Splitting](Hidrojen-Uretimi/Fotoelektrokimyasal-Su-Ayristirma/Arastirmalar/2026-Venkanna-Green-Hydrogen-Production-through.md) — Venkanna vd. (2026) · *International Journal of Scientific Research in Science and Technology* · hakemli
 - [Synergistic Cu–Co Sites Enabled Reversible H 2 Storage and Release in Liquid Organic Hydrogen Carriers](Hidrojen-Depolama/Sivi-Organik-Hidrojen-Tasiyicilari/Arastirmalar/2026-Wang-Synergistic-CuCo-Sites-Enabled.md) — Wang vd. (2026) · *Angewandte Chemie* · hakemli
 - [Quantitative analysis of cathode polarization in a direct methanol fuel cell employing a methanol-tolerant Fe-N-C-type catalyst](Yakit-Hucreleri/Dogrudan-Metanol-Yakit-Hucreleri/Arastirmalar/2026-Nakagawa-Quantitative-analysis-cathode-polarizat.md) — Nakagawa vd. (2026) · *Journal of Power Sources* · hakemli
+- [Self-foaming Fe–Sn powder beds for durable hydrogen storage and release](Hidrojen-Depolama/Arastirmalar/2026-Zhang-Self-foaming-FeSn-powder.md) — Zhang vd. (2026) · *Materials Today* · hakemli
 - [Transition Metal Chalcogenides as Electrocatalysts for Anion Exchange Membrane Water Electrolysis](Hidrojen-Uretimi/Su-Elektrolizi/Arastirmalar/2026-Tamang-Transition-Metal-Chalcogenides-Electrocat.md) — Tamang vd. (2026) · *Chemistry of Materials* · hakemli
 - [Comparative Exergoeconomic Analysis of Hybrid Systems Integrating Chemical Looping Combustion and Solid Oxide Fuel Cell for Low-Carbon Methanol and Power Cogeneration](Yakit-Hucreleri/Kati-Oksit-Yakit-Hucreleri/Arastirmalar/2026-Hao-Comparative-Exergoeconomic-Analysis-Hybrid.md) — Hao vd. (2026) · *ACS Sustainable Chemistry & Engineering* · hakemli
 - [Titanium-Based Binary (TiN/316L) and Ternary Nitride (TiAL(x:y)N/316L) Coatings Systems for Proton Exchange Membrane Fuel Cell Metallic Bipolar Plates](Yakit-Hucreleri/Proton-Degisim-Membranli-Yakit-Hucreleri/Arastirmalar/2026-Arafat-Titanium-Based-Binary-TiN.md) — Arafat vd. (2026) · *Journal of Manufacturing and Materials Processing* · hakemli

@@ -78,7 +78,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **4**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **5**.
 
 - [Augmented Reality, Virtual Reality, and the Metaverse in Cybersecurity Education and Training: A Systematic Literature Review](Arastirmalar/2026-Augmented-Reality-Virtual-Reality.md) — Λαμπρόπουλος vd. (2026) · *Information* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -90,6 +90,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Personalized Learning in Mixed Reality: A Systematic Review of Adaptive Feedback, Coaching, and AI in Higher and Professional Education](Karma-Gerceklik/Arastirmalar/2026-Marougkas-Personalized-Learning-Mixed-Reality.md) — Marougkas vd. (2026) · *Applied Sciences* · hakemli
 - [Augmented Reality, Virtual Reality, and the Metaverse in Cybersecurity Education and Training: A Systematic Literature Review](Arastirmalar/2026-Augmented-Reality-Virtual-Reality.md) — Λαμπρόπουλος vd. (2026) · *Information* · hakemli
 - [Tracing Efficiency in Peri-Personal Space Using Transparent Head-Mounted Displays: A Comparison with Conventional Displays](Basa-Takilan-Ekranlar/Arastirmalar/2026-Strelkov-Tracing-Efficiency-Peri-Personal.md) — Strelkov vd. (2026) · *International Journal of Human-Computer Interaction* · hakemli
 - [The Impact of Virtual and Augmented Reality on Modern Software Applications](Artirilmis-Gerceklik/Arastirmalar/2026-Shrivastav-The-Impact-Virtual-and.md) — Shrivastav (2026) · *Global Journal of Innovative Research Perspectives (GJIRP)* · hakemli

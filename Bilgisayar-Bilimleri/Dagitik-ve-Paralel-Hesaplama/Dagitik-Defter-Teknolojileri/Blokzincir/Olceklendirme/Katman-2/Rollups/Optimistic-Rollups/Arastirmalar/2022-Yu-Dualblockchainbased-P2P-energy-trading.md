@@ -25,7 +25,8 @@ related_versions: []
 collected_at: 2026-11-15
 last_checked_at: 2026-11-15
 content_verified: false
-identifier_verified: false
+identifier_verified: crossref
+retraction_checked: 2026-11-25
 ---
 
 # Dual‐blockchain‐based P2P energy trading system with an improved optimistic rollup mechanism

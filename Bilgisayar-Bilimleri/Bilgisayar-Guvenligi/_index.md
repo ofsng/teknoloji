@@ -85,7 +85,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **14**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **17**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -95,14 +95,14 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Optimizing Banking Security: A Comparative Study of Biometric Authentication Methods](Kimlik-ve-Erisim-Yonetimi/Biyometrik-Kimlik-Dogrulama/Arastirmalar/2026-Mani-Optimizing-Banking-Security-Comparative.md) — Mani (2026) · *REST Journal on Data Analytics and Artificial Intelligence* · hakemli
 - [Security Framework for Detection of Denial of Service (DoS) Attack on Virtual Private Networks for Efficient Data Transmission](Ag-Guvenligi/Sanal-Ozel-Aglar/Arastirmalar/2026-Ede-Security-Framework-for-Detection.md) — Ede (2026) · *RESEARCH JOURNAL OF PURE SCIENCE AND TECHNOLOGY* · hakemli · atıf: 2
 - [Privacy-Utility Tradeoffs with Quantum Local Differential Privacy](Gizliligi-Artiran-Teknolojiler/Diferansiyel-Gizlilik/Yerel-Diferansiyel-Gizlilik/Arastirmalar/2026-Nuradha-Privacy-Utility-Tradeoffs-with.md) — Nuradha vd. (2026) · *Quantum Science and Technology* · hakemli · atıf: 3
 - [Cyber Threat Detection Dashboard a Centralized Platform for Network Security Monitoring and Threat Analysis](Ag-Guvenligi/Arastirmalar/2026-Bembade-Cyber-Threat-Detection-Dashboard.md) — Bembade vd. (2026) · *International Journal of Scientific Research in Computer Science Engineering and Information Technology* · hakemli
+- [A Zero-Trust Architecture for Multinational Military Logistics Data Exchange: A Breach-Propagation Model of Coalition Cyber Resilience](Ag-Guvenligi/Sifir-Guven-Mimarisi/Arastirmalar/2026-Chlebicki-Zero-Trust-Architecture-for.md) — Chlebicki (2026) · *Systemy Logistyczne Wojsk* · hakemli
 - [The Expanding Battlefield of Microarchitectural Vulnerabilities: A Survey on Defining and Reducing the Timing Side-Channel Attack Surface through Vulnerability Assessment and Simulation](Sistem-Guvenligi/Donanim-Guvenligi/Yan-Kanal-Saldirilari/Arastirmalar/2026-Khan-The-Expanding-Battlefield-Microarchitectura.md) — Khan vd. (2026) · *ACM Computing Surveys* · hakemli
+- [Liveness Detection and Biometric Authentication System (BAS)](Kimlik-ve-Erisim-Yonetimi/Biyometrik-Kimlik-Dogrulama/Arastirmalar/2026-Sixtus-Liveness-Detection-and-Biometric.md) — Sixtus (2026) · *RESEARCH JOURNAL OF MASS COMMUNICATION AND INFORMATION TECHNOLOGY* · hakemli
 - [OPTIMIZING NETWORK SECURITY USING MACHINE LEARNING-BASED INTRUSION DETECTION SYSTEMS](Ag-Guvenligi/Arastirmalar/2026-Kumari-OPTIMIZING-NETWORK-SECURITY-USING.md) — Kumari vd. (2026) · *Research* · hakemli
-- [Toward deployment-oriented benchmarking of intrusion detection systems: integrating threshold dynamics, distribution shift, and interpretability into comparative model evaluation](Ag-Guvenligi/Saldiri-Tespit-Sistemleri/Arastirmalar/2026-Farmani-Toward-deployment-oriented-benchmarking.md) — Farmani vd. (2026) · *Scientific Reports* · hakemli
-- [Building a supervised–unsupervised ensemble for intrusion detection systems using model calibration and decision fusion](Ag-Guvenligi/Saldiri-Tespit-Sistemleri/Arastirmalar/2026-Vazquez-Building-supervisedunsupervised-ensemble.md) — Vázquez vd. (2026) · *Computer Networks* · hakemli
-- [Anomali Deteksi Log Trafic Sistem Keamanan Jaringan Menggunakan Intrusion Detection System (Ids) Berbasis Snort Pada Web Server](Ag-Guvenligi/Saldiri-Tespit-Sistemleri/Arastirmalar/2026-Febrianto-Anomali-Deteksi-Log-Trafic.md) — Febrianto vd. (2026) · *SMARTICS Journal* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

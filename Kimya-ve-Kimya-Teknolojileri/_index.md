@@ -89,7 +89,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **14**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **15**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -104,9 +104,9 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [Contemporary synthetic tools for the total synthesis of natural products](Organik-Kimya/Organik-Sentez/Toplam-Sentez/Arastirmalar/2026-Blackwell-Contemporary-synthetic-tools-for.md) — Blackwell vd. (2026) · *Chemical Society Reviews* · hakemli
 - [Development and full validation of a UPLC-MS/MS method for the simultaneous quantification of esketamine, noresketamine, and hydroxynoresketamine in beagle dog plasma and its application to a pharmacokinetic study](Analitik-Kimya/Kutle-Spektrometrisi/Tandem-Kutle-Spektrometrisi/Arastirmalar/2026-Zhou-Development-and-full-validation.md) — Zhou vd. (2026) · *Frontiers in Pharmacology* · hakemli
 - [Green Analytical Chemistry-Oriented RPLC Method for Determining the Dissociation Constant of the Nootropic Drug Piracetam in Binary Solvent Systems](Analitik-Kimya/Arastirmalar/2026-Daldal-Green-Analytical-Chemistry-Oriented.md) — Daldal vd. (2026) · *Journal of Chemical & Engineering Data* · hakemli
+- [Linking Mineral Surface Chemistry to the Interfacial Adsorption of Ionic Emulsifiers](Fizikokimya/Yuzey-Kimyasi/Arastirmalar/2026-Quan-Linking-Mineral-Surface-Chemistry.md) — Quan vd. (2026) · *Langmuir* · hakemli
 - [Open Microfluidic Probe Enabled Regional Surface Modification of Single Cells by Click Chemistry](Organik-Kimya/Klik-Kimyasi/Arastirmalar/2026-Song-Open-Microfluidic-Probe-Enabled.md) — Song vd. (2026) · *Analytical Chemistry* · hakemli
 - [Kinetic Acceleration and the Stoichiometric Limit Dictate the Behavior of Reactivity-Enhanced Step-Growth Polymerization](Polimer-Kimyasi/Polimerizasyon-Yontemleri/Basamakli-Buyume-Polimerizasyonu/Arastirmalar/2026-Tang-Kinetic-Acceleration-and-the.md) — Tang vd. (2026) · *Macromolecules* · hakemli
-- [MATRIX EFFECTS IN LIQUID CHROMATOGRAPHY-TANDEM MASS SPECTROMETRY BIOANALYSIS: MECHANISTIC FOUNDATIONS, REGULATORY EXPECTATIONS, AND PRACTICAL MITIGATION STRATEGIES](Analitik-Kimya/Kutle-Spektrometrisi/Tandem-Kutle-Spektrometrisi/Arastirmalar/2026-Pandiyan-MATRIX-EFFECTS-LIQUID-CHROMATOGRAPHY.md) — Pandiyan vd. (2026) · *Asian Journal of Pharmaceutical and Clinical Research* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

@@ -80,7 +80,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **6**.
+Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **7**.
 
 - [Cyber Threat Detection Dashboard a Centralized Platform for Network Security Monitoring and Threat Analysis](Arastirmalar/2026-Bembade-Cyber-Threat-Detection-Dashboard.md) — Bembade vd. (2026) · *International Journal of Scientific Research in Computer Science Engineering and Information Technology* · hakemli
 - [OPTIMIZING NETWORK SECURITY USING MACHINE LEARNING-BASED INTRUSION DETECTION SYSTEMS](Arastirmalar/2026-Kumari-OPTIMIZING-NETWORK-SECURITY-USING.md) — Kumari vd. (2026) · *Research* · hakemli
@@ -95,6 +95,7 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 
 - [Security Framework for Detection of Denial of Service (DoS) Attack on Virtual Private Networks for Efficient Data Transmission](Sanal-Ozel-Aglar/Arastirmalar/2026-Ede-Security-Framework-for-Detection.md) — Ede (2026) · *RESEARCH JOURNAL OF PURE SCIENCE AND TECHNOLOGY* · hakemli · atıf: 2
 - [Cyber Threat Detection Dashboard a Centralized Platform for Network Security Monitoring and Threat Analysis](Arastirmalar/2026-Bembade-Cyber-Threat-Detection-Dashboard.md) — Bembade vd. (2026) · *International Journal of Scientific Research in Computer Science Engineering and Information Technology* · hakemli
+- [A Zero-Trust Architecture for Multinational Military Logistics Data Exchange: A Breach-Propagation Model of Coalition Cyber Resilience](Sifir-Guven-Mimarisi/Arastirmalar/2026-Chlebicki-Zero-Trust-Architecture-for.md) — Chlebicki (2026) · *Systemy Logistyczne Wojsk* · hakemli
 - [OPTIMIZING NETWORK SECURITY USING MACHINE LEARNING-BASED INTRUSION DETECTION SYSTEMS](Arastirmalar/2026-Kumari-OPTIMIZING-NETWORK-SECURITY-USING.md) — Kumari vd. (2026) · *Research* · hakemli
 - [Toward deployment-oriented benchmarking of intrusion detection systems: integrating threshold dynamics, distribution shift, and interpretability into comparative model evaluation](Saldiri-Tespit-Sistemleri/Arastirmalar/2026-Farmani-Toward-deployment-oriented-benchmarking.md) — Farmani vd. (2026) · *Scientific Reports* · hakemli
 - [Building a supervised–unsupervised ensemble for intrusion detection systems using model calibration and decision fusion](Saldiri-Tespit-Sistemleri/Arastirmalar/2026-Vazquez-Building-supervisedunsupervised-ensemble.md) — Vázquez vd. (2026) · *Computer Networks* · hakemli

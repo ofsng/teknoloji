@@ -75,7 +75,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **22**, alt teknolojiler dahil: **22**.
+Arşivdeki kayıtlar — bu düğüm: **23**, alt teknolojiler dahil: **23**.
 
 - [Update on Phase 2 of KYSA-6, an Open-label, Single-arm, Multicenter Phase 2/3 Study of Miv-cel (Mivocabtagene Autoleucel; KYV-101), a Fully Human CD19 Chimeric Antigen Receptor (CAR) T-cell Therapy in Generalized Myasthenia Gravis (gMG)](Arastirmalar/2026-Dalakas-Update-Phase-KYSA-Open.md) — Dalakas vd. (2026) · *Neurology* · hakemli · atıf: 1
 - [NKTR-255, a polymer-conjugated IL-15, enhances CAR T cell therapy by engaging endogenous antitumor immunity](Arastirmalar/2026-Nutt-NKTR-255-polymer-conjugated.md) — Nutt vd. (2026) · *Cancer Immunology Research* · hakemli · atıf: 1
@@ -85,7 +85,7 @@ Arşivdeki kayıtlar — bu düğüm: **22**, alt teknolojiler dahil: **22**.
 - [Bridging to CD19 CAR T-cell therapy for large B-cell lymphoma: An analysis of 1,134 patients by the EBMT Lymphoma Working Party and the GoCART Coalition](Arastirmalar/2026-Berning-Bridging-CD19-CAR-cell.md) — Berning vd. (2026) · *Bone Marrow Transplantation* · hakemli
 - [Long-term follow-up and late complications of CAR-T cell therapy](Arastirmalar/2026-Fatobene-Long-term-follow-and.md) — Fatobene vd. (2026) · *JOURNAL OF BONE MARROW TRANSPLANTATION AND CELLULAR THERAPY* · hakemli
 - [Beyond ICANS: Cellular and Molecular Mechanisms Linking CAR T-Cell Therapy to Long-Term Neurocognitive Outcomes](Arastirmalar/2026-Fleischer-Beyond-ICANS-Cellular-and.md) — Fleischer vd. (2026) · *Cells* · hakemli
-- … ve 14 kayıt daha: [Arastirmalar/](Arastirmalar/)
+- … ve 15 kayıt daha: [Arastirmalar/](Arastirmalar/)
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler

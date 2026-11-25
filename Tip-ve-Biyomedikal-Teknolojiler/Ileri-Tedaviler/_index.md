@@ -78,7 +78,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **27**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **29**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -94,8 +94,8 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [CAR T-Cell Therapy in Multiple Myeloma](Hucre-Tedavisi/CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Maiolino-CAR-Cell-Therapy-Multiple.md) — Maiolino vd. (2026) · *JOURNAL OF BONE MARROW TRANSPLANTATION AND CELLULAR THERAPY* · hakemli
 - [NKTR-255, a polymer-conjugated IL-15, enhances CAR T cell therapy by engaging endogenous antitumor immunity](Hucre-Tedavisi/CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Nutt-NKTR-255-polymer-conjugated.md) — Nutt vd. (2026) · *Cancer Immunology Research* · hakemli · atıf: 1
 - [Before the CAR arrives: how neuro-oncological treatment history shapes CAR-T cell therapy in brain tumors](Hucre-Tedavisi/CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Baldo-Before-the-CAR-arrives.md) — Baldo vd. (2026) · *Frontiers in Immunology* · hakemli
+- [AMCP Market Insights: Examining the current and future state of hemophilia B gene therapy in managed care](Gen-Tedavisi/Arastirmalar/2026-Flavin-AMCP-Market-Insights-Examining.md) — Flavin vd. (2026) · *Journal of Managed Care & Specialty Pharmacy* · hakemli
 - [Identification of lead CD24 scFvs for integration into CAR T-cell therapy](Hucre-Tedavisi/CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Lysandrou-Identification-lead-CD24-scFvs.md) — Lysandrou vd. (2026) · *Frontiers in Immunology* · hakemli
-- [Advances in chimeric antigen receptor T (CAR-T) cell therapy and limitations for treating breast cancer requires next generation of CAR-T cells treatment](Hucre-Tedavisi/CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Nawaz-Advances-chimeric-antigen-receptor.md) — Nawaz vd. (2026) · *Cancer Cell International* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

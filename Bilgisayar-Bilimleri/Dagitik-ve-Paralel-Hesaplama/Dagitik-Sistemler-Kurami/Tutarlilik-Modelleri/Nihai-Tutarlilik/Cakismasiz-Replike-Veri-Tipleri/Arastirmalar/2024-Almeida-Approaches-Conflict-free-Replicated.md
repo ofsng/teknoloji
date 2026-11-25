@@ -25,7 +25,8 @@ related_versions: []
 collected_at: 2026-11-23
 last_checked_at: 2026-11-23
 content_verified: false
-identifier_verified: false
+identifier_verified: crossref
+retraction_checked: 2026-11-25
 ---
 
 # Approaches to Conflict-free Replicated Data Types

@@ -83,7 +83,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **3**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **4**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -95,6 +95,7 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 
 - [A Comprehensive Training Course from the Production of Membrane Bound Proteins to Single Particle Cryo-Electron Microscopy 3D Reconstruction](Elektron-Mikroskobisi/Kriyo-Elektron-Mikroskobisi/Arastirmalar/2026-Valimehr-Comprehensive-Training-Course-from.md) — Valimehr vd. (2026) · *Journal of Chemical Education* · hakemli
 - [Unsupervised reward-driven image segmentation in automated scanning transmission electron microscopy experiments](Elektron-Mikroskobisi/Gecirimli-Elektron-Mikroskobisi/Arastirmalar/2026-Barakati-Unsupervised-reward-driven-image.md) — Barakati vd. (2026) · *Nanotechnology* · hakemli · atıf: 8
+- [Toward Nanoscale Chemical Clarity: THz-Pulsed Atom Probe Tomography for Hydrated Biological Materials](Atom-Probu-Tomografisi/Arastirmalar/2026-Exertier-Toward-Nanoscale-Chemical-Clarity.md) — Exertier vd. (2026) · *Nano Letters* · hakemli
 - [From Conventional Image Processing to Artificial Intelligence in Electron Microscopy: Toward Robust, Automated, and Enhanced Materials Characterization Through Insights from Medical and Biological Imaging](Elektron-Mikroskobisi/Arastirmalar/2026-Nieto-From-Conventional-Image-Processing.md) — Nieto vd. (2026) · *Materials* · hakemli
 <!-- AUTO:RECENT:END -->
 

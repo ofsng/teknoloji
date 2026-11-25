@@ -81,7 +81,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **12**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **13**.
+
+- [Direct immersion cooling for thermal management of power electronics](Arastirmalar/2026-Jadhav-Direct-immersion-cooling-for.md) — Jadhav vd. (2026) · *International Journal of Heat and Mass Transfer* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -92,13 +94,13 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
 - [ANALYSIS OF A NON-ISOLATED FORM OF DC-DC CONVERTER WITH ENHANCED QUADRATIC VOLTAGE GAIN](DA-DA-Donusturuculer/Arastirmalar/2026-Duraisamy-ANALYSIS-NON-ISOLATED-FORM.md) — Duraisamy vd. (2026) · *REVUE ROUMAINE DES SCIENCES TECHNIQUES — SÉRIE ÉLECTROTECHNIQUE ET ÉNERGÉTIQUE* · hakemli
+- [Direct immersion cooling for thermal management of power electronics](Arastirmalar/2026-Jadhav-Direct-immersion-cooling-for.md) — Jadhav vd. (2026) · *International Journal of Heat and Mass Transfer* · hakemli
 - [Efficiency Optimization of LLC Resonant Converters via Combined Analytical Modeling and Data-Assisted Visualization](DA-DA-Donusturuculer/Rezonansli-Donusturuculer/Arastirmalar/2026-Athar-Efficiency-Optimization-LLC-Resonant.md) — Athar vd. (2026) · *Electronics* · hakemli
 - [Large-signal stability analysis of reduced-order droop-controlled grid-forming inverters in islanded microgrids](Eviriciler/Sebeke-Kuran-Eviriciler/Arastirmalar/2026-Verma-Large-signal-stability-analysis.md) — Verma vd. (2026) · *International Journal of Emerging Electric Power Systems* · hakemli
 - [Design and Simulation of a Bidirectional Two-Stage DC/DC Converter with Partial Switch Sharing for Vehicle-to-Vehicle Charging Applications](DA-DA-Donusturuculer/Arastirmalar/2026-Kagan-Design-and-Simulation-Bidirectional.md) — Kağan vd. (2026) · *International journal of engineering inventions.* · hakemli
 - [Artificial Intelligence-Assisted Multi-Objective Design and Dynamic Validation of High-Efficiency Solid-State Transformers for Electric Vehicle Integration](Kati-Hal-Transformatorleri/Arastirmalar/2026-Asiegbu-Artificial-Intelligence-Assisted-Multi.md) — Asiegbu vd. (2026) · *World Electric Vehicle Journal* · hakemli
 - [Full-Speed-Range Sensorless Direct Torque Control of a Two-Level Interior Permanent Magnet Synchronous Motor Drive Using Hybrid High-Frequency Injection Model Reference Adaptive Control Estimation](Motor-Suruculer/Dogrudan-Moment-Kontrolu/Arastirmalar/2026-Choudhary-Full-Speed-Range-Sensorless.md) — Choudhary vd. (2026) · *Energies* · hakemli
 - [Improving the performance of grid-connected photovoltaic systems using a novel SPO-SHE-PWM algorithm with an AHB multilevel inverter](Eviriciler/Cok-Seviyeli-Eviriciler/Arastirmalar/2026-Kahlane-Improving-the-performance-grid.md) — Kahlane vd. (2026) · *International Journal of Electronics* · hakemli
-- [Three-Phase-Input Inductive Wireless Power Transfer System for Rectifier-Output Voltage Ripple Reduction](Kablosuz-Guc-Aktarimi/Arastirmalar/2026-Deng-Three-Phase-Input-Inductive.md) — Deng vd. (2026) · *Electronics* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

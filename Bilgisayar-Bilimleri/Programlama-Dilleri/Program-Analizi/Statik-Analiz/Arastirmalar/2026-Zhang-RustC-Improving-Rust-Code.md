@@ -25,7 +25,7 @@ related_versions: []
 collected_at: 2026-11-24
 last_checked_at: 2026-11-24
 content_verified: false
-identifier_verified: false
+identifier_verified: crossref
 ---
 
 # RustC 4 ++: Improving Rust Code-Comment Inconsistency Detection via Hybrid LLM and Static Analysis

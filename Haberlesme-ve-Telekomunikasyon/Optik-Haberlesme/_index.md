@@ -78,7 +78,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **4**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **5**.
 
 - [ATMOSPHERIC OPTICAL COMMUNICATION LINKS: A REVIEW OF MODERN MODELS OF LIGHT PROPAGATION IN DISPERSED MEDIA OF NATURAL OR ANTHROPOGENIC ORIGIN (review)](Arastirmalar/2026-Pekur-ATMOSPHERIC-OPTICAL-COMMUNICATION-LINKS.md) — Pekur (2026) · *Optoelektronìka ta napìvprovìdnikova tehnìka* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -94,6 +94,7 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [Towards high-capacity and robust free-space optical communications](Serbest-Uzay-Optik-Haberlesme/Arastirmalar/2026-Wang-Towards-high-capacity-and.md) — Wang vd. (2026) · *Communications Physics* · hakemli
 - [ATMOSPHERIC OPTICAL COMMUNICATION LINKS: A REVIEW OF MODERN MODELS OF LIGHT PROPAGATION IN DISPERSED MEDIA OF NATURAL OR ANTHROPOGENIC ORIGIN (review)](Arastirmalar/2026-Pekur-ATMOSPHERIC-OPTICAL-COMMUNICATION-LINKS.md) — Pekur (2026) · *Optoelektronìka ta napìvprovìdnikova tehnìka* · hakemli
 - [Neuromorphic Camera for Multi-Target Pointing Acquisition and Tracking in Free Space Optical Communication](Serbest-Uzay-Optik-Haberlesme/Arastirmalar/2026-Nardo-Neuromorphic-Camera-for-Multi.md) — Nardo vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [Design and experimental investigation of magneto-optical waveguide logic gates for fiber-optic communication systems](Fiber-Optik-Haberlesme/Arastirmalar/2026-Khidirov-Design-and-experimental-investigation.md) — Khidirov vd. (2026) · *Международный Журнал Теоретических и Прикладных Вопросов Цифровых Технологий* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

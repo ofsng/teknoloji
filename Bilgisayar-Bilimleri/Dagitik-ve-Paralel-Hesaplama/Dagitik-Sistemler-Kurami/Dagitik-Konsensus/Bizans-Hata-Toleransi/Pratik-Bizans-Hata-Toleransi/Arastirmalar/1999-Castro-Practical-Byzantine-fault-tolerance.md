@@ -25,7 +25,8 @@ related_versions: []
 collected_at: 2026-11-15
 last_checked_at: 2026-11-15
 content_verified: false
-identifier_verified: false
+identifier_verified: not_found
+retraction_checked: 2026-11-25
 ---
 
 # Practical Byzantine fault tolerance

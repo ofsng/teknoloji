@@ -80,7 +80,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -90,6 +90,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Viral–Host Interactions Compromise Immunotherapy with a Conserved Elements DNA Vaccine in SIV-Infected Rhesus Macaques](DNA-Asilari/Arastirmalar/2026-Munson-ViralHost-Interactions-Compromise-Immunot.md) — Munson vd. (2026) · *Viruses* · hakemli
 - [Bioinformatics-Assisted Identification of Therapeutic Targets and Nanoparticle-Based Delivery of Mrna Vaccines For Melanoma Immunotherapy](mRNA-Asilari/Arastirmalar/2026-Kaple-Bioinformatics-Assisted-Identification-The.md) — Kaple vd. (2026) · *Adolescencia e Saude* · hakemli
 <!-- AUTO:RECENT:END -->
 

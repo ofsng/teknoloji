@@ -79,7 +79,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **10**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **11**.
 
 - [Demand aware optimization of hybrid energy storage systems for renewable electric vehicle charging stations under variable electricity demand](Arastirmalar/2026-Gamil-Demand-aware-optimization-hybrid.md) — Gamil vd. (2026) · *Scientific Reports* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -91,6 +91,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Techno-Economic and Performance Assessment of Battery versus Green Hydrogen Storage Systems for Large-Scale Grid Decarbonization](Elektrokimyasal-Enerji-Depolama/Akis-Bataryalari/Vanadyum-Redoks-Akis-Bataryalari/Arastirmalar/2026-Adak-Techno-Economic-and-Performance.md) — Adak vd. (2026) · *International Journal of Scientific Research in Science and Technology* · hakemli
 - [A BIF-derived MnO@BCN/graphite felt electrode for high-performance vanadium redox flow batteries](Elektrokimyasal-Enerji-Depolama/Akis-Bataryalari/Vanadyum-Redoks-Akis-Bataryalari/Arastirmalar/2026-Xiao-BIF-derived-MnO-BCN.md) — Xiao vd. (2026) · *Chemical Communications* · hakemli
 - [Uncovering the erratic behaviour of heat and reaction fronts in thermochemical energy storage with non-stoichiometric oxides](Isil-Enerji-Depolama/Termokimyasal-Enerji-Depolama/Arastirmalar/2026-Kasim-Uncovering-the-erratic-behaviour.md) — Kasim vd. (2026) · *Energy Conversion and Management* · hakemli
 - [Review of research and commercial solar concentrated systems for process heat with thermal energy storage in Greece and Cyprus](Isil-Enerji-Depolama/Arastirmalar/2026-Alexopoulos-Review-research-and-commercial.md) — Alexopoulos vd. (2026) · *Green Energy and Sustainability* · hakemli
@@ -98,7 +99,6 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [Capacity optimisation configuration of air–electricity–hydrogen hybrid energy storage systems incorporating advanced adiabatic compressed air energy storage](Mekanik-Enerji-Depolama/Basincli-Hava-Enerji-Depolama/Arastirmalar/2026-Zhang-Capacity-optimisation-configuration-airele.md) — Zhang vd. (2026) · *Energy Reports* · hakemli
 - [Olive-pomace-derived carbons for electrochemical energy storage: feedstock-process-structure-performance relationships](Elektrokimyasal-Enerji-Depolama/Arastirmalar/2026-Alouiz-Olive-pomace-derived-carbons.md) — Alouiz vd. (2026) · *Frontiers in Carbon* · hakemli
 - [The Technology of Lithium-Ion Batteries: An Alternative and Future Option to Meet Pakistan’s Energy Demands](Elektrokimyasal-Enerji-Depolama/Lityum-Iyon-Bataryalar/Arastirmalar/2026-Hussain-The-Technology-Lithium-Ion.md) — Hussain vd. (2026) · *The Nucleus* · hakemli
-- [Demand aware optimization of hybrid energy storage systems for renewable electric vehicle charging stations under variable electricity demand](Arastirmalar/2026-Gamil-Demand-aware-optimization-hybrid.md) — Gamil vd. (2026) · *Scientific Reports* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

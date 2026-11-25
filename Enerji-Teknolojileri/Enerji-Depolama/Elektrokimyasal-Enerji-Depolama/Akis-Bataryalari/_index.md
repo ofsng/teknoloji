@@ -75,7 +75,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -85,6 +85,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Techno-Economic and Performance Assessment of Battery versus Green Hydrogen Storage Systems for Large-Scale Grid Decarbonization](Vanadyum-Redoks-Akis-Bataryalari/Arastirmalar/2026-Adak-Techno-Economic-and-Performance.md) — Adak vd. (2026) · *International Journal of Scientific Research in Science and Technology* · hakemli
 - [A BIF-derived MnO@BCN/graphite felt electrode for high-performance vanadium redox flow batteries](Vanadyum-Redoks-Akis-Bataryalari/Arastirmalar/2026-Xiao-BIF-derived-MnO-BCN.md) — Xiao vd. (2026) · *Chemical Communications* · hakemli
 <!-- AUTO:RECENT:END -->
 

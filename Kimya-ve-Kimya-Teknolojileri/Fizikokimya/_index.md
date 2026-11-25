@@ -81,7 +81,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -91,6 +91,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Linking Mineral Surface Chemistry to the Interfacial Adsorption of Ionic Emulsifiers](Yuzey-Kimyasi/Arastirmalar/2026-Quan-Linking-Mineral-Surface-Chemistry.md) — Quan vd. (2026) · *Langmuir* · hakemli
 - [Influence of Cell Type, Label Type, and Recovery Times on In-Cell Pulsed Dipolar Electron Paramagnetic Resonance Spectroscopy Data](Spektroskopi/Elektron-Paramanyetik-Rezonans/Arastirmalar/2026-Limbach-Influence-Cell-Type-Label.md) — Limbach vd. (2026) · *Applied Magnetic Resonance* · hakemli
 <!-- AUTO:RECENT:END -->
 

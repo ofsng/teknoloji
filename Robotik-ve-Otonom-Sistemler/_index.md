@@ -89,7 +89,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **10**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **12**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -99,14 +99,14 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Data-Driven Modeling and Force Control of a Fin-Ray Soft Robotic Gripper Using Deep Neural Networks and Metaheuristic PID Optimization](Robot-Turleri/Yumusak-Robotik/Arastirmalar/2026-EL-Nour-Data-Driven-Modeling-and.md) — EL-Nour vd. (2026) · *Engineering Research Journal* · hakemli
 - [A Single Human Video as a Motion Prior: Residual Reinforcement Learning and Diffusion Distillation for Vision-Based Dexterous Manipulation](Robot-Manipulasyonu/Becerikli-Manipulasyon/Arastirmalar/2026-Huang-Single-Human-Video-Motion.md) — Huang vd. (2026) · *Electronics* · hakemli
 - [Visibility-Aware Task and Motion Planning with Task-Centric Perception](Robot-Hareket-Planlama/Gorev-ve-Hareket-Planlama/Arastirmalar/2026-Chintalapudi-Visibility-Aware-Task-and.md) — Chintalapudi vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [Performance- and Mechanical-Work-Aware Control Reconfiguration of a Mecanum-Wheeled Mobile Robot After Complete Wheel Actuator Failure](Robot-Turleri/Mobil-Robotlar/Arastirmalar/2026-Nguyen-Performance-and-Mechanical-Work.md) — Nguyen vd. (2026) · *Automation* · hakemli
 - [MXene-PS-Based Soft Actuator with Deformation Reversal Capability through Time-Sequence Difference of Asymmetric Water Absorption Kinetics](Robot-Turleri/Yumusak-Robotik/Yumusak-Eyleyiciler/Arastirmalar/2026-Chen-MXene-Based-Soft-Actuator.md) — Chen vd. (2026) · *ACS Nano* · hakemli
+- [Derivation and Verification of Minimum Design Requirements for an Evaluation Treadmill Based on Humanoid Robot Specifications Analysis](Robot-Turleri/Insansi-Robotlar/Arastirmalar/2026-Lim-Derivation-and-Verification-Minimum.md) — Lim vd. (2026) · *The Transactions of The Korean Institute of Electrical Engineers* · hakemli
 - [LumiTac: Compact, High-Rate Six-Axis Optical Tactile Sensing for Human-Robot Interaction](Insan-Robot-Etkilesimi/Arastirmalar/2026-Wu-LumiTac-Compact-High-Rate.md) — Wu vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [Reflection-Robust Stereo Visual-Inertial Odometry via Kalman-Filtered Ground-Height Estimation](Robot-Algilama/Eszamanli-Konum-Belirleme-ve-Haritalama/Gorsel-Ataletsel-Odometri/Arastirmalar/2026-Hwang-Reflection-Robust-Stereo-Visual.md) — Hwang vd. (2026) · *arXiv* · ön baskı / hakemsiz
-- [Online Adaptation to Latent Physical Properties for Learning from Demonstration](Robot-Ogrenmesi/Gosterimden-Ogrenme/Arastirmalar/2026-Kajitsuka-Online-Adaptation-Latent-Physical.md) — Kajitsuka vd. (2026) · *arXiv* · ön baskı / hakemsiz
-- [A human-centric large language model interface for monitoring and control of autonomous mobile robots via digital twins in industry 5.0](Robot-Turleri/Mobil-Robotlar/Otonom-Mobil-Robotlar/Arastirmalar/2026-Pitel-human-centric-large-language.md) — Piteľ vd. (2026) · *Production & Manufacturing Research* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

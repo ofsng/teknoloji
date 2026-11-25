@@ -75,7 +75,10 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **2**.
+
+- [Digital Solutions for Prevention and Control of Infectious Diseases in International air Travel: A Scoping Review](Arastirmalar/2026-Pashapour-Digital-Solutions-for-Prevention.md) — Pashapour vd. (2026) · *Journal of Epidemiology and Global Health* · hakemli
+- [Early Infectious Diseases Specialist Involvement and Antimicrobial De-escalation in a Sepsis Code Program: A Propensity Score–Matched Cohort Study](Arastirmalar/2026-Suarez-Robles-Early-Infectious-Diseases-Speciali.md) — Suárez-Robles vd. (2026) · *Open Forum Infectious Diseases* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -83,7 +86,10 @@ Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
-_Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini göstermez; ön baskılar hakemli değildir._
+Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
+
+- [Digital Solutions for Prevention and Control of Infectious Diseases in International air Travel: A Scoping Review](Arastirmalar/2026-Pashapour-Digital-Solutions-for-Prevention.md) — Pashapour vd. (2026) · *Journal of Epidemiology and Global Health* · hakemli
+- [Early Infectious Diseases Specialist Involvement and Antimicrobial De-escalation in a Sepsis Code Program: A Propensity Score–Matched Cohort Study](Arastirmalar/2026-Suarez-Robles-Early-Infectious-Diseases-Speciali.md) — Suárez-Robles vd. (2026) · *Open Forum Infectious Diseases* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

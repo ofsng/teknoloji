@@ -26,6 +26,7 @@ collected_at: 2026-11-15
 last_checked_at: 2026-11-15
 content_verified: false
 identifier_verified: crossref
+retraction_checked: 2026-11-25
 ---
 
 # VADIA-Verkle Tree-based Approach for Dealing Data Integrity Attacks in Opportunistic Mobile Social Networks

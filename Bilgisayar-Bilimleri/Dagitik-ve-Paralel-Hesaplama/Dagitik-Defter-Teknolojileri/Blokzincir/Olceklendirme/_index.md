@@ -92,7 +92,6 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [eDAS: Extending Data Availability Sampling with Privacy and Compliance](Veri-Erisilebilirligi-Orneklemesi/Arastirmalar/2026-Watkins-eDAS-Extending-Data-Availability.md) — Watkins vd. (2026) · *IACR Communications in Cryptology* · hakemli
 - [A Study on Performance Improvement of Blockchain-Based Distributed Cloud Storage System Using Optimistic Rollup](Katman-2/Rollups/Optimistic-Rollups/Arastirmalar/2026-Hwang-Study-Performance-Improvement-Blockchain.md) — Hwang vd. (2026) · *한국통신학회논문지* · hakemli
 - [Deep-frida: transparent data availability sampling with smaller size](Veri-Erisilebilirligi-Orneklemesi/Arastirmalar/2026-Yang-Deep-frida-transparent-data.md) — Yang vd. (2026) · *Cybersecurity* · hakemli
-- [A Study on the Expansion and Performance Analysis of Ethereum Blockchain Architecture Based on Optimistic Rollup](Katman-2/Rollups/Optimistic-Rollups/Arastirmalar/2025-Heo-Study-the-Expansion-and.md) — Heo vd. (2025) · *한국통신학회논문지* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

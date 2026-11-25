@@ -77,7 +77,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -88,6 +88,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
 - [Divide-and-conquer neural-network surrogates for quantum sampling: Accelerating Markov-chain Monte Carlo in large-scale constrained optimization problems](Bol-ve-Yonet/Arastirmalar/2026-Kawamata-Divide-and-conquer-neural.md) — Kawamata vd. (2026) · *Physical Review Applied* · hakemli · atıf: 2
+- [Greedy algorithms with imprecise oracles for submodular knapsack problems](Acgozlu-Algoritmalar/Arastirmalar/2026-Munch-Greedy-algorithms-with-imprecise.md) — Münch vd. (2026) · *Mathematical Methods of Operations Research* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

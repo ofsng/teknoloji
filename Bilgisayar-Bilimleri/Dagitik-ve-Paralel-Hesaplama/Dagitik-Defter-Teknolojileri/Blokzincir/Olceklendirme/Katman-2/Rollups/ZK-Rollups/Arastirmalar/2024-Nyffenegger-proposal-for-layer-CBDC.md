@@ -21,11 +21,12 @@ cited_by_count: 7
 content_status: abstract_only
 abstract_license: cc-by
 retraction_status: none_reported
-related_versions: []
+related_versions: [{"relation": "preprint", "doi": "10.2139/ssrn.4570742", "source": "crossref"}]
 collected_at: 2026-11-15
 last_checked_at: 2026-11-15
 content_verified: false
-identifier_verified: false
+identifier_verified: crossref
+retraction_checked: 2026-11-25
 ---
 
 # A proposal for a layer-2 CBDC on a rollup

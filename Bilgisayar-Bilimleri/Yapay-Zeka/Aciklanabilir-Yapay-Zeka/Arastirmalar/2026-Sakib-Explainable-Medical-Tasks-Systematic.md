@@ -25,7 +25,7 @@ related_versions: []
 collected_at: 2026-11-24
 last_checked_at: 2026-11-24
 content_verified: false
-identifier_verified: false
+identifier_verified: crossref
 ---
 
 # Explainable AI in Medical Tasks: A Systematic Review of Methods, Applications, and Modalities of Explanation

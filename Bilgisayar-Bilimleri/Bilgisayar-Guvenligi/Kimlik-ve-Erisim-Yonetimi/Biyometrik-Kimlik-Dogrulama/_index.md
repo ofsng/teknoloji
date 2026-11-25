@@ -76,7 +76,10 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **2**.
+
+- [Optimizing Banking Security: A Comparative Study of Biometric Authentication Methods](Arastirmalar/2026-Mani-Optimizing-Banking-Security-Comparative.md) — Mani (2026) · *REST Journal on Data Analytics and Artificial Intelligence* · hakemli
+- [Liveness Detection and Biometric Authentication System (BAS)](Arastirmalar/2026-Sixtus-Liveness-Detection-and-Biometric.md) — Sixtus (2026) · *RESEARCH JOURNAL OF MASS COMMUNICATION AND INFORMATION TECHNOLOGY* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -84,7 +87,10 @@ Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
-_Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini göstermez; ön baskılar hakemli değildir._
+Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
+
+- [Optimizing Banking Security: A Comparative Study of Biometric Authentication Methods](Arastirmalar/2026-Mani-Optimizing-Banking-Security-Comparative.md) — Mani (2026) · *REST Journal on Data Analytics and Artificial Intelligence* · hakemli
+- [Liveness Detection and Biometric Authentication System (BAS)](Arastirmalar/2026-Sixtus-Liveness-Detection-and-Biometric.md) — Sixtus (2026) · *RESEARCH JOURNAL OF MASS COMMUNICATION AND INFORMATION TECHNOLOGY* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

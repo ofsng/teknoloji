@@ -1,0 +1,72 @@
+---
+research_id: doi:10.62051/4bgvas35
+title: "Quantum Tunnelling: Quantum Mechanics Principles and its Applications in Nuclear Physics"
+authors: ["Rongxuan Xia"]
+year: 2026
+published_date: 2026-11-22
+updated_date: 2026-11-25
+doi: 10.62051/4bgvas35
+arxiv:
+url: https://doi.org/10.62051/4bgvas35
+publication: "Transactions on Computer Science and Intelligent Systems Research"
+publication_type: article
+peer_reviewed: true
+primary_technology: nuclear-physics
+related_technologies: ["quantum-mechanics"]
+classification_confidence: high
+classification_method: deterministic
+keywords: ["quantum tunneling", "nuclear physics", "potential barrier", "transmission coefficient", "WKB approximation", "wave functions", "nuclear reaction rates", "nucleon exchange", "multiple barriers", "wave-particle duality"]
+source_ids: ["openalex:W7238886037"]
+cited_by_count: 0
+content_status: metadata_only
+abstract_license: cc-by-nc
+retraction_status: none_reported
+related_versions: []
+collected_at: 2026-11-25
+last_checked_at: 2026-11-25
+content_verified: false
+identifier_verified: false
+---
+
+# Quantum Tunnelling: Quantum Mechanics Principles and its Applications in Nuclear Physics
+
+## 1. Araştırmanın özeti
+
+_Özet kaynakta mevcut; yeniden yayım lisansı doğrulanamadığından depoya kopyalanmadı. Özet için kaynağa bakın: https://doi.org/10.62051/4bgvas35_
+
+## 2. Ele aldığı problem
+
+_Tam metin incelenmedi; bu bölüm yalnızca doğrulanabilir kaynakla doldurulabilir._
+
+## 3. Kullanılan yöntem
+
+_Tam metin incelenmedi; bu bölüm yalnızca doğrulanabilir kaynakla doldurulabilir._
+
+## 4. Temel bulgular
+
+_Tam metin incelenmedi; bu bölüm yalnızca doğrulanabilir kaynakla doldurulabilir._
+
+## 5. Teknik katkıları
+
+_Tam metin incelenmedi; bu bölüm yalnızca doğrulanabilir kaynakla doldurulabilir._
+
+## 6. Sınırlılıklar
+
+_Tam metin incelenmedi; bu bölüm yalnızca doğrulanabilir kaynakla doldurulabilir._
+
+## 7. İlişkili teknolojiler
+
+<!-- AUTO:TECH:BEGIN (otomatik; elle düzenlemeyin) -->
+- **Kanonik konum:** [Nükleer Fizik](../_index.md)
+- **İlişkili:** [Kuantum Mekaniği](../../Kuantum-Mekanigi/_index.md)
+<!-- AUTO:TECH:END -->
+
+## 8. İlişkili araştırmalar
+
+_Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
+
+## 9. Kaynaklar
+
+- DOI: https://doi.org/10.62051/4bgvas35
+- OpenAlex: https://openalex.org/W7238886037
+- Metadata kaynakları: openalex:W7238886037 (toplama: 2026-11-25)

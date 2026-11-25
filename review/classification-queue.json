@@ -4312,6 +4312,92 @@
   "url": "https://doi.org/10.55043/agroteknika.v9i4.768"
  },
  {
+  "added": "2026-11-25",
+  "arxiv": null,
+  "candidates": [
+   [
+    "infectious-diseases",
+    6.6
+   ],
+   [
+    "markov-chains",
+    5.5
+   ],
+   [
+    "uncertainty-quantification",
+    5.5
+   ],
+   [
+    "ordinary-differential-equations",
+    4.47
+   ],
+   [
+    "analysis",
+    3.42
+   ],
+   [
+    "statistical-inference",
+    3.1
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.1371/journal.pcbi.1013952",
+  "keys": [
+   "doi:10.1371/journal.pcbi.1013952",
+   "title:globalsensitivityanalysisforstochasticmodelsofinfectiousdiseasesreemergenceofyellowfevervirusintheamericasasacasestudy|2026"
+  ],
+  "reason": "backlog'dan: güven düştü (taksonomi değişmiş olabilir)",
+  "record": {
+   "abstract": "Emerging infectious diseases are a persistent public health threat that challenge deterministic, mechanistic modeling approaches. Because outbreaks initially start with a low number of infected hosts, their dynamics are highly stochastic, making traditional deterministic methods, e.g., ordinary differential equations, unable to qualitatively or quantitatively capture the transmission dynamics. In place, stochastic models are used, such as Markov chain models, but these models present their own challenges. Often, to infer a quantity of interest with stochastic models, we need to sample the model’s distribution many times over, introducing an additional source of noise to our analysis. This additional noise makes the inference of our quantity of interest more difficult and computationally expensive. Here, we show how novel tools from the field of uncertainty quantification can be used to efficiently separate these two channels of noise, allowing us to make rigorous statistical inferences about processes important for disease emergence. We illustrate these techniques with a model of yellow fever virus spillover in the Americas, a virus that has seen rapid re-emergence amongst multiple hosts and vectors in South America over the last decade. We show that only a handful of parameters’ uncertainties greatly affect variation in cumulative disease incidence. In particular, uncertainty in patch connectivity and non-human primate latency has the greatest impact on the variation of cumulative disease incidence of yellow fever virus across patches.",
+   "abstract_license": "cc-by",
+   "arxiv": null,
+   "authors": [
+    "Nate Kornetzke",
+    "Helen J. Wearing"
+   ],
+   "categories": [
+    "OpenAlex-field:Mathematics"
+   ],
+   "cited_by_count": 0,
+   "doi": "10.1371/journal.pcbi.1013952",
+   "is_retracted": false,
+   "keywords": [
+    "global sensitivity analysis",
+    "stochastic epidemic model",
+    "yellow fever virus",
+    "disease resurgence",
+    "uncertainty quantification",
+    "Markov chain model",
+    "spillover transmission",
+    "patch connectivity",
+    "emerging infectious diseases",
+    "Americas"
+   ],
+   "language": "en",
+   "oa_created": "2026-02-01",
+   "peer_reviewed": true,
+   "publication": "PLoS Computational Biology",
+   "publication_type": "article",
+   "published_date": "2026-11-03",
+   "related_versions": [],
+   "source_ids": [
+    "openalex:W7126247722"
+   ],
+   "title": "Global sensitivity analysis for stochastic models of infectious diseases: Re-emergence of yellow fever virus in the Americas as a case study",
+   "topics": [
+    "Mathematical and Theoretical Epidemiology and Ecology Models",
+    "Applied Mathematics"
+   ],
+   "updated_date": "2026-11-20",
+   "url": "https://doi.org/10.1371/journal.pcbi.1013952"
+  },
+  "score": 6.6,
+  "seen": 1,
+  "suggested": "infectious-diseases",
+  "title": "Global sensitivity analysis for stochastic models of infectious diseases: Re-emergence of yellow fever virus in the Americas as a case study",
+  "url": "https://doi.org/10.1371/journal.pcbi.1013952"
+ },
+ {
   "added": "2026-11-22",
   "arxiv": "2512.02284",
   "candidates": [
@@ -9869,6 +9955,61 @@
   "url": "https://arxiv.org/abs/2611.29143"
  },
  {
+  "added": "2026-11-25",
+  "arxiv": "2611.29929",
+  "candidates": [
+   [
+    "random-graphs",
+    6.3
+   ],
+   [
+    "engineered-timber",
+    0.45
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.29929",
+   "title:locallimitsandstructuresofnearestpredecessorrandomgraphs|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "We study the two-sided nearest-predecessor graph on $[n]$, where vertices arrive in a uniformly random order and each new vertex connects to its nearest earlier vertex on each side. We construct an infinite graph on $\\mathbb{Z}$ from i.i.d. continuous insertion times and prove quenched Benjamini--Schramm convergence to it almost surely. The limit is almost surely one-ended and recurrent. We resolve an open problem of Ponomarenko by proving that the maximum degree is asymptotic in probability to $\\log n/\\log(3/2)$ as $n\\to\\infty$. We obtain the probability generating function and a CLT for the number of edges crossing the boundary of $[n]$ in the infinite limit. We also study the $K$-nearest-predecessor graph, in which each new vertex attaches to its $K$ nearest earlier vertices without regard to side. For every fixed $K\\geq1$, we construct the infinite limit, prove almost sure quenched Benjamini--Schramm convergence, and show that it is almost surely connected, one-ended, and recurrent, as well as nonplanar when $K\\geq2$.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.29929",
+   "authors": [
+    "Xiaoyao Huang"
+   ],
+   "categories": [
+    "arXiv:math.PR",
+    "arXiv:math.CO"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-23",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.29929"
+   ],
+   "title": "Local Limits and Structures of Nearest-Predecessor Random Graphs",
+   "topics": [],
+   "updated_date": "2026-11-23",
+   "url": "https://arxiv.org/abs/2611.29929"
+  },
+  "score": 6.3,
+  "seen": 1,
+  "suggested": "random-graphs",
+  "title": "Local Limits and Structures of Nearest-Predecessor Random Graphs",
+  "url": "https://arxiv.org/abs/2611.29929"
+ },
+ {
   "added": "2026-11-14",
   "arxiv": null,
   "candidates": [
@@ -11091,163 +11232,5 @@
   "suggested": "life-cycle-assessment",
   "title": "LIFE-CYCLE ASSESSMENT AND THERMAL PERFORMANCE OF LOCALLY SOURCED WALLING MATERIALS FOR LOW-CARBON RESIDENTIAL BUILDINGS IN NORTH-EAST NIGERIA",
   "url": "https://doi.org/10.70382/tijbees.v13i4.0113"
- },
- {
-  "added": "2026-11-23",
-  "arxiv": "2604.21732",
-  "candidates": [
-   [
-    "superconducting-qubits",
-    3.9
-   ],
-   [
-    "condensed-matter-physics",
-    3.7
-   ],
-   [
-    "machine-learning",
-    3.6
-   ],
-   [
-    "bayesian-optimization",
-    3.26
-   ],
-   [
-    "spintronics",
-    3.25
-   ],
-   [
-    "quantum-dots",
-    3.0
-   ]
-  ],
-  "confidence": "medium",
-  "doi": "10.1103/r1v9-mff5",
-  "keys": [
-   "arxiv:2604.21732",
-   "doi:10.1103/r1v9-mff5",
-   "title:tailoringgermaniumheterostructuresforquantumdeviceswithmachinelearning|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "Germanium (Ge) quantum wells are emerging as versatile platforms for quantum devices, supporting high-quality spin qubits and integration with superconducting leads. These applications benefit from strong intrinsic spin-orbit interaction (SOI), enabling efficient electrical control and engineering of spin degrees of freedom. The most advanced Ge/SiGe heterostructures to date, based on compressively strained Ge channels within strain-relaxed silicon-germanium (SiGe) barriers, exhibit weak SOI due to the heavy-hole character of the wave function, posing challenges for spin-based quantum devices and requiring complex device designs for fast qubit manipulation. In this work, we demonstrate that concrete heterostructure modifications can overcome these limitations, enhancing SOI by up to three orders of magnitude. Specifically, we propose to enrich unstrained Ge channels by localized, strained silicon spikes. Leveraging a multi-objective Bayesian optimization, we optimize the spike profile to maximize SOI, while ensuring compatibility with current epitaxial growth processes and robustness against realistic variations of growth parameters. Our heterostructure substantially enhances device performance, yielding up to two orders of magnitude higher quantum-dot spin qubit quality factors than state-of-the-art materials. We also predict GHz-scale spin splittings for hybrid superconducting Andreev spin qubits. These novel Ge heterostructures with engineered Si concentration profiles can open pathways to scalable quantum and spintronic applications.",
-   "abstract_license": null,
-   "arxiv": "2604.21732",
-   "authors": [
-    "Patrick Del Vecchio",
-    "Kevin Rossi",
-    "Giordano Scappucci",
-    "Stefano Bosco"
-   ],
-   "categories": [
-    "OpenAlex-field:Physics and Astronomy"
-   ],
-   "cited_by_count": 7,
-   "doi": "10.1103/r1v9-mff5",
-   "is_retracted": false,
-   "keywords": [
-    "germanium quantum wells",
-    "Ge/SiGe heterostructures",
-    "spin-orbit coupling",
-    "spin qubits",
-    "quantum dots",
-    "superconducting qubits",
-    "strain engineering",
-    "multi-objective Bayesian optimization",
-    "spin splitting",
-    "spintronics",
-    "quantum devices"
-   ],
-   "language": "en",
-   "oa_created": "2026-04-25",
-   "peer_reviewed": true,
-   "publication": "Physical Review Applied",
-   "publication_type": "article",
-   "published_date": "2026-11-20",
-   "related_versions": [],
-   "source_ids": [
-    "openalex:W7155499242"
-   ],
-   "title": "Tailoring germanium heterostructures for quantum devices with machine learning",
-   "topics": [
-    "Quantum and electron transport phenomena",
-    "Condensed Matter Physics"
-   ],
-   "updated_date": "2026-11-23",
-   "url": "https://doi.org/10.1103/r1v9-mff5"
-  },
-  "score": 3.9,
-  "seen": 1,
-  "suggested": "superconducting-qubits",
-  "title": "Tailoring germanium heterostructures for quantum devices with machine learning",
-  "url": "https://doi.org/10.1103/r1v9-mff5"
- },
- {
-  "added": "2026-11-23",
-  "arxiv": "2601.02507",
-  "candidates": [
-   [
-    "particle-physics",
-    3.48
-   ]
-  ],
-  "confidence": "medium",
-  "doi": "10.1007/jhep11(2026)201",
-  "keys": [
-   "arxiv:2601.02507",
-   "doi:10.1007/jhep11(2026)201",
-   "title:axionwormholesandtheadscftfactorizationproblem|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "This work investigates the relevance of Euclidean and complex axion wormholes to the AdS/CFT factorization problem. We use a framework that defines bulk gravitational path integrals by integrating over a real Lorentz-signature contour and then, as needed, perhaps further analytically continuing the resulting functions of boundary conditions. For technical reasons we focus on the case of 2+1 bulk dimensions. The AdS boundary conditions (in any dimension) require us to impose Dirichlet boundary conditions on the standard Euclidean axion χ E . Fixing its asymptotic values on two boundary spheres to ±χ E , ∞ , we find such wormholes to be subdominant to a UV-sensitive endpoint contribution for χ E , ∞ near the real axis, and that (with our conventions) they become dominant only for χ E , ∞ near the negative imaginary axis. Furthermore, such wormholes are irrelevant to our computation for Im χ E , ∞ > 0 (in the sense that the associated ascent contour fails to intersect the contour of integration). The relevance of the wormhole saddle for real positive χ E , ∞ is in fact a matter of choice, as the saddle then lies on a Stokes’ line at which the relevant intersection number changes from zero to one.",
-   "abstract_license": "cc-by",
-   "arxiv": "2601.02507",
-   "authors": [
-    "Jesse Held",
-    "Molly Kaplan",
-    "Donald M. Marolf",
-    "Zhencheng Wang"
-   ],
-   "categories": [
-    "OpenAlex-field:Physics and Astronomy"
-   ],
-   "cited_by_count": 17,
-   "doi": "10.1007/jhep11(2026)201",
-   "is_retracted": false,
-   "keywords": [
-    "Euclidean wormholes",
-    "gravitational path integral",
-    "2+1 dimensions",
-    "Dirichlet boundary conditions",
-    "asymptotic boundary conditions",
-    "Stokes lines",
-    "saddle points",
-    "asymptotic expansion",
-    "AdS/CFT correspondence"
-   ],
-   "language": "en",
-   "oa_created": "2026-01-08",
-   "peer_reviewed": true,
-   "publication": "Journal of High Energy Physics",
-   "publication_type": "article",
-   "published_date": "2026-11-20",
-   "related_versions": [],
-   "source_ids": [
-    "openalex:W7118265973"
-   ],
-   "title": "Axion wormholes and the AdS/CFT factorization problem",
-   "topics": [
-    "Black Holes and Theoretical Physics",
-    "Nuclear and High Energy Physics"
-   ],
-   "updated_date": "2026-11-23",
-   "url": "https://doi.org/10.1007/jhep11(2026)201"
-  },
-  "score": 3.48,
-  "seen": 1,
-  "suggested": "particle-physics",
-  "title": "Axion wormholes and the AdS/CFT factorization problem",
-  "url": "https://doi.org/10.1007/jhep11(2026)201"
  }
 ]

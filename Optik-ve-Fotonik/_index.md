@@ -96,7 +96,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **22**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **23**.
 
 - [Beyond the lossless idealization: disturbance, losses, and real-air detection limits of a topological photonic crystal gas sensor](Arastirmalar/2026-Elsayed-Beyond-the-lossless-idealization.md) — Elsayed vd. (2026) · *Modern Physics Letters B* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -115,7 +115,7 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [High-harmonic generation during ultrafast melting of a Mott insulating state](Dogrusal-Olmayan-Optik/Yuksek-Harmonik-Uretimi/Arastirmalar/2026-Ikeda-High-harmonic-generation-during.md) — Ikeda vd. (2026) · *Nature Photonics* · hakemli · atıf: 4
 - [Ultra-low-intensity noise broadband femtosecond pulse generation in an Er-doped all-fiber laser](Lazerler/Fiber-Lazerler/Arastirmalar/2026-Yan-Ultra-low-intensity-noise.md) — Yan vd. (2026) · *Advanced Photonics Nexus* · hakemli
 - [Beyond the lossless idealization: disturbance, losses, and real-air detection limits of a topological photonic crystal gas sensor](Arastirmalar/2026-Elsayed-Beyond-the-lossless-idealization.md) — Elsayed vd. (2026) · *Modern Physics Letters B* · hakemli
-- [Mapping the High-Field Response of Superconducting Nanowire Single-Photon Detectors](Fotodedektorler/Superiletken-Nanotel-Tek-Foton-Dedektorleri/Arastirmalar/2026-Agarwal-Mapping-the-High-Field.md) — Agarwal vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [Enhanced Temperature Sensitivity by Nickel–Copper-Coated Optical Fiber in Distributed Sensing Based on Rayleigh Scattering](Optik-Fiberler/Arastirmalar/2026-Szczupak-Enhanced-Temperature-Sensitivity-Nickel.md) — Szczupak vd. (2026) · *Sensors* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

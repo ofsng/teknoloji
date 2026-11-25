@@ -75,8 +75,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **2**.
 
+- [Techno-Economic and Performance Assessment of Battery versus Green Hydrogen Storage Systems for Large-Scale Grid Decarbonization](Arastirmalar/2026-Adak-Techno-Economic-and-Performance.md) — Adak vd. (2026) · *International Journal of Scientific Research in Science and Technology* · hakemli
 - [A BIF-derived MnO@BCN/graphite felt electrode for high-performance vanadium redox flow batteries](Arastirmalar/2026-Xiao-BIF-derived-MnO-BCN.md) — Xiao vd. (2026) · *Chemical Communications* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
@@ -87,6 +88,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Techno-Economic and Performance Assessment of Battery versus Green Hydrogen Storage Systems for Large-Scale Grid Decarbonization](Arastirmalar/2026-Adak-Techno-Economic-and-Performance.md) — Adak vd. (2026) · *International Journal of Scientific Research in Science and Technology* · hakemli
 - [A BIF-derived MnO@BCN/graphite felt electrode for high-performance vanadium redox flow batteries](Arastirmalar/2026-Xiao-BIF-derived-MnO-BCN.md) — Xiao vd. (2026) · *Chemical Communications* · hakemli
 <!-- AUTO:RECENT:END -->
 

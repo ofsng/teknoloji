@@ -79,7 +79,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **27**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **28**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -89,6 +89,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Advances in Device-Independent and Semi-Device-Independent Quantum Random Number Generation](Kuantum-Iletisimi/Kuantum-Rastgele-Sayi-Uretimi/Arastirmalar/2026-Tang-Advances-Device-Independent-and.md) — Tang (2026) · *Transactions on Computer Science and Intelligent Systems Research* · hakemli
 - [Enabling quantum communication in ultra-large-scale networks](Kuantum-Iletisimi/Arastirmalar/2026-Radicchi-Enabling-quantum-communication-ultra.md) — Radicchi (2026) · *Physical Review A* · hakemli · atıf: 1
 - [Full-stack analog Gaussian optical quantum computing platform with one hundred inputs](Kuantum-Hesaplama/Arastirmalar/2026-Yokoyama-Full-stack-analog-Gaussian.md) — Yokoyama vd. (2026) · *Physical Review Applied* · hakemli · atıf: 14
 - [Hardware-Efficient Entanglement Distillation Using Bosonic Systems](Kuantum-Iletisimi/Kuantum-Tekrarlayicilar/Dolaniklik-Damitma/Arastirmalar/2026-Jacoby-Hardware-Efficient-Entanglement-Distillat.md) — Jacoby vd. (2026) · *Quantum* · hakemli
@@ -96,7 +97,6 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [Optimal learning of quantum channels in diamond distance](Kuantum-Bilgi-Teorisi/Kuantum-Kanallari/Arastirmalar/2026-Mele-Optimal-learning-quantum-channels.md) — Mele vd. (2026) · *Nature Physics* · hakemli · atıf: 33
 - [Quantum approximate optimization algorithm with cat qubits](Kuantum-Hesaplama/Kuantum-Algoritmalari/Varyasyonel-Kuantum-Algoritmalari/Kuantum-Yaklasik-Optimizasyon-Algoritmasi/Arastirmalar/2026-Vikstal-Quantum-approximate-optimization-algorit.md) — Vikstål vd. (2026) · *Scientific Reports* · hakemli · atıf: 6
 - [Statistical benchmarking of optimization methods for a variational quantum eigensolver under quantum noise](Kuantum-Hesaplama/Kuantum-Algoritmalari/Varyasyonel-Kuantum-Algoritmalari/Varyasyonel-Kuantum-Ozdeger-Cozucu/Arastirmalar/2026-Illesova-Statistical-benchmarking-optimization-m.md) — Illésová vd. (2026) · *Physical Review A* · hakemli · atıf: 14
-- [Clinical Translation of Optically Pumped Magnetometer-Based Magnetoencephalography: Current Evidence, Implementation Challenges, and Future Pathways](Kuantum-Algilama-ve-Metroloji/Kuantum-Manyetometri/Optik-Pompali-Manyetometreler/Arastirmalar/2026-Peng-Clinical-Translation-Optically-Pumped.md) — Peng vd. (2026) · *Brain Sciences* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar
