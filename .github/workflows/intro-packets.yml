@@ -1,9 +1,14 @@
 name: intro-packets
 
-# Tanıtım kartları için OpenAlex kaynak paketlerini (anahtarlı, yüksek kota) hazırlar ve iş çıktısı (artifact)
-# olarak yükler. Depoya hiçbir şey yazmaz. Yerelde: gh run download <run> -n intro-packets -D .cache/intro
+# Tanıtım kartları için OpenAlex kaynak paketlerini (anahtarlı) hazırlar ve iş çıktısı (artifact) olarak yükler.
+# Depoya hiçbir şey yazmaz. Yerelde: gh run download <run> -n intro-packets -D .cache/intro
+# Anahtarlı günlük kota yaklaşık 470 düğüme yetiyor (2026-11-23): paketler önceki başarılı çalışmanın
+# artifact'ından devralınıp birikir; her gün kalan
+# düğümlerle devam edilir; 429 alınınca o günkü çalışma durur. Tanıtımı yazılmış düğümler atlanır.
 
 on:
+  schedule:
+    - cron: "41 1 * * *"   # her gün 01:41 UTC (OpenAlex günlük kotası gece yarısı UTC sıfırlanır)
   workflow_dispatch:
     inputs:
       min_depth:
@@ -15,6 +20,7 @@ on:
 
 permissions:
   contents: read
+  actions: read   # önceki çalışmanın paketlerini indirmek için
 
 jobs:
   packets:
@@ -30,10 +36,20 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Önceki paketler (son başarılı çalışmanın artifact'ı)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          prev=$(gh run list --repo "$GITHUB_REPOSITORY" --workflow intro-packets.yml --status success --limit 1 \
+                 --json databaseId --jq '.[0].databaseId // empty')
+          mkdir -p .cache/intro
+          if [ -n "$prev" ]; then gh run download "$prev" --repo "$GITHUB_REPOSITORY" -n intro-packets -D .cache/intro || true; fi
+          ls .cache/intro | wc -l
+
       - name: Kaynak paketleri
         run: |
           set +e
-          for d in $(seq "${{ inputs.min_depth }}" "${{ inputs.max_depth }}"); do
+          for d in $(seq "${{ inputs.min_depth || 3 }}" "${{ inputs.max_depth || 8 }}"); do
             python3 tools/autokb.py intro --packets-only --depth "$d" | tail -c 2000
           done
           ls .cache/intro | wc -l
