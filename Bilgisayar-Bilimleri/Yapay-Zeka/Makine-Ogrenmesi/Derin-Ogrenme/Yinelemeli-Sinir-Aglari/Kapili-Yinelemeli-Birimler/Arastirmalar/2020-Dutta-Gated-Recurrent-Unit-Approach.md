@@ -25,7 +25,7 @@ related_versions: []
 collected_at: 2026-11-23
 last_checked_at: 2026-11-23
 content_verified: false
-identifier_verified: false
+identifier_verified: crossref
 ---
 
 # A Gated Recurrent Unit Approach to Bitcoin Price Prediction

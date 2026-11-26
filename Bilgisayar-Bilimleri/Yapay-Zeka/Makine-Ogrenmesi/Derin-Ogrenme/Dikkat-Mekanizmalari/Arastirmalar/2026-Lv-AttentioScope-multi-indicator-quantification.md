@@ -26,6 +26,7 @@ collected_at: 2026-11-24
 last_checked_at: 2026-11-24
 content_verified: false
 identifier_verified: crossref
+retraction_checked: 2026-11-26
 ---
 
 # AttentioScope: a multi-indicator quantification framework with attention mechanism based on thyroid fine-needle aspiration smear images

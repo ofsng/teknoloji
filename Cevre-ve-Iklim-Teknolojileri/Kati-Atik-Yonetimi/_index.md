@@ -79,9 +79,10 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **4**.
+Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **5**.
 
 - [Urban Solid Waste Management in Bengaluru and Indore: A Comparative Analysis](Arastirmalar/2026-Biju-Urban-Solid-Waste-Management.md) — Biju vd. (2026) · *International Journal of Interdisciplinary Approaches in Psychology* · hakemli
+- [Governance and Policy Challenges for Sustainable Municipal Solid Waste Management in Luanda (Angola)](Arastirmalar/2026-Duarte-Governance-and-Policy-Challenges.md) — Duarte vd. (2026) · *Sustainability* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -93,6 +94,7 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 
 - [Waste-to-Energy in Malaysia: Technologies, Biomass Resources, Municipal Solid Waste Management, Techno-Economic Feasibility, Environmental Impacts and Future Prospects](Atiktan-Enerji/Arastirmalar/2026-Faizal-Waste-Energy-Malaysia-Technologies.md) — Faizal vd. (2026) · *International Journal of Research and Innovation in Social Science* · hakemli
 - [Converting Urban Solid Waste to Energy in Enugu Urban Area, Southeast, Nigeria](Atiktan-Enerji/Arastirmalar/2026-Onyia-Converting-Urban-Solid-Waste.md) — Onyia (2026) · *WORLD JOURNAL OF INNOVATION AND MODERN TECHNOLOGY* · hakemli
+- [Governance and Policy Challenges for Sustainable Municipal Solid Waste Management in Luanda (Angola)](Arastirmalar/2026-Duarte-Governance-and-Policy-Challenges.md) — Duarte vd. (2026) · *Sustainability* · hakemli
 - [Occurrence, Bioaccumulation, and Biomagnification of Organophosphate Flame Retardants in Aquatic and Terrestrial Food Chains from a Former E-Waste Recycling Region, South China](Geri-Donusum-Teknolojileri/Elektronik-Atik-Geri-Donusumu/Arastirmalar/2026-Liu-Occurrence-Bioaccumulation-and-Biomagnificat.md) — Liu vd. (2026) · *Toxics* · hakemli
 - [Urban Solid Waste Management in Bengaluru and Indore: A Comparative Analysis](Arastirmalar/2026-Biju-Urban-Solid-Waste-Management.md) — Biju vd. (2026) · *International Journal of Interdisciplinary Approaches in Psychology* · hakemli
 <!-- AUTO:RECENT:END -->

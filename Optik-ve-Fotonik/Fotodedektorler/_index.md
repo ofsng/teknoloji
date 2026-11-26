@@ -79,7 +79,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -89,6 +89,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Signal-processing framework for photon-correlation measurements using a time-tagging single-photon avalanche diode array](Tek-Foton-Cig-Diyotlari/Arastirmalar/2026-Fujita-Signal-processing-framework-for.md) — Fujita vd. (2026) · *Physical Review A* · hakemli
 - [Mapping the High-Field Response of Superconducting Nanowire Single-Photon Detectors](Superiletken-Nanotel-Tek-Foton-Dedektorleri/Arastirmalar/2026-Agarwal-Mapping-the-High-Field.md) — Agarwal vd. (2026) · *arXiv* · ön baskı / hakemsiz
 <!-- AUTO:RECENT:END -->
 

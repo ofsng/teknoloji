@@ -21,11 +21,11 @@ cited_by_count: 9
 content_status: abstract_only
 abstract_license: cc-by
 retraction_status: none_reported
-related_versions: []
+related_versions: [{"relation": "preprint", "doi": "10.48550/arxiv.2508.12413", "source": "crossref"}]
 collected_at: 2026-11-15
 last_checked_at: 2026-11-15
 content_verified: false
-identifier_verified: false
+identifier_verified: crossref
 ---
 
 # Quantum Flow Matching

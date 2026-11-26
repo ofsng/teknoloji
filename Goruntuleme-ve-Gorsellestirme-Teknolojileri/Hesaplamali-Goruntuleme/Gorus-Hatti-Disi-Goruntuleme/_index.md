@@ -75,7 +75,10 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **2**.
+
+- [Transient measurement recovery via spatiotemporal correlations for under-scanning non-line-of-sight imaging](Arastirmalar/2026-Liu-Transient-measurement-recovery-via.md) — Liu vd. (2026) · *Optics Express* · hakemli
+- [Cascaded Non-Line-of-Sight Imaging](Arastirmalar/2026-Royo-Cascaded-Non-Line-Sight.md) — Royo vd. (2026) · *ACM Transactions on Graphics. 45, 6, Article 205 (SIGGRAPH Asia 2026)*
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -83,7 +86,10 @@ Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
-_Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini göstermez; ön baskılar hakemli değildir._
+Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
+
+- [Transient measurement recovery via spatiotemporal correlations for under-scanning non-line-of-sight imaging](Arastirmalar/2026-Liu-Transient-measurement-recovery-via.md) — Liu vd. (2026) · *Optics Express* · hakemli
+- [Cascaded Non-Line-of-Sight Imaging](Arastirmalar/2026-Royo-Cascaded-Non-Line-Sight.md) — Royo vd. (2026) · *ACM Transactions on Graphics. 45, 6, Article 205 (SIGGRAPH Asia 2026)*
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

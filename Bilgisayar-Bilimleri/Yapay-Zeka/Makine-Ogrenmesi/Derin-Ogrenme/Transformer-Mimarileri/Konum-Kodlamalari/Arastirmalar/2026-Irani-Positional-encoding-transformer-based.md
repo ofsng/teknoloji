@@ -25,7 +25,7 @@ related_versions: []
 collected_at: 2026-11-23
 last_checked_at: 2026-11-23
 content_verified: false
-identifier_verified: false
+identifier_verified: crossref
 ---
 
 # Positional encoding in transformer-based time series models: a survey

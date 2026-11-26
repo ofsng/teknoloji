@@ -76,7 +76,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **2**.
+
+- [Synthesizing mixed-integer linear programming models from natural language descriptions](Arastirmalar/2026-Li-Synthesizing-mixed-integer-linear.md) — Li vd. (2026) · *INFOR Information Systems and Operational Research* · hakemli · atıf: 46
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -86,6 +88,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Synthesizing mixed-integer linear programming models from natural language descriptions](Arastirmalar/2026-Li-Synthesizing-mixed-integer-linear.md) — Li vd. (2026) · *INFOR Information Systems and Operational Research* · hakemli · atıf: 46
 - [Ramification of Weighted Central Paths and Super-linear Interior-Point Methods for Semi-definite Optimization](Ic-Nokta-Yontemleri/Arastirmalar/2026-Mohammad-Nezhad-Ramification-Weighted-Central-Pa.md) — Mohammad-Nezhad vd. (2026) · *arXiv* · ön baskı / hakemsiz
 <!-- AUTO:RECENT:END -->
 

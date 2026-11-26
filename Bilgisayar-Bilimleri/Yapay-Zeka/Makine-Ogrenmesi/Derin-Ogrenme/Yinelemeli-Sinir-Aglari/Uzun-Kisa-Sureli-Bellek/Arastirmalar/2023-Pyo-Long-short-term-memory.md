@@ -25,7 +25,7 @@ related_versions: []
 collected_at: 2026-11-23
 last_checked_at: 2026-11-23
 content_verified: false
-identifier_verified: false
+identifier_verified: crossref
 ---
 
 # Long short-term memory models of water quality in inland water environments

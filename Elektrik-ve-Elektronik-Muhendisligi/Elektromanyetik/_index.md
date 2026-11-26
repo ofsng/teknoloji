@@ -81,7 +81,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **6**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **7**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -92,6 +92,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
 - [Design of an RF MEMS Switched Metamaterial Patch Antenna for Sensing Applications](RF-ve-Mikrodalga/RF-MEMS/Arastirmalar/2026-Cismaru-Design-MEMS-Switched-Metamaterial.md) — Cismaru vd. (2026) · *Sensors* · hakemli
+- [Parametric Analysis of Reconfigurable Intelligent Surface-Assisted Millimetre-Wave NOMA Systems: Impact on Spectral Efficiency and Design Optimisation](Antenler/Yeniden-Yapilandirilabilir-Akilli-Yuzeyler/Arastirmalar/2026-Aderinkola-Parametric-Analysis-Reconfigurable-In.md) — Aderinkola vd. (2026) · *Journal of Science and Technology* · hakemli
 - [Phased Array Antenna Surface Deformation Reconstruction Based on Modal Low-Rank Correction and Gaussian Process Data Migration](Antenler/Faz-Dizili-Antenler/Arastirmalar/2026-Yan-Phased-Array-Antenna-Surface.md) — Yan vd. (2026) · *Micromachines* · hakemli
 - [High-Gain 3D-Printed Dual-Reflector Antenna for Millimeter-Wave Applications](Antenler/Yansitici-Antenler/Arastirmalar/2026-Cai-High-Gain-Printed-Dual.md) — Cai vd. (2026) · *Electronics* · hakemli
 - [Case-wise study of torsional wave propagation in a two-layered heterogeneous media](Dalga-Yayilimi/Arastirmalar/2026-Panda-Case-wise-study-torsional.md) — Panda vd. (2026) · *Integritet i vek konstrukcija* · hakemli

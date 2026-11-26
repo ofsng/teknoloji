@@ -87,7 +87,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **7**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **8**.
 
 - [Agentic Software Engineering: Foundational Pillars and a Research Roadmap](Arastirmalar/2026-Hassan-Agentic-Software-Engineering-Foundational.md) — Hassan vd. (2026) · *ACM Transactions on Software Engineering and Methodology* · hakemli · atıf: 86
 <!-- AUTO:RESEARCH:END -->
@@ -99,6 +99,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Implementation of Service Oriented Architecture for Data Management Using Binary Search Trees](Yazilim-Mimarisi/Servis-Odakli-Mimari/Arastirmalar/2026-Lemin-Implementation-Service-Oriented-Architectu.md) — Lemin (2026) · *International Journal of Innovative Science and Research Technology (IJISRT)* · hakemli
 - [A Critical Reflection on the State of Data Analysis in Empirical Software Engineering](Ampirik-Yazilim-Muhendisligi/Arastirmalar/2026-Esposito-Critical-Reflection-the-State.md) — Esposito vd. (2026) · *ACM Transactions on Software Engineering and Methodology* · hakemli · atıf: 13
 - [How Safe Are AI-Generated Patches? A Large-scale Study on Security Risks in LLM and Agentic Automated Program Repair on SWE-bench](Yazilim-Bakimi-ve-Evrimi/Program-Onarimi/Arastirmalar/2026-Sajadi-How-Safe-Are-Generated.md) — Sajadi vd. (2026) · *ACM Transactions on Software Engineering and Methodology* · hakemli · atıf: 25
 - [Enhanced Hybrid or Fuzzy Framework for Concurrent Software Using Model Checking and Machine Learning Techniques](Bicimsel-Yontemler/Model-Denetimi/Arastirmalar/2026-ORASE-Enhanced-Hybrid-Fuzzy-Framework.md) — ORASE (2026) · *INTERNATIONAL JOURNAL OF COMPUTER SCIENCE AND MATHEMATICAL THEORY E-ISSN* · hakemli

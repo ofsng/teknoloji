@@ -89,7 +89,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **15**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **16**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -99,6 +99,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Applications of Artificial Intelligence in the Fluid Catalytic Cracking Process in Petroleum Refineries](Kimya-Muhendisligi/Petrokimya-Surecleri/Akiskan-Yatakli-Katalitik-Kraking/Arastirmalar/2026-Javanbakht-Applications-Artificial-Intelligence.md) — Javanbakht vd. (2026) · *Research on Intelligent Manufacturing and Assembly* · hakemli
 - [Assessing the Representativeness of Cell Sampling in Single Cell-ICP-MS Using Ru-Based Cell Size Markers and LA-ICP-MS](Analitik-Kimya/Atomik-Spektrometri/Arastirmalar/2026-Nikolic-Assessing-the-Representativeness-Cell.md) — Nikolić vd. (2026) · *Analytical Chemistry* · hakemli
 - [From Fibrated Chrysene Networks to Molecular Machines: Registry-Programmed Geometry, Electromechanical Realization, and Constructive Existence](Polimer-Kimyasi/Supramolekuler-Kimya/Molekuler-Makineler/Arastirmalar/2026-Schaper-From-Fibrated-Chrysene-Networks.md) — Schaper (2026) · *Annals of the Chrysene Formalism* · hakemli · atıf: 4
 - [Contemporary synthetic tools for the total synthesis of natural products](Organik-Kimya/Organik-Sentez/Toplam-Sentez/Arastirmalar/2026-Blackwell-Contemporary-synthetic-tools-for.md) — Blackwell vd. (2026) · *Chemical Society Reviews* · hakemli
@@ -106,7 +107,6 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [Green Analytical Chemistry-Oriented RPLC Method for Determining the Dissociation Constant of the Nootropic Drug Piracetam in Binary Solvent Systems](Analitik-Kimya/Arastirmalar/2026-Daldal-Green-Analytical-Chemistry-Oriented.md) — Daldal vd. (2026) · *Journal of Chemical & Engineering Data* · hakemli
 - [Linking Mineral Surface Chemistry to the Interfacial Adsorption of Ionic Emulsifiers](Fizikokimya/Yuzey-Kimyasi/Arastirmalar/2026-Quan-Linking-Mineral-Surface-Chemistry.md) — Quan vd. (2026) · *Langmuir* · hakemli
 - [Open Microfluidic Probe Enabled Regional Surface Modification of Single Cells by Click Chemistry](Organik-Kimya/Klik-Kimyasi/Arastirmalar/2026-Song-Open-Microfluidic-Probe-Enabled.md) — Song vd. (2026) · *Analytical Chemistry* · hakemli
-- [Kinetic Acceleration and the Stoichiometric Limit Dictate the Behavior of Reactivity-Enhanced Step-Growth Polymerization](Polimer-Kimyasi/Polimerizasyon-Yontemleri/Basamakli-Buyume-Polimerizasyonu/Arastirmalar/2026-Tang-Kinetic-Acceleration-and-the.md) — Tang vd. (2026) · *Macromolecules* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

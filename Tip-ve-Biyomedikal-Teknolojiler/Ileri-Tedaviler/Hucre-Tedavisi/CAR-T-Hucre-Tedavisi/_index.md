@@ -75,7 +75,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **23**, alt teknolojiler dahil: **23**.
+Arşivdeki kayıtlar — bu düğüm: **24**, alt teknolojiler dahil: **24**.
 
 - [Update on Phase 2 of KYSA-6, an Open-label, Single-arm, Multicenter Phase 2/3 Study of Miv-cel (Mivocabtagene Autoleucel; KYV-101), a Fully Human CD19 Chimeric Antigen Receptor (CAR) T-cell Therapy in Generalized Myasthenia Gravis (gMG)](Arastirmalar/2026-Dalakas-Update-Phase-KYSA-Open.md) — Dalakas vd. (2026) · *Neurology* · hakemli · atıf: 1
 - [NKTR-255, a polymer-conjugated IL-15, enhances CAR T cell therapy by engaging endogenous antitumor immunity](Arastirmalar/2026-Nutt-NKTR-255-polymer-conjugated.md) — Nutt vd. (2026) · *Cancer Immunology Research* · hakemli · atıf: 1
@@ -85,7 +85,7 @@ Arşivdeki kayıtlar — bu düğüm: **23**, alt teknolojiler dahil: **23**.
 - [Bridging to CD19 CAR T-cell therapy for large B-cell lymphoma: An analysis of 1,134 patients by the EBMT Lymphoma Working Party and the GoCART Coalition](Arastirmalar/2026-Berning-Bridging-CD19-CAR-cell.md) — Berning vd. (2026) · *Bone Marrow Transplantation* · hakemli
 - [Long-term follow-up and late complications of CAR-T cell therapy](Arastirmalar/2026-Fatobene-Long-term-follow-and.md) — Fatobene vd. (2026) · *JOURNAL OF BONE MARROW TRANSPLANTATION AND CELLULAR THERAPY* · hakemli
 - [Beyond ICANS: Cellular and Molecular Mechanisms Linking CAR T-Cell Therapy to Long-Term Neurocognitive Outcomes](Arastirmalar/2026-Fleischer-Beyond-ICANS-Cellular-and.md) — Fleischer vd. (2026) · *Cells* · hakemli
-- … ve 15 kayıt daha: [Arastirmalar/](Arastirmalar/)
+- … ve 16 kayıt daha: [Arastirmalar/](Arastirmalar/)
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -95,6 +95,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [CAR T-cell Therapy for Acute Myeloid Leukemia: Matching Target, Product and Treatment Context](Arastirmalar/2026-Su-CAR-cell-Therapy-for.md) — Su vd. (2026) · *Stem Cell Reviews and Reports* · hakemli
 - [Long-term follow-up and late complications of CAR-T cell therapy](Arastirmalar/2026-Fatobene-Long-term-follow-and.md) — Fatobene vd. (2026) · *JOURNAL OF BONE MARROW TRANSPLANTATION AND CELLULAR THERAPY* · hakemli
 - [Prospective digital neurocognitive and patient-reported symptom monitoring in adults scheduled for CAR T-cell therapy: feasibility and exploratory patient-level observations from a single-center cohort](Arastirmalar/2026-Fleischer-Prospective-digital-neurocognitive-and.md) — Fleischer vd. (2026) · *Supportive Care in Cancer* · hakemli
 - [CAR T-Cell Therapy in Multiple Myeloma](Arastirmalar/2026-Maiolino-CAR-Cell-Therapy-Multiple.md) — Maiolino vd. (2026) · *JOURNAL OF BONE MARROW TRANSPLANTATION AND CELLULAR THERAPY* · hakemli
@@ -102,7 +103,6 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [Before the CAR arrives: how neuro-oncological treatment history shapes CAR-T cell therapy in brain tumors](Arastirmalar/2026-Baldo-Before-the-CAR-arrives.md) — Baldo vd. (2026) · *Frontiers in Immunology* · hakemli
 - [Identification of lead CD24 scFvs for integration into CAR T-cell therapy](Arastirmalar/2026-Lysandrou-Identification-lead-CD24-scFvs.md) — Lysandrou vd. (2026) · *Frontiers in Immunology* · hakemli
 - [Advances in chimeric antigen receptor T (CAR-T) cell therapy and limitations for treating breast cancer requires next generation of CAR-T cells treatment](Arastirmalar/2026-Nawaz-Advances-chimeric-antigen-receptor.md) — Nawaz vd. (2026) · *Cancer Cell International* · hakemli
-- [Hemostatic complications after CAR T-cell therapy: linking immunothrombotic mechanisms to phase-adapted management](Arastirmalar/2026-Zhao-Hemostatic-complications-after-CAR.md) — Zhao vd. (2026) · *Journal of Translational Medicine* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

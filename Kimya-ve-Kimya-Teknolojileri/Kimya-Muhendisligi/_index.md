@@ -82,7 +82,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -92,6 +92,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Applications of Artificial Intelligence in the Fluid Catalytic Cracking Process in Petroleum Refineries](Petrokimya-Surecleri/Akiskan-Yatakli-Katalitik-Kraking/Arastirmalar/2026-Javanbakht-Applications-Artificial-Intelligence.md) — Javanbakht vd. (2026) · *Research on Intelligent Manufacturing and Assembly* · hakemli
 - [Synergistic CNT‐Integrated Ni‐Phthalocyanine/g‐C 3 N 4 Heterojunctional Photocatalysts With Single Ni–N 4 (II) Sites for Efficient Ammonia Synthesis](Endustriyel-Kimyasal-Surecler/Amonyak-Sentezi/Arastirmalar/2026-Khan-Synergistic-CNTIntegrated-NiPhthalocyanine.md) — Khan vd. (2026) · *Electron* · hakemli
 <!-- AUTO:RECENT:END -->
 

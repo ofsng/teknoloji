@@ -26,6 +26,7 @@ collected_at: 2026-11-24
 last_checked_at: 2026-11-24
 content_verified: false
 identifier_verified: crossref
+retraction_checked: 2026-11-26
 ---
 
 # Effectiveness Analysis of Run-Length Encoding and Huffman Coding Combination in Digital Image Compression

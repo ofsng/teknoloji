@@ -86,7 +86,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **26**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **28**.
 
 - [Life cycle assessment (LCA) in municipal solid waste management: public policies and regulation](Arastirmalar/2026-Schneider-Life-cycle-assessment-LCA.md) — Schneider vd. (2026) · *YACHAQ* · hakemli
 <!-- AUTO:RESEARCH:END -->

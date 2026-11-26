@@ -78,7 +78,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **29**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **30**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -88,6 +88,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [CAR T-cell Therapy for Acute Myeloid Leukemia: Matching Target, Product and Treatment Context](Hucre-Tedavisi/CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Su-CAR-cell-Therapy-for.md) — Su vd. (2026) · *Stem Cell Reviews and Reports* · hakemli
 - [What is phage therapy?](Faj-Tedavisi/Arastirmalar/2026-Rose-What-phage-therapy.md) — Rose vd. (2026) · *Archives of Disease in Childhood Education & Practice* · hakemli
 - [Long-term follow-up and late complications of CAR-T cell therapy](Hucre-Tedavisi/CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Fatobene-Long-term-follow-and.md) — Fatobene vd. (2026) · *JOURNAL OF BONE MARROW TRANSPLANTATION AND CELLULAR THERAPY* · hakemli
 - [Prospective digital neurocognitive and patient-reported symptom monitoring in adults scheduled for CAR T-cell therapy: feasibility and exploratory patient-level observations from a single-center cohort](Hucre-Tedavisi/CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Fleischer-Prospective-digital-neurocognitive-and.md) — Fleischer vd. (2026) · *Supportive Care in Cancer* · hakemli
@@ -95,7 +96,6 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [NKTR-255, a polymer-conjugated IL-15, enhances CAR T cell therapy by engaging endogenous antitumor immunity](Hucre-Tedavisi/CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Nutt-NKTR-255-polymer-conjugated.md) — Nutt vd. (2026) · *Cancer Immunology Research* · hakemli · atıf: 1
 - [Before the CAR arrives: how neuro-oncological treatment history shapes CAR-T cell therapy in brain tumors](Hucre-Tedavisi/CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Baldo-Before-the-CAR-arrives.md) — Baldo vd. (2026) · *Frontiers in Immunology* · hakemli
 - [AMCP Market Insights: Examining the current and future state of hemophilia B gene therapy in managed care](Gen-Tedavisi/Arastirmalar/2026-Flavin-AMCP-Market-Insights-Examining.md) — Flavin vd. (2026) · *Journal of Managed Care & Specialty Pharmacy* · hakemli
-- [Identification of lead CD24 scFvs for integration into CAR T-cell therapy](Hucre-Tedavisi/CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Lysandrou-Identification-lead-CD24-scFvs.md) — Lysandrou vd. (2026) · *Frontiers in Immunology* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

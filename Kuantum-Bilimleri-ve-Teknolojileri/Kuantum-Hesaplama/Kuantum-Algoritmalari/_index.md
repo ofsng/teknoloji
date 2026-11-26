@@ -83,7 +83,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **5**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **7**.
+
+- [Physics-informed quantum algorithms for glueball-like excitations in a Z 2 lattice gauge theory](Arastirmalar/2026-Zhang-Physics-informed-quantum-algorithms.md) — Zhang (2026) · *Physical review. D/Physical review. D.* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -93,6 +95,8 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Physics-informed quantum algorithms for glueball-like excitations in a Z 2 lattice gauge theory](Arastirmalar/2026-Zhang-Physics-informed-quantum-algorithms.md) — Zhang (2026) · *Physical review. D/Physical review. D.* · hakemli
+- [Development of an Evaluation Framework for Claimed Quantum Advantage in Quantum Machine Learning Using Published Benchmark Results](Kuantum-Makine-Ogrenmesi/Arastirmalar/2026-Al-Amin-Development-Evaluation-Framework-for.md) — Al-Amin (2026) · *International Journal of Innovative Research in Engineering* · hakemli
 - [Quantum approximate optimization algorithm with cat qubits](Varyasyonel-Kuantum-Algoritmalari/Kuantum-Yaklasik-Optimizasyon-Algoritmasi/Arastirmalar/2026-Vikstal-Quantum-approximate-optimization-algorit.md) — Vikstål vd. (2026) · *Scientific Reports* · hakemli · atıf: 6
 - [Statistical benchmarking of optimization methods for a variational quantum eigensolver under quantum noise](Varyasyonel-Kuantum-Algoritmalari/Varyasyonel-Kuantum-Ozdeger-Cozucu/Arastirmalar/2026-Illesova-Statistical-benchmarking-optimization-m.md) — Illésová vd. (2026) · *Physical Review A* · hakemli · atıf: 14
 - [A Variational Quantum Algorithm for Multi-Skill Project Scheduling](Varyasyonel-Kuantum-Algoritmalari/Arastirmalar/2026-Martinez-Variational-Quantum-Algorithm-for.md) — Martinez vd. (2026) · *arXiv* · ön baskı / hakemsiz

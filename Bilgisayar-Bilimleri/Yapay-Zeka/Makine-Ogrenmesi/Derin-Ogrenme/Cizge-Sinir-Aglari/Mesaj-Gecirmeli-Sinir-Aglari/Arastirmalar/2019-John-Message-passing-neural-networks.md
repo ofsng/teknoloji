@@ -26,6 +26,7 @@ collected_at: 2026-11-23
 last_checked_at: 2026-11-23
 content_verified: false
 identifier_verified: crossref
+retraction_checked: 2026-11-26
 ---
 
 # Message-passing neural networks for high-throughput polymer screening

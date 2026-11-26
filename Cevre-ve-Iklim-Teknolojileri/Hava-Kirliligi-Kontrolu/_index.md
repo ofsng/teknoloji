@@ -79,7 +79,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **2**.
+
+- [Governmentality, Identity, and Air Pollution Control: Listening to Laid-Off and Land-Lost Peasants in China](Arastirmalar/2026-Yang-Governmentality-Identity-and-Air.md) — Yang vd. (2026) · *Environment Science and Policy for Sustainable Development* · hakemli · atıf: 1
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -90,6 +92,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
 - [Simultaneous Ammonia Nitrogen Removal and COD Reduction from Flue-Gas-Desulfurization Wastewater Using KH-550-Modified Tourmaline: Performance and Mechanisms](Baca-Gazi-Kukurt-Giderimi/Arastirmalar/2026-Zhao-Simultaneous-Ammonia-Nitrogen-Removal.md) — Zhao vd. (2026) · *Materials* · hakemli
+- [Governmentality, Identity, and Air Pollution Control: Listening to Laid-Off and Land-Lost Peasants in China](Arastirmalar/2026-Yang-Governmentality-Identity-and-Air.md) — Yang vd. (2026) · *Environment Science and Policy for Sustainable Development* · hakemli · atıf: 1
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

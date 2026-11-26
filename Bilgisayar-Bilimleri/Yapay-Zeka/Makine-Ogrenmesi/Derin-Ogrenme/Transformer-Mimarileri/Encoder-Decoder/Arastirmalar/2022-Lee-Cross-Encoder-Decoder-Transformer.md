@@ -25,7 +25,7 @@ related_versions: []
 collected_at: 2026-11-23
 last_checked_at: 2026-11-23
 content_verified: false
-identifier_verified: false
+identifier_verified: crossref
 ---
 
 # Cross Encoder-Decoder Transformer with Global-Local Visual Extractor for Medical Image Captioning

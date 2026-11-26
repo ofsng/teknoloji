@@ -78,7 +78,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **3**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -89,6 +89,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
 - [Molecular diagnostics and liquid biopsy approaches in diffuse midline glioma: an update and literature review](Molekuler-Teshis/Sivi-Biyopsi/Arastirmalar/2026-Damodharan-Molecular-diagnostics-and-liquid.md) — Damodharan vd. (2026) · *Child s Nervous System* · hakemli
+- [Landscape of HTLV-1 in vitro diagnostic tests](In-Vitro-Teshis/Arastirmalar/2026-Rosadas-Landscape-HTLV-vitro-diagnostic.md) — Rosadas vd. (2026) · *Journal of Clinical Microbiology* · hakemli
 - [Retrospective study of the clinical value of genetic testing in the diagnosis and treatment of lung squamous cell carcinoma](Molekuler-Teshis/Genetik-Test/Arastirmalar/2026-Fang-Retrospective-study-the-clinical.md) — Fang vd. (2026) · *Discover Oncology* · hakemli
 <!-- AUTO:RECENT:END -->
 

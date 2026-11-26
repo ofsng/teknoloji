@@ -84,7 +84,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **4**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **5**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -94,6 +94,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Synthesizing mixed-integer linear programming models from natural language descriptions](Dogrusal-Programlama/Arastirmalar/2026-Li-Synthesizing-mixed-integer-linear.md) — Li vd. (2026) · *INFOR Information Systems and Operational Research* · hakemli · atıf: 46
 - [A multi-objective optimization approach based on HBA-RF for lightweight design of automotive rear seats](Cok-Amacli-Optimizasyon/Arastirmalar/2026-Gao-multi-objective-optimization-approach.md) — Gao vd. (2026) · *Proceedings of the Institution of Mechanical Engineers Part D Journal of Automobile Engineering* · hakemli
 - [Tight convex relaxation-based simplex branch-and-bound algorithm for generalized linear multiplicative programming](Tamsayi-ve-Kombinatoryal-Optimizasyon/Dal-ve-Sinir/Arastirmalar/2026-Zhang-Tight-convex-relaxation-based.md) — Zhang vd. (2026) · *Operations Research Perspectives* · hakemli
 - [Last-Iterate Convergence of Stochastic Gradient Methods for Unbounded Problems](Stokastik-Optimizasyon/Stokastik-Gradyan-Yontemleri/Arastirmalar/2026-Vaidyan-Last-Iterate-Convergence-Stochastic.md) — Vaidyan vd. (2026) · *arXiv* · ön baskı / hakemsiz

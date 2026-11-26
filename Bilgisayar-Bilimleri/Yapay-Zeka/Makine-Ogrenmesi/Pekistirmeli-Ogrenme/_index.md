@@ -85,7 +85,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **16**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **17**.
 
 - [Reinforcement Learning Control of Nonlinear Dynamical Systems: A Dynamics-Oriented Scoping Review](Arastirmalar/2026-Gu-Reinforcement-Learning-Control-Nonlinear.md) — Gu vd. (2026) · *AI* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -98,13 +98,13 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
 - [Enhancing throughput and Fairness in Dense WLANs Using Graph Neural Network-driven Multi-agent Reinforcement Learning](Cok-Etmenli-Pekistirmeli-Ogrenme/Arastirmalar/2026-Gamal-Enhancing-throughput-and-Fairness.md) — Gamal vd. (2026) · *International journal of intelligent engineering and systems* · hakemli
+- [DQLearnCapable: A Comprehensive Intrusion Detection and Prevention System for Network Traffic Analysis using Deep Q-Learning](Deger-Tabanli-Yontemler/Zamansal-Fark-Ogrenmesi/Arastirmalar/2026-Ghani-DQLearnCapable-Comprehensive-Intrusion-Det.md) — Ghani vd. (2026) · *Journal of Computational and Cognitive Engineering* · hakemli
 - [Dance choreography assistance system by hierarchical reinforcement learning and its real-time interaction optimization method](Hiyerarsik-Pekistirmeli-Ogrenme/Arastirmalar/2026-Hua-Dance-choreography-assistance-system.md) — Hua (2026) · *Discover Artificial Intelligence* · hakemli
 - [Multi-Armed Bandit-Based Model Selection for Incremental Phishing Detection: An Empirical Study of Accuracy, Cost, and Concept Drift](Cok-Kollu-Haydutlar/Arastirmalar/2026-Al-Tarawneh-Multi-Armed-Bandit-Based.md) — Al-Tarawneh vd. (2026) · *Information* · hakemli
 - [DreamLander: A 6-DOF World Model based Reinforcement Learning Planetary Lander](Model-Tabanli-Pekistirmeli-Ogrenme/Arastirmalar/2026-Nehma-DreamLander-DOF-World-Model.md) — Nehma vd. (2026) · *Nehma, G.M., Quinn, P., Tiwari, M., & Riano-Rios, C. (2026). DreamLander: A 6-DOF World Model Based Reinforcement Learning Planetary Lander. AIAA SCITECH 2026 Forum* · hakemli
 - [Deep Q-network path planning with stratified sampling and prioritized replay](Deger-Tabanli-Yontemler/Derin-Q-Aglari/Arastirmalar/2026-Zhang-Deep-network-path-planning.md) — Zhang vd. (2026) · *Future Technology* · hakemli
 - [Optimization-based Imitation Learning for Stable Action Generation](Taklit-Ogrenme/Arastirmalar/2026-Heo-Optimization-based-Imitation-Learning.md) — Heo vd. (2026) · *Journal of Institute of Control Robotics and Systems* · hakemli
 - [SEER: A Scalable Event-Driven Runtime for Parallel Execution of Multi-Agent Reinforcement Learning Environments](Cok-Etmenli-Pekistirmeli-Ogrenme/Arastirmalar/2026-Su-SEER-Scalable-Event-Driven.md) — Su vd. (2026) · *arXiv* · ön baskı / hakemsiz
-- [Reinforcement Learning Control of Nonlinear Dynamical Systems: A Dynamics-Oriented Scoping Review](Arastirmalar/2026-Gu-Reinforcement-Learning-Control-Nonlinear.md) — Gu vd. (2026) · *AI* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

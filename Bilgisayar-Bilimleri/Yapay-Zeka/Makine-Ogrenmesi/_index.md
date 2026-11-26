@@ -96,7 +96,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **189**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **193**.
 
 - [Improving the Methodological, Information and Software Technology Support for Statistics Using the Analytical Capabilities of Artificial Intelligence and Machine Learning](Arastirmalar/2026-Khoroshilov-Improving-the-Methodological-Informa.md) — Khoroshilov vd. (2026) · *Statistics and Economics* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -109,13 +109,13 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
 - [Enhancing throughput and Fairness in Dense WLANs Using Graph Neural Network-driven Multi-agent Reinforcement Learning](Pekistirmeli-Ogrenme/Cok-Etmenli-Pekistirmeli-Ogrenme/Arastirmalar/2026-Gamal-Enhancing-throughput-and-Fairness.md) — Gamal vd. (2026) · *International journal of intelligent engineering and systems* · hakemli
+- [DQLearnCapable: A Comprehensive Intrusion Detection and Prevention System for Network Traffic Analysis using Deep Q-Learning](Pekistirmeli-Ogrenme/Deger-Tabanli-Yontemler/Zamansal-Fark-Ogrenmesi/Arastirmalar/2026-Ghani-DQLearnCapable-Comprehensive-Intrusion-Det.md) — Ghani vd. (2026) · *Journal of Computational and Cognitive Engineering* · hakemli
+- [ECoT: Explicit Chain-of-Thought Reasoning for Zero-Shot Composed Image Retrieval](Temel-Modeller/Buyuk-Dil-Modelleri/LLM-Akil-Yurutme-Yontemleri/Arastirmalar/2026-Xu-ECoT-Explicit-Chain-Thought.md) — Xu vd. (2026) · *Algorithms* · hakemli
+- [Motion-guided semi-supervised learning with dynamic kernels for cardiac cine segmentation](Yari-Gozetimli-Ogrenme/Arastirmalar/2026-Li-Motion-guided-semi-supervised.md) — Li vd. (2026) · *Physics in Medicine and Biology* · hakemli
 - [An Improved Systolic Array for Efficient Depthwise Separable Convolution](Derin-Ogrenme/Evrisimli-Sinir-Aglari/Derinlik-Ayrilabilir-Evrisimler/Arastirmalar/2026-Jo-Improved-Systolic-Array-for.md) — Jo vd. (2026) · *한국통신학회논문지* · hakemli
 - [Dual Active Learning for Reinforcement Learning from Human Feedback](Temel-Modeller/Buyuk-Dil-Modelleri/LLM-Hizalama/Insan-Geri-Bildiriminden-Pekistirmeli-Ogrenme/Arastirmalar/2026-Liu-Dual-Active-Learning-for.md) — Liu vd. (2026) · *Operations Research* · hakemli · atıf: 28
 - [Lossless Latent Diffusion Models](Derin-Ogrenme/Uretken-Modeller/Difuzyon-Modelleri/Gizil-Difuzyon-Modelleri/Arastirmalar/2026-Xu-Lossless-Latent-Diffusion-Models.md) — Xu vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [FLowRA: Flow-Guided Rank Allocation for Parameter-Efficient Fine-Tuning of Deep Neural Networks](Temel-Modeller/Buyuk-Dil-Modelleri/Parametre-Verimli-Ince-Ayar/Arastirmalar/2026-Samarin-FLowRA-Flow-Guided-Rank.md) — Samarin vd. (2026) · *Machine Learning and Knowledge Extraction* · hakemli
-- [Understanding the Fundamental Design Decisions of Retrieval-Augmented Generation Systems](Temel-Modeller/Buyuk-Dil-Modelleri/Erisimle-Zenginlestirilmis-Uretim/Arastirmalar/2026-Zhao-Understanding-the-Fundamental-Design.md) — Zhao vd. (2026) · *ACM Transactions on Software Engineering and Methodology* · hakemli · atıf: 49
-- [Who Punishes LLM Alignment? User Characteristics and the Evaluation of Ethical Response Refusals](Temel-Modeller/Buyuk-Dil-Modelleri/LLM-Hizalama/Arastirmalar/2026-Pasch-Who-Punishes-LLM-Alignment.md) — Pasch vd. (2026) · *International Journal of Human-Computer Interaction* · hakemli
-- [Dance choreography assistance system by hierarchical reinforcement learning and its real-time interaction optimization method](Pekistirmeli-Ogrenme/Hiyerarsik-Pekistirmeli-Ogrenme/Arastirmalar/2026-Hua-Dance-choreography-assistance-system.md) — Hua (2026) · *Discover Artificial Intelligence* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

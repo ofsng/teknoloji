@@ -79,7 +79,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -89,6 +89,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Design-Metric Bias Assessment of Atmospheric Representations for Mars Entry, Descent, and Landing](Giris-Inis-ve-Konma/Arastirmalar/2026-Park-Design-Metric-Bias-Assessment.md) — Park (2026) · *Journal of Spacecraft and Rockets* · hakemli
 - [In Situ Resource Utilization for Agriculture on Mars: Quantifying the Effects of Black Soldier Fly Frass Amendment on Pea Growth in Martian Regolith Simulant](Yerinde-Kaynak-Kullanimi/Arastirmalar/2026-Mendoza-Situ-Resource-Utilization-for.md) — Mendoza vd. (2026) · *New Space* · hakemli
 <!-- AUTO:RECENT:END -->
 

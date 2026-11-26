@@ -75,8 +75,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **2**.
 
+- [Parametric Analysis of Reconfigurable Intelligent Surface-Assisted Millimetre-Wave NOMA Systems: Impact on Spectral Efficiency and Design Optimisation](Arastirmalar/2026-Aderinkola-Parametric-Analysis-Reconfigurable-In.md) — Aderinkola vd. (2026) · *Journal of Science and Technology* · hakemli
 - [Channel Estimation for Active Reconfigurable Intelligent Surfaces Under Amplifier Compression](Arastirmalar/2026-Basheer-Channel-Estimation-for-Active.md) — Basheer vd. (2026) · *Telecom* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
@@ -87,6 +88,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Parametric Analysis of Reconfigurable Intelligent Surface-Assisted Millimetre-Wave NOMA Systems: Impact on Spectral Efficiency and Design Optimisation](Arastirmalar/2026-Aderinkola-Parametric-Analysis-Reconfigurable-In.md) — Aderinkola vd. (2026) · *Journal of Science and Technology* · hakemli
 - [Channel Estimation for Active Reconfigurable Intelligent Surfaces Under Amplifier Compression](Arastirmalar/2026-Basheer-Channel-Estimation-for-Active.md) — Basheer vd. (2026) · *Telecom* · hakemli
 <!-- AUTO:RECENT:END -->
 

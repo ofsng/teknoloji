@@ -82,7 +82,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **25**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **26**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -92,6 +92,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Ultrafast valley-mediated charge transfer and relaxation in transition-metal-dichalcogenide van der Waals heterostructures](Iki-Boyutlu-Malzemeler/Arastirmalar/2026-Guan-Ultrafast-valley-mediated-charge.md) — Guan vd. (2026) · *Physical review. B./Physical review. B* · hakemli
 - [Engineering and Probing Atomic Defects in Two-Dimensional Transition Metal Dichalcogenides](Iki-Boyutlu-Malzemeler/Gecis-Metali-Dikalkojenitleri/Arastirmalar/2026-Li-Engineering-and-Probing-Atomic.md) — Li vd. (2026) · *Micromachines* · hakemli
 - [Molecular Engineering of Graphene Nanoribbons for Controlled Electronic Structure and Charge Transport](Karbon-Nanomalzemeler/Grafen/Grafen-Nanoseritler/Arastirmalar/2026-Thanasekar-Molecular-Engineering-Graphene-Nanori.md) — Thanasekar vd. (2026) · *Small* · hakemli
 - [Ultra-narrow-gate single-electron transistors based on crossed graphene nanoribbons](Karbon-Nanomalzemeler/Grafen/Grafen-Nanoseritler/Arastirmalar/2026-Wu-Ultra-narrow-gate-single.md) — Wu vd. (2026) · *Quantum Frontiers* · hakemli
@@ -99,7 +100,6 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [Reflective, water-permeable diatomite masks enhancing output voltage of water-floating single-walled carbon nanotube thermoelectric generators](Karbon-Nanomalzemeler/Karbon-Nanotupler/Tek-Duvarli-Karbon-Nanotupler/Arastirmalar/2026-Ochiai-Reflective-water-permeable-diatomite.md) — Ochiai vd. (2026) · *Scientific Reports* · hakemli
 - [Examining the Effect of Hexagonal Boron Nitride on Morphological and Chemical Properties of Biopolymers Using Dual-Beam Methodology](Iki-Boyutlu-Malzemeler/Altigen-Bor-Nitrur/Arastirmalar/2026-Camic-Examining-the-Effect-Hexagonal.md) — Camic (2026) · *Kocaeli Journal of Science and Engineering* · hakemli
 - [Reversible Electric-Field-Induced Changes in the Thermal Resistance of Hexagonal Boron Nitride](Iki-Boyutlu-Malzemeler/Altigen-Bor-Nitrur/Arastirmalar/2026-Schaeffer-Reversible-Electric-Field-Induced.md) — Schaeffer vd. (2026) · *Nano Letters* · hakemli
-- [High-Performance Self-Powered Infrared Photodetector via Semiconducting Graphene Nanoribbon/Germanium Vertical Heterojunctions with Robust Thermal Stability](Karbon-Nanomalzemeler/Grafen/Grafen-Nanoseritler/Arastirmalar/2026-Sun-High-Performance-Self-Powered.md) — Sun vd. (2026) · *ACS Applied Materials & Interfaces* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

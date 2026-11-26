@@ -87,7 +87,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **72**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **74**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -98,13 +98,13 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
 - [Advances in Minimally Invasive Approaches and Precision Medicine for the Management of Venous Thrombophlebitis: A Narrative Review](Hassas-Tip/Arastirmalar/2026-Nakum-Advances-Minimally-Invasive-Approaches.md) — Nakum vd. (2026) · *JOURNAL OF CLINICAL AND DIAGNOSTIC RESEARCH* · hakemli
+- [CAR T-cell Therapy for Acute Myeloid Leukemia: Matching Target, Product and Treatment Context](Ileri-Tedaviler/Hucre-Tedavisi/CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Su-CAR-cell-Therapy-for.md) — Su vd. (2026) · *Stem Cell Reviews and Reports* · hakemli
 - [Implementing a Clinical Decision Support System for Pressure Injury Risk Management in Intensive Care Nursing: A Mixed‐Methods Evaluation](Dijital-Saglik/Saglik-Bilisimi/Klinik-Karar-Destek-Sistemleri/Arastirmalar/2026-Adibelli-Implementing-Clinical-Decision-Support.md) — Adıbelli vd. (2026) · *Journal of Advanced Nursing* · hakemli
 - [What is phage therapy?](Ileri-Tedaviler/Faj-Tedavisi/Arastirmalar/2026-Rose-What-phage-therapy.md) — Rose vd. (2026) · *Archives of Disease in Childhood Education & Practice* · hakemli
 - [Long-term follow-up and late complications of CAR-T cell therapy](Ileri-Tedaviler/Hucre-Tedavisi/CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Fatobene-Long-term-follow-and.md) — Fatobene vd. (2026) · *JOURNAL OF BONE MARROW TRANSPLANTATION AND CELLULAR THERAPY* · hakemli
 - [Prospective digital neurocognitive and patient-reported symptom monitoring in adults scheduled for CAR T-cell therapy: feasibility and exploratory patient-level observations from a single-center cohort](Ileri-Tedaviler/Hucre-Tedavisi/CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Fleischer-Prospective-digital-neurocognitive-and.md) — Fleischer vd. (2026) · *Supportive Care in Cancer* · hakemli
 - [CAR T-Cell Therapy in Multiple Myeloma](Ileri-Tedaviler/Hucre-Tedavisi/CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Maiolino-CAR-Cell-Therapy-Multiple.md) — Maiolino vd. (2026) · *JOURNAL OF BONE MARROW TRANSPLANTATION AND CELLULAR THERAPY* · hakemli
 - [Molecular diagnostics and liquid biopsy approaches in diffuse midline glioma: an update and literature review](Klinik-Teshis/Molekuler-Teshis/Sivi-Biyopsi/Arastirmalar/2026-Damodharan-Molecular-diagnostics-and-liquid.md) — Damodharan vd. (2026) · *Child s Nervous System* · hakemli
-- [Advanced Hybrid Closed-Loop Insulin Delivery System in Asian Patients With Type 1 Diabetes: Exploratory Study](Biyomedikal-Muhendisligi/Yapay-Organlar/Yapay-Pankreas/Arastirmalar/2026-Zeng-Advanced-Hybrid-Closed-Loop.md) — Zeng vd. (2026) · *JMIR Formative Research* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

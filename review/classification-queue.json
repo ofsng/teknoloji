@@ -3463,6 +3463,82 @@
   "url": "https://arxiv.org/abs/2611.24967"
  },
  {
+  "added": "2026-11-26",
+  "arxiv": "2611.31771",
+  "candidates": [
+   [
+    "question-answering",
+    7.9
+   ],
+   [
+    "knowledge-graphs",
+    7.9
+   ],
+   [
+    "sparql",
+    4.47
+   ],
+   [
+    "dense-retrieval",
+    3.5
+   ],
+   [
+    "retrieval-augmented-generation",
+    2.34
+   ],
+   [
+    "large-language-models",
+    2.1
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.31771",
+   "title:sparqlplannedsinglehoptraversaloveraliveknowledgegraphformultihopquestionanswering|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Semantic retrieval struggles with multi-hop question answering on both recall and precision: gold passages are buried among distractors that degrade the reader's answer, and retrieving them requires reasoning over the query rather than matching it. GraphRAG techniques expand semantic retrieval by connecting passages to graph nodes and performing one or more hops of expansion after initial retrieval. This improves recall, but multi-hop expansion becomes expensive and brings additional noise into the retrieved set. We break this tradeoff by \\emph{interleaving} dense retrieval with knowledge-graph traversal for complex multi-hop questions. Dense retrieval locates the first relevant regions of the search space at good recall, while traversal of a pre-existing external KG (Wikidata) restores precision and improves recall by confirming retrieved passages against a reasoning path through the KG. To keep traversal both question-adaptive and reliable, we have an LLM plan it as code generation task for graph traversal in SPARQL format but \\emph{parse rather than execute} the query. On full 1{,}000-question splits under a shared corpus and reader, and with a single configuration applied identically to every dataset, we reach \\textbf{62.5 / 75.1} EM/F1 on HotpotQA, \\textbf{73.5 / 81.0} on 2WikiMultiHopQA, and \\textbf{37.1 / 50.0} on MuSiQue, ahead of reproduced HippoRAG2, T\\textsuperscript{2}RAG, and IRCoT on all three benchmarks. A second, token-matched setting stays ahead of T\\textsuperscript{2}RAG on HotpotQA and 2Wiki while spending roughly its per-query budget. Executing the generated SPARQL instead of parsing it costs up to 11.4 EM, mostly because raw queries return empty results, not because of syntax errors.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.31771",
+   "authors": [
+    "Priyesh Vakharia",
+    "Masud Moshtaghi",
+    "Pratyay Banerjee",
+    "Nicholas Jedema",
+    "Amita Misra",
+    "Ankit Chadha"
+   ],
+   "categories": [
+    "arXiv:cs.CL",
+    "arXiv:cs.AI"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-24",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.31771"
+   ],
+   "title": "SPARQL-Planned Single-Hop Traversal over a Live Knowledge Graph for Multi-Hop Question Answering",
+   "topics": [],
+   "updated_date": "2026-11-24",
+   "url": "https://arxiv.org/abs/2611.31771"
+  },
+  "score": 7.9,
+  "seen": 1,
+  "suggested": "question-answering",
+  "title": "SPARQL-Planned Single-Hop Traversal over a Live Knowledge Graph for Multi-Hop Question Answering",
+  "url": "https://arxiv.org/abs/2611.31771"
+ },
+ {
   "added": "2026-11-14",
   "arxiv": "2511.17433",
   "candidates": [
@@ -5646,6 +5722,61 @@
   "suggested": "generative-models",
   "title": "Generative AI-Driven Parametric Design Optimization Framework for Vehicle Closure Systems",
   "url": "https://arxiv.org/abs/2611.20451"
+ },
+ {
+  "added": "2026-11-26",
+  "arxiv": "2611.31756",
+  "candidates": [
+   [
+    "llm-based-agents",
+    7.26
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.31756",
+   "title:tactbenchtestingadaptiveconversationalthreatsagainsttooluseagents|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "The growing autonomy of AI agents in using external tools and making decisions has created an urgent need for comprehensive safety benchmarks. Existing benchmarks test compromised tool channels or adaptive multi-turn attacks, though they may not capture the unique capabilities of policy-governed tool-use agents, which must resist unauthorized requests without abandoning the legitimate work embedded in the same interaction. To fill this gap, we introduce TACT-Bench, a stateful benchmark built around scenario-specific stories, personas, manipulation tactics, and response-adaptive escalation. Each adversarial task targets an action explicitly prohibited by the policy provided to the assistant, while the policy remains hidden from the attacking user. TACT pairs each adversarial task with at least one benign counterpart, and its adversarial tasks retain authorized ground-truth actions when a compliant resolution remains available. We define these base tasks as TACT-Base. We additionally introduce TACT-TrustPrime, which places an independent benign task before an unrelated attack in the same conversation. We also propose Paired Selective Trustworthiness (PST), which combines explicit safe refusal with demonstrated capability on matched benign tasks, to analyze an agent's overcautiousness and practicality. Averaged across 6 different models as assistants, TACT-Base raises Attack-Induced Failure Rate (AFR) by 17.53% over four compatible attack baselines, and TACT-TrustPrime raises it by a further 17.01%. The two evaluated defense methods reduce AFR by only 8.35%--9.41% on average and do not consistently improve PST, underscoring the need for stronger policy-enforcement methods.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.31756",
+   "authors": [
+    "Ilia Hashemi Rad",
+    "Feijie Wu",
+    "Haoyu Wang",
+    "Jing Gao"
+   ],
+   "categories": [
+    "arXiv:cs.AI",
+    "arXiv:cs.CL",
+    "arXiv:cs.CR"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-24",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.31756"
+   ],
+   "title": "TACT-Bench: Testing Adaptive Conversational Threats against Tool-Use Agents",
+   "topics": [],
+   "updated_date": "2026-11-24",
+   "url": "https://arxiv.org/abs/2611.31756"
+  },
+  "score": 7.26,
+  "seen": 1,
+  "suggested": "llm-based-agents",
+  "title": "TACT-Bench: Testing Adaptive Conversational Threats against Tool-Use Agents",
+  "url": "https://arxiv.org/abs/2611.31756"
  },
  {
   "added": "2026-11-13",
@@ -10010,6 +10141,109 @@
   "url": "https://arxiv.org/abs/2611.29929"
  },
  {
+  "added": "2026-11-26",
+  "arxiv": "2611.31731",
+  "candidates": [
+   [
+    "machine-learning",
+    6.3
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.31731",
+   "title:geosmilestatisticalmodelagnosticinterpretabilitywithlocalexplanationsforgeospatialmachinelearning|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Conventional post-hoc explanation methods were developed largely for non-spatial inputs and often provide limited explicit treatment of geographic context. We introduce Geo-SMILE, a model-agnostic framework that distinguishes substantive Feature explanation from geographic-position response through complementary perturbation branches. The Feature branch masks substantive predictors while retaining observed coordinates; the Geo branch relocates geographic units while holding substantive predictors fixed. Following the statistical-distance-weighted surrogate principle of SMILE, input-distribution Wasserstein distances determine coalition locality weights and weighted Ridge surrogates approximate expected black-box predictions. GeoSensitivity, signed in the keep orientation, quantifies fitted-model responses to geographic-player relocation under the specified design. Across crime prediction in Hull, housing-price prediction in Seattle and ride-hailing demand in Chicago, held-out weighted surrogate fidelity ranges from $R_w^2=0.910$ to $0.989$ in the Feature branch and from $0.842$ to $0.906$ in the Geo branch. The framework makes geographic position an explicit object of post-hoc explanation while requiring separate assessment of interpretation, stability and reference dependence.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.31731",
+   "authors": [
+    "Shadieh Mohammadi",
+    "Koorosh Aslansefat"
+   ],
+   "categories": [
+    "arXiv:cs.LG",
+    "arXiv:cs.AI"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-24",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.31731"
+   ],
+   "title": "Geo-SMILE: Statistical Model-Agnostic Interpretability with Local Explanations for Geospatial Machine Learning",
+   "topics": [],
+   "updated_date": "2026-11-24",
+   "url": "https://arxiv.org/abs/2611.31731"
+  },
+  "score": 6.3,
+  "seen": 1,
+  "suggested": "machine-learning",
+  "title": "Geo-SMILE: Statistical Model-Agnostic Interpretability with Local Explanations for Geospatial Machine Learning",
+  "url": "https://arxiv.org/abs/2611.31731"
+ },
+ {
+  "added": "2026-11-26",
+  "arxiv": "2611.31775",
+  "candidates": [
+   [
+    "programming-languages",
+    6.3
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.31775",
+   "title:definingthemathematicalfamilytreewithaminimalprogramminglanguage|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "I introduce MLISP, a Turing-complete language with nine single-character commands (a b c d f 0 i j k), and use it to define 88 mathematical structures and a family tree of 65 theories that they model, with three aims: Pedagogy: It presents the mathematical structures in a unified way, with standardized presentation tableaus that define them and axiomatized theories that describe them. Connections: It highlights how they are related in the family tree via added symbols, axioms, etc. While the full tree is obviously infinite, its lower parts naturally separate into six main branches: the relational branch, the algebraic branch, the logic branch, the number branch, the set branch and the continuum branch. Foundations: The definitions, key theorems and models of each entry are verified in Lean. Mathematical structures are defined as equivalence classes of presentations, which in a constructivist spirit are defined in a simple, explicit and self-contained way in standardized presentation tableaus with minimal human baggage. For finite structures, the generating functions are defined by lookup tables. For countably infinite ones, they are instead defined computationally using MLISP, since more complex languages such as Lean are massive overkill for rigorously defining standard arithmetic operations (for example, the program \"jibjbfid\" defines subtraction). An interactive version is available at https://tegmark.org/mathtree. The Lean code is public, also verifies the correctness of MLISP and includes 43% of the theorems from Mathlib 2026-10-11. \\end{abstract}",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.31775",
+   "authors": [
+    "Max Tegmark"
+   ],
+   "categories": [
+    "arXiv:cs.PL",
+    "arXiv:math-ph"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-24",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.31775"
+   ],
+   "title": "Defining the mathematical family tree with a minimal programming language",
+   "topics": [],
+   "updated_date": "2026-11-24",
+   "url": "https://arxiv.org/abs/2611.31775"
+  },
+  "score": 6.3,
+  "seen": 1,
+  "suggested": "programming-languages",
+  "title": "Defining the mathematical family tree with a minimal programming language",
+  "url": "https://arxiv.org/abs/2611.31775"
+ },
+ {
   "added": "2026-11-14",
   "arxiv": null,
   "candidates": [
@@ -10967,270 +11201,5 @@
   "suggested": "llm-inference-optimization",
   "title": "ForeSpark: Joint Draft and Verification Budget Scheduling for Parallel Speculative Decoding",
   "url": "https://arxiv.org/abs/2611.13442"
- },
- {
-  "added": "2026-11-06",
-  "arxiv": "2611.05818",
-  "candidates": [
-   [
-    "sensor-fusion",
-    5.7
-   ],
-   [
-    "object-detection",
-    3.1
-   ],
-   [
-    "lidar",
-    0.66
-   ]
-  ],
-  "confidence": "medium",
-  "doi": null,
-  "keys": [
-   "arxiv:2611.05818",
-   "title:navigationalsafetyofmarinesurfacevehiclesinrestrictedvisibilityfromintelligentvisiontovisioncenteredmultisensorfusion|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "Marine surface vehicles (MSVs) have attracted considerable attention for their commercial, scientific, and military applications. Owing to their favorable performance-to-cost ratio, shipboard cameras are widely used to detect and recognize potentially hazardous situations across diverse operational scenarios. However, visual perception is inevitably degraded by restricted conditions, including irregular motion of the imaging platform, adverse weather, and long imaging distances. To improve situational awareness and navigation capabilities, complementary sensors, such as the automatic identification system (AIS), radar, and light detection and ranging (LiDAR), etc., have become essential shipboard equipment. Multi-sensor fusion can provide richer perceptual information and help ensure navigational safety of MSVs in restricted visibility. This article reviews recent progress from intelligent vision to vision-centered multi-sensor fusion for newcomers and researchers in intelligent ship navigation and intelligent waterborne transportation system (IWTS). After introducing the generation of quality-degraded images in restricted visibility, we will review intelligent vision methods for four key issues, i.e., shipboard video stabilization, visual perception enhancement, object detection and tracking, and navigable area segmentation. We then examine vision-centered multi-sensor fusion methods, including infrared-visible image fusion, radar-vision fusion, LiDAR-vision fusion, AIS-vision fusion, and other multi-sensor fusion scenarios. Open-source datasets and safety-critical applications are also summarized and discussed. Finally, we highlight open challenges and future research directions. The collected maritime datasets are available at https://github.com/MAPGroup/Datasets and will be regularly updated.",
-   "abstract_license": "cc0-1.0 (arxiv metadata)",
-   "arxiv": "2611.05818",
-   "authors": [
-    "Ryan Wen Liu",
-    "Fengchuan Song",
-    "Tianxiang Wang",
-    "Guobei Peng",
-    "Youngrong Kim",
-    "Xian Zhong",
-    "Hooi-Siang Kang",
-    "Maohan Liang",
-    "Junzhi Yu",
-    "Shanliang Yao"
-   ],
-   "categories": [
-    "arXiv:cs.CV"
-   ],
-   "cited_by_count": null,
-   "doi": null,
-   "is_retracted": null,
-   "keywords": [],
-   "language": "en",
-   "peer_reviewed": false,
-   "publication": "arXiv",
-   "publication_type": "preprint",
-   "published_date": "2026-11-04",
-   "related_versions": [],
-   "source_ids": [
-    "arxiv:2611.05818"
-   ],
-   "title": "Navigational Safety of Marine Surface Vehicles in Restricted Visibility: From Intelligent Vision to Vision-Centered Multi-Sensor Fusion",
-   "topics": [],
-   "updated_date": "2026-11-04",
-   "url": "https://arxiv.org/abs/2611.05818"
-  },
-  "score": 5.7,
-  "seen": 2,
-  "suggested": "sensor-fusion",
-  "title": "Navigational Safety of Marine Surface Vehicles in Restricted Visibility: From Intelligent Vision to Vision-Centered Multi-Sensor Fusion",
-  "url": "https://arxiv.org/abs/2611.05818"
- },
- {
-  "added": "2026-11-06",
-  "arxiv": "2611.06098",
-  "candidates": [
-   [
-    "visual-analytics",
-    5.7
-   ],
-   [
-    "analysis",
-    0.26
-   ]
-  ],
-  "confidence": "medium",
-  "doi": null,
-  "keys": [
-   "arxiv:2611.06098",
-   "title:towardsinsightcentricdataspacesintegratingvisualanalyticsanddecentralizeddataecosystems|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "Visual analytics and dataspaces address complementary challenges in modern data ecosystems: visual analytics enables interactive exploration and human-centered reasoning over complex data, dataspaces provide decentralized infrastructures for sovereign and collaborative data sharing. Both fields have largely evolved independently, resulting in a gap between data management and data understanding in distributed environments.We explore their intersection and argue that integration is essential for next-generation data ecosystems. Visual analytics acts as a cognitive layer for dataspaces by making data availability, quality, provenance, and exchange processes observable and interpretable, while dataspaces reshape visual analytics by introducing decentralized, heterogeneous, and governed data environments. We illustrate this interplay through a semi-synthetic cultural dataspace scenario analyzing exchange patterns and metadata quality across a federated ecosystem. Based on these insights, we identify key open challenges and outline a vision of insight-centric data spaces, in which data management and analysis are tightly integrated into a unified, human-centered environment.",
-   "abstract_license": "cc0-1.0 (arxiv metadata)",
-   "arxiv": "2611.06098",
-   "authors": [
-    "Christina Faßbender",
-    "Benjamin Greiner",
-    "Benedikt T. Arnold",
-    "Georgios Toubekis",
-    "Christoph Lange"
-   ],
-   "categories": [
-    "arXiv:cs.GR"
-   ],
-   "cited_by_count": null,
-   "doi": null,
-   "is_retracted": null,
-   "keywords": [],
-   "language": "en",
-   "peer_reviewed": false,
-   "publication": "arXiv",
-   "publication_type": "preprint",
-   "published_date": "2026-11-04",
-   "related_versions": [],
-   "source_ids": [
-    "arxiv:2611.06098"
-   ],
-   "title": "Towards Insight-Centric Data Spaces: Integrating Visual Analytics and Decentralized Data Ecosystems",
-   "topics": [],
-   "updated_date": "2026-11-04",
-   "url": "https://arxiv.org/abs/2611.06098"
-  },
-  "score": 5.7,
-  "seen": 2,
-  "suggested": "visual-analytics",
-  "title": "Towards Insight-Centric Data Spaces: Integrating Visual Analytics and Decentralized Data Ecosystems",
-  "url": "https://arxiv.org/abs/2611.06098"
- },
- {
-  "added": "2026-11-16",
-  "arxiv": "2510.20096",
-  "candidates": [
-   [
-    "quantum-communication",
-    3.9
-   ],
-   [
-    "molecular-physics",
-    3.1
-   ],
-   [
-    "phase-shift-keying",
-    1.12
-   ],
-   [
-    "cryptography",
-    0.26
-   ]
-  ],
-  "confidence": "medium",
-  "doi": "10.1103/7s87-sr4z",
-  "keys": [
-   "arxiv:2510.20096",
-   "doi:10.1103/7s87-sr4z",
-   "title:allgaussianstatediscriminationbeyondthecoherenthelstrombound|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "A core problem in communications is the optimal discrimination of binary-phase-shift-keyed (BPSK) signals. A longstanding goal has been to reach the fundamental quantum limit, known as the Helstrom bound, for BPSK signals encoded in coherent states. However, due to technical constraints, proposals for reaching the bound remain impractical. In this letter we take an alternative approach: using only Gaussian optics - displaced squeezed states and homodyne detection - we achieve discrimination of BPSK signals with error rates below what can be achieved using coherent states and any quantum measurement.",
-   "abstract_license": "cc-by",
-   "arxiv": "2510.20096",
-   "authors": [
-    "Angus Walsh",
-    "Lorcán O. Conlon",
-    "Biveen Shajilal",
-    "Özlem Erkılıç",
-    "Jiří Janoušek",
-    "Syed M. Assad",
-    "Jie Zhao",
-    "Ping Koy Lam"
-   ],
-   "categories": [
-    "OpenAlex-field:Physics and Astronomy"
-   ],
-   "cited_by_count": 8,
-   "doi": "10.1103/7s87-sr4z",
-   "is_retracted": false,
-   "keywords": [
-    "quantum state discrimination",
-    "Helstrom bound",
-    "BPSK",
-    "coherent states",
-    "displaced squeezed states",
-    "homodyne detection",
-    "Gaussian optics",
-    "quantum communication"
-   ],
-   "language": "en",
-   "oa_created": "2025-10-25",
-   "peer_reviewed": true,
-   "publication": "Physical Review Research",
-   "publication_type": "article",
-   "published_date": "2026-11-13",
-   "related_versions": [],
-   "source_ids": [
-    "openalex:W4416618334"
-   ],
-   "title": "All-gaussian state discrimination beyond the coherent helstrom bound",
-   "topics": [
-    "Quantum Information and Cryptography",
-    "Atomic and Molecular Physics, and Optics"
-   ],
-   "updated_date": "2026-11-15",
-   "url": "https://doi.org/10.1103/7s87-sr4z"
-  },
-  "score": 3.9,
-  "seen": 1,
-  "suggested": "quantum-communication",
-  "title": "All-gaussian state discrimination beyond the coherent helstrom bound",
-  "url": "https://doi.org/10.1103/7s87-sr4z"
- },
- {
-  "added": "2026-11-08",
-  "arxiv": null,
-  "candidates": [
-   [
-    "life-cycle-assessment",
-    4.95
-   ]
-  ],
-  "confidence": "medium",
-  "doi": "10.70382/tijbees.v13i4.0113",
-  "keys": [
-   "doi:10.70382/tijbees.v13i4.0113",
-   "title:lifecycleassessmentandthermalperformanceoflocallysourcedwallingmaterialsforlowcarbonresidentialbuildingsinnortheastnigeria|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "Walling specification in North-East Nigeria proceeds largely on grounds of cost and familiarity rather than measured environmental or thermal evidence, and the embodied and operational burdens of the choice are conventionally assessed in separate literatures. This study evaluated four locally sourced walling materials, namely sandcrete block as the conventional control, compressed stabilised earth block (CSEB), burnt clay brick and adobe or laterite block, against five criteria within a single framework: cradle-to-gate embodied carbon, thermal transmittance, indoor operative temperature, annual cooling energy demand and unit cost. Thermophysical properties were measured on twelve specimens to ASTM C518, embodied carbon was computed to ISO 14040 on a functional unit of one square metre of finished wall using locally adjusted inventory coefficients, and four otherwise identical cases of a three-bedroom prototype were simulated in EnergyPlus over 8,760 hours under the Maiduguri weather file, with unit cost established from a structured vendor survey in Biu and Maiduguri. Criteria were min-max normalised and aggregated using analytic hierarchy process weights, with robustness tested across six weighting scenarios. Transmittance discriminated poorly, the four U-values spanning only thirteen per cent, whereas the dynamic characteristics separated the materials sharply: the hollow sandcrete section returned a time lag of 5.9 hours and a decrement factor of 0.592 against 8.9 hours and 0.331 for CSEB. Embodied carbon ranged from 10.7 kg CO₂e m⁻² for adobe to 118.4 for burnt clay brick, driven almost entirely by clamp-kiln firing. CSEB reduced annual cooling demand by 12.2 per cent and discomfort intensity by 23.1 per cent relative to the control. Adobe returned the highest composite index but failed the NIS 87:2007 compressive strength minimum and was therefore excluded, leaving CSEB as the recommended specification.",
-   "abstract_license": "cc-by",
-   "arxiv": null,
-   "authors": [
-    "ALI KOLO MUKTAR",
-    "MUHAMMAD TIJJANI",
-    "MOHAMMED KABIR",
-    "CHARLES ADAMU BALAMI"
-   ],
-   "categories": [
-    "OpenAlex-field:Engineering"
-   ],
-   "cited_by_count": 0,
-   "doi": "10.70382/tijbees.v13i4.0113",
-   "is_retracted": false,
-   "keywords": [],
-   "language": "en",
-   "oa_created": "2026-11-07",
-   "peer_reviewed": true,
-   "publication": "International Journal of Built Environment and Earth Science",
-   "publication_type": "article",
-   "published_date": "2026-11-04",
-   "related_versions": [],
-   "source_ids": [
-    "openalex:W7225376403"
-   ],
-   "title": "LIFE-CYCLE ASSESSMENT AND THERMAL PERFORMANCE OF LOCALLY SOURCED WALLING MATERIALS FOR LOW-CARBON RESIDENTIAL BUILDINGS IN NORTH-EAST NIGERIA",
-   "topics": [
-    "Hygrothermal properties of building materials",
-    "Building and Construction"
-   ],
-   "updated_date": "2026-11-07",
-   "url": "https://doi.org/10.70382/tijbees.v13i4.0113"
-  },
-  "score": 4.95,
-  "seen": 1,
-  "suggested": "life-cycle-assessment",
-  "title": "LIFE-CYCLE ASSESSMENT AND THERMAL PERFORMANCE OF LOCALLY SOURCED WALLING MATERIALS FOR LOW-CARBON RESIDENTIAL BUILDINGS IN NORTH-EAST NIGERIA",
-  "url": "https://doi.org/10.70382/tijbees.v13i4.0113"
  }
 ]

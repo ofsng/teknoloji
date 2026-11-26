@@ -94,7 +94,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **33**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **37**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -104,14 +104,14 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [BoolFunc-EA: A Boolean–evolutionary approach for accurate inference of gene regulatory networks from time-series gene expression data](Biyoenformatik-ve-Hesaplamali-Biyoloji/Sistem-Biyolojisi/Gen-Duzenleyici-Aglar/Arastirmalar/2026-Barman-BoolFunc-Booleanevolutionary-approach-for.md) — Barman vd. (2026) · *PLoS ONE* · hakemli
+- [NanoHIV-DR: a Nextflow workflow for consensus and read level HIV-1 drug resistance profiling from Oxford Nanopore sequencing](Genetik-ve-Genomik/DNA-Dizileme/Uzun-Okuma-Dizileme/Nanopor-Dizileme/Arastirmalar/2026-Bugembe-NanoHIV-Nextflow-workflow-for.md) — Bugembe vd. (2026) · *bioRxiv (Cold Spring Harbor Laboratory)* · ön baskı / hakemsiz
+- [Building without Cells: Integrating Biomolecules, Synthetic Materials, and Devices into Cell-Free Systems](Sentetik-Biyoloji/Hucresiz-Sistemler/Arastirmalar/2026-Matsuura-Building-without-Cells-Integrating.md) — Matsuura vd. (2026) · *ACS Synthetic Biology* · hakemli
 - [Dominant resistance alleles accelerate population suppression by CRISPR-based gene drive](Genetik-ve-Genomik/Genom-Muhendisligi/Gen-Suruculeri/Arastirmalar/2026-Chen-Dominant-resistance-alleles-accelerate.md) — Chen vd. (2026) · *iScience* · hakemli · atıf: 1
 - [HARICOT: De Novo Assembly of Raw Nanopore Signals using Fuzzy de Bruijn Graphs](Biyoenformatik-ve-Hesaplamali-Biyoloji/Dizi-Analizi/Genom-Birlestirme/Arastirmalar/2026-McConnell-HARICOT-Novo-Assembly-Raw.md) — McConnell vd. (2026) · *bioRxiv (Cold Spring Harbor Laboratory)* · ön baskı / hakemsiz
 - [Metabolic Engineering of Yarrowia lipolytica to Enhance Erythritol Biosynthesis](Endustriyel-Biyoteknoloji/Metabolik-Muhendislik/Arastirmalar/2026-Sun-Metabolic-Engineering-Yarrowia-lipolytica.md) — Sun vd. (2026) · *ACS Omega* · hakemli
 - [Protocol for CRISPR-Cas9 gene editing of murine neutrophils for in vitro and in vivo mechanistic studies](Genetik-ve-Genomik/Genom-Muhendisligi/Gen-Duzenleme/CRISPR-Cas-Sistemleri/CRISPR-Cas9/Arastirmalar/2026-Siwicki-Protocol-for-CRISPR-Cas9.md) — Siwicki vd. (2026) · *STAR Protocols* · hakemli
 - [Tuned Fitness Landscapes for Benchmarking Model-Guided Protein Design](Yapisal-Biyoloji/Protein-Tasarimi/Arastirmalar/2026-Thomas-Tuned-Fitness-Landscapes-for.md) — Thomas vd. (2026) · *Genetics* · hakemli · atıf: 7
-- [Cerebra: A computationally efficient framework for accurate protein structure prediction](Yapisal-Biyoloji/Protein-Yapi-Tahmini/Arastirmalar/2026-Hu-Cerebra-computationally-efficient-framework.md) — Hu vd. (2026) · *Protein Science* · hakemli · atıf: 5
-- [Base editing-mediated precision genome engineering in Toxoplasma gondii](Genetik-ve-Genomik/Genom-Muhendisligi/Gen-Duzenleme/CRISPR-Cas-Sistemleri/Baz-Duzenleme/Arastirmalar/2026-Liu-Base-editing-mediated-precision.md) — Liu vd. (2026) · *PLoS neglected tropical diseases* · hakemli
-- [A New Era in Therapeutics: Current Status of RNA Interference-Based Drugs](Molekuler-Biyoloji/Gen-Ifadesi-ve-Duzenlenmesi/RNA-Biyolojisi/RNA-Girisimi/Arastirmalar/2026-Koyluoglu-New-Era-Therapeutics-Current.md) — Köylüoğlu vd. (2026) · *Pharmata* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

@@ -80,7 +80,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -90,6 +90,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Influence of noninertial dynamics on static quantum resource theories](Kuantum-Kaynak-Teorileri/Arastirmalar/2026-Harikrishnan-Influence-noninertial-dynamics-stat.md) — Harikrishnan vd. (2026) · *Proceedings of the National Academy of Sciences* · hakemli · atıf: 1
 - [Optimal learning of quantum channels in diamond distance](Kuantum-Kanallari/Arastirmalar/2026-Mele-Optimal-learning-quantum-channels.md) — Mele vd. (2026) · *Nature Physics* · hakemli · atıf: 33
 <!-- AUTO:RECENT:END -->
 

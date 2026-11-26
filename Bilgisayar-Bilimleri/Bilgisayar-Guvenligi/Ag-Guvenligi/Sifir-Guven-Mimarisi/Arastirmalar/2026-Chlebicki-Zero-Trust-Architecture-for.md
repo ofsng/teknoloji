@@ -25,7 +25,8 @@ related_versions: []
 collected_at: 2026-11-25
 last_checked_at: 2026-11-25
 content_verified: false
-identifier_verified: false
+identifier_verified: crossref
+retraction_checked: 2026-11-26
 ---
 
 # A Zero-Trust Architecture for Multinational Military Logistics Data Exchange: A Breach-Propagation Model of Coalition Cyber Resilience

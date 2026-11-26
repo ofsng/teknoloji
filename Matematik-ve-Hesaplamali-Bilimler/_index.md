@@ -93,7 +93,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **26**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **28**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -103,6 +103,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Synthesizing mixed-integer linear programming models from natural language descriptions](Optimizasyon/Dogrusal-Programlama/Arastirmalar/2026-Li-Synthesizing-mixed-integer-linear.md) — Li vd. (2026) · *INFOR Information Systems and Operational Research* · hakemli · atıf: 46
 - [Spatio-temporal Hawkes point processes: statistical inference and simulation strategies](Olasilik-Teorisi/Stokastik-Surecler/Nokta-Surecleri/Arastirmalar/2026-Bernabeu-Spatio-temporal-Hawkes-point.md) — Bernabeu vd. (2026) · *Communications in Statistics - Simulation and Computation* · hakemli · atıf: 3
 - [Quantum-enhanced Markov Chain Monte Carlo for Combinatorial Optimization](Istatistik/Istatistiksel-Cikarim/Bayesci-Istatistik/Markov-Zinciri-Monte-Carlo/Arastirmalar/2026-Marshall-Quantum-enhanced-Markov-Chain.md) — Marshall vd. (2026) · *Physical Review Research* · hakemli · atıf: 11
 - [Inference on the significance of modalities in multimodal generalized linear models](Istatistik/Regresyon-Analizi/Genellestirilmis-Dogrusal-Modeller/Arastirmalar/2026-Jin-Inference-the-significance-modalities.md) — Jin vd. (2026) · *Statistical Theory and Related Fields* · hakemli · atıf: 1
@@ -110,7 +111,6 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [Generalized Multiscale Finite Element Method for Multicontinuum Time-Fractional Diffusion Model](Sayisal-Analiz/KDD-Sayisal-Yontemleri/Sonlu-Elemanlar-Yontemi/Arastirmalar/2026-Kalachikova-Generalized-Multiscale-Finite-Elemen.md) — Kalachikova vd. (2026) · *Advances in Applied Mathematics and Mechanics* · hakemli
 - [Extreme Local Statistics in Random Graphs: Maximum Tree Extension Counts](Ayrik-Matematik/Cizge-Teorisi/Rastgele-Cizgeler/Arastirmalar/2026-Araujo-Extreme-Local-Statistics-Random.md) — Araújo vd. (2026) · *Random Structures and Algorithms* · hakemli · atıf: 2
 - [Bayesian parameter estimation of SIR and SIRD models for COVID-19 in Indonesia using Metropolis–Hastings and Hamiltonian Monte Carlo](Istatistik/Istatistiksel-Cikarim/Bayesci-Istatistik/Markov-Zinciri-Monte-Carlo/Hamilton-Monte-Carlo/Arastirmalar/2026-Naftali-Bayesian-parameter-estimation-SIR.md) — Naftali vd. (2026) · *Communications in Mathematical Biology and Neuroscience* · hakemli
-- [On the Arithmetic Properties of A Truncated Power-Residue Function and Related Diophantine Equations](Sayilar-Teorisi/Diofant-Denklemleri/Arastirmalar/2026-Bouderbala-the-Arithmetic-Properties-Truncated.md) — Bouderbala vd. (2026) · *Annales Mathematicae Silesianae* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

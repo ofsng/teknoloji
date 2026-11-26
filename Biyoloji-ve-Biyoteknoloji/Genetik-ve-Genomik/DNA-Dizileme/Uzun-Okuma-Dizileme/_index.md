@@ -76,7 +76,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **2**.
 
 - [Long-read sequencing of the Amami rabbit mitochondrial genome reveals extensive tandem repeats in the D-loop region overlooked in previous assemblies](Arastirmalar/2026-Aoto-Long-read-sequencing-the.md) — Aoto vd. (2026) · *Scientific Reports* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -88,6 +88,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [NanoHIV-DR: a Nextflow workflow for consensus and read level HIV-1 drug resistance profiling from Oxford Nanopore sequencing](Nanopor-Dizileme/Arastirmalar/2026-Bugembe-NanoHIV-Nextflow-workflow-for.md) — Bugembe vd. (2026) · *bioRxiv (Cold Spring Harbor Laboratory)* · ön baskı / hakemsiz
 - [Long-read sequencing of the Amami rabbit mitochondrial genome reveals extensive tandem repeats in the D-loop region overlooked in previous assemblies](Arastirmalar/2026-Aoto-Long-read-sequencing-the.md) — Aoto vd. (2026) · *Scientific Reports* · hakemli
 <!-- AUTO:RECENT:END -->
 

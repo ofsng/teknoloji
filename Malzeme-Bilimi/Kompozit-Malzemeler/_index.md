@@ -80,7 +80,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **3**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -91,6 +91,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
 - [Thermal Barrier Coatings (TBC) For Carbon Fiber-Reinforced Polymer (CFRP) Composites: A Review](Polimer-Matrisli-Kompozitler/Karbon-Fiber-Takviyeli-Polimerler/Arastirmalar/2026-Mahardika-Thermal-Barrier-Coatings-TBC.md) — Mahardika vd. (2026) · *International Journal of Health Sciences* · hakemli
+- [Effect of deformation and subsequent annealing on the microstructure and mechanical properties of a metal-matrix composite based on the Ti18Nb8Zr alloy reinforced with borides](Metal-Matrisli-Kompozitler/Arastirmalar/2026-Ozerov-Effect-deformation-and-subsequent.md) — Ozerov vd. (2026) · *Powder Metallurgy аnd Functional Coatings* · hakemli
 - [Distribution-Aware Estimation of A-/B-Basis Characteristic Values for Natural-Fiber Composite Laminates from Single-Source Tensile Data](Dogal-Lif-Kompozitleri/Arastirmalar/2026-Tiwari-Distribution-Aware-Estimation-Basis.md) — Tiwari vd. (2026) · *Polymers* · hakemli
 <!-- AUTO:RECENT:END -->
 

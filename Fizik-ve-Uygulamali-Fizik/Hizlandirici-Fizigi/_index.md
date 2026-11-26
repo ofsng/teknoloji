@@ -81,7 +81,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **3**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -93,6 +93,7 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 
 - [Searches for heavy neutral lepton decays at spallation neutron sources](Parcalanma-Notron-Kaynaklari/Arastirmalar/2026-Romeri-Searches-for-heavy-neutral.md) — Romeri vd. (2026) · *Physical review. D/Physical review. D.* · hakemli · atıf: 1
 - [High-transformer-ratio plasma-based afterburner for extending X-ray free-electron laser photon energies to $\gtrsim$50 keV](Serbest-Elektron-Lazerleri/Arastirmalar/2026-Han-High-transformer-ratio-plasma.md) — Han vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [Demonstration of a 10-metre-long discharge plasma source for plasma wakefield acceleration](Plazma-Uyanik-Alani-Hizlandirma/Arastirmalar/2026-Amoedo-Demonstration-metre-long-discharge.md) — Amoedo vd. (2026) · *arXiv* · ön baskı / hakemsiz
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

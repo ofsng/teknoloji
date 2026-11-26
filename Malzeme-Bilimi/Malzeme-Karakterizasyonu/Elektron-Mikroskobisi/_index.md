@@ -78,7 +78,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **3**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **4**.
 
 - [From Conventional Image Processing to Artificial Intelligence in Electron Microscopy: Toward Robust, Automated, and Enhanced Materials Characterization Through Insights from Medical and Biological Imaging](Arastirmalar/2026-Nieto-From-Conventional-Image-Processing.md) — Nieto vd. (2026) · *Materials* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -92,6 +92,7 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 
 - [A Comprehensive Training Course from the Production of Membrane Bound Proteins to Single Particle Cryo-Electron Microscopy 3D Reconstruction](Kriyo-Elektron-Mikroskobisi/Arastirmalar/2026-Valimehr-Comprehensive-Training-Course-from.md) — Valimehr vd. (2026) · *Journal of Chemical Education* · hakemli
 - [Unsupervised reward-driven image segmentation in automated scanning transmission electron microscopy experiments](Gecirimli-Elektron-Mikroskobisi/Arastirmalar/2026-Barakati-Unsupervised-reward-driven-image.md) — Barakati vd. (2026) · *Nanotechnology* · hakemli · atıf: 8
+- [Redescription of the First Zoeal Stage of Shrimp Cinetorhynchus rigens (Gordon, 1936) (Decapoda: Rhynchocinetidae) and New Perspectives Including Scanning Electron Microscopy](Taramali-Elektron-Mikroskobisi/Arastirmalar/2026-Mendes-Redescription-the-First-Zoeal.md) — Mendes vd. (2026) · *Acta Zoologica* · hakemli
 - [From Conventional Image Processing to Artificial Intelligence in Electron Microscopy: Toward Robust, Automated, and Enhanced Materials Characterization Through Insights from Medical and Biological Imaging](Arastirmalar/2026-Nieto-From-Conventional-Image-Processing.md) — Nieto vd. (2026) · *Materials* · hakemli
 <!-- AUTO:RECENT:END -->
 

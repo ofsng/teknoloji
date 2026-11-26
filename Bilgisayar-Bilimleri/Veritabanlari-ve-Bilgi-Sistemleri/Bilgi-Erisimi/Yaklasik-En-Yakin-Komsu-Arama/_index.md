@@ -78,7 +78,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **2**.
 
 - [SJG: A Skyline Joint Graph for Multi-Component Approximate Nearest Neighbor Search](Arastirmalar/2026-Ma-SJG-Skyline-Joint-Graph.md) — Ma vd. (2026) · *arXiv* · ön baskı / hakemsiz
 <!-- AUTO:RESEARCH:END -->
@@ -91,6 +91,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
 - [SJG: A Skyline Joint Graph for Multi-Component Approximate Nearest Neighbor Search](Arastirmalar/2026-Ma-SJG-Skyline-Joint-Graph.md) — Ma vd. (2026) · *arXiv* · ön baskı / hakemsiz
+- [Cross-Layer BLE Device-Type Identification via Locality-Sensitive Hashing for IoT Security](Yerellige-Duyarli-Karma/Arastirmalar/2026-Saadouni-Cross-Layer-BLE-Device.md) — Saadouni vd. (2026) · *Sensors* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

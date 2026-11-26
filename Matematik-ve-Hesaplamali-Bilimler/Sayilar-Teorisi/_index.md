@@ -79,7 +79,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -90,6 +90,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
 - [On the Arithmetic Properties of A Truncated Power-Residue Function and Related Diophantine Equations](Diofant-Denklemleri/Arastirmalar/2026-Bouderbala-the-Arithmetic-Properties-Truncated.md) — Bouderbala vd. (2026) · *Annales Mathematicae Silesianae* · hakemli
+- [Rational points on modular curves via maps to elliptic curves with rank zero](Eliptik-Egriler/Arastirmalar/2026-Mayle-Rational-points-modular-curves.md) — Mayle vd. (2026) · *arXiv* · ön baskı / hakemsiz
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

@@ -80,7 +80,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **3**.
+Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **4**.
 
 - [PROPEL: A Memory-Driven, Adaptive Vector-Flow-Field Router with Process-Aware Waveguide Generation for Large-Scale Photonic Integrated Circuits](Arastirmalar/2026-Akib-PROPEL-Memory-Driven-Adaptive.md) — Akib vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [Design and automated testing of foundry-based high-contrast photonic integrated circuit distributed Bragg reflectors](Arastirmalar/2026-Blatcher-Design-and-automated-testing.md) — Blatcher vd. (2026) · *Journal of Optics* · hakemli
@@ -93,6 +93,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Optical Scale-Up Networks for AI Clusters: A Review of Co-Packaged Optics and Emerging Light Sources](Ortak-Paketli-Optik/Arastirmalar/2026-Liao-Optical-Scale-Networks-for.md) — Liao vd. (2026) · *Photonics* · hakemli
 - [ANALYSIS OF ELECTRIC CROSSTALK IN SILICON PHOTONIC INTEGRATED CIRCUITS](Silisyum-Fotonik/Arastirmalar/2026-Abaychi-ANALYSIS-ELECTRIC-CROSSTALK-SILICON.md) — Abaychi vd. (2026) · *Kufa Journal of Engineering* · hakemli
 - [Design and automated testing of foundry-based high-contrast photonic integrated circuit distributed Bragg reflectors](Arastirmalar/2026-Blatcher-Design-and-automated-testing.md) — Blatcher vd. (2026) · *Journal of Optics* · hakemli
 - [PROPEL: A Memory-Driven, Adaptive Vector-Flow-Field Router with Process-Aware Waveguide Generation for Large-Scale Photonic Integrated Circuits](Arastirmalar/2026-Akib-PROPEL-Memory-Driven-Adaptive.md) — Akib vd. (2026) · *arXiv* · ön baskı / hakemsiz
