@@ -25,7 +25,7 @@ related_versions: []
 collected_at: 2026-11-25
 last_checked_at: 2026-11-25
 content_verified: false
-identifier_verified: false
+identifier_verified: crossref
 ---
 
 # Quantum Tunnelling: Quantum Mechanics Principles and its Applications in Nuclear Physics

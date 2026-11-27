@@ -79,7 +79,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **2**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **3**.
 
 - [Experimental Assessment of Heat Transfer Enhancement in an Air Duct Using Removable Helical Rib Inserts with Pitch Ratios](Arastirmalar/2026-Hamad-Experimental-Assessment-Heat-Transfer.md) — Hamad vd. (2026) · *Journal of Engineering Research and Reports* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -92,6 +92,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
 - [A direct experimental link between three-phase contact line behavior and microscale heat transfer mechanisms beneath individual bubbles](Mikro-Olcekli-Isi-Transferi/Arastirmalar/2026-Roodbari-direct-experimental-link-between.md) — Roodbari vd. (2026) · *International Journal of Heat and Mass Transfer* · hakemli
+- [A Bernoulli wavelet approach to MHD Casson fluid flow over an exponentially stretching sheet with thermal radiation and heat source](Isil-Isinim/Arastirmalar/2026-DL-Bernoulli-wavelet-approach-MHD.md) — DL vd. (2026) · *Arab Journal of Basic and Applied Sciences* · hakemli
 - [Experimental Assessment of Heat Transfer Enhancement in an Air Duct Using Removable Helical Rib Inserts with Pitch Ratios](Arastirmalar/2026-Hamad-Experimental-Assessment-Heat-Transfer.md) — Hamad vd. (2026) · *Journal of Engineering Research and Reports* · hakemli
 <!-- AUTO:RECENT:END -->
 

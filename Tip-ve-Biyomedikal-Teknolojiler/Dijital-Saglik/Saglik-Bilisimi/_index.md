@@ -77,7 +77,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **7**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **8**.
 
 - [Outpatient Care and Telehealth for Healthcare Transformation in Nigeria: A Narrative Review of Health Informatics Challenges and Opportunities](Arastirmalar/2026-Odis-Outpatient-Care-and-Telehealth.md) — Odis (2026) · *InfoScience Trends* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -89,6 +89,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Electronic Health Record Integration and Usability of External Clinical Information Among US Office-Based Physicians: A Cross-Sectional Study](Elektronik-Saglik-Kayitlari/Arastirmalar/2026-Hamasaki-Electronic-Health-Record-Integration.md) — Hamasaki (2026) · *Healthcare* · hakemli
 - [Implementing a Clinical Decision Support System for Pressure Injury Risk Management in Intensive Care Nursing: A Mixed‐Methods Evaluation](Klinik-Karar-Destek-Sistemleri/Arastirmalar/2026-Adibelli-Implementing-Clinical-Decision-Support.md) — Adıbelli vd. (2026) · *Journal of Advanced Nursing* · hakemli
 - [Multi-Modal AI-Based Healthcare Diagnostic and Clinical Decision Support System](Klinik-Karar-Destek-Sistemleri/Arastirmalar/2026-Mishra-Multi-Modal-Based-Healthcare.md) — Mishra vd. (2026) · *International Journal of Scientific Research in Computer Science Engineering and Information Technology* · hakemli
 - [Outpatient Care and Telehealth for Healthcare Transformation in Nigeria: A Narrative Review of Health Informatics Challenges and Opportunities](Arastirmalar/2026-Odis-Outpatient-Care-and-Telehealth.md) — Odis (2026) · *InfoScience Trends* · hakemli

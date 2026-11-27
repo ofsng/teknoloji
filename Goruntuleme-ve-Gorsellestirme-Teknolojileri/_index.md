@@ -99,7 +99,7 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [Liquid Crystal Display Equipment Development for Body Mass Index, Blood Pressure, Temperature and Sugar Level](Ekran-Teknolojileri/Sivi-Kristal-Ekranlar/Arastirmalar/2026-Ejiko-Liquid-Crystal-Display-Equipment.md) — Ejiko (2026) · *INTERNATIONAL JOURNAL OF MEDICAL EVALUATION AND PHYSICAL REPORT* · hakemli
 - [Transient measurement recovery via spatiotemporal correlations for under-scanning non-line-of-sight imaging](Hesaplamali-Goruntuleme/Gorus-Hatti-Disi-Goruntuleme/Arastirmalar/2026-Liu-Transient-measurement-recovery-via.md) — Liu vd. (2026) · *Optics Express* · hakemli
 - [Load-resistance-dependent charge reduction in a droplet-based electricity generator revealed by synchronized charge analysis and high-speed imaging](Yuksek-Hizli-Goruntuleme/Arastirmalar/2026-Suzuki-Load-resistance-dependent-charge.md) — Suzuki vd. (2026) · *Japanese Journal of Applied Physics* · hakemli
-- [Cascaded Non-Line-of-Sight Imaging](Hesaplamali-Goruntuleme/Gorus-Hatti-Disi-Goruntuleme/Arastirmalar/2026-Royo-Cascaded-Non-Line-Sight.md) — Royo vd. (2026) · *ACM Transactions on Graphics. 45, 6, Article 205 (SIGGRAPH Asia 2026)*
+- [Cascaded Non-Line-of-Sight Imaging](Hesaplamali-Goruntuleme/Gorus-Hatti-Disi-Goruntuleme/Arastirmalar/2026-Royo-Cascaded-Non-Line-Sight.md) — Royo vd. (2026) · *ACM Transactions on Graphics. 45, 6, Article 205 (SIGGRAPH Asia 2026)* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

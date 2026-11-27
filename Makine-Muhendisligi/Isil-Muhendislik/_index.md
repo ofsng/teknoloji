@@ -80,7 +80,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **5**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **6**.
 
 - [Study on flow and heat transfer characteristics of a D-type triple-period minimal surface heat exchanger](Arastirmalar/2026-Wu-Study-flow-and-heat.md) — Wu vd. (2026) · *International Journal of Turbo and Jet Engines* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -95,6 +95,7 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [A direct experimental link between three-phase contact line behavior and microscale heat transfer mechanisms beneath individual bubbles](Isi-Transferi/Mikro-Olcekli-Isi-Transferi/Arastirmalar/2026-Roodbari-direct-experimental-link-between.md) — Roodbari vd. (2026) · *International Journal of Heat and Mass Transfer* · hakemli
 - [High-Temperature Water-to-Water Heat Pumps for the Retrofit of a Residential Complex](Iklimlendirme-Muhendisligi/Isi-Pompalari/Arastirmalar/2026-Hiris-High-Temperature-Water-Water.md) — Hiris vd. (2026) · *Buildings* · hakemli
 - [MODELING OF TECHNOLOGICAL EQUIPMENT FOR THE PURPOSE OF PLATE HEAT EXCHANGERS INTEGRATION INTO THE HYDRAULIC SYSTEM USING THE EXAMPLE OF HEAVY-DUTY VEHICLES](Isi-Degistiriciler/Arastirmalar/2026-Salnikov-MODELING-TECHNOLOGICAL-EQUIPMENT-FOR.md) — Salnikov vd. (2026) · *Integrated Technologies and Energy Saving* · hakemli
+- [A Bernoulli wavelet approach to MHD Casson fluid flow over an exponentially stretching sheet with thermal radiation and heat source](Isi-Transferi/Isil-Isinim/Arastirmalar/2026-DL-Bernoulli-wavelet-approach-MHD.md) — DL vd. (2026) · *Arab Journal of Basic and Applied Sciences* · hakemli
 - [Study on flow and heat transfer characteristics of a D-type triple-period minimal surface heat exchanger](Arastirmalar/2026-Wu-Study-flow-and-heat.md) — Wu vd. (2026) · *International Journal of Turbo and Jet Engines* · hakemli
 - [Experimental Assessment of Heat Transfer Enhancement in an Air Duct Using Removable Helical Rib Inserts with Pitch Ratios](Isi-Transferi/Arastirmalar/2026-Hamad-Experimental-Assessment-Heat-Transfer.md) — Hamad vd. (2026) · *Journal of Engineering Research and Reports* · hakemli
 <!-- AUTO:RECENT:END -->

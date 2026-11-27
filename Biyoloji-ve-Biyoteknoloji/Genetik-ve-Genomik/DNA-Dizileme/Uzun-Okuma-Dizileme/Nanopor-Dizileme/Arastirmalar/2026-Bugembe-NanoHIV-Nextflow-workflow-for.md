@@ -25,7 +25,7 @@ related_versions: []
 collected_at: 2026-11-26
 last_checked_at: 2026-11-26
 content_verified: false
-identifier_verified: false
+identifier_verified: crossref
 ---
 
 # NanoHIV-DR: a Nextflow workflow for consensus and read level HIV-1 drug resistance profiling from Oxford Nanopore sequencing

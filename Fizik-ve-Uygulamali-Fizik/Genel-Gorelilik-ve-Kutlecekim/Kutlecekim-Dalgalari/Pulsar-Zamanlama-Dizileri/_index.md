@@ -75,8 +75,10 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **2**.
+Arşivdeki kayıtlar — bu düğüm: **4**, alt teknolojiler dahil: **4**.
 
+- [Realization variance of gravitational wave background anisotropies from shot noise for pulsar timing arrays](Arastirmalar/2026-Lin-Realization-variance-gravitational-wave.md) — Lin vd. (2026) · *Physical review. D/Physical review. D.* · hakemli · atıf: 4
+- [Are Pulsar Timing Array Measurements Sensitive to Gravitational Wave Non-Gaussianities?](Arastirmalar/2026-Cecchini-Are-Pulsar-Timing-Array.md) — Cecchini vd. (2026) · *Physical Review Letters* · hakemli · atıf: 3
 - [High precision timing of seven binary millisecond pulsars with the European Pulsar Timing Array](Arastirmalar/2026-Liu-High-precision-timing-seven.md) — Liu vd. (2026) · *Astronomy and Astrophysics* · hakemli
 - [Full-Stokes response to a stochastic gravitational-wave background in pulsar timing arrays: Fully analytic overlap reduction functions at finite distance and coherence of close pulsar pairs](Arastirmalar/2026-Zhou-Full-Stokes-response-stochastic.md) — Zhou vd. (2026) · *arXiv* · ön baskı / hakemsiz
 <!-- AUTO:RESEARCH:END -->
@@ -88,6 +90,8 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Are Pulsar Timing Array Measurements Sensitive to Gravitational Wave Non-Gaussianities?](Arastirmalar/2026-Cecchini-Are-Pulsar-Timing-Array.md) — Cecchini vd. (2026) · *Physical Review Letters* · hakemli · atıf: 3
+- [Realization variance of gravitational wave background anisotropies from shot noise for pulsar timing arrays](Arastirmalar/2026-Lin-Realization-variance-gravitational-wave.md) — Lin vd. (2026) · *Physical review. D/Physical review. D.* · hakemli · atıf: 4
 - [High precision timing of seven binary millisecond pulsars with the European Pulsar Timing Array](Arastirmalar/2026-Liu-High-precision-timing-seven.md) — Liu vd. (2026) · *Astronomy and Astrophysics* · hakemli
 - [Full-Stokes response to a stochastic gravitational-wave background in pulsar timing arrays: Fully analytic overlap reduction functions at finite distance and coherence of close pulsar pairs](Arastirmalar/2026-Zhou-Full-Stokes-response-stochastic.md) — Zhou vd. (2026) · *arXiv* · ön baskı / hakemsiz
 <!-- AUTO:RECENT:END -->

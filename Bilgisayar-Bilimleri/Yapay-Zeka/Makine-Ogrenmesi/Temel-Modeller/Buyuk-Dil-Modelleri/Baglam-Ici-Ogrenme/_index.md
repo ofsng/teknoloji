@@ -75,8 +75,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **2**.
 
+- [Distinct mechanisms underlying in-context learning in transformers](Arastirmalar/2026-Gibson-Distinct-mechanisms-underlying-context.md) — Gibson vd. (2026) · *Physical Review X* · hakemli · atıf: 5
 - [When, Where, How: Active In-Context Learning for Tabular Foundation Models](Arastirmalar/2026-Frey-When-Where-How-Active.md) — Frey (2026) · *arXiv* · ön baskı / hakemsiz
 <!-- AUTO:RESEARCH:END -->
 
@@ -87,6 +88,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Distinct mechanisms underlying in-context learning in transformers](Arastirmalar/2026-Gibson-Distinct-mechanisms-underlying-context.md) — Gibson vd. (2026) · *Physical Review X* · hakemli · atıf: 5
 - [When, Where, How: Active In-Context Learning for Tabular Foundation Models](Arastirmalar/2026-Frey-When-Where-How-Active.md) — Frey (2026) · *arXiv* · ön baskı / hakemsiz
 <!-- AUTO:RECENT:END -->
 

@@ -25,7 +25,8 @@ related_versions: []
 collected_at: 2026-11-26
 last_checked_at: 2026-11-26
 content_verified: false
-identifier_verified: false
+identifier_verified: crossref
+retraction_checked: 2026-11-27
 ---
 
 # Cross-Layer BLE Device-Type Identification via Locality-Sensitive Hashing for IoT Security

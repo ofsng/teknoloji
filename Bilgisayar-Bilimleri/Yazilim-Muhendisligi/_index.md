@@ -87,7 +87,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **8**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **9**.
 
 - [Agentic Software Engineering: Foundational Pillars and a Research Roadmap](Arastirmalar/2026-Hassan-Agentic-Software-Engineering-Foundational.md) — Hassan vd. (2026) · *ACM Transactions on Software Engineering and Methodology* · hakemli · atıf: 86
 <!-- AUTO:RESEARCH:END -->
@@ -104,9 +104,9 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [How Safe Are AI-Generated Patches? A Large-scale Study on Security Risks in LLM and Agentic Automated Program Repair on SWE-bench](Yazilim-Bakimi-ve-Evrimi/Program-Onarimi/Arastirmalar/2026-Sajadi-How-Safe-Are-Generated.md) — Sajadi vd. (2026) · *ACM Transactions on Software Engineering and Methodology* · hakemli · atıf: 25
 - [Enhanced Hybrid or Fuzzy Framework for Concurrent Software Using Model Checking and Machine Learning Techniques](Bicimsel-Yontemler/Model-Denetimi/Arastirmalar/2026-ORASE-Enhanced-Hybrid-Fuzzy-Framework.md) — ORASE (2026) · *INTERNATIONAL JOURNAL OF COMPUTER SCIENCE AND MATHEMATICAL THEORY E-ISSN* · hakemli
 - [Model-Driven Engineering for Agent-Based Modeling: A Review](Model-Gudumlu-Muhendislik/Arastirmalar/2026-Sanogo-Model-Driven-Engineering-for.md) — Sanogo vd. (2026) · *African Journal of Development Informatics* · hakemli
+- [Small Harnesses, Default Checks, Limited Coverage: Bounded Model Checking in Practice](Bicimsel-Yontemler/Model-Denetimi/Sinirli-Model-Denetimi/Arastirmalar/2026-Kolyakov-Small-Harnesses-Default-Checks.md) — Kolyakov vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [Synergizing LLMs and Formal Methods for Neural-Symbolic Reasoning](Bicimsel-Yontemler/Arastirmalar/2026-Dong-Synergizing-LLMs-and-Formal.md) — Dong vd. (2026) · *Communications of the ACM* · hakemli
 - [Agentic Software Engineering: Foundational Pillars and a Research Roadmap](Arastirmalar/2026-Hassan-Agentic-Software-Engineering-Foundational.md) — Hassan vd. (2026) · *ACM Transactions on Software Engineering and Methodology* · hakemli · atıf: 86
-- [Adapt the Object to the Subject: Representative Study Material for Empirical Software Engineering](Ampirik-Yazilim-Muhendisligi/Arastirmalar/2026-Unterbusch-Adapt-the-Object-the.md) — Unterbusch vd. (2026) · *arXiv* · ön baskı / hakemsiz
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

@@ -25,7 +25,7 @@ related_versions: []
 collected_at: 2026-11-24
 last_checked_at: 2026-11-24
 content_verified: false
-identifier_verified: false
+identifier_verified: crossref
 ---
 
 # Breaking the 35% Efficiency Milestone: Material Innovations and Interface Mechanisms in Monolithic Perovskite/Silicon Tandem Solar Cells

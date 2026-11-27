@@ -25,7 +25,7 @@ related_versions: []
 collected_at: 2026-11-15
 last_checked_at: 2026-11-15
 content_verified: false
-identifier_verified: false
+identifier_verified: crossref
 ---
 
 # Reinforcement Learning from Human Feedback - A Review

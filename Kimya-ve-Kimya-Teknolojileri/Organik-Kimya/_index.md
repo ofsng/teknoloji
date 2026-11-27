@@ -79,7 +79,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **4**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -90,7 +90,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
 - [Contemporary synthetic tools for the total synthesis of natural products](Organik-Sentez/Toplam-Sentez/Arastirmalar/2026-Blackwell-Contemporary-synthetic-tools-for.md) — Blackwell vd. (2026) · *Chemical Society Reviews* · hakemli
+- [Asymmetric Synthesis of a Small Molecule Inhibitor of TNFα via Enantioenriched 4-Substituted Tetrahydroisoquinolines](Organik-Sentez/Asimetrik-Sentez/Arastirmalar/2026-Greszler-Asymmetric-Synthesis-Small-Molecule.md) — Greszler vd. (2026) · *Organic Letters* · hakemli
 - [Open Microfluidic Probe Enabled Regional Surface Modification of Single Cells by Click Chemistry](Klik-Kimyasi/Arastirmalar/2026-Song-Open-Microfluidic-Probe-Enabled.md) — Song vd. (2026) · *Analytical Chemistry* · hakemli
+- [A Personal Perspective on the Organometallic Chemistry of the Rare-Earth and Actinide Metals in Celebration of the 150th Anniversary of the American Chemical Society](Organometalik-Kimya/Arastirmalar/2026-Queen-Personal-Perspective-the-Organometallic.md) — Queen vd. (2026) · *Organometallics* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

@@ -25,7 +25,7 @@ related_versions: []
 collected_at: 2026-11-26
 last_checked_at: 2026-11-26
 content_verified: false
-identifier_verified: false
+identifier_verified: crossref
 ---
 
 # Design and implementation of a High-Gain Push-Pull DC-DC Converter with two internal medium-frequency transformers for photovoltaic systems

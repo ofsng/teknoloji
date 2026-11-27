@@ -25,7 +25,7 @@ related_versions: []
 collected_at: 2026-11-24
 last_checked_at: 2026-11-24
 content_verified: false
-identifier_verified: false
+identifier_verified: crossref
 ---
 
 # A 6 G-Oriented simulation framework for ultra-reliable low-latency communication in real-time skeletal tissue injury detection

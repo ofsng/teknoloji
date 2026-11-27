@@ -25,7 +25,7 @@ related_versions: []
 collected_at: 2026-11-24
 last_checked_at: 2026-11-24
 content_verified: false
-identifier_verified: false
+identifier_verified: crossref
 ---
 
 # Modeling Venezuelan Equine Encephalitis Virus Infection of the Liver and Evaluation of a Host-Directed Therapeutic in an Organ-on-a-Chip Platform

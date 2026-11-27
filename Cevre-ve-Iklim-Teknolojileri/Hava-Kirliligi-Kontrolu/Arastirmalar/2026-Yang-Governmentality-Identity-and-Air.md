@@ -25,7 +25,7 @@ related_versions: []
 collected_at: 2026-11-26
 last_checked_at: 2026-11-26
 content_verified: false
-identifier_verified: false
+identifier_verified: crossref
 ---
 
 # Governmentality, Identity, and Air Pollution Control: Listening to Laid-Off and Land-Lost Peasants in China

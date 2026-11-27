@@ -25,7 +25,7 @@ related_versions: []
 collected_at: 2026-11-24
 last_checked_at: 2026-11-24
 content_verified: false
-identifier_verified: false
+identifier_verified: crossref
 ---
 
 # ATMOSPHERIC OPTICAL COMMUNICATION LINKS: A REVIEW OF MODERN MODELS OF LIGHT PROPAGATION IN DISPERSED MEDIA OF NATURAL OR ANTHROPOGENIC ORIGIN (review)

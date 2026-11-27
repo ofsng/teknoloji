@@ -75,7 +75,10 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **2**.
+
+- [Thin Water Layer Induced Signal Degradation in Autonomous FMCW Radar Systems](Arastirmalar/2026-Farah-Thin-Water-Layer-Induced.md) — Farah vd. (2026) · *Electronics* · hakemli
+- [Enhancing FMCW radar accuracy for adaptive cruise control using CFAR algorithms in adverse weather](Arastirmalar/2026-Zaman-Enhancing-FMCW-radar-accuracy.md) — Zaman vd. (2026) · *Journal of Electrical Systems and Information Technology* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -83,7 +86,10 @@ Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
-_Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini göstermez; ön baskılar hakemli değildir._
+Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
+
+- [Thin Water Layer Induced Signal Degradation in Autonomous FMCW Radar Systems](Arastirmalar/2026-Farah-Thin-Water-Layer-Induced.md) — Farah vd. (2026) · *Electronics* · hakemli
+- [Enhancing FMCW radar accuracy for adaptive cruise control using CFAR algorithms in adverse weather](Arastirmalar/2026-Zaman-Enhancing-FMCW-radar-accuracy.md) — Zaman vd. (2026) · *Journal of Electrical Systems and Information Technology* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

@@ -77,7 +77,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **2**.
 
 - [Irreversibility of quantum field theory in de Sitter: The C, F and A theorems](Arastirmalar/2026-Abate-Irreversibility-quantum-field-theory.md) — Abate vd. (2026) · *SciPost Physics* · hakemli · atıf: 7
 <!-- AUTO:RESEARCH:END -->
@@ -89,6 +89,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Lattice field theory for superconducting circuits](Kafes-Alan-Teorisi/Arastirmalar/2026-Lin-Lattice-field-theory-for.md) — Lin vd. (2026) · *PRX Quantum* · hakemli · atıf: 3
 - [Irreversibility of quantum field theory in de Sitter: The C, F and A theorems](Arastirmalar/2026-Abate-Irreversibility-quantum-field-theory.md) — Abate vd. (2026) · *SciPost Physics* · hakemli · atıf: 7
 <!-- AUTO:RECENT:END -->
 

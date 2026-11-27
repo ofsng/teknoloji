@@ -90,7 +90,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **21**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **22**.
 
 - [Transformers in computer vision: a PRISMA-based systematic review, taxonomy and future perspectives](Arastirmalar/2026-Rony-Transformers-computer-vision-PRISMA.md) — Rony vd. (2026) · *Artificial Intelligence Review* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -108,8 +108,8 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [Refraction-aware calibration and rectification for accurate underwater stereo 3D reconstruction](3B-Bilgisayarli-Goru/3B-Yeniden-Yapilandirma/Arastirmalar/2026-Zhang-Refraction-aware-calibration-and.md) — Zhang vd. (2026) · *Measurement Science and Technology* · hakemli
 - [An anatomy aware Mamba framework for video based 3D human pose estimation](Poz-Kestirimi/Arastirmalar/2026-Song-anatomy-aware-Mamba-framework.md) — Song vd. (2026) · *Scientific Reports* · hakemli
 - [Plane-Informed Dynamic Visual SLAM in Low-Texture Indoor Construction Environments](Gorsel-SLAM/Arastirmalar/2026-Li-Plane-Informed-Dynamic-Visual.md) — Li vd. (2026) · *Journal of Computing in Civil Engineering* · hakemli
+- [Change detection in remote sensing images based on optical flow guidance and edge prior constraints](Optik-Akis/Arastirmalar/2026-Shuqing-Change-detection-remote-sensing.md) — Shuqing vd. (2026) · *International Journal of Remote Sensing* · hakemli
 - [Motorcycle Rider Face Detection: An Experiment with R-CNN and Faster R-CNN](Nesne-Tespiti/Iki-Asamali-Dedektorler/Arastirmalar/2026-Muhaqiqin-Motorcycle-Rider-Face-Detection.md) — Muhaqiqin vd. (2026) · *Journal of Artificial Intelligence and Technology Information (JAITI)* · hakemli
-- [Transformers in computer vision: a PRISMA-based systematic review, taxonomy and future perspectives](Arastirmalar/2026-Rony-Transformers-computer-vision-PRISMA.md) — Rony vd. (2026) · *Artificial Intelligence Review* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

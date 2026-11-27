@@ -80,7 +80,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **2**.
 
 - [REPROCESSING OF REUSABLE MEDICAL DEVICES USED IN ROBOTIC SURGERY: SPECIFICITIES, CHALLENGES, RISK MANAGEMENT AND AREAS FOR IMPROVEMENT](Arastirmalar/2026-Soufiane1-REPROCESSING-REUSABLE-MEDICAL-DEVICES.md) — Soufiane1 (2026) · *European Journal Pharmaceutical and Medical Research* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -92,6 +92,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Radiomics in bladder cancer: current clinical applications, translational bottlenecks, and the roadmap to translation](Tibbi-Cihaz-Olarak-Yazilim/Arastirmalar/2026-Liu-Radiomics-bladder-cancer-current.md) — Liu vd. (2026) · *World Journal of Surgical Oncology* · hakemli
 - [REPROCESSING OF REUSABLE MEDICAL DEVICES USED IN ROBOTIC SURGERY: SPECIFICITIES, CHALLENGES, RISK MANAGEMENT AND AREAS FOR IMPROVEMENT](Arastirmalar/2026-Soufiane1-REPROCESSING-REUSABLE-MEDICAL-DEVICES.md) — Soufiane1 (2026) · *European Journal Pharmaceutical and Medical Research* · hakemli
 <!-- AUTO:RECENT:END -->
 

@@ -77,7 +77,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **2**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **3**.
 
 - [Review of the Fundamental Theory and Multidisciplinary Applications of Monte Carlo Methods](Arastirmalar/2026-Chang-Review-the-Fundamental-Theory.md) — Chang (2026) · *Theoretical and Natural Science* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -89,6 +89,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [A sequential ensemble approach to epidemic modelling: combining Hawkes and susceptible-exposed-infectious-removed models using sequential Monte Carlo squared](Sirali-Monte-Carlo/Arastirmalar/2026-Temfack-sequential-ensemble-approach-epidemic.md) — Temfack vd. (2026) · *Journal of the Royal Statistical Society Series C (Applied Statistics)* · hakemli
 - [Review of the Fundamental Theory and Multidisciplinary Applications of Monte Carlo Methods](Arastirmalar/2026-Chang-Review-the-Fundamental-Theory.md) — Chang (2026) · *Theoretical and Natural Science* · hakemli
 <!-- AUTO:RECENT:END -->
 

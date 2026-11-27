@@ -25,7 +25,7 @@ related_versions: []
 collected_at: 2026-11-24
 last_checked_at: 2026-11-24
 content_verified: false
-identifier_verified: false
+identifier_verified: crossref
 ---
 
 # Slim super multi-view virtual reality near-eye display using micro-lens array and dynamically driven point light source array

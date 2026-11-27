@@ -88,7 +88,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **6**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **9**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -98,12 +98,14 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Wireless Passive LC Pressure Sensor for Implantable Hemodynamic Pressure Monitoring with Long Detection Distance](Fiziksel-Sensorler/Basinc-Sensorleri/Arastirmalar/2026-Wang-Wireless-Passive-Pressure-Sensor.md) — Wang vd. (2026) · *Micromachines* · hakemli
+- [Thin Water Layer Induced Signal Degradation in Autonomous FMCW Radar Systems](Radar-Sistemleri/FMCW-Radar/Arastirmalar/2026-Farah-Thin-Water-Layer-Induced.md) — Farah vd. (2026) · *Electronics* · hakemli
 - [A two-position rotation alignment scheme for rotational fiber optic inertial navigation system](Ataletsel-Sensorler/Ataletsel-Seyrusefer-Sistemleri/Arastirmalar/2026-Jia-two-position-rotation-alignment.md) — Jia vd. (2026) · *Measurement Science and Technology* · hakemli
 - [From Resistive to FET-Type Gas Sensors: Enhanced Capability through the Addition of Terminals](Kimyasal-ve-Gaz-Sensorleri/Gaz-Sensorleri/Arastirmalar/2026-Yuan-From-Resistive-FET-Type.md) — Yuan vd. (2026) · *Nano Letters* · hakemli
 - [Modeling zero-bias drift in a fiber-optic gyroscope using Dynamic Mode Decomposition (DMD)](Ataletsel-Sensorler/Jiroskoplar/Fiber-Optik-Jiroskoplar/Arastirmalar/2026-Fomichev-Modeling-zero-bias-drift.md) — Fomichev vd. (2026) · *Journal of Radio Electronics* · hakemli
+- [Enhancing FMCW radar accuracy for adaptive cruise control using CFAR algorithms in adverse weather](Radar-Sistemleri/FMCW-Radar/Arastirmalar/2026-Zaman-Enhancing-FMCW-radar-accuracy.md) — Zaman vd. (2026) · *Journal of Electrical Systems and Information Technology* · hakemli
 - [Influence of Probing System Configuration and Sampling Strategy on Roundness and Cylindricity Measurements Using a Coordinate Measuring Machine](Metroloji/Boyutsal-Metroloji/Koordinat-Olcum-Makineleri/Arastirmalar/2026-Kubatova-Influence-Probing-System-Configuration.md) — Kubátová vd. (2026) · *Materials* · hakemli
 - [Toward city-scale structural health monitoring: Architectural gaps, a modular plug-and-play framework, and research directions](Yapisal-Saglik-Izleme/Arastirmalar/2026-Okur-Toward-city-scale-structural.md) — Okur (2026) · *Advances in Structural Engineering* · hakemli
-- [A Brace-Integrated Fiber Bragg Grating Sensor with a Multi-Hardness Silicone Strain Transfer Substrate for Knee Flexion Monitoring: A Proof-of-Concept Study](Optik-Sensorler/Fiber-Optik-Sensorler/Fiber-Bragg-Izgara-Sensorleri/Arastirmalar/2026-Jeong-Brace-Integrated-Fiber-Bragg.md) — Jeong vd. (2026) · *Sensors* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

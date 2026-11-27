@@ -3539,6 +3539,75 @@
   "url": "https://arxiv.org/abs/2611.31771"
  },
  {
+  "added": "2026-11-27",
+  "arxiv": "2611.33636",
+  "candidates": [
+   [
+    "image-restoration",
+    7.9
+   ],
+   [
+    "efficient-attention",
+    6.73
+   ],
+   [
+    "self-attention",
+    3.5
+   ],
+   [
+    "analysis",
+    0.33
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.33636",
+   "title:whatisredundantathighresolutionefficientattentionandfeedforwarddesignforallinoneimagerestoration|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Multi-scale architectures are widely adopted in all-in-one image restoration (AIO-IR) to capture larger-scale context at low-resolution stages and refine details at high-resolution (HR) stages. However, processing spatially large feature maps at HR stages incurs substantial computational costs and memory traffic, making efficient HR processing challenging. To address this challenge, we propose High-resolution Global-Local Restoration (HiGLR), an efficient multi-scale AIO-IR network grounded in an analysis of spatial redundancy in self-attention and convolutional feed-forward networks (ConvFFNs). Specifically, this analysis identifies three key redundancies: per-query readout at the finest-scale stage, key routing across neighboring queries at intermediate stages, and spatial mixing in the expanded feature spaces of ConvFFNs. Accordingly, HiGLR replaces costly self-attention at the finest-scale stage with a learned input-independent kernel. At intermediate stages, we propose a Block-Routed Hybrid Attention, which combines coarse-scale dense attention with fine-scale block-sparse attention over value residuals relative to coarse summaries, and shares routing indices across neighboring queries. We further introduce a Dual-Space FFN that performs spatial mixing in a compact space and pointwise nonlinear transformation in an expanded space, enabling efficient kernel fusion. Combining these designs, HiGLR achieves state-of-the-art performance while delivering up to a $4.24\\times$ inference speedup over existing methods.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.33636",
+   "authors": [
+    "Dongheon Lee",
+    "DongJae Lee",
+    "Sewhan Chun",
+    "Chanseul Cho",
+    "Youngwook Kim",
+    "Youngmin Ro",
+    "Yonghyun Jeong"
+   ],
+   "categories": [
+    "arXiv:cs.CV",
+    "arXiv:cs.AI"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-25",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.33636"
+   ],
+   "title": "What Is Redundant at High Resolution? Efficient Attention and Feed-Forward Design for All-in-One Image Restoration",
+   "topics": [],
+   "updated_date": "2026-11-25",
+   "url": "https://arxiv.org/abs/2611.33636"
+  },
+  "score": 7.9,
+  "seen": 1,
+  "suggested": "image-restoration",
+  "title": "What Is Redundant at High Resolution? Efficient Attention and Feed-Forward Design for All-in-One Image Restoration",
+  "url": "https://arxiv.org/abs/2611.33636"
+ },
+ {
   "added": "2026-11-14",
   "arxiv": "2511.17433",
   "candidates": [
@@ -5779,6 +5848,70 @@
   "url": "https://arxiv.org/abs/2611.31756"
  },
  {
+  "added": "2026-11-27",
+  "arxiv": "2611.33612",
+  "candidates": [
+   [
+    "llm-based-agents",
+    7.26
+   ],
+   [
+    "large-language-models",
+    3.7
+   ],
+   [
+    "work-study",
+    1.2
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.33612",
+   "title:failurebroadenssuccesssharpenscontinualadaptationoftooluseagentsacrossdiversetaskswithdualpolaritymemory|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Large language model agents can self-improve over time by utilizing procedural memory derived from prior task trajectories, yet the distinct utilities of memories derived from local successes and failures remain underexplored. This work studies this question in a realistic setting with heterogeneous streams of multi-domain tool-use tasks and various environment constraints common in real-world scenarios. We develop \\emph{Dual-Polarity Memory with Periodic Maintenance} (DualPM), a simple, retrieval-free memory workflow characterized by (1) customizable reflection and procedural memory generation from both local successes and failures within each trajectory, and (2) periodic memory consolidation over long task streams under a given memory capacity, preventing memory explosion. Online prequential evaluation with fine-grained metrics reveals that failure memory more strongly broadens coverage, success memory better streamlines execution, while combining both polarities effectively integrates both benefits. Further studies demonstrate that DualPM enables cross-domain memory generalization and continual memory adaptation, while external evaluation on EvoMemBench reveals the portability and effectiveness of DualPM as a general long-term procedural memory method.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.33612",
+   "authors": [
+    "Tianmai M. Zhang",
+    "Hoda Shajari",
+    "Amr Hendy",
+    "Xiaohu Liu",
+    "Piyush Behre",
+    "Omar Zia Khan",
+    "Ankur Gupta"
+   ],
+   "categories": [
+    "arXiv:cs.CL"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-25",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.33612"
+   ],
+   "title": "Failure Broadens, Success Sharpens: Continual Adaptation of Tool-Use Agents Across Diverse Tasks with Dual-Polarity Memory",
+   "topics": [],
+   "updated_date": "2026-11-25",
+   "url": "https://arxiv.org/abs/2611.33612"
+  },
+  "score": 7.26,
+  "seen": 1,
+  "suggested": "llm-based-agents",
+  "title": "Failure Broadens, Success Sharpens: Continual Adaptation of Tool-Use Agents Across Diverse Tasks with Dual-Polarity Memory",
+  "url": "https://arxiv.org/abs/2611.33612"
+ },
+ {
   "added": "2026-11-13",
   "arxiv": "2611.14926",
   "candidates": [
@@ -6108,6 +6241,127 @@
   "suggested": "digital-twins",
   "title": "Implementation and Software-in-the-Loop Evaluation of a Trans-Domain Digital Twin Architecture for Autonomous Guidance of the Phoenix VTOL UAV Without Online GNSS",
   "url": "https://arxiv.org/abs/2611.29158"
+ },
+ {
+  "added": "2026-11-27",
+  "arxiv": "2611.33627",
+  "candidates": [
+   [
+    "mechanism-design",
+    7.15
+   ],
+   [
+    "optimization",
+    0.33
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.33627",
+   "title:welfareenhancingmechanismdesignforagentecosystems|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "The emerging Agentic Web forms a multi-agent ecosystem: a decentralized service market where the user agent selects which content agents to query from their submitted profiles, before seeing any documents. Profiles therefore become a new target of optimization. Existing Generative Engine Optimization studies how a single supplier rewrites documents the engine can already retrieve, to improve their citation. In the Agentic Web, multiple content agents optimize profiles to compete for limited opportunities to deliver documents. To study this repeated interaction, we build WildRegistry, a simulation framework and benchmark based on a real agentic-search request stream, and model it as a dynamic game under private monitoring. Long-horizon experiments show that this competition lowers website-selection quality and settles at a harmful stable point, which our empirical criterion identifies as an approximate rewriting equilibrium. We therefore design a welfare-enhancing mechanism, DEC (Delivery-Evidence Credit), a platform-side policy that uses recorded delivery outcomes to reallocate later opportunities and reduce information asymmetry. DEC improves this endpoint, raising website-selection quality while preserving most of providers' exposure gains, for a Welfare Gain of +2.01 points and a healthier long-horizon outcome. More broadly, our findings highlight the importance of mechanism design in agent ecosystems: turning recorded delivery outcomes into evidence that endogenously shapes later user-agent selection and content-agent adaptation can steer long-horizon adaptation toward delivered capabilities.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.33627",
+   "authors": [
+    "Zitian Guo",
+    "Chen Xu",
+    "Beibei Li",
+    "Chenyan Xiong"
+   ],
+   "categories": [
+    "arXiv:cs.MA",
+    "arXiv:cs.GT",
+    "arXiv:cs.IR"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-25",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.33627"
+   ],
+   "title": "Welfare-Enhancing Mechanism Design for Agent Ecosystems",
+   "topics": [],
+   "updated_date": "2026-11-25",
+   "url": "https://arxiv.org/abs/2611.33627"
+  },
+  "score": 7.15,
+  "seen": 1,
+  "suggested": "mechanism-design",
+  "title": "Welfare-Enhancing Mechanism Design for Agent Ecosystems",
+  "url": "https://arxiv.org/abs/2611.33627"
+ },
+ {
+  "added": "2026-11-27",
+  "arxiv": "2611.33596",
+  "candidates": [
+   [
+    "k-nearest-neighbors",
+    7.08
+   ],
+   [
+    "time-series-analysis",
+    3.7
+   ],
+   [
+    "analysis",
+    1.85
+   ],
+   [
+    "machine-learning",
+    1.2
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.33596",
+   "title:knearestneighborsestimationofthedriftofanergodicdiffusionprocessunderosgoodregularity|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "The k-Nearest Neighbors (kNN) algorithm is a widely used machine learning method with well-established theoretical guarantees for consistent estimation in multivariate settings and functional time series analysis. In the context of nonparametric estimation of the coefficients of ergodic diffusion processes, however, its use has so far been mainly illustrated through numerical experiments. The main contribution of this paper is to establish theoretical consistency results for drift kNN estimators over both compact and non-compact intervals, under relatively weak regularity conditions on the coefficients of the underlying ergodic diffusion process. The theoretical results are completed with numerical illustrations.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.33596",
+   "authors": [
+    "Eddy Michel Ella-Mintsa"
+   ],
+   "categories": [
+    "arXiv:stat.ME"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-25",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.33596"
+   ],
+   "title": "k-Nearest Neighbors estimation of the drift of an ergodic diffusion process under Osgood regularity",
+   "topics": [],
+   "updated_date": "2026-11-25",
+   "url": "https://arxiv.org/abs/2611.33596"
+  },
+  "score": 7.08,
+  "seen": 1,
+  "suggested": "k-nearest-neighbors",
+  "title": "k-Nearest Neighbors estimation of the drift of an ergodic diffusion process under Osgood regularity",
+  "url": "https://arxiv.org/abs/2611.33596"
  },
  {
   "added": "2026-11-09",
@@ -10244,6 +10498,76 @@
   "url": "https://arxiv.org/abs/2611.31775"
  },
  {
+  "added": "2026-11-27",
+  "arxiv": "2611.33607",
+  "candidates": [
+   [
+    "regression-analysis",
+    6.3
+   ],
+   [
+    "statistical-inference",
+    3.1
+   ],
+   [
+    "analysis",
+    2.55
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.3150/23-bej1713",
+  "keys": [
+   "arxiv:2611.33607",
+   "doi:10.3150/23-bej1713",
+   "title:arobustapproachforregressionanalysisofpanelcountdatawithtimevaryingcovariates|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "The validity of statistical inference for panel count data with time-varying covariates depends on the correct specification of within-subject correlation structures; misspecification often leads to questionable inference. To alleviate, robust inference has been proposed for mean models, which implicitly assume monotone mean functions. When covariate values fluctuate with time, however, the assumed monotonicity becomes unrealistic. In this research, we propose a robust inference based on rate models that are free of such constraints. Since the asymptotic variance has no closed form under the rate model, we further develop computationally efficient robust variance estimators using the Expectation-Maximization (EM) algorithm, thus sidestepping the need for computationally intensive numerical methods, which could undermine the robustness. Rigorous theoretical development is provided in support of parameter estimation and inference. Extensive simulation studies demonstrate the superiority of the proposed method. We present a real clinical application to illustrate the use of the proposed method.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.33607",
+   "authors": [
+    "Dayu Sun",
+    "Yuanyuan Guo",
+    "Yang Li",
+    "Wanzhu Tu",
+    "Jianguo Sun"
+   ],
+   "categories": [
+    "arXiv:stat.ME",
+    "arXiv:math.ST"
+   ],
+   "cited_by_count": null,
+   "doi": "10.3150/23-bej1713",
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": null,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-25",
+   "related_versions": [
+    {
+     "doi": "10.3150/23-bej1713",
+     "relation": "published_version",
+     "source": "arxiv"
+    }
+   ],
+   "source_ids": [
+    "arxiv:2611.33607"
+   ],
+   "title": "A Robust Approach for Regression Analysis of Panel Count Data with Time-varying Covariates",
+   "topics": [],
+   "updated_date": "2026-11-25",
+   "url": "https://arxiv.org/abs/2611.33607"
+  },
+  "score": 6.3,
+  "seen": 1,
+  "suggested": "regression-analysis",
+  "title": "A Robust Approach for Regression Analysis of Panel Count Data with Time-varying Covariates",
+  "url": "https://arxiv.org/abs/2611.33607"
+ },
+ {
   "added": "2026-11-14",
   "arxiv": null,
   "candidates": [
@@ -10845,361 +11169,5 @@
   "suggested": "condensed-matter-physics",
   "title": "Flat band excitons and quantum metric",
   "url": "https://doi.org/10.1007/s44214-026-00113-y"
- },
- {
-  "added": "2026-11-23",
-  "arxiv": "2601.16961",
-  "candidates": [
-   [
-    "quantum-simulation",
-    3.9
-   ],
-   [
-    "molecular-physics",
-    3.1
-   ],
-   [
-    "cellular-automata",
-    3.0
-   ],
-   [
-    "translation",
-    0.26
-   ]
-  ],
-  "confidence": "medium",
-  "doi": "10.1103/r726-r5xr",
-  "keys": [
-   "arxiv:2601.16961",
-   "doi:10.1103/r726-r5xr",
-   "title:engineeringdiscretelocaldynamicsingloballydrivendualspeciesatomarrays|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "We introduce a method for engineering discrete local dynamics in globally driven dual-species neutral atom experiments, allowing us to study emergent digital models through uniform analog controls. Leveraging the new opportunities offered by dual-species systems, such as species-alternated driving, our construction exploits simple Floquet protocols on static atom arrangements and benefits of generalized blockade regimes (different inter- and intra-species interactions). We focus on discrete dynamical models that are special instances of quantum cellular automata and explicitly consider a number of relevant examples, including the kicked-Ising model, the Floquet Kitaev honeycomb model, and the digitization of a broad family of translation-invariant nearest-neighbor Hamiltonians (e.g., for Trotterized evolution). As an application, we study chaotic features of discretized many-body dynamics that can be detected by leveraging only demonstrated capabilities of globally driven experiments, and benchmark their ability to discriminate chaotic evolution.",
-   "abstract_license": "cc-by",
-   "arxiv": "2601.16961",
-   "authors": [
-    "Francesco Cesa",
-    "Andrea Di Fini",
-    "David Aram Korbany",
-    "Roberto Tricarico",
-    "Hannes Bernien",
-    "Hannes Pichler",
-    "Lorenzo Piroli"
-   ],
-   "categories": [
-    "OpenAlex-field:Physics and Astronomy"
-   ],
-   "cited_by_count": 11,
-   "doi": "10.1103/r726-r5xr",
-   "is_retracted": false,
-   "keywords": [
-    "Floquet engineering",
-    "quantum cellular automata",
-    "Trotterization",
-    "chaos detection",
-    "many-body dynamics",
-    "digital quantum simulation",
-    "neutral atoms"
-   ],
-   "language": "en",
-   "oa_created": "2026-08-19",
-   "peer_reviewed": true,
-   "publication": "PRX Quantum",
-   "publication_type": "article",
-   "published_date": "2026-11-20",
-   "related_versions": [],
-   "source_ids": [
-    "openalex:W7203719561"
-   ],
-   "title": "Engineering Discrete Local Dynamics in Globally Driven Dual-Species Atom Arrays",
-   "topics": [
-    "Quantum many-body systems",
-    "Atomic and Molecular Physics, and Optics"
-   ],
-   "updated_date": "2026-11-23",
-   "url": "https://doi.org/10.1103/r726-r5xr"
-  },
-  "score": 3.9,
-  "seen": 1,
-  "suggested": "quantum-simulation",
-  "title": "Engineering Discrete Local Dynamics in Globally Driven Dual-Species Atom Arrays",
-  "url": "https://doi.org/10.1103/r726-r5xr"
- },
- {
-  "added": "2026-11-23",
-  "arxiv": null,
-  "candidates": [
-   [
-    "astronomy-and-astrophysics",
-    3.7
-   ],
-   [
-    "hydrothermal-systems",
-    1.2
-   ]
-  ],
-  "confidence": "medium",
-  "doi": "10.7554/elife.72856",
-  "keys": [
-   "doi:10.7554/elife.72856",
-   "title:akineticerrorfilteringmechanismforenzymefreecopyingofnucleicacidsequences|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "Accurate copying of nucleic acid sequences is essential for self-replicating systems. Modern cells achieve error ratios as low as 10-9 with sophisticated enzymes capable of kinetic proofreading. In contrast, experiments probing enzyme-free copying of RNA and DNA as potential prebiotic replication processes find error ratios on the order of 10%. Given this low intrinsic copying fidelity, plausible scenarios for the spontaneous emergence of molecular evolution require an accuracy-enhancing mechanism. Here, we study a 'kinetic error filtering' scenario that dramatically boosts the likelihood of producing exact copies of nucleic acid sequences. The mechanism exploits the observation that initial errors in template-directed polymerization of both DNA and RNA are likely to trigger a cascade of consecutive errors and significantly stall downstream extension. We incorporate these characteristics into a mathematical model with experimentally estimated parameters, and leverage this model to probe to what extent accurate and faulty polymerization products can be kinetically discriminated. Limiting the time window for polymerization prevents completion of erroneous strands, resulting in a pool in which full-length products show an enhanced accuracy. This comes at the price of a concomitant reduction in yield. However, the yield rate and the fidelity can be simultaneously increased by kinetic error filtering, if the templates are not too long. Within cyclically varying environments, e.g., temperature cycles in hydrothermal systems, repeated copying attempts could produce exact copies of sequences as long as 50mers within their lifetime, facilitating the emergence and maintenance of catalytically active oligonucleotides.",
-   "abstract_license": "cc-by",
-   "arxiv": null,
-   "authors": [
-    "Tobias Göppel",
-    "Benedikt Obermayer",
-    "Irene A. Chen",
-    "Ulrich Gerland"
-   ],
-   "categories": [
-    "OpenAlex-field:Physics and Astronomy"
-   ],
-   "cited_by_count": 16,
-   "doi": "10.7554/elife.72856",
-   "is_retracted": false,
-   "keywords": [
-    "template polymerization",
-    "error propagation",
-    "polymerization yield",
-    "self-replicating systems"
-   ],
-   "language": "en",
-   "oa_created": "2021-08-16",
-   "peer_reviewed": true,
-   "publication": "eLife",
-   "publication_type": "article",
-   "published_date": "2026-11-20",
-   "related_versions": [],
-   "source_ids": [
-    "openalex:W3193152742"
-   ],
-   "title": "A kinetic error filtering mechanism for enzyme-free copying of nucleic acid sequences",
-   "topics": [
-    "Origins and Evolution of Life",
-    "Astronomy and Astrophysics"
-   ],
-   "updated_date": "2026-11-23",
-   "url": "https://doi.org/10.7554/elife.72856"
-  },
-  "score": 3.7,
-  "seen": 1,
-  "suggested": "astronomy-and-astrophysics",
-  "title": "A kinetic error filtering mechanism for enzyme-free copying of nucleic acid sequences",
-  "url": "https://doi.org/10.7554/elife.72856"
- },
- {
-  "added": "2026-11-16",
-  "arxiv": "2605.16489",
-  "candidates": [
-   [
-    "particle-physics",
-    3.48
-   ]
-  ],
-  "confidence": "medium",
-  "doi": "10.1103/t72y-3nnp",
-  "keys": [
-   "arxiv:2605.16489",
-   "doi:10.1103/t72y-3nnp",
-   "title:bouncingsingularitiesinschwarzschildgeometryageometricoriginofthequasinormalmodeconvergenceregion|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "We show analytically that the convergence of the QNM expansion of the retarded Green's function of the Schwarzschild spacetime is set by a singularity in the complex time plane. The singularity has a simple geometric origin: it is an example of a `bouncing singularity' in the language of AdS/CFT literature, caused by a null geodesic which bounces from the black hole singularity. Our work explains why the QNM convergence region at real times is bounded by null ray which scatters from the gravitational potential at a seemingly unremarkable point ($r_* = 0$ in the conventions of previous work) -- this ray is the same distance from the origin as the bouncing singularity in the relevant complex plane. The same set of singularities are responsible for an annular region of convergence for the Matsubara mode sum which describes the early time behaviour of the Schwarzschild Green's function for perturbations close to the horizon.",
-   "abstract_license": null,
-   "arxiv": "2605.16489",
-   "authors": [
-    "Paolo Arnaudo",
-    "Benjamin Withers"
-   ],
-   "categories": [
-    "OpenAlex-field:Physics and Astronomy"
-   ],
-   "cited_by_count": 24,
-   "doi": "10.1103/t72y-3nnp",
-   "is_retracted": false,
-   "keywords": [
-    "quasinormal modes",
-    "Schwarzschild black hole",
-    "retarded Green's function",
-    "null geodesics",
-    "complex time plane",
-    "convergence region",
-    "AdS/CFT correspondence",
-    "black hole perturbations"
-   ],
-   "language": "en",
-   "oa_created": "2026-05-20",
-   "peer_reviewed": true,
-   "publication": "Physical Review Letters",
-   "publication_type": "article",
-   "published_date": "2026-11-13",
-   "related_versions": [],
-   "source_ids": [
-    "openalex:W7161720390"
-   ],
-   "title": "Bouncing singularities in Schwarzschild geometry: A geometric origin of the quasinormal mode convergence region",
-   "topics": [
-    "Black Holes and Theoretical Physics",
-    "Nuclear and High Energy Physics"
-   ],
-   "updated_date": "2026-11-15",
-   "url": "https://doi.org/10.1103/t72y-3nnp"
-  },
-  "score": 3.48,
-  "seen": 1,
-  "suggested": "particle-physics",
-  "title": "Bouncing singularities in Schwarzschild geometry: A geometric origin of the quasinormal mode convergence region",
-  "url": "https://doi.org/10.1103/t72y-3nnp"
- },
- {
-  "added": "2026-11-09",
-  "arxiv": "2607.19057",
-  "candidates": [
-   [
-    "astronomy-and-astrophysics",
-    3.7
-   ]
-  ],
-  "confidence": "medium",
-  "doi": "10.1093/mnras/stag2131",
-  "keys": [
-   "arxiv:2607.19057",
-   "doi:10.1093/mnras/stag2131",
-   "title:anincompletenirspeccensusofbalmerabsorptionintype1agnradiationdrivenoutflowsinlittlereddotsquasarsandvariablestars|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "Abstract A notable achievement of the first generation of JWST surveys was the discovery of an abundance of faint high-redshift (z > 4) broad-line active galactic nuclei (AGN) in the Lbol < 1045 erg s−1 regime, previously only accessible at z < 1. The high prevalence of absorption features in their broad hydrogen lines is one of the peculiarities of a significant fraction of this new population. In this paper, we conduct a broad census of Balmer absorption in a sample of 47 Type-1 AGN spanning 2 < z < 7. Accounting for incompleteness of JWST spectroscopic data, we estimate that $44_{-6}^{+21}$ % of Little Red Dots (LRDs) have absorption in Hα while the incidence rate is <25 % (at 2σ) in Little Blue Dots (LBDs). Additionally, R1000 JWST/NIRSpec data is strongly resolution limited, implying an inability to disentangle Doppler broadening in the absorption from optical depth effects. This is alleviated with R2700 observations, although some degeneracies remain. We find a significant correlation between the velocity of the Balmer absorption and the [OIII]5007 narrow line luminosity, suggesting a common driving mechanism. We do not find any other significant correlations (and do not confirm previously claimed correlations) between Balmer absorption and other spectral properties of LRDs (except for the expected correlation between Hα and Hβ absorption velocities). Comparing LRDs, quasars and stellar Hα absorbers, we establish that absorption in both LRDs and broad absorption line quasars is consistent with radiatively driven outflows, echoing the physics of variable stars yet occurring at vastly different scales.",
-   "abstract_license": "cc-by",
-   "arxiv": "2607.19057",
-   "authors": [
-    "Ignas Juodžbalis",
-    "Xihan Ji",
-    "Francesco D'Eugenio",
-    "Jan Scholtz",
-    "R. Maiolino",
-    "Amanda Stoffers",
-    "ALESSANDRO MARCONI",
-    "E. Bertola",
-    "Andrew J. Bunker",
-    "Stefano Carniani",
-    "G. Cresci",
-    "Emma Curtis-Lake",
-    "Zheng Ma",
-    "C. Marconcini",
-    "Eleonora Parlanti",
-    "P Rinaldi",
-    "Brant E. Robertson",
-    "Hannah Übler",
-    "Giacomo Venturi",
-    "Junyu Zhang"
-   ],
-   "categories": [
-    "OpenAlex-field:Physics and Astronomy"
-   ],
-   "cited_by_count": 15,
-   "doi": "10.1093/mnras/stag2131",
-   "is_retracted": false,
-   "keywords": [
-    "Balmer absorption",
-    "type 1 AGN",
-    "Little Red Dots",
-    "radiatively driven outflows",
-    "broad absorption line quasars",
-    "high-redshift AGN",
-    "JWST NIRSpec",
-    "variable stars"
-   ],
-   "language": "en",
-   "oa_created": "2026-07-23",
-   "peer_reviewed": true,
-   "publication": "Monthly Notices of the Royal Astronomical Society",
-   "publication_type": "article",
-   "published_date": "2026-11-06",
-   "related_versions": [],
-   "source_ids": [
-    "openalex:W7170084612"
-   ],
-   "title": "An (in)complete NIRSpec census of Balmer absorption in Type 1 AGN – radiation-driven outflows in little red dots, quasars and variable stars",
-   "topics": [
-    "Galaxies: Formation, Evolution, Phenomena",
-    "Astronomy and Astrophysics"
-   ],
-   "updated_date": "2026-11-08",
-   "url": "https://doi.org/10.1093/mnras/stag2131"
-  },
-  "score": 3.7,
-  "seen": 1,
-  "suggested": "astronomy-and-astrophysics",
-  "title": "An (in)complete NIRSpec census of Balmer absorption in Type 1 AGN – radiation-driven outflows in little red dots, quasars and variable stars",
-  "url": "https://doi.org/10.1093/mnras/stag2131"
- },
- {
-  "added": "2026-11-12",
-  "arxiv": "2611.13442",
-  "candidates": [
-   [
-    "llm-inference-optimization",
-    6.06
-   ],
-   [
-    "large-language-models",
-    2.1
-   ]
-  ],
-  "confidence": "medium",
-  "doi": null,
-  "keys": [
-   "arxiv:2611.13442",
-   "title:foresparkjointdraftandverificationbudgetschedulingforparallelspeculativedecoding|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "Parallel drafters accelerate LLM decoding by proposing a whole block of draft tokens in a single forward pass, making them attractive for LLM serving. Recent systems optimize goodput (i.e., accepted tokens per second) because rejected drafts steal compute from other requests. However, these systems control only how many tokens are verified, so every request still drafts a full block. At high serving load, we find that drafting consumes up to 40% of step time, of which a majority is discarded because it is never verified. Yet, draft-length control from autoregressive drafters does not carry over, because a parallel drafter commits to its length before its single pass. Moreover, draft and verification lengths are coupled across the batch, so they must be selected jointly for every request while keeping the decision computationally cheap at every step. In this paper, we propose work-conserving speculation (WCS), a design that jointly allocates draft and verification budgets per request in LLM serving, and present ForeSpark as its prototype. ForeSpark realizes WCS with (i) a context-aware pre-draft estimator that predicts acceptance for every candidate length from the target model's context features, (ii) a lightweight joint draft-verify scheduler that selects both lengths through a global sort, and (iii) a post-draft budget distribution that spends verification on the most promising tokens. Implemented on vLLM, ForeSpark improves throughput by up to 1.77x over the state-of-the-art DSpark and by 2.49x over autoregressive decoding at a matched per-request generation rate, without changing the output distribution. It also tolerates higher load, sustaining up to 1.51x the request rate of DSpark under latency service level objectives (SLOs).",
-   "abstract_license": "cc0-1.0 (arxiv metadata)",
-   "arxiv": "2611.13442",
-   "authors": [
-    "Jaeyong Song",
-    "Daniel Wang",
-    "Pratyush Patel",
-    "Jonny Kong",
-    "Preyas Shah",
-    "Shobhit Kanaujia"
-   ],
-   "categories": [
-    "arXiv:cs.DC",
-    "arXiv:cs.AI",
-    "arXiv:cs.LG"
-   ],
-   "cited_by_count": null,
-   "doi": null,
-   "is_retracted": null,
-   "keywords": [],
-   "language": "en",
-   "peer_reviewed": false,
-   "publication": "arXiv",
-   "publication_type": "preprint",
-   "published_date": "2026-11-10",
-   "related_versions": [],
-   "source_ids": [
-    "arxiv:2611.13442"
-   ],
-   "title": "ForeSpark: Joint Draft and Verification Budget Scheduling for Parallel Speculative Decoding",
-   "topics": [],
-   "updated_date": "2026-11-10",
-   "url": "https://arxiv.org/abs/2611.13442"
-  },
-  "score": 6.06,
-  "seen": 1,
-  "suggested": "llm-inference-optimization",
-  "title": "ForeSpark: Joint Draft and Verification Budget Scheduling for Parallel Speculative Decoding",
-  "url": "https://arxiv.org/abs/2611.13442"
  }
 ]

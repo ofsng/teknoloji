@@ -10,7 +10,7 @@ arxiv: 2609.16017
 url: https://arxiv.org/abs/2609.16017
 publication: "ACM Transactions on Graphics. 45, 6, Article 205 (SIGGRAPH Asia 2026)"
 publication_type: preprint
-peer_reviewed:
+peer_reviewed: true
 primary_technology: non-line-of-sight-imaging
 related_technologies: []
 classification_confidence: high
@@ -25,7 +25,7 @@ related_versions: [{"relation": "published_version", "doi": "10.1145/3842503", "
 collected_at: 2026-11-26
 last_checked_at: 2026-11-26
 content_verified: false
-identifier_verified: false
+identifier_verified: crossref
 ---
 
 # Cascaded Non-Line-of-Sight Imaging

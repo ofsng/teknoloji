@@ -25,7 +25,7 @@ related_versions: []
 collected_at: 2026-11-24
 last_checked_at: 2026-11-24
 content_verified: false
-identifier_verified: false
+identifier_verified: crossref
 ---
 
 # Waste-to-Energy in Malaysia: Technologies, Biomass Resources, Municipal Solid Waste Management, Techno-Economic Feasibility, Environmental Impacts and Future Prospects

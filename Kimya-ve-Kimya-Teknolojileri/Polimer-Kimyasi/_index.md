@@ -78,7 +78,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **3**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -88,6 +88,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Radical Ring-Opening Polymerization of endo -Cyclic Monomers for Regioregularity Control in Vinyl Polymers](Polimerizasyon-Yontemleri/Halka-Acilma-Polimerizasyonu/Arastirmalar/2026-Son-Radical-Ring-Opening-Polymerization.md) — Son vd. (2026) · *Journal of the American Chemical Society* · hakemli
 - [From Fibrated Chrysene Networks to Molecular Machines: Registry-Programmed Geometry, Electromechanical Realization, and Constructive Existence](Supramolekuler-Kimya/Molekuler-Makineler/Arastirmalar/2026-Schaper-From-Fibrated-Chrysene-Networks.md) — Schaper (2026) · *Annals of the Chrysene Formalism* · hakemli · atıf: 4
 - [Kinetic Acceleration and the Stoichiometric Limit Dictate the Behavior of Reactivity-Enhanced Step-Growth Polymerization](Polimerizasyon-Yontemleri/Basamakli-Buyume-Polimerizasyonu/Arastirmalar/2026-Tang-Kinetic-Acceleration-and-the.md) — Tang vd. (2026) · *Macromolecules* · hakemli
 <!-- AUTO:RECENT:END -->

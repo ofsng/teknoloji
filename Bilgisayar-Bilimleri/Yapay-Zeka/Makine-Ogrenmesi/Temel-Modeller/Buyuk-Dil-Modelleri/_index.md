@@ -85,8 +85,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **9**, alt teknolojiler dahil: **34**.
+Arşivdeki kayıtlar — bu düğüm: **10**, alt teknolojiler dahil: **36**.
 
+- [A Survey on Large Language Model-Based Game Agents](Arastirmalar/2026-Hu-Survey-Large-Language-Model.md) — Hu vd. (2026) · *ACM Computing Surveys* · hakemli · atıf: 201
 - [An Empirical Study on the Code Refactoring Capability of Large Language Models](Arastirmalar/2024-Cordeiro-Empirical-Study-the-Code.md) — Cordeiro vd. (2024) · *arXiv* · ön baskı / hakemsiz
 - [How Well Can Large Language Models Impersonate Individual Authors? A Comparative Evaluation](Arastirmalar/2026-Gupta-How-Well-Can-Large.md) — Gupta vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [AdSteer: Native Advertising in Large Language Model Generation](Arastirmalar/2026-Lin-AdSteer-Native-Advertising-Large.md) — Lin vd. (2026) · *arXiv* · ön baskı / hakemsiz
@@ -94,8 +95,7 @@ Arşivdeki kayıtlar — bu düğüm: **9**, alt teknolojiler dahil: **34**.
 - [FedReason: Large Language Models as Weight-Space Meta-Aggregators for Heterogeneous Federated Learning](Arastirmalar/2026-Ruzbahani-FedReason-Large-Language-Models.md) — Ruzbahani vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [Benchmarking Large Language Models on Heterogeneous Cognitive and Biomedical Knowledge Graphs: The Role of Graph Grounding in Multi-Hop Reasoning and Hallucination Mitigation](Arastirmalar/2026-Sarabadani-Benchmarking-Large-Language-Models.md) — Sarabadani vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [Encoding and Propagation of Grammatical Number in Large Language Models](Arastirmalar/2026-Solinsky-Encoding-and-Propagation-Grammatical.md) — Solinsky vd. (2026) · *arXiv* · ön baskı / hakemsiz
-- [Large Language Model-Assisted Adaptive Heuristic Search for Agile Earth Observation Satellite Scheduling](Arastirmalar/2026-Wang-Large-Language-Model-Assisted.md) — Wang vd. (2026) · *arXiv* · ön baskı / hakemsiz
-- … ve 1 kayıt daha: [Arastirmalar/](Arastirmalar/)
+- … ve 2 kayıt daha: [Arastirmalar/](Arastirmalar/)
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -105,14 +105,14 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [A Survey on Large Language Model-Based Game Agents](Arastirmalar/2026-Hu-Survey-Large-Language-Model.md) — Hu vd. (2026) · *ACM Computing Surveys* · hakemli · atıf: 201
+- [Distinct mechanisms underlying in-context learning in transformers](Baglam-Ici-Ogrenme/Arastirmalar/2026-Gibson-Distinct-mechanisms-underlying-context.md) — Gibson vd. (2026) · *Physical Review X* · hakemli · atıf: 5
 - [ECoT: Explicit Chain-of-Thought Reasoning for Zero-Shot Composed Image Retrieval](LLM-Akil-Yurutme-Yontemleri/Arastirmalar/2026-Xu-ECoT-Explicit-Chain-Thought.md) — Xu vd. (2026) · *Algorithms* · hakemli
 - [Dual Active Learning for Reinforcement Learning from Human Feedback](LLM-Hizalama/Insan-Geri-Bildiriminden-Pekistirmeli-Ogrenme/Arastirmalar/2026-Liu-Dual-Active-Learning-for.md) — Liu vd. (2026) · *Operations Research* · hakemli · atıf: 28
 - [FLowRA: Flow-Guided Rank Allocation for Parameter-Efficient Fine-Tuning of Deep Neural Networks](Parametre-Verimli-Ince-Ayar/Arastirmalar/2026-Samarin-FLowRA-Flow-Guided-Rank.md) — Samarin vd. (2026) · *Machine Learning and Knowledge Extraction* · hakemli
 - [Understanding the Fundamental Design Decisions of Retrieval-Augmented Generation Systems](Erisimle-Zenginlestirilmis-Uretim/Arastirmalar/2026-Zhao-Understanding-the-Fundamental-Design.md) — Zhao vd. (2026) · *ACM Transactions on Software Engineering and Methodology* · hakemli · atıf: 49
 - [Who Punishes LLM Alignment? User Characteristics and the Evaluation of Ethical Response Refusals](LLM-Hizalama/Arastirmalar/2026-Pasch-Who-Punishes-LLM-Alignment.md) — Pasch vd. (2026) · *International Journal of Human-Computer Interaction* · hakemli
 - [Calibration and Cross-Dataset Behavior in Malaria Microscopy with Parameter-Efficient Fine-Tuning: A Matched LoRA–PiSSA Evaluation](Parametre-Verimli-Ince-Ayar/Arastirmalar/2026-Boit-Calibration-and-Cross-Dataset.md) — Boit vd. (2026) · *Diagnostics* · hakemli
-- [FedReason: Large Language Models as Weight-Space Meta-Aggregators for Heterogeneous Federated Learning](Arastirmalar/2026-Ruzbahani-FedReason-Large-Language-Models.md) — Ruzbahani vd. (2026) · *arXiv* · ön baskı / hakemsiz
-- [Benchmarking Large Language Models on Heterogeneous Cognitive and Biomedical Knowledge Graphs: The Role of Graph Grounding in Multi-Hop Reasoning and Hallucination Mitigation](Arastirmalar/2026-Sarabadani-Benchmarking-Large-Language-Models.md) — Sarabadani vd. (2026) · *arXiv* · ön baskı / hakemsiz
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

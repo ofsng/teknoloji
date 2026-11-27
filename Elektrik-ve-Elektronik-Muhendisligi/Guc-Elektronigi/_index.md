@@ -81,7 +81,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **14**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **15**.
 
 - [Direct immersion cooling for thermal management of power electronics](Arastirmalar/2026-Jadhav-Direct-immersion-cooling-for.md) — Jadhav vd. (2026) · *International Journal of Heat and Mass Transfer* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -93,6 +93,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Comprehensive design, modeling and performance benchmarking of front-end power factor correction converter architectures for level-2 electric vehicle charger](Dogrultucular/Guc-Faktoru-Duzeltme/Arastirmalar/2026-Tiruneh-Comprehensive-design-modeling-and.md) — Tiruneh vd. (2026) · *Scientific Reports* · hakemli
 - [ANALYSIS OF A NON-ISOLATED FORM OF DC-DC CONVERTER WITH ENHANCED QUADRATIC VOLTAGE GAIN](DA-DA-Donusturuculer/Arastirmalar/2026-Duraisamy-ANALYSIS-NON-ISOLATED-FORM.md) — Duraisamy vd. (2026) · *REVUE ROUMAINE DES SCIENCES TECHNIQUES — SÉRIE ÉLECTROTECHNIQUE ET ÉNERGÉTIQUE* · hakemli
 - [Design and implementation of a High-Gain Push-Pull DC-DC Converter with two internal medium-frequency transformers for photovoltaic systems](DA-DA-Donusturuculer/Arastirmalar/2026-Franco-Design-and-implementation-High.md) — Franco vd. (2026) · *Engineering Research Express* · hakemli
 - [Direct immersion cooling for thermal management of power electronics](Arastirmalar/2026-Jadhav-Direct-immersion-cooling-for.md) — Jadhav vd. (2026) · *International Journal of Heat and Mass Transfer* · hakemli
@@ -100,7 +101,6 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [Large-signal stability analysis of reduced-order droop-controlled grid-forming inverters in islanded microgrids](Eviriciler/Sebeke-Kuran-Eviriciler/Arastirmalar/2026-Verma-Large-signal-stability-analysis.md) — Verma vd. (2026) · *International Journal of Emerging Electric Power Systems* · hakemli
 - [Design and Simulation of a Bidirectional Two-Stage DC/DC Converter with Partial Switch Sharing for Vehicle-to-Vehicle Charging Applications](DA-DA-Donusturuculer/Arastirmalar/2026-Kagan-Design-and-Simulation-Bidirectional.md) — Kağan vd. (2026) · *International journal of engineering inventions.* · hakemli
 - [Artificial Intelligence-Assisted Multi-Objective Design and Dynamic Validation of High-Efficiency Solid-State Transformers for Electric Vehicle Integration](Kati-Hal-Transformatorleri/Arastirmalar/2026-Asiegbu-Artificial-Intelligence-Assisted-Multi.md) — Asiegbu vd. (2026) · *World Electric Vehicle Journal* · hakemli
-- [Full-Speed-Range Sensorless Direct Torque Control of a Two-Level Interior Permanent Magnet Synchronous Motor Drive Using Hybrid High-Frequency Injection Model Reference Adaptive Control Estimation](Motor-Suruculer/Dogrudan-Moment-Kontrolu/Arastirmalar/2026-Choudhary-Full-Speed-Range-Sensorless.md) — Choudhary vd. (2026) · *Energies* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

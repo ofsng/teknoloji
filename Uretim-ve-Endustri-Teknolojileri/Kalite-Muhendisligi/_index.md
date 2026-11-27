@@ -78,7 +78,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **3**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -88,6 +88,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Interrogating the Role of Lean-Six Sigma Confluence in Driving Manufacturing Excellence: A Moderated Analytical Framework](Alti-Sigma/Arastirmalar/2026-Nazir-Interrogating-the-Role-Lean.md) — Nazir vd. (2026) · *Engineering Management Journal* · hakemli
 - [Method for quantitative eddy current testing of rail cracks based on gated recurrent neural network](Tahribatsiz-Muayene/Girdap-Akimi-Muayenesi/Arastirmalar/2026-Xie-Method-for-quantitative-eddy.md) — Xie vd. (2026) · *Nondestructive Testing And Evaluation* · hakemli
 - [Fatigue Damage Mechanisms and Complementary Non-Destructive Testing of Thin-Walled Structures with Various Composite Material Lay-Ups](Tahribatsiz-Muayene/Arastirmalar/2026-Rozyo-Fatigue-Damage-Mechanisms-and.md) — Różyło vd. (2026) · *Materials* · hakemli
 <!-- AUTO:RECENT:END -->

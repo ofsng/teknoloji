@@ -80,7 +80,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -90,6 +90,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Genetic circuit design across species and contexts: progress and future directions](Genetik-Devreler/Arastirmalar/2026-Adams-Genetic-circuit-design-across.md) — Adams vd. (2026) · *Frontiers in Bioengineering and Biotechnology* · hakemli
 - [Building without Cells: Integrating Biomolecules, Synthetic Materials, and Devices into Cell-Free Systems](Hucresiz-Sistemler/Arastirmalar/2026-Matsuura-Building-without-Cells-Integrating.md) — Matsuura vd. (2026) · *ACS Synthetic Biology* · hakemli
 <!-- AUTO:RECENT:END -->
 

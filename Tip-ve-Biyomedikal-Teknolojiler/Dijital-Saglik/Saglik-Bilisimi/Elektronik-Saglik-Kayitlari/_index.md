@@ -75,8 +75,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **2**.
 
+- [Electronic Health Record Integration and Usability of External Clinical Information Among US Office-Based Physicians: A Cross-Sectional Study](Arastirmalar/2026-Hamasaki-Electronic-Health-Record-Integration.md) — Hamasaki (2026) · *Healthcare* · hakemli
 - [Mentorship for electronic health record quality improvement in Nigeria: A practice framework](Arastirmalar/2026-Popoola-Mentorship-for-electronic-health.md) — Popoola (2026) · *Innovation in Health for Society* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
@@ -87,6 +88,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Electronic Health Record Integration and Usability of External Clinical Information Among US Office-Based Physicians: A Cross-Sectional Study](Arastirmalar/2026-Hamasaki-Electronic-Health-Record-Integration.md) — Hamasaki (2026) · *Healthcare* · hakemli
 - [Mentorship for electronic health record quality improvement in Nigeria: A practice framework](Arastirmalar/2026-Popoola-Mentorship-for-electronic-health.md) — Popoola (2026) · *Innovation in Health for Society* · hakemli
 <!-- AUTO:RECENT:END -->
 

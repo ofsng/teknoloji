@@ -25,7 +25,7 @@ related_versions: []
 collected_at: 2026-11-24
 last_checked_at: 2026-11-24
 content_verified: false
-identifier_verified: false
+identifier_verified: crossref
 ---
 
 # A BIF-derived MnO@BCN/graphite felt electrode for high-performance vanadium redox flow batteries

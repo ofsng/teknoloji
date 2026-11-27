@@ -77,7 +77,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **4**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **5**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -87,6 +87,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Femtosecond Laser Welding of N-BK7 Glass: From In-Volume Modification to Large-Scale, High-Strength Joining](Kaynak/Lazer-Kaynagi/Arastirmalar/2026-Lafargue-Femtosecond-Laser-Welding-BK7.md) — Lafargue vd. (2026) · *Micromachines* · hakemli
 - [Comparative study of local dry underwater and dry gas metal arc welding of mild steel](Kaynak/Ark-Kaynagi/Arastirmalar/2026-Yadav-Comparative-study-local-dry.md) — Yadav vd. (2026) · *International Journal of Intelligent Unmanned Systems* · hakemli
 - [Friction stir welding and additive friction stir deposition of high entropy alloys: A review](Kaynak/Surtunme-Karistirma-Kaynagi/Arastirmalar/2026-Korganci-Friction-stir-welding-and.md) — Korgancı vd. (2026) · *Materials Science and Technology* · hakemli
 - [Exploration of friction stir welding butted thin sheet NiTi with AA6061, AA2024, and AA7075](Kaynak/Surtunme-Karistirma-Kaynagi/Arastirmalar/2026-Terry-Exploration-friction-stir-welding.md) — Terry vd. (2026) · *Advanced Materials Joining* · hakemli

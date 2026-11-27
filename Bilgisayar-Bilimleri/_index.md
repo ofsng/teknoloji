@@ -90,7 +90,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **423**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **432**.
 
 - [METHODOLOGY FOR USING INTERACTIVE AND INNOVATIVE METHODS IN TEACHING COMPUTER SCIENCE](Arastirmalar/2026-Ozatovna-METHODOLOGY-FOR-USING-INTERACTIVE.md) — Ozatovna vd. (2026) · *HSR (London)* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -103,13 +103,13 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
 - [Enhancing throughput and Fairness in Dense WLANs Using Graph Neural Network-driven Multi-agent Reinforcement Learning](Yapay-Zeka/Makine-Ogrenmesi/Pekistirmeli-Ogrenme/Cok-Etmenli-Pekistirmeli-Ogrenme/Arastirmalar/2026-Gamal-Enhancing-throughput-and-Fairness.md) — Gamal vd. (2026) · *International journal of intelligent engineering and systems* · hakemli
+- [Applications and Trends of FPGA–SoC Integration for Low-Power Embedded Systems: A Literature Review](Bilgisayar-Mimarisi/Gomulu-Sistemler/Arastirmalar/2026-Chen-Applications-and-Trends-FPGASoC.md) — Chen (2026) · *Applied and Computational Engineering* · hakemli
+- [Leveraging Functional Programming for Real-Time Systems: A Literature Review](Bilgisayar-Mimarisi/Gomulu-Sistemler/Gercek-Zamanli-Sistemler/Arastirmalar/2026-Cenita-Leveraging-Functional-Programming-for.md) — Cenita (2026) · *An-Nahdhah Journal of Education and Culture* · hakemli
+- [A Survey on Large Language Model-Based Game Agents](Yapay-Zeka/Makine-Ogrenmesi/Temel-Modeller/Buyuk-Dil-Modelleri/Arastirmalar/2026-Hu-Survey-Large-Language-Model.md) — Hu vd. (2026) · *ACM Computing Surveys* · hakemli · atıf: 201
+- [Distinct mechanisms underlying in-context learning in transformers](Yapay-Zeka/Makine-Ogrenmesi/Temel-Modeller/Buyuk-Dil-Modelleri/Baglam-Ici-Ogrenme/Arastirmalar/2026-Gibson-Distinct-mechanisms-underlying-context.md) — Gibson vd. (2026) · *Physical Review X* · hakemli · atıf: 5
 - [DQLearnCapable: A Comprehensive Intrusion Detection and Prevention System for Network Traffic Analysis using Deep Q-Learning](Yapay-Zeka/Makine-Ogrenmesi/Pekistirmeli-Ogrenme/Deger-Tabanli-Yontemler/Zamansal-Fark-Ogrenmesi/Arastirmalar/2026-Ghani-DQLearnCapable-Comprehensive-Intrusion-Det.md) — Ghani vd. (2026) · *Journal of Computational and Cognitive Engineering* · hakemli
 - [ECoT: Explicit Chain-of-Thought Reasoning for Zero-Shot Composed Image Retrieval](Yapay-Zeka/Makine-Ogrenmesi/Temel-Modeller/Buyuk-Dil-Modelleri/LLM-Akil-Yurutme-Yontemleri/Arastirmalar/2026-Xu-ECoT-Explicit-Chain-Thought.md) — Xu vd. (2026) · *Algorithms* · hakemli
 - [Motion-guided semi-supervised learning with dynamic kernels for cardiac cine segmentation](Yapay-Zeka/Makine-Ogrenmesi/Yari-Gozetimli-Ogrenme/Arastirmalar/2026-Li-Motion-guided-semi-supervised.md) — Li vd. (2026) · *Physics in Medicine and Biology* · hakemli
-- [Implementation of Service Oriented Architecture for Data Management Using Binary Search Trees](Yazilim-Muhendisligi/Yazilim-Mimarisi/Servis-Odakli-Mimari/Arastirmalar/2026-Lemin-Implementation-Service-Oriented-Architectu.md) — Lemin (2026) · *International Journal of Innovative Science and Research Technology (IJISRT)* · hakemli
-- [SJG: A Skyline Joint Graph for Multi-Component Approximate Nearest Neighbor Search](Veritabanlari-ve-Bilgi-Sistemleri/Bilgi-Erisimi/Yaklasik-En-Yakin-Komsu-Arama/Arastirmalar/2026-Ma-SJG-Skyline-Joint-Graph.md) — Ma vd. (2026) · *arXiv* · ön baskı / hakemsiz
-- [Optimizing Banking Security: A Comparative Study of Biometric Authentication Methods](Bilgisayar-Guvenligi/Kimlik-ve-Erisim-Yonetimi/Biyometrik-Kimlik-Dogrulama/Arastirmalar/2026-Mani-Optimizing-Banking-Security-Comparative.md) — Mani (2026) · *REST Journal on Data Analytics and Artificial Intelligence* · hakemli
-- [Optimizing energy efficiency in IoT enabled wireless sensor networks via Gegenbauer graph neural network](Bilgisayar-Aglari/Ad-Hoc-ve-Orgu-Aglar/Kablosuz-Algilayici-Aglari/Arastirmalar/2026-S-Optimizing-energy-efficiency-IoT.md) — S. vd. (2026) · *Scientific Reports* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

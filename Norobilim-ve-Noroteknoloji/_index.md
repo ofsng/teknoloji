@@ -89,7 +89,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **9**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **11**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -99,14 +99,14 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Altered prefrontal hemodynamic response during a working memory task in individuals with psychotic spectrum disorders and a history of aggression measured by functional near-infrared spectroscopy](Norogoruntuleme/Fonksiyonel-Yakin-Kizilotesi-Spektroskopi/Arastirmalar/2026-Ljungberg-Altered-prefrontal-hemodynamic-respons.md) — Ljungberg vd. (2026) · *Frontiers in Psychiatry* · hakemli
+- [Applying functional MRI analysis techniques to whole-brain calcium-imaging data to investigate structural and functional relationships in Drosophila melanogaster](Sinirsel-Kayit-Teknolojileri/Kalsiyum-Goruntuleme/Arastirmalar/2026-Okuno-Applying-functional-MRI-analysis.md) — Okuno vd. (2026) · *eLife* · hakemli · atıf: 1
 - [The influence of the 1/f component in non-invasive transcranial electrical stimulation waveforms on neural oscillations](Noromodulasyon/Transkraniyal-Elektrik-Stimulasyonu/Arastirmalar/2026-Nakazono-The-influence-the-component.md) — Nakazono vd. (2026) · *Journal of NeuroEngineering and Rehabilitation* · hakemli
 - [Focused ultrasound neuromodulation of mediodorsal thalamus disrupts decision flexibility during reward learning](Noromodulasyon/Odaklanmis-Ultrason-Noromodulasyonu/Arastirmalar/2026-Mackenzie-Focused-ultrasound-neuromodulation-med.md) — Mackenzie vd. (2026) · *Nature Communications* · hakemli · atıf: 2
 - [Revolutionizing mobility: Brain computer interfaces and their applications in prosthetics](Beyin-Bilgisayar-Arayuzleri/Arastirmalar/2026-Ryuzaki-Revolutionizing-mobility-Brain-computer.md) — Ryuzaki (2026) · *Proceedings of the Nova Scotian Institute of Science* · hakemli
 - [Low Ouabain Concentration Differentially Modulates Spontaneous and Evoked Synaptic Transmission: Role of NCX Subtypes](Hucresel-ve-Molekuler-Norobilim/Sinaptik-Iletim/Arastirmalar/2026-Stepanenko-Low-Ouabain-Concentration-Differentia.md) — Stepanenko vd. (2026) · *Current Issues in Molecular Biology* · hakemli
 - [Neuroergonomic Comparison of User Experience and System Performance for SSVEP-Based Brain Computer Interfaces in Mixed Reality and Virtual Reality Environments](Beyin-Bilgisayar-Arayuzleri/Arastirmalar/2026-Qi-Neuroergonomic-Comparison-User-Experience.md) — Qi vd. (2026) · *International Journal of Human-Computer Interaction* · hakemli
 - [Acid-sensing ion channels in pain and psychiatric disorders: from basic properties to comorbidity mechanisms](Hucresel-ve-Molekuler-Norobilim/Iyon-Kanallari/Arastirmalar/2026-Li-Acid-sensing-ion-channels.md) — Li vd. (2026) · *Frontiers in Pharmacology* · hakemli
-- [Vagus nerve stimulation in obesity: a systematic review and meta-analysis](Noromodulasyon/Vagus-Siniri-Stimulasyonu/Arastirmalar/2026-Bradfield-Vagus-nerve-stimulation-obesity.md) — Bradfield vd. (2026) · *Frontiers in Neuroscience* · hakemli
-- [No Additional Benefit of 185 Hz Versus 130 Hz at Equivalent Energy in Deep Brain Stimulation for Tremor: A Randomized Prospective Clinical Trial](Noromodulasyon/Derin-Beyin-Stimulasyonu/Arastirmalar/2026-Linden-Additional-Benefit-185-Versus.md) — Linden vd. (2026) · *Movement Disorders Clinical Practice* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

@@ -26,6 +26,7 @@ collected_at: 2026-11-23
 last_checked_at: 2026-11-23
 content_verified: false
 identifier_verified: crossref
+retraction_checked: 2026-11-27
 ---
 
 # Quantum Activation Functions in Neural Networks: A Systematic Review of Approaches, Performance Impacts, and Practical Applications

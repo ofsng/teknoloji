@@ -26,6 +26,7 @@ collected_at: 2026-11-23
 last_checked_at: 2026-11-23
 content_verified: false
 identifier_verified: crossref
+retraction_checked: 2026-11-27
 ---
 
 # Knowledge Distillation and Student-Teacher Learning for Visual Intelligence: A Review and New Outlooks

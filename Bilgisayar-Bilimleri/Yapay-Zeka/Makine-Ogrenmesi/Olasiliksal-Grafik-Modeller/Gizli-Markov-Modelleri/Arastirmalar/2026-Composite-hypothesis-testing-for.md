@@ -25,7 +25,7 @@ related_versions: []
 collected_at: 2026-11-26
 last_checked_at: 2026-11-26
 content_verified: false
-identifier_verified: false
+identifier_verified: not_found
 ---
 
 # Composite hypothesis testing for hidden markov models via joint GLRT-Em estimation Bridging pointwise and uniform optimality with robust finite‑sample performance

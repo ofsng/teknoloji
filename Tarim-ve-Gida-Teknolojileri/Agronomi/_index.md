@@ -80,7 +80,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **3**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **4**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -90,6 +90,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [EVALUATING IRRIGATION WATER DISTRIBUTION EFFICIENCY UNDER DRIP IRRIGATION SYSTEMS](Sulama-Teknolojisi/Damla-Sulama/Arastirmalar/2026-El-Fattah-EVALUATING-IRRIGATION-WATER-DISTRIBUTI.md) — El-Fattah vd. (2026) · *Misr journal of agricultural engineering* · hakemli
 - [Silicate Solubilizing Microorganisms as Drivers of Soil Fertility and Plant Nutrition: Mechanisms, Plant Benefits and Critical Research Gaps](Toprak-Verimliligi/Arastirmalar/2026-Nalawade-Silicate-Solubilizing-Microorganisms-Dr.md) — Nalawade vd. (2026) · *South Asian Research Journal of Agriculture and Fisheries* · hakemli
 - [Host range evaluation of Verticillium nonalfalfae isolate Vert56 used for biological control of Ailanthus altissima : grapevine cultivars exhibit resistance](Bitki-Koruma/Biyolojik-Mucadele/Arastirmalar/2026-Dauth-Host-range-evaluation-Verticillium.md) — Dauth vd. (2026) · *Biocontrol Science and Technology* · hakemli
 - [Predatory Heteropteran Bugs as Potential Tools in Integrated Pest Management: A Review](Bitki-Koruma/Entegre-Zararli-Yonetimi/Arastirmalar/2026-Joshi-Predatory-Heteropteran-Bugs-Potential.md) — Joshi vd. (2026) · *Annual Research & Review in Biology* · hakemli

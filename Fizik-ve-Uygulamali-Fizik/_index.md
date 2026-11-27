@@ -93,7 +93,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **53**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **57**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -103,14 +103,14 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Are Pulsar Timing Array Measurements Sensitive to Gravitational Wave Non-Gaussianities?](Genel-Gorelilik-ve-Kutlecekim/Kutlecekim-Dalgalari/Pulsar-Zamanlama-Dizileri/Arastirmalar/2026-Cecchini-Are-Pulsar-Timing-Array.md) — Cecchini vd. (2026) · *Physical Review Letters* · hakemli · atıf: 3
+- [Realization variance of gravitational wave background anisotropies from shot noise for pulsar timing arrays](Genel-Gorelilik-ve-Kutlecekim/Kutlecekim-Dalgalari/Pulsar-Zamanlama-Dizileri/Arastirmalar/2026-Lin-Realization-variance-gravitational-wave.md) — Lin vd. (2026) · *Physical review. D/Physical review. D.* · hakemli · atıf: 4
+- [Lattice field theory for superconducting circuits](Kuantum-Mekanigi/Kuantum-Alan-Teorisi/Kafes-Alan-Teorisi/Arastirmalar/2026-Lin-Lattice-field-theory-for.md) — Lin vd. (2026) · *PRX Quantum* · hakemli · atıf: 3
+- [Comments on celestial CFT and $$AdS_{3}$$ string theory](Parcacik-Fizigi/Sicim-Teorisi/Arastirmalar/2026-Mol-Comments-celestial-CFT-and.md) — Mol (2026) · *The European Physical Journal C* · hakemli · atıf: 5
 - [Quantum Tunnelling: Quantum Mechanics Principles and its Applications in Nuclear Physics](Nukleer-Fizik/Arastirmalar/2026-Xia-Quantum-Tunnelling-Quantum-Mechanics.md) — Xia (2026) · *Transactions on Computer Science and Intelligent Systems Research* · hakemli
 - [Tunable coiled gradient nonlinear acoustic metamaterials for weak signal detection](Akustik/Akustik-Metamalzemeler/Arastirmalar/2026-Chen-Tunable-coiled-gradient-nonlinear.md) — Chen vd. (2026) · *Journal of Vibration and Control* · hakemli
 - [Magnetic Reconnection and High-speed Jets Downstream of a Parallel Shock: Full Particle-in-cell Simulations](Hesaplamali-Fizik/Hucre-Ici-Parcacik-Benzetimi/Arastirmalar/2026-Ouyang-Magnetic-Reconnection-and-High.md) — Ouyang vd. (2026) · *The Astrophysical Journal Letters* · hakemli
 - [AgentRivet: An automated system for producing Rivet routines from journal publications](Parcacik-Fizigi/Standart-Modelin-Otesi/Arastirmalar/2026-Costa-AgentRivet-automated-system-for.md) — Costa vd. (2026) · *SciPost Physics Codebases* · hakemli · atıf: 10
-- [Numerical Modeling and Sensitivity Analysis of Optical Turbulenceand Adaptive Optics Parameters Over the Zaouiat Ahansal SiteUsing ERA5 Reanalysis](Astronomi-ve-Astrofizik/Astronomik-Enstrumantasyon/Uyarlanabilir-Optik/Arastirmalar/2026-Oujaoura-Numerical-Modeling-and-Sensitivity.md) — Oujaoura vd. (2026) · *Research in Astronomy and Astrophysics* · hakemli
-- [Searches for heavy neutral lepton decays at spallation neutron sources](Hizlandirici-Fizigi/Parcalanma-Notron-Kaynaklari/Arastirmalar/2026-Romeri-Searches-for-heavy-neutral.md) — Romeri vd. (2026) · *Physical review. D/Physical review. D.* · hakemli · atıf: 1
-- [Symmetry breaking by interfacial dead layers: Self-induced spin-orbit torque in symmetric ferromagnets](Yogun-Madde-Fizigi/Manyetizma/Spintronik/Spin-Yorunge-Torku/Arastirmalar/2026-K-Symmetry-breaking-interfacial-dead.md) — K vd. (2026) · *Physical Review Applied* · hakemli
-- [Excitonic order tuned by electric fields and driven by interorbital Coulomb interactions in twisted bilayer graphene](Yogun-Madde-Fizigi/Moire-ve-Twistronik/Arastirmalar/2026-Fang-Excitonic-order-tuned-electric.md) — Fang vd. (2026) · *Journal of Physics Condensed Matter* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

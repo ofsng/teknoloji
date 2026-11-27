@@ -26,6 +26,7 @@ collected_at: 2026-11-15
 last_checked_at: 2026-11-15
 content_verified: false
 identifier_verified: crossref
+retraction_checked: 2026-11-27
 ---
 
 # Latent diffusion model for conditional reservoir facies generation

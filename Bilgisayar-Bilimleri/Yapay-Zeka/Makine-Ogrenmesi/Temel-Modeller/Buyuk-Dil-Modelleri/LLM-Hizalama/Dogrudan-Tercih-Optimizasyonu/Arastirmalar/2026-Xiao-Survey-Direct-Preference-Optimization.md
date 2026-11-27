@@ -25,7 +25,7 @@ related_versions: []
 collected_at: 2026-11-15
 last_checked_at: 2026-11-15
 content_verified: false
-identifier_verified: false
+identifier_verified: crossref
 ---
 
 # A Survey of Direct Preference Optimization: Datasets, Theories, Variants, and Applications

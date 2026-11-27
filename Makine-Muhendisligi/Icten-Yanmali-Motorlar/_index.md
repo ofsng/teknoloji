@@ -77,7 +77,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **2**.
 
 - [Mathematical Modeling and Comparative Analysis of Stability in Internal Combustion Engine and Electric Vehicles](Arastirmalar/2026-Tanakawin-Mathematical-Modeling-and-Comparative.md) — Tanakawin (2026) · *Journal of Research and Applications in Mechanical Engineering* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -89,6 +89,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Sizing and Exergoeconomic Analysis of a Spark-Ignition Engine Fuelled by Syngas](Buji-Ateslemeli-Motorlar/Arastirmalar/2026-Dinca-Sizing-and-Exergoeconomic-Analysis.md) — Dinca vd. (2026) · *Electrotehnica Electronica Automatica* · hakemli
 - [Mathematical Modeling and Comparative Analysis of Stability in Internal Combustion Engine and Electric Vehicles](Arastirmalar/2026-Tanakawin-Mathematical-Modeling-and-Comparative.md) — Tanakawin (2026) · *Journal of Research and Applications in Mechanical Engineering* · hakemli
 <!-- AUTO:RECENT:END -->
 

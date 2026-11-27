@@ -87,7 +87,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **9**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **10**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -97,6 +97,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Self‐Limited Formation of 2D Tin Halide Perovskite Layers by Sequential Physical Vapor Deposition](Ince-Film-Biriktirme/Fiziksel-Buhar-Biriktirme/Arastirmalar/2026-Antoniou-SelfLimited-Formation-Tin-Halide.md) — Antoniou vd. (2026) · *Advanced Materials Interfaces* · hakemli
 - [Effect of thermomechanical properties of epoxy molding compound on the reliability of fan-out wafer-level packaging](Ileri-Paketleme/Fan-Out-Pul-Duzeyinde-Paketleme/Arastirmalar/2026-Kang-Effect-thermomechanical-properties-epoxy.md) — Kang vd. (2026) · *Journal of Adhesion Science and Technology* · hakemli
 - [Enhanced electron-beam lithography to reduce the frequency scatter of 200–400 GHz superconducting microstrip resonators for on-chip filterbank spectrometers](Litografi/Elektron-Demeti-Litografisi/Arastirmalar/2026-Scholtenhuis-Enhanced-electron-beam-lithography.md) — Scholtenhuis vd. (2026) · *APL Engineering Physics* · hakemli · atıf: 1
 - [Novel Interconnect Materials for Advanced Packaging Assembly Processes](Ileri-Paketleme/Arastirmalar/2026-Lim-Novel-Interconnect-Materials-for.md) — Lim vd. (2026) · *IMAPSource Proceedings* · hakemli
@@ -104,7 +105,6 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [Mechanistic Origins of Atomic-Scale Control in Plasma-Thermal Atomic-Layer Etching of Nickel](Asindirma/Atomik-Katman-Asindirma/Arastirmalar/2026-Dinari-Mechanistic-Origins-Atomic-Scale.md) — Dinari vd. (2026) · *The Journal of Physical Chemistry C* · hakemli
 - [Composition-Dependent Atomic Layer Etching of Multicomponent Oxide Semiconductors with Preserved Electrical Performance](Asindirma/Atomik-Katman-Asindirma/Arastirmalar/2026-Kim-Composition-Dependent-Atomic-Layer.md) — Kim vd. (2026) · *ACS Applied Materials & Interfaces* · hakemli
 - [Effects of High-Temperature Vacuum Annealing on the Microstructure, Mechanical Properties, and Plasma Etching Resistance of Bulk CVD-SiC](Asindirma/Plazma-Asindirma/Arastirmalar/2026-Lee-Effects-High-Temperature-Vacuum.md) — Lee vd. (2026) · *Micromachines* · hakemli
-- [Technical Challenges for Ultra Fine Pitch Hybrid Bonding](Ileri-Paketleme/3B-Entegrasyon/Arastirmalar/2026-Woychik-Technical-Challenges-for-Ultra.md) — Woychik vd. (2026) · *IMAPSource Proceedings* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

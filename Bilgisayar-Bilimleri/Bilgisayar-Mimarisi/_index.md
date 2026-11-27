@@ -86,7 +86,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **3**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -96,6 +96,8 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Applications and Trends of FPGA–SoC Integration for Low-Power Embedded Systems: A Literature Review](Gomulu-Sistemler/Arastirmalar/2026-Chen-Applications-and-Trends-FPGASoC.md) — Chen (2026) · *Applied and Computational Engineering* · hakemli
+- [Leveraging Functional Programming for Real-Time Systems: A Literature Review](Gomulu-Sistemler/Gercek-Zamanli-Sistemler/Arastirmalar/2026-Cenita-Leveraging-Functional-Programming-for.md) — Cenita (2026) · *An-Nahdhah Journal of Education and Culture* · hakemli
 - [Using quantum annealing to generate test cases for cyber-physical systems](Gomulu-Sistemler/Siber-Fiziksel-Sistemler/Arastirmalar/2026-Araujo-Using-quantum-annealing-generate.md) — Araujo vd. (2026) · *ACM Transactions on Software Engineering and Methodology* · hakemli · atıf: 3
 <!-- AUTO:RECENT:END -->
 

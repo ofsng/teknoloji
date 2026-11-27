@@ -79,7 +79,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **2**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **3**.
 
 - [Synergizing LLMs and Formal Methods for Neural-Symbolic Reasoning](Arastirmalar/2026-Dong-Synergizing-LLMs-and-Formal.md) — Dong vd. (2026) · *Communications of the ACM* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -92,6 +92,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
 - [Enhanced Hybrid or Fuzzy Framework for Concurrent Software Using Model Checking and Machine Learning Techniques](Model-Denetimi/Arastirmalar/2026-ORASE-Enhanced-Hybrid-Fuzzy-Framework.md) — ORASE (2026) · *INTERNATIONAL JOURNAL OF COMPUTER SCIENCE AND MATHEMATICAL THEORY E-ISSN* · hakemli
+- [Small Harnesses, Default Checks, Limited Coverage: Bounded Model Checking in Practice](Model-Denetimi/Sinirli-Model-Denetimi/Arastirmalar/2026-Kolyakov-Small-Harnesses-Default-Checks.md) — Kolyakov vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [Synergizing LLMs and Formal Methods for Neural-Symbolic Reasoning](Arastirmalar/2026-Dong-Synergizing-LLMs-and-Formal.md) — Dong vd. (2026) · *Communications of the ACM* · hakemli
 <!-- AUTO:RECENT:END -->
 

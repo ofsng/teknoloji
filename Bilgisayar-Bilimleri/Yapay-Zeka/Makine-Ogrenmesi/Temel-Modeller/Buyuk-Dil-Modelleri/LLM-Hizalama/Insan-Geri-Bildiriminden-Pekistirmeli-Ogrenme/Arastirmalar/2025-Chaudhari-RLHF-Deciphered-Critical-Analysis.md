@@ -25,7 +25,7 @@ related_versions: []
 collected_at: 2026-11-15
 last_checked_at: 2026-11-15
 content_verified: false
-identifier_verified: false
+identifier_verified: crossref
 ---
 
 # RLHF Deciphered: A Critical Analysis of Reinforcement Learning from Human Feedback for LLMs

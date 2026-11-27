@@ -78,7 +78,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -89,6 +89,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
 - [Contemporary synthetic tools for the total synthesis of natural products](Toplam-Sentez/Arastirmalar/2026-Blackwell-Contemporary-synthetic-tools-for.md) — Blackwell vd. (2026) · *Chemical Society Reviews* · hakemli
+- [Asymmetric Synthesis of a Small Molecule Inhibitor of TNFα via Enantioenriched 4-Substituted Tetrahydroisoquinolines](Asimetrik-Sentez/Arastirmalar/2026-Greszler-Asymmetric-Synthesis-Small-Molecule.md) — Greszler vd. (2026) · *Organic Letters* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

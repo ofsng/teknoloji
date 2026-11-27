@@ -76,7 +76,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **4**, alt teknolojiler dahil: **6**.
+Arşivdeki kayıtlar — bu düğüm: **4**, alt teknolojiler dahil: **8**.
 
 - [Exorcising ghosts with gravitational waves](Arastirmalar/2026-Lambiase-Exorcising-ghosts-with-gravitational.md) — Lambiase vd. (2026) · *Physical Review Letters* · hakemli · atıf: 5
 - [Nonthermal leptogenesis via cosmological gravitational particle production is tested by inflationary gravitational waves](Arastirmalar/2026-Chowdhury-Nonthermal-leptogenesis-via-cosmologic.md) — Chowdhury vd. (2026) · *Physical review. D/Physical review. D.* · hakemli · atıf: 4
@@ -91,6 +91,8 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Are Pulsar Timing Array Measurements Sensitive to Gravitational Wave Non-Gaussianities?](Pulsar-Zamanlama-Dizileri/Arastirmalar/2026-Cecchini-Are-Pulsar-Timing-Array.md) — Cecchini vd. (2026) · *Physical Review Letters* · hakemli · atıf: 3
+- [Realization variance of gravitational wave background anisotropies from shot noise for pulsar timing arrays](Pulsar-Zamanlama-Dizileri/Arastirmalar/2026-Lin-Realization-variance-gravitational-wave.md) — Lin vd. (2026) · *Physical review. D/Physical review. D.* · hakemli · atıf: 4
 - [High precision timing of seven binary millisecond pulsars with the European Pulsar Timing Array](Pulsar-Zamanlama-Dizileri/Arastirmalar/2026-Liu-High-precision-timing-seven.md) — Liu vd. (2026) · *Astronomy and Astrophysics* · hakemli
 - [Three-dimensional wave optics for weak-field lensing of gravitational waves](Arastirmalar/2026-Carrillo-Gonzalez-Three-dimensional-wave-optics.md) — Carrillo-González vd. (2026) · *Monthly Notices of the Royal Astronomical Society* · hakemli · atıf: 1
 - [Exorcising ghosts with gravitational waves](Arastirmalar/2026-Lambiase-Exorcising-ghosts-with-gravitational.md) — Lambiase vd. (2026) · *Physical Review Letters* · hakemli · atıf: 5
