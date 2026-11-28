@@ -26,6 +26,7 @@ collected_at: 2026-11-24
 last_checked_at: 2026-11-24
 content_verified: false
 identifier_verified: crossref
+retraction_checked: 2026-11-28
 ---
 
 # Who Punishes LLM Alignment? User Characteristics and the Evaluation of Ethical Response Refusals

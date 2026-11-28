@@ -25,7 +25,7 @@ related_versions: []
 collected_at: 2026-11-27
 last_checked_at: 2026-11-27
 content_verified: false
-identifier_verified: false
+identifier_verified: crossref
 ---
 
 # Sculpting ultrafast mid-infrared light for solid-state high-harmonic generation

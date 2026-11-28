@@ -78,7 +78,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -88,6 +88,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Heuristic Search and Intelligent Problem Solving: Classical Foundations, Learning-Augmented Algorithms and Applications](Sezgisel-Arama/Arastirmalar/2026-Kaur-Heuristic-Search-and-Intelligent.md) — Kaur vd. (2026) · *Journal of basic and applied research international* · hakemli
 - [Hybrid Optimization with Estimation of Distribution and Monte Carlo Tree Search for Cultural-Heritage Fragment Reconstruction](Monte-Carlo-Agac-Aramasi/Arastirmalar/2026-Yang-Hybrid-Optimization-with-Estimation.md) — Yang vd. (2026) · *Electronics* · hakemli
 <!-- AUTO:RECENT:END -->
 

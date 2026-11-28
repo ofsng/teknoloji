@@ -85,7 +85,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **20**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **21**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -95,6 +95,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Sensing-Assisted Cross-Domain Channel Estimation for UAV-OFDM Systems Under Impulsive Noise](Haberlesme-Kurami/Haberlesmede-Sezim-ve-Kestirim/Kanal-Kestirimi/Arastirmalar/2026-Luo-Sensing-Assisted-Cross-Domain.md) — Luo vd. (2026) · *Sensors* · hakemli
 - [A 6 G-Oriented simulation framework for ultra-reliable low-latency communication in real-time skeletal tissue injury detection](Hucresel-Aglar/5G-Yeni-Radyo/Ultra-Guvenilir-Dusuk-Gecikmeli-Haberlesme/Arastirmalar/2026-Nagappan-Oriented-simulation-framework-for.md) — Nagappan vd. (2026) · *Discover Computing* · hakemli
 - [Dynamic multi-user optical wireless communication across a wide field-of-view enabled by a metasurface beam router](Kablosuz-Haberlesme/Arastirmalar/2026-Chen-Dynamic-multi-user-optical.md) — Chen vd. (2026) · *Optics Letters* · hakemli
 - [Recent Trends and Challenges in Deep Learning-Based CSI Feedback in Massive MIMO Systems](Kablosuz-Haberlesme/MIMO-Sistemleri/Masif-MIMO/Arastirmalar/2026-Kim-Recent-Trends-and-Challenges.md) — Kim vd. (2026) · *한국통신학회논문지* · hakemli
@@ -102,7 +103,6 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [Turbulence-aware free-space optical communication system hybrid CNN–LSTM channel modeling, adaptive prediction, and real-time mitigation](Optik-Haberlesme/Serbest-Uzay-Optik-Haberlesme/Arastirmalar/2026-Mokonnen-Turbulence-aware-free-space.md) — Mokonnen vd. (2026) · *Journal of Optical Communications* · hakemli
 - [Robust Adaptive Beamforming for LEO Satellite Constellations Under Joint Doppler, Position, and CSI Uncertainty](Uydu-Haberlesmesi/Alcak-Yorunge-Uydu-Takimyildizlari/Arastirmalar/2026-Elnashar-Robust-Adaptive-Beamforming-for.md) — Elnashar (2026) · *International Journal of Satellite Communications and Networking* · hakemli
 - [Design and analysis of a CPW-Fed truncated patch MIMO Antenna for Wi-Fi applications](Kablosuz-LAN-ve-PAN/Wi-Fi/Arastirmalar/2026-Begum-Design-and-analysis-CPW.md) — Begum vd. (2026) · *Scientific Reports* · hakemli
-- [Joint Clustering, Association, and Power Allocation in Cell-Free Massive MIMO-NOMA](Kablosuz-Haberlesme/MIMO-Sistemleri/Hucresiz-Masif-MIMO/Arastirmalar/2026-Hiremath-Joint-Clustering-Association-and.md) — Hiremath vd. (2026) · *International Journal of Electronics and Communication Engineering* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

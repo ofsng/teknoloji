@@ -75,9 +75,10 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **2**.
+Arşivdeki kayıtlar — bu düğüm: **3**, alt teknolojiler dahil: **3**.
 
 - [Nonlinear model predictive control for railway stabilization operation based on spatial-domain receding horizon optimization](Arastirmalar/2026-Chen-Nonlinear-model-predictive-control.md) — Chen vd. (2026) · *Proceedings of the Institution of Mechanical Engineers Part F Journal of Rail and Rapid Transit* · hakemli
+- [Risk Field-Guided Adaptive Nonlinear Model Predictive Control for ROV Path Tracking](Arastirmalar/2026-Dai-Risk-Field-Guided-Adaptive.md) — Dai vd. (2026) · *Journal of Marine Science and Engineering* · hakemli
 - [Nonlinear model predictive control for lateral path tracking of intelligent vehicles considering model uncertainties](Arastirmalar/2026-Fan-Nonlinear-model-predictive-control.md) — Fan vd. (2026) · *Proceedings of the Institution of Mechanical Engineers Part D Journal of Automobile Engineering* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
@@ -88,6 +89,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Risk Field-Guided Adaptive Nonlinear Model Predictive Control for ROV Path Tracking](Arastirmalar/2026-Dai-Risk-Field-Guided-Adaptive.md) — Dai vd. (2026) · *Journal of Marine Science and Engineering* · hakemli
 - [Nonlinear model predictive control for railway stabilization operation based on spatial-domain receding horizon optimization](Arastirmalar/2026-Chen-Nonlinear-model-predictive-control.md) — Chen vd. (2026) · *Proceedings of the Institution of Mechanical Engineers Part F Journal of Rail and Rapid Transit* · hakemli
 - [Nonlinear model predictive control for lateral path tracking of intelligent vehicles considering model uncertainties](Arastirmalar/2026-Fan-Nonlinear-model-predictive-control.md) — Fan vd. (2026) · *Proceedings of the Institution of Mechanical Engineers Part D Journal of Automobile Engineering* · hakemli
 <!-- AUTO:RECENT:END -->

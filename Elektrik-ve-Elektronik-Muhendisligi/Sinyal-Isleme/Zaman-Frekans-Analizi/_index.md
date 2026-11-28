@@ -76,7 +76,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **2**.
 
 - [BeiDou positioning signal interference recognition and processing algorithm based on time-frequency analysis](Arastirmalar/2026-Yuan-BeiDou-positioning-signal-interference.md) — Yuan vd. (2026) · *Discover Computing* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -88,6 +88,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [A time-frequency signal processing and improved autoencoder approach for chatter detection in milling](Kisa-Zamanli-Fourier-Donusumu/Arastirmalar/2026-Matthew-time-frequency-signal-processing.md) — Matthew vd. (2026) · *Proceedings of the Institution of Mechanical Engineers Part C Journal of Mechanical Engineering Science* · hakemli
 - [BeiDou positioning signal interference recognition and processing algorithm based on time-frequency analysis](Arastirmalar/2026-Yuan-BeiDou-positioning-signal-interference.md) — Yuan vd. (2026) · *Discover Computing* · hakemli
 <!-- AUTO:RECENT:END -->
 

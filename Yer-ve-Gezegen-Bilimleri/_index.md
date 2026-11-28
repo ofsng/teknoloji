@@ -85,7 +85,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **10**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **11**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -95,6 +95,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [A differentiable framework for general circulation model precipitation bias correction](Iklim-Bilimi/Iklim-Modelleme/Genel-Dolasim-Modelleri/Arastirmalar/2026-Sawadekar-differentiable-framework-for-general.md) — Sawadekar vd. (2026) · *Geoscientific model development* · hakemli
 - [Estimating the impact of ice-sheet surface height and ice-divide variability on ice-core based climate reconstructions](Iklim-Bilimi/Paleoklimatoloji/Arastirmalar/2026-Wirths-Estimating-the-impact-ice.md) — Wirths vd. (2026) · *The Cryosphere* · hakemli · atıf: 1
 - [A method for estimating urban geometric parameters for numerical weather prediction models by combining ALOS-DSM, GlobeLand30, and OpenStreetMap](Atmosfer-Bilimleri/Meteoroloji/Sayisal-Hava-Tahmini/Arastirmalar/2026-Din-method-for-estimating-urban.md) — Din vd. (2026) · *All Earth* · hakemli
 - [Mapping of Areas Affected by the Eruption of Mount Marapi in West Sumatra Using the Differential Interferometric Synthetic Aperture Radar (DInSAR) Method](Uzaktan-Algilama/Yapay-Aciklikli-Radar/Arastirmalar/2026-Sari-Mapping-Areas-Affected-the.md) — Sari vd. (2026) · *Journal of Multidisciplinary Science MIKAILALSYS* · hakemli
@@ -102,7 +103,6 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [Distributed acoustic sensing for marine mammal monitoring](Jeofizik/Sismoloji/Dagitik-Akustik-Algilama/Arastirmalar/2026-Bouffaut-Distributed-acoustic-sensing-for.md) — Bouffaut (2026) · *Methods in Ecology and Evolution* · hakemli · atıf: 1
 - [Ground-Penetrating Radar Evaluation for Detecting Subsurface Defects in Reinforced Concrete Slabs through Controlled Laboratory Investigation](Jeofizik/Arama-Jeofizigi/Yere-Nufuz-Eden-Radar/Arastirmalar/2026-Hedjazi-Ground-Penetrating-Radar-Evaluation.md) — Hedjazi vd. (2026) · *Transportation Research Record Journal of the Transportation Research Board* · hakemli
 - [YOLO vs. diffusion networks for underground pipe detection: a case study using ground penetrating radar data](Jeofizik/Arama-Jeofizigi/Yere-Nufuz-Eden-Radar/Arastirmalar/2026-Senousy-YOLO-diffusion-networks-for.md) — Senousy vd. (2026) · *Scientific Reports* · hakemli
-- [Crop biophysical parameter estimation via AI-enhanced hyperspectral remote sensing](Uzaktan-Algilama/Hiperspektral-Uzaktan-Algilama/Arastirmalar/2026-Zhang-Crop-biophysical-parameter-estimation.md) — Zhang vd. (2026) · *Geo-spatial Information Science* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

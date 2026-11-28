@@ -77,7 +77,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -87,6 +87,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [A differentiable framework for general circulation model precipitation bias correction](Genel-Dolasim-Modelleri/Arastirmalar/2026-Sawadekar-differentiable-framework-for-general.md) — Sawadekar vd. (2026) · *Geoscientific model development* · hakemli
 - [Toward Spectrally Consistent Solar Radiative Coupling Between the Atmosphere and the Cryosphere in Earth System Models](Yer-Sistemi-Modelleri/Arastirmalar/2026-Tolento-Toward-Spectrally-Consistent-Solar.md) — Tolento vd. (2026) · *Journal of Geophysical Research Atmospheres* · hakemli
 <!-- AUTO:RECENT:END -->
 

@@ -25,7 +25,7 @@ related_versions: []
 collected_at: 2026-11-25
 last_checked_at: 2026-11-25
 content_verified: false
-identifier_verified: false
+identifier_verified: crossref
 ---
 
 # Enhanced Temperature Sensitivity by Nickel–Copper-Coated Optical Fiber in Distributed Sensing Based on Rayleigh Scattering

@@ -25,7 +25,7 @@ related_versions: []
 collected_at: 2026-11-26
 last_checked_at: 2026-11-26
 content_verified: false
-identifier_verified: false
+identifier_verified: doi.org
 ---
 
 # Development of an Evaluation Framework for Claimed Quantum Advantage in Quantum Machine Learning Using Published Benchmark Results

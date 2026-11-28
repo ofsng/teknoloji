@@ -81,7 +81,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **30**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **31**.
 
 - [RENEWABLE ENERGY INTEGRATION AND ENERGY SECURITY IN SOUTHEASTERN NIGERIA: CHALLENGES, OPPORTUNITIES, AND STRATEGIC PATHWAYS](Arastirmalar/2026-Ifeachor-RENEWABLE-ENERGY-INTEGRATION-AND.md) — Ifeachor (2026) · *British Journal of Advanced Research* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -93,6 +93,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [LQR Robustness to Kite-Boundary and Fractional-Order Uncertainty in Linearized Airborne Wind Energy Tether Models](Ruzgar-Enerjisi/Havadan-Ruzgar-Enerjisi/Arastirmalar/2026-Omar-LQR-Robustness-Kite-Boundary.md) — Omar vd. (2026) · *Fractal and Fractional* · hakemli
 - [Environmental Screening for Shore-Based Ocean Thermal Energy Conversion Site Selection: FVCOM Modeling of Copper Dispersion in the Xisha Sea](Okyanus-Enerjisi/Okyanus-Termal-Enerji-Donusumu/Arastirmalar/2026-Tian-Environmental-Screening-for-Shore.md) — Tian vd. (2026) · *Journal of Marine Science and Engineering* · hakemli
 - [Static-Torque Enhancement of Darrieus Vertical-Axis Wind Turbines with Dual-Airfoil Blades](Ruzgar-Enerjisi/Dikey-Eksenli-Ruzgar-Turbinleri/Arastirmalar/2026-Arana-Static-Torque-Enhancement-Darrieus.md) — Arana vd. (2026) · *Wind* · hakemli
 - [Spatial prioritization of official offshore wind zones in the Colombian Caribbean: A comparative assessment of fixed-bottom and floating areas](Ruzgar-Enerjisi/Deniz-Ustu-Ruzgar/Arastirmalar/2026-Robles-Algarin-Spatial-prioritization-official-o.md) — Robles-Algarín vd. (2026) · *Energy Exploration & Exploitation* · hakemli
@@ -100,7 +101,6 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [2D-TMDC Hole Transport Layers for Back-Surface Passivation in Thin-Film Solar Cells](Gunes-Enerjisi/Fotovoltaik/Ince-Film-Gunes-Hucreleri/Arastirmalar/2026-Haridas-TMDC-Hole-Transport-Layers.md) — Haridas vd. (2026) · *Nanomaterials* · hakemli
 - [Optimizing the Performance of Perovskite Solar Cells through Triple-Diode Model: Achieving Maximum Power Conversion Efficiency and Minimizing Statistical Errors](Gunes-Enerjisi/Fotovoltaik/Perovskit-Gunes-Hucreleri/Arastirmalar/2026-Subash-Optimizing-the-Performance-Perovskite.md) — Subash vd. (2026) · *Journal of Circuits Systems and Computers* · hakemli
 - [Economic viability of floating offshore wind in Portugal with varying market conditions and financial support mechanisms](Ruzgar-Enerjisi/Deniz-Ustu-Ruzgar/Yuzer-Deniz-Ustu-Ruzgar/Arastirmalar/2026-White-Economic-viability-floating-offshore.md) — White vd. (2026) · *Wind energy science* · hakemli · atıf: 1
-- [RENEWABLE ENERGY INTEGRATION AND ENERGY SECURITY IN SOUTHEASTERN NIGERIA: CHALLENGES, OPPORTUNITIES, AND STRATEGIC PATHWAYS](Arastirmalar/2026-Ifeachor-RENEWABLE-ENERGY-INTEGRATION-AND.md) — Ifeachor (2026) · *British Journal of Advanced Research* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

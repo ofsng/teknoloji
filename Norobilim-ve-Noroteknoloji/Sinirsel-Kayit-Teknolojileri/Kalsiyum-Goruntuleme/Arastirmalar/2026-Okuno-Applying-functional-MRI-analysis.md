@@ -21,11 +21,11 @@ cited_by_count: 1
 content_status: abstract_only
 abstract_license: cc-by
 retraction_status: none_reported
-related_versions: []
+related_versions: [{"relation": "preprint", "doi": "10.1101/2025.07.01.662601", "source": "crossref"}]
 collected_at: 2026-11-27
 last_checked_at: 2026-11-27
 content_verified: false
-identifier_verified: false
+identifier_verified: crossref
 ---
 
 # Applying functional MRI analysis techniques to whole-brain calcium-imaging data to investigate structural and functional relationships in Drosophila melanogaster

@@ -25,7 +25,7 @@ related_versions: []
 collected_at: 2026-11-27
 last_checked_at: 2026-11-27
 content_verified: false
-identifier_verified: false
+identifier_verified: crossref
 ---
 
 # Comprehensive design, modeling and performance benchmarking of front-end power factor correction converter architectures for level-2 electric vehicle charger

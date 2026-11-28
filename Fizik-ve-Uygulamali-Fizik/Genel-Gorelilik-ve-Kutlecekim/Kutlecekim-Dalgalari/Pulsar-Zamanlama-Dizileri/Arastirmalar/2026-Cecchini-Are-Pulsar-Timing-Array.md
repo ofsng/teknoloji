@@ -21,11 +21,11 @@ cited_by_count: 3
 content_status: abstract_only
 abstract_license: cc-by
 retraction_status: none_reported
-related_versions: []
+related_versions: [{"relation": "preprint", "doi": "10.48550/arxiv.2605.05157", "source": "crossref"}]
 collected_at: 2026-11-27
 last_checked_at: 2026-11-27
 content_verified: false
-identifier_verified: false
+identifier_verified: crossref
 ---
 
 # Are Pulsar Timing Array Measurements Sensitive to Gravitational Wave Non-Gaussianities?

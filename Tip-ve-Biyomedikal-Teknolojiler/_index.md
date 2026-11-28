@@ -87,7 +87,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **77**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **81**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -98,13 +98,13 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
 - [Advances in Minimally Invasive Approaches and Precision Medicine for the Management of Venous Thrombophlebitis: A Narrative Review](Hassas-Tip/Arastirmalar/2026-Nakum-Advances-Minimally-Invasive-Approaches.md) — Nakum vd. (2026) · *JOURNAL OF CLINICAL AND DIAGNOSTIC RESEARCH* · hakemli
+- [CD19-directed CAR T-cell therapy for relapsed/refractory follicular lymphoma: off-trial outcomes and subsequent therapy](Ileri-Tedaviler/Hucre-Tedavisi/CAR-T-Hucre-Tedavisi/Arastirmalar/2026-RivasDelgado-CD19-directed-CAR-cell.md) — Rivas‐Delgado vd. (2026) · *Blood Cancer Journal* · hakemli
+- [Metabolic fitness of CAR T-cell therapy: an aging approach](Ileri-Tedaviler/Hucre-Tedavisi/CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Sarabia-Sanchez-Metabolic-fitness-CAR-cell.md) — Sarabia-Sánchez vd. (2026) · *Frontiers in Immunology* · hakemli
+- [Tuberculosis after CAR T Cell Therapy: When Should the Differential Diagnosis Be Reopened?](Ileri-Tedaviler/Hucre-Tedavisi/CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Yang-Tuberculosis-after-CAR-Cell.md) — Yang vd. (2026) · *Infectious Diseases and Therapy* · hakemli
 - [Electronic Health Record Integration and Usability of External Clinical Information Among US Office-Based Physicians: A Cross-Sectional Study](Dijital-Saglik/Saglik-Bilisimi/Elektronik-Saglik-Kayitlari/Arastirmalar/2026-Hamasaki-Electronic-Health-Record-Integration.md) — Hamasaki (2026) · *Healthcare* · hakemli
 - [Time to Flip the Script: Advanced Therapy Is Appropriate for Most Patients with Recently Diagnosed IBD](Ileri-Tedaviler/Arastirmalar/2026-Mecsas-Faxon-Time-Flip-the-Script.md) — Mecsas-Faxon vd. (2026) · *The American Journal of Gastroenterology* · hakemli
 - [Radiomics in bladder cancer: current clinical applications, translational bottlenecks, and the roadmap to translation](Tibbi-Cihazlar/Tibbi-Cihaz-Olarak-Yazilim/Arastirmalar/2026-Liu-Radiomics-bladder-cancer-current.md) — Liu vd. (2026) · *World Journal of Surgical Oncology* · hakemli
 - [CAR T-cell Therapy for Acute Myeloid Leukemia: Matching Target, Product and Treatment Context](Ileri-Tedaviler/Hucre-Tedavisi/CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Su-CAR-cell-Therapy-for.md) — Su vd. (2026) · *Stem Cell Reviews and Reports* · hakemli
-- [Implementing a Clinical Decision Support System for Pressure Injury Risk Management in Intensive Care Nursing: A Mixed‐Methods Evaluation](Dijital-Saglik/Saglik-Bilisimi/Klinik-Karar-Destek-Sistemleri/Arastirmalar/2026-Adibelli-Implementing-Clinical-Decision-Support.md) — Adıbelli vd. (2026) · *Journal of Advanced Nursing* · hakemli
-- [What is phage therapy?](Ileri-Tedaviler/Faj-Tedavisi/Arastirmalar/2026-Rose-What-phage-therapy.md) — Rose vd. (2026) · *Archives of Disease in Childhood Education & Practice* · hakemli
-- [Long-term follow-up and late complications of CAR-T cell therapy](Ileri-Tedaviler/Hucre-Tedavisi/CAR-T-Hucre-Tedavisi/Arastirmalar/2026-Fatobene-Long-term-follow-and.md) — Fatobene vd. (2026) · *JOURNAL OF BONE MARROW TRANSPLANTATION AND CELLULAR THERAPY* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

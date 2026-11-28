@@ -78,7 +78,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **8**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **9**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -93,9 +93,9 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [Synergistic Cu–Co Sites Enabled Reversible H 2 Storage and Release in Liquid Organic Hydrogen Carriers](Hidrojen-Depolama/Sivi-Organik-Hidrojen-Tasiyicilari/Arastirmalar/2026-Wang-Synergistic-CuCo-Sites-Enabled.md) — Wang vd. (2026) · *Angewandte Chemie* · hakemli
 - [Quantitative analysis of cathode polarization in a direct methanol fuel cell employing a methanol-tolerant Fe-N-C-type catalyst](Yakit-Hucreleri/Dogrudan-Metanol-Yakit-Hucreleri/Arastirmalar/2026-Nakagawa-Quantitative-analysis-cathode-polarizat.md) — Nakagawa vd. (2026) · *Journal of Power Sources* · hakemli
 - [Self-foaming Fe–Sn powder beds for durable hydrogen storage and release](Hidrojen-Depolama/Arastirmalar/2026-Zhang-Self-foaming-FeSn-powder.md) — Zhang vd. (2026) · *Materials Today* · hakemli
+- [Hydroxyl-Mediated Electrochemical Dehydrogenative Coupling of 5-Aminotetrazole for Energetic Azotetrazolate Synthesis and Energy-Saving Hydrogen Production](Hidrojen-Uretimi/Arastirmalar/2026-Ma-Hydroxyl-Mediated-Electrochemical-Dehydrogena.md) — Ma vd. (2026) · *ACS Sustainable Chemistry & Engineering* · hakemli
 - [Transition Metal Chalcogenides as Electrocatalysts for Anion Exchange Membrane Water Electrolysis](Hidrojen-Uretimi/Su-Elektrolizi/Arastirmalar/2026-Tamang-Transition-Metal-Chalcogenides-Electrocat.md) — Tamang vd. (2026) · *Chemistry of Materials* · hakemli
 - [Comparative Exergoeconomic Analysis of Hybrid Systems Integrating Chemical Looping Combustion and Solid Oxide Fuel Cell for Low-Carbon Methanol and Power Cogeneration](Yakit-Hucreleri/Kati-Oksit-Yakit-Hucreleri/Arastirmalar/2026-Hao-Comparative-Exergoeconomic-Analysis-Hybrid.md) — Hao vd. (2026) · *ACS Sustainable Chemistry & Engineering* · hakemli
-- [Titanium-Based Binary (TiN/316L) and Ternary Nitride (TiAL(x:y)N/316L) Coatings Systems for Proton Exchange Membrane Fuel Cell Metallic Bipolar Plates](Yakit-Hucreleri/Proton-Degisim-Membranli-Yakit-Hucreleri/Arastirmalar/2026-Arafat-Titanium-Based-Binary-TiN.md) — Arafat vd. (2026) · *Journal of Manufacturing and Materials Processing* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

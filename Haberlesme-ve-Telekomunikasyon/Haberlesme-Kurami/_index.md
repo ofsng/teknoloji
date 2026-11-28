@@ -80,7 +80,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **3**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -90,6 +90,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Sensing-Assisted Cross-Domain Channel Estimation for UAV-OFDM Systems Under Impulsive Noise](Haberlesmede-Sezim-ve-Kestirim/Kanal-Kestirimi/Arastirmalar/2026-Luo-Sensing-Assisted-Cross-Domain.md) — Luo vd. (2026) · *Sensors* · hakemli
 - [Noncoherent polarization optical code division multiple access system using 2-D Aopatric codes with two-code keying](Coklu-Erisim-Teknikleri/Kod-Bolmeli-Coklu-Erisim/Arastirmalar/2026-Yeh-Noncoherent-polarization-optical-code.md) — Yeh (2026) · *Engineering Research Express* · hakemli
 - [Adaptive scrambling-based hadamard transform for peak-to-average power ratio reduction in sixth-generation orthogonal time-frequency space waveforms](Modulasyon/Cok-Tasiyicili-Modulasyon/Dik-Zaman-Frekans-Uzayi/Arastirmalar/2026-Kumar-Adaptive-scrambling-based-hadamard.md) — Kumar vd. (2026) · *PeerJ Computer Science* · hakemli
 <!-- AUTO:RECENT:END -->

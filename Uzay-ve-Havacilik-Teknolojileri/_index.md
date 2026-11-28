@@ -90,7 +90,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **9**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **10**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -100,6 +100,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Mode locking and resonance selection in rotating detonation engines under inlet-pressure forcing](Hava-Araci-Itkisi/Doner-Detonasyon-Motorlari/Arastirmalar/2026-Chai-Mode-locking-and-resonance.md) — Chai vd. (2026) · *Journal of Fluid Mechanics* · hakemli
 - [Design-Metric Bias Assessment of Atmospheric Representations for Mars Entry, Descent, and Landing](Uzay-Kesif-Teknolojileri/Giris-Inis-ve-Konma/Arastirmalar/2026-Park-Design-Metric-Bias-Assessment.md) — Park (2026) · *Journal of Spacecraft and Rockets* · hakemli
 - [Toward practical deep-reinforcement-learning flow control in wings: Sensor placement effects on turbulent separation suppression](Aerodinamik/Akis-Kontrolu/Arastirmalar/2026-Montala-Toward-practical-deep-reinforcement.md) — Montalà vd. (2026) · *International Journal of Heat and Fluid Flow* · hakemli
 - [Non-Fragile Formation Under Sojourn-Probability-Based Stochastic Communication for UAV Swarms](Insansiz-Hava-Araclari/IHA-Suruleri/Arastirmalar/2026-Gao-Non-Fragile-Formation-Under.md) — Gao vd. (2026) · *Sensors* · hakemli
@@ -107,7 +108,6 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [A Comprehensive Review on Next Generation Unmanned Aerial Vehicles: Hydrogen Fuel Cell Technology](Insansiz-Hava-Araclari/Arastirmalar/2026-Sahin-Comprehensive-Review-Next-Generation.md) — Şahin vd. (2026) · *Drones* · hakemli
 - [Study of options for constructing a low-orbit addition to the global navigation satellite system](Uydu-Teknolojisi/Kuresel-Uydu-Seyrusefer-Sistemleri/Arastirmalar/2026-Spesivtsev-Study-options-for-constructing.md) — Spesivtsev vd. (2026) · *Journal of Radio Electronics* · hakemli
 - [Numerical Investigation of Feedback Path Selection for Envelope Shaping in Fixed-Wing UAVs](Insansiz-Hava-Araclari/Sabit-Kanatli-IHA-lar/Arastirmalar/2026-Cao-Numerical-Investigation-Feedback-Path.md) — Cao vd. (2026) · *Applied Sciences* · hakemli
-- [Graded-Compliance Metal-Packaged FBG Strain Sensor for Cryogenic Strain Measurement of Reusable Launch Vehicles](Uzay-Itkisi/Yeniden-Kullanilabilir-Firlatma-Araclari/Arastirmalar/2026-Sun-Graded-Compliance-Metal-Packaged.md) — Sun vd. (2026) · *Aerospace* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

@@ -25,7 +25,8 @@ related_versions: []
 collected_at: 2026-11-27
 last_checked_at: 2026-11-27
 content_verified: false
-identifier_verified: false
+identifier_verified: crossref
+retraction_checked: 2026-11-28
 ---
 
 # A Multi-Orientation Texture-Based Clustering Algorithm for Image Datasets Using GLCM and Genetic Algorithms

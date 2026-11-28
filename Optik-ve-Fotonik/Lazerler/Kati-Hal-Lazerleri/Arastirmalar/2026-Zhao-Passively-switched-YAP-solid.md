@@ -25,7 +25,7 @@ related_versions: []
 collected_at: 2026-11-27
 last_checked_at: 2026-11-27
 content_verified: false
-identifier_verified: false
+identifier_verified: crossref
 ---
 
 # Passively Q-switched Tm:YAP solid-state laser based on a NiPS 3 saturable absorber

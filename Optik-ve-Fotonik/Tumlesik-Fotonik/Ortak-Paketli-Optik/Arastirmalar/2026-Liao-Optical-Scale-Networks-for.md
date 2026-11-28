@@ -25,7 +25,7 @@ related_versions: []
 collected_at: 2026-11-26
 last_checked_at: 2026-11-26
 content_verified: false
-identifier_verified: false
+identifier_verified: crossref
 ---
 
 # Optical Scale-Up Networks for AI Clusters: A Review of Co-Packaged Optics and Emerging Light Sources

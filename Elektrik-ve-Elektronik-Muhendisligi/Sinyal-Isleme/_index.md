@@ -85,7 +85,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **5**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **6**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -95,6 +95,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [A time-frequency signal processing and improved autoencoder approach for chatter detection in milling](Zaman-Frekans-Analizi/Kisa-Zamanli-Fourier-Donusumu/Arastirmalar/2026-Matthew-time-frequency-signal-processing.md) — Matthew vd. (2026) · *Proceedings of the Institution of Mechanical Engineers Part C Journal of Mechanical Engineering Science* · hakemli
 - [Least ln-cosh-based adaptive filtering algorithm for graph signal processing](Cizge-Sinyal-Isleme/Arastirmalar/2026-Zhang-Least-cosh-based-adaptive.md) — Zhang vd. (2026) · *IEEE Trans. Aerosp. Electron. Syst., early access, 2026* · hakemli
 - [Classification Based Review of The Variants of Fast Fourier Transform (FFT) Algorithms](Sayisal-Sinyal-Isleme/Hizli-Fourier-Donusumu/Arastirmalar/2026-Tebepah-Classification-Based-Review-The.md) — Tebepah (2026) · *INTERNATIONAL JOURNAL OF COMPUTER SCIENCE AND MATHEMATICAL THEORY E-ISSN* · hakemli
 - [BeiDou positioning signal interference recognition and processing algorithm based on time-frequency analysis](Zaman-Frekans-Analizi/Arastirmalar/2026-Yuan-BeiDou-positioning-signal-interference.md) — Yuan vd. (2026) · *Discover Computing* · hakemli

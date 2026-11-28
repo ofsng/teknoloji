@@ -77,7 +77,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -87,6 +87,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Seismic Isolation Retrofit Following Early Design Standards: A Case Study](Sismik-Izolasyon/Arastirmalar/2026-Bustamante-Seismic-Isolation-Retrofit-Following.md) — Bustamante vd. (2026) · *Earthquake Spectra* · hakemli
 - [Low-Damping and Lightweight Advantages of Suspending Inerter-Enabled Tuned Mass Dampers](Yapisal-Kontrol/Arastirmalar/2026-Zhao-Low-Damping-and-Lightweight.md) — Zhao vd. (2026) · *Journal of Structural Engineering* · hakemli
 <!-- AUTO:RECENT:END -->
 

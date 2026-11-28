@@ -84,7 +84,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **54**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **58**.
 
 - [The Role of Civil Engineering in Renewable Energy Storage: Contributions and Challenges](Arastirmalar/2026-Yao-The-Role-Civil-Engineering.md) — Yao (2026) · *Applied and Computational Engineering* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -96,14 +96,14 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [LQR Robustness to Kite-Boundary and Fractional-Order Uncertainty in Linearized Airborne Wind Energy Tether Models](Yenilenebilir-Enerji/Ruzgar-Enerjisi/Havadan-Ruzgar-Enerjisi/Arastirmalar/2026-Omar-LQR-Robustness-Kite-Boundary.md) — Omar vd. (2026) · *Fractal and Fractional* · hakemli
 - [Environmental Screening for Shore-Based Ocean Thermal Energy Conversion Site Selection: FVCOM Modeling of Copper Dispersion in the Xisha Sea](Yenilenebilir-Enerji/Okyanus-Enerjisi/Okyanus-Termal-Enerji-Donusumu/Arastirmalar/2026-Tian-Environmental-Screening-for-Shore.md) — Tian vd. (2026) · *Journal of Marine Science and Engineering* · hakemli
+- [Design and experimental evaluation of a 2.4-GHz rectenna for RF energy harvesting in CubeSat applications](Enerji-Donusum-Teknolojileri/Enerji-Hasadi/RF-Enerji-Hasadi/Arastirmalar/2026-Medina-Design-and-experimental-evaluation.md) — Medina vd. (2026) · *Scientific Reports* · hakemli
 - [Techno-Economic and Performance Assessment of Battery versus Green Hydrogen Storage Systems for Large-Scale Grid Decarbonization](Enerji-Depolama/Elektrokimyasal-Enerji-Depolama/Akis-Bataryalari/Vanadyum-Redoks-Akis-Bataryalari/Arastirmalar/2026-Adak-Techno-Economic-and-Performance.md) — Adak vd. (2026) · *International Journal of Scientific Research in Science and Technology* · hakemli
 - [Heat and Mass Transfer Evaluation of Geosynthetic-Insulation Cover for a Pit Thermal Energy Storage System](Enerji-Depolama/Isil-Enerji-Depolama/Arastirmalar/2026-Kabir-Heat-and-Mass-Transfer.md) — Kabir vd. (2026) · *Australian Geomechanics Journal* · hakemli
 - [A BIF-derived MnO@BCN/graphite felt electrode for high-performance vanadium redox flow batteries](Enerji-Depolama/Elektrokimyasal-Enerji-Depolama/Akis-Bataryalari/Vanadyum-Redoks-Akis-Bataryalari/Arastirmalar/2026-Xiao-BIF-derived-MnO-BCN.md) — Xiao vd. (2026) · *Chemical Communications* · hakemli
 - [Uncovering the erratic behaviour of heat and reaction fronts in thermochemical energy storage with non-stoichiometric oxides](Enerji-Depolama/Isil-Enerji-Depolama/Termokimyasal-Enerji-Depolama/Arastirmalar/2026-Kasim-Uncovering-the-erratic-behaviour.md) — Kasim vd. (2026) · *Energy Conversion and Management* · hakemli
 - [Integration of Fog-Intelligent and Federated Learning for Decentralized Green Hydrogen Storage Systems: A Review](Hidrojen-Teknolojileri/Hidrojen-Depolama/Arastirmalar/2026-Monye-Integration-Fog-Intelligent-and.md) — Monye vd. (2026) · *International Journal of Energy Research Science and Engineering* · hakemli
-- [Static-Torque Enhancement of Darrieus Vertical-Axis Wind Turbines with Dual-Airfoil Blades](Yenilenebilir-Enerji/Ruzgar-Enerjisi/Dikey-Eksenli-Ruzgar-Turbinleri/Arastirmalar/2026-Arana-Static-Torque-Enhancement-Darrieus.md) — Arana vd. (2026) · *Wind* · hakemli
-- [Review of research and commercial solar concentrated systems for process heat with thermal energy storage in Greece and Cyprus](Enerji-Depolama/Isil-Enerji-Depolama/Arastirmalar/2026-Alexopoulos-Review-research-and-commercial.md) — Alexopoulos vd. (2026) · *Green Energy and Sustainability* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

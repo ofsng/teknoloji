@@ -79,7 +79,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **2**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **3**.
 
 - [MODERN METHODS FOR AUTOMATING TECHNOLOGICAL PROCESSES IN THE FOOD INDUSTRY](Arastirmalar/2026-kizi-MODERN-METHODS-FOR-AUTOMATING.md) — kizi (2026) · *HSR (London)* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -91,6 +91,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Advanced Process Automation and Distributed Control Systems for Improving Operational Efficiency in Saudi Arabia's Oil and Gas Industry](Dagitik-Kontrol-Sistemleri/Arastirmalar/2026-Mirza-Advanced-Process-Automation-and.md) — Mirza (2026) · *Global Academic Journal of Economics and Business* · hakemli
 - [LSTM Network Architecture based on Programmable Logic Controllers](Programlanabilir-Mantik-Denetleyicileri/Arastirmalar/2026-Shevchenko-LSTM-Network-Architecture-based.md) — Shevchenko vd. (2026) · *PROGRAMMNAYA INGENERIA* · hakemli
 - [MODERN METHODS FOR AUTOMATING TECHNOLOGICAL PROCESSES IN THE FOOD INDUSTRY](Arastirmalar/2026-kizi-MODERN-METHODS-FOR-AUTOMATING.md) — kizi (2026) · *HSR (London)* · hakemli
 <!-- AUTO:RECENT:END -->

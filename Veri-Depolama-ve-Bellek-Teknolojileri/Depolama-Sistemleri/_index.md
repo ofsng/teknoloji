@@ -81,7 +81,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -91,6 +91,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [RIPPLE: A DISTRIBUTED FRAMEWORK FOR EFFICIENT DATA DEDUPLICATION AT THE EDGE](Veri-Tekillestirme/Arastirmalar/2026-Jones-RIPPLE-DISTRIBUTED-FRAMEWORK-FOR.md) — Jones (2026) · *American Journal of AI Cyber Computing Management* · hakemli
 - [Solving Time Complexity Issues in Storage Area Network using Enhanced Homomorphic Encryption](Depolama-Alani-Aglari/Arastirmalar/2026-Asimini-Hart-Solving-Time-Complexity-Issues.md) — Asimini-Hart (2026) · *INTERNATIONAL JOURNAL OF COMPUTER SCIENCE AND MATHEMATICAL THEORY E-ISSN* · hakemli
 <!-- AUTO:RECENT:END -->
 

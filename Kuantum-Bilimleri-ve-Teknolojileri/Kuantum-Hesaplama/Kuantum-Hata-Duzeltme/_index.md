@@ -89,7 +89,7 @@ last_maintained: 2026-11-05
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **5**, alt teknolojiler dahil: **7**.
+Arşivdeki kayıtlar — bu düğüm: **5**, alt teknolojiler dahil: **8**.
 
 - [Mixed-state entanglement and quantum error correction](Arastirmalar/1996-Bennett-Mixed-state-entanglement-and.md) — Bennett vd. (1996) · *Physical Review A* · hakemli · atıf: 5158
 - [Multiple-particle interference and quantum error correction](Arastirmalar/1996-Steane-Multiple-particle-interference-and.md) — Steane (1996) · *Proceedings of the Royal Society A Mathematical Physical and Engineering Sciences* · hakemli · atıf: 1579
@@ -105,6 +105,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Climbing the Clifford Hierarchy](Hata-Toleransli-Kuantum-Hesaplama/Sihirli-Durum-Damitma/Arastirmalar/2026-Bastioni-Climbing-the-Clifford-Hierarchy.md) — Bastioni vd. (2026) · *Quantum* · hakemli · atıf: 3
 - [QECert: Formal Foundations for Quantum Error-Correction Theory in Lean](Arastirmalar/2026-He-QECert-Formal-Foundations-for.md) — He vd. (2026) · *arXiv* · ön baskı / hakemsiz
 - [Trinetra.Q: Statistical and Behavioral Detection of Attacks on the Quantum-Error-Correction Layer and Classical Control Stack of Quantum Computing Systems](Arastirmalar/2026-Sipani-Trinetra-Statistical-and-Behavioral.md) — Sipani (2026) · *arXiv* · ön baskı / hakemsiz
 <!-- AUTO:RECENT:END -->

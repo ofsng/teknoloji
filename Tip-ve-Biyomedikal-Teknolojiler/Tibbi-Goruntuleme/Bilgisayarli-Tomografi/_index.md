@@ -77,7 +77,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **2**.
+
+- [Machine learning models in the diagnosis of sarcopenia using computed tomography - a literature review](Arastirmalar/2026-Tabakchi-Machine-learning-models-the.md) — Tabakchi vd. (2026) · *Clinical review for general practice* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -87,6 +89,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Machine learning models in the diagnosis of sarcopenia using computed tomography - a literature review](Arastirmalar/2026-Tabakchi-Machine-learning-models-the.md) — Tabakchi vd. (2026) · *Clinical review for general practice* · hakemli
 - [The association between CCTA assessment and cardiac symptoms in patients with coronary artery disease: a photon-counting CT study](Foton-Sayan-BT/Arastirmalar/2026-Ding-The-association-between-CCTA.md) — Ding vd. (2026) · *BMC Cardiovascular Disorders* · hakemli
 <!-- AUTO:RECENT:END -->
 

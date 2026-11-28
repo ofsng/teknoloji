@@ -2,7 +2,7 @@
 
 > Otomatik üretilir. Onay: `python3 tools/autokb.py candidates verify "<anahtar>" --parent ID --title-tr "Türkçe Ad"`; ret: `candidates reject "<anahtar>" --reason "..."`.
 
-Bekleyen aday: **68** · Onaylanan: **0** · Reddedilen: **55**
+Bekleyen aday: **72** · Onaylanan: **0** · Reddedilen: **63**
 
 ## Bekleyen adaylar
 
@@ -11,71 +11,75 @@ Bekleyen aday: **68** · Onaylanan: **0** · Reddedilen: **55**
 | `battery energy storage system` | battery energy storage system (BESSs, BESS) — *teknoloji* | `energy-storage` (variant_of_existing) | 40/40/1 | 18653 |  ⚠ olası çakışma: `storage-systems` (0.5), `energy-storage` (0.5), `thermochemical-energy-storage` (0.4) |
 | `deep reinforcement learning` | deep reinforcement learning (DRL) — *teknoloji* | `reinforcement-learning` (variant_of_existing) | 40/40/1 | 57002 |  ⚠ olası çakışma: `reinforcement-learning` (0.67), `deep-learning` (0.67), `tabular-deep-learning` (0.5) |
 | `electrochemical impedance spectroscopy` | electrochemical impedance spectroscopy (EIS) — *yöntem* | `None` (unknown) ⚠ üst belirsiz | 40/40/1 | 86789 |  benzer: `spectroscopy` (0.33), `ultrafast-spectroscopy` (0.25), `precision-spectroscopy` (0.25) |
-| `energy dispersive x ray spectroscopy` | energy-dispersive X-ray spectroscopy (EDX, EDS) — *yöntem* | `None` (unknown) ⚠ üst belirsiz | 40/40/1 | 70509 |  benzer: `x-ray-optics` (0.33), `x-ray-imaging` (0.33), `crystallography` (0.33) |
+| `energy dispersive x ray spectroscopy` | energy-dispersive X-ray spectroscopy (EDX, EDS, EDXS) — *yöntem* | `None` (unknown) ⚠ üst belirsiz | 40/40/1 | 70509 |  benzer: `x-ray-optics` (0.33), `x-ray-imaging` (0.33), `crystallography` (0.33) |
 | `field emission scanning electron microscopy` | field-emission scanning electron microscopy (FESEM, FE-SEM) — *yöntem* | `scanning-electron-microscopy` (variant_of_existing) | 40/40/1 | 52933 |  ⚠ olası çakışma: `scanning-electron-microscopy` (0.6), `electron-microscopy` (0.4), `transmission-electron-microscopy` (0.33) |
 | `fourier transform infrared spectroscopy` | Fourier-transform infrared spectroscopy (FTIR, FT-IR, FTIR-ATR) — *yöntem* | `infrared-and-raman-spectroscopy` (name_overlap (0.4)) ⚠ üst belirsiz | 40/40/1 | 193081 |  ⚠ olası çakışma: `infrared-and-raman-spectroscopy` (0.4), `fast-fourier-transform` (0.4), `short-time-fourier-transform` (0.33) |
 | `group relative policy optimization` | Group Relative Policy Optimization (GRPO) — *teknoloji* | `None` (unknown) ⚠ üst belirsiz | 40/40/1 | 2014 |  benzer: `optimization` (0.25), `trajectory-optimization` (0.2), `topology-optimization` (0.2) |
 | `multimodal large language model` | multimodal large language models (MLLM, MLLMs) — *teknoloji* | `large-language-models` (variant_of_existing) | 40/40/1 | 9428 |  ⚠ olası çakışma: `large-language-models` (0.75), `vision-language-models` (0.4), `speech-language-models` (0.4) |
+| `temporal convolutional network` | Temporal Convolutional Network (TCN, TCNs) — *teknoloji* | `convolutional-neural-networks` (name_overlap (0.5)) ⚠ üst belirsiz | 40/40/1 | 9251 | Önerilen üst düğüm ana disiplin; yeni alt disiplin yapısal değişikliktir, insan incelemesi gerekir. ⚠ olası çakışma: `graph-convolutional-networks` (0.5), `convolutional-neural-networks` (0.5), `tensor-networks` (0.25) |
 | `whole genome sequencing` | whole-genome sequencing (WGS) — *yöntem* | `None` (unknown) ⚠ üst belirsiz | 40/40/1 | 65847 |  benzer: `sanger-sequencing` (0.25), `nanopore-sequencing` (0.25), `genome-engineering` (0.25) |
 | `world action model` | World Action Models (WAMs, WAM) — *teknoloji* | `model-based-reinforcement-learning` (name_overlap (0.67)) ⚠ üst belirsiz | 40/40/1 | 496 |  ⚠ olası çakışma: `model-based-reinforcement-learning` (0.67), `vision-language-action-models` (0.4), `retrieval-models` (0.25) |
-| `temporal convolutional network` | Temporal Convolutional Network (TCN, TCNs) — *teknoloji* | `convolutional-neural-networks` (name_overlap (0.5)) ⚠ üst belirsiz | 38/38/1 | 9251 | Önerilen üst düğüm ana disiplin; yeni alt disiplin yapısal değişikliktir, insan incelemesi gerekir. ⚠ olası çakışma: `graph-convolutional-networks` (0.5), `convolutional-neural-networks` (0.5), `tensor-networks` (0.25) |
 | `discrete element method` | discrete element method (DEM) — *yöntem* | `finite-element-method` (name_overlap (0.5)) ⚠ üst belirsiz | 35/35/1 | 26975 |  ⚠ olası çakışma: `finite-element-method` (0.5), `boundary-element-method` (0.5), `value-based-methods` (0.25) |
-| `model context protocol` | Model Context Protocol (MCP) — *yöntem* | `None` (unknown) ⚠ üst belirsiz | 32/32/1 | 3134 |  benzer: `tls-protocol` (0.25), `sigma-protocols` (0.25), `security-verification` (0.25) · belirsiz kısaltma: MCP→`magnetically-confined-plasmas` |
+| `model context protocol` | Model Context Protocol (MCP) — *yöntem* | `None` (unknown) ⚠ üst belirsiz | 33/33/1 | 3134 |  benzer: `tls-protocol` (0.25), `sigma-protocols` (0.25), `security-verification` (0.25) · belirsiz kısaltma: MCP→`magnetically-confined-plasmas` |
+| `high resolution transmission electron microscopy` | high-resolution transmission electron microscopy (HRTEM, HR-TEM) — *yöntem* | `transmission-electron-microscopy` (variant_of_existing) | 30/30/1 | 38981 |  ⚠ olası çakışma: `transmission-electron-microscopy` (0.6), `electron-microscopy` (0.4), `super-resolution-microscopy` (0.33) |
 | `digital elevation model` | digital elevation model (DEM, DEMs) — *teknoloji* | `None` (unknown) ⚠ üst belirsiz | 27/27/1 | 42850 |  benzer: `retrieval-models` (0.25), `relational-model` (0.25), `neuron-models` (0.25) |
 | `large vision language model` | large vision-language models (LVLMs, LVLM) — *teknoloji* | `vision-language-models` (variant_of_existing) | 27/27/1 | 3353 |  ⚠ olası çakışma: `vision-language-models` (0.75), `large-language-models` (0.75), `vision-language-action-models` (0.6) |
-| `high resolution transmission electron microscopy` | high-resolution transmission electron microscopy (HRTEM, HR-TEM) — *yöntem* | `transmission-electron-microscopy` (variant_of_existing) | 26/26/1 | 38981 |  ⚠ olası çakışma: `transmission-electron-microscopy` (0.6), `electron-microscopy` (0.4), `super-resolution-microscopy` (0.33) |
 | `diffusion weighted imaging` | diffusion-weighted imaging (DWI) — *teknoloji* | `None` (unknown) ⚠ üst belirsiz | 25/25/1 | 32177 |  benzer: `voltage-imaging` (0.25), `ultrasound-imaging` (0.25), `spectral-imaging` (0.25) |
-| `technology acceptance model` | Technology Acceptance Model (TAM) — *teknoloji* | `None` (unknown) ⚠ üst belirsiz | 24/24/1 | 43941 |  benzer: `vacuum-technology` (0.25), `vaccine-technology` (0.25), `terahertz-technology` (0.25) · belirsiz kısaltma: TAM→`turning-and-milling` |
+| `on policy distillation` | on-policy distillation (OPD) — *teknoloji* | `distillation` (name_overlap (0.5)) ⚠ üst belirsiz | 25/24/1 | 722 |  benzer: `distillation` (0.5), `knowledge-distillation` (0.33), `entanglement-distillation` (0.33) |
+| `technology acceptance model` | Technology Acceptance Model (TAM) — *teknoloji* | `None` (unknown) ⚠ üst belirsiz | 25/25/1 | 43941 |  benzer: `vacuum-technology` (0.25), `vaccine-technology` (0.25), `terahertz-technology` (0.25) · belirsiz kısaltma: TAM→`turning-and-milling` |
 | `directed acyclic graph` | directed acyclic graph (DAG, DAGs) — *teknoloji* | `None` (unknown) ⚠ üst belirsiz | 23/23/1 | 16557 |  benzer: `random-graphs` (0.25), `knowledge-graphs` (0.25), `graph-theory` (0.25) |
-| `on policy distillation` | on-policy distillation (OPD) — *teknoloji* | `distillation` (name_overlap (0.5)) ⚠ üst belirsiz | 23/22/1 | 722 |  benzer: `distillation` (0.5), `knowledge-distillation` (0.33), `entanglement-distillation` (0.33) |
 | `left ventricular assist device` | left ventricular assist device (LVADs, LVAD) — *teknoloji* | `ventricular-assist-devices` (variant_of_existing) | 21/21/1 | 24554 |  benzer: `ventricular-assist-devices` (0.75), `spintronic-devices` (0.2), `optoelectronic-devices` (0.2) |
+| `proton exchange membrane` | proton exchange membrane (PEM, PEMs) — *teknoloji* | `proton-exchange-membrane-fuel-cells` (name_overlap (0.6)) ⚠ üst belirsiz | 21/21/1 | 46020 |  ⚠ olası çakışma: `proton-exchange-membrane-fuel-cells` (0.6), `anion-exchange-membrane-electrolysis` (0.4), `membrane-separation` (0.25) |
+| `segment anything model` | Segment Anything Model (SAM) — *teknoloji* | `None` (unknown) ⚠ üst belirsiz | 21/21/1 | 5429 |  benzer: `segment-routing` (0.25), `retrieval-models` (0.25), `relational-model` (0.25) · belirsiz kısaltma: SAM→`structural-analysis-methods` |
 | `standard model` | Standard Model (SM) — *teknoloji* | `standard-model-physics` (name_overlap (0.67)) ⚠ üst belirsiz | 21/21/1 | 125772 |  ⚠ olası çakışma: `standard-model-physics` (0.67), `beyond-the-standard-model` (0.67), `retrieval-models` (0.33) |
-| `proton exchange membrane` | proton exchange membrane (PEM, PEMs) — *teknoloji* | `proton-exchange-membrane-fuel-cells` (name_overlap (0.6)) ⚠ üst belirsiz | 20/20/1 | 46020 |  ⚠ olası çakışma: `proton-exchange-membrane-fuel-cells` (0.6), `anion-exchange-membrane-electrolysis` (0.4), `membrane-separation` (0.25) |
+| `synthetic minority oversampling technique` | Synthetic Minority Oversampling Technique (SMOTE) — *yöntem* | `None` (unknown) ⚠ üst belirsiz | 21/21/1 | 5864 |  benzer: `synthetic-biology` (0.2), `normalization-techniques` (0.2), `ionization-techniques` (0.2) |
+| `joint embedding predictive architecture` | Joint-Embedding Predictive Architectures (JEPA, JEPAs) — *teknoloji* | `model-based-reinforcement-learning` (co_classification (10/20)) | 20/20/1 | 662 |  benzer: `vliw-architectures` (0.2), `transformer-architectures` (0.2), `supercomputer-architectures` (0.2) |
 | `supplementary cementitious material` | supplementary cementitious materials (SCMs, SCM) — *teknoloji* | `structural-engineering` (co_classification (12/20)) | 20/20/1 | 10364 |  benzer: `two-dimensional-materials` (0.25), `thermoelectric-materials` (0.25), `textile-materials` (0.25) · belirsiz kısaltma: SCMs→`soft-condensed-matter`, SCM→`soft-condensed-matter` |
-| `synthetic minority oversampling technique` | Synthetic Minority Oversampling Technique (SMOTE) — *yöntem* | `None` (unknown) ⚠ üst belirsiz | 20/20/1 | 5864 |  benzer: `synthetic-biology` (0.2), `normalization-techniques` (0.2), `ionization-techniques` (0.2) |
-| `joint embedding predictive architecture` | joint-embedding predictive architecture (JEPA, JEPAs) — *teknoloji* | `None` (unknown) ⚠ üst belirsiz | 19/19/1 | 662 |  benzer: `vliw-architectures` (0.2), `transformer-architectures` (0.2), `supercomputer-architectures` (0.2) |
-| `segment anything model` | Segment Anything Model (SAM) — *teknoloji* | `None` (unknown) ⚠ üst belirsiz | 19/19/1 | 5429 |  benzer: `segment-routing` (0.25), `retrieval-models` (0.25), `relational-model` (0.25) · belirsiz kısaltma: SAM→`structural-analysis-methods` |
+| `whole exome sequencing` | whole-exome sequencing (WES) — *yöntem* | `None` (unknown) ⚠ üst belirsiz | 20/20/1 | 45716 |  benzer: `sanger-sequencing` (0.25), `nanopore-sequencing` (0.25), `dna-sequencing` (0.25) |
+| `synthetic minority over sampling technique` | Synthetic Minority Over-sampling Technique (SMOTE) — *yöntem* | `None` (unknown) ⚠ üst belirsiz | 19/19/1 | 5239 |  benzer: `synthetic-biology` (0.17), `sampling-theory` (0.17), `sampling-based-planning` (0.17) |
+| `time sery foundation model` | time-series foundation models (TSFMs) — *teknoloji* | `foundation-models` (variant_of_existing) | 19/19/1 | 955 |  ⚠ olası çakışma: `foundation-models` (0.5), `time-series-databases` (0.4), `time-series-analysis` (0.4) |
 | `laser interferometer space antenna` | Laser Interferometer Space Antenna (LISA) — *teknoloji* | `gravitational-waves` (co_classification (15/18)) | 18/17/1 | 2020 |  benzer: `lasers` (0.25), `antennas` (0.25), `ultrafast-lasers` (0.2) |
-| `time sery foundation model` | time-series foundation models (TSFMs) — *teknoloji* | `foundation-models` (variant_of_existing) | 18/18/1 | 955 |  ⚠ olası çakışma: `foundation-models` (0.5), `time-series-databases` (0.4), `time-series-analysis` (0.4) |
-| `whole exome sequencing` | whole-exome sequencing (WES) — *yöntem* | `None` (unknown) ⚠ üst belirsiz | 18/18/1 | 45716 |  benzer: `sanger-sequencing` (0.25), `nanopore-sequencing` (0.25), `dna-sequencing` (0.25) |
+| `photodynamic therapy` | photodynamic therapy (PDT) — *teknoloji* | `None` (unknown) ⚠ üst belirsiz | 18/18/1 | 64306 |  benzer: `radiation-therapy` (0.33), `phage-therapy` (0.33), `gene-therapy` (0.33) |
+| `energy dispersive spectroscopy` | energy-dispersive spectroscopy (EDS) — *yöntem* | `None` (unknown) ⚠ üst belirsiz | 17/17/1 | 37607 |  benzer: `spectroscopy` (0.33), `wind-energy` (0.25), `wave-energy` (0.25) |
+| `google earth engine` | Google Earth Engine (GEE) — *teknoloji* | `None` (unknown) ⚠ üst belirsiz | 17/17/1 | 15282 |  benzer: `turbofan-engines` (0.25), `robot-simulation` (0.25), `critical-minerals-processing` (0.25) |
 | `grey wolf optimizer` | Grey Wolf Optimizer (GWO) — *teknoloji* | `None` (unknown) ⚠ üst belirsiz | 17/17/1 | 14333 |  benzer: `optimizers-for-deep-learning` (0.2) |
 | `angle resolved photoemission spectroscopy` | angle-resolved photoemission spectroscopy (ARPES) — *yöntem* | `None` (unknown) ⚠ üst belirsiz | 16/16/1 | 7112 |  benzer: `spectroscopy` (0.25), `ultrafast-spectroscopy` (0.2), `precision-spectroscopy` (0.2) |
 | `diffusion transformer` | Diffusion Transformers (DiT, DiTs) — *teknoloji* | `power-transformers` (name_overlap (0.5)) ⚠ üst belirsiz | 16/15/1 | 2741 |  benzer: `power-transformers` (0.5), `vision-transformers` (0.33), `transformer-based-detectors` (0.33) |
-| `energy dispersive spectroscopy` | energy-dispersive spectroscopy (EDS) — *yöntem* | `None` (unknown) ⚠ üst belirsiz | 16/16/1 | 37607 |  benzer: `spectroscopy` (0.33), `wind-energy` (0.25), `wave-energy` (0.25) |
 | `energy storage system` | energy storage systems (ESSs, ESS) — *teknoloji* | `energy-storage` (variant_of_existing) | 16/16/1 | 96817 |  ⚠ olası çakışma: `storage-systems` (0.67), `energy-storage` (0.67), `thermochemical-energy-storage` (0.5) |
-| `google earth engine` | Google Earth Engine (GEE) — *teknoloji* | `None` (unknown) ⚠ üst belirsiz | 16/16/1 | 15282 |  benzer: `turbofan-engines` (0.25), `robot-simulation` (0.25), `critical-minerals-processing` (0.25) |
 | `multiple instance learning` | multiple instance learning (MIL) — *teknoloji* | `None` (unknown) ⚠ üst belirsiz | 16/16/1 | 4633 |  benzer: `unsupervised-learning` (0.25), `transfer-learning` (0.25), `temporal-difference-learning` (0.25) |
 | `post training quantization` | post-training quantization (PTQ) — *teknoloji* | `None` (unknown) ⚠ üst belirsiz | 16/16/1 | 2108 |  benzer: `quantization` (0.33), `product-quantization` (0.25), `distributed-training` (0.25) |
 | `quadratic unconstrained binary optimization` | quadratic unconstrained binary optimization (QUBO) — *teknoloji* | `None` (unknown) ⚠ üst belirsiz | 16/16/1 | 1841 |  benzer: `optimization` (0.25), `trajectory-optimization` (0.2), `topology-optimization` (0.2) |
-| `synthetic minority over sampling technique` | Synthetic Minority Over-sampling Technique (SMOTE) — *yöntem* | `None` (unknown) ⚠ üst belirsiz | 16/16/1 | 5239 |  benzer: `synthetic-biology` (0.17), `sampling-theory` (0.17), `sampling-based-planning` (0.17) |
+| `radial basis function neural network` | radial basis function neural network (RBFNN, RBF-NN, RBFN, RBFNNs) — *teknoloji* | `None` (unknown) ⚠ üst belirsiz | 16/16/1 | 12534 |  benzer: `spiking-neural-networks` (0.33), `recurrent-neural-networks` (0.33), `quantum-neural-networks` (0.33) |
 | `x ray absorption spectroscopy` | X-ray absorption spectroscopy (XAS) — *yöntem* | `x-ray-optics` (name_overlap (0.4)) ⚠ üst belirsiz | 16/16/1 | 26633 |  ⚠ olası çakışma: `x-ray-optics` (0.4), `x-ray-imaging` (0.4), `crystallography` (0.4) |
-| `photodynamic therapy` | photodynamic therapy (PDT) — *teknoloji* | `None` (unknown) ⚠ üst belirsiz | 15/15/1 | 64306 |  benzer: `radiation-therapy` (0.33), `phage-therapy` (0.33), `gene-therapy` (0.33) |
+| `mass spectrometry imaging` | mass spectrometry imaging (MSI) — *teknoloji* | `mass-spectrometry` (variant_of_existing) | 15/15/1 | 6781 |  ⚠ olası çakışma: `mass-spectrometry` (0.67), `tandem-mass-spectrometry` (0.5), `ambient-ionization-mass-spectrometry` (0.4) |
 | `distributed generation` | distributed generation (DG) — *teknoloji* | `None` (unknown) ⚠ üst belirsiz | 14/14/1 | 42233 |  benzer: `supercontinuum-generation` (0.33), `mesh-generation` (0.33), `harmonic-generation` (0.33) |
+| `near infrared spectroscopy` | near-infrared spectroscopy (NIRS, NIR) — *yöntem* | `spectroscopy` (co_classification (8/14)) | 14/14/1 | 49815 |  ⚠ olası çakışma: `functional-near-infrared-spectroscopy` (0.75), `infrared-and-raman-spectroscopy` (0.5), `spectroscopy` (0.33) · belirsiz kısaltma: NIRS→`neural-information-retrieval`, NIR→`neural-information-retrieval` |
+| `network intrusion detection system` | Network Intrusion Detection Systems (NIDS, NIDSs) — *teknoloji* | `intrusion-detection-systems` (variant_of_existing) | 14/14/1 | 6923 |  ⚠ olası çakışma: `intrusion-detection-systems` (0.75), `signature-based-intrusion-detection` (0.4), `anomaly-based-intrusion-detection` (0.4) |
 | `organic electrochemical transistor` | Organic electrochemical transistors (OECTs, OECT) — *teknoloji* | `conducting-polymers` (co_classification (9/14)) | 14/14/1 | 2622 |  benzer: `organic-synthesis` (0.25), `organic-semiconductors` (0.25), `organic-electronics` (0.25) |
-| `radial basis function neural network` | radial basis function neural network (RBFNN, RBF-NN, RBFN) — *teknoloji* | `None` (unknown) ⚠ üst belirsiz | 14/14/1 | 12534 |  benzer: `spiking-neural-networks` (0.33), `recurrent-neural-networks` (0.33), `quantum-neural-networks` (0.33) |
+| `pulse width modulation` | pulse-width modulation (PWM) — *teknoloji* | `None` (unknown) ⚠ üst belirsiz | 14/13/1 | 33532 |  benzer: `modulation` (0.33), `pulse-oximetry` (0.25), `multicarrier-modulation` (0.25) |
 | `tabular foundation model` | Tabular foundation models (TFMs, TabFM) — *teknoloji* | `foundation-models` (variant_of_existing) | 14/14/1 | 836 |  ⚠ olası çakışma: `foundation-models` (0.67), `robot-foundation-models` (0.5), `multimodal-foundation-models` (0.5) |
 | `kolmogorov arnold network` | Kolmogorov-Arnold Network (KAN, KANs) — *teknoloji* | `None` (unknown) ⚠ üst belirsiz | 13/13/1 | 4633 |  benzer: `tensor-networks` (0.25), `residual-networks` (0.25), `quantum-networks` (0.25) |
-| `mass spectrometry imaging` | mass spectrometry imaging (MSI) — *teknoloji* | `mass-spectrometry` (variant_of_existing) | 13/13/1 | 6781 |  ⚠ olası çakışma: `mass-spectrometry` (0.67), `tandem-mass-spectrometry` (0.5), `ambient-ionization-mass-spectrometry` (0.4) |
-| `near infrared spectroscopy` | near-infrared spectroscopy (NIRS, NIR) — *yöntem* | `spectroscopy` (co_classification (8/13)) | 13/13/1 | 49815 |  ⚠ olası çakışma: `functional-near-infrared-spectroscopy` (0.75), `infrared-and-raman-spectroscopy` (0.5), `spectroscopy` (0.33) · belirsiz kısaltma: NIRS→`neural-information-retrieval`, NIR→`neural-information-retrieval` |
-| `network intrusion detection system` | Network Intrusion Detection Systems (NIDS, NIDSs) — *teknoloji* | `intrusion-detection-systems` (variant_of_existing) | 13/13/1 | 6923 |  ⚠ olası çakışma: `intrusion-detection-systems` (0.75), `signature-based-intrusion-detection` (0.4), `anomaly-based-intrusion-detection` (0.4) |
-| `pulse width modulation` | pulse-width modulation (PWM) — *teknoloji* | `None` (unknown) ⚠ üst belirsiz | 13/12/1 | 33532 |  benzer: `modulation` (0.33), `pulse-oximetry` (0.25), `multicarrier-modulation` (0.25) |
+| `variational quantum circuit` | variational quantum circuit (VQC, VQCs) — *teknoloji* | `variational-quantum-algorithms` (name_overlap (0.5)) ⚠ üst belirsiz | 13/13/1 | 1832 |  ⚠ olası çakışma: `variational-quantum-eigensolver` (0.5), `variational-quantum-algorithms` (0.5), `quantum-neural-networks` (0.5) |
 | `aqueous zinc ion battery` | Aqueous zinc-ion batteries (AZIBs) — *teknoloji* | `sodium-ion-batteries` (name_overlap (0.4)) ⚠ üst belirsiz | 12/12/1 | 8041 |  ⚠ olası çakışma: `sodium-ion-batteries` (0.4), `lithium-ion-batteries` (0.4), `nickel-based-batteries` (0.2) |
 | `interplanetary file system` | InterPlanetary File System (IPFS) — *teknoloji* | `file-systems` (variant_of_existing) | 12/12/1 | 2426 |  ⚠ olası çakışma: `file-systems` (0.67), `journaling-file-systems` (0.5), `distributed-file-systems` (0.5) |
 | `vision foundation model` | vision foundation models (VFMs, VFM) — *teknoloji* | `foundation-models` (variant_of_existing) | 12/11/1 | 2238 |  ⚠ olası çakışma: `foundation-models` (0.67), `vision-language-models` (0.5), `robot-foundation-models` (0.5) |
 | `automatic identification system` | Automatic Identification System (AIS) — *teknoloji* | `system-identification` (name_overlap (0.67)) ⚠ üst belirsiz | 11/11/1 | 6652 |  ⚠ olası çakışma: `system-identification` (0.67), `type-systems` (0.25), `systems-security` (0.25) · belirsiz kısaltma: AIS→`artificial-intelligence` |
+| `default mode network` | default mode network (DMN) — *teknoloji* | `cognitive-neuroscience` (co_classification (6/11)) | 11/11/1 | 17492 |  benzer: `ultrafast-lasers` (0.25), `tensor-networks` (0.25), `residual-networks` (0.25) · belirsiz kısaltma: DMN→`decision-making-neuroscience` |
+| `microelectromechanical system` | microelectromechanical systems (MEMS) — *teknoloji* | `None` (unknown) ⚠ üst belirsiz | 11/11/1 | 17658 |  benzer: `type-systems` (0.33), `systems-security` (0.33), `systems-neuroscience` (0.33) · belirsiz kısaltma: MEMS→`molecular-evolution-modeling` |
 | `movable antenna` | movable antenna (MA, MAs) — *teknoloji* | `antennas` (name_overlap (0.5)) ⚠ üst belirsiz | 11/10/1 | 891 |  benzer: `antennas` (0.5), `reflector-antennas` (0.33), `phased-array-antennas` (0.25) · belirsiz kısaltma: MA→`marker-assisted-selection`, MAs→`marker-assisted-selection` |
 | `radio access network` | radio access network (RANs, RAN) — *teknoloji* | `radio-access-network-architectures` (name_overlap (0.75)) ⚠ üst belirsiz | 11/11/1 | 12758 |  ⚠ olası çakışma: `radio-access-network-architectures` (0.75), `wired-access-networks` (0.5), `tensor-networks` (0.25) · belirsiz kısaltma: RANs→`reynolds-averaged-navier-stokes`, RAN→`reynolds-averaged-navier-stokes` |
 | `reduced order model` | reduced-order model (ROM, ROMs) — *teknoloji* | `None` (unknown) ⚠ üst belirsiz | 11/11/1 | 25254 |  benzer: `retrieval-models` (0.25), `relational-model` (0.25), `neuron-models` (0.25) · belirsiz kısaltma: ROM→`random-oracle-model`, ROMs→`random-oracle-model` |
 | `temporal fusion transformer` | Temporal Fusion Transformer (TFT) — *teknoloji* | `None` (unknown) ⚠ üst belirsiz | 11/10/1 | 1551 |  benzer: `power-transformers` (0.33), `vision-transformers` (0.25), `transformer-based-detectors` (0.25) · belirsiz kısaltma: TFT→`thin-film-transistors` |
+| `working memory` | working memory (WM) — *teknoloji* | `None` (unknown) ⚠ üst belirsiz | 11/11/1 | 109582 |  benzer: `volatile-memory` (0.33), `virtual-memory` (0.33), `transactional-memory` (0.33) |
 | `diffuse reflectance spectroscopy` | diffuse reflectance spectroscopy (DRS) — *yöntem* | `None` (unknown) ⚠ üst belirsiz | 10/10/1 | 17104 |  benzer: `spectroscopy` (0.33), `ultrafast-spectroscopy` (0.25), `precision-spectroscopy` (0.25) |
+| `feed forward network` | feed-forward network (FFNs, FFN) — *teknoloji* | `None` (unknown) ⚠ üst belirsiz | 10/10/1 | 4965 |  benzer: `tensor-networks` (0.25), `residual-networks` (0.25), `quantum-networks` (0.25) |
 | `functionally graded material` | functionally graded material (FGM, FGMs) — *teknoloji* | `None` (unknown) ⚠ üst belirsiz | 10/10/1 | 13196 |  benzer: `two-dimensional-materials` (0.25), `thermoelectric-materials` (0.25), `textile-materials` (0.25) |
 | `latin hypercube sampling` | Latin Hypercube Sampling (LHS) — *teknoloji* | `None` (unknown) ⚠ üst belirsiz | 10/10/1 | 9100 |  benzer: `sampling-theory` (0.25), `sampling-based-planning` (0.25), `importance-sampling` (0.25) |
-| `microelectromechanical system` | microelectromechanical systems (MEMS) — *teknoloji* | `None` (unknown) ⚠ üst belirsiz | 10/10/1 | 17658 |  benzer: `type-systems` (0.33), `systems-security` (0.33), `systems-neuroscience` (0.33) · belirsiz kısaltma: MEMS→`molecular-evolution-modeling` |
-| `refractory high entropy alloy` | refractory high-entropy alloys (RHEAs) — *teknoloji* | `high-entropy-alloys` (variant_of_existing) | 10/10/1 | 2270 |  benzer: `high-entropy-alloys` (0.75), `refractories` (0.25), `titanium-alloys` (0.2) |
-| `default mode network` | default mode network (DMN) — *teknoloji* | `cognitive-neuroscience` (co_classification (6/10)) | 10/10/1 | 17492 |  benzer: `ultrafast-lasers` (0.25), `tensor-networks` (0.25), `residual-networks` (0.25) · belirsiz kısaltma: DMN→`decision-making-neuroscience` |
-| `feed forward network` | feed-forward network (FFNs, FFN) — *teknoloji* | `None` (unknown) ⚠ üst belirsiz | 10/10/1 | 4965 |  benzer: `tensor-networks` (0.25), `residual-networks` (0.25), `quantum-networks` (0.25) |
 | `multi objective particle swarm optimization` | Multi-Objective Particle Swarm Optimization (MOPSO) — *teknoloji* | `particle-swarm-optimization` (variant_of_existing) | 10/10/1 | 5574 |  ⚠ olası çakışma: `particle-swarm-optimization` (0.6), `multi-objective-optimization` (0.6), `optimization` (0.2) |
-| `working memory` | working memory (WM) — *teknoloji* | `None` (unknown) ⚠ üst belirsiz | 10/10/1 | 109582 |  benzer: `volatile-memory` (0.33), `virtual-memory` (0.33), `transactional-memory` (0.33) |
+| `refractory high entropy alloy` | refractory high-entropy alloys (RHEAs) — *teknoloji* | `high-entropy-alloys` (variant_of_existing) | 10/10/1 | 2270 |  benzer: `high-entropy-alloys` (0.75), `refractories` (0.25), `titanium-alloys` (0.2) |
+| `cardiac implantable electronic device` | cardiac implantable electronic device (CIEDs, CIED) — *teknoloji* | `electronic-devices` (variant_of_existing) | 10/10/1 | 5806 |  ⚠ olası çakışma: `electronic-devices` (0.5), `vacuum-electronic-devices` (0.4), `implantable-medical-devices` (0.4) |
+| `cerebral blood flow` | cerebral blood flow (CBF) — *teknoloji* | `None` (unknown) ⚠ üst belirsiz | 10/10/1 | 64404 |  benzer: `point-of-care-diagnostics` (0.25), `optical-flow` (0.25), `normalizing-flows` (0.25) · belirsiz kısaltma: CBF→`content-based-filtering` |
+| `kernel density estimation` | kernel density estimation (KDE) — *teknoloji* | `density-estimation` (variant_of_existing) | 10/10/1 | 14083 |  benzer: `density-estimation` (0.67), `spectral-estimation` (0.25), `resource-estimation` (0.25) |
 
 ## Onaylananlar
 
@@ -94,6 +98,7 @@ Bekleyen aday: **68** · Onaylanan: **0** · Reddedilen: **55**
 - `central nervous system` — category:biological_entity
 - `chimeric antigen receptor t cell` — category:biological_entity
 - `circulating tumor cell` — category:biological_entity
+- `decision support system` — covered_by_alias:spread-spectrum
 - `deep neural network` — category:generic
 - `dendritic cell` — category:biological_entity
 - `diffusion tensor imaging` — covered_by_alias:diffusion-mri-and-tractography
@@ -102,10 +107,12 @@ Bekleyen aday: **68** · Onaylanan: **0** · Reddedilen: **55**
 - `enzyme linked immunosorbent assay` — covered_by_alias:immunoassays
 - `extended kalman filter` — synonym_of:extended-and-unscented-kalman-filters
 - `gaussian mixture model` — synonym_of:mixture-models
+- `global positioning system` — synonym_of:global-navigation-satellite-systems
 - `healthy control` — category:population
 - `human umbilical vein endothelial cell` — category:biological_entity
 - `infection prevention and control` — category:disease
 - `interferometric synthetic aperture radar` — covered_by_alias:satellite-geodesy
+- `language model` — covered_by_alias:adaptive-signal-processing
 - `leaf area index` — category:measurement
 - `learning management system` — covered_by_alias:adaptive-signal-processing
 - `mesenchymal stem cell` — category:biological_entity
@@ -134,6 +141,11 @@ Bekleyen aday: **68** · Onaylanan: **0** · Reddedilen: **55**
 - `water quality index` — category:measurement
 - `white blood cell` — category:biological_entity
 - `x ray photoelectron spectroscopy` — covered_by_alias:surface-analysis-techniques
-- `decision support system` — covered_by_alias:spread-spectrum
-- `global positioning system` — synonym_of:global-navigation-satellite-systems
-- `language model` — covered_by_alias:adaptive-signal-processing
+- `controller area network` — covered_by_alias:in-vehicle-networks
+- `convolutional long short term memory` — duplicate_of:long-short-term-memory
+- `engineered cementitious composite` — covered_by_alias:memory-reliability
+- `fuzzy logic controller` — synonym_of:fuzzy-logic-control
+- `remote sensing ecological index` — category:measurement
+- `smooth muscle cell` — category:biological_entity
+- `stereotactic body radiation therapy` — covered_by_alias:stereotactic-radiosurgery
+- `vascular smooth muscle cell` — category:biological_entity

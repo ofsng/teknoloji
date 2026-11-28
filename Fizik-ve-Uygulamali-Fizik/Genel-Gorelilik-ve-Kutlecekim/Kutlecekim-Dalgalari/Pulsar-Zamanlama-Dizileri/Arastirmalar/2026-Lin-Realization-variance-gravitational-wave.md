@@ -25,7 +25,7 @@ related_versions: []
 collected_at: 2026-11-27
 last_checked_at: 2026-11-27
 content_verified: false
-identifier_verified: false
+identifier_verified: crossref
 ---
 
 # Realization variance of gravitational wave background anisotropies from shot noise for pulsar timing arrays

@@ -25,7 +25,7 @@ related_versions: []
 collected_at: 2026-11-27
 last_checked_at: 2026-11-27
 content_verified: false
-identifier_verified: false
+identifier_verified: crossref
 ---
 
 # A sequential ensemble approach to epidemic modelling: combining Hawkes and susceptible-exposed-infectious-removed models using sequential Monte Carlo squared

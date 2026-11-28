@@ -5,25 +5,25 @@ authors: ["Ramón Nartallo-Kaluarachchi", "Renaud Lambiotte", "Alain Goriely"]
 year: 2026
 published_date: 2026-02-16
 updated_date: 2026-11-06
-doi:
+doi: 10.1103/r397-cxtl
 arxiv: 2602.14885
 url: https://arxiv.org/abs/2602.14885
-publication: arXiv
-publication_type: preprint
-peer_reviewed: false
+publication: "Physical Review Research"
+publication_type: article
+peer_reviewed: true
 primary_technology: recurrent-neural-networks
 related_technologies: []
 classification_confidence: high
 classification_method: deterministic
 keywords: []
-source_ids: ["arxiv:2602.14885"]
-cited_by_count:
+source_ids: ["arxiv:2602.14885", "openalex:W7129633730"]
+cited_by_count: 0
 content_status: abstract_only
 abstract_license: "cc0-1.0 (arxiv metadata)"
 retraction_status: none_reported
-related_versions: []
+related_versions: [{"relation": "preprint", "arxiv": "2602.14885", "source": "merge"}]
 collected_at: 2026-11-10
-last_checked_at: 2026-11-10
+last_checked_at: 2026-11-28
 content_verified: false
 identifier_verified: arxiv
 ---
@@ -68,5 +68,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 
 ## 9. Kaynaklar
 
+- DOI: https://doi.org/10.1103/r397-cxtl
 - arXiv: https://arxiv.org/abs/2602.14885
-- Metadata kaynakları: arxiv:2602.14885 (toplama: 2026-11-10)
+- OpenAlex: https://openalex.org/W7129633730
+- Ön baskı sürümü: https://arxiv.org/abs/2602.14885
+- Metadata kaynakları: arxiv:2602.14885, openalex:W7129633730 (toplama: 2026-11-10)
+

@@ -25,7 +25,7 @@ related_versions: []
 collected_at: 2026-11-27
 last_checked_at: 2026-11-27
 content_verified: false
-identifier_verified: false
+identifier_verified: crossref
 ---
 
 # Altered prefrontal hemodynamic response during a working memory task in individuals with psychotic spectrum disorders and a history of aggression measured by functional near-infrared spectroscopy

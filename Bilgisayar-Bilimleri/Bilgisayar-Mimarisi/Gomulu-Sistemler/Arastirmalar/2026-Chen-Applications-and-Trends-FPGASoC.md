@@ -25,7 +25,8 @@ related_versions: []
 collected_at: 2026-11-27
 last_checked_at: 2026-11-27
 content_verified: false
-identifier_verified: false
+identifier_verified: crossref
+retraction_checked: 2026-11-28
 ---
 
 # Applications and Trends of FPGA–SoC Integration for Low-Power Embedded Systems: A Literature Review

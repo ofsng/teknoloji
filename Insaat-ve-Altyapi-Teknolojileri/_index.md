@@ -84,7 +84,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **11**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **12**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -94,6 +94,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Seismic Isolation Retrofit Following Early Design Standards: A Case Study](Yapi-Muhendisligi/Deprem-Muhendisligi/Sismik-Izolasyon/Arastirmalar/2026-Bustamante-Seismic-Isolation-Retrofit-Following.md) — Bustamante vd. (2026) · *Earthquake Spectra* · hakemli
 - [Geotechnical assessment of the effects of blast-induced ground vibrations on structural integrity and open-pit slope stability](Geoteknik-Muhendisligi/Sev-Stabilitesi/Arastirmalar/2026-Kanu-Geotechnical-assessment-the-effects.md) — Kanu vd. (2026) · *PLoS ONE* · hakemli
 - [Low-Damping and Lightweight Advantages of Suspending Inerter-Enabled Tuned Mass Dampers](Yapi-Muhendisligi/Deprem-Muhendisligi/Yapisal-Kontrol/Arastirmalar/2026-Zhao-Low-Damping-and-Lightweight.md) — Zhao vd. (2026) · *Journal of Structural Engineering* · hakemli
 - [Prefabrication and Modular Construction](Insaat-Teknolojileri/Moduler-Insaat/Arastirmalar/2026-Arthur-Prefabrication-and-Modular-Construction.md) — Arthur (2026) · *Revista Infoacceso* · hakemli
@@ -101,7 +102,6 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [Experimental assessment of a disc spring–supported seismic friction damper (DSS-SFD) for reinforced concrete structures](Yapi-Muhendisligi/Betonarme-Yapilar/Arastirmalar/2026-Suk-Experimental-assessment-disc-springsupported.md) — Suk (2026) · *Journal of Vibration and Control* · hakemli
 - [Hybrid AI-Physics Modeling in Geotechnical Engineering: A Next-Generation Review of Theory-Guided Machine Learning for Smart and Resilient Infrastructure](Geoteknik-Muhendisligi/Arastirmalar/2026-Al-Jeznawi-Hybrid-Physics-Modeling-Geotechnical.md) — Al-Jeznawi vd. (2026) · *Infrastructures* · hakemli
 - [Enhancing Energy-Saving Capability in Metro Construction Within Ecologically Sensitive Areas: A Meta-Network Framework for Innovative Construction Management](Insaat-Teknolojileri/Insaat-Yonetimi/Arastirmalar/2026-Zhang-Enhancing-Energy-Saving-Capability.md) — Zhang vd. (2026) · *Sustainability* · hakemli
-- [Urban digital twins and digital twinning as a continuing planning practice](Akilli-Sehirler/Kentsel-Dijital-Ikizler/Arastirmalar/2026-Almulhim-Urban-digital-twins-and.md) — Almulhim vd. (2026) · *Frontiers in Sustainable Cities* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

@@ -81,7 +81,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **21**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **22**.
 
 - [Full-stack analog Gaussian optical quantum computing platform with one hundred inputs](Arastirmalar/2026-Yokoyama-Full-stack-analog-Gaussian.md) — Yokoyama vd. (2026) · *Physical Review Applied* · hakemli · atıf: 14
 <!-- AUTO:RESEARCH:END -->
@@ -93,6 +93,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Climbing the Clifford Hierarchy](Kuantum-Hata-Duzeltme/Hata-Toleransli-Kuantum-Hesaplama/Sihirli-Durum-Damitma/Arastirmalar/2026-Bastioni-Climbing-the-Clifford-Hierarchy.md) — Bastioni vd. (2026) · *Quantum* · hakemli · atıf: 3
 - [Physics-informed quantum algorithms for glueball-like excitations in a Z 2 lattice gauge theory](Kuantum-Algoritmalari/Arastirmalar/2026-Zhang-Physics-informed-quantum-algorithms.md) — Zhang (2026) · *Physical review. D/Physical review. D.* · hakemli
 - [Development of an Evaluation Framework for Claimed Quantum Advantage in Quantum Machine Learning Using Published Benchmark Results](Kuantum-Algoritmalari/Kuantum-Makine-Ogrenmesi/Arastirmalar/2026-Al-Amin-Development-Evaluation-Framework-for.md) — Al-Amin (2026) · *International Journal of Innovative Research in Engineering* · hakemli
 - [Full-stack analog Gaussian optical quantum computing platform with one hundred inputs](Arastirmalar/2026-Yokoyama-Full-stack-analog-Gaussian.md) — Yokoyama vd. (2026) · *Physical Review Applied* · hakemli · atıf: 14
@@ -100,7 +101,6 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [Quantum approximate optimization algorithm with cat qubits](Kuantum-Algoritmalari/Varyasyonel-Kuantum-Algoritmalari/Kuantum-Yaklasik-Optimizasyon-Algoritmasi/Arastirmalar/2026-Vikstal-Quantum-approximate-optimization-algorit.md) — Vikstål vd. (2026) · *Scientific Reports* · hakemli · atıf: 6
 - [Statistical benchmarking of optimization methods for a variational quantum eigensolver under quantum noise](Kuantum-Algoritmalari/Varyasyonel-Kuantum-Algoritmalari/Varyasyonel-Kuantum-Ozdeger-Cozucu/Arastirmalar/2026-Illesova-Statistical-benchmarking-optimization-m.md) — Illésová vd. (2026) · *Physical Review A* · hakemli · atıf: 14
 - [A Variational Quantum Algorithm for Multi-Skill Project Scheduling](Kuantum-Algoritmalari/Varyasyonel-Kuantum-Algoritmalari/Arastirmalar/2026-Martinez-Variational-Quantum-Algorithm-for.md) — Martinez vd. (2026) · *arXiv* · ön baskı / hakemsiz
-- [Remote Adiabatic Controlled-Z Gate between Distant Superconducting Qubits](Kubit-Teknolojileri/Superiletken-Kubitler/Arastirmalar/2026-Xu-Remote-Adiabatic-Controlled-Gate.md) — Xu vd. (2026) · *Chinese Physics B* · hakemli · atıf: 1
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

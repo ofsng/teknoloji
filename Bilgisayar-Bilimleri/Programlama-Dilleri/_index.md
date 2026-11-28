@@ -82,7 +82,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **2**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **4**.
 
 - [Programming language as a tool for teaching algorithmization and programming within the framework of the subject "Informatics" in basic general education](Arastirmalar/2026-Levchenko-Programming-language-tool-for.md) — Levchenko vd. (2026) · *Informatics in school* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -94,6 +94,8 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Development of an Android-Based Practicum Module for the Object-Oriented Programming Subject for Grade XI Software and Game Development Students at SMK Negeri 2 Padang](Programlama-Paradigmalari/Nesne-Yonelimli-Programlama/Arastirmalar/2026-Ningsih-Development-Android-Based-Practicum.md) — Ningsih vd. (2026) · *Journal of Multidisciplinary Science MIKAILALSYS* · hakemli
+- [Evaluating the Effectiveness of Deep Learning Models for Foundational Program Analysis Tasks](Program-Analizi/Arastirmalar/2026-Chen-Evaluating-the-Effectiveness-Deep.md) — Chen vd. (2026) · *ACM Transactions on Software Engineering and Methodology* · hakemli
 - [RustC 4 ++: Improving Rust Code-Comment Inconsistency Detection via Hybrid LLM and Static Analysis](Program-Analizi/Statik-Analiz/Arastirmalar/2026-Zhang-RustC-Improving-Rust-Code.md) — Zhang vd. (2026) · *ACM Transactions on Software Engineering and Methodology* · hakemli
 - [Programming language as a tool for teaching algorithmization and programming within the framework of the subject "Informatics" in basic general education](Arastirmalar/2026-Levchenko-Programming-language-tool-for.md) — Levchenko vd. (2026) · *Informatics in school* · hakemli
 <!-- AUTO:RECENT:END -->

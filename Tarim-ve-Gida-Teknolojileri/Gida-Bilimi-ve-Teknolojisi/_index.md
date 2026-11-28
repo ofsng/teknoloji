@@ -81,7 +81,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **3**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -92,6 +92,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
 - [High-pressure processing (HPP) mitigation of physicochemical changes and biochemical degradation in vacuum-packed sardine fillets](Gida-Isleme/Isil-Olmayan-Gida-Isleme/Yuksek-Basinc-Isleme/Arastirmalar/2026-Oliveira-High-pressure-processing-HPP.md) — Oliveira vd. (2026) · *Food Science and Technology International* · hakemli
+- [Influence of Pilot-Scale Spray- and Freeze-Drying on the Compositional, Structural, and Functional Properties of Rapeseed Protein Concentrate](Gida-Isleme/Gida-Kurutma/Arastirmalar/2026-Schumacher-Influence-Pilot-Scale-Spray.md) — Schumacher vd. (2026) · *Foods* · hakemli
 - [Storage- and disorder-related metabolic changes in Chinese cabbage (Brassica rapa subsp. pekinensis) under modified atmosphere packaging and conventional storage by 1H NMR-based metabolomics](Gida-Muhafazasi/Modifiye-Atmosfer-Ambalajlama/Arastirmalar/2026-Seong-Storage-and-disorder-related.md) — Seong vd. (2026) · *Postharvest Biology and Technology* · hakemli
 <!-- AUTO:RECENT:END -->
 

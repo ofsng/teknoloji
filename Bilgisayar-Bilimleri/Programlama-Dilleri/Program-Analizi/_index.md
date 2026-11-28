@@ -77,7 +77,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **2**.
+
+- [Evaluating the Effectiveness of Deep Learning Models for Foundational Program Analysis Tasks](Arastirmalar/2026-Chen-Evaluating-the-Effectiveness-Deep.md) — Chen vd. (2026) · *ACM Transactions on Software Engineering and Methodology* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -87,6 +89,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Evaluating the Effectiveness of Deep Learning Models for Foundational Program Analysis Tasks](Arastirmalar/2026-Chen-Evaluating-the-Effectiveness-Deep.md) — Chen vd. (2026) · *ACM Transactions on Software Engineering and Methodology* · hakemli
 - [RustC 4 ++: Improving Rust Code-Comment Inconsistency Detection via Hybrid LLM and Static Analysis](Statik-Analiz/Arastirmalar/2026-Zhang-RustC-Improving-Rust-Code.md) — Zhang vd. (2026) · *ACM Transactions on Software Engineering and Methodology* · hakemli
 <!-- AUTO:RECENT:END -->
 

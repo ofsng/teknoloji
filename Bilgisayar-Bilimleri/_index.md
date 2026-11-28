@@ -90,7 +90,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **432**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **441**.
 
 - [METHODOLOGY FOR USING INTERACTIVE AND INNOVATIVE METHODS IN TEACHING COMPUTER SCIENCE](Arastirmalar/2026-Ozatovna-METHODOLOGY-FOR-USING-INTERACTIVE.md) — Ozatovna vd. (2026) · *HSR (London)* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -103,13 +103,13 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
 - [Enhancing throughput and Fairness in Dense WLANs Using Graph Neural Network-driven Multi-agent Reinforcement Learning](Yapay-Zeka/Makine-Ogrenmesi/Pekistirmeli-Ogrenme/Cok-Etmenli-Pekistirmeli-Ogrenme/Arastirmalar/2026-Gamal-Enhancing-throughput-and-Fairness.md) — Gamal vd. (2026) · *International journal of intelligent engineering and systems* · hakemli
+- [The adversarial robustness of sketching and streaming algorithms](Algoritmalar-ve-Veri-Yapilari/Akis-Algoritmalari/Arastirmalar/2026-Woodruff-The-adversarial-robustness-sketching.md) — Woodruff vd. (2026) · *Foundations and Trends® in Theoretical Computer Science* · hakemli · atıf: 1
+- [Development of an Android-Based Practicum Module for the Object-Oriented Programming Subject for Grade XI Software and Game Development Students at SMK Negeri 2 Padang](Programlama-Dilleri/Programlama-Paradigmalari/Nesne-Yonelimli-Programlama/Arastirmalar/2026-Ningsih-Development-Android-Based-Practicum.md) — Ningsih vd. (2026) · *Journal of Multidisciplinary Science MIKAILALSYS* · hakemli
+- [Heuristic Search and Intelligent Problem Solving: Classical Foundations, Learning-Augmented Algorithms and Applications](Yapay-Zeka/Arama-ve-Kisit-Saglama/Sezgisel-Arama/Arastirmalar/2026-Kaur-Heuristic-Search-and-Intelligent.md) — Kaur vd. (2026) · *Journal of basic and applied research international* · hakemli
+- [Prediction of 1-year corneal transplant failure using automated machine learning: a retrospective study using the NHS blood and transplant ocular tissue registry (OTAG Study 39)](Yapay-Zeka/Makine-Ogrenmesi/Otomatik-Makine-Ogrenmesi/Arastirmalar/2026-Westcott-Prediction-year-corneal-transplant.md) — Westcott vd. (2026) · *Scientific Reports* · hakemli
 - [Applications and Trends of FPGA–SoC Integration for Low-Power Embedded Systems: A Literature Review](Bilgisayar-Mimarisi/Gomulu-Sistemler/Arastirmalar/2026-Chen-Applications-and-Trends-FPGASoC.md) — Chen (2026) · *Applied and Computational Engineering* · hakemli
 - [Leveraging Functional Programming for Real-Time Systems: A Literature Review](Bilgisayar-Mimarisi/Gomulu-Sistemler/Gercek-Zamanli-Sistemler/Arastirmalar/2026-Cenita-Leveraging-Functional-Programming-for.md) — Cenita (2026) · *An-Nahdhah Journal of Education and Culture* · hakemli
 - [A Survey on Large Language Model-Based Game Agents](Yapay-Zeka/Makine-Ogrenmesi/Temel-Modeller/Buyuk-Dil-Modelleri/Arastirmalar/2026-Hu-Survey-Large-Language-Model.md) — Hu vd. (2026) · *ACM Computing Surveys* · hakemli · atıf: 201
-- [Distinct mechanisms underlying in-context learning in transformers](Yapay-Zeka/Makine-Ogrenmesi/Temel-Modeller/Buyuk-Dil-Modelleri/Baglam-Ici-Ogrenme/Arastirmalar/2026-Gibson-Distinct-mechanisms-underlying-context.md) — Gibson vd. (2026) · *Physical Review X* · hakemli · atıf: 5
-- [DQLearnCapable: A Comprehensive Intrusion Detection and Prevention System for Network Traffic Analysis using Deep Q-Learning](Yapay-Zeka/Makine-Ogrenmesi/Pekistirmeli-Ogrenme/Deger-Tabanli-Yontemler/Zamansal-Fark-Ogrenmesi/Arastirmalar/2026-Ghani-DQLearnCapable-Comprehensive-Intrusion-Det.md) — Ghani vd. (2026) · *Journal of Computational and Cognitive Engineering* · hakemli
-- [ECoT: Explicit Chain-of-Thought Reasoning for Zero-Shot Composed Image Retrieval](Yapay-Zeka/Makine-Ogrenmesi/Temel-Modeller/Buyuk-Dil-Modelleri/LLM-Akil-Yurutme-Yontemleri/Arastirmalar/2026-Xu-ECoT-Explicit-Chain-Thought.md) — Xu vd. (2026) · *Algorithms* · hakemli
-- [Motion-guided semi-supervised learning with dynamic kernels for cardiac cine segmentation](Yapay-Zeka/Makine-Ogrenmesi/Yari-Gozetimli-Ogrenme/Arastirmalar/2026-Li-Motion-guided-semi-supervised.md) — Li vd. (2026) · *Physics in Medicine and Biology* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

@@ -75,7 +75,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **2**.
+
+- [Prediction of 1-year corneal transplant failure using automated machine learning: a retrospective study using the NHS blood and transplant ocular tissue registry (OTAG Study 39)](Arastirmalar/2026-Westcott-Prediction-year-corneal-transplant.md) — Westcott vd. (2026) · *Scientific Reports* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -85,6 +87,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Prediction of 1-year corneal transplant failure using automated machine learning: a retrospective study using the NHS blood and transplant ocular tissue registry (OTAG Study 39)](Arastirmalar/2026-Westcott-Prediction-year-corneal-transplant.md) — Westcott vd. (2026) · *Scientific Reports* · hakemli
 - [Metaheuristic Class Balancing and Hyperparameter Optimization for Diabetes Classification: A Two-Stage PSO–GA Framework](Hiperparametre-Optimizasyonu/Arastirmalar/2026-Abid-Metaheuristic-Class-Balancing-and.md) — Abid vd. (2026) · *Bioengineering* · hakemli
 <!-- AUTO:RECENT:END -->
 

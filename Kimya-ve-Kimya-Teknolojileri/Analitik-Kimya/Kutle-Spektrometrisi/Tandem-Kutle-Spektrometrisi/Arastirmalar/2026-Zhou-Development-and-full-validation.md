@@ -25,7 +25,7 @@ related_versions: []
 collected_at: 2026-11-24
 last_checked_at: 2026-11-24
 content_verified: false
-identifier_verified: false
+identifier_verified: crossref
 ---
 
 # Development and full validation of a UPLC-MS/MS method for the simultaneous quantification of esketamine, noresketamine, and hydroxynoresketamine in beagle dog plasma and its application to a pharmacokinetic study

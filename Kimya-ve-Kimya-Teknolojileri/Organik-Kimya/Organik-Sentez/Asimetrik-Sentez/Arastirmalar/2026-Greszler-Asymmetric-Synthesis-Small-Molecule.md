@@ -25,7 +25,7 @@ related_versions: []
 collected_at: 2026-11-27
 last_checked_at: 2026-11-27
 content_verified: false
-identifier_verified: false
+identifier_verified: crossref
 ---
 
 # Asymmetric Synthesis of a Small Molecule Inhibitor of TNFα via Enantioenriched 4-Substituted Tetrahydroisoquinolines

@@ -25,7 +25,7 @@ related_versions: []
 collected_at: 2026-11-27
 last_checked_at: 2026-11-27
 content_verified: false
-identifier_verified: false
+identifier_verified: crossref
 ---
 
 # A Bernoulli wavelet approach to MHD Casson fluid flow over an exponentially stretching sheet with thermal radiation and heat source

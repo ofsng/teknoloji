@@ -77,7 +77,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **2**.
+
+- [Epigenetic Plasticity Linking Drug Resistance and Immune Evasion in Ovarian Cancer: Mechanisms and Therapeutic Opportunities](Arastirmalar/2026-Kandi-Epigenetic-Plasticity-Linking-Drug.md) — Kandi vd. (2026) · *Cancers* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -87,6 +89,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Epigenetic Plasticity Linking Drug Resistance and Immune Evasion in Ovarian Cancer: Mechanisms and Therapeutic Opportunities](Arastirmalar/2026-Kandi-Epigenetic-Plasticity-Linking-Drug.md) — Kandi vd. (2026) · *Cancers* · hakemli
 - [DNA methylation and Polycomb-mediated repression at plant transposable elements: Antagonism, cooperation and a continuum of epigenetic silencing states](DNA-Metilasyonu/Arastirmalar/2026-Hure-DNA-methylation-and-Polycomb.md) — Hure vd. (2026) · *Current Opinion in Plant Biology* · hakemli
 <!-- AUTO:RECENT:END -->
 

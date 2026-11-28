@@ -75,9 +75,10 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **2**.
 
 - [Leakage-free evaluation of residual graph convolutional networks for network intrusion detection](Arastirmalar/2026-Iqbal-Leakage-free-evaluation-residual.md) — Iqbal (2026) · *arXiv* · ön baskı / hakemsiz
+- [CC-GCN: enhancing graph convolutional networks using neighborhood interactions](Arastirmalar/2026-Saxena-GCN-enhancing-graph-convolutional.md) — Saxena vd. (2026) · *Scientific Reports* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -87,6 +88,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [CC-GCN: enhancing graph convolutional networks using neighborhood interactions](Arastirmalar/2026-Saxena-GCN-enhancing-graph-convolutional.md) — Saxena vd. (2026) · *Scientific Reports* · hakemli
 - [Leakage-free evaluation of residual graph convolutional networks for network intrusion detection](Arastirmalar/2026-Iqbal-Leakage-free-evaluation-residual.md) — Iqbal (2026) · *arXiv* · ön baskı / hakemsiz
 <!-- AUTO:RECENT:END -->
 

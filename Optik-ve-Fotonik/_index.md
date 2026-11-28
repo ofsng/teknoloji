@@ -96,7 +96,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **28**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **31**.
 
 - [Beyond the lossless idealization: disturbance, losses, and real-air detection limits of a topological photonic crystal gas sensor](Arastirmalar/2026-Elsayed-Beyond-the-lossless-idealization.md) — Elsayed vd. (2026) · *Modern Physics Letters B* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -108,14 +108,14 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Recombination processes and negative capacitance in organic light-emitting diodes](Isik-Kaynaklari/Arastirmalar/2026-Azuma-Recombination-processes-and-negative.md) — Azuma vd. (2026) · *Japanese Journal of Applied Physics* · hakemli
+- [Spatial-confined growth of tin-halide perovskite single crystals for room-temperature distributed feedback lasers](Lazerler/Yari-Iletken-Lazerler/Dagitik-Geri-Beslemeli-Lazerler/Arastirmalar/2026-Lu-Spatial-confined-growth-tin.md) — Lu vd. (2026) · *Optica* · hakemli
 - [Sculpting ultrafast mid-infrared light for solid-state high-harmonic generation](Dogrusal-Olmayan-Optik/Arastirmalar/2026-Kiss-Sculpting-ultrafast-mid-infrared.md) — Kiss vd. (2026) · *Advanced Photonics Nexus* · hakemli · atıf: 1
 - [Passively Q-switched Tm:YAP solid-state laser based on a NiPS 3 saturable absorber](Lazerler/Kati-Hal-Lazerleri/Arastirmalar/2026-Zhao-Passively-switched-YAP-solid.md) — Zhao vd. (2026) · *Applied Optics* · hakemli
 - [Signal-processing framework for photon-correlation measurements using a time-tagging single-photon avalanche diode array](Fotodedektorler/Tek-Foton-Cig-Diyotlari/Arastirmalar/2026-Fujita-Signal-processing-framework-for.md) — Fujita vd. (2026) · *Physical Review A* · hakemli
 - [Sub-shot-noise emission statistics of a CW-excited single photon source](Kuantum-Optigi/Tek-Foton-Kaynaklari/Arastirmalar/2026-Gavello-Sub-shot-noise-emission.md) — Gavello vd. (2026) · *EPJ Quantum Technology* · hakemli
 - [Optical Scale-Up Networks for AI Clusters: A Review of Co-Packaged Optics and Emerging Light Sources](Tumlesik-Fotonik/Ortak-Paketli-Optik/Arastirmalar/2026-Liao-Optical-Scale-Networks-for.md) — Liao vd. (2026) · *Photonics* · hakemli
 - [MoO₂-Coated Photonic Crystal Fiber Biosensor for High-Sensitivity Detection of Cancer Cells](Optik-Fiberler/Fotonik-Kristal-Fiberler/Arastirmalar/2026-Zhai-MoO2-Coated-Photonic-Crystal.md) — Zhai vd. (2026) · *Plasmonics* · hakemli
-- [High-brightness 500 W-class fiber-combined blue semiconductor laser](Lazerler/Yari-Iletken-Lazerler/Arastirmalar/2026-Du-High-brightness-500-class.md) — Du vd. (2026) · *Applied Optics* · hakemli
-- [Nondoped Blue and Two Color Hybrid White Organic Light Emitting Diodes Using a New Bipolar Blue Emitter](Isik-Kaynaklari/Arastirmalar/2026-Oh-Nondoped-Blue-and-Two.md) — Oh vd. (2026) · *Applied Sciences* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

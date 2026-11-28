@@ -78,7 +78,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **3**.
+
+- [Hydroxyl-Mediated Electrochemical Dehydrogenative Coupling of 5-Aminotetrazole for Energetic Azotetrazolate Synthesis and Energy-Saving Hydrogen Production](Arastirmalar/2026-Ma-Hydroxyl-Mediated-Electrochemical-Dehydrogena.md) — Ma vd. (2026) · *ACS Sustainable Chemistry & Engineering* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -89,6 +91,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
 - [Green Hydrogen Production through Photoelectrochemical Water Splitting](Fotoelektrokimyasal-Su-Ayristirma/Arastirmalar/2026-Venkanna-Green-Hydrogen-Production-through.md) — Venkanna vd. (2026) · *International Journal of Scientific Research in Science and Technology* · hakemli
+- [Hydroxyl-Mediated Electrochemical Dehydrogenative Coupling of 5-Aminotetrazole for Energetic Azotetrazolate Synthesis and Energy-Saving Hydrogen Production](Arastirmalar/2026-Ma-Hydroxyl-Mediated-Electrochemical-Dehydrogena.md) — Ma vd. (2026) · *ACS Sustainable Chemistry & Engineering* · hakemli
 - [Transition Metal Chalcogenides as Electrocatalysts for Anion Exchange Membrane Water Electrolysis](Su-Elektrolizi/Arastirmalar/2026-Tamang-Transition-Metal-Chalcogenides-Electrocat.md) — Tamang vd. (2026) · *Chemistry of Materials* · hakemli
 <!-- AUTO:RECENT:END -->
 

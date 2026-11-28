@@ -80,7 +80,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **20**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **23**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -90,14 +90,14 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Risk Field-Guided Adaptive Nonlinear Model Predictive Control for ROV Path Tracking](Kontrol-Teorisi/Optimal-Kontrol/Model-Ongorulu-Kontrol/Dogrusal-Olmayan-MPC/Arastirmalar/2026-Dai-Risk-Field-Guided-Adaptive.md) — Dai vd. (2026) · *Journal of Marine Science and Engineering* · hakemli
+- [In-context learning for system identification: Probabilistic formulation, long-sequence handling, and benchmark validation](Sistem-Tanilama/Arastirmalar/2026-Rufolo-context-learning-for-system.md) — Rufolo vd. (2026) · *Automatica* · hakemli
 - [Advanced Materials for Soft Pneumatic Actuators: From Elastomers to Smart Multifunctional Composites](Mekatronik-Sistem-Tasarimi/Eyleyiciler/Pnomatik-Eyleyiciler/Arastirmalar/2026-Chowdhury-Advanced-Materials-for-Soft.md) — Chowdhury vd. (2026) · *Actuators* · hakemli
 - [Nonlinear model predictive control for railway stabilization operation based on spatial-domain receding horizon optimization](Kontrol-Teorisi/Optimal-Kontrol/Model-Ongorulu-Kontrol/Dogrusal-Olmayan-MPC/Arastirmalar/2026-Chen-Nonlinear-model-predictive-control.md) — Chen vd. (2026) · *Proceedings of the Institution of Mechanical Engineers Part F Journal of Rail and Rapid Transit* · hakemli
+- [Advanced Process Automation and Distributed Control Systems for Improving Operational Efficiency in Saudi Arabia's Oil and Gas Industry](Endustriyel-Otomasyon/Dagitik-Kontrol-Sistemleri/Arastirmalar/2026-Mirza-Advanced-Process-Automation-and.md) — Mirza (2026) · *Global Academic Journal of Economics and Business* · hakemli
 - [Regularity and optimal control of nonlocal Cahn–Hilliard–Brinkman system with singular potential](Kontrol-Teorisi/Optimal-Kontrol/Arastirmalar/2026-Dharmatti-Regularity-and-optimal-control.md) — Dharmatti vd. (2026) · *Zeitschrift für Analysis und ihre Anwendungen* · hakemli · atıf: 1
 - [Industrial versus human digital twins: a comparative survey of concepts, architectures, enabling technologies, and open challenges](Dijital-Ikizler/Arastirmalar/2026-Imad-Industrial-versus-human-digital.md) — Imad vd. (2026) · *Digital Twin* · hakemli
 - [LSTM Network Architecture based on Programmable Logic Controllers](Endustriyel-Otomasyon/Programlanabilir-Mantik-Denetleyicileri/Arastirmalar/2026-Shevchenko-LSTM-Network-Architecture-based.md) — Shevchenko vd. (2026) · *PROGRAMMNAYA INGENERIA* · hakemli
-- [Stabilisation of super-linear hybrid stochastic differential equation by discrete-time trajectory-based event-triggered controls](Kontrol-Teorisi/Dagitik-ve-Ag-Tabanli-Kontrol/Olay-Tetiklemeli-Kontrol/Arastirmalar/2026-Zhang-Stabilisation-super-linear-hybrid.md) — Zhang vd. (2026) · *Systems & Control Letters* · hakemli
-- [Nonlinear model predictive control for lateral path tracking of intelligent vehicles considering model uncertainties](Kontrol-Teorisi/Optimal-Kontrol/Model-Ongorulu-Kontrol/Dogrusal-Olmayan-MPC/Arastirmalar/2026-Fan-Nonlinear-model-predictive-control.md) — Fan vd. (2026) · *Proceedings of the Institution of Mechanical Engineers Part D Journal of Automobile Engineering* · hakemli
-- [Research on a novel stability control method of distributed drive electric vehicles based on neural network adaptive terminal sliding mode control](Kontrol-Teorisi/Dogrusal-Olmayan-Kontrol/Kayan-Kipli-Kontrol/Arastirmalar/2026-Liu-Research-novel-stability-control.md) — Liu vd. (2026) · *Engineering Research Express* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

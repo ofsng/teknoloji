@@ -78,7 +78,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **3**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -88,6 +88,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Prediction of Oscillations in Nonlinear Circuits with Real Memristors via the Harmonic Balance Approach](Dogrusal-Olmayan-Devreler/Arastirmalar/2026-Marco-Prediction-Oscillations-Nonlinear-Circuits.md) — Marco vd. (2026) · *International Journal of Bifurcation and Chaos* · hakemli
 - [A harmonic–economic optimization framework for filter design and placement in active distribution systems](Filtre-Tasarimi/Arastirmalar/2026-Mahiwal-harmoniceconomic-optimization-framework.md) — Mahiwal vd. (2026) · *International Journal of Emerging Electric Power Systems* · hakemli
 - [A data-efficient PINN-Bayesian optimization framework for state variable active filter design](Filtre-Tasarimi/Aktif-Filtreler/Arastirmalar/2026-Manimegalai-data-efficient-PINN-Bayesian.md) — Manimegalai vd. (2026) · *Engineering Science and Technology an International Journal* · hakemli
 <!-- AUTO:RECENT:END -->

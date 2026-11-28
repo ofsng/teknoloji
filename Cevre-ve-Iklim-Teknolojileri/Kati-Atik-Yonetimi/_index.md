@@ -79,10 +79,11 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **5**.
+Arşivdeki kayıtlar — bu düğüm: **3**, alt teknolojiler dahil: **6**.
 
 - [Urban Solid Waste Management in Bengaluru and Indore: A Comparative Analysis](Arastirmalar/2026-Biju-Urban-Solid-Waste-Management.md) — Biju vd. (2026) · *International Journal of Interdisciplinary Approaches in Psychology* · hakemli
 - [Governance and Policy Challenges for Sustainable Municipal Solid Waste Management in Luanda (Angola)](Arastirmalar/2026-Duarte-Governance-and-Policy-Challenges.md) — Duarte vd. (2026) · *Sustainability* · hakemli
+- [Systematic review of proactive key performance indicators for monitoring and evaluating effective municipal solid waste management performance in Sub-Saharan Africa](Arastirmalar/2026-Dube-Systematic-review-proactive-key.md) — Dube vd. (2026) · *Discover Sustainability* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -92,6 +93,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Systematic review of proactive key performance indicators for monitoring and evaluating effective municipal solid waste management performance in Sub-Saharan Africa](Arastirmalar/2026-Dube-Systematic-review-proactive-key.md) — Dube vd. (2026) · *Discover Sustainability* · hakemli
 - [Waste-to-Energy in Malaysia: Technologies, Biomass Resources, Municipal Solid Waste Management, Techno-Economic Feasibility, Environmental Impacts and Future Prospects](Atiktan-Enerji/Arastirmalar/2026-Faizal-Waste-Energy-Malaysia-Technologies.md) — Faizal vd. (2026) · *International Journal of Research and Innovation in Social Science* · hakemli
 - [Converting Urban Solid Waste to Energy in Enugu Urban Area, Southeast, Nigeria](Atiktan-Enerji/Arastirmalar/2026-Onyia-Converting-Urban-Solid-Waste.md) — Onyia (2026) · *WORLD JOURNAL OF INNOVATION AND MODERN TECHNOLOGY* · hakemli
 - [Governance and Policy Challenges for Sustainable Municipal Solid Waste Management in Luanda (Angola)](Arastirmalar/2026-Duarte-Governance-and-Policy-Challenges.md) — Duarte vd. (2026) · *Sustainability* · hakemli

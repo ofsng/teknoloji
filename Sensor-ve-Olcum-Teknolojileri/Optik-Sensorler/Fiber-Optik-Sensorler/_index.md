@@ -77,7 +77,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **1**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **2**.
+
+- [A state-of-the-Art review on side-polished fiber optic sensors: fabrication, principles, sensing performance, and applications](Arastirmalar/2026-Yadav-state-the-Art-review.md) — Yadav vd. (2026) · *Frontiers in Physics* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -87,6 +89,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [A state-of-the-Art review on side-polished fiber optic sensors: fabrication, principles, sensing performance, and applications](Arastirmalar/2026-Yadav-state-the-Art-review.md) — Yadav vd. (2026) · *Frontiers in Physics* · hakemli
 - [A Brace-Integrated Fiber Bragg Grating Sensor with a Multi-Hardness Silicone Strain Transfer Substrate for Knee Flexion Monitoring: A Proof-of-Concept Study](Fiber-Bragg-Izgara-Sensorleri/Arastirmalar/2026-Jeong-Brace-Integrated-Fiber-Bragg.md) — Jeong vd. (2026) · *Sensors* · hakemli
 <!-- AUTO:RECENT:END -->
 

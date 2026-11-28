@@ -79,7 +79,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **2**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -87,7 +87,10 @@ Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **0**.
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
-_Son 365 günde arşive eklenmiş kayıt yok. Bu liste kanıt düzeyini göstermez; ön baskılar hakemli değildir._
+Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
+
+- [Design and experimental evaluation of a 2.4-GHz rectenna for RF energy harvesting in CubeSat applications](Enerji-Hasadi/RF-Enerji-Hasadi/Arastirmalar/2026-Medina-Design-and-experimental-evaluation.md) — Medina vd. (2026) · *Scientific Reports* · hakemli
+- [A Stochastic Framework for Intermittency-Aware Ambient RF Energy Harvesting for Wireless Body Area Networks](Enerji-Hasadi/RF-Enerji-Hasadi/Arastirmalar/2026-Kavita-Stochastic-Framework-for-Intermittency.md) — Kavita vd. (2026) · *Journal of Applied Science Engineering and Technology for Development* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

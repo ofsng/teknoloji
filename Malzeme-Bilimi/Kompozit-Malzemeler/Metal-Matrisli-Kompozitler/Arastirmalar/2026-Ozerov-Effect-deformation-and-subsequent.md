@@ -25,7 +25,7 @@ related_versions: []
 collected_at: 2026-11-26
 last_checked_at: 2026-11-26
 content_verified: false
-identifier_verified: false
+identifier_verified: crossref
 ---
 
 # Effect of deformation and subsequent annealing on the microstructure and mechanical properties of a metal-matrix composite based on the Ti18Nb8Zr alloy reinforced with borides

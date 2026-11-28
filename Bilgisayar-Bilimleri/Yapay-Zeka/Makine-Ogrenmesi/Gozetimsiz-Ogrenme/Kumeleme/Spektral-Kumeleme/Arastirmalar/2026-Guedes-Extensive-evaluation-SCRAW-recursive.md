@@ -26,6 +26,7 @@ collected_at: 2026-11-25
 last_checked_at: 2026-11-25
 content_verified: false
 identifier_verified: crossref
+retraction_checked: 2026-11-28
 ---
 
 # Extensive evaluation of R-SCRAW: a recursive spectral clustering algorithm for intelligent grouping in dense wireless networks

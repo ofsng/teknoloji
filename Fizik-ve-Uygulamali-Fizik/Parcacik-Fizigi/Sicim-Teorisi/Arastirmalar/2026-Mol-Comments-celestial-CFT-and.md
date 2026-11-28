@@ -21,11 +21,11 @@ cited_by_count: 5
 content_status: abstract_only
 abstract_license: cc-by
 retraction_status: none_reported
-related_versions: []
+related_versions: [{"relation": "preprint", "doi": "2410.02620", "source": "crossref"}]
 collected_at: 2026-11-27
 last_checked_at: 2026-11-27
 content_verified: false
-identifier_verified: false
+identifier_verified: crossref
 ---
 
 # Comments on celestial CFT and $$AdS_{3}$$ string theory

@@ -82,7 +82,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **4**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **5**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -92,6 +92,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Advanced Fast Breeder Thorium Reactor (AFBTR): A Conceptual Sodium-Cooled Fast Spectrum Reactor Integrating Reactor Physics, Thermal-Hydraulic Engineering, Passive Safety, and Educational Simulation](Nukleer-Reaktor-Muhendisligi/Reaktor-Fizigi/Arastirmalar/2026-Gahandule-Advanced-Fast-Breeder-Thorium.md) — Gahandule (2026) · *International Scientific Journal of Engineering and Management* · hakemli
 - [Reactor physics and thermal hydraulics analysis of lead-cooled fast reactors](Nukleer-Fisyon-Reaktorleri/IV-Nesil-Reaktorler/Kursun-Sogutmali-Hizli-Reaktorler/Arastirmalar/2026-Espinosa-Paredes-Reactor-physics-and-thermal.md) — Espinosa-Paredes vd. (2026) · *Nuclear Engineering and Design* · hakemli
 - [Transient heat transfer characteristics and multi-objective optimization of HTGR thermal insulation cavity based on an iterative thermal network](Nukleer-Fisyon-Reaktorleri/Gaz-Sogutmali-Reaktorler/Yuksek-Sicaklik-Gaz-Sogutmali-Reaktorler/Arastirmalar/2026-Xu-Transient-heat-transfer-characteristics.md) — Xu vd. (2026) · *Case Studies in Thermal Engineering* · hakemli
 - [Burnup Analysis of a NuScale-Like Small Modular Reactor Core with a Modified Beryllium Oxide Reflector](Nukleer-Fisyon-Reaktorleri/Kucuk-Moduler-Reaktorler/Arastirmalar/2026-Hong-Burnup-Analysis-NuScale-Like.md) — Hong vd. (2026) · *Nuclear Science and Engineering* · hakemli

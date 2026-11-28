@@ -77,7 +77,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **5**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **6**.
 
 - [Regularity and optimal control of nonlocal Cahn–Hilliard–Brinkman system with singular potential](Arastirmalar/2026-Dharmatti-Regularity-and-optimal-control.md) — Dharmatti vd. (2026) · *Zeitschrift für Analysis und ihre Anwendungen* · hakemli · atıf: 1
 <!-- AUTO:RESEARCH:END -->
@@ -89,6 +89,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Risk Field-Guided Adaptive Nonlinear Model Predictive Control for ROV Path Tracking](Model-Ongorulu-Kontrol/Dogrusal-Olmayan-MPC/Arastirmalar/2026-Dai-Risk-Field-Guided-Adaptive.md) — Dai vd. (2026) · *Journal of Marine Science and Engineering* · hakemli
 - [Nonlinear model predictive control for railway stabilization operation based on spatial-domain receding horizon optimization](Model-Ongorulu-Kontrol/Dogrusal-Olmayan-MPC/Arastirmalar/2026-Chen-Nonlinear-model-predictive-control.md) — Chen vd. (2026) · *Proceedings of the Institution of Mechanical Engineers Part F Journal of Rail and Rapid Transit* · hakemli
 - [Regularity and optimal control of nonlocal Cahn–Hilliard–Brinkman system with singular potential](Arastirmalar/2026-Dharmatti-Regularity-and-optimal-control.md) — Dharmatti vd. (2026) · *Zeitschrift für Analysis und ihre Anwendungen* · hakemli · atıf: 1
 - [Nonlinear model predictive control for lateral path tracking of intelligent vehicles considering model uncertainties](Model-Ongorulu-Kontrol/Dogrusal-Olmayan-MPC/Arastirmalar/2026-Fan-Nonlinear-model-predictive-control.md) — Fan vd. (2026) · *Proceedings of the Institution of Mechanical Engineers Part D Journal of Automobile Engineering* · hakemli

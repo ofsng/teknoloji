@@ -2705,6 +2705,92 @@
   "url": "https://arxiv.org/abs/2611.07509"
  },
  {
+  "added": "2026-11-28",
+  "arxiv": null,
+  "candidates": [
+   [
+    "optical-coherence-tomography",
+    7.14
+   ],
+   [
+    "vertical-cavity-surface-emitting-lasers",
+    6.03
+   ],
+   [
+    "mems",
+    4.8
+   ],
+   [
+    "light-sources",
+    3.5
+   ],
+   [
+    "metrology",
+    1.85
+   ],
+   [
+    "lasers",
+    1.85
+   ]
+  ],
+  "confidence": "medium",
+  "doi": "10.1364/optcon.604832",
+  "keys": [
+   "doi:10.1364/optcon.604832",
+   "title:phasestabilitycharacterizationofmemsvcselsweptsourcesandacquisitiontechniquesforhighspeedoct|2026"
+  ],
+  "reason": "backlog'dan: güven düştü (taksonomi değişmiş olabilir)",
+  "record": {
+   "abstract": "Optical coherence tomography (OCT) can detect changes in the length of the optical path on the nanometer scale and has potential applications in metrology, nondestructive testing, and medicine. Traditionally, spectral-domain OCT (SD-OCT) has been preferred over swept-source OCT (SS-OCT) for phase-sensitive applications due to its inherently higher phase stability; however, in this work, we demonstrate that high phase stability can also be achieved using SS-OCT. We compare the phase stability of two data acquisition techniques using a 400 kHz and 1 MHz swept micro-electromechanical systems (MEMS)-based vertical-cavity surface-emitting laser (VCSEL) light source and quantitatively assess the achievable displacement sensitivity. Measurements using fiber-based Mach-Zehnder-Interferometers (MZIs) characterize the combined phase stability of the MEMS-VCSEL swept source, synchronization, and acquisition chain under controlled conditions, while measurements using separate sample and reference arms demonstrate their applicability to phase-sensitive OCT. Our results confirm the phase-stable acquisition of OCT data at the ultimate signal-to-noise ratio (SNR) limit, reaching nearly 1 mrad. In most applications, phase sensitivity will be limited by the interferometer and measurement conditions rather than the stability of the MEMS-VCSEL light source. We demonstrate that a high displacement sensitivity is achievable, measuring A-scans and B-scans when a reference phase is available.",
+   "abstract_license": "other-oa",
+   "arxiv": null,
+   "authors": [
+    "Patrick Bachor",
+    "Jonas Franke",
+    "Gereon Hüttmann",
+    "Florian Mathieu"
+   ],
+   "categories": [
+    "OpenAlex-field:Engineering"
+   ],
+   "cited_by_count": 0,
+   "doi": "10.1364/optcon.604832",
+   "is_retracted": false,
+   "keywords": [
+    "optical coherence tomography",
+    "swept-source optical coherence tomography",
+    "MEMS VCSEL",
+    "phase stability",
+    "high-speed OCT",
+    "displacement sensitivity",
+    "Mach-Zehnder interferometer",
+    "signal-to-noise ratio"
+   ],
+   "language": "en",
+   "oa_created": "2026-05-14",
+   "peer_reviewed": true,
+   "publication": "Optics Continuum",
+   "publication_type": "article",
+   "published_date": "2026-11-19",
+   "related_versions": [],
+   "source_ids": [
+    "openalex:W7161002182"
+   ],
+   "title": "Phase-stability characterization of MEMS-VCSEL swept sources and acquisition techniques for high-speed OCT",
+   "topics": [
+    "Optical Coherence Tomography Applications",
+    "Biomedical Engineering"
+   ],
+   "updated_date": "2026-11-22",
+   "url": "https://doi.org/10.1364/optcon.604832"
+  },
+  "score": 7.14,
+  "seen": 1,
+  "suggested": "optical-coherence-tomography",
+  "title": "Phase-stability characterization of MEMS-VCSEL swept sources and acquisition techniques for high-speed OCT",
+  "url": "https://doi.org/10.1364/optcon.604832"
+ },
+ {
   "added": "2026-11-16",
   "arxiv": "2507.15588",
   "candidates": [
@@ -6099,6 +6185,69 @@
   "suggested": "neutral-atom-qubits",
   "title": "Efficient photo-ionizing elimination of detrimental electric fields for Rydberg atoms",
   "url": "https://arxiv.org/abs/2607.08418"
+ },
+ {
+  "added": "2026-11-28",
+  "arxiv": "2611.28472",
+  "candidates": [
+   [
+    "cdte-solar-cells",
+    7.22
+   ],
+   [
+    "photovoltaics",
+    0.52
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.28472",
+   "title:persistentneutronirradiationeffectsandpartialrecoveryinthinfilmcdscdtesolarcells|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Thin-film CdTe solar cells are promising candidates for lightweight space power, but device-level studies of their response to neutron irradiation remain scarce. Here, we report the device performance of CdS/CdTe solar cells irradiated for 10 to 150 min in the thermal irradiator of a TRIGA reactor (90 kW), corresponding to nominal total neutron fluences of 3.3 x 10^14 to 5.0 x 10^15 n cm-2. The cells were characterized after 18 months of post-irradiation storage, once the residual activity has decayed to background levels. Co-irradiated FTO-coated glass reference substrates exhibit a wavelength-dependent transmission loss, with the transmittance at 500 nm decreasing from 80 % to 50 % after 60 min of irradiation. The irradiated cells retain rectifying behavior, but the reverse-bias dark current, photocurrent, and efficiency generally decrease with exposure time. Post-irradiation annealing at 70 °C under one-sun illumination initially improves Jsc and Voc, with the highest efficiency after 4 h. Prolonged annealing, however, causes substantial FF degradation despite continued photocurrent recovery. These trends suggest that irradiation-induced changes in the glass substrate, CdTe absorber, and contacts respond differently to annealing. Understanding underlying defect chemistry and correlating it with device behavior are necessary steps toward radiation-tolerant CdTe photovoltaics for space applications.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.28472",
+   "authors": [
+    "Ashraful Mamun",
+    "Andrew Allison",
+    "Meng-Jen",
+    "Wang",
+    "Etee Kawna Roy",
+    "Edward Cazalas",
+    "Glenn E. Sjoden",
+    "Matthew O. Reese",
+    "Joel N. Duenow",
+    "Heayoung P. Yoon"
+   ],
+   "categories": [
+    "arXiv:cond-mat.mtrl-sci"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-21",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.28472"
+   ],
+   "title": "Persistent Neutron Irradiation Effects and Partial Recovery in Thin-Film CdS/CdTe Solar Cells",
+   "topics": [],
+   "updated_date": "2026-11-21",
+   "url": "https://arxiv.org/abs/2611.28472"
+  },
+  "score": 7.22,
+  "seen": 1,
+  "suggested": "cdte-solar-cells",
+  "title": "Persistent Neutron Irradiation Effects and Partial Recovery in Thin-Film CdS/CdTe Solar Cells",
+  "url": "https://arxiv.org/abs/2611.28472"
  },
  {
   "added": "2026-11-15",
@@ -10568,6 +10717,140 @@
   "url": "https://arxiv.org/abs/2611.33607"
  },
  {
+  "added": "2026-11-28",
+  "arxiv": "2611.28451",
+  "candidates": [
+   [
+    "diffusion-models",
+    6.3
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.28451",
+   "title:guidanceinducedactivationofscoreestimationerrorsindiffusionmodels|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Classifier-free guidance (CFG) combines conditional and unconditional score estimates to steer diffusion sampling. The weighted-solenoidal component of each score error has no instantaneous effect on the evolution of its corresponding reference density. Because the guided density in CFG generally differs from both reference densities, the combination of these solenoidal components can affect the evolution of the guided marginals. We call this mechanism guidance-induced error activation. Using a weighted Helmholtz-Hodge decomposition, we identify the activated error field, quantify its magnitude, and characterize when it vanishes. At fixed noise time, the activated error field varies continuously with guidance strength. Its weak first-order variation has two terms, one from reweighting the errors and one from the change in the guided density. For finite score errors, ODE characteristics and an SDE Feynman-Kac formula connect error-activation to the generated densities. For a class of finite Gaussian mixtures, error-activation can account for most of the KL divergence between the generated distributions by learned-score and exact-score CFG ODE samplers under strong guidance. Ideal score filtering removes the weighted-solenoidal errors and eliminates error-activation. Controlled experiments with Gaussian and Gamma mixtures illustrate how activation affects the generated densities. Qualitative CIFAR-10 comparisons suggest that filtering can help preserve object structure under strong guidance.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.28451",
+   "authors": [
+    "Pengyu Luo",
+    "Yisha Yao",
+    "Bolun Li"
+   ],
+   "categories": [
+    "arXiv:stat.ML",
+    "arXiv:cs.AI",
+    "arXiv:cs.LG"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": false,
+   "publication": "arXiv",
+   "publication_type": "preprint",
+   "published_date": "2026-11-21",
+   "related_versions": [],
+   "source_ids": [
+    "arxiv:2611.28451"
+   ],
+   "title": "Guidance-Induced Activation of Score Estimation Errors in Diffusion Models",
+   "topics": [],
+   "updated_date": "2026-11-21",
+   "url": "https://arxiv.org/abs/2611.28451"
+  },
+  "score": 6.3,
+  "seen": 1,
+  "suggested": "diffusion-models",
+  "title": "Guidance-Induced Activation of Score Estimation Errors in Diffusion Models",
+  "url": "https://arxiv.org/abs/2611.28451"
+ },
+ {
+  "added": "2026-11-28",
+  "arxiv": "2611.28486",
+  "candidates": [
+   [
+    "reinforcement-learning",
+    6.3
+   ],
+   [
+    "uav-swarms",
+    5.72
+   ],
+   [
+    "trust-region-policy-methods",
+    4.02
+   ],
+   [
+    "continual-learning",
+    2.94
+   ],
+   [
+    "unmanned-aerial-vehicles",
+    2.29
+   ],
+   [
+    "wi-fi",
+    1.2
+   ]
+  ],
+  "confidence": "medium",
+  "doi": null,
+  "keys": [
+   "arxiv:2611.28486",
+   "title:covertnessrecoveryinmultiratuavswarmsunderpostdetectionthreatescalationvialifelongreinforcementlearning|2026"
+  ],
+  "reason": "orta güven: kesin konum için inceleme gerekli",
+  "record": {
+   "abstract": "Unmanned aerial vehicle (UAV) swarms increasingly span multiple spectrum bands and radio access technologies (RATs), e.g., Wi-Fi, LoRa, Zigbee, and cellular. With active adversaries capable of protocol-aware jamming, spoofing, traffic analysis, and control-plane exploitation, survivable and timely covert communication is challenging. Moreover, after detection, adversaries may escalate with selective, adaptive attacks that increase latency and hinder recovery. This paper is the first to study covertness recovery under post-detection threat escalation. We design a learning-based mechanism that re-establishes covert communication across learning domains with different Willie densities and attack models, amid stochastic task arrivals, UAV mobility, and uncertain warden locations and behaviors. We jointly optimize RAT selection, resource allocation, and task offloading to minimize Age of Covert Information (AoCI), energy, and threat impact. Warden behavior is modeled via an adaptive attack-selection process capturing detection-triggered escalation and nonstationary strategies. We propose Cross-Domain Factorized Adaptive Lifelong Learning with Proximal Policy Opti- mization (CDFALL-PPO), which factorizes shared and domain-specific policy components for online adaptation while mitigating catastrophic forgetting. Across three escalating 30-task sequences, extensive simulations show that CDFALL-PPO raises median packet covert delivery rate (PCR) by 14.5 %, increases covert throughput by up to 53.6%, and lowers AoCI by 59.4% relative to PPO. Under the strongest composite attack, mean on-attack PCR improves from 52% to 70%, and mean post-attack recovery PCR rises from 64% to 93%.",
+   "abstract_license": "cc0-1.0 (arxiv metadata)",
+   "arxiv": "2611.28486",
+   "authors": [
+    "Yinxuan Wu",
+    "Xiaohao Xia",
+    "Beatriz Lorenzo",
+    "Dennis Goeckel",
+    "Fikadu Dagefu"
+   ],
+   "categories": [
+    "arXiv:cs.NI"
+   ],
+   "cited_by_count": null,
+   "doi": null,
+   "is_retracted": null,
+   "keywords": [],
+   "language": "en",
+   "peer_reviewed": null,
+   "publication": "IEEE VTC Conference Fall 2026",
+   "publication_type": "preprint",
+   "published_date": "2026-11-21",
+   "related_versions": [
+    {
+     "journal_ref": "IEEE VTC Conference Fall 2026",
+     "relation": "published_version",
+     "source": "arxiv"
+    }
+   ],
+   "source_ids": [
+    "arxiv:2611.28486"
+   ],
+   "title": "Covertness Recovery in Multi-RAT UAV Swarms Under Post-Detection Threat Escalation via Lifelong Reinforcement Learning",
+   "topics": [],
+   "updated_date": "2026-11-21",
+   "url": "https://arxiv.org/abs/2611.28486"
+  },
+  "score": 6.3,
+  "seen": 1,
+  "suggested": "reinforcement-learning",
+  "title": "Covertness Recovery in Multi-RAT UAV Swarms Under Post-Detection Threat Escalation via Lifelong Reinforcement Learning",
+  "url": "https://arxiv.org/abs/2611.28486"
+ },
+ {
   "added": "2026-11-14",
   "arxiv": null,
   "candidates": [
@@ -10862,312 +11145,5 @@
   "suggested": "nonlinear-model-predictive-control",
   "title": "Supervised Residual NMPC in Force-Disturbed Quadrotors",
   "url": "https://arxiv.org/abs/2611.04499"
- },
- {
-  "added": "2026-11-14",
-  "arxiv": "2411.01417",
-  "candidates": [
-   [
-    "electrical-and-electronic-engineering",
-    4.3
-   ],
-   [
-    "statics-and-dynamics",
-    3.7
-   ],
-   [
-    "convolutional-neural-networks",
-    2.48
-   ],
-   [
-    "computer-integrated-manufacturing",
-    2.1
-   ],
-   [
-    "quantization",
-    0.75
-   ],
-   [
-    "sram",
-    0.52
-   ]
-  ],
-  "confidence": "medium",
-  "doi": "10.1145/3860531",
-  "keys": [
-   "arxiv:2411.01417",
-   "doi:10.1145/3860531",
-   "title:bfimnaabitfluidinmemoryneuralarchitectureforneuralnetworkacceleration|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "Mixed-precision quantization, which assigns precisions per-layer, per-network, per-channel, or per-parameter, is gaining traction for efficient Neural Network (NN) realization with higher throughput and lower energy. Unlike conventional fixed-precision accelerators, BF-IMNA advances the mixed-precision design space through an AP-based in-memory implementation. We present BF-IMNA, a bit fluid IMC accelerator for end-to-end Convolutional NN inference supporting static and dynamic mixed-precision without run-time reconfiguration overhead. At its heart are Associative Processors (APs), bit-serial word-parallel SIMD-like engines. We evaluate ImageNet inference with AlexNet, VGG16, and ResNet50 across SRAM and ReRAM CAM cells, mixed-precision configurations, and supply voltages. To demonstrate bit fluidity, we apply HAWQ-V3's published ResNet18 schedules to the BF-IMNA cost model and pair them with HAWQ-V3's published accuracies and model sizes. The results reveal an accuracy–Energy-Delay Product trade-off. The high-latency point is \\(1.16\\) points below INT8 accuracy with \\(1.13\\times\\) better EDP, while the low-latency point has \\(1.91\\times\\) better EDP and a \\(45.5\\%\\) smaller model at a \\(3.00\\) -point accuracy reduction. At 500-MHz, true-batch-one comparison, BitFusion provides lower absolute energy and latency, while BF-IMNA provides lower average power at all five operating points, \\(2106\\times\\) greater on-chip weight capacity ( \\(32.8\\times\\) per unit modeled area), and larger relative energy reductions at aggressive INT4 and low-latency HAWQ points.",
-   "abstract_license": null,
-   "arxiv": "2411.01417",
-   "authors": [
-    "Mariam Rakka",
-    "Rachid Karami",
-    "Ahmed M. Eltawil",
-    "Mohammed E. Fouda",
-    "Fadi J Kurdahi"
-   ],
-   "categories": [
-    "OpenAlex-field:Engineering"
-   ],
-   "cited_by_count": 5,
-   "doi": "10.1145/3860531",
-   "is_retracted": false,
-   "keywords": [
-    "in-memory computing",
-    "mixed-precision quantization",
-    "associative processors",
-    "convolutional neural network inference",
-    "neural network accelerators",
-    "INT4 quantization",
-    "AlexNet",
-    "VGG16",
-    "ResNet50"
-   ],
-   "language": "en",
-   "oa_created": "2024-11-14",
-   "peer_reviewed": true,
-   "publication": "ACM Journal on Emerging Technologies in Computing Systems",
-   "publication_type": "article",
-   "published_date": "2026-11-11",
-   "related_versions": [],
-   "source_ids": [
-    "openalex:W4404352529"
-   ],
-   "title": "BF-IMNA: A Bit Fluid In-Memory Neural Architecture for Neural Network Acceleration",
-   "topics": [
-    "Advanced Memory and Neural Computing",
-    "Electrical and Electronic Engineering"
-   ],
-   "updated_date": "2026-11-13",
-   "url": "https://doi.org/10.1145/3860531"
-  },
-  "score": 4.3,
-  "seen": 1,
-  "suggested": "electrical-and-electronic-engineering",
-  "title": "BF-IMNA: A Bit Fluid In-Memory Neural Architecture for Neural Network Acceleration",
-  "url": "https://doi.org/10.1145/3860531"
- },
- {
-  "added": "2026-11-06",
-  "arxiv": "2611.06205",
-  "candidates": [
-   [
-    "underwater-acoustics",
-    5.87
-   ],
-   [
-    "contrastive-learning",
-    2.1
-   ],
-   [
-    "quantization",
-    1.94
-   ],
-   [
-    "underwater-acoustic-communication",
-    1.65
-   ],
-   [
-    "acoustics",
-    1.18
-   ]
-  ],
-  "confidence": "medium",
-  "doi": null,
-  "keys": [
-   "arxiv:2611.06205",
-   "title:crossmodalsemanticsuccessiverefinementforgenerativeimagecommunicationoverunderwateracousticchannels|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "Underwater acoustic communication faces challenges such as limited available bandwidth and complex channel environments, which impose demanding requirements on efficient image transmission and reliable reconstruction. To address these challenges, this paper proposes a generative image communication framework based on cross-modal semantic successive refinement. At the transmitter, text descriptions, compact bottleneck features, and visual side information compressed by residual vector quantization are transmitted. At the receiver, text and bottleneck features are first fused to predict a base estimate of the intermediate visual representation. The received RVQ indices are then used to recover supplementary visual information and perform residual correction, followed by image reconstruction using a one-step Pixel Mean Flow model. During training, a CLIP-based text-image semantic consistency constraint is introduced to preserve the semantic correspondence between generated results and the original text descriptions. During transmission, protection resources are allocated according to the importance of different information branches and RVQ quantization stages. Simulations using COCO 2017 images and measured underwater acoustic channel records from Watermark show that text and bottleneck features provide complementary semantic and structural conditions, RVQ visual side information further improves reconstruction quality, and layered unequal error protection helps improve recovery at low SNRs. Code-rate allocation experiments reveal a tradeoff between the reliability of fundamental conditions and visual-detail reconstruction under a limited visual-feature coding budget, providing guidance for allocating protection resources in underwater acoustic image transmission.",
-   "abstract_license": "cc0-1.0 (arxiv metadata)",
-   "arxiv": "2611.06205",
-   "authors": [
-    "Xu Pei",
-    "Bin Wang",
-    "Guangxu Zhu",
-    "Yi Zhang",
-    "Haiyan Fan"
-   ],
-   "categories": [
-    "arXiv:cs.IT",
-    "arXiv:cs.CV"
-   ],
-   "cited_by_count": null,
-   "doi": null,
-   "is_retracted": null,
-   "keywords": [],
-   "language": "en",
-   "peer_reviewed": false,
-   "publication": "arXiv",
-   "publication_type": "preprint",
-   "published_date": "2026-11-04",
-   "related_versions": [],
-   "source_ids": [
-    "arxiv:2611.06205"
-   ],
-   "title": "Cross-Modal Semantic Successive Refinement for Generative Image Communication over Underwater Acoustic Channels",
-   "topics": [],
-   "updated_date": "2026-11-04",
-   "url": "https://arxiv.org/abs/2611.06205"
-  },
-  "score": 5.87,
-  "seen": 2,
-  "suggested": "underwater-acoustics",
-  "title": "Cross-Modal Semantic Successive Refinement for Generative Image Communication over Underwater Acoustic Channels",
-  "url": "https://arxiv.org/abs/2611.06205"
- },
- {
-  "added": "2026-11-16",
-  "arxiv": "2607.08829",
-  "candidates": [
-   [
-    "condensed-matter-physics",
-    4.25
-   ],
-   [
-    "magnonics",
-    3.3
-   ],
-   [
-    "neutron-scattering",
-    3.0
-   ]
-  ],
-  "confidence": "medium",
-  "doi": "10.1103/g8sv-69pb",
-  "keys": [
-   "arxiv:2607.08829",
-   "doi:10.1103/g8sv-69pb",
-   "title:magneticfieldcontroloftheneelvectorandmagnonvisibilityinaltermagneticmnte|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "Altermagnetic order gives rise to momentum-dependent spin splitting of electronic and magnonic excitations even in the absence of a net magnetization. Here, we investigate the magnetic field dependence of the spin-wave spectrum of altermagnetic $α$-MnTe using inelastic neutron scattering and linear spin-wave theory. An in-plane magnetic field continuously reorients the Néel vector by overcoming the weak crystalline anisotropy, while remaining small compared with the dominant exchange scale. We find that this reorientation leaves the magnon energies and line widths essentially unchanged, but strongly modifies the measured spectral intensity through the transverse-momentum projection. Our results demonstrate a clear separation between the soft orientational degree of freedom of the antiferromagnetic order and the robust exchange-dominated chiral magnon spectrum. This combination establishes $α$-MnTe as a platform for reconfigurable magnon coupling, in which external fields tune how excitations interact with polarized probes without substantially altering their frequency or coherence.",
-   "abstract_license": null,
-   "arxiv": "2607.08829",
-   "authors": [
-    "Tobias Weber",
-    "Niclas Heinsdorf",
-    "Shane Smolenski",
-    "Sawyer Beltz",
-    "Alexandre Ivanov",
-    "Andrea Piovano",
-    "Victor Mecoli",
-    "Sean Knapp",
-    "Ruiqi Tang",
-    "Amir Henderson",
-    "A. K. M. Ashiquzzaman Shawon",
-    "Taylor Pierce-James",
-    "Na Hyun Jo",
-    "D. Karaiskaj"
-   ],
-   "categories": [
-    "OpenAlex-field:Physics and Astronomy"
-   ],
-   "cited_by_count": 5,
-   "doi": "10.1103/g8sv-69pb",
-   "is_retracted": false,
-   "keywords": [
-    "α-MnTe",
-    "spin-wave spectrum",
-    "chiral magnons",
-    "magnetic field control",
-    "momentum-dependent spin splitting",
-    "inelastic neutron scattering",
-    "linear spin-wave theory",
-    "exchange interaction"
-   ],
-   "language": "en",
-   "oa_created": "2026-07-14",
-   "peer_reviewed": true,
-   "publication": "Physical review. B./Physical review. B",
-   "publication_type": "article",
-   "published_date": "2026-11-13",
-   "related_versions": [],
-   "source_ids": [
-    "openalex:W7168165269"
-   ],
-   "title": "Magnetic-field control of the Néel vector and magnon visibility in altermagnetic MnTe",
-   "topics": [
-    "Advanced Condensed Matter Physics",
-    "Condensed Matter Physics"
-   ],
-   "updated_date": "2026-11-15",
-   "url": "https://doi.org/10.1103/g8sv-69pb"
-  },
-  "score": 4.25,
-  "seen": 1,
-  "suggested": "condensed-matter-physics",
-  "title": "Magnetic-field control of the Néel vector and magnon visibility in altermagnetic MnTe",
-  "url": "https://doi.org/10.1103/g8sv-69pb"
- },
- {
-  "added": "2026-11-16",
-  "arxiv": "2407.00325",
-  "candidates": [
-   [
-    "condensed-matter-physics",
-    3.7
-   ]
-  ],
-  "confidence": "medium",
-  "doi": "10.1007/s44214-026-00113-y",
-  "keys": [
-   "arxiv:2407.00325",
-   "doi:10.1007/s44214-026-00113-y",
-   "title:flatbandexcitonsandquantummetric|2026"
-  ],
-  "reason": "orta güven: kesin konum için inceleme gerekli",
-  "record": {
-   "abstract": "Abstract We discuss the excitons in flat band systems. Quantum metric plays a central role in determining the properties of single exciton excitations as well as the exciton condensate. While the electrons and holes are supposed to be extremely heavy in flat bands, the excitons (the bound state of an electron-hole pair) could be light and mobile. In particular, we show that the inverse of the effective mass tensor of excitons is proportional to the quantum metric tensor. Meanwhile, the flat band excitons have a finite size, lower bounded by the trace of the quantum metric tensor. Given the properties of single exciton excitation, one can argue for the formation of exciton condensate. Because of the quantum metric, the exciton condensate can support dissipationless counterflow supercurrent, implying the stability of exciton condensate.",
-   "abstract_license": "cc-by",
-   "arxiv": "2407.00325",
-   "authors": [
-    "Xuzhe Ying",
-    "K. T. Law"
-   ],
-   "categories": [
-    "OpenAlex-field:Physics and Astronomy"
-   ],
-   "cited_by_count": 17,
-   "doi": "10.1007/s44214-026-00113-y",
-   "is_retracted": false,
-   "keywords": [
-    "flat-band systems",
-    "excitons",
-    "quantum metric",
-    "exciton condensate",
-    "exciton stability"
-   ],
-   "language": "en",
-   "oa_created": "2024-07-03",
-   "peer_reviewed": true,
-   "publication": "Quantum Frontiers",
-   "publication_type": "article",
-   "published_date": "2026-11-13",
-   "related_versions": [],
-   "source_ids": [
-    "openalex:W4400267289"
-   ],
-   "title": "Flat band excitons and quantum metric",
-   "topics": [
-    "Topological Materials and Phenomena",
-    "Condensed Matter Physics"
-   ],
-   "updated_date": "2026-11-14",
-   "url": "https://doi.org/10.1007/s44214-026-00113-y"
-  },
-  "score": 3.7,
-  "seen": 1,
-  "suggested": "condensed-matter-physics",
-  "title": "Flat band excitons and quantum metric",
-  "url": "https://doi.org/10.1007/s44214-026-00113-y"
  }
 ]

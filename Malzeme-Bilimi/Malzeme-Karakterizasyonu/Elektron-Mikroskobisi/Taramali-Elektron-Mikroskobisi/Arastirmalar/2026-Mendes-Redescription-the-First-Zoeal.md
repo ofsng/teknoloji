@@ -25,7 +25,7 @@ related_versions: []
 collected_at: 2026-11-26
 last_checked_at: 2026-11-26
 content_verified: false
-identifier_verified: false
+identifier_verified: crossref
 ---
 
 # Redescription of the First Zoeal Stage of Shrimp Cinetorhynchus rigens (Gordon, 1936) (Decapoda: Rhynchocinetidae) and New Perspectives Including Scanning Electron Microscopy

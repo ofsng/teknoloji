@@ -21,11 +21,11 @@ cited_by_count: 0
 content_status: abstract_only
 abstract_license: cc-by
 retraction_status: none_reported
-related_versions: []
+related_versions: [{"relation": "preprint", "doi": "10.48550/arxiv.2608.25696", "source": "crossref"}]
 collected_at: 2026-11-26
 last_checked_at: 2026-11-26
 content_verified: false
-identifier_verified: false
+identifier_verified: crossref
 ---
 
 # Physics-informed quantum algorithms for glueball-like excitations in a Z 2 lattice gauge theory

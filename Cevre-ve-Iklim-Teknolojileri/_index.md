@@ -86,7 +86,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **28**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **29**.
 
 - [Life cycle assessment (LCA) in municipal solid waste management: public policies and regulation](Arastirmalar/2026-Schneider-Life-cycle-assessment-LCA.md) — Schneider vd. (2026) · *YACHAQ* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -98,6 +98,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Systematic review of proactive key performance indicators for monitoring and evaluating effective municipal solid waste management performance in Sub-Saharan Africa](Kati-Atik-Yonetimi/Arastirmalar/2026-Dube-Systematic-review-proactive-key.md) — Dube vd. (2026) · *Discover Sustainability* · hakemli
 - [Waste-to-Energy in Malaysia: Technologies, Biomass Resources, Municipal Solid Waste Management, Techno-Economic Feasibility, Environmental Impacts and Future Prospects](Kati-Atik-Yonetimi/Atiktan-Enerji/Arastirmalar/2026-Faizal-Waste-Energy-Malaysia-Technologies.md) — Faizal vd. (2026) · *International Journal of Research and Innovation in Social Science* · hakemli
 - [Simultaneous Ammonia Nitrogen Removal and COD Reduction from Flue-Gas-Desulfurization Wastewater Using KH-550-Modified Tourmaline: Performance and Mechanisms](Hava-Kirliligi-Kontrolu/Baca-Gazi-Kukurt-Giderimi/Arastirmalar/2026-Zhao-Simultaneous-Ammonia-Nitrogen-Removal.md) — Zhao vd. (2026) · *Materials* · hakemli
 - [From waste management to carbon removal: Assessing municipal solid waste-based BECCS options in the UAE](Karbon-Yonetimi/Karbondioksit-Giderimi/BECCS/Arastirmalar/2026-Shbeeb-From-waste-management-carbon.md) — Shbeeb vd. (2026) · *Sustainable Energy Technologies and Assessments* · hakemli
@@ -105,7 +106,6 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [Advances in Nanomaterials and Green Chemistry for Sustainable Chemical Engineering: Applications in Environmental Remediation and Energy Storage](Cevresel-Iyilestirme/Arastirmalar/2026-Swati-Advances-Nanomaterials-and-Green.md) — Swati vd. (2026) · *Journal of Global Social Transformation* · hakemli
 - [Chlorination-driven enrichment of Firmicutes in a full-scale drinking water treatment system revealed by 16 S rRNA gene sequencing](Su-Aritma/Icme-Suyu-Aritma/Arastirmalar/2026-Oliveira-Chlorination-driven-enrichment-Firmicut.md) — Oliveira vd. (2026) · *Environmental Monitoring and Assessment* · hakemli
 - [Sensitivity of marine cloud brightening over the Great Barrier Reef to spatial variability in aerosol forcing: a case study using a convection-permitting model](Iklim-Mudahalesi-Arastirmalari/Gunes-Isinimi-Modifikasyonu/Arastirmalar/2026-Zhao-Sensitivity-marine-cloud-brightening.md) — Zhao vd. (2026) · *Atmospheric chemistry and physics* · hakemli
-- [Converting Urban Solid Waste to Energy in Enugu Urban Area, Southeast, Nigeria](Kati-Atik-Yonetimi/Atiktan-Enerji/Arastirmalar/2026-Onyia-Converting-Urban-Solid-Waste.md) — Onyia (2026) · *WORLD JOURNAL OF INNOVATION AND MODERN TECHNOLOGY* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

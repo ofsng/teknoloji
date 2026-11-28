@@ -25,7 +25,7 @@ related_versions: []
 collected_at: 2026-11-27
 last_checked_at: 2026-11-27
 content_verified: false
-identifier_verified: false
+identifier_verified: crossref
 ---
 
 # Radical Ring-Opening Polymerization of endo -Cyclic Monomers for Regioregularity Control in Vinyl Polymers

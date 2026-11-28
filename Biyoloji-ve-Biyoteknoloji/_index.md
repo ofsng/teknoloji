@@ -94,7 +94,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **38**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **40**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -104,14 +104,14 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Generating scRNA-seq data from bulk RNA-seq using a Gaussian mixture variational autoencoder](Genetik-ve-Genomik/Fonksiyonel-Genomik/Transkriptomik/Arastirmalar/2026-Kim-Generating-scRNA-seq-data.md) — Kim vd. (2026) · *PLoS Computational Biology* · hakemli · atıf: 2
 - [Genetic circuit design across species and contexts: progress and future directions](Sentetik-Biyoloji/Genetik-Devreler/Arastirmalar/2026-Adams-Genetic-circuit-design-across.md) — Adams vd. (2026) · *Frontiers in Bioengineering and Biotechnology* · hakemli
 - [BoolFunc-EA: A Boolean–evolutionary approach for accurate inference of gene regulatory networks from time-series gene expression data](Biyoenformatik-ve-Hesaplamali-Biyoloji/Sistem-Biyolojisi/Gen-Duzenleyici-Aglar/Arastirmalar/2026-Barman-BoolFunc-Booleanevolutionary-approach-for.md) — Barman vd. (2026) · *PLoS ONE* · hakemli
 - [NanoHIV-DR: a Nextflow workflow for consensus and read level HIV-1 drug resistance profiling from Oxford Nanopore sequencing](Genetik-ve-Genomik/DNA-Dizileme/Uzun-Okuma-Dizileme/Nanopor-Dizileme/Arastirmalar/2026-Bugembe-NanoHIV-Nextflow-workflow-for.md) — Bugembe vd. (2026) · *bioRxiv (Cold Spring Harbor Laboratory)* · ön baskı / hakemsiz
 - [Building without Cells: Integrating Biomolecules, Synthetic Materials, and Devices into Cell-Free Systems](Sentetik-Biyoloji/Hucresiz-Sistemler/Arastirmalar/2026-Matsuura-Building-without-Cells-Integrating.md) — Matsuura vd. (2026) · *ACS Synthetic Biology* · hakemli
 - [Dominant resistance alleles accelerate population suppression by CRISPR-based gene drive](Genetik-ve-Genomik/Genom-Muhendisligi/Gen-Suruculeri/Arastirmalar/2026-Chen-Dominant-resistance-alleles-accelerate.md) — Chen vd. (2026) · *iScience* · hakemli · atıf: 1
 - [HARICOT: De Novo Assembly of Raw Nanopore Signals using Fuzzy de Bruijn Graphs](Biyoenformatik-ve-Hesaplamali-Biyoloji/Dizi-Analizi/Genom-Birlestirme/Arastirmalar/2026-McConnell-HARICOT-Novo-Assembly-Raw.md) — McConnell vd. (2026) · *bioRxiv (Cold Spring Harbor Laboratory)* · ön baskı / hakemsiz
-- [Metabolic Engineering of Yarrowia lipolytica to Enhance Erythritol Biosynthesis](Endustriyel-Biyoteknoloji/Metabolik-Muhendislik/Arastirmalar/2026-Sun-Metabolic-Engineering-Yarrowia-lipolytica.md) — Sun vd. (2026) · *ACS Omega* · hakemli
-- [Protocol for CRISPR-Cas9 gene editing of murine neutrophils for in vitro and in vivo mechanistic studies](Genetik-ve-Genomik/Genom-Muhendisligi/Gen-Duzenleme/CRISPR-Cas-Sistemleri/CRISPR-Cas9/Arastirmalar/2026-Siwicki-Protocol-for-CRISPR-Cas9.md) — Siwicki vd. (2026) · *STAR Protocols* · hakemli
+- [Epigenetic Plasticity Linking Drug Resistance and Immune Evasion in Ovarian Cancer: Mechanisms and Therapeutic Opportunities](Genetik-ve-Genomik/Epigenetik/Arastirmalar/2026-Kandi-Epigenetic-Plasticity-Linking-Drug.md) — Kandi vd. (2026) · *Cancers* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

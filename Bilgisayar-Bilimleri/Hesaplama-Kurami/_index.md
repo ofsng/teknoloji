@@ -81,7 +81,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **4**.
+Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **5**.
 
 - [From “Understanding” to “Learning Independently”: Cultivating Autonomous Learning Skills in Theory of Computation Course](Arastirmalar/2026-Wu-From-Understanding-Learning-Independently.md) — Wu vd. (2026) · *International Journal of Education and Humanities* · hakemli
 <!-- AUTO:RESEARCH:END -->
@@ -95,6 +95,7 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 
 - [Combinatorial Approach to Circuit Complexity: From Approximate Quantum Codes to Lieb-Schultz-Mattis Constraints](Hesaplamali-Karmasiklik-Teorisi/Devre-Karmasikligi/Arastirmalar/2026-Yi-Combinatorial-Approach-Circuit-Complexity.md) — Yi vd. (2026) · *Physical Review Letters* · hakemli · atıf: 7
 - [From “Understanding” to “Learning Independently”: Cultivating Autonomous Learning Skills in Theory of Computation Course](Arastirmalar/2026-Wu-From-Understanding-Learning-Independently.md) — Wu vd. (2026) · *International Journal of Education and Humanities* · hakemli
+- [FDE-based Modal Logics](Bilgisayar-Biliminde-Mantik/Kipsel-Mantik/Arastirmalar/2026-Standefer-FDE-based-Modal-Logics.md) — Standefer vd. (2026) · *Studia Logica* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

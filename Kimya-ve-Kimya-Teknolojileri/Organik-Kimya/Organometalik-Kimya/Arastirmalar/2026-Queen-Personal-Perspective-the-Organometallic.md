@@ -25,7 +25,7 @@ related_versions: []
 collected_at: 2026-11-27
 last_checked_at: 2026-11-27
 content_verified: false
-identifier_verified: false
+identifier_verified: crossref
 ---
 
 # A Personal Perspective on the Organometallic Chemistry of the Rare-Earth and Actinide Metals in Celebration of the 150th Anniversary of the American Chemical Society

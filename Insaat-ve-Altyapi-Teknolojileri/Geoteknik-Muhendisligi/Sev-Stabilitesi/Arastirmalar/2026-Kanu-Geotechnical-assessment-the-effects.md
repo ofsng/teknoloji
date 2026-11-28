@@ -25,7 +25,7 @@ related_versions: []
 collected_at: 2026-11-25
 last_checked_at: 2026-11-25
 content_verified: false
-identifier_verified: false
+identifier_verified: crossref
 ---
 
 # Geotechnical assessment of the effects of blast-induced ground vibrations on structural integrity and open-pit slope stability

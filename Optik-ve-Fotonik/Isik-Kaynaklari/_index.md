@@ -77,8 +77,9 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **1**, alt teknolojiler dahil: **3**.
+Arşivdeki kayıtlar — bu düğüm: **2**, alt teknolojiler dahil: **4**.
 
+- [Recombination processes and negative capacitance in organic light-emitting diodes](Arastirmalar/2026-Azuma-Recombination-processes-and-negative.md) — Azuma vd. (2026) · *Japanese Journal of Applied Physics* · hakemli
 - [Nondoped Blue and Two Color Hybrid White Organic Light Emitting Diodes Using a New Bipolar Blue Emitter](Arastirmalar/2026-Oh-Nondoped-Blue-and-Two.md) — Oh vd. (2026) · *Applied Sciences* · hakemli
 <!-- AUTO:RESEARCH:END -->
 
@@ -89,6 +90,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 <!-- AUTO:RECENT:BEGIN (otomatik; elle düzenlemeyin) -->
 Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç değildir):
 
+- [Recombination processes and negative capacitance in organic light-emitting diodes](Arastirmalar/2026-Azuma-Recombination-processes-and-negative.md) — Azuma vd. (2026) · *Japanese Journal of Applied Physics* · hakemli
 - [Nondoped Blue and Two Color Hybrid White Organic Light Emitting Diodes Using a New Bipolar Blue Emitter](Arastirmalar/2026-Oh-Nondoped-Blue-and-Two.md) — Oh vd. (2026) · *Applied Sciences* · hakemli
 - [Rational Selection of Hole Contacts with an Organic Light-Emitting Diode Industry p-Dopant for Fully Vacuum-Processed Perovskite/Silicon Tandems](Organik-Isik-Yayan-Diyotlar/Arastirmalar/2026-Moon-Rational-Selection-Hole-Contacts.md) — Moon vd. (2026) · *ACS Energy Letters* · hakemli
 - [Simulation of Electron Trapping in Polymer Light-Emitting Diodes](Isik-Yayan-Diyotlar/Arastirmalar/2026-Paltidis-Simulation-Electron-Trapping-Polymer.md) — Paltidis vd. (2026) · *ACS Omega* · hakemli

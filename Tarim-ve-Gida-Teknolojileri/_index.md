@@ -83,7 +83,7 @@ _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyi
 _Henüz doldurulmadı. Yalnızca doğrulanabilir kaynaklara dayanan bilgi ekleyin._
 
 <!-- AUTO:RESEARCH:BEGIN (otomatik; elle düzenlemeyin) -->
-Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **14**.
+Arşivdeki kayıtlar — bu düğüm: **0**, alt teknolojiler dahil: **15**.
 <!-- AUTO:RESEARCH:END -->
 
 ## 13. Güncel gelişmeler
@@ -96,11 +96,11 @@ Son 365 gündeki kayıtlar (alt teknolojiler dahil; yeni bulgular kesin sonuç d
 - [High-pressure processing (HPP) mitigation of physicochemical changes and biochemical degradation in vacuum-packed sardine fillets](Gida-Bilimi-ve-Teknolojisi/Gida-Isleme/Isil-Olmayan-Gida-Isleme/Yuksek-Basinc-Isleme/Arastirmalar/2026-Oliveira-High-pressure-processing-HPP.md) — Oliveira vd. (2026) · *Food Science and Technology International* · hakemli
 - [From Crop Residue to Groundwater: Quantifying the Transport Potential of Genetically Modified Crop-Derived Antibiotic Resistance Genes and RNA Interference Constructs in Soil](Bitki-Islahi/Genetigi-Degistirilmis-Bitkiler/Arastirmalar/2026-Contreras-From-Crop-Residue-Groundwater.md) — Contreras vd. (2026) · *ACS Agricultural Science & Technology* · hakemli
 - [EVALUATING IRRIGATION WATER DISTRIBUTION EFFICIENCY UNDER DRIP IRRIGATION SYSTEMS](Agronomi/Sulama-Teknolojisi/Damla-Sulama/Arastirmalar/2026-El-Fattah-EVALUATING-IRRIGATION-WATER-DISTRIBUTI.md) — El-Fattah vd. (2026) · *Misr journal of agricultural engineering* · hakemli
+- [Influence of Pilot-Scale Spray- and Freeze-Drying on the Compositional, Structural, and Functional Properties of Rapeseed Protein Concentrate](Gida-Bilimi-ve-Teknolojisi/Gida-Isleme/Gida-Kurutma/Arastirmalar/2026-Schumacher-Influence-Pilot-Scale-Spray.md) — Schumacher vd. (2026) · *Foods* · hakemli
 - [Silicate Solubilizing Microorganisms as Drivers of Soil Fertility and Plant Nutrition: Mechanisms, Plant Benefits and Critical Research Gaps](Agronomi/Toprak-Verimliligi/Arastirmalar/2026-Nalawade-Silicate-Solubilizing-Microorganisms-Dr.md) — Nalawade vd. (2026) · *South Asian Research Journal of Agriculture and Fisheries* · hakemli
 - [Precision and Speed Breeding: Transforming Crop Improvement and Strengthening Food Security](Bitki-Islahi/Hizli-Islah/Arastirmalar/2026-Saikia-Precision-and-Speed-Breeding.md) — Saikia vd. (2026) · *Journal of Advances in Biology & Biotechnology* · hakemli
 - [Host range evaluation of Verticillium nonalfalfae isolate Vert56 used for biological control of Ailanthus altissima : grapevine cultivars exhibit resistance](Agronomi/Bitki-Koruma/Biyolojik-Mucadele/Arastirmalar/2026-Dauth-Host-range-evaluation-Verticillium.md) — Dauth vd. (2026) · *Biocontrol Science and Technology* · hakemli
 - [Ammonia excretion dynamics of the silverside (Basilichthys microlepidotus) during the juvenile-to-adult grow-out phase, under different body sizes and stocking densities in a recirculating aquaculture system (RAS)](Su-Urunleri/Devridaimli-Su-Urunleri-Sistemleri/Arastirmalar/2026-Mendez-Ammonia-excretion-dynamics-the.md) — Mendez vd. (2026) · *Latin American Journal of Aquatic Research* · hakemli
-- [From Setpoints to System Dynamics: Integrating Light, CO2 and Fertigation in Controlled-Environment Agriculture](Kontrollu-Ortam-Tarimi/Arastirmalar/2026-Phaugat-From-Setpoints-System-Dynamics.md) — Phaugat vd. (2026) · *International Journal of Molecular Sciences* · hakemli
 <!-- AUTO:RECENT:END -->
 
 ## 14. Kaynaklar

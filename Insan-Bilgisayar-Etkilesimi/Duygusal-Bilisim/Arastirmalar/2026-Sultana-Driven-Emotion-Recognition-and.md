@@ -25,7 +25,7 @@ related_versions: []
 collected_at: 2026-11-27
 last_checked_at: 2026-11-27
 content_verified: false
-identifier_verified: false
+identifier_verified: crossref
 ---
 
 # AI-Driven Emotion Recognition and Decision-Making in Mental Health: Ethical and Psychological Implications for Early Detection and Human-Computer Interaction
